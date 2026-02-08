@@ -1,0 +1,17 @@
+[
+  { "name": "ProPublica", "url": "https://feeds.propublica.org/propublica/main" },
+  { "name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml" },
+  { "name": "PBS NewsHour", "url": "https://www.pbs.org/newshour/feeds/rss/politics" },
+  { "name": "CNN Politics", "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss" },
+  { "name": "NBC News", "url": "https://feeds.nbcnews.com/nbcnews/public/politics" },
+  { "name": "CBS News", "url": "https://www.cbsnews.com/latest/rss/politics" },
+  { "name": "ABC News", "url": "https://abcnews.go.com/abcnews/politicsheadlines" },
+  { "name": "Axios", "url": "https://api.axios.com/feed/" },
+  { "name": "The Hill", "url": "https://thehill.com/feed/" },
+  { "name": "Reuters", "url": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best" },
+  { "name": "Brennan Center", "url": "https://www.brennancenter.org/rss" },
+  { "name": "Just Security", "url": "https://www.justsecurity.org/feed/" },
+  { "name": "Democracy Docket", "url": "https://www.democracydocket.com/feed/" },
+  { "name": "CNBC Politics", "url": "https://www.cnbc.com/id/10000113/device/rss/rss.html" },
+  { "name": "Rolling Stone", "url": "https://www.rollingstone.com/politics/feed/" }
+]
