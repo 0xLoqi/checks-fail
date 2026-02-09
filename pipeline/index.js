@@ -133,7 +133,8 @@ Respond ONLY with valid JSON: {"score": N, "reason": "one sentence", "categories
         });
 
         const text = response.content[0].text.trim();
-        const parsed = JSON.parse(text);
+        const jsonStr = text.replace(/^```json?\n?/, '').replace(/\n?```$/, '');
+        const parsed = JSON.parse(jsonStr);
         return {
           ...article,
           significance: parsed.score,
