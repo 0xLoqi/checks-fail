@@ -2784,8 +2784,372 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-09T12:11:48.727Z"
+    },
+    {
+      "id": "507068b954f7",
+      "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
+      "source": "NPR Politics",
+      "published": "2026-02-09T13:13:38.000Z",
+      "description": "Japan's first female Prime Minister, Sanae Takaichi, brought the ruling Liberal Democratic Party its biggest-ever electoral victory, fueling her ambitions to pursue to a political agenda which she says could \"split public opinion.\"",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:58.020Z"
+    },
+    {
+      "id": "08a0def81d50",
+      "title": "Members of Congress to View Unredacted Jeffrey Epstein Files",
+      "url": "https://www.today.com/video/epstein-survivors-use-super-bowl-ad-to-demand-transparency-257372229739",
+      "source": "NBC News",
+      "published": "2026-02-09T12:31:05.000Z",
+      "description": "The Justice Department will begin allowing members of Congress to view unredacted copies of its millions of files on the late convicted sex offender Jeffrey Epstein. It comes as a group of Epstein survivors are hoping a high-profile public service announcement in the Super Bowl will lead to more transparency.  NBC’s Ryan Nobles reports for TODAY.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:58.446Z"
+    },
+    {
+      "id": "24fbdc4b2bd3",
+      "title": "Face the Nation: Omar, Vinograd, Krebs",
+      "url": "https://www.cbsnews.com/video/face-the-nation-omar-vinograd-krebs/",
+      "source": "CBS News",
+      "published": "2026-02-09T15:52:49.000Z",
+      "description": "Missed the second half of the show? The latest on...Dem. Rep. Ilhan Omar says that as the Trump administration has steamrolled forward with executive orders to dismantle USAID and the Department of Education as well accessing the Treasury Department records because the president doesn't \"have the support\" among Republicans in Congress, amid the Trump administration's bureaucratic overhaul, CBS News Justice Department correspondent Scott MacFarlane, chief legal correspondent Jan Crawford, CBS New",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "cybersecurity",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:58.048Z"
+    },
+    {
+      "id": "c5199b816560",
+      "title": "6/16: The Takeout: Steve Coll",
+      "url": "https://www.cbsnews.com/video/616-the-takeout-steve-coll/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:16.000Z",
+      "description": "Author and journalist Steve Coll talks about the complicated relationship between the U.S. government and Saddam Hussein, and how events in 1979 shaped future events like the Sept. 11 attacks and the Iraq war.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:59.388Z"
+    },
+    {
+      "id": "652eeed75aed",
+      "title": "6/30: The Takeout: Steven Brill",
+      "url": "https://www.cbsnews.com/video/630-the-takeout-steven-brill/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:13.000Z",
+      "description": "Author and journalist Steven Brill joins \"The Takeout\" to discuss the real-world dangers of disinformation and his work to combat it. Brill discusses the importance of distinguishing fact from opinion, and whether truth can win out in the modern media landscape.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:59.575Z"
+    },
+    {
+      "id": "bfb89ce7103e",
+      "title": "5/5: The Takeout: David Sanger",
+      "url": "https://www.cbsnews.com/video/55-the-takeout-david-sanger/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:44:59.000Z",
+      "description": "Journalist and author David Sanger joins Major Garrett to discuss his new book \"New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West,\" which details the myriad of challenges the U.S. faces in positioning itself as the leader of the free world amid conflicts around the globe.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:59.691Z"
+    },
+    {
+      "id": "730a2f00ef70",
+      "title": " Masks emerge as symbol of Trump's ICE crackdown and a flashpoint in Congress",
+      "url": "https://abcnews.go.com/Politics/wireStory/masks-emerge-symbol-trumps-ice-crackdown-flashpoint-congress-129986936",
+      "source": "ABC News",
+      "published": "2026-02-09T12:53:49.000Z",
+      "description": "The images of masked federal officers has become a flashpoint in the Trump administration’s immigration enforcement operations",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T15:59:59.512Z"
+    },
+    {
+      "id": "15b8abcf19d4",
+      "title": " Man pardoned in U.S. Capitol riot pleads guilty to threatening Hakeem Jeffries",
+      "url": "https://abcnews.go.com/Politics/wireStory/man-pardoned-us-capitol-riot-pleads-guilty-threatening-129904890",
+      "source": "ABC News",
+      "published": "2026-02-06T03:58:36.000Z",
+      "description": "A New York man has pleaded guilty to a misdemeanor harassment charge in connection with a death threat aimed at U.S. House Minority Leader Hakeem Jeffries",
+      "keywords": [
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:00.480Z"
+    },
+    {
+      "id": "75d0a60c6681",
+      "title": " Chinese national who exposed rights abuses is freed from US detention after being granted asylum",
+      "url": "https://abcnews.go.com/Politics/wireStory/chinese-national-exposed-rights-abuses-freed-us-detention-129867068",
+      "source": "ABC News",
+      "published": "2026-02-05T00:53:49.000Z",
+      "description": "Guan Heng, a Chinese asylum seeker who exposed human rights abuses in his homeland, has been released after more than five months in federal detention",
+      "keywords": [
+        "detention",
+        "asylum"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:01.411Z"
+    },
+    {
+      "id": "36a39e48aa85",
+      "title": "Trump attacks the media to hide the truth",
+      "url": "https://thehill.com/opinion/white-house/5726594-trump-attacks-media-democracy/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:30:00.000Z",
+      "description": "Trump’s legendary hostility to any media that is not fawning or submissive is a danger to our freedom.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:01.651Z"
+    },
+    {
+      "id": "0b31861a71bc",
+      "title": "Search for Nancy Guthrie enters second week",
+      "url": "https://thehill.com/homenews/state-watch/5729581-search-for-nancy-guthrie/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:19:09.000Z",
+      "description": "The search for Nancy Guthrie has entered its second week as investigators have yet to identify suspects tied to the disappearance of the 84-year-old. The FBI and the Pima County Sheriff’s Department are co-leading the probe into Guthrie’s abrupt absence. She was last seen at her home near Tucson, Ariz., on the evening of Jan.…",
+      "keywords": [
+        "FBI",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:01.400Z"
+    },
+    {
+      "id": "741ee2211c11",
+      "title": "New body-worn camera video shows police response to Brown University shooting",
+      "url": "https://thehill.com/homenews/state-watch/5729461-new-body-worn-camera-video-shows-police-response-to-brown-university-shooting/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:00:57.000Z",
+      "description": "New body-worn camera video from one of the Providence police officers who responded to the deadly Brown University shooting on Dec. 13 has been released to the public.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:01.325Z"
+    },
+    {
+      "id": "d173cf3cf39f",
+      "title": "Trump says he’s ‘proud’ of US economy",
+      "url": "https://thehill.com/homenews/administration/5729492-trump-praises-economy-gdp/",
+      "source": "The Hill",
+      "published": "2026-02-09T14:58:01.000Z",
+      "description": "President Trump praised the country’s economy under his leadership during an interview released on Sunday. “I’d say we’re there now,” Trump told NBC News’s Tom Llamas. “I’m very proud of it.” The president went on to say that the gross domestic product (GDP) has grown by 5.6 percent under his watch. GDP growth hit 4.4…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:01.273Z"
+    },
+    {
+      "id": "0cb931961a05",
+      "title": "Schiff: Trump planning to ‘subvert’ midterms",
+      "url": "https://thehill.com/homenews/senate/5729500-schiff-warns-trump-voter-suppression/",
+      "source": "The Hill",
+      "published": "2026-02-09T14:53:25.000Z",
+      "description": "Sen. Adam Schiff (D-Calif.) on Sunday said President Trump is attempting to “subvert” midterm elections after a recent FBI raid at an election warehouse in Georgia. “I think [Trump] intends to try to subvert the elections. He will do everything he can to suppress the vote,” Schiff said during an appearance on ABC News’ “This…",
+      "keywords": [
+        "election",
+        "midterm",
+        "FBI",
+        "raid",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:03.173Z"
+    },
+    {
+      "id": "61c5d1be74d7",
+      "title": "Epstein scandal: Unlocking secrets of power abuse",
+      "url": "https://thehill.com/opinion/white-house/5728394-gop-silence-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-09T14:30:00.000Z",
+      "description": "The Epstein scandal is still relevant as the midterms approach, as it reveals the way power is structured and operates, and many Republicans in Congress are refusing to release the files on the harm done to young women by Epstein.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:03.141Z"
+    },
+    {
+      "id": "4904a524c379",
+      "title": "Graham, others post pictures from Trump’s Super Bowl watch party",
+      "url": "https://thehill.com/homenews/administration/5729459-graham-others-post-pictures-from-trumps-super-bowl-watch-party/",
+      "source": "The Hill",
+      "published": "2026-02-09T14:16:35.000Z",
+      "description": "President Trump hosted a Super Bowl watch party attended by GOP lawmakers at his Mar-a-Lago resort to celebrate the culmination of football season.  Republican Sens. Lindsey Graham (S.C.) and Eric Schmitt (Mo.) were among those in attendance at the event in Florida to watch the faceoff between the New England Patriots and Seattle Seahawks. “Enjoying…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:03.601Z"
+    },
+    {
+      "id": "7c42fa95e362",
+      "title": "Live updates: Bad Bunny Super Bowl fallout; DHS funding battle; Maxwell stays mum in Epstein probe",
+      "url": "https://thehill.com/homenews/administration/5728527-live-updates-trump-dhs-funding-maxwell-epstein-probe/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:52:51.000Z",
+      "description": "The Department of Homeland Security (DHS) is back in the spotlight Monday, with Congress staring down another funding lapse deadline as bipartisan talks fizzle. With funding drying up at the end of the week, lawmakers are gearing up for a tough fight as Democrats dig in on 10 “guardrails” they want Congress to enact, and…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:02.599Z"
+    },
+    {
+      "id": "1ee88358bbd2",
+      "title": "Bad Bunny Super Bowl show makes waves on both sides of political aisle",
+      "url": "https://thehill.com/homenews/5729408-bad-bunny-halftime-show-controversy/",
+      "source": "The Hill",
+      "published": "2026-02-09T13:39:56.000Z",
+      "description": "Bad Bunny’s Super Bowl halftime show made waves with lawmakers on both sides of the political aisle with some touting him as representing the American dream and others condemning his show, performed almost entirely in Spanish. “Thank you @sanbenito for taking the California stage and using your voice at #SuperBowl LX. A beautiful moment! Together,…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:02.916Z"
+    },
+    {
+      "id": "a13ec0279afb",
+      "title": "How weak are Republicans for the midterms? Likely less than you think.",
+      "url": "https://thehill.com/opinion/campaign/5726716-trump-republicans-house-control/",
+      "source": "The Hill",
+      "published": "2026-02-09T13:30:00.000Z",
+      "description": "The chances for a blue wave may not be as strong as assumed.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:04.929Z"
+    },
+    {
+      "id": "844c1f272c0c",
+      "title": "To save democracy, elect a Congress that will impeach Trump, add more justices",
+      "url": "https://thehill.com/opinion/white-house/5726969-trump-impeachment-restore-constitutional-faith/",
+      "source": "The Hill",
+      "published": "2026-02-09T13:00:00.000Z",
+      "description": "Trump is producing chaos, confusion and instability — with new outrages nearly every day.",
+      "keywords": [
+        "ICE",
+        "impeach",
+        "trump",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:05.534Z"
+    },
+    {
+      "id": "f309394c55b2",
+      "title": "Puerto Rican statehood is a national security no-brainer",
+      "url": "https://thehill.com/opinion/international/5726763-puerto-rican-statehood-is-a-national-security-no-brainer/",
+      "source": "The Hill",
+      "published": "2026-02-09T12:30:00.000Z",
+      "description": "Last month’s daring capture of Venezuelan strongman Nicolas Maduro demonstrated the lengths to which the White House will go to execute on its vision of ensuring American security and shaping the country’s role in the Western Hemisphere. Beyond putting Maduro’s reign to an end, the operation sent a message to the rest of the region:…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:04.856Z"
+    },
+    {
+      "id": "fcc44d89d3f8",
+      "title": "Congressman joins anti-ICE protest at Super Bowl",
+      "url": "https://thehill.com/homenews/state-watch/5729240-super-bowl-ice-protest/",
+      "source": "The Hill",
+      "published": "2026-02-09T12:08:19.000Z",
+      "description": "“The Super Bowl is in my district, but I was not in the suites,” Ro Khanna tweeted. “I was with activists in my district demanding no new funding for ICE.”",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:04.878Z"
+    },
+    {
+      "id": "7f61607fa3fa",
+      "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
+      "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
+      "source": "Rolling Stone",
+      "published": "2026-02-09T15:05:00.000Z",
+      "description": "Trump and his MAGA allies were predictably upset that a Spanish-speaking critic of the administration was given the stage",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:00:05.877Z"
     }
   ],
   "lastDigest": null,
-  "lastFetch": "2026-02-09T12:11:48.727Z"
+  "lastFetch": "2026-02-09T16:00:05.877Z"
 }
