@@ -2337,8 +2337,23 @@
       "reason": "This is entertainment commentary on a celebrity's opinion about a building renovation project, with no direct connection to democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:51:22.785Z"
+    },
+    {
+      "id": "eef5e49daeff",
+      "title": "Chinese and Russian decline could become global problems",
+      "url": "https://thehill.com/opinion/international/5728623-china-russia-decline-analysis/",
+      "source": "The Hill",
+      "published": "2026-02-09T18:00:00.000Z",
+      "description": "The White House too often exaggerates or ignores the real degrees of danger posed by perceived major threats of the time.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is geopolitical commentary about foreign policy threats with no direct connection to domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T18:15:14.177Z"
     }
   ],
   "lastDigest": "2026-02-09T17:56:26.759Z",
-  "lastFetch": "2026-02-09T17:51:23.997Z"
+  "lastFetch": "2026-02-09T18:15:14.177Z"
 }
