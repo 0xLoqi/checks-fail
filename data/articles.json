@@ -2521,8 +2521,271 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "955aeeb29ec2",
+      "title": "“I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility",
+      "url": "https://www.propublica.org/article/ice-dilley-children-letters",
+      "source": "ProPublica",
+      "published": "2026-02-09T10:25:00.000Z",
+      "description": "The post “I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility appeared first on ProPublica.",
+      "keywords": [
+        "ICE",
+        "detained"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.724Z"
+    },
+    {
+      "id": "bc478aa511cc",
+      "title": "The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia",
+      "url": "https://www.propublica.org/article/kevin-moncla-election-researcher-fulton-county-georgia",
+      "source": "ProPublica",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "The post The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia appeared first on ProPublica.",
+      "keywords": [
+        "election",
+        "FBI"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.724Z"
+    },
+    {
+      "id": "79481e253d7d",
+      "title": "Rep. Raja Krishnamoorthi, D-Ill., talks abut the deposition of Ghislaine Maxwell",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5704298/rep-raja-krishnamoorthi-d-ill-talks-abut-the-deposition-of-ghislaine-maxwell",
+      "source": "NPR Politics",
+      "published": "2026-02-09T11:48:49.000Z",
+      "description": "NPR's Leila Fadel talks to House Oversight Committee member Rep. Raja Krishnamoorthi, D-Ill., about the deposition Jeffrey Epstein accomplice, Ghislaine Maxwell.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.725Z"
+    },
+    {
+      "id": "3807252d97c9",
+      "title": "5 glaring warning signs for Republicans in this year's midterm elections",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5704794/trump-house-of-representatives-republicans-midterm-elections",
+      "source": "NPR Politics",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "Here's why Republicans are facing an uphill battle, particularly for retaining control of the House.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.725Z"
+    },
+    {
+      "id": "8727603cc1e8",
+      "title": "Crackdown on dissent after nationwide protests in Iran widens to ensnare reformist figures",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5706524/crackdown-on-dissent-after-nationwide-protests-in-iran-widens-to-ensnare-reformist-figures",
+      "source": "NPR Politics",
+      "published": "2026-02-09T09:04:44.000Z",
+      "description": "Detained Nobel Peace Prize laureate Narges Mohammadi has received another prison sentence of over seven years.",
+      "keywords": [
+        "detained"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.725Z"
+    },
+    {
+      "id": "ce285546d8a5",
+      "title": "Border czar warned immigration operations should be targeted or risk losing public support",
+      "url": "https://www.nbcnews.com/politics/immigration/border-czar-warned-immigration-operations-targeted-keep-faith-american-rcna257608",
+      "source": "NBC News",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "Long before border czar Tom Homan took over in Minneapolis, he warned that a targeted approach to immigration enforcement would be needed to “keep the faith of the American people.”Any immigrant in the U.S. illegally can be arrested and deported, but Homan, who has served as a Homeland Security official under the Obama and both Trump administrations, has long said immigrants who have committed additional crimes should be prioritized for arrest and deportation",
+      "keywords": [
+        "immigration",
+        "homan",
+        "deportation",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.725Z"
+    },
+    {
+      "id": "9b9b927676ac",
+      "title": "State officials say the Trump administration has been absent on election security",
+      "url": "https://www.nbcnews.com/politics/elections/state-officials-say-trump-administration-election-security-rcna257031",
+      "source": "NBC News",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "State election officials got an unusual invitation from the Trump administration last week: a late February call about midterm preparations organized by the FBI",
+      "keywords": [
+        "election",
+        "midterm",
+        "FBI",
+        "election security",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "a932f8280f29",
+      "title": "Less than 14% of those ICE arrested had violent criminal records, data show",
+      "url": "https://www.cbsnews.com/news/ice-arrests-violent-criminal-records-trump-first-year/",
+      "source": "CBS News",
+      "published": "2026-02-09T09:00:00.000Z",
+      "description": "The official DHS statistics, which had not been previously reported, provide the most detailed look yet into who ICE has arrested during the Trump administration's crackdown.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "3c5c131490b9",
+      "title": " Judge rejects Democrats’ plea for early voting sites at 3 North Carolina universities",
+      "url": "https://abcnews.go.com/Politics/wireStory/judge-rejects-democrats-plea-early-voting-sites-3-129975543",
+      "source": "ABC News",
+      "published": "2026-02-09T01:33:41.000Z",
+      "description": "A federal judge has refused to help in attempts to open early voting sites at three public North Carolina universities",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "fa4db24680de",
+      "title": "Homeowners are holding onto their houses for a record-long stretch",
+      "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
+      "source": "Axios",
+      "published": "2026-02-09T10:40:05.000Z",
+      "description": "Data: ATTOM; Chart: Axios Visuals\nU.S. homeowners are staying in their houses for the longest time in at least 25 years, largely thanks to their low mortgage rates, data shows.\nWhy it matters: That — along with still-high home prices and tight inventory — is keeping the housing market on ice.\n\nThe big picture: Sellers at the end of 2025 had owned their homes for an average of 8.6 years — a record in data going back to early 2000, when the average was 4.2 years.\nWhat we're hearing: Homeowner tenu",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "3f74aec6f0b0",
+      "title": "People are using AI for legal advice and it's driving lawyers bananas",
+      "url": "https://www.axios.com/2026/02/09/ai-chatgpt-lawyer-legal-help",
+      "source": "Axios",
+      "published": "2026-02-09T10:00:07.000Z",
+      "description": "AI promises to make work more productive for lawyers, but there's a problem: Their clients are using it, too.\nWhy it matters: The rise of AI is creating new headaches for attorneys: They're worried about the fate of the billable hour, a reliable profit center for aeons, and are perturbed by clients getting bad legal advice from chatbots.\n\nZoom in: \"It's like the WebMD effect on steroids,\" says Dave Jochnowitz, a partner at the law firm Outten & Golden, referring to how medical websites can give ",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "0545e63df14f",
+      "title": "Crypto revolt exposes fragility of Trump's coalition",
+      "url": "https://www.axios.com/2026/02/09/crypto-bitcoin-trump-backlash",
+      "source": "Axios",
+      "published": "2026-02-09T10:00:06.000Z",
+      "description": "Trillions of dollars in value have been vaporized from global crypto markets since October, plunging an ascendant industry championed by President Trump into a new bout of turmoil.\nWhy it matters: Crypto joins a growing list of MAGA coalition partners — from Epstein-focused populists to farmers to Latino men — now questioning whether Trump's return to power has delivered what they were promised.\n\nZoom in: The hyper-online, male-dominated crypto space embraced Trump's vision for a crypto \"Golden ",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "immigration",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "fb97749c5fd2",
+      "title": "Bad Bunny steers clear of politics, Trump rages after Super Bowl halftime show",
+      "url": "https://thehill.com/homenews/5727171-bad-bunny-super-bowl-donald-trump/",
+      "source": "The Hill",
+      "published": "2026-02-09T11:30:04.000Z",
+      "description": "Pop star Bad Bunny’s performance during halftime of Super Bowl LX is being received by many as a dramatic and unique expression of Latin culture around the world but is angering President Trump and other conservatives who say the show fell flat for them.   The highly anticipated performance came midway through a defensive struggle in San Francisco that ended with the Seattle Seahawks taking home the Lombardi Trophy and capping a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.726Z"
+    },
+    {
+      "id": "89a3e8a53b25",
+      "title": "ICE fight puts Collins on defensive in Maine Senate race",
+      "url": "https://thehill.com/homenews/campaign/5727186-maine-senate-collins-ice/",
+      "source": "The Hill",
+      "published": "2026-02-09T11:00:00.000Z",
+      "description": "The surge of Immigration and Customs Enforcement (ICE) officers in Maine last month has put Sen. Susan Collins (R-Maine) on the defensive in a reelection campaign that is causing growing GOP heartburn.  Collins has touted her seemingly successful efforts to scale back ICE presence in Maine, which drew immediate protests in the state’s two biggest…",
+      "keywords": [
+        "election",
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.727Z"
+    },
+    {
+      "id": "f2b674054584",
+      "title": "GOP senators come to Miller’s defense after colleagues call for White House shakeup",
+      "url": "https://thehill.com/homenews/senate/5727227-gop-senators-support-miller/",
+      "source": "The Hill",
+      "published": "2026-02-09T11:00:00.000Z",
+      "description": "Republican senators led by Sen. Lindsey Graham (R-S.C.) are coming to senior White House aide Stephen Miller’s defense after some of their GOP colleagues called for a White House shakeup. GOP senators rattled over their party’s prospects in the midterms and unhappy with Miller’s public comments on Greenland and immigration enforcement view the deputy White…",
+      "keywords": [
+        "midterm",
+        "immigration",
+        "miller",
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.727Z"
+    },
+    {
+      "id": "4673cd3b2ade",
+      "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
+      "url": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T12:04:43.000Z",
+      "description": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T12:11:48.727Z"
     }
   ],
   "lastDigest": null,
-  "lastFetch": "2026-02-09T06:21:27.356Z"
+  "lastFetch": "2026-02-09T12:11:48.727Z"
 }
