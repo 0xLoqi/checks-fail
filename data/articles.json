@@ -37,7 +37,8 @@
         "election infrastructure",
         "political retribution"
       ],
-      "scoredAt": "2026-02-09T17:49:33.027Z"
+      "scoredAt": "2026-02-09T17:49:33.027Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "7dc16f3c61e5",
@@ -653,7 +654,8 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-09T17:49:53.862Z"
+      "scoredAt": "2026-02-09T17:49:53.862Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "30b223dbcc17",
@@ -1320,7 +1322,8 @@
         "judicial independence",
         "political retribution"
       ],
-      "scoredAt": "2026-02-09T17:50:21.701Z"
+      "scoredAt": "2026-02-09T17:50:21.701Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "fa4db24680de",
@@ -1460,7 +1463,8 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-09T17:50:26.318Z"
+      "scoredAt": "2026-02-09T17:50:26.318Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "2a1e295f3d8b",
@@ -1998,7 +2002,8 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-09T17:51:08.324Z"
+      "scoredAt": "2026-02-09T17:51:08.324Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "d54c0b5f2da2",
@@ -2053,7 +2058,8 @@
         "political retribution",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-09T17:51:10.116Z"
+      "scoredAt": "2026-02-09T17:51:10.116Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "23e5f832e9de",
@@ -2073,7 +2079,8 @@
         "political retribution",
         "corruption & self-dealing"
       ],
-      "scoredAt": "2026-02-09T17:51:10.025Z"
+      "scoredAt": "2026-02-09T17:51:10.025Z",
+      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "5eed1b1b7d1a",
@@ -2332,6 +2339,6 @@
       "scoredAt": "2026-02-09T17:51:22.785Z"
     }
   ],
-  "lastDigest": null,
+  "lastDigest": "2026-02-09T17:56:26.759Z",
   "lastFetch": "2026-02-09T17:51:23.997Z"
 }
