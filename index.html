@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>checks.fail — U.S. Democracy Status Page</title>
 <meta name="description" content="Comprehensive status page tracking U.S. democratic checks and balances. 12 categories. 200+ sourced events. Every claim linked to its source. February 2026.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚨</text></svg>">
 <style>
   @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes pulse { 0%,100% { box-shadow: 0 0 0 0 rgba(220,38,38,0.5); } 50% { box-shadow: 0 0 0 10px rgba(220,38,38,0); } }
@@ -42,7 +43,7 @@
   }
 
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
+  html { scroll-behavior: smooth; zoom: 1.25; }
 
   body {
     background: var(--bg);
@@ -61,7 +62,7 @@
   a { color: var(--link); text-decoration: none; transition: color 0.15s; }
   a:hover { color: #93b0e8; text-decoration: underline; }
 
-  .wrap { max-width: 900px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 3rem 1.5rem 4rem; padding-bottom: 70px; }
 
   /* ─── HERO ─── */
   .hero {
@@ -99,35 +100,6 @@
   .hero-meta span {
     background: var(--surface); padding: 3px 10px;
     border-radius: 4px; border: 1px solid var(--border);
-  }
-
-  /* ─── STATUS BANNER ─── */
-  .banner {
-    background: linear-gradient(135deg, var(--red-glow), rgba(220,38,38,0.02));
-    border: 1px solid var(--red-border); border-radius: 8px;
-    padding: 1.1rem 1.5rem; margin-bottom: 3rem;
-    display: flex; align-items: center; gap: 1rem;
-    animation: fadeUp 0.5s ease-out 0.08s both;
-  }
-  .banner-pulse {
-    width: 14px; height: 14px; background: var(--red);
-    border-radius: 50%; flex-shrink: 0;
-    animation: pulse 2s ease-in-out infinite;
-  }
-  .banner-text { flex: 1; }
-  .banner-title {
-    font-family: var(--mono); font-size: 0.85rem;
-    font-weight: 700; color: var(--red); letter-spacing: -0.01em;
-  }
-  .banner-detail { font-size: 0.78rem; color: var(--text-dim); margin-top: 2px; }
-  .banner-count {
-    font-family: var(--mono); font-size: 1.8rem;
-    font-weight: 800; color: var(--red); line-height: 1; flex-shrink: 0;
-  }
-  .banner-count small {
-    display: block; font-size: 0.52rem; font-weight: 500;
-    color: var(--text-dim); text-transform: uppercase;
-    letter-spacing: 0.1em; margin-top: 3px;
   }
 
   /* ─── SECTION LABELS ─── */
@@ -442,9 +414,11 @@
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
   }
-  .htl::-webkit-scrollbar { height: 3px; }
-  .htl::-webkit-scrollbar-track { background: transparent; }
-  .htl::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 2px; }
+  .htl { scrollbar-width: auto; scrollbar-color: var(--border-bright) transparent; }
+  .htl::-webkit-scrollbar { height: 10px; }
+  .htl::-webkit-scrollbar-track { background: var(--surface); border-radius: 5px; }
+  .htl::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 5px; }
+  .htl::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
   .htl-hint {
     font-family: var(--mono); font-size: 0.55rem;
     color: var(--text-dim); margin-bottom: 0.5rem; text-align: right;
@@ -645,15 +619,16 @@
     position: relative;
     transform: translateY(20px) scale(0.97);
     transition: transform 0.25s ease-out;
-    scrollbar-width: thin;
+    scrollbar-width: auto;
     scrollbar-color: var(--border-bright) transparent;
   }
   .modal-bg.active .modal-panel {
     transform: translateY(0) scale(1);
   }
-  .modal-panel::-webkit-scrollbar { width: 5px; }
-  .modal-panel::-webkit-scrollbar-track { background: transparent; }
-  .modal-panel::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 3px; }
+  .modal-panel::-webkit-scrollbar { width: 10px; }
+  .modal-panel::-webkit-scrollbar-track { background: var(--surface); border-radius: 5px; }
+  .modal-panel::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 5px; }
+  .modal-panel::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
 
   .modal-x {
     position: sticky; top: 0; z-index: 2;
@@ -882,6 +857,32 @@
     font-size: 0.82rem; color: var(--text-dim); line-height: 1.6;
     max-width: 500px; margin: 0 auto 1.25rem;
   }
+  .sub-streams {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+    margin-bottom: 1.5rem; text-align: left;
+  }
+  .sub-stream {
+    background: var(--bg); border: 1px solid var(--border);
+    border-radius: 6px; padding: 1rem 1.1rem;
+  }
+  .sub-stream-label {
+    font-family: var(--mono); font-size: 0.5rem;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--amber); margin-bottom: 0.3rem;
+  }
+  .sub-stream-name {
+    font-family: var(--serif); font-size: 0.85rem;
+    color: var(--text-white); font-weight: 700; margin-bottom: 0.3rem;
+  }
+  .sub-stream-desc {
+    font-size: 0.7rem; color: var(--text-dim); line-height: 1.5;
+  }
+  .sub-stream-freq {
+    font-family: var(--mono); font-size: 0.45rem;
+    color: var(--text-dim); margin-top: 0.5rem;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    opacity: 0.7;
+  }
   .signup-btn {
     display: inline-block;
     background: var(--green); color: #000; border: none; border-radius: 6px;
@@ -895,6 +896,17 @@
     font-family: var(--mono); font-size: 0.52rem;
     color: var(--text-dim); opacity: 0.6;
   }
+  .sub-embed {
+    margin-top: 1.25rem; padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+  }
+  .sub-embed iframe {
+    border-radius: 6px; max-width: 100%;
+  }
+  .sub-powered {
+    font-family: var(--mono); font-size: 0.45rem;
+    color: var(--text-dim); opacity: 0.5; margin-top: 0.5rem;
+  }
 
   @media (max-width: 600px) {
     .livebar-inner { padding: 5px 1rem; gap: 8px; }
@@ -903,6 +915,252 @@
   @media (max-width: 420px) {
     .signup-btn { width: 100%; text-align: center; }
   }
+
+  /* ─── STICKY FOOTER SUBSCRIBE BAR ─── */
+  .sticky-sub {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 99;
+    background: rgba(5,5,5,0.97);
+    backdrop-filter: blur(12px);
+    border-top: 1px solid var(--border-bright);
+    padding: 0 1.5rem;
+    transform: translateY(0);
+    transition: transform 0.3s ease;
+  }
+  .sticky-sub.hidden { transform: translateY(100%); }
+  .sticky-sub-inner {
+    max-width: 900px; margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 10px 0; gap: 1rem;
+  }
+  .sticky-sub-status {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-family: var(--mono); font-size: 0.65rem; font-weight: 700;
+    color: var(--red); letter-spacing: 0.04em;
+    text-transform: uppercase; white-space: nowrap;
+  }
+  .sticky-sub-dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--red);
+    animation: blink 1.4s ease-in-out infinite; flex-shrink: 0;
+  }
+  .sticky-sub-sep {
+    width: 1px; height: 16px; background: var(--border-bright); flex-shrink: 0;
+  }
+  .sticky-sub-actions { display: flex; align-items: center; gap: 0.75rem; flex-shrink: 0; }
+  .sticky-sub-btn {
+    display: inline-block;
+    background: var(--green); color: #000; border: none; border-radius: 5px;
+    padding: 6px 16px; font-family: var(--mono); font-size: 0.65rem;
+    font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+    cursor: pointer; transition: all 0.2s; text-decoration: none;
+  }
+  .sticky-sub-btn:hover { background: #22c55e; color: #000; text-decoration: none; transform: translateY(-1px); }
+  .sticky-sub-x {
+    background: none; border: 1px solid var(--border); color: var(--text-dim);
+    width: 26px; height: 26px; border-radius: 4px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem; transition: all 0.15s; line-height: 1;
+  }
+  .sticky-sub-x:hover { color: var(--text-white); border-color: var(--border-bright); }
+
+  /* ─── WELCOME MODAL ─── */
+  .welcome-bg {
+    position: fixed; inset: 0; z-index: 1100;
+    background: rgba(0,0,0,0.85);
+    backdrop-filter: blur(8px);
+    display: flex; align-items: center; justify-content: center;
+    padding: 1.5rem;
+    opacity: 0; visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+  }
+  .welcome-bg.active { opacity: 1; visibility: visible; }
+  .welcome-panel {
+    background: #0a0a0a;
+    border: 1px solid var(--border-bright);
+    border-radius: 12px;
+    max-width: 520px; width: 100%;
+    position: relative; overflow: hidden;
+    transform: translateY(20px) scale(0.97);
+    transition: transform 0.3s ease-out;
+  }
+  .welcome-bg.active .welcome-panel { transform: translateY(0) scale(1); }
+  .welcome-panel::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px; background: linear-gradient(90deg, var(--red), var(--amber), var(--red));
+  }
+  .welcome-body {
+    padding: 2.5rem 2.25rem 1.75rem; text-align: center;
+  }
+  .welcome-title {
+    font-family: var(--serif); font-size: 1.5rem;
+    font-weight: 700; color: var(--text-white);
+    letter-spacing: -0.02em; margin-bottom: 0.35rem;
+  }
+  .welcome-title .fail { color: var(--red); }
+  .welcome-subtitle {
+    font-family: var(--mono); font-size: 0.6rem;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--red); margin-bottom: 1.25rem;
+  }
+  .welcome-text {
+    font-size: 0.88rem; color: var(--text); line-height: 1.7;
+    margin-bottom: 1.5rem; text-align: left;
+  }
+  .welcome-text strong { color: var(--text-white); }
+  .welcome-stats {
+    display: flex; gap: 1px; margin-bottom: 1.5rem;
+    background: var(--border); border-radius: 6px; overflow: hidden;
+  }
+  .welcome-stat {
+    flex: 1; padding: 0.75rem 0.5rem;
+    background: var(--surface); text-align: center;
+  }
+  .welcome-stat-val {
+    font-family: var(--mono); font-size: 1.1rem;
+    font-weight: 800; color: var(--red); line-height: 1;
+    margin-bottom: 0.2rem;
+  }
+  .welcome-stat-val.av { color: var(--amber); }
+  .welcome-stat-label {
+    font-family: var(--mono); font-size: 0.5rem;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--text-dim);
+  }
+  .welcome-actions {
+    display: flex; gap: 8px; justify-content: center;
+  }
+  .welcome-enter {
+    background: var(--surface-2); color: var(--text-bright);
+    border: 1px solid var(--border-bright); border-radius: 6px;
+    padding: 0.65rem 1.75rem; font-family: var(--mono); font-size: 0.7rem;
+    font-weight: 600; cursor: pointer; transition: all 0.2s;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .welcome-enter:hover { background: var(--surface-hover); border-color: var(--text-dim); }
+  .welcome-sub {
+    background: var(--green); color: #000;
+    border: none; border-radius: 6px;
+    padding: 0.65rem 1.75rem; font-family: var(--mono); font-size: 0.7rem;
+    font-weight: 700; cursor: pointer; transition: all 0.2s;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    text-decoration: none;
+  }
+  .welcome-sub:hover { background: #22c55e; color: #000; text-decoration: none; transform: translateY(-1px); }
+  .welcome-dismiss-opt {
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    margin-top: 1rem; cursor: pointer;
+    font-family: var(--mono); font-size: 0.5rem;
+    color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.06em;
+    user-select: none;
+  }
+  .welcome-dismiss-opt input[type="checkbox"] {
+    width: 12px; height: 12px; accent-color: var(--text-dim);
+    cursor: pointer;
+  }
+  .welcome-dismiss-opt:hover { color: var(--text); }
+  .welcome-foot {
+    padding: 0.75rem 2.25rem; border-top: 1px solid var(--border);
+    font-family: var(--mono); font-size: 0.5rem;
+    color: var(--text-dim); text-align: center; opacity: 0.6;
+  }
+
+  /* ─── INCIDENT LOG COLLAPSE ─── */
+  .inc-overflow {
+    position: relative; max-height: 0; overflow: hidden;
+    transition: max-height 0.4s ease;
+  }
+  .inc-overflow.open { max-height: 5000px; }
+  .inc-overflow::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 60px; z-index: 1; pointer-events: none;
+    background: linear-gradient(to bottom, rgba(5,5,5,0.9), transparent);
+    transition: opacity 0.3s;
+  }
+  .inc-overflow.open::before { opacity: 0; }
+  .inc-fade {
+    position: relative;
+  }
+  .inc-fade::after {
+    content: ''; position: absolute; bottom: 0; left: 0; right: 0;
+    height: 48px; pointer-events: none;
+    background: linear-gradient(to bottom, transparent, var(--bg));
+    transition: opacity 0.3s;
+  }
+  .incidents.expanded .inc-fade::after { opacity: 0; }
+  .inc-toggle {
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    width: 100%; padding: 0.6rem 0; margin-top: 0.25rem;
+    background: none; border: 1px solid var(--border); border-radius: 6px;
+    font-family: var(--mono); font-size: 0.6rem;
+    color: var(--text-dim); cursor: pointer;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    transition: all 0.2s;
+  }
+  .inc-toggle:hover { border-color: var(--border-bright); color: var(--text); }
+  .inc-toggle-arrow {
+    transition: transform 0.25s; font-size: 0.5rem;
+  }
+  .incidents.expanded .inc-toggle-arrow { transform: rotate(180deg); }
+
+  /* ─── SYSTEM STATUS COLLAPSE ─── */
+  .chk-overflow {
+    position: relative; max-height: 0; overflow: hidden;
+    transition: max-height 0.4s ease;
+  }
+  .chk-overflow.open { max-height: 8000px; }
+  .chk-overflow::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 60px; z-index: 1; pointer-events: none;
+    background: linear-gradient(to bottom, rgba(5,5,5,0.9), transparent);
+    transition: opacity 0.3s;
+  }
+  .chk-overflow.open::before { opacity: 0; }
+  .chk-fade { position: relative; }
+  .chk-fade::after {
+    content: ''; position: absolute; bottom: 0; left: 0; right: 0;
+    height: 48px; pointer-events: none;
+    background: linear-gradient(to bottom, transparent, var(--bg));
+    transition: opacity 0.3s;
+  }
+  .checks.expanded .chk-fade::after { opacity: 0; }
+  .checks.expanded .chk-toggle-arrow { transform: rotate(180deg); }
+
+  /* ─── ADMIN COLLAPSE + SEARCH ─── */
+  .ops-overflow {
+    position: relative; max-height: 0; overflow: hidden;
+    transition: max-height 0.4s ease;
+  }
+  .ops-overflow.open { max-height: 5000px; }
+  .ops-overflow::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 60px; z-index: 1; pointer-events: none;
+    background: linear-gradient(to bottom, rgba(5,5,5,0.9), transparent);
+    transition: opacity 0.3s;
+  }
+  .ops-overflow.open::before { opacity: 0; }
+  .ops-fade { position: relative; }
+  .ops-fade::after {
+    content: ''; position: absolute; bottom: 0; left: 0; right: 0;
+    height: 48px; pointer-events: none;
+    background: linear-gradient(to bottom, transparent, var(--bg));
+    transition: opacity 0.3s;
+  }
+  .ops.expanded .ops-fade::after { opacity: 0; }
+  .ops.expanded .ops-toggle-arrow { transform: rotate(180deg); }
+  .admin-search { margin-bottom: 0.75rem; }
+  .admin-search input {
+    width: 100%; padding: 0.5rem 0.75rem;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+    font-family: var(--mono); font-size: 0.75rem;
+    color: var(--text); outline: none;
+    transition: border-color 0.2s;
+  }
+  .admin-search input:focus { border-color: var(--border-bright); }
+  .admin-search input::placeholder { color: var(--text-dim); }
+  .ops.search-active .ops-fade::after,
+  .ops.search-active .ops-overflow::before { opacity: 0; }
+  .ops.search-active .ops-overflow { max-height: 5000px; }
+  .ops.search-active .inc-toggle { display: none; }
+  .op.search-hidden { display: none; }
 
   /* ─── RESPONSIVE ─── */
   @media (max-width: 768px) {
@@ -917,14 +1175,25 @@
     .contrast-cols { grid-template-columns: 1fr; }
     .contrast-col:first-child { border-right: none; }
     .bp-people { flex-direction: column; }
+    .sub-streams { grid-template-columns: 1fr; }
   }
   @media (max-width: 420px) {
     .ops-grid { grid-template-columns: 1fr; }
-    .wrap { padding: 2rem 1rem 3rem; }
+    .wrap { padding: 2rem 1rem 3rem; padding-bottom: 70px; }
     .modal-bg { padding: 0.75rem; }
     .modal-head { padding: 0.25rem 1.25rem 1.25rem; gap: 1rem; }
     .modal-events { padding: 1rem 1.25rem 1.5rem; }
     .modal-foot { padding: 0.65rem 1.25rem; }
+    .welcome-bg { padding: 0.75rem; }
+    .welcome-body { padding: 1.75rem 1.25rem 1.25rem; }
+    .welcome-title { font-size: 1.25rem; }
+    .welcome-actions { flex-direction: column; }
+    .welcome-stat-val { font-size: 0.9rem; }
+  }
+  @media (max-width: 600px) {
+    .sticky-sub-status { font-size: 0.55rem; }
+    .sticky-sub-btn { padding: 5px 12px; font-size: 0.58rem; }
+    .sticky-sub-sep { display: none; }
   }
 </style>
 </head>
@@ -971,287 +1240,168 @@
   <div class="hero">
     <div class="hero-badge">Systems Degraded</div>
     <h1>checks.<span class="fail">fail</span></h1>
-    <p class="hero-sub">Real-time status of U.S. democratic checks and balances</p>
-    <p class="hero-meta"><span>Last updated: February 7, 2026</span></p>
+    <p class="hero-sub">12 systems monitored. 200+ sourced events. Every claim linked. Updated automatically.</p>
   </div>
 
-  <!-- ═══ STATUS BANNER ═══ -->
-  <div class="banner">
-    <div class="banner-pulse"></div>
-    <div class="banner-text">
-      <div class="banner-title">Critical System Failure</div>
-      <div class="banner-detail">9 of 12 monitored checks failed. 3 degraded. 0 healthy. 200+ sourced events tracked.</div>
+  <!-- ═══ INCIDENT LOG ═══ -->
+  <div class="incidents" id="incidentLog">
+    <div class="label">Recent Incident Log</div>
+    <div class="pipeline-status" id="pipelineStatus">
+      <div class="pipeline-dot offline" id="pipelineDot"></div>
+      <span id="pipelineText">Pipeline: connecting...</span>
     </div>
-    <div class="banner-count">9/12<small>checks failed</small></div>
+    <div id="dynamicIncidents"></div>
+    <div class="inc-fade">
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Feb 5, 2026</span>
+      </div>
+      <div class="inc-title">Schedule F finalized: 50,000 federal workers lose civil service protections</div>
+      <div class="inc-desc">Reclassified as at-will employees. Whistleblower protections gutted. 94% of 40,000+ public comments opposed the rule. <a href="https://www.npr.org/2026/02/06/nx-s1-5704171/trump-fire-federal-employees-schedule-f" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Feb 3, 2026</span>
+      </div>
+      <div class="inc-title">Senator Warner calls Gabbard to testify on Fulton County presence</div>
+      <div class="inc-desc">Formal request from ranking intelligence committee member. Gabbard cites executive privilege. <a href="https://www.cnbc.com/2026/02/03/gabbard-trump-georgia-election-fbi-warner.html" target="_blank" rel="noopener">CNBC</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Feb 1, 2026</span>
+      </div>
+      <div class="inc-title">UAE firm revealed to hold 49% of Trump family crypto company</div>
+      <div class="inc-desc">Emirati-backed MGX acquired stake for $500M. Same firm involved in TikTok deal. $80M/yr potential interest income for Trump family. <a href="https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    </div>
+    <div class="inc-overflow" id="incOverflow">
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 28, 2026</span>
+      </div>
+      <div class="inc-title">FBI executes search warrant at Fulton County election office</div>
+      <div class="inc-desc">700 boxes of 2020 ballots, all voter rolls, all tabulator data seized. DNI personally present. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 24, 2026</span>
+      </div>
+      <div class="inc-title">CDC pauses $5.1 billion in public health grants to all 50 states</div>
+      <div class="inc-desc">Funding for health departments, lab testing, and emergency preparedness frozen. Reversed within 24 hours after outcry. <a href="https://edition.cnn.com/2026/01/24/health/cdc-grant-pause-reversal" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 23, 2026</span>
+      </div>
+      <div class="inc-title">DOGE employee coordinated voter roll matching with political group using SSA data</div>
+      <div class="inc-desc">NPR: DOGE employee signed agreement to match Social Security data with state voter rolls. DOJ admits data shared to unauthorized servers. <a href="https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 2026</span>
+      </div>
+      <div class="inc-title">DOJ opens criminal investigation into Fed Chair Jerome Powell</div>
+      <div class="inc-desc">Ostensibly over building renovations. Powell says it&rsquo;s retaliation for independent monetary policy decisions. <a href="https://www.cnn.com/2026/01/11/business/federal-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 2026</span>
+      </div>
+      <div class="inc-title">MEGA Act introduced to federalize election administration</div>
+      <div class="inc-desc">83-page bill bans universal mail-in voting, ranked-choice voting, and ballot collection. <a href="https://www.cato.org/blog/mega-bill-supersizes-federal-governments-role-election-administration" target="_blank" rel="noopener">Cato Institute</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge warn">Warning</span>
+        <span class="inc-date">Dec 2025</span>
+      </div>
+      <div class="inc-title">Two grand juries decline to re-indict Letitia James</div>
+      <div class="inc-desc">After initial indictments dismissed over unlawful appointment of prosecutor. DOJ had fired U.S. Attorney who refused to charge Trump opponents. <a href="https://www.npr.org/2025/10/10/nx-s1-5570092/new-york-ag-letitia-james-indicted-on-federal-charges-after-pressure-from-trump" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge warn">Warning</span>
+        <span class="inc-date">Dec 2025</span>
+      </div>
+      <div class="inc-title">Heritage Foundation releases Project 2026</div>
+      <div class="inc-desc">Next-phase policy document. Stated goal: "assert effective control over the federal bureaucracy." <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Oct 2025</span>
+      </div>
+      <div class="inc-title">Mass journalist exodus from Pentagon</div>
+      <div class="inc-desc">Reporters from virtually every major outlet surrender press passes over credentialing restrictions. Only OAN agrees to terms. <a href="https://www.cnn.com/2025/10/15/media/pentagon-press-hegseth-restrictions-journalists-fox" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Oct 2025</span>
+      </div>
+      <div class="inc-title">Trump pardons convicted Binance founder Changpeng Zhao</div>
+      <div class="inc-desc">CZ pled guilty to enabling money laundering. Binance hosts Trump family crypto tokens. Trump claims he doesn&rsquo;t know who Zhao is. <a href="https://www.npr.org/2025/10/24/nx-s1-5583983/trump-pardons-jailed-binance-founder-who-supported-trump-family-crypto-business" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Aug 2025</span>
+      </div>
+      <div class="inc-title">DNI dissolves Foreign Malign Influence Center</div>
+      <div class="inc-desc">Last federal body tracking foreign election interference. <a href="https://www.justsecurity.org/119653/wjh-dismantling-foreign-malign-influence-center/" target="_blank" rel="noopener">Just Security</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jul 2025</span>
+      </div>
+      <div class="inc-title">One Big Beautiful Bill signed: $911B Medicaid, $187B SNAP cuts</div>
+      <div class="inc-desc">CBO: 10 million lose health coverage, 2.4 million lose food assistance monthly. National work requirements imposed. <a href="https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jul 2025</span>
+      </div>
+      <div class="inc-title">USAID officially shuts down after 64 years</div>
+      <div class="inc-desc">Lancet: 8&ndash;19 million additional deaths projected. UN: U.S. &ldquo;fuelling global humanitarian catastrophe.&rdquo; <a href="https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Mar 2025</span>
+      </div>
+      <div class="inc-title">Alien Enemies Act invoked; court order to stop flights defied</div>
+      <div class="inc-desc">238 Venezuelans sent to CECOT mega-prison. 1798 wartime law used for first time outside declared war. Judge finds probable cause for criminal contempt. <a href="https://www.cnn.com/2025/04/16/politics/boasberg-contempt-deportation-flights/index.html" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    <div class="inc">
+      <div class="inc-head">
+        <span class="inc-badge crit">Critical</span>
+        <span class="inc-date">Jan 20, 2025</span>
+      </div>
+      <div class="inc-title">1,500 Jan 6 defendants pardoned; seditious conspiracy convictions commuted</div>
+      <div class="inc-desc">Day One blanket clemency. Oath Keepers and Proud Boys leaders released from 18- and 22-year sentences. <a href="https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    </div>
+    <button class="inc-toggle" id="incToggle" onclick="toggleIncidents()">
+      <span id="incToggleText">Show all incidents</span>
+      <span class="inc-toggle-arrow">&#9660;</span>
+    </button>
   </div>
 
-  <!-- ═══ STATS BAR ═══ -->
-  <div class="stats-bar">
-    <div class="stats-track">
-      <span class="stat-chip"><span class="stat-val">1,500</span> Jan 6 pardons</span>
-      <span class="stat-chip"><span class="stat-val">230+</span> DOJ purged</span>
-      <span class="stat-chip"><span class="stat-val">170+</span> citizens detained</span>
-      <span class="stat-chip"><span class="stat-val">31</span> detention deaths</span>
-      <span class="stat-chip"><span class="stat-val">85K+</span> visas revoked</span>
-      <span class="stat-chip"><span class="stat-val av">$911B</span> Medicaid cut</span>
-      <span class="stat-chip"><span class="stat-val">9/12</span> checks failed</span>
-      <span class="stat-chip"><span class="stat-val">57th</span> press freedom</span>
-      <span class="stat-chip"><span class="stat-val av">$500M</span> crypto profits</span>
-      <span class="stat-chip"><span class="stat-val">10M</span> lose healthcare</span>
-      <span class="stat-chip"><span class="stat-val gv">82%</span> Dem House odds</span>
-      <span class="stat-chip"><span class="stat-val">1,500</span> Jan 6 pardons</span>
-      <span class="stat-chip"><span class="stat-val">230+</span> DOJ purged</span>
-      <span class="stat-chip"><span class="stat-val">170+</span> citizens detained</span>
-      <span class="stat-chip"><span class="stat-val">31</span> detention deaths</span>
-      <span class="stat-chip"><span class="stat-val">85K+</span> visas revoked</span>
-      <span class="stat-chip"><span class="stat-val av">$911B</span> Medicaid cut</span>
-      <span class="stat-chip"><span class="stat-val">9/12</span> checks failed</span>
-      <span class="stat-chip"><span class="stat-val">57th</span> press freedom</span>
-      <span class="stat-chip"><span class="stat-val av">$500M</span> crypto profits</span>
-      <span class="stat-chip"><span class="stat-val">10M</span> lose healthcare</span>
-      <span class="stat-chip"><span class="stat-val gv">82%</span> Dem House odds</span>
-    </div>
-  </div>
-
-  <!-- ═══ THE ADMINISTRATION ═══ -->
-  <div class="label">The Administration</div>
-
-  <!-- TRUMP -->
-  <div class="featured" data-person="trump">
-    <div class="featured-inner">
-      <div class="portrait portrait-lg">
-        <img id="img-trump" alt="">
-        <div class="portrait-init">DT</div>
-      </div>
-      <div class="featured-body">
-        <div class="featured-role">The 47th President</div>
-        <div class="featured-name">Donald J. Trump</div>
-        <div class="featured-lede">In 2020, every check held because real people said no. He ran again, won, and learned the lesson: pick people who won't say no.</div>
-        <p class="featured-text">
-          His own campaign data lead told him in <strong>"pretty blunt terms"</strong> he'd lost (<a href="https://www.npr.org/2022/06/13/1104690690/heres-every-word-of-the-second-jan-6-committee-hearing-on-its-investigation" target="_blank" rel="noopener">NPR/Jan 6 Committee</a>). He declared victory anyway. His Attorney General called his fraud claims <strong>"bullshit"</strong> (<a href="https://www.c-span.org/video/?c5019524/attorney-general-bill-barr-testimony-january-6th-committee" target="_blank" rel="noopener">C-SPAN</a>). 60+ lawsuits failed (<a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a>). Every senior DOJ official threatened to resign rather than help him.
-        </p>
-        <p class="featured-text" style="margin-top:0.5rem;">
-          Now every position that stopped him has been <strong>replaced with a loyalist.</strong> He publicly messaged his AG to prosecute his enemies&mdash;the White House confirmed it was meant to be a DM (<a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC</a>). He called for Republicans to <strong>"take over the voting"</strong> in 15+ places (<a href="https://thehill.com/homenews/campaign/5719458-trump-suggests-republican-voting-takeover/" target="_blank" rel="noopener">The Hill</a>).
-        </p>
-        <div class="card-hint">Click for full record &#9662;</div>
-      </div>
-    </div>
-    <div class="featured-detail">
-      <div class="featured-detail-inner">
-        <div class="detail-label">Full Record</div>
-        <div class="op-evt"><div class="op-evt-d">Nov 2020</div><div class="op-evt-t">Campaign data lead told Trump in "pretty blunt terms" he would lose. Steve Bannon had previewed the strategy: <strong>declare victory regardless</strong> and say "they stole it." <a href="https://www.npr.org/2022/06/13/1104690690/heres-every-word-of-the-second-jan-6-committee-hearing-on-its-investigation" target="_blank" rel="noopener">NPR</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Nov 2020</div><div class="op-evt-t">Declared victory before votes were counted. Tweeted <strong>"STOP THE COUNT!"</strong></div></div>
-        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">AG Bill Barr told Trump fraud claims were <strong>"bullshit"</strong> and said Trump had "become detached from reality." Told AP there was no evidence. Went to the White House expecting to be fired. <a href="https://www.c-span.org/video/?c5019524/attorney-general-bill-barr-testimony-january-6th-committee" target="_blank" rel="noopener">C-SPAN</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">Campaign General Counsel said fraud claims weren't <strong>"outcome determinative."</strong> "Lost, Not Stolen" report by conservative groups found team "failed because of a lack of evidence." <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t"><strong>60+ lawsuits</strong> filed. All rejected by courts&mdash;including Trump-appointed judges. <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">Tried to install <strong>Jeffrey Clark</strong>&mdash;an environmental lawyer with zero criminal experience&mdash;as acting AG. Every senior DOJ official threatened mass resignation. White House counsel called the plan <strong>"a murder-suicide pact."</strong> <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript" target="_blank" rel="noopener">NPR</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Jan 2021</div><div class="op-evt-t">Pressured VP Pence to refuse counting electoral votes. <strong>Pence refused.</strong> Capitol attacked. <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Accidentally posted DM to AG Bondi directing her to <strong>prosecute Comey, Schiff, and Letitia James.</strong> White House confirmed it was meant to be private. <a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC News</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Oct 2025</div><div class="op-evt-t">Fired US Attorney who wouldn't prosecute Comey. Replaced with loyalist. Comey indicted shortly after. <a href="https://www.rollingstone.com/politics/politics-features/trump-bondi-order-prosecute-enemies-james-schiff-comey-1235432027/" target="_blank" rel="noopener">Rolling Stone</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">Called for Republicans to <strong>"take over the voting"</strong> in 15+ places. <a href="https://thehill.com/homenews/campaign/5719458-trump-suggests-republican-voting-takeover/" target="_blank" rel="noopener">The Hill</a></div></div>
-        <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">Trump said Bondi sent Gabbard to Fulton County raid. Then changed story and said he asked her to go. <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div></div>
-      </div>
-    </div>
-    <div class="featured-footer">
-      <span>checks.fail</span>
-      <span>February 2026</span>
-    </div>
-  </div>
-
-  <!-- OPERATORS -->
-  <div class="ops">
-    <div class="ops-grid">
-
-      <div class="op" data-person="bondi">
-        <div class="portrait portrait-sm"><img id="img-bondi" alt=""><div class="portrait-init">PB</div></div>
-        <div class="op-role">Attorney General</div>
-        <div class="op-name">Pam Bondi</div>
-        <div class="op-lede">Takes <strong>prosecution orders by DM</strong> from the President. Appointed Missouri prosecutor for Georgia election cases.</div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Trump accidentally posts DM to Bondi directing her to <strong>prosecute Comey, Schiff, and Letitia James.</strong> WH confirms it was meant to be private. <a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC News</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Oct 2025</div><div class="op-evt-t">Fires US Attorney who wouldn't prosecute Comey. Replaces with loyalist. Comey indicted shortly after. <a href="https://www.rollingstone.com/politics/politics-features/trump-bondi-order-prosecute-enemies-james-schiff-comey-1235432027/" target="_blank" rel="noopener">Rolling Stone</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">Gives special appointment to Missouri US Attorney Thomas Albus to handle <strong>"election integrity cases nationwide"</strong>&mdash;bypassing local prosecutors. <a href="https://www.cbsnews.com/news/fbi-searches-fulton-county-election-office-seeking-2020-ballots-heres-what-we-know/" target="_blank" rel="noopener">CBS News</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">DOJ sues Georgia for unredacted voter data: names, birth dates, addresses, driver's license numbers, partial SSNs. Georgia refuses. <a href="https://georgiarecorder.com/2026/01/23/federal-judge-tosses-out-doj-lawsuit-seeking-sensitive-voter-data-in-georgia/" target="_blank" rel="noopener">Georgia Recorder</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 23, 2026</div><div class="op-evt-t">Federal judge dismisses voter data lawsuit&mdash;DOJ filed in the wrong court. <a href="https://www.democracydocket.com/news-alerts/court-dismisses-dojs-georgia-voter-roll-lawsuit-because-it-filed-in-the-wrong-district/" target="_blank" rel="noopener">Democracy Docket</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t"><strong>Five days later</strong>, FBI shows up with a search warrant and takes everything anyway. 700 boxes seized. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="patel">
-        <div class="portrait portrait-sm"><img id="img-patel" alt=""><div class="portrait-init">KP</div></div>
-        <div class="op-role">FBI Director</div>
-        <div class="op-name">Kash Patel</div>
-        <div class="op-lede"><strong>Purged agents</strong> who investigated the President. Admitted firings were <strong>"likely illegal."</strong></div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Purges senior agents connected to Jan 6 and Mar-a-Lago investigations. At least <strong>6 Miami agents</strong> forced out. <a href="https://www.pbs.org/newshour/politics/fired-fbi-officials-sue-patel-claiming-he-bowed-to-trumps-campaign-of-retribution" target="_blank" rel="noopener">PBS</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Fired officials sue. Lawsuit reveals Patel admitted firings were <strong>"likely illegal"</strong> and that Stephen Miller directed him to <strong>"fire anyone who worked on a criminal investigation against Trump."</strong> <a href="https://www.cnn.com/2025/09/10/politics/fired-fbi-officials-sue-kash-patel" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">FBI Atlanta chief Paul Brown <strong>forced out</strong> after objecting to planned Fulton County raid. Replaced before warrant executed. <a href="https://www.alternet.org/trump-fulton-county-raid/" target="_blank" rel="noopener">Alternet</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t">FBI raids Fulton County election office. <strong>700 boxes</strong> of ballots, all voter rolls seized. Warrant signed by Missouri prosecutor on special appointment. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="gabbard">
-        <div class="portrait portrait-sm"><img id="img-gabbard" alt=""><div class="portrait-init">TG</div></div>
-        <div class="op-role">Dir. of National Intelligence</div>
-        <div class="op-name">Tulsi Gabbard</div>
-        <div class="op-lede"><strong>Dissolved the election security center.</strong> Then showed up at a domestic raid with <strong>no jurisdiction.</strong></div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">Aug 2025</div><div class="op-evt-t">Dissolves the <strong>Foreign Malign Influence Center</strong>&mdash;the last federal body dedicated to tracking foreign election interference. <a href="https://www.justsecurity.org/119653/wjh-dismantling-foreign-malign-influence-center/" target="_blank" rel="noopener">Just Security</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t">Photographed by Reuters at Fulton County raid standing next to vehicle loaded with seized election boxes. The DNI oversees foreign intelligence&mdash;<strong>no chain of command</strong> puts her at a domestic law enforcement action. <a href="https://www.washingtonpost.com/national-security/2026/01/30/tulsi-gabbard-fulton-county-fbi-raid/" target="_blank" rel="noopener">Washington Post</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 2026</div><div class="op-evt-t">Conflicting explanations: Trump says Bondi sent her, then says he asked her to go. Gabbard cites <strong>"broad statutory authority."</strong> <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 3, 2026</div><div class="op-evt-t">Senator Warner calls Gabbard to testify on her presence at the raid. <strong>Cites executive privilege.</strong> <a href="https://www.cnbc.com/2026/02/03/gabbard-trump-georgia-election-fbi-warner.html" target="_blank" rel="noopener">CNBC</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="miller">
-        <div class="portrait portrait-sm"><img id="img-miller" alt=""><div class="portrait-init">SM</div></div>
-        <div class="op-role">Deputy Chief of Staff</div>
-        <div class="op-name">Stephen Miller</div>
-        <div class="op-lede"><strong>Daily 10am calls</strong> demanding 3,000 ICE arrests/day. <strong>Directed FBI purges</strong> from the White House.</div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Runs daily 10am calls <strong>including Saturdays</strong> with DHS, ICE, and immigration agencies. Demands <strong>3,000 arrests per day.</strong> <a href="https://edition.cnn.com/2026/01/29/politics/stephen-miller-trump-immigration-minneapolis" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Directed Kash Patel to <strong>"fire anyone who worked on a criminal investigation against Trump"</strong> per lawsuit by fired FBI officials. <a href="https://www.cnn.com/2025/09/10/politics/fired-fbi-officials-sue-kash-patel" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Described as <strong>"one of the most powerful people in government."</strong> Convenes standing morning call seven days a week with Homan, Noem, and agency officials. <a href="https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Ongoing</div><div class="op-evt-t">Has stated plainly he wants to <strong>end due process for migrants entirely.</strong></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="musk">
-        <div class="portrait portrait-sm"><img id="img-musk" alt=""><div class="portrait-init">EM</div></div>
-        <div class="op-role">DOGE / Special Govt Employee</div>
-        <div class="op-name">Elon Musk</div>
-        <div class="op-lede">Gained access to <strong>Treasury payment systems</strong> ($5.4T/year). ~280,000 federal workers fired. <strong>$38B</strong> in govt contracts to his own companies.</div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">Jan 20, 2025</div><div class="op-evt-t">DOGE established by executive order. Musk given access to federal agencies. <a href="https://time.com/7336327/doge-disbanded-elon-musk/" target="_blank" rel="noopener">TIME</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 31, 2025</div><div class="op-evt-t">DOGE gains access to <strong>Treasury payment systems</strong>&mdash;$5.4 trillion annually, 88% of all federal payments. Bureau director departs. <a href="https://www.cnn.com/2025/01/31/politics/doge-treasury-department-federal-spending" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">USAID shut down. Internal memo projects <strong>"hundreds of thousands of excess deaths"</strong> as a result. <a href="https://www.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/index.html" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">Mass federal layoffs: <strong>~280,000 workers</strong> fired across 27 agencies. CFPB planned reduction to 5 employees. <a href="https://www.pbs.org/newshour/politics/these-federal-employees-were-purged-by-doge-months-later-the-trump-administration-is-asking-if-they-want-to-return" target="_blank" rel="noopener">PBS</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">WH announces Musk's conflicts of interest will be monitored by <strong>Musk himself.</strong> His companies hold <strong>$38B</strong> in government funding. <a href="https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/" target="_blank" rel="noopener">Fortune</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Mar 2025</div><div class="op-evt-t">Federal judge rules <strong>USAID shutdown unconstitutional.</strong> DOGE member caught sending encrypted file of SSA personal data to DHS. <a href="https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy" target="_blank" rel="noopener">NPR</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Apr 2025</div><div class="op-evt-t">SpaceX awarded <strong>$5.9B Space Force contract</strong> while Musk leads DOGE. No contracts to his companies were terminated. <a href="https://lynch.house.gov/2025/4/reps-lynch-and-connolly-lead-oversight-investigation-into-elon-musk-s-conflicts-of-interest-at-dod-citing-whopping-9-5-billion-in-defense-contracts" target="_blank" rel="noopener">Rep. Lynch</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">May 2025</div><div class="op-evt-t">Judge Chutkan: 14-state lawsuit against DOGE can proceed. Administration endorses a <strong>"perverse reading" of the Constitution</strong> and "unlimited executive power." <a href="https://www.npr.org/2025/05/28/nx-s1-5414191/musk-lawsuit-doge-trump-spending-bill" target="_blank" rel="noopener">NPR</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jun 2025</div><div class="op-evt-t">Supreme Court grants DOGE <strong>access to SSA data</strong> including SSNs, medical records, mental health records, family court info. <a href="https://www.npr.org/2025/06/06/nx-s1-5422283/supreme-court-doge-social-security-records" target="_blank" rel="noopener">NPR</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Feb 2026</div><div class="op-evt-t">Judge rules Musk must <strong>attend depositions under oath</strong> over DOGE's USAID dismantling. <a href="https://www.axios.com/2026/02/05/state-department-elon-musk-doge" target="_blank" rel="noopener">Axios</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="homan">
-        <div class="portrait portrait-sm"><img id="img-homan" alt=""><div class="portrait-init">TH</div></div>
-        <div class="op-role">Border Czar</div>
-        <div class="op-name">Tom Homan</div>
-        <div class="op-lede"><strong>"I don't care what the judges think."</strong> Ended protections for schools, churches, hospitals. At least <strong>170 U.S. citizens detained.</strong></div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">Jan 20, 2025</div><div class="op-evt-t">DHS rescinds <strong>"Protected Areas" policy</strong>&mdash;eliminating protections for schools, churches, hospitals, weddings, funerals. <a href="https://www.npr.org/2025/01/21/nx-s1-5269899/trump-immigration-enforcement-schools-churches" target="_blank" rel="noopener">NPR</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Jan 2025</div><div class="op-evt-t">Says ICE <strong>will conduct arrests in schools and churches</strong> if needed. <a href="https://www.cnn.com/2025/01/27/politics/video/tom-homan-trump-border-czar-schools-churches-digvid" target="_blank" rel="noopener">CNN</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Mar 2025</div><div class="op-evt-t">After deportation flights: <strong>"I don't care what the judges think."</strong> <a href="https://www.axios.com/2025/03/17/tom-homan-deportation-flights-trump-court-order" target="_blank" rel="noopener">Axios</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">At least <strong>170 U.S. citizens</strong> confirmed detained by ICE. Government was not tracking detained/missing citizens. <a href="https://newrepublic.com/post/193095/donald-trump-border-czar-tom-homan-due-process" target="_blank" rel="noopener">New Republic</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Apr 2025</div><div class="op-evt-t"><strong>2-year-old U.S. citizen</strong> (born in Baton Rouge) deported to Honduras with her mother.</div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Nearly <strong>5,000 arrests</strong> in San Diego/Imperial counties alone&mdash;over 10x the previous year. ICE hiring 10,000 more officers. <a href="https://timesofsandiego.com/immigration/2025/12/30/immigration-arrests-what-to-expect-in-2026/" target="_blank" rel="noopener">Times of SD</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-      <div class="op" data-person="johnson">
-        <div class="portrait portrait-sm"><img id="img-johnson" alt=""><div class="portrait-init">MJ</div></div>
-        <div class="op-role">Speaker of the House</div>
-        <div class="op-name">Mike Johnson</div>
-        <div class="op-lede"><strong>Refused to hold oversight hearings.</strong> Delayed seating elected rep for 50 days. Abdicated congressional authority.</div>
-        <div class="card-hint">View record &#9662;</div>
-        <div class="op-detail"><div class="op-detail-inner">
-          <div class="op-evt"><div class="op-evt-d">Jul 2025</div><div class="op-evt-t">Adjourned House early for five-week summer break <strong>to prevent votes on releasing Epstein files.</strong></div></div>
-          <div class="op-evt"><div class="op-evt-d">Sep&ndash;Nov 2025</div><div class="op-evt-t"><strong>Delayed seating Adelita Grijalva (D-AZ) for 50 days</strong> after special election win&mdash;longest delay in modern history. Prevented her from signing discharge petition. AZ AG sued. <a href="https://www.nbcnews.com/politics/congress/arizona-ag-sues-force-speaker-johnson-seat-democrat-adelita-grijalva-rcna238699" target="_blank" rel="noopener">NBC News</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Refused to call House into session during longest government shutdown. Said: <strong>"When Congress turns off the lights, it shifts authority to the executive branch."</strong> <a href="https://www.pbs.org/newshour/politics/johnson-calls-house-back-into-session-after-refusing-to-convene-during-shutdown" target="_blank" rel="noopener">PBS</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t"><strong>Did not hold oversight hearings</strong> during Trump's second term. NYT: Johnson "largely deferred his role to the president." <a href="https://federalnewsnetwork.com/congress/2025/11/speaker-johnson-shuttered-the-house-and-amassed-quiet-power-with-trump/" target="_blank" rel="noopener">Fed News Network</a></div></div>
-          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">DOJ releases heavily redacted Epstein files&mdash;over <strong>500 pages entirely blacked out.</strong> Bipartisan criticism. <a href="https://www.cbsnews.com/live-updates/epstein-files-released-2025/" target="_blank" rel="noopener">CBS News</a></div></div>
-        </div></div>
-        <div class="op-watermark">checks.fail</div>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- ═══ THE BLUEPRINT ═══ -->
-  <div class="blueprint">
-    <div class="label">The Blueprint</div>
-    <div class="bp-card">
-      <div class="bp-header">
-        <h2>Heritage Foundation &mdash; Project 2025</h2>
-        <p class="bp-sub">A <strong>920-page operational plan</strong> to place the entire executive branch under direct presidential control. Not a policy wishlist&mdash;a staffing and implementation blueprint with a <strong>pre-vetted database of thousands of political loyalists</strong> ready to install across every federal agency. The mechanism: <strong>Schedule F</strong>, which reclassifies career civil servants as at-will employees who can be fired and replaced. Trump signed the executive order on Day One.</p>
-      </div>
-      <div class="bp-people">
-        <div class="bp-person" data-person="roberts">
-          <div class="portrait portrait-sm">
-            <img id="img-roberts" alt="">
-            <div class="portrait-init">KR</div>
-          </div>
-          <div class="bp-person-info">
-            <div class="bp-person-role">President, Heritage Foundation</div>
-            <div class="bp-person-name">Kevin Roberts</div>
-            <p class="bp-person-fact">Architect of Project 2025. Publicly called it a "second American Revolution." <a href="https://www.pbs.org/newshour/politics/heritage-foundation-president-celebrates-supreme-court-ruling-calls-for-second-american-revolution" target="_blank" rel="noopener">PBS</a></p>
-            <div class="card-hint">View record &#9662;</div>
-            <div class="bp-detail"><div class="bp-detail-inner">
-              <div class="op-evt"><div class="op-evt-d">2023&ndash;2024</div><div class="op-evt-t">Led creation of <strong>920-page Project 2025</strong> ("Mandate for Leadership 2025"). Pre-vetted database of thousands of political loyalists ready to install. <a href="https://www.aclu.org/project-2025-explained" target="_blank" rel="noopener">ACLU</a></div></div>
-              <div class="op-evt"><div class="op-evt-d">Jul 2024</div><div class="op-evt-t">On Steve Bannon's podcast: described effort as a <strong>"second American Revolution"</strong> and warned it would be peaceful only if unopposed. <a href="https://www.pbs.org/newshour/politics/heritage-foundation-president-celebrates-supreme-court-ruling-calls-for-second-american-revolution" target="_blank" rel="noopener">PBS</a></div></div>
-              <div class="op-evt"><div class="op-evt-d">1981</div><div class="op-evt-t">Heritage has done this before: their 1981 "Mandate for Leadership" shaped Reagan's first year. This is the <strong>updated playbook</strong> with modern implementation infrastructure.</div></div>
-              <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">Releases <strong>Project 2026</strong> follow-up. Stated goal: "assert effective control over the federal bureaucracy." <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek</a></div></div>
-              <div class="op-evt"><div class="op-evt-d">Ongoing</div><div class="op-evt-t">PBS tracking: <strong>significant portion of Project 2025 already implemented.</strong> <a href="https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" target="_blank" rel="noopener">PBS Tracker</a></div></div>
-            </div></div>
-          </div>
-        </div>
-        <div class="bp-person" data-person="vought">
-          <div class="portrait portrait-sm">
-            <img id="img-vought" alt="">
-            <div class="portrait-init">RV</div>
-          </div>
-          <div class="bp-person-info">
-            <div class="bp-person-role">Director, Office of Management and Budget</div>
-            <div class="bp-person-name">Russell Vought</div>
-            <p class="bp-person-fact">Authored Project 2025's Executive Office chapter. Advocates all executive power belongs solely to the president. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></p>
-            <div class="card-hint">View record &#9662;</div>
-            <div class="bp-detail"><div class="bp-detail-inner">
-              <div class="op-evt"><div class="op-evt-d">2023&ndash;2024</div><div class="op-evt-t">Authored Project 2025 chapter on the Executive Office of the President. Key advocate of <strong>"unitary executive theory"</strong>&mdash;that ALL executive power belongs solely to the president. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></div></div>
-              <div class="op-evt"><div class="op-evt-d">2021&ndash;2024</div><div class="op-evt-t">Between Trump terms, ran <strong>Center for Renewing America</strong>&mdash;planning implementation of the Project 2025 agenda.</div></div>
-              <div class="op-evt"><div class="op-evt-d">2024</div><div class="op-evt-t">ProPublica undercover investigation captured private statements about his plans for executive power. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></div></div>
-              <div class="op-evt"><div class="op-evt-d">Jan 2025</div><div class="op-evt-t">Installed as OMB Director&mdash;now <strong>implementing the plan he authored.</strong></div></div>
-              <div class="op-evt"><div class="op-evt-d">2026</div><div class="op-evt-t">DOGE work continues through Vought's office after Musk's departure. <a href="https://prospect.org/2026/02/05/doge-russell-vought-elon-musk-office-management-budget/" target="_blank" rel="noopener">American Prospect</a></div></div>
-            </div></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="bp-checklist">
-        <div class="bp-checklist-title">Implementation Status</div>
-        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>Schedule F</strong> executive order &mdash; signed Day 1</div>
-        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>DOJ leadership</strong> replaced with loyalist AG</div>
-        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>FBI leadership</strong> replaced; agent purges underway</div>
-        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>Intelligence restructuring</strong> &mdash; election security center dissolved</div>
-        <div class="bp-item"><span class="bp-pending">&#9679;</span> <strong>Civil service reclassification</strong> &mdash; in progress</div>
-        <div class="bp-item"><span class="bp-pending">&#9679;</span> <strong>Election admin federalization</strong> &mdash; MEGA Act introduced</div>
-      </div>
-
-      <div class="bp-footer">
-        Sources: <a href="https://www.aclu.org/project-2025-explained" target="_blank" rel="noopener">ACLU</a> &middot;
-        <a href="https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" target="_blank" rel="noopener">PBS Tracker</a> &middot;
-        <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek (Project 2026)</a> &middot;
-        <a href="https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers" target="_blank" rel="noopener">Axios (Schedule F)</a>
-      </div>
-    </div>
-  </div>
 
   <!-- ═══ SYSTEM STATUS ═══ -->
   <div class="label">System Status</div>
-  <div class="checks">
+  <div class="checks" id="systemChecks">
+    <div class="chk-fade">
 
     <div class="chk" onclick="this.classList.toggle('open')">
       <div class="chk-head">
@@ -1300,6 +1450,9 @@
         <div class="evt"><span class="evt-d">Feb 2026</span><span class="evt-t">Conflicting explanations. Trump says Bondi sent her. Then says he asked. Gabbard cites "broad statutory authority." <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></span></div>
       </div>
     </div>
+
+    </div>
+    <div class="chk-overflow" id="chkOverflow">
 
     <div class="chk" onclick="this.classList.toggle('open')">
       <div class="chk-head">
@@ -1463,43 +1616,39 @@
       </div>
     </div>
 
+    </div>
+    <button class="inc-toggle" onclick="toggleChecks()">
+      <span id="chkToggleText">Show all checks</span>
+      <span class="inc-toggle-arrow chk-toggle-arrow">&#9660;</span>
+    </button>
   </div>
 
-  <!-- ═══ FULTON COUNTY HORIZONTAL TIMELINE ═══ -->
-  <div class="htl-section">
-    <div class="label">Case Study: The Fulton County Pattern</div>
-    <div class="htl-hint">Follow the pattern &mdash; scroll to trace the timeline &rarr;</div>
-    <div class="htl">
-      <div class="htl-card warn">
-        <div class="htl-date">Dec 2025</div>
-        <div class="htl-title">DOJ sues Georgia for voter data</div>
-        <div class="htl-desc">Demands unredacted voter rolls: names, birth dates, addresses, DL numbers, partial SSNs. Georgia refuses. <a href="https://georgiarecorder.com/2026/01/23/federal-judge-tosses-out-doj-lawsuit-seeking-sensitive-voter-data-in-georgia/" target="_blank" rel="noopener">Georgia Recorder</a></div>
-      </div>
-      <div class="htl-card warn">
-        <div class="htl-date">Jan 23, 2026</div>
-        <div class="htl-title">Judge dismisses lawsuit</div>
-        <div class="htl-desc">DOJ filed in the wrong court. Case tossed. <a href="https://www.democracydocket.com/news-alerts/court-dismisses-dojs-georgia-voter-roll-lawsuit-because-it-filed-in-the-wrong-district/" target="_blank" rel="noopener">Democracy Docket</a></div>
-      </div>
-      <div class="htl-card crit">
-        <div class="htl-date">Late Jan 2026</div>
-        <div class="htl-title">FBI Atlanta chief removed</div>
-        <div class="htl-desc">Paul Brown, SAC Atlanta, forced out after raising concerns about the planned raid. <a href="https://www.alternet.org/trump-fulton-county-raid/" target="_blank" rel="noopener">Alternet</a></div>
-      </div>
-      <div class="htl-card crit">
-        <div class="htl-date">Jan 28, 2026</div>
-        <div class="htl-title">FBI raids election office</div>
-        <div class="htl-desc">700 boxes of 2020 ballots, all tabulator tapes, all voter rolls seized. Warrant by Missouri prosecutor. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div>
-      </div>
-      <div class="htl-card crit">
-        <div class="htl-date">Jan 28, 2026</div>
-        <div class="htl-title">DNI present at the raid</div>
-        <div class="htl-desc">Gabbard photographed by Reuters next to vehicle of seized boxes. No jurisdictional basis for DNI at domestic law enforcement. <a href="https://www.washingtonpost.com/national-security/2026/01/30/tulsi-gabbard-fulton-county-fbi-raid/" target="_blank" rel="noopener">WaPo</a></div>
-      </div>
-      <div class="htl-card warn">
-        <div class="htl-date">Feb 2026</div>
-        <div class="htl-title">Story keeps shifting</div>
-        <div class="htl-desc">Trump says Bondi sent Gabbard. Then says he asked. Gabbard cites "broad statutory authority." Warner demands testimony. <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div>
-      </div>
+
+  <!-- ═══ STATS BAR ═══ -->
+  <div class="stats-bar">
+    <div class="stats-track">
+      <span class="stat-chip"><span class="stat-val">1,500</span> Jan 6 pardons</span>
+      <span class="stat-chip"><span class="stat-val">230+</span> DOJ purged</span>
+      <span class="stat-chip"><span class="stat-val">170+</span> citizens detained</span>
+      <span class="stat-chip"><span class="stat-val">31</span> detention deaths</span>
+      <span class="stat-chip"><span class="stat-val">85K+</span> visas revoked</span>
+      <span class="stat-chip"><span class="stat-val av">$911B</span> Medicaid cut</span>
+      <span class="stat-chip"><span class="stat-val">9/12</span> checks failed</span>
+      <span class="stat-chip"><span class="stat-val">57th</span> press freedom</span>
+      <span class="stat-chip"><span class="stat-val av">$500M</span> crypto profits</span>
+      <span class="stat-chip"><span class="stat-val">10M</span> lose healthcare</span>
+      <span class="stat-chip"><span class="stat-val gv">82%</span> Dem House odds</span>
+      <span class="stat-chip"><span class="stat-val">1,500</span> Jan 6 pardons</span>
+      <span class="stat-chip"><span class="stat-val">230+</span> DOJ purged</span>
+      <span class="stat-chip"><span class="stat-val">170+</span> citizens detained</span>
+      <span class="stat-chip"><span class="stat-val">31</span> detention deaths</span>
+      <span class="stat-chip"><span class="stat-val">85K+</span> visas revoked</span>
+      <span class="stat-chip"><span class="stat-val av">$911B</span> Medicaid cut</span>
+      <span class="stat-chip"><span class="stat-val">9/12</span> checks failed</span>
+      <span class="stat-chip"><span class="stat-val">57th</span> press freedom</span>
+      <span class="stat-chip"><span class="stat-val av">$500M</span> crypto profits</span>
+      <span class="stat-chip"><span class="stat-val">10M</span> lose healthcare</span>
+      <span class="stat-chip"><span class="stat-val gv">82%</span> Dem House odds</span>
     </div>
   </div>
 
@@ -1577,162 +1726,320 @@
     <p><strong class="red">Every future operator now knows this.</strong> That's the real long-term damage&mdash;not what this administration does, but the playbook it writes for the next one.</p>
   </div>
 
-  <!-- ═══ INCIDENT LOG ═══ -->
-  <div class="incidents" id="incidentLog">
-    <div class="label">Recent Incident Log</div>
-    <div class="pipeline-status" id="pipelineStatus">
-      <div class="pipeline-dot offline" id="pipelineDot"></div>
-      <span id="pipelineText">Pipeline: connecting...</span>
-    </div>
-    <div id="dynamicIncidents"></div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Feb 5, 2026</span>
+  <!-- ═══ THE ADMINISTRATION ═══ -->
+  <div class="label">The Administration</div>
+
+  <!-- TRUMP -->
+  <div class="featured" data-person="trump">
+    <div class="featured-inner">
+      <div class="portrait portrait-lg">
+        <img id="img-trump" alt="">
+        <div class="portrait-init">DT</div>
       </div>
-      <div class="inc-title">Schedule F finalized: 50,000 federal workers lose civil service protections</div>
-      <div class="inc-desc">Reclassified as at-will employees. Whistleblower protections gutted. 94% of 40,000+ public comments opposed the rule. <a href="https://www.npr.org/2026/02/06/nx-s1-5704171/trump-fire-federal-employees-schedule-f" target="_blank" rel="noopener">NPR</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Feb 3, 2026</span>
+      <div class="featured-body">
+        <div class="featured-role">The 47th President</div>
+        <div class="featured-name">Donald J. Trump</div>
+        <div class="featured-lede">In 2020, every check held because real people said no. He ran again, won, and learned the lesson: pick people who won't say no.</div>
+        <p class="featured-text">
+          His own campaign data lead told him in <strong>"pretty blunt terms"</strong> he'd lost (<a href="https://www.npr.org/2022/06/13/1104690690/heres-every-word-of-the-second-jan-6-committee-hearing-on-its-investigation" target="_blank" rel="noopener">NPR/Jan 6 Committee</a>). He declared victory anyway. His Attorney General called his fraud claims <strong>"bullshit"</strong> (<a href="https://www.c-span.org/video/?c5019524/attorney-general-bill-barr-testimony-january-6th-committee" target="_blank" rel="noopener">C-SPAN</a>). 60+ lawsuits failed (<a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a>). Every senior DOJ official threatened to resign rather than help him.
+        </p>
+        <p class="featured-text" style="margin-top:0.5rem;">
+          Now every position that stopped him has been <strong>replaced with a loyalist.</strong> He publicly messaged his AG to prosecute his enemies&mdash;the White House confirmed it was meant to be a DM (<a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC</a>). He called for Republicans to <strong>"take over the voting"</strong> in 15+ places (<a href="https://thehill.com/homenews/campaign/5719458-trump-suggests-republican-voting-takeover/" target="_blank" rel="noopener">The Hill</a>).
+        </p>
+        <div class="card-hint">Click for full record &#9662;</div>
       </div>
-      <div class="inc-title">Senator Warner calls Gabbard to testify on Fulton County presence</div>
-      <div class="inc-desc">Formal request from ranking intelligence committee member. Gabbard cites executive privilege. <a href="https://www.cnbc.com/2026/02/03/gabbard-trump-georgia-election-fbi-warner.html" target="_blank" rel="noopener">CNBC</a></div>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Feb 1, 2026</span>
+    <div class="featured-detail">
+      <div class="featured-detail-inner">
+        <div class="detail-label">Full Record</div>
+        <div class="op-evt"><div class="op-evt-d">Nov 2020</div><div class="op-evt-t">Campaign data lead told Trump in "pretty blunt terms" he would lose. Steve Bannon had previewed the strategy: <strong>declare victory regardless</strong> and say "they stole it." <a href="https://www.npr.org/2022/06/13/1104690690/heres-every-word-of-the-second-jan-6-committee-hearing-on-its-investigation" target="_blank" rel="noopener">NPR</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Nov 2020</div><div class="op-evt-t">Declared victory before votes were counted. Tweeted <strong>"STOP THE COUNT!"</strong></div></div>
+        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">AG Bill Barr told Trump fraud claims were <strong>"bullshit"</strong> and said Trump had "become detached from reality." Told AP there was no evidence. Went to the White House expecting to be fired. <a href="https://www.c-span.org/video/?c5019524/attorney-general-bill-barr-testimony-january-6th-committee" target="_blank" rel="noopener">C-SPAN</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">Campaign General Counsel said fraud claims weren't <strong>"outcome determinative."</strong> "Lost, Not Stolen" report by conservative groups found team "failed because of a lack of evidence." <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t"><strong>60+ lawsuits</strong> filed. All rejected by courts&mdash;including Trump-appointed judges. <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Dec 2020</div><div class="op-evt-t">Tried to install <strong>Jeffrey Clark</strong>&mdash;an environmental lawyer with zero criminal experience&mdash;as acting AG. Every senior DOJ official threatened mass resignation. White House counsel called the plan <strong>"a murder-suicide pact."</strong> <a href="https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript" target="_blank" rel="noopener">NPR</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Jan 2021</div><div class="op-evt-t">Pressured VP Pence to refuse counting electoral votes. <strong>Pence refused.</strong> Capitol attacked. <a href="https://www.govinfo.gov/collection/january-6th-committee-final-report" target="_blank" rel="noopener">GovInfo</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Accidentally posted DM to AG Bondi directing her to <strong>prosecute Comey, Schiff, and Letitia James.</strong> White House confirmed it was meant to be private. <a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC News</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Oct 2025</div><div class="op-evt-t">Fired US Attorney who wouldn't prosecute Comey. Replaced with loyalist. Comey indicted shortly after. <a href="https://www.rollingstone.com/politics/politics-features/trump-bondi-order-prosecute-enemies-james-schiff-comey-1235432027/" target="_blank" rel="noopener">Rolling Stone</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">Called for Republicans to <strong>"take over the voting"</strong> in 15+ places. <a href="https://thehill.com/homenews/campaign/5719458-trump-suggests-republican-voting-takeover/" target="_blank" rel="noopener">The Hill</a></div></div>
+        <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">Trump said Bondi sent Gabbard to Fulton County raid. Then changed story and said he asked her to go. <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div></div>
       </div>
-      <div class="inc-title">UAE firm revealed to hold 49% of Trump family crypto company</div>
-      <div class="inc-desc">Emirati-backed MGX acquired stake for $500M. Same firm involved in TikTok deal. $80M/yr potential interest income for Trump family. <a href="https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae" target="_blank" rel="noopener">CNN</a></div>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 28, 2026</span>
-      </div>
-      <div class="inc-title">FBI executes search warrant at Fulton County election office</div>
-      <div class="inc-desc">700 boxes of 2020 ballots, all voter rolls, all tabulator data seized. DNI personally present. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div>
+    <div class="featured-footer">
+      <span>checks.fail</span>
+      <span>February 2026</span>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 24, 2026</span>
-      </div>
-      <div class="inc-title">CDC pauses $5.1 billion in public health grants to all 50 states</div>
-      <div class="inc-desc">Funding for health departments, lab testing, and emergency preparedness frozen. Reversed within 24 hours after outcry. <a href="https://edition.cnn.com/2026/01/24/health/cdc-grant-pause-reversal" target="_blank" rel="noopener">CNN</a></div>
+  </div>
+
+  <!-- OPERATORS -->
+  <div class="ops" id="adminSection">
+    <div class="admin-search">
+      <input type="text" id="adminSearchInput" placeholder="Search operators..." oninput="searchAdmin(this.value)">
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 23, 2026</span>
+    <div class="ops-fade">
+    <div class="ops-grid">
+
+      <div class="op" data-person="bondi">
+        <div class="portrait portrait-sm"><img id="img-bondi" alt=""><div class="portrait-init">PB</div></div>
+        <div class="op-role">Attorney General</div>
+        <div class="op-name">Pam Bondi</div>
+        <div class="op-lede">Takes <strong>prosecution orders by DM</strong> from the President. Appointed Missouri prosecutor for Georgia election cases.</div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Trump accidentally posts DM to Bondi directing her to <strong>prosecute Comey, Schiff, and Letitia James.</strong> WH confirms it was meant to be private. <a href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">NBC News</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Oct 2025</div><div class="op-evt-t">Fires US Attorney who wouldn't prosecute Comey. Replaces with loyalist. Comey indicted shortly after. <a href="https://www.rollingstone.com/politics/politics-features/trump-bondi-order-prosecute-enemies-james-schiff-comey-1235432027/" target="_blank" rel="noopener">Rolling Stone</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">Gives special appointment to Missouri US Attorney Thomas Albus to handle <strong>"election integrity cases nationwide"</strong>&mdash;bypassing local prosecutors. <a href="https://www.cbsnews.com/news/fbi-searches-fulton-county-election-office-seeking-2020-ballots-heres-what-we-know/" target="_blank" rel="noopener">CBS News</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">DOJ sues Georgia for unredacted voter data: names, birth dates, addresses, driver's license numbers, partial SSNs. Georgia refuses. <a href="https://georgiarecorder.com/2026/01/23/federal-judge-tosses-out-doj-lawsuit-seeking-sensitive-voter-data-in-georgia/" target="_blank" rel="noopener">Georgia Recorder</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 23, 2026</div><div class="op-evt-t">Federal judge dismisses voter data lawsuit&mdash;DOJ filed in the wrong court. <a href="https://www.democracydocket.com/news-alerts/court-dismisses-dojs-georgia-voter-roll-lawsuit-because-it-filed-in-the-wrong-district/" target="_blank" rel="noopener">Democracy Docket</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t"><strong>Five days later</strong>, FBI shows up with a search warrant and takes everything anyway. 700 boxes seized. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
       </div>
-      <div class="inc-title">DOGE employee coordinated voter roll matching with political group using SSA data</div>
-      <div class="inc-desc">NPR: DOGE employee signed agreement to match Social Security data with state voter rolls. DOJ admits data shared to unauthorized servers. <a href="https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy" target="_blank" rel="noopener">NPR</a></div>
+
+      <div class="op" data-person="patel">
+        <div class="portrait portrait-sm"><img id="img-patel" alt=""><div class="portrait-init">KP</div></div>
+        <div class="op-role">FBI Director</div>
+        <div class="op-name">Kash Patel</div>
+        <div class="op-lede"><strong>Purged agents</strong> who investigated the President. Admitted firings were <strong>"likely illegal."</strong></div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Purges senior agents connected to Jan 6 and Mar-a-Lago investigations. At least <strong>6 Miami agents</strong> forced out. <a href="https://www.pbs.org/newshour/politics/fired-fbi-officials-sue-patel-claiming-he-bowed-to-trumps-campaign-of-retribution" target="_blank" rel="noopener">PBS</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Sep 2025</div><div class="op-evt-t">Fired officials sue. Lawsuit reveals Patel admitted firings were <strong>"likely illegal"</strong> and that Stephen Miller directed him to <strong>"fire anyone who worked on a criminal investigation against Trump."</strong> <a href="https://www.cnn.com/2025/09/10/politics/fired-fbi-officials-sue-kash-patel" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 2026</div><div class="op-evt-t">FBI Atlanta chief Paul Brown <strong>forced out</strong> after objecting to planned Fulton County raid. Replaced before warrant executed. <a href="https://www.alternet.org/trump-fulton-county-raid/" target="_blank" rel="noopener">Alternet</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t">FBI raids Fulton County election office. <strong>700 boxes</strong> of ballots, all voter rolls seized. Warrant signed by Missouri prosecutor on special appointment. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
+      </div>
+
+      <div class="op" data-person="gabbard">
+        <div class="portrait portrait-sm"><img id="img-gabbard" alt=""><div class="portrait-init">TG</div></div>
+        <div class="op-role">Dir. of National Intelligence</div>
+        <div class="op-name">Tulsi Gabbard</div>
+        <div class="op-lede"><strong>Dissolved the election security center.</strong> Then showed up at a domestic raid with <strong>no jurisdiction.</strong></div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">Aug 2025</div><div class="op-evt-t">Dissolves the <strong>Foreign Malign Influence Center</strong>&mdash;the last federal body dedicated to tracking foreign election interference. <a href="https://www.justsecurity.org/119653/wjh-dismantling-foreign-malign-influence-center/" target="_blank" rel="noopener">Just Security</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 28, 2026</div><div class="op-evt-t">Photographed by Reuters at Fulton County raid standing next to vehicle loaded with seized election boxes. The DNI oversees foreign intelligence&mdash;<strong>no chain of command</strong> puts her at a domestic law enforcement action. <a href="https://www.washingtonpost.com/national-security/2026/01/30/tulsi-gabbard-fulton-county-fbi-raid/" target="_blank" rel="noopener">Washington Post</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 2026</div><div class="op-evt-t">Conflicting explanations: Trump says Bondi sent her, then says he asked her to go. Gabbard cites <strong>"broad statutory authority."</strong> <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 3, 2026</div><div class="op-evt-t">Senator Warner calls Gabbard to testify on her presence at the raid. <strong>Cites executive privilege.</strong> <a href="https://www.cnbc.com/2026/02/03/gabbard-trump-georgia-election-fbi-warner.html" target="_blank" rel="noopener">CNBC</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
+      </div>
+
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 2026</span>
-      </div>
-      <div class="inc-title">DOJ opens criminal investigation into Fed Chair Jerome Powell</div>
-      <div class="inc-desc">Ostensibly over building renovations. Powell says it&rsquo;s retaliation for independent monetary policy decisions. <a href="https://www.cnn.com/2026/01/11/business/federal-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell" target="_blank" rel="noopener">CNN</a></div>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 2026</span>
+    <div class="ops-overflow" id="opsOverflow">
+    <div class="ops-grid">
+
+      <div class="op" data-person="miller">
+        <div class="portrait portrait-sm"><img id="img-miller" alt=""><div class="portrait-init">SM</div></div>
+        <div class="op-role">Deputy Chief of Staff</div>
+        <div class="op-name">Stephen Miller</div>
+        <div class="op-lede"><strong>Daily 10am calls</strong> demanding 3,000 ICE arrests/day. <strong>Directed FBI purges</strong> from the White House.</div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Runs daily 10am calls <strong>including Saturdays</strong> with DHS, ICE, and immigration agencies. Demands <strong>3,000 arrests per day.</strong> <a href="https://edition.cnn.com/2026/01/29/politics/stephen-miller-trump-immigration-minneapolis" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Directed Kash Patel to <strong>"fire anyone who worked on a criminal investigation against Trump"</strong> per lawsuit by fired FBI officials. <a href="https://www.cnn.com/2025/09/10/politics/fired-fbi-officials-sue-kash-patel" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Described as <strong>"one of the most powerful people in government."</strong> Convenes standing morning call seven days a week with Homan, Noem, and agency officials. <a href="https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Ongoing</div><div class="op-evt-t">Has stated plainly he wants to <strong>end due process for migrants entirely.</strong></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
       </div>
-      <div class="inc-title">MEGA Act introduced to federalize election administration</div>
-      <div class="inc-desc">83-page bill bans universal mail-in voting, ranked-choice voting, and ballot collection. <a href="https://www.cato.org/blog/mega-bill-supersizes-federal-governments-role-election-administration" target="_blank" rel="noopener">Cato Institute</a></div>
+
+      <div class="op" data-person="musk">
+        <div class="portrait portrait-sm"><img id="img-musk" alt=""><div class="portrait-init">EM</div></div>
+        <div class="op-role">DOGE / Special Govt Employee</div>
+        <div class="op-name">Elon Musk</div>
+        <div class="op-lede">Gained access to <strong>Treasury payment systems</strong> ($5.4T/year). ~280,000 federal workers fired. <strong>$38B</strong> in govt contracts to his own companies.</div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">Jan 20, 2025</div><div class="op-evt-t">DOGE established by executive order. Musk given access to federal agencies. <a href="https://time.com/7336327/doge-disbanded-elon-musk/" target="_blank" rel="noopener">TIME</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 31, 2025</div><div class="op-evt-t">DOGE gains access to <strong>Treasury payment systems</strong>&mdash;$5.4 trillion annually, 88% of all federal payments. Bureau director departs. <a href="https://www.cnn.com/2025/01/31/politics/doge-treasury-department-federal-spending" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">USAID shut down. Internal memo projects <strong>"hundreds of thousands of excess deaths"</strong> as a result. <a href="https://www.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/index.html" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">Mass federal layoffs: <strong>~280,000 workers</strong> fired across 27 agencies. CFPB planned reduction to 5 employees. <a href="https://www.pbs.org/newshour/politics/these-federal-employees-were-purged-by-doge-months-later-the-trump-administration-is-asking-if-they-want-to-return" target="_blank" rel="noopener">PBS</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 2025</div><div class="op-evt-t">WH announces Musk's conflicts of interest will be monitored by <strong>Musk himself.</strong> His companies hold <strong>$38B</strong> in government funding. <a href="https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/" target="_blank" rel="noopener">Fortune</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Mar 2025</div><div class="op-evt-t">Federal judge rules <strong>USAID shutdown unconstitutional.</strong> DOGE member caught sending encrypted file of SSA personal data to DHS. <a href="https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy" target="_blank" rel="noopener">NPR</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Apr 2025</div><div class="op-evt-t">SpaceX awarded <strong>$5.9B Space Force contract</strong> while Musk leads DOGE. No contracts to his companies were terminated. <a href="https://lynch.house.gov/2025/4/reps-lynch-and-connolly-lead-oversight-investigation-into-elon-musk-s-conflicts-of-interest-at-dod-citing-whopping-9-5-billion-in-defense-contracts" target="_blank" rel="noopener">Rep. Lynch</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">May 2025</div><div class="op-evt-t">Judge Chutkan: 14-state lawsuit against DOGE can proceed. Administration endorses a <strong>"perverse reading" of the Constitution</strong> and "unlimited executive power." <a href="https://www.npr.org/2025/05/28/nx-s1-5414191/musk-lawsuit-doge-trump-spending-bill" target="_blank" rel="noopener">NPR</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jun 2025</div><div class="op-evt-t">Supreme Court grants DOGE <strong>access to SSA data</strong> including SSNs, medical records, mental health records, family court info. <a href="https://www.npr.org/2025/06/06/nx-s1-5422283/supreme-court-doge-social-security-records" target="_blank" rel="noopener">NPR</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Feb 2026</div><div class="op-evt-t">Judge rules Musk must <strong>attend depositions under oath</strong> over DOGE's USAID dismantling. <a href="https://www.axios.com/2026/02/05/state-department-elon-musk-doge" target="_blank" rel="noopener">Axios</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
+      </div>
+
+      <div class="op" data-person="homan">
+        <div class="portrait portrait-sm"><img id="img-homan" alt=""><div class="portrait-init">TH</div></div>
+        <div class="op-role">Border Czar</div>
+        <div class="op-name">Tom Homan</div>
+        <div class="op-lede"><strong>"I don't care what the judges think."</strong> Ended protections for schools, churches, hospitals. At least <strong>170 U.S. citizens detained.</strong></div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">Jan 20, 2025</div><div class="op-evt-t">DHS rescinds <strong>"Protected Areas" policy</strong>&mdash;eliminating protections for schools, churches, hospitals, weddings, funerals. <a href="https://www.npr.org/2025/01/21/nx-s1-5269899/trump-immigration-enforcement-schools-churches" target="_blank" rel="noopener">NPR</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Jan 2025</div><div class="op-evt-t">Says ICE <strong>will conduct arrests in schools and churches</strong> if needed. <a href="https://www.cnn.com/2025/01/27/politics/video/tom-homan-trump-border-czar-schools-churches-digvid" target="_blank" rel="noopener">CNN</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Mar 2025</div><div class="op-evt-t">After deportation flights: <strong>"I don't care what the judges think."</strong> <a href="https://www.axios.com/2025/03/17/tom-homan-deportation-flights-trump-court-order" target="_blank" rel="noopener">Axios</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">At least <strong>170 U.S. citizens</strong> confirmed detained by ICE. Government was not tracking detained/missing citizens. <a href="https://newrepublic.com/post/193095/donald-trump-border-czar-tom-homan-due-process" target="_blank" rel="noopener">New Republic</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Apr 2025</div><div class="op-evt-t"><strong>2-year-old U.S. citizen</strong> (born in Baton Rouge) deported to Honduras with her mother.</div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Nearly <strong>5,000 arrests</strong> in San Diego/Imperial counties alone&mdash;over 10x the previous year. ICE hiring 10,000 more officers. <a href="https://timesofsandiego.com/immigration/2025/12/30/immigration-arrests-what-to-expect-in-2026/" target="_blank" rel="noopener">Times of SD</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
+      </div>
+
+      <div class="op" data-person="johnson">
+        <div class="portrait portrait-sm"><img id="img-johnson" alt=""><div class="portrait-init">MJ</div></div>
+        <div class="op-role">Speaker of the House</div>
+        <div class="op-name">Mike Johnson</div>
+        <div class="op-lede"><strong>Refused to hold oversight hearings.</strong> Delayed seating elected rep for 50 days. Abdicated congressional authority.</div>
+        <div class="card-hint">View record &#9662;</div>
+        <div class="op-detail"><div class="op-detail-inner">
+          <div class="op-evt"><div class="op-evt-d">Jul 2025</div><div class="op-evt-t">Adjourned House early for five-week summer break <strong>to prevent votes on releasing Epstein files.</strong></div></div>
+          <div class="op-evt"><div class="op-evt-d">Sep&ndash;Nov 2025</div><div class="op-evt-t"><strong>Delayed seating Adelita Grijalva (D-AZ) for 50 days</strong> after special election win&mdash;longest delay in modern history. Prevented her from signing discharge petition. AZ AG sued. <a href="https://www.nbcnews.com/politics/congress/arizona-ag-sues-force-speaker-johnson-seat-democrat-adelita-grijalva-rcna238699" target="_blank" rel="noopener">NBC News</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t">Refused to call House into session during longest government shutdown. Said: <strong>"When Congress turns off the lights, it shifts authority to the executive branch."</strong> <a href="https://www.pbs.org/newshour/politics/johnson-calls-house-back-into-session-after-refusing-to-convene-during-shutdown" target="_blank" rel="noopener">PBS</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">2025</div><div class="op-evt-t"><strong>Did not hold oversight hearings</strong> during Trump's second term. NYT: Johnson "largely deferred his role to the president." <a href="https://federalnewsnetwork.com/congress/2025/11/speaker-johnson-shuttered-the-house-and-amassed-quiet-power-with-trump/" target="_blank" rel="noopener">Fed News Network</a></div></div>
+          <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">DOJ releases heavily redacted Epstein files&mdash;over <strong>500 pages entirely blacked out.</strong> Bipartisan criticism. <a href="https://www.cbsnews.com/live-updates/epstein-files-released-2025/" target="_blank" rel="noopener">CBS News</a></div></div>
+        </div></div>
+        <div class="op-watermark">checks.fail</div>
+      </div>
+
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge warn">Warning</span>
-        <span class="inc-date">Dec 2025</span>
-      </div>
-      <div class="inc-title">Two grand juries decline to re-indict Letitia James</div>
-      <div class="inc-desc">After initial indictments dismissed over unlawful appointment of prosecutor. DOJ had fired U.S. Attorney who refused to charge Trump opponents. <a href="https://www.npr.org/2025/10/10/nx-s1-5570092/new-york-ag-letitia-james-indicted-on-federal-charges-after-pressure-from-trump" target="_blank" rel="noopener">NPR</a></div>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge warn">Warning</span>
-        <span class="inc-date">Dec 2025</span>
+    <button class="inc-toggle" id="opsToggle" onclick="toggleAdmin()">
+      <span id="opsToggleText">Show all operators</span>
+      <span class="inc-toggle-arrow ops-toggle-arrow">&#9660;</span>
+    </button>
+  </div>
+
+  <!-- ═══ THE BLUEPRINT ═══ -->
+  <div class="blueprint">
+    <div class="label">The Blueprint</div>
+    <div class="bp-card">
+      <div class="bp-header">
+        <h2>Heritage Foundation &mdash; Project 2025</h2>
+        <p class="bp-sub">A <strong>920-page operational plan</strong> to place the entire executive branch under direct presidential control. Not a policy wishlist&mdash;a staffing and implementation blueprint with a <strong>pre-vetted database of thousands of political loyalists</strong> ready to install across every federal agency. The mechanism: <strong>Schedule F</strong>, which reclassifies career civil servants as at-will employees who can be fired and replaced. Trump signed the executive order on Day One.</p>
       </div>
-      <div class="inc-title">Heritage Foundation releases Project 2026</div>
-      <div class="inc-desc">Next-phase policy document. Stated goal: "assert effective control over the federal bureaucracy." <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek</a></div>
+      <div class="bp-people">
+        <div class="bp-person" data-person="roberts">
+          <div class="portrait portrait-sm">
+            <img id="img-roberts" alt="">
+            <div class="portrait-init">KR</div>
+          </div>
+          <div class="bp-person-info">
+            <div class="bp-person-role">President, Heritage Foundation</div>
+            <div class="bp-person-name">Kevin Roberts</div>
+            <p class="bp-person-fact">Architect of Project 2025. Publicly called it a "second American Revolution." <a href="https://www.pbs.org/newshour/politics/heritage-foundation-president-celebrates-supreme-court-ruling-calls-for-second-american-revolution" target="_blank" rel="noopener">PBS</a></p>
+            <div class="card-hint">View record &#9662;</div>
+            <div class="bp-detail"><div class="bp-detail-inner">
+              <div class="op-evt"><div class="op-evt-d">2023&ndash;2024</div><div class="op-evt-t">Led creation of <strong>920-page Project 2025</strong> ("Mandate for Leadership 2025"). Pre-vetted database of thousands of political loyalists ready to install. <a href="https://www.aclu.org/project-2025-explained" target="_blank" rel="noopener">ACLU</a></div></div>
+              <div class="op-evt"><div class="op-evt-d">Jul 2024</div><div class="op-evt-t">On Steve Bannon's podcast: described effort as a <strong>"second American Revolution"</strong> and warned it would be peaceful only if unopposed. <a href="https://www.pbs.org/newshour/politics/heritage-foundation-president-celebrates-supreme-court-ruling-calls-for-second-american-revolution" target="_blank" rel="noopener">PBS</a></div></div>
+              <div class="op-evt"><div class="op-evt-d">1981</div><div class="op-evt-t">Heritage has done this before: their 1981 "Mandate for Leadership" shaped Reagan's first year. This is the <strong>updated playbook</strong> with modern implementation infrastructure.</div></div>
+              <div class="op-evt"><div class="op-evt-d">Dec 2025</div><div class="op-evt-t">Releases <strong>Project 2026</strong> follow-up. Stated goal: "assert effective control over the federal bureaucracy." <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek</a></div></div>
+              <div class="op-evt"><div class="op-evt-d">Ongoing</div><div class="op-evt-t">PBS tracking: <strong>significant portion of Project 2025 already implemented.</strong> <a href="https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" target="_blank" rel="noopener">PBS Tracker</a></div></div>
+            </div></div>
+          </div>
+        </div>
+        <div class="bp-person" data-person="vought">
+          <div class="portrait portrait-sm">
+            <img id="img-vought" alt="">
+            <div class="portrait-init">RV</div>
+          </div>
+          <div class="bp-person-info">
+            <div class="bp-person-role">Director, Office of Management and Budget</div>
+            <div class="bp-person-name">Russell Vought</div>
+            <p class="bp-person-fact">Authored Project 2025's Executive Office chapter. Advocates all executive power belongs solely to the president. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></p>
+            <div class="card-hint">View record &#9662;</div>
+            <div class="bp-detail"><div class="bp-detail-inner">
+              <div class="op-evt"><div class="op-evt-d">2023&ndash;2024</div><div class="op-evt-t">Authored Project 2025 chapter on the Executive Office of the President. Key advocate of <strong>"unitary executive theory"</strong>&mdash;that ALL executive power belongs solely to the president. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></div></div>
+              <div class="op-evt"><div class="op-evt-d">2021&ndash;2024</div><div class="op-evt-t">Between Trump terms, ran <strong>Center for Renewing America</strong>&mdash;planning implementation of the Project 2025 agenda.</div></div>
+              <div class="op-evt"><div class="op-evt-d">2024</div><div class="op-evt-t">ProPublica undercover investigation captured private statements about his plans for executive power. <a href="https://www.propublica.org/article/russell-vought-project-2025-secret-tapes" target="_blank" rel="noopener">ProPublica</a></div></div>
+              <div class="op-evt"><div class="op-evt-d">Jan 2025</div><div class="op-evt-t">Installed as OMB Director&mdash;now <strong>implementing the plan he authored.</strong></div></div>
+              <div class="op-evt"><div class="op-evt-d">2026</div><div class="op-evt-t">DOGE work continues through Vought's office after Musk's departure. <a href="https://prospect.org/2026/02/05/doge-russell-vought-elon-musk-office-management-budget/" target="_blank" rel="noopener">American Prospect</a></div></div>
+            </div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="bp-checklist">
+        <div class="bp-checklist-title">Implementation Status</div>
+        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>Schedule F</strong> executive order &mdash; signed Day 1</div>
+        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>DOJ leadership</strong> replaced with loyalist AG</div>
+        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>FBI leadership</strong> replaced; agent purges underway</div>
+        <div class="bp-item"><span class="bp-check">&#10003;</span> <strong>Intelligence restructuring</strong> &mdash; election security center dissolved</div>
+        <div class="bp-item"><span class="bp-pending">&#9679;</span> <strong>Civil service reclassification</strong> &mdash; in progress</div>
+        <div class="bp-item"><span class="bp-pending">&#9679;</span> <strong>Election admin federalization</strong> &mdash; MEGA Act introduced</div>
+      </div>
+
+      <div class="bp-footer">
+        Sources: <a href="https://www.aclu.org/project-2025-explained" target="_blank" rel="noopener">ACLU</a> &middot;
+        <a href="https://www.pbs.org/newshour/politics/tracking-how-much-of-project-2025-the-trump-administration-achieved-this-year" target="_blank" rel="noopener">PBS Tracker</a> &middot;
+        <a href="https://www.newsweek.com/project-2026-heritage-foundation-document-11183162" target="_blank" rel="noopener">Newsweek (Project 2026)</a> &middot;
+        <a href="https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers" target="_blank" rel="noopener">Axios (Schedule F)</a>
+      </div>
     </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Oct 2025</span>
+  </div>
+
+  <!-- ═══ FULTON COUNTY HORIZONTAL TIMELINE ═══ -->
+  <div class="htl-section">
+    <div class="label">Case Study: The Fulton County Pattern</div>
+    <div class="htl-hint">Follow the pattern &mdash; scroll to trace the timeline &rarr;</div>
+    <div class="htl">
+      <div class="htl-card warn">
+        <div class="htl-date">Dec 2025</div>
+        <div class="htl-title">DOJ sues Georgia for voter data</div>
+        <div class="htl-desc">Demands unredacted voter rolls: names, birth dates, addresses, DL numbers, partial SSNs. Georgia refuses. <a href="https://georgiarecorder.com/2026/01/23/federal-judge-tosses-out-doj-lawsuit-seeking-sensitive-voter-data-in-georgia/" target="_blank" rel="noopener">Georgia Recorder</a></div>
       </div>
-      <div class="inc-title">Mass journalist exodus from Pentagon</div>
-      <div class="inc-desc">Reporters from virtually every major outlet surrender press passes over credentialing restrictions. Only OAN agrees to terms. <a href="https://www.cnn.com/2025/10/15/media/pentagon-press-hegseth-restrictions-journalists-fox" target="_blank" rel="noopener">CNN</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Oct 2025</span>
+      <div class="htl-card warn">
+        <div class="htl-date">Jan 23, 2026</div>
+        <div class="htl-title">Judge dismisses lawsuit</div>
+        <div class="htl-desc">DOJ filed in the wrong court. Case tossed. <a href="https://www.democracydocket.com/news-alerts/court-dismisses-dojs-georgia-voter-roll-lawsuit-because-it-filed-in-the-wrong-district/" target="_blank" rel="noopener">Democracy Docket</a></div>
       </div>
-      <div class="inc-title">Trump pardons convicted Binance founder Changpeng Zhao</div>
-      <div class="inc-desc">CZ pled guilty to enabling money laundering. Binance hosts Trump family crypto tokens. Trump claims he doesn&rsquo;t know who Zhao is. <a href="https://www.npr.org/2025/10/24/nx-s1-5583983/trump-pardons-jailed-binance-founder-who-supported-trump-family-crypto-business" target="_blank" rel="noopener">NPR</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Aug 2025</span>
+      <div class="htl-card crit">
+        <div class="htl-date">Late Jan 2026</div>
+        <div class="htl-title">FBI Atlanta chief removed</div>
+        <div class="htl-desc">Paul Brown, SAC Atlanta, forced out after raising concerns about the planned raid. <a href="https://www.alternet.org/trump-fulton-county-raid/" target="_blank" rel="noopener">Alternet</a></div>
       </div>
-      <div class="inc-title">DNI dissolves Foreign Malign Influence Center</div>
-      <div class="inc-desc">Last federal body tracking foreign election interference. <a href="https://www.justsecurity.org/119653/wjh-dismantling-foreign-malign-influence-center/" target="_blank" rel="noopener">Just Security</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jul 2025</span>
+      <div class="htl-card crit">
+        <div class="htl-date">Jan 28, 2026</div>
+        <div class="htl-title">FBI raids election office</div>
+        <div class="htl-desc">700 boxes of 2020 ballots, all tabulator tapes, all voter rolls seized. Warrant by Missouri prosecutor. <a href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener">ProPublica</a></div>
       </div>
-      <div class="inc-title">One Big Beautiful Bill signed: $911B Medicaid, $187B SNAP cuts</div>
-      <div class="inc-desc">CBO: 10 million lose health coverage, 2.4 million lose food assistance monthly. National work requirements imposed. <a href="https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid" target="_blank" rel="noopener">NPR</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jul 2025</span>
+      <div class="htl-card crit">
+        <div class="htl-date">Jan 28, 2026</div>
+        <div class="htl-title">DNI present at the raid</div>
+        <div class="htl-desc">Gabbard photographed by Reuters next to vehicle of seized boxes. No jurisdictional basis for DNI at domestic law enforcement. <a href="https://www.washingtonpost.com/national-security/2026/01/30/tulsi-gabbard-fulton-county-fbi-raid/" target="_blank" rel="noopener">WaPo</a></div>
       </div>
-      <div class="inc-title">USAID officially shuts down after 64 years</div>
-      <div class="inc-desc">Lancet: 8&ndash;19 million additional deaths projected. UN: U.S. &ldquo;fuelling global humanitarian catastrophe.&rdquo; <a href="https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department" target="_blank" rel="noopener">NPR</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Mar 2025</span>
+      <div class="htl-card warn">
+        <div class="htl-date">Feb 2026</div>
+        <div class="htl-title">Story keeps shifting</div>
+        <div class="htl-desc">Trump says Bondi sent Gabbard. Then says he asked. Gabbard cites "broad statutory authority." Warner demands testimony. <a href="https://abcnews.go.com/Politics/trump-shifts-explanation-dni-gabbard-fbi-georgia-election/story?id=129890577" target="_blank" rel="noopener">ABC News</a></div>
       </div>
-      <div class="inc-title">Alien Enemies Act invoked; court order to stop flights defied</div>
-      <div class="inc-desc">238 Venezuelans sent to CECOT mega-prison. 1798 wartime law used for first time outside declared war. Judge finds probable cause for criminal contempt. <a href="https://www.cnn.com/2025/04/16/politics/boasberg-contempt-deportation-flights/index.html" target="_blank" rel="noopener">CNN</a></div>
-    </div>
-    <div class="inc">
-      <div class="inc-head">
-        <span class="inc-badge crit">Critical</span>
-        <span class="inc-date">Jan 20, 2025</span>
-      </div>
-      <div class="inc-title">1,500 Jan 6 defendants pardoned; seditious conspiracy convictions commuted</div>
-      <div class="inc-desc">Day One blanket clemency. Oath Keepers and Proud Boys leaders released from 18- and 22-year sentences. <a href="https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot" target="_blank" rel="noopener">NPR</a></div>
     </div>
   </div>
 
   <!-- ═══ SUBSCRIBE ═══ -->
   <div class="signup">
-    <div class="label">Stay Informed</div>
+    <div class="label">checks.fail on Substack</div>
     <div class="signup-card">
       <div class="signup-badge">Subscribe</div>
-      <h3>Don't miss a status change.</h3>
-      <p>Weekly digest of what changed, why it matters, and what to watch next. AI-synthesized from 15+ verified sources. Breaking updates when the significance threshold is breached.</p>
-      <!-- UPDATE: Replace URL with your actual Substack publication URL -->
-      <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="signup-btn">Subscribe on Substack</a>
+      <h3>Two streams. One subscription.</h3>
+      <p>Subscribe once. Choose what you get.</p>
+      <div class="sub-streams">
+        <div class="sub-stream">
+          <div class="sub-stream-label">Stream 1</div>
+          <div class="sub-stream-name">Weekly Digest</div>
+          <div class="sub-stream-desc">Automated status changes, new incidents, and what shifted across all 12 monitored systems. AI-synthesized from 15+ verified sources.</div>
+          <div class="sub-stream-freq">Every Sunday</div>
+        </div>
+        <div class="sub-stream">
+          <div class="sub-stream-label">Stream 2</div>
+          <div class="sub-stream-name">Analysis</div>
+          <div class="sub-stream-desc">Long-form deep dives into patterns, institutional dynamics, and what the data means for democratic resilience.</div>
+          <div class="sub-stream-freq">When it matters</div>
+        </div>
+      </div>
+      <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="signup-btn" onclick="markSubscribed()">Subscribe on Substack</a>
       <p class="signup-fine">Free. No spam. Unsubscribe anytime.</p>
+      <div class="sub-embed">
+        <iframe src="https://checksfail.substack.com/embed" width="100%" height="150" style="border:none; background:transparent;" frameborder="0" scrolling="no"></iframe>
+      </div>
     </div>
   </div>
 
@@ -1790,6 +2097,7 @@
     </div>
   </div>
 
+
   <!-- ═══ FOOTER ═══ -->
   <div class="footer">
     <p class="footer-tag">Built because the facts exist but the interface didn't.</p>
@@ -1798,6 +2106,55 @@
     <p class="sig">checks.fail &middot; February 2026</p>
   </div>
 
+</div>
+
+
+<!-- ═══ STICKY SUBSCRIBE FOOTER ═══ -->
+<div class="sticky-sub" id="stickySub">
+  <div class="sticky-sub-inner">
+    <span class="sticky-sub-status"><span class="sticky-sub-dot"></span>9/12 checks failed</span>
+    <span class="sticky-sub-sep"></span>
+    <div class="sticky-sub-actions">
+      <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="sticky-sub-btn">Subscribe</a>
+      <button class="sticky-sub-x" onclick="dismissStickyBar()" aria-label="Dismiss">&times;</button>
+    </div>
+  </div>
+</div>
+
+<!-- Welcome Modal -->
+<div class="welcome-bg" id="welcomeModal">
+  <div class="welcome-panel">
+    <div class="welcome-body">
+      <div class="welcome-title">checks.<span class="fail">fail</span></div>
+      <div class="welcome-subtitle">U.S. Democracy Status Page</div>
+      <p class="welcome-text">
+        This is a <strong>live, sourced tracker</strong> of the systems designed to prevent the abuse of presidential power. Every claim links to its source. Every event is timestamped. Nothing is editorialized&mdash;the pattern speaks for itself.
+      </p>
+      <div class="welcome-stats">
+        <div class="welcome-stat">
+          <div class="welcome-stat-val">9/12</div>
+          <div class="welcome-stat-label">Checks Failed</div>
+        </div>
+        <div class="welcome-stat">
+          <div class="welcome-stat-val">200+</div>
+          <div class="welcome-stat-label">Sourced Events</div>
+        </div>
+        <div class="welcome-stat">
+          <div class="welcome-stat-val av">15+</div>
+          <div class="welcome-stat-label">Verified Sources</div>
+        </div>
+      </div>
+      <div class="welcome-actions">
+        <button class="welcome-enter" onclick="dismissWelcome()">Enter the dashboard</button>
+        <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="welcome-sub" onclick="markSubscribed()">Subscribe</a>
+      </div>
+      <label class="welcome-dismiss-opt">
+        <input type="checkbox" id="welcomeDismissCheck">
+        <span>Do not show this again</span>
+      </label>
+    </div>
+    <div class="welcome-foot">Updated automatically via pipeline. All sources are mainstream reporting, court records, and official filings.</div>
+  </div>
 </div>
 
 <!-- Modal -->
@@ -2015,6 +2372,113 @@ document.querySelectorAll('[data-person]').forEach(function(card) {
       if (txt) txt.textContent = 'Pipeline: offline';
     });
 })();
+
+// ── Sticky footer dismiss ──
+function dismissStickyBar() {
+  var bar = document.getElementById('stickySub');
+  if (bar) bar.classList.add('hidden');
+  try { sessionStorage.setItem('cf_sub_dismissed', '1'); } catch(e) {}
+}
+(function() {
+  try {
+    if (sessionStorage.getItem('cf_sub_dismissed') === '1') {
+      var bar = document.getElementById('stickySub');
+      if (bar) bar.classList.add('hidden');
+    }
+  } catch(e) {}
+})();
+
+// ── Incident log toggle ──
+function toggleIncidents() {
+  var container = document.getElementById('incidentLog');
+  var overflow = document.getElementById('incOverflow');
+  var text = document.getElementById('incToggleText');
+  if (!container || !overflow) return;
+  var isOpen = container.classList.toggle('expanded');
+  overflow.classList.toggle('open');
+  text.textContent = isOpen ? 'Show fewer' : 'Show all incidents';
+}
+
+// ── System status toggle ──
+function toggleChecks() {
+  var container = document.getElementById('systemChecks');
+  var overflow = document.getElementById('chkOverflow');
+  var text = document.getElementById('chkToggleText');
+  if (!container || !overflow) return;
+  var isOpen = container.classList.toggle('expanded');
+  overflow.classList.toggle('open');
+  text.textContent = isOpen ? 'Show fewer' : 'Show all checks';
+}
+
+// ── Admin toggle + search ──
+function toggleAdmin() {
+  var container = document.getElementById('adminSection');
+  var overflow = document.getElementById('opsOverflow');
+  var text = document.getElementById('opsToggleText');
+  if (!container || !overflow) return;
+  var isOpen = container.classList.toggle('expanded');
+  overflow.classList.toggle('open');
+  text.textContent = isOpen ? 'Show fewer' : 'Show all operators';
+}
+
+function searchAdmin(query) {
+  var section = document.getElementById('adminSection');
+  var ops = section.querySelectorAll('.op');
+  var q = query.toLowerCase().trim();
+  if (!q) {
+    section.classList.remove('search-active');
+    ops.forEach(function(op) { op.classList.remove('search-hidden'); });
+    return;
+  }
+  section.classList.add('search-active');
+  ops.forEach(function(op) {
+    var name = (op.querySelector('.op-name') || {}).textContent || '';
+    var role = (op.querySelector('.op-role') || {}).textContent || '';
+    var lede = (op.querySelector('.op-lede') || {}).textContent || '';
+    var match = (name + ' ' + role + ' ' + lede).toLowerCase().indexOf(q) !== -1;
+    op.classList.toggle('search-hidden', !match);
+  });
+}
+
+// ── Welcome modal ──
+function dismissWelcome() {
+  var modal = document.getElementById('welcomeModal');
+  if (modal) modal.classList.remove('active');
+  document.body.style.overflow = '';
+  var chk = document.getElementById('welcomeDismissCheck');
+  if (chk && chk.checked) {
+    try { localStorage.setItem('cf_welcomed', '1'); } catch(e) {}
+  }
+}
+function markSubscribed() {
+  try {
+    localStorage.setItem('cf_subscribed', '1');
+    localStorage.setItem('cf_welcomed', '1');
+  } catch(e) {}
+  var modal = document.getElementById('welcomeModal');
+  if (modal) modal.classList.remove('active');
+  document.body.style.overflow = '';
+}
+(function() {
+  try {
+    if (localStorage.getItem('cf_welcomed') !== '1') {
+      var modal = document.getElementById('welcomeModal');
+      if (modal) {
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      }
+    }
+    // Hide sticky bar permanently if user clicked subscribe
+    if (localStorage.getItem('cf_subscribed') === '1') {
+      var bar = document.getElementById('stickySub');
+      if (bar) bar.classList.add('hidden');
+    }
+  } catch(e) {}
+})();
+// Close welcome on overlay click
+document.getElementById('welcomeModal').addEventListener('click', function(e) {
+  if (e.target === this) dismissWelcome();
+});
 </script>
 
 </body>
