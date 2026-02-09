@@ -1,0 +1,45 @@
+name: Propose Dashboard Updates
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'  # Sunday noon UTC (7am ET) — before Monday digest
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  propose-updates:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: cd pipeline && npm ci
+
+      - name: Generate proposed updates
+        id: update
+        run: cd pipeline && node update-site.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Create PR with proposed updates
+        if: steps.update.outputs.has_updates == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="auto-update/$(date -u +%Y-%m-%d)"
+          git config user.name "checks.fail bot"
+          git config user.email "bot@checks.fail"
+          git checkout -b "$BRANCH"
+          git add index.html data/last-site-update.json
+          git commit -m "proposed: dashboard updates $(date -u +%Y-%m-%d)"
+          git push -u origin "$BRANCH"
+          gh pr create \
+            --title "Dashboard Update: $(date -u +%Y-%m-%d)" \
+            --body-file data/pr-body.md \
+            --base master

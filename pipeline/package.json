@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "fetch": "node index.js fetch",
-    "digest": "node index.js digest"
+    "digest": "node index.js digest",
+    "update-site": "node update-site.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
