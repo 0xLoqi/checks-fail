@@ -1,5 +1,2272 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "id": "7dc16f3c61e5",
+      "title": "Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump",
+      "url": "https://www.propublica.org/article/institute-of-museum-and-library-services-grant-guidelines-donald-trump",
+      "source": "ProPublica",
+      "published": "2026-02-06T15:30:00.000Z",
+      "description": "The post Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.157Z"
+    },
+    {
+      "id": "62dd9a8711d8",
+      "title": "“You’re Not Going to Investigate a Federal Officer”",
+      "url": "https://www.propublica.org/article/why-local-state-police-rarely-investigate-ice-cbp-fbi",
+      "source": "ProPublica",
+      "published": "2026-02-05T11:00:00.000Z",
+      "description": "The post “You’re Not Going to Investigate a Federal Officer” appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.157Z"
+    },
+    {
+      "id": "f9c6fb2e59ff",
+      "title": "The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building",
+      "url": "https://www.propublica.org/article/chicago-venezuela-immigration-ice-raid-landlord-tren-de-aragua",
+      "source": "ProPublica",
+      "published": "2026-02-04T15:30:00.000Z",
+      "description": "The post The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building appeared first on ProPublica.",
+      "keywords": [
+        "raid",
+        "immigration",
+        "DNI"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.157Z"
+    },
+    {
+      "id": "fee6bdcd0bdc",
+      "title": "She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad.",
+      "url": "https://www.propublica.org/article/nike-factory-worker-rights-indonesia-advocate",
+      "source": "ProPublica",
+      "published": "2026-01-30T10:25:00.000Z",
+      "description": "The post She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad. appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.157Z"
+    },
+    {
+      "id": "6b5c0e071904",
+      "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
+      "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter",
+      "source": "ProPublica",
+      "published": "2026-01-29T21:30:00.000Z",
+      "description": "The post Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation appeared first on ProPublica.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.157Z"
+    },
+    {
+      "id": "001b7a618ec9",
+      "title": "FBI’s Search of Georgia Election Center Is “Dangerous,” Experts Warn",
+      "url": "https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant",
+      "source": "ProPublica",
+      "published": "2026-01-29T10:15:00.000Z",
+      "description": "The post FBI’s Search of Georgia Election Center Is “Dangerous,” Experts Warn appeared first on ProPublica.",
+      "keywords": [
+        "election",
+        "FBI",
+        "georgia election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.158Z"
+    },
+    {
+      "id": "ec5afe7455c2",
+      "title": "Trump administration lauds plastic surgeons' statement on trans surgery for minors",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705304/transgender-minors-gender-affirming-care-plastic-surgery",
+      "source": "NPR Politics",
+      "published": "2026-02-08T14:28:07.000Z",
+      "description": "A patient who came to regret the top surgery she got as a teen won a $2 million malpractice suit. Then, the American Society of Plastic Surgeons clarified its position that surgery is not recommended for transgender minors.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.158Z"
+    },
+    {
+      "id": "c14549e6be52",
+      "title": "Immigration enforcement emerges as the major issue in the Texas U.S. Senate race",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5704264/immigration-enforcement-emerges-as-the-major-issue-in-the-texas-u-s-senate-race",
+      "source": "NPR Politics",
+      "published": "2026-02-08T12:58:47.000Z",
+      "description": "Texas' U.S. Senate is grappling with how immigration enforcement should look like ahead of its primary elections.",
+      "keywords": [
+        "election",
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.158Z"
+    },
+    {
+      "id": "a96b8e8259c0",
+      "title": "Politics chat: Trump defends posting racist clip, Judge rules on Hudson River project",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5702380/politics-chat-trump-defends-posting-racist-clip-judge-rules-on-hudson-river-project",
+      "source": "NPR Politics",
+      "published": "2026-02-08T12:58:31.000Z",
+      "description": "President Trump explains how a racist video clip made it into his Truth Social post. A judge rules that his administration cannot block funds for a massive tunnel project under the Hudson river.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.158Z"
+    },
+    {
+      "id": "4c717685618b",
+      "title": "Thailand counts votes in early election with 3 main parties vying for power",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705865/thailand-counts-votes-election",
+      "source": "NPR Politics",
+      "published": "2026-02-08T10:58:16.000Z",
+      "description": "Vote counting was underway in Thailand's early general election on Sunday, seen as a three-way race among competing visions of progressive, populist and old-fashioned patronage politics.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.158Z"
+    },
+    {
+      "id": "5f700deaf904",
+      "title": "Pentagon says it's cutting ties with 'woke' Harvard, ending military training",
+      "url": "https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training",
+      "source": "NPR Politics",
+      "published": "2026-02-07T23:43:24.000Z",
+      "description": "Amid an ongoing standoff between Harvard and the White House, the Defense Department said it plans to cut ties with the Ivy League — ending military training, fellowships and certificate programs.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.159Z"
+    },
+    {
+      "id": "5b0cca576ff3",
+      "title": "What is the state of democracy in the U.S.?",
+      "url": "https://www.npr.org/2026/02/07/nx-s1-5702452/what-is-the-state-of-democracy-in-the-u-s",
+      "source": "NPR Politics",
+      "published": "2026-02-07T12:57:58.000Z",
+      "description": "NPR's Scott Simon speaks to author Anne Applebaum about how the U.S. may be headed toward authoritarianism.",
+      "keywords": [
+        "democracy",
+        "authoritarian"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.159Z"
+    },
+    {
+      "id": "1741c3f181fd",
+      "title": "Week in politics: Trump's engagement in foreign conflicts, poll reveals where voters stand on key issues",
+      "url": "https://www.npr.org/2026/02/07/nx-s1-5697937/week-in-politics-trumps-engagement-in-foreign-conflicts-poll-reveals-where-voters-stand-on-key-issues",
+      "source": "NPR Politics",
+      "published": "2026-02-07T12:57:41.000Z",
+      "description": "NPR Political Correspondent Domenico Montanaro joins to discuss the Trump administration's engagement in foreign conflicts, as well as what a recent poll says about what where voters stand on several key issues, including immigration and the economy.",
+      "keywords": [
+        "voter",
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.159Z"
+    },
+    {
+      "id": "9a118ebaacb5",
+      "title": "State Department will delete X posts from before Trump returned to office",
+      "url": "https://www.npr.org/2026/02/07/nx-s1-5704785/state-department-trump-posts-x",
+      "source": "NPR Politics",
+      "published": "2026-02-07T10:00:00.000Z",
+      "description": "The policy change orders the removal of any post made by official State Department accounts on X before President Trump returned to office in 2025.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.159Z"
+    },
+    {
+      "id": "97fcbe8617c9",
+      "title": "Trump's harsh immigration tactics are taking a political hit",
+      "url": "https://www.npr.org/2026/02/06/nx-s1-5697026/trumps-harsh-immigration-tactics-are-taking-a-political-hit",
+      "source": "NPR Politics",
+      "published": "2026-02-06T20:52:01.000Z",
+      "description": "President Trump's popularity on one of his political strengths is in jeopardy.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.159Z"
+    },
+    {
+      "id": "ea261569349c",
+      "title": "News Wrap: Trump's racist social media post about the Obamas draws backlash",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trumps-racist-social-media-post-about-the-obamas-draws-backlash",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:50:51.000Z",
+      "description": "In our news wrap Friday, the White House defended and then removed a racist depiction of the Obamas from Trump's social media, the U.S. arrested a key suspect in the 2012 Benghazi attack, a bomb blast killed Shiite worshippers at a mosque in Pakistan's capital, authorities are investigating the authenticity of a \"new message\" about Nancy Guthrie, and Hall of Fame quarterback Sonny Jurgensen died.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "ac54e212ef32",
+      "title": "Atkins Stohr and Parker on political fallout from Trump's call to 'nationalize' elections",
+      "url": "https://www.pbs.org/newshour/show/atkins-stohr-and-parker-on-political-fallout-from-trumps-call-to-nationalize-elections",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:25:54.000Z",
+      "description": "Kimberly Atkins Stohr of The Boston Globe and Kathleen Parker of The Washington Post join Geoff Bennett to discuss the week in politics, including the fallout from President Trump's call to \"nationalize\" elections and his immigration crackdown.",
+      "keywords": [
+        "election",
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "fbee58b78f45",
+      "title": "Trump ends Obama-era restrictions on commercial fishing in protected area off New England",
+      "url": "https://www.pbs.org/newshour/nation/trump-ends-obama-era-restrictions-on-commercial-fishing-in-protected-area-off-new-england",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:08:51.000Z",
+      "description": "Trump's proclamation is his latest move to try to strengthen U.S. fishing while rolling back existing conservation measures",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "b89be8983435",
+      "title": "Bitcoin price drops below pre-Trump second term levels, now hovering below $67,000",
+      "url": "https://www.pbs.org/newshour/economy/bitcoin-price-drops-below-pre-trump-second-term-levels-now-hovering-below-67000",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T18:08:06.000Z",
+      "description": "The sell-off is driven by investors pulling out of speculative assets and concerns about future cryptocurrency regulation.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "5d4822cd56f2",
+      "title": "UK police search two properties linked to Peter Mandelson as part of Epstein probe",
+      "url": "https://www.pbs.org/newshour/politics/uk-police-search-two-properties-linked-to-peter-mandelson-as-part-of-epstein-probe",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:53:55.000Z",
+      "description": "Mandelson has not been arrested or charged.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "538b4748b538",
+      "title": "Republicans reject complaint about Gabbard as Democrats question time it took to see it",
+      "url": "https://www.pbs.org/newshour/politics/republicans-reject-complaint-about-gabbard-as-democrats-question-time-it-took-to-see-it",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:48:50.000Z",
+      "description": "Sen. Tom Cotton and Rep. Rick Crawford also dismissed allegations from Democratic lawmakers that Gabbard tried to delay referring the complaint to Congress as required by law.",
+      "keywords": [
+        "gabbard"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "7c6ea6a484d7",
+      "title": "Facing high Trump tariffs, Africa's leading economy says it's close to a new trade deal with China",
+      "url": "https://www.pbs.org/newshour/world/facing-high-trump-tariffs-africas-leading-economy-says-its-close-to-a-new-trade-deal-with-china",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:22:26.000Z",
+      "description": "South Africa's Ministry of Trade and Industry said the agreement would start negotiations over a deal that would give some South African goods, such as fruit, duty-free access to the Chinese market.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "fcea60713f57",
+      "title": "A timeline of the Jeffrey Epstein investigation and the fight to make the government's files public",
+      "url": "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T15:30:11.000Z",
+      "description": "The release is the culmination of a yearslong fight over the records underpinning one of the Justice Department's most high-profile and highly debated cases.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "00e213436379",
+      "title": "Census Bureau plans to use survey with a citizenship question in its test for 2030, alarming experts",
+      "url": "https://www.pbs.org/newshour/politics/census-bureau-plans-to-use-survey-with-a-citizenship-question-in-its-test-for-2030-alarming-experts",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T14:55:55.000Z",
+      "description": "This decision follows the Trump administration's failed attempt to add such a question to the 2020 census.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "48a80bf50d45",
+      "title": "Trump's racist post about Obamas is deleted after backlash despite White House earlier defending it",
+      "url": "https://www.pbs.org/newshour/politics/trump-shares-a-racist-video-that-depicts-the-obamas-as-primates",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T14:51:11.000Z",
+      "description": "The Republican president's Thursday night post was deleted Friday and blamed on a staffer after widespread backlash, from civil rights leaders to veteran Republican senators, for its treatment of the nation's first Black president and first lady.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.160Z"
+    },
+    {
+      "id": "13cc304d5e51",
+      "title": "Minneapolis man charged with threatening, cyberstalking ICE officers",
+      "url": "https://www.pbs.org/newshour/nation/minneapolis-man-charged-with-threatening-cyberstalking-ice-officers",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T00:29:35.000Z",
+      "description": "Attorney General Pamela Bondi alleged in a statement that Wagner doxed and threatened law enforcement officers, claimed an affiliation with antifa and \"encouraged bloodshed in the streets.\"",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "6f8963a5d433",
+      "title": "News Wrap: Trump rejects extension of expired U.S.-Russia nuclear arms treaty",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-rejects-extension-of-expired-u-s-russia-nuclear-arms-treaty",
+      "source": "PBS NewsHour",
+      "published": "2026-02-05T23:45:09.000Z",
+      "description": "In our news wrap Thursday, Trump rejected an offer from Russia to temporarily extend caps on strategic nuclear weapons, Ukraine and Russia wrapped a second day of talks in Abu Dhabi, the Trump administration is stripping job protections from thousands of federal workers, Nigeria is launching a new military operation against Islamic militants, and Vance cheered on U.S. Olympic athletes in Milan.",
+      "keywords": [
+        "federal workers",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "9935fd0b013b",
+      "title": "WATCH: Trump says he will revoke church tax exempt status if leaders 'say something bad about' him",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-will-revoke-church-tax-exempt-status-if-leaders-say-something-bad-about-him",
+      "source": "PBS NewsHour",
+      "published": "2026-02-05T23:30:12.000Z",
+      "description": "President Donald Trump on Thursday falsely claimed he had eliminated a provision of the U.S. tax code that bans 501(c)(3) nonprofit organizations, including churches, from endorsing or opposing political candidates.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "58b7bf6e8823",
+      "title": "WATCH: Trump says Gabbard joined FBI search at Fulton County election center at Bondi's 'insistence'",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-gabbard-joined-fbi-search-at-fulton-county-election-center-at-bondis-insistence",
+      "source": "PBS NewsHour",
+      "published": "2026-02-05T23:07:06.000Z",
+      "description": "President Donald Trump offered a shifting explanation for the presence of Tulsi Gabbard, the director of national intelligence, at an FBI search last week of the main elections hub in Fulton County, Georgia.",
+      "keywords": [
+        "election",
+        "bondi",
+        "FBI",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "8bd90e2ffdef",
+      "title": "WATCH: Trump launches TrumpRx prescription drug site",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-expected-to-announce-launch-of-trumprx-prescription-drug-site",
+      "source": "PBS NewsHour",
+      "published": "2026-02-05T22:49:02.000Z",
+      "description": "The Trump administration on Thursday launched TrumpRx, a website it says will help patients buy prescription drugs directly at a discounted rate at a time when health care and the cost of living are growing concerns for Americans.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "bc54fcc23fc9",
+      "title": "",
+      "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "source": "CNN Politics",
+      "published": null,
+      "description": "Vice President Kamala Harris, a former US senator from California who previously served as the state's attorney general, could be the first Black woman and Asian American to lead a major party ticket after receiving President Joe Biden's support to become the next Democratic presidential nominee.",
+      "keywords": [
+        "attorney general",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "63949637a323",
+      "title": "Trump accepts ownership of the current economy: 'I'm very proud of it'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-accepts-ownership-economy-proud-rcna257544",
+      "source": "NBC News",
+      "published": "2026-02-08T20:17:38.000Z",
+      "description": "President Donald Trump says it’s his economy now",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "ba54199d1a4c",
+      "title": "Trump's election threats shape this year's key secretary of state races",
+      "url": "https://www.nbcnews.com/politics/2026-election/trumps-election-threats-shape-years-key-secretary-state-races-rcna257573",
+      "source": "NBC News",
+      "published": "2026-02-08T10:00:00.000Z",
+      "description": "President Donald Trump’s call to “nationalize” elections and continued false claims of fraud are defining races this year for offices that oversee the voting process in key battleground states",
+      "keywords": [
+        "election",
+        "voting",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.161Z"
+    },
+    {
+      "id": "5b863652d8a4",
+      "title": "Read the full transcript: President Donald Trump interviewed by 'NBC Nightly News' anchor Tom Llamas",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-interview-nbc-news-extend-transcript-tom-llamas-super-bowl-2026-rcna257410",
+      "source": "NBC News",
+      "published": "2026-02-05T03:30:40.000Z",
+      "description": "Trump spoke about immigration, the Fed, artificial intelligence, the economy and more in the February 2026 interview.",
+      "keywords": [
+        "immigration",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "22df8f8465f4",
+      "title": "Fact-checking Trump's interview with NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/fact-check-trump-interview-nbc-news-rcna257084",
+      "source": "NBC News",
+      "published": "2026-02-05T01:12:02.000Z",
+      "description": "Trump made several false or misleading claims on topics ranging from the economy to immigration to elections during an Oval Office interview with NBC News’ Tom Llamas.",
+      "keywords": [
+        "election",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "3e59e245db76",
+      "title": "Trump says it's 'terrible' Bill Belichick wasn't elected to the Hall of Fame on the first ballot",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-bill-belichick-hall-fame-rcna257548",
+      "source": "NBC News",
+      "published": "2026-02-08T20:18:05.000Z",
+      "description": "President Donald Trump thinks Bill Belichick should have been elected to the Hall of Fame — hinting that a “controversial” recent history may have led voters to snub the celebrated coach",
+      "keywords": [
+        "ballot",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "a5f0fa579954",
+      "title": "Members of Congress to view unredacted Epstein files",
+      "url": "https://www.nbcnews.com/video/members-of-congress-to-view-unredacted-epstein-files-257315909664",
+      "source": "NBC News",
+      "published": "2026-02-07T02:00:30.000Z",
+      "description": "Members of Congress will be able to begin reviewing the unredacted version of the Justice Department’s files on Jeffrey Epstein on Monday morning. The review process will take place in person at the DOJ. NBC News' Ryan Nobles reports.",
+      "keywords": [
+        "DOJ",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "27616ccdc9bc",
+      "title": "Trump account deletes re-post of racist video after outrage",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-account-deletes-re-post-of-racist-video-after-outrage-257311301545",
+      "source": "NBC News",
+      "published": "2026-02-07T00:19:15.000Z",
+      "description": "Trump account deletes re-post of racist video after outrage\nIn a rare reversal, the Trump White House deleted a re-post of a racist video of the Obamas from the president’s social media account following intense backlash. NBC News’ Garrett Haake reports.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "9a99d444b090",
+      "title": "Trump expecting ‘significant concessions’ from diplomatic talks with Iran, says Mideast expert",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-expecting-significant-concessions-from-diplomatic-talks-with-iran-says-mideast-expert-257299525861",
+      "source": "NBC News",
+      "published": "2026-02-06T22:09:29.000Z",
+      "description": "Carnegie Endowment for International Peace Senior Fellow Karim Sadjadpour discusses the latest U.S.-Iran talks mediated by Oman after weeks of escalating tensions between the two countries.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "30b223dbcc17",
+      "title": "How Trump's $10 billion suit against his own government could go sideways",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trumps-10-billion-suit-government-go-sideways-rcna257483",
+      "source": "NBC News",
+      "published": "2026-02-06T14:31:02.000Z",
+      "description": "President Donald Trump's $10 billion lawsuit against the IRS and Teasury Department may not turn into a legal settlement for him.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "fea5af34df20",
+      "title": "Trump talks Minneapolis, Joe Rogan, the Fed, AI and 2028 in a wide-ranging interview",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-minneapolis-joe-rogan-fed-ai-2028-interview-rcna256641",
+      "source": "NBC News",
+      "published": "2026-02-05T00:08:40.000Z",
+      "description": "President Donald Trump said Wednesday that he hopes to push his immigration crackdown into five more cities, previewing an ongoing and growing footprint for federal agents around the country.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "29be810cbcc4",
+      "title": "Republicans clash over the Senate filibuster and Trump-backed voter ID bill",
+      "url": "https://www.nbcnews.com/politics/congress/senate-republicans-clash-filibuster-trump-backed-voter-id-bill-rcna257431",
+      "source": "NBC News",
+      "published": "2026-02-05T18:50:03.000Z",
+      "description": "Republicans clash over the filibuster as President Donald Trump and others push for the SAVE Act to require proof of citizenship to vote in elections.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "e23de84f820a",
+      "title": "Full interview: Tom Llamas exclusive with President Trump",
+      "url": "https://www.nbcnews.com/video/full-interview-tom-llamas-exclusive-with-president-trump-257304133923",
+      "source": "NBC News",
+      "published": "2026-02-08T20:10:01.000Z",
+      "description": "In the full interview with NBC News’ Tom Llamas, President Donald Trump addresses the backlash to immigration enforcement, the state of the American economy, U.S. tensions with Iran and other topics at the White House. The interview was conducted on Wednesday, February 4.",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.162Z"
+    },
+    {
+      "id": "2572661ba63f",
+      "title": "Super Bowl interview: Tom Llamas exclusive with President Trump",
+      "url": "https://www.nbcnews.com/video/super-bowl-interview-tom-llamas-exclusive-with-president-trump-257354309569",
+      "source": "NBC News",
+      "published": "2026-02-08T14:42:32.000Z",
+      "description": "In an interview with NBC News’ Tom Llamas for Super Bowl 60, President Donald Trump talks about the strengths of the Seattle Seahawks and New England Patriots, their quarterbacks and Bill Belichick’s snub from the Pro Football Hall of Fame. The president also addresses a wide range of topics, from his immigration crackdown to affordability and the cost of goods for Americans.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "da2df230790e",
+      "title": "Nancy Pelosi to back JFK's grandson in crowded House primary, source says",
+      "url": "https://www.nbcnews.com/politics/elections/nancy-pelosi-set-endorse-jfks-grandson-new-york-house-seat-source-says-rcna257968",
+      "source": "NBC News",
+      "published": "2026-02-08T01:23:10.000Z",
+      "description": "Former House Speaker Nancy Pelosi, D-Calif., plans to endorse Jack Schlossberg, the grandson of President John F. Kennedy, in his run for a competitive House seat in New York City, a source familiar with the matter told NBC News",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "34b1c8ee717d",
+      "title": "Tulsi Gabbard responds to criticism over handling of whistleblower complaint",
+      "url": "https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-responds-senators-criticism-handling-whistleblower-compl-rcna257952",
+      "source": "NBC News",
+      "published": "2026-02-08T00:35:56.000Z",
+      "description": "Director of National Intelligence Tulsi Gabbard responded to criticism from Sen.",
+      "keywords": [
+        "gabbard",
+        "intelligence",
+        "national intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "e32b4713b64a",
+      "title": "Ohio man charged with threatening to kill Vice President JD Vance",
+      "url": "https://www.nbcnews.com/politics/politics-news/ohio-man-charged-threatening-kill-vice-president-jd-vance-rcna257940",
+      "source": "NBC News",
+      "published": "2026-02-07T21:24:43.000Z",
+      "description": "An Ohio man is charged with threatening to kill Vice President JD Vance and with receiving and distributing images containing child sexual abuse material.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "f62287e3247d",
+      "title": "Trump calls U.S. and Iran talks in Oman 'very good' and says there will be another meeting",
+      "url": "https://www.nbcnews.com/world/iran/trump-calls-us-iran-talks-oman-good-says-will-another-meeting-rcna257857",
+      "source": "NBC News",
+      "published": "2026-02-07T03:44:41.000Z",
+      "description": "President Donald Trump said Friday that the high-stakes talks between Iran and the United States in Oman had gone well and that the two sides would meet again next week, though he did not provide any details about the meeting.“They had a very good meeting with a very high representative Iran, of Iran, and we’ll see how it all turns out,” Trump told a gathering of reporters aboard Air Force One, noting that the country could not be permitted to have nuclear weapons under any deal.“We’re",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "69c7769717b9",
+      "title": "Trump says he won't apologize for racist post depicting the Obamas as apes",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-shares-racist-video-depicting-obamas-monkeys-rcna257756",
+      "source": "NBC News",
+      "published": "2026-02-06T15:16:00.000Z",
+      "description": "The White House initially defended Trump's post, saying it was \"from an internet meme video.\" But after backlash — including from Republicans — it was removed.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "93d55dc71e86",
+      "title": "Judge says Trump must release funds for $16B New York-New Jersey tunnel",
+      "url": "https://www.nbcnews.com/politics/trump-administration/judge-rules-favor-new-york-new-jersey-now-16b-tunnel-fight-trump-rcna257865",
+      "source": "NBC News",
+      "published": "2026-02-07T01:25:13.000Z",
+      "description": "A federal judge on Friday temporarily blocked the Trump administration from suspending federal disbursements for the Gateway Tunnel project",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "761d69307c57",
+      "title": "Democrat wins Louisiana state House special seat in district Trump won",
+      "url": "https://www.cbsnews.com/news/chasity-verret-martinez-wins-democrat-louisiana-special-election-trump/",
+      "source": "CBS News",
+      "published": "2026-02-08T23:21:26.000Z",
+      "description": "Democrat Chasity Verret Martinez defeated her Republican opponent in a district President Trump won by 13 points in 2024.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "e42e2dac8c35",
+      "title": "Lawmakers in standoff over ICE reforms as DHS funding deadline approaches",
+      "url": "https://www.cbsnews.com/news/dhs-funding-deadline-approaches-ice-reforms/",
+      "source": "CBS News",
+      "published": "2026-02-08T22:13:47.000Z",
+      "description": "Republicans and Democrats in Congress are locked in a standoff over reforming the nation's immigration enforcement operation as a deadline to reach a resolution and fund the Department of Homeland Security approaches.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "7a1c1894587b",
+      "title": "Gonzales defends conditions at Texas detention center with measles outbreak",
+      "url": "https://www.cbsnews.com/news/tony-gonzales-dilley-detention-facility-conditions-measles/",
+      "source": "CBS News",
+      "published": "2026-02-08T21:57:50.000Z",
+      "description": "Rep. Tony Gonzales said the Dilley detention facility, the only immigration facility that houses children, is \"nicer than some elementary schools.\"",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.163Z"
+    },
+    {
+      "id": "222b20ea3ba1",
+      "title": "Trump lashes out at Team USA athlete for sharing thoughts on politics",
+      "url": "https://www.cbsnews.com/news/trump-lashes-out-hunter-hess-milano-cortina-winter-games/",
+      "source": "CBS News",
+      "published": "2026-02-08T20:46:47.000Z",
+      "description": "President Trump criticized Team USA freestyle skier Hunter Hess after he and other American athletes at the 2026 Winter Olympics shared their thoughts on U.S. politics.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "34cf71e63158",
+      "title": "Transcript: David Becker on \"Face the Nation with Margaret Brennan,\" Feb. 8, 2026",
+      "url": "https://www.cbsnews.com/news/david-becker-election-law-face-the-nation-transcript-02-08-2026/",
+      "source": "CBS News",
+      "published": "2026-02-08T20:26:18.000Z",
+      "description": "The following is the transcript of the interview with David Becker, executive director of the Center for Election Innovation and Research and a CBS News election law contributor, that aired on \"Face the Nation with Margaret Brennan\" on Feb. 8, 2026.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "929d484d6865",
+      "title": "DNI whistleblower complaint has intercept of call between foreign nationals",
+      "url": "https://www.cbsnews.com/news/dni-whistleblower-complaint-nsa-intercept-sources/",
+      "source": "CBS News",
+      "published": "2026-02-08T18:10:42.000Z",
+      "description": "A whistleblower complaint includes highly-classified details about a National Security Agency intercept of a call between two foreign nationals who discussed a person close to President Trump, two sources said.",
+      "keywords": [
+        "DNI",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "4a45c4d58467",
+      "title": "Trump says he \"didn't see\" image depicting Obamas as apes in social media post",
+      "url": "https://www.cbsnews.com/news/trump-obama-apes-in-social-media-post-didnt-see/",
+      "source": "CBS News",
+      "published": "2026-02-08T01:49:11.000Z",
+      "description": "President Trump late Friday addressed a video posted to his social media account that included a racist depiction of Barack and Michelle Obama as apes, telling reporters he didn't see the part that showed the former president and first lady.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "5508d466c99a",
+      "title": "White House removes Trump post with racist footage of Obamas hours after defending it",
+      "url": "https://www.cbsnews.com/news/trump-shares-racist-video-depicting-obamas-as-apes/",
+      "source": "CBS News",
+      "published": "2026-02-08T01:48:11.000Z",
+      "description": "The footage is included in a video that promotes false claims that the 2020 presidential election was rigged against Mr. Trump.",
+      "keywords": [
+        "election",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "0aaddfbf007b",
+      "title": "Trump refuses to apologize for racist video despite outrage, condemnation",
+      "url": "https://www.cbsnews.com/video/trump-refuses-apologize-racist-video-despite-outrage-condemnation/",
+      "source": "CBS News",
+      "published": "2026-02-08T01:42:00.000Z",
+      "description": "President Trump refused to apologize after sharing a racist video on Truth Social and then later taking it down. Willie James Inman has more.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "8aac114bff6b",
+      "title": "Massive release of Epstein files includes 3 million documents and photos",
+      "url": "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/",
+      "source": "CBS News",
+      "published": "2026-02-08T01:41:33.000Z",
+      "description": "The Justice Department released more new documents on Jan. 30 from the Jeffrey Epstein files, more than a month after the DOJ's original deadline to do so.",
+      "keywords": [
+        "DOJ",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "4b6b22690281",
+      "title": "Nancy Pelosi to endorse Jack Schlossberg in New York congressional race",
+      "url": "https://www.cbsnews.com/news/nancy-pelosi-to-endorse-jack-schlossberg-new-york-congressional-race/",
+      "source": "CBS News",
+      "published": "2026-02-08T00:35:42.000Z",
+      "description": "Former House Speaker Nancy Pelosi plans to endorse Jack Schlossberg, John F. Kennedy's grandson, a source familiar confirmed to CBS News.",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "3b6c830e8e97",
+      "title": "Judge orders U.S. to return families affected by Trump's separation policy",
+      "url": "https://www.cbsnews.com/news/trump-family-separation-policy-deported-judge/",
+      "source": "CBS News",
+      "published": "2026-02-07T20:22:22.000Z",
+      "description": "A judge ordered the U.S. to return three migrant families who were affected by  President Trump's family separation policy​ in his first term and then deported in his second.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "1c753dd27ec3",
+      "title": "Trump throws support behind Nexstar-Tegna broadcast deal he once opposed",
+      "url": "https://www.cbsnews.com/news/trump-support-nexstar-tegna-broadcast-deal/",
+      "source": "CBS News",
+      "published": "2026-02-07T19:45:12.000Z",
+      "description": "Nexstar's acquisition of Tegna would bring together two companies with significant holdings in local broadcast media.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.164Z"
+    },
+    {
+      "id": "bf9b4bd85570",
+      "title": " Voters are worried about the cost of housing. But Trump wants home prices to keep climbing",
+      "url": "https://abcnews.go.com/Politics/wireStory/voters-worried-cost-housing-trump-home-prices-climbing-129963537",
+      "source": "ABC News",
+      "published": "2026-02-08T12:46:15.000Z",
+      "description": "The White House is trying to show it's lowering the cost of living, but President Donald Trump has said he doesn't want to see the price of homes come down",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "a0912ba46c99",
+      "title": " Man charged with threatening to kill Vance and possessing child abuse files",
+      "url": "https://abcnews.go.com/Politics/wireStory/ohio-man-charged-threatening-kill-vice-president-jd-129951879",
+      "source": "ABC News",
+      "published": "2026-02-07T19:19:36.000Z",
+      "description": "An Ohio man has been charged with threatening to kill Vice President JD Vance while he was visiting his home state last month",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "9fa2e8e8e007",
+      "title": " Trump administration approves weed killer dicamba for two common genetically modified crops",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-administration-approves-weed-killer-dicamba-common-genetically-129938718",
+      "source": "ABC News",
+      "published": "2026-02-07T01:01:28.000Z",
+      "description": "The Environmental Protection Agency on Friday approved the use of the weed killer dicamba on genetically modified soybeans and cotton",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "a00e92b5d006",
+      "title": " Justice Department will allow lawmakers to see unredacted versions of Epstein files",
+      "url": "https://abcnews.go.com/Politics/wireStory/justice-department-lawmakers-unredacted-versions-released-epstein-files-129937897",
+      "source": "ABC News",
+      "published": "2026-02-07T02:03:15.000Z",
+      "description": "The Department of Justice will allow members of Congress to review unredacted files on the convicted sex offender Jeffrey Epstein",
+      "keywords": [
+        "department of justice",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "60609503437e",
+      "title": " Trump's aggressive tactics force a reckoning between local leaders and Washington",
+      "url": "https://abcnews.go.com/Politics/wireStory/trumps-aggressive-tactics-force-reckoning-local-leaders-washington-129911998",
+      "source": "ABC News",
+      "published": "2026-02-06T12:37:51.000Z",
+      "description": "Local leaders across the U.S. describe an increasingly hostile relationship with Washington, driven by President Donald Trump's immigration policies",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "eb05545150b9",
+      "title": " Census Bureau plans to use survey with a citizenship question in its test for 2030",
+      "url": "https://abcnews.go.com/Politics/wireStory/census-bureau-plans-survey-citizenship-question-test-2030-129899527",
+      "source": "ABC News",
+      "published": "2026-02-06T00:28:01.000Z",
+      "description": "The U.S. Census Bureau plans to use a survey form with a citizenship question for its 2030 census practice test",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "fb489d6f11b6",
+      "title": " New Jersey Democrats pick from crowded field in special election for Sherrill's US House seat",
+      "url": "https://abcnews.go.com/Politics/wireStory/new-jersey-democrats-pick-crowded-field-special-election-129872731",
+      "source": "ABC News",
+      "published": "2026-02-05T05:33:49.000Z",
+      "description": "New Jersey Democratic voters are picking their party’s candidate to fill a U.S. House seat opened up by Mikie Sherrill’s gubernatorial victory",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "067b6366197b",
+      "title": " EPA administrator outlines Trump's plan to speed up rebuilding of homes destroyed by LA wildfires",
+      "url": "https://abcnews.go.com/Politics/wireStory/epa-administrator-outlines-trumps-plan-speed-rebuilding-homes-129866631",
+      "source": "ABC News",
+      "published": "2026-02-05T02:45:28.000Z",
+      "description": "Trump administration officials traveled to Los Angeles to outline the president’s plan to override state and local rules and speed up the permitting process for reconstruction of tens of thousands of homes destroyed by last year’s wildfires",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "f640c1d3e702",
+      "title": " Georgia Republican Barry Loudermilk won't seek reelection to US House",
+      "url": "https://abcnews.go.com/Politics/wireStory/georgia-republican-barry-loudermilk-seek-reelection-us-house-129866097",
+      "source": "ABC News",
+      "published": "2026-02-05T00:13:50.000Z",
+      "description": "Georgia Republican U.S. Rep. Barry Loudermilk says he won't seek reelection this year",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "7b025ccb96d7",
+      "title": " Legal fight escalates over Georgia voting records as Trump says he wants to ‘take over’ elections",
+      "url": "https://abcnews.go.com/Politics/wireStory/georgias-fulton-county-seeks-return-2020-election-documents-129849119",
+      "source": "ABC News",
+      "published": "2026-02-05T07:41:49.000Z",
+      "description": "Officials in Georgia’s Fulton County have asked a federal court to order the FBI to return ballots and other documents from the 2020 election that it seized last week, The move escalates a voting battle as President Donald Trump says he wants to “take ...",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "FBI",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "0379ede5907b",
+      "title": " Trump says Washington has waited 200 years for the arch he wants to build. Not quite",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-washington-waited-200-years-arch-build-129839048",
+      "source": "ABC News",
+      "published": "2026-02-04T10:53:43.000Z",
+      "description": "President Donald Trump wants to build a massive arch near the Lincoln Memorial",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.168Z"
+    },
+    {
+      "id": "40003b88082c",
+      "title": " New York and New Jersey sue Trump administration over $16B funding freeze for Hudson River tunnels",
+      "url": "https://abcnews.go.com/Politics/wireStory/new-york-new-jersey-sue-trump-administration-16b-129834338",
+      "source": "ABC News",
+      "published": "2026-02-04T01:57:44.000Z",
+      "description": "New York and New Jersey have sued the Trump administration for freezing $16 billion in federal funding for a new rail tunnel under the Hudson River",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "37c8ed2c145f",
+      "title": " Complaint accuses Gabbard of playing politics with intelligence, which spy agency rejects",
+      "url": "https://abcnews.go.com/Politics/wireStory/complaint-accuses-gabbard-playing-politics-intelligence-spy-agency-129833553",
+      "source": "ABC News",
+      "published": "2026-02-04T04:29:22.000Z",
+      "description": "A complaint made about Director of National Intelligence Tulsi Gabbard months ago relates to an allegation that she withheld access to classified information for political reasons",
+      "keywords": [
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "classified"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "0f94b5fe3d26",
+      "title": " Federal immigration officials scout warehouses as they eye more detention space",
+      "url": "https://abcnews.go.com/Politics/wireStory/federal-immigration-officials-scout-warehouses-eye-detention-space-129831693",
+      "source": "ABC News",
+      "published": "2026-02-03T23:51:59.000Z",
+      "description": "Federal immigration officials are scouting warehouses and beginning to purchase some of them to transform into detention and processing facilities",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "f2d051534c03",
+      "title": " Judge seems skeptical of legal justification for Pentagon's punishment of Sen. Mark Kelly",
+      "url": "https://abcnews.go.com/Politics/wireStory/judge-skeptical-legal-justification-pentagons-punishment-sen-mark-129831353",
+      "source": "ABC News",
+      "published": "2026-02-04T01:02:03.000Z",
+      "description": "A federal judge says he knows of no U.S. Supreme Court precedent to justify the Pentagon’s censuring of a sitting U.S. senator who joined a videotaped plea for troops to resist unlawful orders from the Trump administration",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "6f261ccd4062",
+      "title": "Exclusive: Centrist Dems strike back with new group",
+      "url": "https://www.axios.com/2026/02/08/centrist-democrats-new-group-abundance",
+      "source": "Axios",
+      "published": "2026-02-08T22:10:05.000Z",
+      "description": "Ezra Klein's Abundance movement is getting some backup: A new political group is urging Democrats to embrace \"pro-growth,\" deregulatory policies with an eye toward 2028, according to plans first shared with Axios.\nWhy it matters: Known as Next American Era, the group is the latest effort by moderate Democrats to shape national politics and expand their influence at a time when progressives in the party are making an aggressive push for more power.\n\nFormer Illinois Rep. Cheri Bustos, ex-chair of ",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "461a5130df62",
+      "title": "Buttigieg's baggage from DOT looms as 2028 issue",
+      "url": "https://www.axios.com/2026/02/08/buttigieg-weakness-dot-2028",
+      "source": "Axios",
+      "published": "2026-02-08T21:50:05.000Z",
+      "description": "Pete Buttigieg is widely admired as a first-class communicator. But many Democrats think he's lacking as an administrator — and are pointing to his time as President Biden's transportation secretary.\nWhy it matters: Several of Buttigieg's potential rivals for the 2028 Democratic nomination for president are quietly beginning to pick at his work in Biden's Cabinet as a vulnerability, rather than an asset.\n\nThey argue that Buttigieg was at times unable to navigate the federal bureaucracy to get hu",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "505e41ec0594",
+      "title": "Trump backs the SAVE America Act: Here's what's actually in it",
+      "url": "https://www.axios.com/2026/02/08/save-america-act-trump-nationalize-elections",
+      "source": "Axios",
+      "published": "2026-02-08T20:57:20.000Z",
+      "description": "With high-stakes midterms approaching, President Trump has called for Republicans to \"nationalize\" elections, end mail-in ballots and pass the SAVE America Act.\n\nBut that legislation doesn't provide all of Trump's desired changes.\n\nWhy it matters: Voting rights groups warn the legislation, which requires proof of citizenship to vote, could erect barriers despite noncitizen voting being illegal and rare. \n\nCatch up quick: White House press secretary Karoline Leavitt told reporters Trump was refer",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "voter",
+        "midterm",
+        "attorney general",
+        "bondi",
+        "FBI",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "white house",
+        "mail-in voting",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "2a1e295f3d8b",
+      "title": "Trump lashes out at Team USA skier who said representing the U.S. brings \"mixed emotions\"",
+      "url": "https://www.axios.com/2026/02/08/trump-olympic-skier-team-usa-real-loser",
+      "source": "Axios",
+      "published": "2026-02-08T17:34:01.000Z",
+      "description": "President Trump called Olympic skier Hunter Hess \"a real loser\" Sunday after Hess described the \"mixed emotions\" of representing the U.S. at the 2026 Games.\nWhy it matters: While the Olympics traditionally unite Americans behind their athletes, the Milano Cortina Games have become the latest flashpoint, with the president once again targeting elite athletes representing the U.S. who have used their platform to criticize him.\n\nBut that hasn't kept Team USA athletes from condemning the administrat",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "c62851cca08f",
+      "title": "The death of sportswriting",
+      "url": "https://www.axios.com/2026/02/08/washington-post-sports-section-media",
+      "source": "Axios",
+      "published": "2026-02-08T13:30:05.000Z",
+      "description": "With the closure of the Washington Post sports section, sports journalism lost one of its last crown jewels, and one of media's most prestigious professions was handed a crushing blow.\nWhy it matters: The marquee platforms of sportswriting have been gutted and shuttered over the last decade — victims of cold, hard media business realities and the evolving demands of the modern sports fan.\n\nThe big picture: There have never been more ways for sports fans to watch and learn about their favorite te",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "77b9bd7ad2e4",
+      "title": "America's 250th anniversary collides with a renewed fight over Black history",
+      "url": "https://www.axios.com/2026/02/07/black-history-250-who-decides",
+      "source": "Axios",
+      "published": "2026-02-07T21:00:05.000Z",
+      "description": "America's 250th anniversary is colliding with a renewed battle over Black history, just as the White House moves to both smooth over and narrow how race and equity are discussed nationwide with rollbacks of diversity initiatives.\nWhy it matters: Black History Month — in its 100th year since Carter G. Woodson's 1926 Negro History Week — arrives amid an administration actively shrinking institutions that preserve and teach that history.\n\nThe Trump administration has said that diversity initiatives",
+      "keywords": [
+        "voting",
+        "ICE",
+        "white house",
+        "trump",
+        "democracy",
+        "authoritarian"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "7d11cc058f2c",
+      "title": "Netanyahu to hold urgent meeting with Trump Wednesday amid Iran negotiations",
+      "url": "https://www.axios.com/2026/02/07/netanyahu-trump-iran-negotiations",
+      "source": "Axios",
+      "published": "2026-02-07T19:00:39.000Z",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has moved up his visit to Washington and is expected to meet with President Trump on Wednesday to  discuss the negotiations with Iran, the prime minister's office said in a statement.\nWhy it matters: The announcement of the urgent visit comes a day after Trump's envoys Steve Witkoff and Jared Kushner held negotiations in Oman with Iran's foreign minister over a potential nuclear deal.\n\nTrump said the U.S. and Iran had \"very good talks\" in Oman on Friday ",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "264628334183",
+      "title": "Zelensky says Trump wants Russia-Ukraine peace deal by June, before midterms focus",
+      "url": "https://www.axios.com/2026/02/07/zelensky-trump-russia-ukraine-peace-deal",
+      "source": "Axios",
+      "published": "2026-02-07T15:50:06.000Z",
+      "description": "The U.S. wants Russia and Ukraine to sign a peace deal that ends the war by June, before President Trump pivots to focusing his energy on the midterm elections, Ukrainian President Volodymyr Zelensky told reporters.\nWhy it matters: The U.S. timeline Zelensky laid out is pretty ambitious, both because there are still significant gaps between Russia and Ukraine and because Ukraine will have to hold a referendum on the peace deal before it is signed — a process that can take several months.\n\n\"We ha",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "b4a4602c0027",
+      "title": "More people are treating themselves to a solo meal",
+      "url": "https://www.axios.com/2026/02/07/solo-dining-self-care-fast-food",
+      "source": "Axios",
+      "published": "2026-02-07T10:45:03.000Z",
+      "description": "Solo dining orders have soared since 2021, according to a report by one of the world's largest restaurant companies.\nWhy it matters: Eating alone doesn't necessarily mean you're lonely. In many cases, it's about self-care.\n\nThe big picture: More people are skipping group meals to treat themselves instead, per Yum Brands, the parent company of Taco Bell, KFC, Pizza Hut and Habit Burger & Grill.\nBy the numbers: Nearly 70% of solo diners decline to use discounts, despite higher food prices and rece",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "40919ab381b0",
+      "title": "AI wiped out $400 billion this week — and it's only getting started",
+      "url": "https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market",
+      "source": "Axios",
+      "published": "2026-02-07T10:00:04.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nAI is here — and this week, investors lost over $400 billion to the realization that entire industries are on the cusp of being replaced. \nWhy it matters: The software-industry selloff, sparked by Anthropic's latest release, is ultimately just a baby step in a bigger transformation that may reshape how we all live and work.\n\nIt's also the first tangible verdict on what happens when AI starts eating entire categories of work, well before the lon",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.169Z"
+    },
+    {
+      "id": "2a1330d43a49",
+      "title": "Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction",
+      "url": "https://www.axios.com/2026/02/07/gaza-board-peace-meeting-trump-dc",
+      "source": "Axios",
+      "published": "2026-02-07T02:48:19.000Z",
+      "description": "The White House is planning a leaders meeting for the Gaza \"Board of Peace\" on Feb. 19, according to a U.S. official and diplomats from four countries who are on the board. \nWhy it matters: The White House wants to use the meeting to push forward the implementation of the second phase if the Gaza ceasefire deal and raise money for reconstruction. \n\n\"It will be the first Board of Peace meeting and a fundraising conference for Gaza reconstruction,\" a U.S. official said.\nThe plans for the summit me",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "b6232a96614e",
+      "title": "Trump says \"I didn't make a mistake\" after racist video of Obamas removed",
+      "url": "https://www.axios.com/2026/02/06/trump-racist-video-barack-michelle-obama-truth-social",
+      "source": "Axios",
+      "published": "2026-02-07T01:45:19.000Z",
+      "description": "When asked if he would apologize for an overtly racist video clip of the Obamas posted on President Trump's Truth Social, the president said Friday, \"No, I didn't make a mistake.\"\nWhy it matters: The clip, which portrayed former President Obama and former first lady Michelle Obama as apes and was taken down on Friday, used a centuries-old trope against the first Black president and first lady in U.S. history during the first week of Black History Month.\n\nZoom in: Trump said he looks at \"thousand",
+      "keywords": [
+        "election",
+        "ICE",
+        "white house",
+        "johnson",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "d4a0a82ca242",
+      "title": "Trump says U.S. and Iran had \"very good talks\"",
+      "url": "https://www.axios.com/2026/02/07/trump-iran-us-good-talks",
+      "source": "Axios",
+      "published": "2026-02-07T01:13:26.000Z",
+      "description": "President Trump said on Friday that the U.S. and Iran had \"very good talks\" in Oman on Friday and claimed the Iranian position is more favorable regarding a nuclear deal than it was before the 12-day war last June. \nWhy it matters: The talks were the first face-to-face negotiations between the U.S. and Iran since the 12-day war last June. They took place amid a massive U.S. military buildup in the Gulf, and with Trump warning he could pivot to military action if a deal can't be reached quickly.\n",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "401eba9613c2",
+      "title": "The left smells blood after shocking Democratic primary result",
+      "url": "https://www.axios.com/2026/02/06/new-jersey-mejia-election-primary-democrats-left",
+      "source": "Axios",
+      "published": "2026-02-06T23:15:28.000Z",
+      "description": "Progressives are feeling newly emboldened by the stronger-than-expected showing of the left-wing outsider in a New Jersey congressional primary on Thursday.\nWhy it matters: There are dozens of House races like this across the country where at least one left-wing insurgent is vying either to win an open seat or topple an establishment House Democratic incumbent.\n\n\"This is a clear sign that the Democratic electorate is desperate to elect new leaders — like the dozen of working class champions we'r",
+      "keywords": [
+        "election",
+        "voter",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "b0e335dd3919",
+      "title": "Members of Congress will have access to unredacted Epstein files",
+      "url": "https://www.axios.com/2026/02/06/epstein-files-congress-unredacted-doj-raskin",
+      "source": "Axios",
+      "published": "2026-02-06T23:14:13.000Z",
+      "description": "The Justice Department will let members of Congress view unredacted copies of the more than 3 million documents related to Jeffrey Epstein that have been publicly released, according to a letter obtained by Axios. \nWhy it matters: Democrats have argued that the DOJ is skirting its statutory requirements under the Epstein Transparency Act by withholding millions of documents and heavily redacting some of the files they did release.\n\nHouse Judiciary Committee ranking member Jamie Raskin (D-Md.) se",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "499ee9997d3f",
+      "title": "MAP: See where a blue wave would swipe the most GOP seats",
+      "url": "https://www.axios.com/2026/02/06/congressional-map-redistricting-vote-share-2026",
+      "source": "Axios",
+      "published": "2026-02-06T22:59:27.000Z",
+      "description": "Data: The Downballot and Sabato's Crystal Ball at the University of Virginia Center for Politics. Map: Kavya Beheraj/Axios\nHouse Democrats will need to overperform Vice President Harris by roughly three percentage points in swing districts to capture the majority in 2026, according to an Axios analysis of presidential margins in congressional districts.\nWhy it matters: In special elections over the last year, Democrats have been surpassing Harris' 2024 margins by double digits, putting the major",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "midterm",
+        "ICE",
+        "johnson",
+        "speaker",
+        "house majority",
+        "judicial",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "32d65229b064",
+      "title": "Olympic athletes are already protesting against Trump and ICE",
+      "url": "https://www.axios.com/2026/02/06/olympics-2026-winter-games-trump-ice-protest",
+      "source": "Axios",
+      "published": "2026-02-06T22:33:25.000Z",
+      "description": "The Winter Olympic Games are just beginning, but some athletes are already speaking out against the Trump administration and its immigration enforcement tactics. \nThe big picture: While the Olympic Charter prohibits political, religious or racial demonstrations at Olympic sites, athletes have used early interviews and social media posts to express their concerns. \n\nTeam USA rebranded its hospitality house from Ice House to Winter House, distancing it from current immigration enforcement. \nVice P",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "77da56253a1a",
+      "title": "House Democratic Leader Hakeem Jeffries in new video: \"F*** Donald Trump\"",
+      "url": "https://www.axios.com/2026/02/06/trump-jeffries-racist-video-obama",
+      "source": "Axios",
+      "published": "2026-02-06T22:33:04.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) tore into President Trump on Friday for posting a racist video of the Obamas, saying in a clip posted to social media: \"F*** Donald Trump.\"\nWhy it matters: It's a drastic escalation of the rhetoric between the House Democratic leader and the White House amid delicate negotiations on immigration enforcement. \n\nBut it's not the first time things have gotten personal between Trump and Jeffries, who clashed last autumn over AI-generated videos Trump pos",
+      "keywords": [
+        "immigration",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "68c8b7375488",
+      "title": "How TrumpRx drug prices compare to generic alternatives",
+      "url": "https://www.axios.com/2026/02/06/trumprx-list-drugs-website-cheaper-prices",
+      "source": "Axios",
+      "published": "2026-02-06T21:19:00.000Z",
+      "description": "More than half of the drugs listed on the new TrumpRx website have a cheaper generic version on the market that can be purchased through other direct-to-consumer sites. \nWhy it matters: Patients could save more buying non-branded copycat drugs, even if they don't have insurance and pay cash, drug pricing experts say.\n\nCase in point: Pristiq, an antidepressant made by Pfizer, is available with a TrumpRx coupon for about $200 for a 30-day supply — a more than 50% discount from the list price. \n\nBu",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "286938d75eb1",
+      "title": "Trump revives racist imagery once seen as disqualifying",
+      "url": "https://www.axios.com/2026/02/06/trump-racist-imagery-obama-monkey-ape",
+      "source": "Axios",
+      "published": "2026-02-06T19:23:36.000Z",
+      "description": "President Trump's post of a racist video of former President Barack Obama and former first lady Michelle Obama underscores how imagery long recognized as among the most explicit racist tropes in U.S. history has become normalized in the Trump era. \nWhy it matters: For decades, such imagery routinely ended careers. But even the harshest denunciations from Trump allies suggested they just want an apology, not further accountability.\n\nCatch up quick: Trump recently posted — and deleted 12 hours lat",
+      "keywords": [
+        "white house",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.170Z"
+    },
+    {
+      "id": "b4d8c17ed63e",
+      "title": "Trump says ‘New England’s amazing’ but stops short of Super Bowl prediction",
+      "url": "https://thehill.com/homenews/administration/5729012-president-trump-nfl-superbowl/",
+      "source": "The Hill",
+      "published": "2026-02-08T23:36:21.000Z",
+      "description": "President Trump lauded the NFL Super Bowl LX contenders in a recent NBC interview, describing the New England Patriots as “amazing” but stopping short of endorsing them as the championship team. The Patriots are set to face off against the Seattle Seahawks at Levi’s Stadium in Santa Clara, Calif, at 6:30 p.m. EST on Sunday.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "4cb73a5f9356",
+      "title": "Ghislaine Maxwell to plead Fifth Amendment in upcoming deposition: Attorney",
+      "url": "https://thehill.com/homenews/house/5729001-epstein-case-maxwell-deposition/",
+      "source": "The Hill",
+      "published": "2026-02-08T23:22:57.000Z",
+      "description": "Ghislaine Maxwell intends to plead the Fifth Amendment to avoid self-incrimination during her Monday deposition in front of the House Oversight and Government Reform Committee, her attorney, David Markus, told NewsNation.  Maxwell, the former girlfriend and longtime accomplice of the convicted sex offender Jeffrey Epstein, is less than four years into a 20-year prison sentence…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "cbde9d5ca799",
+      "title": "Dem rep says GOP push for voter ID legislation is a ‘solution in search of a problem’",
+      "url": "https://thehill.com/homenews/house/5728962-ivey-gop-voter-id-laws/",
+      "source": "The Hill",
+      "published": "2026-02-08T23:02:35.000Z",
+      "description": "Rep. Glenn Ivey (D-Md.) responded Sunday to the GOP’s push for national voter ID laws, calling it a “solution in search of a problem.” “It’s a solution in search of a problem in one big way,” Ivey told host Chris Stirewalt on NewsNation’s “The Hill Sunday.” The House is set to vote this upcoming week…",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "99b2833d30af",
+      "title": "Greenland, Denmark officials tout progress in US talks, but no ‘solution yet’",
+      "url": "https://thehill.com/policy/international/5728978-greenland-denmark-us-presence/",
+      "source": "The Hill",
+      "published": "2026-02-08T22:41:29.000Z",
+      "description": "Danish Foreign Affairs Minister Lars Løkke Rasmussen on Saturday said that talks with U.S. officials and Greenland have progressed but there’s no “solution yet” regarding the Trump administration’s push to take over the Arctic island. “We are not out of the crisis, and we do not have a solution yet,” Rasmussen said Saturday, according to…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "50968a24eaca",
+      "title": "Democratic rep says ‘we may well have’ partial shutdown of DHS",
+      "url": "https://thehill.com/homenews/house/5728905-dhs-funding-shutdown-immigration/",
+      "source": "The Hill",
+      "published": "2026-02-08T22:04:54.000Z",
+      "description": "Rep. Glenn Ivey (D-Md.) acknowledged Sunday that the Department of Homeland Security (DHS) may lose funding later this week, amid a stall in negotiations on immigration enforcement.  “We may well have a shutdown. I’m not sure how it’s going to play out,” Ivey told host Chris Stirewalt on NewsNation’s “The Hill Sunday.” Funding for DHS…",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "2e796aaa8383",
+      "title": "How much will TrumpRx really cut down your drug costs?",
+      "url": "https://thehill.com/policy/healthcare/5727385-trumprx-drug-prices-how-much-savings/",
+      "source": "The Hill",
+      "published": "2026-02-08T22:00:00.000Z",
+      "description": "President Trump on Thursday unveiled his lower-cost drug platform TrumpRx, touting it as “one of the most transformative health care initiatives of all time.” “This launch represents the largest reduction in prescription drug prices in history by many, many times,” he added.  But health policy experts and consumer advocates are skeptical about how many people…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "eee6bbbbdac8",
+      "title": "Schiff: ‘The public has turned against’ Trump",
+      "url": "https://thehill.com/homenews/campaign/5728889-schiff-public-turned-against-trump/",
+      "source": "The Hill",
+      "published": "2026-02-08T21:29:20.000Z",
+      "description": "Sen. Adam Schiff (D-Calif.) claimed Sunday that the “public has turned against” President Trump, whose polling numbers have recently slumped following multiple controversies. “The public has turned against him. In every election we’ve had since his election, the voters have swung wildly against him. And as you know, he said at that prayer breakfast, his…",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "4d602007489e",
+      "title": "Warner questions whether Trump will interfere in 2026 midterms",
+      "url": "https://thehill.com/homenews/campaign/5728862-warner-warns-trump-election/",
+      "source": "The Hill",
+      "published": "2026-02-08T21:26:30.000Z",
+      "description": "Sen. Mark Warner (D-Va.) on Sunday questioned the possibility of President Trump interfering in the 2026 midterm elections.  Warner’s concern stemmed from Director of National Intelligence Tulsi Gabbard’s effort to gather voting records related to the 2020 presidential election, which Trump has falsely claimed he won. “The fact is Donald Trump cannot get over the…",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "3ed2e0bef3fb",
+      "title": "Moore says Trump not inviting Democratic governors to White House is ‘particularly confusing’",
+      "url": "https://thehill.com/homenews/state-watch/5728848-wes-moore-trump-white-house/",
+      "source": "The Hill",
+      "published": "2026-02-08T20:59:04.000Z",
+      "description": "Maryland Gov. Wes Moore (D) expressed confusion and frustration over President Trump not inviting him and other Democratic governors to a meeting at the White House. Moore wrote on the social platform X on Sunday that he was “uninvited” to the National Governors Association (NGA) dinner, which is typically attended by state executives of both…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "18c7af0fce01",
+      "title": "Warner fears US doesn’t have ‘full power of pressure’ to bring against Iran",
+      "url": "https://thehill.com/policy/defense/5728808-warner-iran-nuclear-pressure/",
+      "source": "The Hill",
+      "published": "2026-02-08T20:13:59.000Z",
+      "description": "Sen. Mark Warner (D-Va.) on Sunday said he fears that the United States doesn’t have the “full power of pressure” against Iran. His comments coincide with the Trump administration’s push to dismantle Tehran’s nuclear development program after striking three of their facilities last year.  President Trump sent the USS Abraham Lincoln aircraft carrier to the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "bfc6a7151ce6",
+      "title": "Massie calls on Lutnick to resign over alleged Epstein ties",
+      "url": "https://thehill.com/homenews/house/5728811-massie-demands-lutnick-resignation/",
+      "source": "The Hill",
+      "published": "2026-02-08T19:50:54.000Z",
+      "description": "Rep. Thomas Massie (R-Ky.) on Sunday pushed for Commerce Secretary Howard Lutnick to resign after his name appeared in files linked to the convicted sex offender Jeffrey Epstein. “Trump’s Commerce secretary, Howard Lutnick, said that he and his wife decided around 2005 to cut ties with Jeffrey Epstein,” host Manu Raju said on CNN’s “Inside…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.171Z"
+    },
+    {
+      "id": "e76fdfe0ab21",
+      "title": "GOP lawmaker says those without an ID ‘need’ to be able to get one free of charge to vote",
+      "url": "https://thehill.com/homenews/house/5728702-gop-voting-bill-id-requirement/",
+      "source": "The Hill",
+      "published": "2026-02-08T19:02:14.000Z",
+      "description": "Ahead of a vote on a GOP-backed voting requirement bill in the House, Rep. Bryan Steil (R-Wis.) said Sunday that those without IDs must be able to get one for free to vote. “If there’s an individual [who] doesn’t have an ID, there 100 percent needs to be a mechanism for that person to get…",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "e7af71e654f0",
+      "title": "Beware of the biggest threat to US national Security: Trump",
+      "url": "https://thehill.com/opinion/white-house/5727430-weakening-us-security-trump/",
+      "source": "The Hill",
+      "published": "2026-02-08T19:00:00.000Z",
+      "description": "President Trump has weakened America's national security infrastructure, alienated foreign allies, and filled key positions with unqualified individuals, making the nation more vulnerable to attacks from hostile nations and terrorists.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "ab0882778e6f",
+      "title": "Moore: Maryland Senate has ‘obligation to vote’ on redrawing congressional maps",
+      "url": "https://thehill.com/homenews/state-watch/5728644-moore-maryland-redistricting-senate/",
+      "source": "The Hill",
+      "published": "2026-02-08T17:58:24.000Z",
+      "description": "Maryland Gov. Wes Moore (D) on Sunday urged his state’s Senate to vote on a new congressional map passed by the Maryland House amid a nationwide redistricting fight. “When you are watching Donald Trump in front of our face trying to ruin and trying to thwart democracy, we have an obligation to step up. We…",
+      "keywords": [
+        "trump",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "8354df65b314",
+      "title": "Oz urges Americans to get measles vaccine amid outbreaks",
+      "url": "https://thehill.com/policy/healthcare/5728626-oz-measles-vaccine-outbreak/",
+      "source": "The Hill",
+      "published": "2026-02-08T17:31:14.000Z",
+      "description": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), said Americans should get vaccinated against measles amid rising cases of the disease. “Take the vaccine, please. We have a solution for our problem. Not all illnesses are equally dangerous, and not all people are equally susceptible to those illnesses. But…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "82e60275ce53",
+      "title": "Musk jumps back into political fray with big midterm donations",
+      "url": "https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/",
+      "source": "The Hill",
+      "published": "2026-02-08T17:00:00.000Z",
+      "description": "Billionaire Elon Musk is back in the political fray, giving Republicans a boost in the run-up to the 2026 midterm elections.  The Tesla CEO had injected hundreds of millions into the 2024 election but announced plans last spring to step back from political spending, a potential blow for the GOP ahead of the high-stakes midterms. …",
+      "keywords": [
+        "election",
+        "midterm",
+        "musk"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "d8c8bba959a2",
+      "title": "Jeffries says GOP ‘finally showed some backbone’ in criticizing Trump for racist video of Obamas",
+      "url": "https://thehill.com/homenews/house/5728559-jeffries-gop-backlash-trump-racist-video/",
+      "source": "The Hill",
+      "published": "2026-02-08T16:35:31.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday his GOP colleagues in Congress “finally showed some backbone” in pushing back against a video President Trump posted Thursday evening on Truth Social portraying former President Obama and former first lady Michelle Obama as apes.  “It was a disgusting video. And the president was rightly and appropriately…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "221132efe3cf",
+      "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
+      "url": "https://www.cnbc.com/2026/02/08/georgia-trump-election-case-judge-federal-unsealed.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-08T21:29:31.000Z",
+      "description": "The FBI last month raided an election facility central to President Donald Trump's debunked claims of fraud in the 2020 election.",
+      "keywords": [
+        "election",
+        "FBI",
+        "raid",
+        "fulton county",
+        "georgia election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "23499157fb1f",
+      "title": "Epstein files: Congressional lawmakers call for Trump Commerce chief Lutnick to resign, or be fired",
+      "url": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-08T23:56:22.000Z",
+      "description": "Commerce Secretary Howard Lutnick previously said on a podcast that he had cut ties with the notorious sex offender since an initial 2005 encounter.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "13168c26a091",
+      "title": "Japanese Prime Minister Takaichi's ruling LDP seen winning outright majority in snap election: NHK",
+      "url": "https://www.cnbc.com/2026/02/08/japans-ruling-ldp-seen-winning-outright-majority-in-snap-poll-nhk.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-08T13:40:13.000Z",
+      "description": "PM Takaichi's Liberal Democratic Party is likely to win between 274-328 seats in the Lower House, higher than the 233 seats needed for a majority, NHK says.",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.172Z"
+    },
+    {
+      "id": "028de14861f4",
+      "title": "SAVE Act voter ID bill is on the minds of Trump and Congress: What to know",
+      "url": "https://www.cnbc.com/2026/02/06/save-act-trump-congress-elections-voting.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-06T21:11:44.000Z",
+      "description": "A bill that would make it harder to vote in federal elections is a Republican focus this week, with President Donald Trump calling for enacting the SAVE Act.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "d54c0b5f2da2",
+      "title": "Trump condemns racist video showing Obamas as apes after removing it, but says he won't apologize",
+      "url": "https://www.cnbc.com/2026/02/06/trump-obama-post-white-house.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-07T02:11:18.000Z",
+      "description": "The depiction of the Obamas, posted from Trump's Truth Social account, was included in a video pushing a conspiracy theory about 2020 election voting machines.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "4c970227563d",
+      "title": "Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide",
+      "url": "https://www.cnbc.com/2026/02/06/japan-election-takaichi-ldp-landslide-polls-ldp-trump-innovation-party-nikkei.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-06T06:30:46.000Z",
+      "description": "The poll showed that the LDP-led coalition was likely to secure more than 300 of the 465 seats in the Lower House.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "25cdadb4980b",
+      "title": "Sen. Slotkin refuses DOJ interview request over troops video: 'The intimidation is the point'",
+      "url": "https://www.cnbc.com/2026/02/05/slotkin-military-video-bondi-pirro-trump-kelly.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T22:37:50.000Z",
+      "description": "Slotkin's lawyer urged U.S. Attorney Jeanine Pirro to retain her records in case the senator files a lawsuit over the probe.",
+      "keywords": [
+        "DOJ"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "23e5f832e9de",
+      "title": "Trump would decide whether to investigate Fed pick Warsh over refusal to cut rates: Bessent",
+      "url": "https://www.cnbc.com/2026/02/05/bessent-trump-investigation-warsh-warren-fed.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T19:32:40.000Z",
+      "description": "Treasury Secretary Scott Bessent left the door open to suing Kevin Warsh as Fed chair in testimony to the Senate Banking, Housing and Urban Affairs Committee.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "5eed1b1b7d1a",
+      "title": "Warren to call for reversal of Trump's UAE chip sales after 'Spy Sheikh' revelations",
+      "url": "https://www.cnbc.com/2026/02/05/warren-trump-chip-sales-spy-sheikh.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T18:58:45.000Z",
+      "description": "President Donald Trump made a deal in May to send 500,000 of the most advanced U.S. AI chips to the United Arab Emirates.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "d587902d3e69",
+      "title": "Paul Weiss Chairman Brad Karp resigns after Jeffrey Epstein email disclosures",
+      "url": "https://www.cnbc.com/2026/02/05/paul-weiss-brad-karp-resigns-jeffrey-epstein.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T13:07:38.000Z",
+      "description": "The Department of Justice last week released millions of documents related to the notorious sex offender Jeffrey Epstein.",
+      "keywords": [
+        "department of justice",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "025e3e57a5be",
+      "title": "Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD",
+      "url": "https://www.cnbc.com/2026/02/04/trump-wbd-netflix-paramount-skydance.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T15:33:07.000Z",
+      "description": "Trump in December said he would be involved in the review of whether Netflix should be allowed to buy parts of Warner Bros. Discover, as WBD leadership wants.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "bfbe508d00e9",
+      "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
+      "url": "https://www.cnbc.com/2026/02/04/scott-trump-powell-fed-warsh-tillis-doj.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T19:12:47.000Z",
+      "description": "President Donald Trump recently said the investigation into Jerome Powell, led by U.S. Attorney for Washington Jeanine Pirro, should continue to the end.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "e092330f79d5",
+      "title": "Democrats lay out demands in prickly DHS funding fight as Republicans balk",
+      "url": "https://www.cnbc.com/2026/02/04/democrats-demands-dhs-funding-fight.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T21:33:42.000Z",
+      "description": "Funding for the Department of Homeland Security still needs to be worked out after President Trump signed a law that reopened most of the federal government.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.173Z"
+    },
+    {
+      "id": "0edf924391e3",
+      "title": "Democrats grill Bessent at House oversight hearing: 'Stop covering for the president'",
+      "url": "https://www.cnbc.com/2026/02/04/treasury-bessent-congress-hearing-economy.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T20:28:40.000Z",
+      "description": "Treasury Secretary Scott Bessent took flack from Democrats while testifying before the House Financial Services Committee on Wednesday.",
+      "keywords": [
+        "ICE",
+        "oversight hearing"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "7d4c4566e61b",
+      "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
+      "url": "https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T19:49:47.000Z",
+      "description": "The Trump administration will draw down about 25% of its law enforcement officers from Minnesota on Wednesday, border czar Tom Homan said.",
+      "keywords": [
+        "ICE",
+        "homan",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "0852b5802d3c",
+      "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about central bank independence",
+      "url": "https://www.cnbc.com/2026/02/04/fed-warsh-tillis-confirmation.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T15:05:02.000Z",
+      "description": "Sen. Thom Tillis told CNBC he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "4c36f600c17f",
+      "title": "China ramps up threats over Panama Canal ruling that handed Trump a major victory",
+      "url": "https://www.cnbc.com/2026/02/04/china-us-trump-panama-canal-court-ruling-ck-hutchison.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T16:45:59.000Z",
+      "description": "The Panama Canal has been thrust into the middle of a power struggle between the U.S. and China, the world's two largest economies.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "37e5dc2faf8c",
+      "title": "Dems Channel Kramer in Softening ICE Demands",
+      "url": "https://www.rollingstone.com/politics/political-commentary/democrats-channel-kramer-soften-ice-demands-1235512377/",
+      "source": "Rolling Stone",
+      "published": "2026-02-06T19:10:12.000Z",
+      "description": "Party leaders have released a new list of demands to rein in Trump's deadly immigration enforcement agenda",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "4d837de79287",
+      "title": "Trump Posts Wildly Racist Video of the Obamas",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-racist-video-barack-michelle-obama-apes-1235512093/",
+      "source": "Rolling Stone",
+      "published": "2026-02-06T14:09:59.000Z",
+      "description": "The president shared a video that included a clip depicting Barack and Michelle Obama as apes. The post has since been removed",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "3704d7c4a863",
+      "title": "‘Melania’ Attains Biggest Critic-Audience Disparity in Rotten Tomatoes History",
+      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-doc-reviews-rotten-tomatoes-1235511549/",
+      "source": "Rolling Stone",
+      "published": "2026-02-05T20:00:00.000Z",
+      "description": "IMDb, meanwhile, has flagged the film for “unusual” voting activity",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "d443274ae9ce",
+      "title": "Melania Trump Uses Event With Freed Hostages to Promote Her Documentary",
+      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-promotes-doc-freed-hostages-1235511163/",
+      "source": "Rolling Stone",
+      "published": "2026-02-04T21:57:31.000Z",
+      "description": "The first lady plugged $75 million vanity project at the White House on Wednesday",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "71b533f37185",
+      "title": "How a Labor Leader Took Down a Culture Warrior in Ruby Red Texas",
+      "url": "https://www.rollingstone.com/politics/politics-features/taylor-rehmet-texas-state-senate-trump-district-1235510776/",
+      "source": "Rolling Stone",
+      "published": "2026-02-04T15:00:00.000Z",
+      "description": "“People who are frustrated and angry? They always vote,” Democrat Taylor Rehmet says of his upset win in a district that supported Trump by double digits",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "c71bc9378de8",
+      "title": "Patti LuPone Slams Trump’s Plans to Renovate the Kennedy Center: It’s Time to ‘Rise Up’",
+      "url": "https://www.rollingstone.com/politics/politics-news/patti-lupone-slams-trump-kennedy-center-plans-1235510398/",
+      "source": "Rolling Stone",
+      "published": "2026-02-03T20:45:31.000Z",
+      "description": "The acclaimed singer and actress addressed Trump’s involvement during an impassioned speech at Carnegie Hall",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.174Z"
+    },
+    {
+      "id": "e9a6c9279047",
+      "title": "Oh, Just Trump Saying Republicans Should ‘Nationalize’ and ‘Take Over’ Elections",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-republicans-nationalize-take-over-elections-1235510226/",
+      "source": "Rolling Stone",
+      "published": "2026-02-03T14:09:21.000Z",
+      "description": "The president has been teasing dramatic changes to the nation’s elections while directing a raid of Fulton County’s voting records",
+      "keywords": [
+        "election",
+        "voting",
+        "raid",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.175Z"
+    },
+    {
+      "id": "0694df9375c7",
+      "title": "When a Journalist Is Arrested, Democracy Is the One in Handcuffs",
+      "url": "https://www.rollingstone.com/politics/political-commentary/don-lemon-arrest-kerry-kennedy-1235509695/",
+      "source": "Rolling Stone",
+      "published": "2026-02-03T13:00:00.000Z",
+      "description": "Kerry Kennedy, President of the Robert and Ethel Human Rights Center, on the threats journalists face across the globe — and now, with the arrest of Don Lemon, here in the United States",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T00:11:40.175Z"
+    }
+  ],
   "lastDigest": null,
-  "lastFetch": null
+  "lastFetch": "2026-02-09T00:11:40.175Z"
 }
