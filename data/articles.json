@@ -2265,8 +2265,264 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-09T00:11:40.175Z"
+    },
+    {
+      "id": "87ab5b7f9d2a",
+      "title": "Trump criticizes Olympic skier who said representing the U.S. 'brings up mixed emotions'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-criticizes-olympic-skier-hunter-hess-rcna258083",
+      "source": "NBC News",
+      "published": "2026-02-09T03:43:18.000Z",
+      "description": "President Donald Trump called U.S.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.354Z"
+    },
+    {
+      "id": "22158b126b44",
+      "title": "12/15: The Takeout: Rep. Seth Moulton",
+      "url": "https://www.cbsnews.com/video/1215-the-takeout-rep-seth-moulton/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:41.000Z",
+      "description": "Massachusetts Rep. Seth Moulton joins Major Garrett to discuss the state of the Democratic Party and what it should do to attract voters and make gains in the midterm elections and beyond. Also discussed, are the challenges President-elect Donald Trump faces in handling the fall of Bashar al-Assad in Syria.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.354Z"
+    },
+    {
+      "id": "1e0c8b64d1ec",
+      "title": "12/8: The Takeout: Camilo Montoya-Galvez",
+      "url": "https://www.cbsnews.com/video/128-the-takeout-camilo-montoya-galvez/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:33.000Z",
+      "description": "CBS News immigration reporter Camilo Montoya-Galvez chats with Major Garrett about how President-elect Donald Trump could impose mass deportations and the economic impact those deportations may have across the U.S. on this week's episode of \"The Takeout.\"",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.354Z"
+    },
+    {
+      "id": "feff92233263",
+      "title": "6/9: The Takeout: Zeke Hernandez",
+      "url": "https://www.cbsnews.com/video/69-the-takeout-zeke-hernandez/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:10.000Z",
+      "description": "Zeke Hernandez, author of \"The Truth About Immigration: Why Successful Societies Welcome Newcomers,\" joins \"The Takeout\" to discuss the benefits of immigration and common misconceptions. Hernandez explains how immigration has led to increased community investment and innovation in America.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.355Z"
+    },
+    {
+      "id": "5c68ad93b264",
+      "title": "2/18: The Takeout: National Security Council cyber advisor Anne Neuberger",
+      "url": "https://www.cbsnews.com/video/218-the-takeout-national-security-council-cyber-advisor-anne-neuberger/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:44:58.000Z",
+      "description": "For this edition of \"The Takeout,\" Major Garrett sits down with Anne Neuberger, the White House's deputy national security advisor for cyber and emerging technology. They discuss the threat of attacks from Russian cyber criminals on vulnerable systems such as hospitals and schools. She details actions the U.S. government is taking to stop such attacks, as well as the benefits and pitfalls of artificial intelligence.",
+      "keywords": [
+        "intelligence",
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.355Z"
+    },
+    {
+      "id": "782ccd16fa5c",
+      "title": "Representative Sara Jacobs on \"The Takeout\" — 7/1/2022",
+      "url": "https://www.cbsnews.com/video/representative-sara-jacobs-on-the-takeout-712022/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:43:47.000Z",
+      "description": "Representative Sara Jacobs of California joins Major Garrett on this week's episode of \"The Takeout.\" They discuss the overturning of Roe v. Wade, whether Biden should run for reelection, progressive Democrats, and the movie \"Legally Blonde.\"",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.355Z"
+    },
+    {
+      "id": "29f38449dcc2",
+      "title": "Senator Tim Kaine on \"The Takeout\" — 8/12/2022",
+      "url": "https://www.cbsnews.com/video/senator-tim-kaine-on-the-takeout-8122022/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:43:12.000Z",
+      "description": "Virginia Senator Tim Kaine joins Major Garrett on \"The Takeout.\" They discuss Kaine's experience with long COVID, his opinion on a potential reelection campaign for President Biden, and the 2022 midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.355Z"
+    },
+    {
+      "id": "6318e3912872",
+      "title": "CBS News senior investigative correspondent Catherine Herridge on \"The Takeout\" — 5/22/2020",
+      "url": "https://www.cbsnews.com/video/cbs-news-senior-investigative-correspondent-catherine-herridge-on-the-takeout-5222020/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:32:35.000Z",
+      "description": "CBS News senior investigative correspondent Catherine Herridge joins Major to talk about the events surrounding Michael Flynn and the FBI's work investigating Trump campaign officials' ties to Russia on this week's episode of \"The Takeout with Major Garrett.\"",
+      "keywords": [
+        "FBI",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.355Z"
+    },
+    {
+      "id": "2606399e6dbf",
+      "title": "Major Garrett sits down (remotely) with former FEMA administrator Craig Fugate on \"The Takeout\"",
+      "url": "https://www.cbsnews.com/video/major-garrett-sits-down-remotely-with-former-fema-administrator-craig-fugate-on-the-takeout/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:32:09.000Z",
+      "description": "Amid social distancing, Major Garrett and former FEMA Administrator Craig Fugate meet remotely to discuss the federal coronavirus response efforts and whether the Trump administration has or hasn't done enough, on this week’s episode of \"The Takeout.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "03dc589eb764",
+      "title": "Judge orders DOJ to unseal records on Georgia 2020 ballot raid by Tuesday",
+      "url": "https://www.cbsnews.com/video/judge-orders-doj-to-unseal-records-on-georgia-2020-ballot-raid-by-tuesday/",
+      "source": "CBS News",
+      "published": "2026-02-09T00:46:00.000Z",
+      "description": "A federal judge ruled Department of Justice records related to the recent seizure of 2020 ballots and documents in Fulton County, Georgia, must be unsealed by Tuesday. Willie James Inman has more.",
+      "keywords": [
+        "ballot",
+        "DOJ",
+        "department of justice",
+        "raid",
+        "ICE",
+        "fulton county"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "884b5fec490e",
+      "title": "A day of highs and lows for Team USA",
+      "url": "https://www.axios.com/2026/02/09/milan-olympics-lindsey-vonn-ilia-malinin",
+      "source": "Axios",
+      "published": "2026-02-09T00:50:19.000Z",
+      "description": "A Sunday that began with Lindsey Vonn's screams of pain after crashing in the downhill ended with cheers of jubilation as Team USA edged out Japan for gold in team figure skating.\nThe big picture: It truly was the thrill of victory and the agony of defeat.\n\nDriving the news: Vonn, 41, was trying to continue her comeback despite a ruptured ACL but crashed shortly into her run and had to be airlifted to a hospital, where she was later diagnosed with a broken leg.\n\nWhile Vonn failed to finish, fell",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "cc452e9b748d",
+      "title": "Super Bowl ad slamming Bondi over Epstein files release airs",
+      "url": "https://thehill.com/homenews/administration/5729190-super-bowl-ad-bondi-epstein/",
+      "source": "The Hill",
+      "published": "2026-02-09T04:07:42.000Z",
+      "description": "Attorney General Pam Bondi was the subject of a Sunday Super Bowl ad that urges her to “tell the truth” in regard to the files pertaining to the deceased sex offender Jeffrey Epstein. The clip, released by World Without Exploitation, says that more than 3 million files tied to Epstein have not been released, contradicting…",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "78d71ce02036",
+      "title": "Trump slams Bad Bunny’s Super Bowl halftime performance as ‘one of the worst’",
+      "url": "https://thehill.com/homenews/5729125-trump-slams-bad-bunny-super-bowl/",
+      "source": "The Hill",
+      "published": "2026-02-09T02:41:59.000Z",
+      "description": "President Trump on Sunday said that Super Bowl LX’s halftime show featuring Bad Bunny was “one of the worst.” The singer, who is from Puerto Rico, is known for his Spanish-language music and albums. But his performance, which was in Spanish, on Sunday night drew the ire of Trump. “The Super Bowl Halftime Show is…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "a40582c7f762",
+      "title": "Massie asks social media followers regarding Epstein files ‘Which docs should I view?’",
+      "url": "https://thehill.com/homenews/house/5729052-epstein-files-congress-review/",
+      "source": "The Hill",
+      "published": "2026-02-09T00:51:08.000Z",
+      "description": "Rep. Thomas Massie (R-Ky.) on Sunday asked his followers which files connected to the sex offender Jeffrey Epstein he should review tomorrow when lawmakers begin examining the unredacted documents previously held by the Department of Justice (DOJ). Starting Monday, members of Congress may review any of the 3 million documents from the Epstein files unredacted in a…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "ad02504c95b7",
+      "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
+      "url": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T03:41:49.000Z",
+      "description": "Lai, who had pleaded not guilty to all charges, was among the first prominent figures arrested under Beijing's security law in August 2020.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
+    },
+    {
+      "id": "de036da324dd",
+      "title": "Trump Got Bad Bunny’s Message — And He Didn’t Like It",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-bad-bunny-super-bowl-halftime-show-1235513077/",
+      "source": "Rolling Stone",
+      "published": "2026-02-09T02:54:26.000Z",
+      "description": "The anti-immigrant president called the Puerto Rican musician's Super Bowl performance \"an affront to the Greatness of America\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-09T06:21:27.356Z"
     }
   ],
   "lastDigest": null,
-  "lastFetch": "2026-02-09T00:11:40.175Z"
+  "lastFetch": "2026-02-09T06:21:27.356Z"
 }
