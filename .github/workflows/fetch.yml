@@ -44,5 +44,5 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               workflow_id: 'digest.yml',
-              ref: 'main',
+              ref: 'master',
             });

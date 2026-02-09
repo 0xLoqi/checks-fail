@@ -592,6 +592,23 @@
   .inc-title { font-size: 0.85rem; color: var(--text-bright); font-weight: 600; }
   .inc-desc { font-size: 0.78rem; color: var(--text-dim); line-height: 1.5; margin-top: 0.15rem; }
 
+  /* ─── PIPELINE STATUS ─── */
+  .pipeline-status {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-family: var(--mono); font-size: 0.6rem; color: var(--text-dim);
+    margin-top: 0.5rem; opacity: 0.6;
+  }
+  .pipeline-dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--green);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+  .pipeline-dot.stale { background: var(--amber); }
+  .pipeline-dot.offline { background: var(--red); animation: none; }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
   /* ─── FOOTER ─── */
   .footer {
     border-top: 1px solid var(--border); padding-top: 2rem; text-align: center;
@@ -1561,8 +1578,13 @@
   </div>
 
   <!-- ═══ INCIDENT LOG ═══ -->
-  <div class="incidents">
+  <div class="incidents" id="incidentLog">
     <div class="label">Recent Incident Log</div>
+    <div class="pipeline-status" id="pipelineStatus">
+      <div class="pipeline-dot offline" id="pipelineDot"></div>
+      <span id="pipelineText">Pipeline: connecting...</span>
+    </div>
+    <div id="dynamicIncidents"></div>
     <div class="inc">
       <div class="inc-head">
         <span class="inc-badge crit">Critical</span>
@@ -1896,6 +1918,102 @@ document.querySelectorAll('[data-person]').forEach(function(card) {
   var el = document.getElementById('liveClock');
   if (el) el.textContent = new Date().toISOString().slice(11, 19) + ' UTC';
   setTimeout(tick, 1000);
+})();
+
+// ── Dynamic content loader (fetches pipeline data) ──
+(function() {
+  var SIGNIFICANCE_MIN = 7;
+  var MAX_TICKER_ITEMS = 8;
+  var MAX_INCIDENTS = 10;
+
+  function escapeHtml(s) {
+    var d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function relativeDate(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+  }
+
+  function categoryLabel(cats) {
+    if (!cats || !cats.length) return 'UPDATE';
+    var c = cats[0].toUpperCase().replace(/-/g, ' ');
+    if (c.length > 20) c = c.slice(0, 18) + '..';
+    return c;
+  }
+
+  fetch('data/articles.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      var dot = document.getElementById('pipelineDot');
+      var txt = document.getElementById('pipelineText');
+
+      if (!data || !data.articles || data.articles.length === 0) {
+        dot.className = 'pipeline-dot offline';
+        txt.textContent = 'Pipeline: no data';
+        return;
+      }
+
+      // Check staleness (>24h since last fetch)
+      var lastFetch = data.lastFetch ? new Date(data.lastFetch) : null;
+      var staleMs = 24 * 60 * 60 * 1000;
+      if (lastFetch && (Date.now() - lastFetch.getTime()) < staleMs) {
+        dot.className = 'pipeline-dot';
+        txt.textContent = 'Pipeline active \u00b7 Last fetch: ' + lastFetch.toISOString().slice(0, 16).replace('T', ' ') + ' UTC';
+      } else if (lastFetch) {
+        dot.className = 'pipeline-dot stale';
+        txt.textContent = 'Pipeline stale \u00b7 Last fetch: ' + lastFetch.toISOString().slice(0, 10);
+      } else {
+        dot.className = 'pipeline-dot stale';
+        txt.textContent = 'Pipeline: timestamp unavailable';
+      }
+
+      // Filter significant articles and sort by significance desc, then date desc
+      var significant = data.articles
+        .filter(function(a) { return a.significance >= SIGNIFICANCE_MIN; })
+        .sort(function(a, b) {
+          if (b.significance !== a.significance) return b.significance - a.significance;
+          return new Date(b.published || b.scoredAt) - new Date(a.published || a.scoredAt);
+        });
+
+      // ── Inject into live ticker ──
+      var tickerTrack = document.querySelector('.live-ticker-track');
+      if (tickerTrack && significant.length > 0) {
+        var tickerItems = significant.slice(0, MAX_TICKER_ITEMS);
+        var newSpans = tickerItems.map(function(a) {
+          var label = categoryLabel(a.categories);
+          return '<span class="live-ticker-item"><span class="hl">' + escapeHtml(label) + '</span> &mdash; ' + escapeHtml(a.title) + ' <a href="' + escapeHtml(a.url) + '" target="_blank" rel="noopener" style="color:var(--text-dim);font-size:0.7em;">(' + escapeHtml(a.source) + ')</a></span>';
+        }).join('');
+        // Append to both halves of the duplicated ticker
+        tickerTrack.innerHTML = tickerTrack.innerHTML + newSpans + newSpans;
+      }
+
+      // ── Inject into incident log ──
+      var dynamicInc = document.getElementById('dynamicIncidents');
+      if (dynamicInc && significant.length > 0) {
+        var incItems = significant.slice(0, MAX_INCIDENTS);
+        var html = incItems.map(function(a) {
+          var badge = a.significance >= 9 ? '<span class="inc-badge crit">Critical</span>' : '<span class="inc-badge warn">Significant</span>';
+          var date = relativeDate(a.published || a.scoredAt);
+          return '<div class="inc">' +
+            '<div class="inc-head">' + badge + '<span class="inc-date">' + escapeHtml(date) + '</span><span class="inc-date" style="margin-left:auto;opacity:0.5;">via pipeline</span></div>' +
+            '<div class="inc-title">' + escapeHtml(a.title) + '</div>' +
+            '<div class="inc-desc">' + escapeHtml(a.reason || '') + ' <a href="' + escapeHtml(a.url) + '" target="_blank" rel="noopener">' + escapeHtml(a.source) + '</a></div>' +
+            '</div>';
+        }).join('');
+        dynamicInc.innerHTML = html;
+      }
+    })
+    .catch(function(e) {
+      var dot = document.getElementById('pipelineDot');
+      var txt = document.getElementById('pipelineText');
+      if (dot) dot.className = 'pipeline-dot offline';
+      if (txt) txt.textContent = 'Pipeline: offline';
+    });
 })();
 </script>
 

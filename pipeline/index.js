@@ -30,6 +30,12 @@ const KEYWORDS = [
   'classified', 'executive privilege',
   'trump', 'vought', 'roberts kevin',
   'democracy', 'authoritarian', 'checks and balances',
+  'press freedom', 'journalist', 'VOA', 'voice of america', 'press pool', 'CPJ',
+  'corruption', 'emoluments', 'self-dealing', 'conflict of interest', 'crypto',
+  'CFPB', 'USAID', 'EPA', 'medicaid', 'SNAP', 'food stamps', 'NIH', 'NOAA',
+  'pardon', 'clemency', 'retribution', 'political prosecution', 'inspector general',
+  'detention', 'CECOT', 'alien enemies act', 'asylum', 'visa revoked',
+  'stablecoin', 'meme coin', 'world liberty financial',
 ];
 
 const SIGNIFICANCE_THRESHOLD = 7;
@@ -110,7 +116,7 @@ async function scoreArticles(articles) {
             role: 'user',
             content: `Rate this article's significance to U.S. democratic checks and balances (1-10).
 
-We track: DOJ independence, FBI independence, intelligence community integrity, civil service independence, election infrastructure, congressional oversight, judicial independence.
+We track 12 categories: DOJ independence, FBI independence, intelligence community integrity, civil service independence, election infrastructure, congressional oversight, judicial independence, political retribution, press freedom, immigration & civil rights, corruption & self-dealing, federal programs & agencies.
 
 Scale:
 1-3: Routine news, opinion, commentary
@@ -188,6 +194,8 @@ Write the email with this structure:
 4. Dashboard updates: what status changed (if anything)
 5. Upcoming: 1-2 things to watch
 6. Sign-off: brief, matches the checks.fail voice
+
+7. End with: "Full dashboard: [checks.fail](https://checks.fail)"
 
 Format as markdown. Keep it under 500 words total. No emoji.`
     }]
