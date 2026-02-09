@@ -1,1 +1,2337 @@
-{"articles": [], "lastDigest": null, "lastFetch": null}
+{
+  "articles": [
+    {
+      "id": "955aeeb29ec2",
+      "title": "“I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility",
+      "url": "https://www.propublica.org/article/ice-dilley-children-letters",
+      "source": "ProPublica",
+      "published": "2026-02-09T10:25:00.000Z",
+      "description": "The post “I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility appeared first on ProPublica.",
+      "keywords": [
+        "ICE",
+        "detained"
+      ],
+      "significance": 5,
+      "reason": "While the article documents serious humanitarian concerns at an ICE detention facility that relate to civil rights and governmental accountability, it represents investigative journalism on an ongoing policy issue rather than a discrete institutional action or systemic check erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:32.963Z"
+    },
+    {
+      "id": "bc478aa511cc",
+      "title": "The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia",
+      "url": "https://www.propublica.org/article/kevin-moncla-election-researcher-fulton-county-georgia",
+      "source": "ProPublica",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "The post The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia appeared first on ProPublica.",
+      "keywords": [
+        "election",
+        "FBI"
+      ],
+      "significance": 7,
+      "reason": "Raises significant questions about FBI independence and potential political motivation in election-related investigations, with implications for institutional integrity and election infrastructure oversight.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:49:33.027Z"
+    },
+    {
+      "id": "7dc16f3c61e5",
+      "title": "Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump",
+      "url": "https://www.propublica.org/article/institute-of-museum-and-library-services-grant-guidelines-donald-trump",
+      "source": "ProPublica",
+      "published": "2026-02-06T15:30:00.000Z",
+      "description": "The post Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Politically contentious policy change affecting federal grants with potential institutional implications, but lacks evidence of systematic democratic erosion or unprecedented action.",
+      "categories": [
+        "federal programs & agencies",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:32.800Z"
+    },
+    {
+      "id": "62dd9a8711d8",
+      "title": "“You’re Not Going to Investigate a Federal Officer”",
+      "url": "https://www.propublica.org/article/why-local-state-police-rarely-investigate-ice-cbp-fbi",
+      "source": "ProPublica",
+      "published": "2026-02-05T11:00:00.000Z",
+      "description": "The post “You’re Not Going to Investigate a Federal Officer” appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": null,
+      "reason": "Cannot rate without article content; only title and source provided",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:32.473Z"
+    },
+    {
+      "id": "f9c6fb2e59ff",
+      "title": "The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building",
+      "url": "https://www.propublica.org/article/chicago-venezuela-immigration-ice-raid-landlord-tren-de-aragua",
+      "source": "ProPublica",
+      "published": "2026-02-04T15:30:00.000Z",
+      "description": "The post The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building appeared first on ProPublica.",
+      "keywords": [
+        "raid",
+        "immigration",
+        "DNI"
+      ],
+      "significance": 6,
+      "reason": "Investigative reporting on immigration enforcement operations raises concerns about civil rights and agency accountability, but without details on systemic violations or institutional failures, it falls into notable but not urgent territory.",
+      "categories": [
+        "immigration & civil rights",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:33.160Z"
+    },
+    {
+      "id": "fee6bdcd0bdc",
+      "title": "She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad.",
+      "url": "https://www.propublica.org/article/nike-factory-worker-rights-indonesia-advocate",
+      "source": "ProPublica",
+      "published": "2026-01-30T10:25:00.000Z",
+      "description": "The post She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad. appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article focuses on labor activism and corporate accountability in Indonesia rather than U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:34.016Z"
+    },
+    {
+      "id": "6b5c0e071904",
+      "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
+      "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter",
+      "source": "ProPublica",
+      "published": "2026-01-29T21:30:00.000Z",
+      "description": "The post Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation appeared first on ProPublica.",
+      "keywords": [
+        "attorney general",
+        "crypto"
+      ],
+      "significance": 6,
+      "reason": "A conflict-of-interest allegation against a senior DOJ official raises institutional concerns, but the situation remains within normal oversight mechanisms without evidence of systemic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:49:34.317Z"
+    },
+    {
+      "id": "507068b954f7",
+      "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
+      "source": "NPR Politics",
+      "published": "2026-02-09T13:13:38.000Z",
+      "description": "Japan's first female Prime Minister, Sanae Takaichi, brought the ruling Liberal Democratic Party its biggest-ever electoral victory, fueling her ambitions to pursue to a political agenda which she says could \"split public opinion.\"",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 1,
+      "reason": "This article covers Japanese domestic politics and has no direct relevance to U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:34.074Z"
+    },
+    {
+      "id": "79481e253d7d",
+      "title": "Rep. Raja Krishnamoorthi, D-Ill., talks abut the deposition of Ghislaine Maxwell",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5704298/rep-raja-krishnamoorthi-d-ill-talks-abut-the-deposition-of-ghislaine-maxwell",
+      "source": "NPR Politics",
+      "published": "2026-02-09T11:48:49.000Z",
+      "description": "NPR's Leila Fadel talks to House Oversight Committee member Rep. Raja Krishnamoorthi, D-Ill., about the deposition Jeffrey Epstein accomplice, Ghislaine Maxwell.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a congressional member discussing a criminal case deposition with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:34.582Z"
+    },
+    {
+      "id": "3807252d97c9",
+      "title": "5 glaring warning signs for Republicans in this year's midterm elections",
+      "url": "https://www.npr.org/2026/02/09/nx-s1-5704794/trump-house-of-representatives-republicans-midterm-elections",
+      "source": "NPR Politics",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "Here's why Republicans are facing an uphill battle, particularly for retaining control of the House.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is electoral analysis and political commentary on midterm prospects, not reporting on institutional checks, democratic erosion, or violations of the tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:36.323Z"
+    },
+    {
+      "id": "ec5afe7455c2",
+      "title": "Trump administration lauds plastic surgeons' statement on trans surgery for minors",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705304/transgender-minors-gender-affirming-care-plastic-surgery",
+      "source": "NPR Politics",
+      "published": "2026-02-08T14:28:07.000Z",
+      "description": "A patient who came to regret the top surgery she got as a teen won a $2 million malpractice suit. Then, the American Society of Plastic Surgeons clarified its position that surgery is not recommended for transgender minors.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers a malpractice settlement and professional medical organization guidance, which are routine legal and regulatory matters without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:37.338Z"
+    },
+    {
+      "id": "c14549e6be52",
+      "title": "Immigration enforcement emerges as the major issue in the Texas U.S. Senate race",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5704264/immigration-enforcement-emerges-as-the-major-issue-in-the-texas-u-s-senate-race",
+      "source": "NPR Politics",
+      "published": "2026-02-08T12:58:47.000Z",
+      "description": "Texas' U.S. Senate is grappling with how immigration enforcement should look like ahead of its primary elections.",
+      "keywords": [
+        "election",
+        "immigration"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of a campaign issue debate during primary elections, with no indication of institutional changes or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:41.176Z"
+    },
+    {
+      "id": "a96b8e8259c0",
+      "title": "Politics chat: Trump defends posting racist clip, Judge rules on Hudson River project",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5702380/politics-chat-trump-defends-posting-racist-clip-judge-rules-on-hudson-river-project",
+      "source": "NPR Politics",
+      "published": "2026-02-08T12:58:31.000Z",
+      "description": "President Trump explains how a racist video clip made it into his Truth Social post. A judge rules that his administration cannot block funds for a massive tunnel project under the Hudson river.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "The article covers routine political commentary and a standard judicial ruling on infrastructure funding with no systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:37.220Z"
+    },
+    {
+      "id": "4c717685618b",
+      "title": "Thailand counts votes in early election with 3 main parties vying for power",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705865/thailand-counts-votes-election",
+      "source": "NPR Politics",
+      "published": "2026-02-08T10:58:16.000Z",
+      "description": "Vote counting was underway in Thailand's early general election on Sunday, seen as a three-way race among competing visions of progressive, populist and old-fashioned patronage politics.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This article covers Thailand's domestic election and has no relevance to U.S. democratic institutions, checks and balances, or the specified monitoring categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:37.142Z"
+    },
+    {
+      "id": "5f700deaf904",
+      "title": "Pentagon says it's cutting ties with 'woke' Harvard, ending military training",
+      "url": "https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training",
+      "source": "NPR Politics",
+      "published": "2026-02-07T23:43:24.000Z",
+      "description": "Amid an ongoing standoff between Harvard and the White House, the Defense Department said it plans to cut ties with the Ivy League — ending military training, fellowships and certificate programs.",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A significant policy action affecting federal-institution relationships with potential implications for civil service independence and federal programs, but not an unprecedented erosion of democratic checks.",
+      "categories": [
+        "federal programs & agencies",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-09T17:49:37.333Z"
+    },
+    {
+      "id": "73a510fe5a0d",
+      "title": "WATCH: Ghislaine Maxwell not cooperating because she is campaigning for Trump pardon, Democrats say",
+      "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-not-cooperating-because-she-is-campaigning-for-trump-pardon-democrats-say",
+      "source": "PBS NewsHour",
+      "published": "2026-02-09T17:32:26.000Z",
+      "description": "An attorney for Ghislaine Maxwell told lawmakers Manday that she would be willing to testify that neither President Donald Trump nor former President Bill Clinton were culpable for wrongdoing in their relationships with Epstein, according to both Democratic and Republican lawmakers who exited a closed-door deposition with Maxwell.",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about potential political retribution and DOJ independence if a convicted felon's cooperation is influenced by pardon incentives, but lacks confirmed evidence of actual institutional action or policy change.",
+      "categories": [
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-09T17:49:42.297Z"
+    },
+    {
+      "id": "bf04358ecbb6",
+      "title": "WATCH LIVE: House gavels in as deadline for Homeland Security funding nears",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-house-gavels-in-as-deadline-for-homeland-security-funding-nears",
+      "source": "PBS NewsHour",
+      "published": "2026-02-09T16:58:28.000Z",
+      "description": "Whether to ban the masks — or allow the masking to continue — has emerged as a central question in the debate in Congress over funding Homeland Security ahead of Friday's midnight deadline, when it faces a partial agency shutdown.",
+      "keywords": [
+        "DNI"
+      ],
+      "significance": 4,
+      "reason": "A routine funding deadline debate with procedural congressional activity, though it involves Homeland Security operations and potentially touches on civil rights implications depending on the masking policy details.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:49:42.359Z"
+    },
+    {
+      "id": "45141b367752",
+      "title": "Trump slams Olympian for expressing 'mixed emotions' about what's 'going on in the U.S.'",
+      "url": "https://www.pbs.org/newshour/politics/trump-slams-olympian-for-expressing-mixed-emotions-about-whats-going-on-in-the-u-s",
+      "source": "PBS NewsHour",
+      "published": "2026-02-09T16:45:48.000Z",
+      "description": "President Donald Trump said Sunday it's hard to cheer for American Olympians who are speaking out against his administration's policies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This represents routine political commentary and criticism rather than an institutional action affecting democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:42.086Z"
+    },
+    {
+      "id": "85414bb26001",
+      "title": "4 takeaways from the Epstein files about the FBI investigation of possible sex trafficking",
+      "url": "https://www.pbs.org/newshour/nation/ap-review-on-what-the-epstein-files-show-about-the-fbi-investigation-of-possible-sex-trafficking",
+      "source": "PBS NewsHour",
+      "published": "2026-02-08T17:16:33.000Z",
+      "description": "An Associated Press review of internal Justice Department records shows that the FBI found proof Jeffrey Epstein sexually abused underage girls but little evidence of a sex trafficking ring.",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports on historical FBI investigative findings regarding a past criminal case with no direct implications for current democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:41.999Z"
+    },
+    {
+      "id": "ea261569349c",
+      "title": "News Wrap: Trump's racist social media post about the Obamas draws backlash",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trumps-racist-social-media-post-about-the-obamas-draws-backlash",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:50:51.000Z",
+      "description": "In our news wrap Friday, the White House defended and then removed a racist depiction of the Obamas from Trump's social media, the U.S. arrested a key suspect in the 2012 Benghazi attack, a bomb blast killed Shiite worshippers at a mosque in Pakistan's capital, authorities are investigating the authenticity of a \"new message\" about Nancy Guthrie, and Hall of Fame quarterback Sonny Jurgensen died.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the post reflects concerning rhetoric, the story documents routine social media controversy and White House response rather than institutional action that affects democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:42.424Z"
+    },
+    {
+      "id": "ac54e212ef32",
+      "title": "Atkins Stohr and Parker on political fallout from Trump's call to 'nationalize' elections",
+      "url": "https://www.pbs.org/newshour/show/atkins-stohr-and-parker-on-political-fallout-from-trumps-call-to-nationalize-elections",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:25:54.000Z",
+      "description": "Kimberly Atkins Stohr of The Boston Globe and Kathleen Parker of The Washington Post join Geoff Bennett to discuss the week in politics, including the fallout from President Trump's call to \"nationalize\" elections and his immigration crackdown.",
+      "keywords": [
+        "election",
+        "immigration",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Trump's call to nationalize elections represents a notable but not yet implemented threat to election infrastructure and congressional oversight, discussed through expert analysis rather than reporting on an institutional action or policy change.",
+      "categories": [
+        "election_infrastructure",
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:43.541Z"
+    },
+    {
+      "id": "fbee58b78f45",
+      "title": "Trump ends Obama-era restrictions on commercial fishing in protected area off New England",
+      "url": "https://www.pbs.org/newshour/nation/trump-ends-obama-era-restrictions-on-commercial-fishing-in-protected-area-off-new-england",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T23:08:51.000Z",
+      "description": "Trump's proclamation is his latest move to try to strengthen U.S. fishing while rolling back existing conservation measures",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine regulatory policy change affecting environmental and commercial interests, with no direct bearing on democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:44.768Z"
+    },
+    {
+      "id": "b89be8983435",
+      "title": "Bitcoin price drops below pre-Trump second term levels, now hovering below $67,000",
+      "url": "https://www.pbs.org/newshour/economy/bitcoin-price-drops-below-pre-trump-second-term-levels-now-hovering-below-67000",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T18:08:06.000Z",
+      "description": "The sell-off is driven by investors pulling out of speculative assets and concerns about future cryptocurrency regulation.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "crypto"
+      ],
+      "significance": 1,
+      "reason": "Cryptocurrency market volatility is routine financial news with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:43.191Z"
+    },
+    {
+      "id": "5d4822cd56f2",
+      "title": "UK police search two properties linked to Peter Mandelson as part of Epstein probe",
+      "url": "https://www.pbs.org/newshour/politics/uk-police-search-two-properties-linked-to-peter-mandelson-as-part-of-epstein-probe",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:53:55.000Z",
+      "description": "Mandelson has not been arrested or charged.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns UK law enforcement investigating a British political figure and is unrelated to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:43.485Z"
+    },
+    {
+      "id": "538b4748b538",
+      "title": "Republicans reject complaint about Gabbard as Democrats question time it took to see it",
+      "url": "https://www.pbs.org/newshour/politics/republicans-reject-complaint-about-gabbard-as-democrats-question-time-it-took-to-see-it",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:48:50.000Z",
+      "description": "Sen. Tom Cotton and Rep. Rick Crawford also dismissed allegations from Democratic lawmakers that Gabbard tried to delay referring the complaint to Congress as required by law.",
+      "keywords": [
+        "gabbard"
+      ],
+      "significance": 6,
+      "reason": "Involves potential institutional oversight failure regarding intelligence community leadership vetting, but represents a partisan dispute over process rather than confirmed erosion of checks and balances.",
+      "categories": [
+        "intelligence community integrity",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:43.449Z"
+    },
+    {
+      "id": "7c6ea6a484d7",
+      "title": "Facing high Trump tariffs, Africa's leading economy says it's close to a new trade deal with China",
+      "url": "https://www.pbs.org/newshour/world/facing-high-trump-tariffs-africas-leading-economy-says-its-close-to-a-new-trade-deal-with-china",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T16:22:26.000Z",
+      "description": "South Africa's Ministry of Trade and Industry said the agreement would start negotiations over a deal that would give some South African goods, such as fruit, duty-free access to the Chinese market.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine international trade news with no direct connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:49.089Z"
+    },
+    {
+      "id": "fcea60713f57",
+      "title": "A timeline of the Jeffrey Epstein investigation and the fight to make the government's files public",
+      "url": "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T15:30:11.000Z",
+      "description": "The release is the culmination of a yearslong fight over the records underpinning one of the Justice Department's most high-profile and highly debated cases.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the Epstein case involves significant DOJ accountability and transparency questions, the article focuses on historical record release rather than current institutional threats to democratic checks.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:49:51.679Z"
+    },
+    {
+      "id": "00e213436379",
+      "title": "Census Bureau plans to use survey with a citizenship question in its test for 2030, alarming experts",
+      "url": "https://www.pbs.org/newshour/politics/census-bureau-plans-to-use-survey-with-a-citizenship-question-in-its-test-for-2030-alarming-experts",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T14:55:55.000Z",
+      "description": "This decision follows the Trump administration's failed attempt to add such a question to the 2020 census.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable institutional action with potential democratic implications for census accuracy and representation, but falls short of critical severity given the question's previous legal challenges and the testing phase status.",
+      "categories": [
+        "election infrastructure",
+        "civil rights & immigration",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:46.010Z"
+    },
+    {
+      "id": "48a80bf50d45",
+      "title": "Trump's racist post about Obamas is deleted after backlash despite White House earlier defending it",
+      "url": "https://www.pbs.org/newshour/politics/trump-shares-a-racist-video-that-depicts-the-obamas-as-primates",
+      "source": "PBS NewsHour",
+      "published": "2026-02-06T14:51:11.000Z",
+      "description": "The Republican president's Thursday night post was deleted Friday and blamed on a staffer after widespread backlash, from civil rights leaders to veteran Republican senators, for its treatment of the nation's first Black president and first lady.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the incident reflects concerning rhetoric and institutional dysfunction, the deletion after backlash and lack of lasting policy consequence place it in the notable-but-not-urgent range rather than critical institutional erosion.",
+      "categories": [
+        "press freedom",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:49:46.183Z"
+    },
+    {
+      "id": "bc54fcc23fc9",
+      "title": "",
+      "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "source": "CNN Politics",
+      "published": null,
+      "description": "Vice President Kamala Harris, a former US senator from California who previously served as the state's attorney general, could be the first Black woman and Asian American to lead a major party ticket after receiving President Joe Biden's support to become the next Democratic presidential nominee.",
+      "keywords": [
+        "attorney general",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a presidential nomination endorsement with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:52.493Z"
+    },
+    {
+      "id": "ce285546d8a5",
+      "title": "Border czar warned immigration operations should be targeted or risk losing public support",
+      "url": "https://www.nbcnews.com/politics/immigration/border-czar-warned-immigration-operations-targeted-keep-faith-american-rcna257608",
+      "source": "NBC News",
+      "published": "2026-02-09T10:00:00.000Z",
+      "description": "Long before border czar Tom Homan took over in Minneapolis, he warned that a targeted approach to immigration enforcement would be needed to “keep the faith of the American people.”Any immigrant in the U.S. illegally can be arrested and deported, but Homan, who has served as a Homeland Security official under the Obama and both Trump administrations, has long said immigrants who have committed additional crimes should be prioritized for arrest and deportation",
+      "keywords": [
+        "immigration",
+        "homan",
+        "deportation",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This article documents a policy position on immigration enforcement prioritization that reflects institutional debate within executive branch authority, notable for transparency into decision-making but not representing an institutional challenge to checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:49:52.826Z"
+    },
+    {
+      "id": "9b9b927676ac",
+      "title": "State officials say the Trump administration has been absent on election security",
+      "url": "https://www.nbcnews.com/politics/elections/state-officials-say-trump-administration-election-security-rcna257031",
+      "source": "NBC News",
+      "published": "2026-02-09T10:00:41.000Z",
+      "description": "State election officials got an unusual invitation from the Trump administration last week: a late February call about midterm preparations organized by the FBI",
+      "keywords": [
+        "election",
+        "midterm",
+        "FBI",
+        "election security",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The article documents a routine administrative engagement on election security between federal and state officials, which is standard practice, though questions about adequate federal coordination on election infrastructure warrant monitoring.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:52.838Z"
+    },
+    {
+      "id": "08a0def81d50",
+      "title": "Members of Congress to View Unredacted Jeffrey Epstein Files",
+      "url": "https://www.today.com/video/epstein-survivors-use-super-bowl-ad-to-demand-transparency-257372229739",
+      "source": "NBC News",
+      "published": "2026-02-09T12:31:05.000Z",
+      "description": "The Justice Department will begin allowing members of Congress to view unredacted copies of its millions of files on the late convicted sex offender Jeffrey Epstein. It comes as a group of Epstein survivors are hoping a high-profile public service announcement in the Super Bowl will lead to more transparency.  NBC’s Ryan Nobles reports for TODAY.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable exercise of congressional oversight authority regarding executive branch records, but lacks the institutional significance of major policy changes or unprecedented democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:52.688Z"
+    },
+    {
+      "id": "a5f0fa579954",
+      "title": "Members of Congress to view unredacted Epstein files",
+      "url": "https://www.nbcnews.com/video/members-of-congress-to-view-unredacted-epstein-files-257315909664",
+      "source": "NBC News",
+      "published": "2026-02-07T02:00:30.000Z",
+      "description": "Members of Congress will be able to begin reviewing the unredacted version of the Justice Department’s files on Jeffrey Epstein on Monday morning. The review process will take place in person at the DOJ. NBC News' Ryan Nobles reports.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional access to unredacted DOJ files represents routine exercise of legislative oversight with established legal procedures, though the sensitive nature of the materials warrants monitoring for any access restrictions or DOJ obstruction.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:54.169Z"
+    },
+    {
+      "id": "27616ccdc9bc",
+      "title": "Trump account deletes re-post of racist video after outrage",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-account-deletes-re-post-of-racist-video-after-outrage-257311301545",
+      "source": "NBC News",
+      "published": "2026-02-07T00:19:15.000Z",
+      "description": "Trump account deletes re-post of racist video after outrage\nIn a rare reversal, the Trump White House deleted a re-post of a racist video of the Obamas from the president’s social media account following intense backlash. NBC News’ Garrett Haake reports.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the content is objectionable, the deletion following public backlash represents the normal functioning of accountability mechanisms rather than a breakdown of democratic checks.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:58.061Z"
+    },
+    {
+      "id": "63949637a323",
+      "title": "Trump accepts ownership of the current economy: 'I'm very proud of it'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-accepts-ownership-economy-proud-rcna257544",
+      "source": "NBC News",
+      "published": "2026-02-08T20:17:38.000Z",
+      "description": "President Donald Trump says it’s his economy now",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A statement about economic ownership is routine political commentary without institutional, legal, or structural implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:53.692Z"
+    },
+    {
+      "id": "ba54199d1a4c",
+      "title": "Trump's election threats shape this year's key secretary of state races",
+      "url": "https://www.nbcnews.com/politics/2026-election/trumps-election-threats-shape-years-key-secretary-state-races-rcna257573",
+      "source": "NBC News",
+      "published": "2026-02-08T10:00:40.000Z",
+      "description": "President Donald Trump’s call to “nationalize” elections and continued false claims of fraud are defining races this year for offices that oversee the voting process in key battleground states",
+      "keywords": [
+        "election",
+        "voting",
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Trump's push to nationalize elections and election fraud rhetoric directly threatens the independence of state election officials and the integrity of election infrastructure, a foundational democratic check.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:49:53.862Z"
+    },
+    {
+      "id": "30b223dbcc17",
+      "title": "How Trump's $10 billion suit against his own government could go sideways",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trumps-10-billion-suit-government-go-sideways-rcna257483",
+      "source": "NBC News",
+      "published": "2026-02-06T14:31:02.000Z",
+      "description": "President Donald Trump's $10 billion lawsuit against the IRS and Teasury Department may not turn into a legal settlement for him.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A lawsuit by the president against executive agencies raises questions about DOJ independence and potential political retribution, but the article focuses on legal procedural obstacles rather than institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:49:54.151Z"
+    },
+    {
+      "id": "e23de84f820a",
+      "title": "Full interview: Tom Llamas exclusive with President Trump",
+      "url": "https://www.nbcnews.com/video/full-interview-tom-llamas-exclusive-with-president-trump-257304133923",
+      "source": "NBC News",
+      "published": "2026-02-08T20:10:01.000Z",
+      "description": "In the full interview with NBC News’ Tom Llamas, President Donald Trump addresses the backlash to immigration enforcement, the state of the American economy, U.S. tensions with Iran and other topics at the White House. The interview was conducted on Wednesday, February 4.",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential interview on routine policy topics is standard news coverage without evidence of institutional changes or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:59.263Z"
+    },
+    {
+      "id": "87ab5b7f9d2a",
+      "title": "Trump criticizes Olympic skier who said representing the U.S. 'brings up mixed emotions'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-criticizes-olympic-skier-hunter-hess-rcna258083",
+      "source": "NBC News",
+      "published": "2026-02-09T03:43:18.000Z",
+      "description": "President Donald Trump called U.S.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political commentary about a public figure's social media criticism of an athlete's statement, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:01.530Z"
+    },
+    {
+      "id": "5b863652d8a4",
+      "title": "Read the full transcript: President Donald Trump interviewed by 'NBC Nightly News' anchor Tom Llamas",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-interview-nbc-news-extend-transcript-tom-llamas-super-bowl-2026-rcna257410",
+      "source": "NBC News",
+      "published": "2026-02-05T03:30:40.000Z",
+      "description": "Trump spoke about immigration, the Fed, artificial intelligence, the economy and more in the February 2026 interview.",
+      "keywords": [
+        "immigration",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential interview transcript covering policy topics is routine news coverage with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:49:59.272Z"
+    },
+    {
+      "id": "22df8f8465f4",
+      "title": "Fact-checking Trump's interview with NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/fact-check-trump-interview-nbc-news-rcna257084",
+      "source": "NBC News",
+      "published": "2026-02-05T01:12:02.000Z",
+      "description": "Trump made several false or misleading claims on topics ranging from the economy to immigration to elections during an Oval Office interview with NBC News’ Tom Llamas.",
+      "keywords": [
+        "election",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Fact-checking a political figure's claims is routine journalistic work that does not itself indicate erosion of democratic institutions or checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:49:59.126Z"
+    },
+    {
+      "id": "3e59e245db76",
+      "title": "Trump says it's 'terrible' Bill Belichick wasn't elected to the Hall of Fame on the first ballot",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-bill-belichick-hall-fame-rcna257548",
+      "source": "NBC News",
+      "published": "2026-02-08T20:18:05.000Z",
+      "description": "President Donald Trump thinks Bill Belichick should have been elected to the Hall of Fame — hinting that a “controversial” recent history may have led voters to snub the celebrated coach",
+      "keywords": [
+        "ballot",
+        "voter",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a personal opinion about sports hall of fame voting with no connection to democratic institutions, government checks and balances, or any tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:01.864Z"
+    },
+    {
+      "id": "2572661ba63f",
+      "title": "Super Bowl interview: Tom Llamas exclusive with President Trump",
+      "url": "https://www.nbcnews.com/video/super-bowl-interview-tom-llamas-exclusive-with-president-trump-257354309569",
+      "source": "NBC News",
+      "published": "2026-02-08T14:42:32.000Z",
+      "description": "In an interview with NBC News’ Tom Llamas for Super Bowl 60, President Donald Trump talks about the strengths of the Seattle Seahawks and New England Patriots, their quarterbacks and Bill Belichick’s snub from the Pro Football Hall of Fame. The president also addresses a wide range of topics, from his immigration crackdown to affordability and the cost of goods for Americans.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the interview touches on immigration policy, it is primarily a sports-focused entertainment segment with limited substantive institutional or democratic governance content.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:50:03.019Z"
+    },
+    {
+      "id": "da2df230790e",
+      "title": "Nancy Pelosi to back JFK's grandson in crowded House primary, source says",
+      "url": "https://www.nbcnews.com/politics/elections/nancy-pelosi-set-endorse-jfks-grandson-new-york-house-seat-source-says-rcna257968",
+      "source": "NBC News",
+      "published": "2026-02-08T01:23:10.000Z",
+      "description": "Former House Speaker Nancy Pelosi, D-Calif., plans to endorse Jack Schlossberg, the grandson of President John F. Kennedy, in his run for a competitive House seat in New York City, a source familiar with the matter told NBC News",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about an endorsement in a primary election, involving no institutional threats or checks and balances concerns.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:03.030Z"
+    },
+    {
+      "id": "34b1c8ee717d",
+      "title": "Tulsi Gabbard responds to criticism over handling of whistleblower complaint",
+      "url": "https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-responds-senators-criticism-handling-whistleblower-compl-rcna257952",
+      "source": "NBC News",
+      "published": "2026-02-08T00:35:56.000Z",
+      "description": "Director of National Intelligence Tulsi Gabbard responded to criticism from Sen.",
+      "keywords": [
+        "gabbard",
+        "intelligence",
+        "national intelligence"
+      ],
+      "significance": 5,
+      "reason": "A public response to whistleblower handling criticism indicates institutional accountability mechanisms are functioning, but without details on the substance of the complaint or response, the significance remains unclear.",
+      "categories": [
+        "intelligence community integrity",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:50:02.965Z"
+    },
+    {
+      "id": "e32b4713b64a",
+      "title": "Ohio man charged with threatening to kill Vice President JD Vance",
+      "url": "https://www.nbcnews.com/politics/politics-news/ohio-man-charged-threatening-kill-vice-president-jd-vance-rcna257940",
+      "source": "NBC News",
+      "published": "2026-02-07T21:24:43.000Z",
+      "description": "An Ohio man is charged with threatening to kill Vice President JD Vance and with receiving and distributing images containing child sexual abuse material.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine criminal case involving threats and child exploitation charges unrelated to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:02.706Z"
+    },
+    {
+      "id": "f62287e3247d",
+      "title": "Trump calls U.S. and Iran talks in Oman 'very good' and says there will be another meeting",
+      "url": "https://www.nbcnews.com/world/iran/trump-calls-us-iran-talks-oman-good-says-will-another-meeting-rcna257857",
+      "source": "NBC News",
+      "published": "2026-02-07T03:44:41.000Z",
+      "description": "President Donald Trump said Friday that the high-stakes talks between Iran and the United States in Oman had gone well and that the two sides would meet again next week, though he did not provide any details about the meeting.“They had a very good meeting with a very high representative Iran, of Iran, and we’ll see how it all turns out,” Trump told a gathering of reporters aboard Air Force One, noting that the country could not be permitted to have nuclear weapons under any deal.“We’re",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic news reporting on international negotiations with no direct implications for U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:02.696Z"
+    },
+    {
+      "id": "199b8eca18bc",
+      "title": "Ghislaine Maxwell's lawyer says she'll testify if Trump grants her clemency",
+      "url": "https://www.cbsnews.com/news/ghislaine-maxwell-house-oversight-committee-deposition-fifth-amendment/",
+      "source": "CBS News",
+      "published": "2026-02-09T17:26:13.000Z",
+      "description": "Ghislaine Maxwell's lawyer said she would be willing to cooperate with a House panel's probe if President Trump grants her clemency, and would testify that he is \"innocent of any wrongdoing.\"",
+      "keywords": [
+        "trump",
+        "clemency"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about potential political retribution and quid pro quo clemency, but involves a specific criminal case rather than broad institutional erosion.",
+      "categories": [
+        "political retribution",
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:50:04.073Z"
+    },
+    {
+      "id": "a932f8280f29",
+      "title": "Less than 14% of those ICE arrested had violent criminal records, data show",
+      "url": "https://www.cbsnews.com/news/ice-arrests-violent-criminal-records-trump-first-year/",
+      "source": "CBS News",
+      "published": "2026-02-09T17:17:30.000Z",
+      "description": "The official DHS statistics, which had not been previously reported, provide the most detailed look yet into who ICE has arrested during the Trump administration's crackdown.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Data revealing ICE arrest patterns is notable for civil rights accountability but represents routine reporting rather than a specific institutional action or policy change.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:50:04.121Z"
+    },
+    {
+      "id": "24fbdc4b2bd3",
+      "title": "Face the Nation: Omar, Vinograd, Krebs",
+      "url": "https://www.cbsnews.com/video/face-the-nation-omar-vinograd-krebs/",
+      "source": "CBS News",
+      "published": "2026-02-09T15:52:49.000Z",
+      "description": "Missed the second half of the show? The latest on...Dem. Rep. Ilhan Omar says that as the Trump administration has steamrolled forward with executive orders to dismantle USAID and the Department of Education as well accessing the Treasury Department records because the president doesn't \"have the support\" among Republicans in Congress, amid the Trump administration's bureaucratic overhaul, CBS News Justice Department correspondent Scott MacFarlane, chief legal correspondent Jan Crawford, CBS New",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "cybersecurity",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a brief news summary/teaser of a talk show segment rather than substantive reporting on institutional actions or policy outcomes.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:03.924Z"
+    },
+    {
+      "id": "22158b126b44",
+      "title": "12/15: The Takeout: Rep. Seth Moulton",
+      "url": "https://www.cbsnews.com/video/1215-the-takeout-rep-seth-moulton/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:41.000Z",
+      "description": "Massachusetts Rep. Seth Moulton joins Major Garrett to discuss the state of the Democratic Party and what it should do to attract voters and make gains in the midterm elections and beyond. Also discussed, are the challenges President-elect Donald Trump faces in handling the fall of Bashar al-Assad in Syria.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political interview discussing Democratic Party strategy and foreign policy, with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:05.017Z"
+    },
+    {
+      "id": "1e0c8b64d1ec",
+      "title": "12/8: The Takeout: Camilo Montoya-Galvez",
+      "url": "https://www.cbsnews.com/video/128-the-takeout-camilo-montoya-galvez/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:33.000Z",
+      "description": "CBS News immigration reporter Camilo Montoya-Galvez chats with Major Garrett about how President-elect Donald Trump could impose mass deportations and the economic impact those deportations may have across the U.S. on this week's episode of \"The Takeout.\"",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a news commentary segment discussing potential policy proposals and their economic implications, without reporting on any institutional action, court ruling, or actual erosion of democratic checks.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:50:04.058Z"
+    },
+    {
+      "id": "c5199b816560",
+      "title": "6/16: The Takeout: Steve Coll",
+      "url": "https://www.cbsnews.com/video/616-the-takeout-steve-coll/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:16.000Z",
+      "description": "Author and journalist Steve Coll talks about the complicated relationship between the U.S. government and Saddam Hussein, and how events in 1979 shaped future events like the Sept. 11 attacks and the Iraq war.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 2,
+      "reason": "This is a retrospective historical analysis of past foreign policy decisions with no direct bearing on current democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:08.524Z"
+    },
+    {
+      "id": "652eeed75aed",
+      "title": "6/30: The Takeout: Steven Brill",
+      "url": "https://www.cbsnews.com/video/630-the-takeout-steven-brill/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:13.000Z",
+      "description": "Author and journalist Steven Brill joins \"The Takeout\" to discuss the real-world dangers of disinformation and his work to combat it. Brill discusses the importance of distinguishing fact from opinion, and whether truth can win out in the modern media landscape.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 2,
+      "reason": "This is a general opinion and commentary segment about disinformation without discussing specific policy changes, institutional actions, or threats to democratic mechanisms.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:50:06.246Z"
+    },
+    {
+      "id": "feff92233263",
+      "title": "6/9: The Takeout: Zeke Hernandez",
+      "url": "https://www.cbsnews.com/video/69-the-takeout-zeke-hernandez/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:45:10.000Z",
+      "description": "Zeke Hernandez, author of \"The Truth About Immigration: Why Successful Societies Welcome Newcomers,\" joins \"The Takeout\" to discuss the benefits of immigration and common misconceptions. Hernandez explains how immigration has led to increased community investment and innovation in America.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 2,
+      "reason": "This is a routine opinion/commentary segment featuring an author discussing immigration policy perspectives, with no institutional actions, legal rulings, or democratic mechanisms directly affected.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:07.202Z"
+    },
+    {
+      "id": "bfb89ce7103e",
+      "title": "5/5: The Takeout: David Sanger",
+      "url": "https://www.cbsnews.com/video/55-the-takeout-david-sanger/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:44:59.000Z",
+      "description": "Journalist and author David Sanger joins Major Garrett to discuss his new book \"New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West,\" which details the myriad of challenges the U.S. faces in positioning itself as the leader of the free world amid conflicts around the globe.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 2,
+      "reason": "This is a commentary/interview segment about foreign policy and geopolitics with no direct relevance to domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:10.413Z"
+    },
+    {
+      "id": "5c68ad93b264",
+      "title": "2/18: The Takeout: National Security Council cyber advisor Anne Neuberger",
+      "url": "https://www.cbsnews.com/video/218-the-takeout-national-security-council-cyber-advisor-anne-neuberger/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:44:58.000Z",
+      "description": "For this edition of \"The Takeout,\" Major Garrett sits down with Anne Neuberger, the White House's deputy national security advisor for cyber and emerging technology. They discuss the threat of attacks from Russian cyber criminals on vulnerable systems such as hospitals and schools. She details actions the U.S. government is taking to stop such attacks, as well as the benefits and pitfalls of artificial intelligence.",
+      "keywords": [
+        "intelligence",
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is a routine informational interview about cybersecurity policy and AI implementation with no bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:06.148Z"
+    },
+    {
+      "id": "782ccd16fa5c",
+      "title": "Representative Sara Jacobs on \"The Takeout\" — 7/1/2022",
+      "url": "https://www.cbsnews.com/video/representative-sara-jacobs-on-the-takeout-712022/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:43:47.000Z",
+      "description": "Representative Sara Jacobs of California joins Major Garrett on this week's episode of \"The Takeout.\" They discuss the overturning of Roe v. Wade, whether Biden should run for reelection, progressive Democrats, and the movie \"Legally Blonde.\"",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news interview featuring political commentary on current events and personal opinions, with no institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:14.066Z"
+    },
+    {
+      "id": "29f38449dcc2",
+      "title": "Senator Tim Kaine on \"The Takeout\" — 8/12/2022",
+      "url": "https://www.cbsnews.com/video/senator-tim-kaine-on-the-takeout-8122022/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:43:12.000Z",
+      "description": "Virginia Senator Tim Kaine joins Major Garrett on \"The Takeout.\" They discuss Kaine's experience with long COVID, his opinion on a potential reelection campaign for President Biden, and the 2022 midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "This is a routine political interview covering personal health matters and electoral speculation with no substantive discussion of institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:13.472Z"
+    },
+    {
+      "id": "6318e3912872",
+      "title": "CBS News senior investigative correspondent Catherine Herridge on \"The Takeout\" — 5/22/2020",
+      "url": "https://www.cbsnews.com/video/cbs-news-senior-investigative-correspondent-catherine-herridge-on-the-takeout-5222020/",
+      "source": "CBS News",
+      "published": "2026-02-09T05:32:35.000Z",
+      "description": "CBS News senior investigative correspondent Catherine Herridge joins Major to talk about the events surrounding Michael Flynn and the FBI's work investigating Trump campaign officials' ties to Russia on this week's episode of \"The Takeout with Major Garrett.\"",
+      "keywords": [
+        "FBI",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine news interview discussing past investigative reporting on Flynn and Russia investigation rather than reporting on new institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence"
+      ],
+      "scoredAt": "2026-02-09T17:50:11.450Z"
+    },
+    {
+      "id": "730a2f00ef70",
+      "title": " Masks emerge as symbol of Trump's ICE crackdown and a flashpoint in Congress",
+      "url": "https://abcnews.go.com/Politics/wireStory/masks-emerge-symbol-trumps-ice-crackdown-flashpoint-congress-129986936",
+      "source": "ABC News",
+      "published": "2026-02-09T12:53:49.000Z",
+      "description": "The images of masked federal officers has become a flashpoint in the Trump administration’s immigration enforcement operations",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable symbolic and political controversy over immigration enforcement tactics that touches on civil rights and congressional oversight, but lacks evidence of institutional erosion or unprecedented democratic harm.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:50:15.470Z"
+    },
+    {
+      "id": "3c5c131490b9",
+      "title": " Judge rejects Democrats’ plea for early voting sites at 3 North Carolina universities",
+      "url": "https://abcnews.go.com/Politics/wireStory/judge-rejects-democrats-plea-early-voting-sites-3-129975543",
+      "source": "ABC News",
+      "published": "2026-02-09T01:33:41.000Z",
+      "description": "A federal judge has refused to help in attempts to open early voting sites at three public North Carolina universities",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 4,
+      "reason": "A single judge's ruling on early voting site locations affects election access but represents routine judicial decision-making rather than systemic erosion of democratic institutions.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-09T17:50:13.202Z"
+    },
+    {
+      "id": "bf9b4bd85570",
+      "title": " Voters are worried about the cost of housing. But Trump wants home prices to keep climbing",
+      "url": "https://abcnews.go.com/Politics/wireStory/voters-worried-cost-housing-trump-home-prices-climbing-129963537",
+      "source": "ABC News",
+      "published": "2026-02-08T13:49:49.000Z",
+      "description": "The White House is trying to show it's lowering the cost of living, but President Donald Trump has said he doesn't want to see the price of homes come down",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses policy disagreement on housing economics rather than institutional checks and balances or democratic norms.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:16.292Z"
+    },
+    {
+      "id": "a0912ba46c99",
+      "title": " Man charged with threatening to kill Vance and possessing child abuse files",
+      "url": "https://abcnews.go.com/Politics/wireStory/ohio-man-charged-threatening-kill-vice-president-jd-129951879",
+      "source": "ABC News",
+      "published": "2026-02-07T19:19:36.000Z",
+      "description": "An Ohio man has been charged with threatening to kill Vice President JD Vance while he was visiting his home state last month",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A criminal threat case against a private citizen is routine law enforcement activity unrelated to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:16.328Z"
+    },
+    {
+      "id": "9fa2e8e8e007",
+      "title": " Trump administration approves weed killer dicamba for two common genetically modified crops",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-administration-approves-weed-killer-dicamba-common-genetically-129938718",
+      "source": "ABC News",
+      "published": "2026-02-07T01:01:28.000Z",
+      "description": "The Environmental Protection Agency on Friday approved the use of the weed killer dicamba on genetically modified soybeans and cotton",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine EPA agricultural regulatory decision with no direct connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:16.298Z"
+    },
+    {
+      "id": "a00e92b5d006",
+      "title": " Justice Department will allow lawmakers to see unredacted versions of Epstein files",
+      "url": "https://abcnews.go.com/Politics/wireStory/justice-department-lawmakers-unredacted-versions-released-epstein-files-129937897",
+      "source": "ABC News",
+      "published": "2026-02-07T02:03:15.000Z",
+      "description": "The Department of Justice will allow members of Congress to review unredacted files on the convicted sex offender Jeffrey Epstein",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional access to unredacted files represents a notable exercise of legislative oversight but involves a specific case rather than a systemic institutional change.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-09T17:50:16.535Z"
+    },
+    {
+      "id": "60609503437e",
+      "title": " Trump's aggressive tactics force a reckoning between local leaders and Washington",
+      "url": "https://abcnews.go.com/Politics/wireStory/trumps-aggressive-tactics-force-reckoning-local-leaders-washington-129911998",
+      "source": "ABC News",
+      "published": "2026-02-06T12:37:51.000Z",
+      "description": "Local leaders across the U.S. describe an increasingly hostile relationship with Washington, driven by President Donald Trump's immigration policies",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Trump's immigration policies create significant federal-local tensions affecting institutional relationships and civil rights, but the article describes conflict rather than documented institutional erosion or unprecedented democratic breaches.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:50:16.712Z"
+    },
+    {
+      "id": "15b8abcf19d4",
+      "title": " Man pardoned in U.S. Capitol riot pleads guilty to threatening Hakeem Jeffries",
+      "url": "https://abcnews.go.com/Politics/wireStory/man-pardoned-us-capitol-riot-pleads-guilty-threatening-129904890",
+      "source": "ABC News",
+      "published": "2026-02-06T03:58:36.000Z",
+      "description": "A New York man has pleaded guilty to a misdemeanor harassment charge in connection with a death threat aimed at U.S. House Minority Leader Hakeem Jeffries",
+      "keywords": [
+        "pardon"
+      ],
+      "significance": 3,
+      "reason": "While the pardon raises concerns about political retribution, this article primarily covers routine criminal prosecution of an individual threat and does not report new institutional actions or policy changes affecting democratic systems.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:50:20.073Z"
+    },
+    {
+      "id": "eb05545150b9",
+      "title": " Census Bureau plans to use survey with a citizenship question in its test for 2030",
+      "url": "https://abcnews.go.com/Politics/wireStory/census-bureau-plans-survey-citizenship-question-test-2030-129899527",
+      "source": "ABC News",
+      "published": "2026-02-06T00:28:01.000Z",
+      "description": "The U.S. Census Bureau plans to use a survey form with a citizenship question for its 2030 census practice test",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "The citizenship question in census testing raises concerns about data integrity and potential civil rights impacts, but represents a policy decision within normal bureaucratic processes rather than an unprecedented institutional challenge.",
+      "categories": [
+        "election infrastructure",
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:50:19.630Z"
+    },
+    {
+      "id": "fb489d6f11b6",
+      "title": " New Jersey Democrats pick from crowded field in special election for Sherrill's US House seat",
+      "url": "https://abcnews.go.com/Politics/wireStory/new-jersey-democrats-pick-crowded-field-special-election-129872731",
+      "source": "ABC News",
+      "published": "2026-02-05T05:33:49.000Z",
+      "description": "New Jersey Democratic voters are picking their party’s candidate to fill a U.S. House seat opened up by Mikie Sherrill’s gubernatorial victory",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news about a special election primary process with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:17.622Z"
+    },
+    {
+      "id": "75d0a60c6681",
+      "title": " Chinese national who exposed rights abuses is freed from US detention after being granted asylum",
+      "url": "https://abcnews.go.com/Politics/wireStory/chinese-national-exposed-rights-abuses-freed-us-detention-129867068",
+      "source": "ABC News",
+      "published": "2026-02-05T00:53:49.000Z",
+      "description": "Guan Heng, a Chinese asylum seeker who exposed human rights abuses in his homeland, has been released after more than five months in federal detention",
+      "keywords": [
+        "detention",
+        "asylum"
+      ],
+      "significance": 3,
+      "reason": "This article reports a routine immigration/asylum case outcome with no direct implications for U.S. institutional checks and balances or democratic governance mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:50:18.995Z"
+    },
+    {
+      "id": "067b6366197b",
+      "title": " EPA administrator outlines Trump's plan to speed up rebuilding of homes destroyed by LA wildfires",
+      "url": "https://abcnews.go.com/Politics/wireStory/epa-administrator-outlines-trumps-plan-speed-rebuilding-homes-129866631",
+      "source": "ABC News",
+      "published": "2026-02-05T02:45:28.000Z",
+      "description": "Trump administration officials traveled to Los Angeles to outline the president’s plan to override state and local rules and speed up the permitting process for reconstruction of tens of thousands of homes destroyed by last year’s wildfires",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Federal override of state/local authority raises separation of powers concerns, but the policy aim is reconstruction assistance rather than systematic institutional erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:50:17.663Z"
+    },
+    {
+      "id": "f640c1d3e702",
+      "title": " Georgia Republican Barry Loudermilk won't seek reelection to US House",
+      "url": "https://abcnews.go.com/Politics/wireStory/georgia-republican-barry-loudermilk-seek-reelection-us-house-129866097",
+      "source": "ABC News",
+      "published": "2026-02-05T00:13:50.000Z",
+      "description": "Georgia Republican U.S. Rep. Barry Loudermilk says he won't seek reelection this year",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A routine announcement about a single representative's retirement decision with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:20.848Z"
+    },
+    {
+      "id": "7b025ccb96d7",
+      "title": " Legal fight escalates over Georgia voting records as Trump says he wants to ‘take over’ elections",
+      "url": "https://abcnews.go.com/Politics/wireStory/georgias-fulton-county-seeks-return-2020-election-documents-129849119",
+      "source": "ABC News",
+      "published": "2026-02-05T07:41:49.000Z",
+      "description": "Officials in Georgia’s Fulton County have asked a federal court to order the FBI to return ballots and other documents from the 2020 election that it seized last week, The move escalates a voting battle as President Donald Trump says he wants to “take ...",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "FBI",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Trump's stated intent to 'take over' elections combined with disputes over election records seizure and custody directly threatens election infrastructure, congressional oversight, and judicial independence through potential executive overreach.",
+      "categories": [
+        "election infrastructure",
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:50:21.701Z"
+    },
+    {
+      "id": "fa4db24680de",
+      "title": "Homeowners are holding onto their houses for a record-long stretch",
+      "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
+      "source": "Axios",
+      "published": "2026-02-09T10:40:05.000Z",
+      "description": "Data: ATTOM; Chart: Axios Visuals\nU.S. homeowners are staying in their houses for the longest time in at least 25 years, largely thanks to their low mortgage rates, data shows.\nWhy it matters: That — along with still-high home prices and tight inventory — is keeping the housing market on ice.\n\nThe big picture: Sellers at the end of 2025 had owned their homes for an average of 8.6 years — a record in data going back to early 2000, when the average was 4.2 years.\nWhat we're hearing: Homeowner tenu",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article addresses housing market dynamics and economic conditions with no relevance to democratic checks and balances, institutional independence, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:22.198Z"
+    },
+    {
+      "id": "3f74aec6f0b0",
+      "title": "People are using AI for legal advice and it's driving lawyers bananas",
+      "url": "https://www.axios.com/2026/02/09/ai-chatgpt-lawyer-legal-help",
+      "source": "Axios",
+      "published": "2026-02-09T10:00:07.000Z",
+      "description": "AI promises to make work more productive for lawyers, but there's a problem: Their clients are using it, too.\nWhy it matters: The rise of AI is creating new headaches for attorneys: They're worried about the fate of the billable hour, a reliable profit center for aeons, and are perturbed by clients getting bad legal advice from chatbots.\n\nZoom in: \"It's like the WebMD effect on steroids,\" says Dave Jochnowitz, a partner at the law firm Outten & Golden, referring to how medical websites can give ",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article addresses industry disruption and professional concerns about AI adoption in law practice, with no connection to democratic institutions, constitutional checks and balances, or government accountability.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:23.162Z"
+    },
+    {
+      "id": "0545e63df14f",
+      "title": "Crypto revolt exposes fragility of Trump's coalition",
+      "url": "https://www.axios.com/2026/02/09/crypto-bitcoin-trump-backlash",
+      "source": "Axios",
+      "published": "2026-02-09T10:00:06.000Z",
+      "description": "Trillions of dollars in value have been vaporized from global crypto markets since October, plunging an ascendant industry championed by President Trump into a new bout of turmoil.\nWhy it matters: Crypto joins a growing list of MAGA coalition partners — from Epstein-focused populists to farmers to Latino men — now questioning whether Trump's return to power has delivered what they were promised.\n\nZoom in: The hyper-online, male-dominated crypto space embraced Trump's vision for a crypto \"Golden ",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "crypto",
+        "meme coin"
+      ],
+      "significance": 2,
+      "reason": "This article discusses political coalition dynamics and economic market trends rather than institutional checks and balances, democratic safeguards, or erosion of constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:21.707Z"
+    },
+    {
+      "id": "884b5fec490e",
+      "title": "A day of highs and lows for Team USA",
+      "url": "https://www.axios.com/2026/02/09/milan-olympics-lindsey-vonn-ilia-malinin",
+      "source": "Axios",
+      "published": "2026-02-09T00:50:19.000Z",
+      "description": "A Sunday that began with Lindsey Vonn's screams of pain after crashing in the downhill ended with cheers of jubilation as Team USA edged out Japan for gold in team figure skating.\nThe big picture: It truly was the thrill of victory and the agony of defeat.\n\nDriving the news: Vonn, 41, was trying to continue her comeback despite a ruptured ACL but crashed shortly into her run and had to be airlifted to a hospital, where she was later diagnosed with a broken leg.\n\nWhile Vonn failed to finish, fell",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 1,
+      "reason": "This is sports news coverage with no relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:24.714Z"
+    },
+    {
+      "id": "6f261ccd4062",
+      "title": "Exclusive: Centrist Dems strike back with new group",
+      "url": "https://www.axios.com/2026/02/08/centrist-democrats-new-group-abundance",
+      "source": "Axios",
+      "published": "2026-02-08T22:10:05.000Z",
+      "description": "Ezra Klein's Abundance movement is getting some backup: A new political group is urging Democrats to embrace \"pro-growth,\" deregulatory policies with an eye toward 2028, according to plans first shared with Axios.\nWhy it matters: Known as Next American Era, the group is the latest effort by moderate Democrats to shape national politics and expand their influence at a time when progressives in the party are making an aggressive push for more power.\n\nFormer Illinois Rep. Cheri Bustos, ex-chair of ",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about internal party strategy and factional maneuvering with no direct impact on democratic institutions or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:24.047Z"
+    },
+    {
+      "id": "461a5130df62",
+      "title": "Buttigieg's baggage from DOT looms as 2028 issue",
+      "url": "https://www.axios.com/2026/02/08/buttigieg-weakness-dot-2028",
+      "source": "Axios",
+      "published": "2026-02-08T21:50:05.000Z",
+      "description": "Pete Buttigieg is widely admired as a first-class communicator. But many Democrats think he's lacking as an administrator — and are pointing to his time as President Biden's transportation secretary.\nWhy it matters: Several of Buttigieg's potential rivals for the 2028 Democratic nomination for president are quietly beginning to pick at his work in Biden's Cabinet as a vulnerability, rather than an asset.\n\nThey argue that Buttigieg was at times unable to navigate the federal bureaucracy to get hu",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about a potential candidate's administrative record and intra-party positioning, with no direct implications for democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:24.228Z"
+    },
+    {
+      "id": "505e41ec0594",
+      "title": "Trump backs the SAVE America Act: Here's what's actually in it",
+      "url": "https://www.axios.com/2026/02/08/save-america-act-trump-nationalize-elections",
+      "source": "Axios",
+      "published": "2026-02-08T20:57:20.000Z",
+      "description": "With high-stakes midterms approaching, President Trump has called for Republicans to \"nationalize\" elections, end mail-in ballots and pass the SAVE America Act.\n\nBut that legislation doesn't provide all of Trump's desired changes.\n\nWhy it matters: Voting rights groups warn the legislation, which requires proof of citizenship to vote, could erect barriers despite noncitizen voting being illegal and rare. \n\nCatch up quick: White House press secretary Karoline Leavitt told reporters Trump was refer",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "voter",
+        "midterm",
+        "attorney general",
+        "bondi",
+        "FBI",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "white house",
+        "mail-in voting",
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "Proposed legislation directly affecting election infrastructure and voting access represents significant institutional action with potential democratic implications, though implementation status remains unclear.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:50:26.318Z"
+    },
+    {
+      "id": "2a1e295f3d8b",
+      "title": "Trump lashes out at Team USA skier who said representing the U.S. brings \"mixed emotions\"",
+      "url": "https://www.axios.com/2026/02/08/trump-olympic-skier-team-usa-real-loser",
+      "source": "Axios",
+      "published": "2026-02-08T17:34:01.000Z",
+      "description": "President Trump called Olympic skier Hunter Hess \"a real loser\" Sunday after Hess described the \"mixed emotions\" of representing the U.S. at the 2026 Games.\nWhy it matters: While the Olympics traditionally unite Americans behind their athletes, the Milano Cortina Games have become the latest flashpoint, with the president once again targeting elite athletes representing the U.S. who have used their platform to criticize him.\n\nBut that hasn't kept Team USA athletes from condemning the administrat",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about a public figure's social media criticism of an athlete, with no direct impact on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:24.044Z"
+    },
+    {
+      "id": "c62851cca08f",
+      "title": "The death of sportswriting",
+      "url": "https://www.axios.com/2026/02/08/washington-post-sports-section-media",
+      "source": "Axios",
+      "published": "2026-02-08T13:30:05.000Z",
+      "description": "With the closure of the Washington Post sports section, sports journalism lost one of its last crown jewels, and one of media's most prestigious professions was handed a crushing blow.\nWhy it matters: The marquee platforms of sportswriting have been gutted and shuttered over the last decade — victims of cold, hard media business realities and the evolving demands of the modern sports fan.\n\nThe big picture: There have never been more ways for sports fans to watch and learn about their favorite te",
+      "keywords": [
+        "ICE",
+        "journalist"
+      ],
+      "significance": 1,
+      "reason": "While media industry changes have tangential implications for press freedom, this article addresses commercial journalism trends in sports rather than democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:28.366Z"
+    },
+    {
+      "id": "77b9bd7ad2e4",
+      "title": "America's 250th anniversary collides with a renewed fight over Black history",
+      "url": "https://www.axios.com/2026/02/07/black-history-250-who-decides",
+      "source": "Axios",
+      "published": "2026-02-07T21:00:05.000Z",
+      "description": "America's 250th anniversary is colliding with a renewed battle over Black history, just as the White House moves to both smooth over and narrow how race and equity are discussed nationwide with rollbacks of diversity initiatives.\nWhy it matters: Black History Month — in its 100th year since Carter G. Woodson's 1926 Negro History Week — arrives amid an administration actively shrinking institutions that preserve and teach that history.\n\nThe Trump administration has said that diversity initiatives",
+      "keywords": [
+        "voting",
+        "ICE",
+        "white house",
+        "trump",
+        "democracy",
+        "authoritarian"
+      ],
+      "significance": 4,
+      "reason": "This article addresses potential concerns about federal program administration and civil service independence regarding diversity initiatives, but represents ongoing policy debate rather than an institutional breach or unprecedented action.",
+      "categories": [
+        "federal programs & agencies",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-09T17:50:27.340Z"
+    },
+    {
+      "id": "7d11cc058f2c",
+      "title": "Netanyahu to hold urgent meeting with Trump Wednesday amid Iran negotiations",
+      "url": "https://www.axios.com/2026/02/07/netanyahu-trump-iran-negotiations",
+      "source": "Axios",
+      "published": "2026-02-07T19:00:39.000Z",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has moved up his visit to Washington and is expected to meet with President Trump on Wednesday to  discuss the negotiations with Iran, the prime minister's office said in a statement.\nWhy it matters: The announcement of the urgent visit comes a day after Trump's envoys Steve Witkoff and Jared Kushner held negotiations in Oman with Iran's foreign minister over a potential nuclear deal.\n\nTrump said the U.S. and Iran had \"very good talks\" in Oman on Friday ",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy coverage of diplomatic meetings with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:27.272Z"
+    },
+    {
+      "id": "264628334183",
+      "title": "Zelensky says Trump wants Russia-Ukraine peace deal by June, before midterms focus",
+      "url": "https://www.axios.com/2026/02/07/zelensky-trump-russia-ukraine-peace-deal",
+      "source": "Axios",
+      "published": "2026-02-07T15:50:06.000Z",
+      "description": "The U.S. wants Russia and Ukraine to sign a peace deal that ends the war by June, before President Trump pivots to focusing his energy on the midterm elections, Ukrainian President Volodymyr Zelensky told reporters.\nWhy it matters: The U.S. timeline Zelensky laid out is pretty ambitious, both because there are still significant gaps between Russia and Ukraine and because Ukraine will have to hold a referendum on the peace deal before it is signed — a process that can take several months.\n\n\"We ha",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine foreign policy reporting about diplomatic timelines with no direct implications for U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:27.690Z"
+    },
+    {
+      "id": "b4a4602c0027",
+      "title": "More people are treating themselves to a solo meal",
+      "url": "https://www.axios.com/2026/02/07/solo-dining-self-care-fast-food",
+      "source": "Axios",
+      "published": "2026-02-07T10:45:03.000Z",
+      "description": "Solo dining orders have soared since 2021, according to a report by one of the world's largest restaurant companies.\nWhy it matters: Eating alone doesn't necessarily mean you're lonely. In many cases, it's about self-care.\n\nThe big picture: More people are skipping group meals to treat themselves instead, per Yum Brands, the parent company of Taco Bell, KFC, Pizza Hut and Habit Burger & Grill.\nBy the numbers: Nearly 70% of solo diners decline to use discounts, despite higher food prices and rece",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article about solo dining trends has no relevance to any democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:27.189Z"
+    },
+    {
+      "id": "40919ab381b0",
+      "title": "AI wiped out $400 billion this week — and it's only getting started",
+      "url": "https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market",
+      "source": "Axios",
+      "published": "2026-02-07T10:00:04.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nAI is here — and this week, investors lost over $400 billion to the realization that entire industries are on the cusp of being replaced. \nWhy it matters: The software-industry selloff, sparked by Anthropic's latest release, is ultimately just a baby step in a bigger transformation that may reshape how we all live and work.\n\nIt's also the first tangible verdict on what happens when AI starts eating entire categories of work, well before the lon",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article is business/market news about AI investment volatility with no connection to democratic institutions, governmental checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:29.630Z"
+    },
+    {
+      "id": "2a1330d43a49",
+      "title": "Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction",
+      "url": "https://www.axios.com/2026/02/07/gaza-board-peace-meeting-trump-dc",
+      "source": "Axios",
+      "published": "2026-02-07T02:48:19.000Z",
+      "description": "The White House is planning a leaders meeting for the Gaza \"Board of Peace\" on Feb. 19, according to a U.S. official and diplomats from four countries who are on the board. \nWhy it matters: The White House wants to use the meeting to push forward the implementation of the second phase if the Gaza ceasefire deal and raise money for reconstruction. \n\n\"It will be the first Board of Peace meeting and a fundraising conference for Gaza reconstruction,\" a U.S. official said.\nThe plans for the summit me",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic news about a scheduled meeting for Gaza reconstruction that does not implicate any institutional checks and balances within the U.S. government.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:29.347Z"
+    },
+    {
+      "id": "b6232a96614e",
+      "title": "Trump says \"I didn't make a mistake\" after racist video of Obamas removed",
+      "url": "https://www.axios.com/2026/02/06/trump-racist-video-barack-michelle-obama-truth-social",
+      "source": "Axios",
+      "published": "2026-02-07T01:45:19.000Z",
+      "description": "When asked if he would apologize for an overtly racist video clip of the Obamas posted on President Trump's Truth Social, the president said Friday, \"No, I didn't make a mistake.\"\nWhy it matters: The clip, which portrayed former President Obama and former first lady Michelle Obama as apes and was taken down on Friday, used a centuries-old trope against the first Black president and first lady in U.S. history during the first week of Black History Month.\n\nZoom in: Trump said he looks at \"thousand",
+      "keywords": [
+        "election",
+        "ICE",
+        "white house",
+        "johnson",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the incident reflects poor judgment and offensive rhetoric during a sensitive period, it primarily concerns presidential conduct and press freedom rather than direct institutional erosion of democratic checks and balances.",
+      "categories": [
+        "press freedom",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:50:29.821Z"
+    },
+    {
+      "id": "d4a0a82ca242",
+      "title": "Trump says U.S. and Iran had \"very good talks\"",
+      "url": "https://www.axios.com/2026/02/07/trump-iran-us-good-talks",
+      "source": "Axios",
+      "published": "2026-02-07T01:13:26.000Z",
+      "description": "President Trump said on Friday that the U.S. and Iran had \"very good talks\" in Oman on Friday and claimed the Iranian position is more favorable regarding a nuclear deal than it was before the 12-day war last June. \nWhy it matters: The talks were the first face-to-face negotiations between the U.S. and Iran since the 12-day war last June. They took place amid a massive U.S. military buildup in the Gulf, and with Trump warning he could pivot to military action if a deal can't be reached quickly.\n",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic news reporting on international negotiations with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:29.821Z"
+    },
+    {
+      "id": "401eba9613c2",
+      "title": "The left smells blood after shocking Democratic primary result",
+      "url": "https://www.axios.com/2026/02/06/new-jersey-mejia-election-primary-democrats-left",
+      "source": "Axios",
+      "published": "2026-02-06T23:15:28.000Z",
+      "description": "Progressives are feeling newly emboldened by the stronger-than-expected showing of the left-wing outsider in a New Jersey congressional primary on Thursday.\nWhy it matters: There are dozens of House races like this across the country where at least one left-wing insurgent is vying either to win an open seat or topple an establishment House Democratic incumbent.\n\n\"This is a clear sign that the Democratic electorate is desperate to elect new leaders — like the dozen of working class champions we'r",
+      "keywords": [
+        "election",
+        "voter",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on routine primary election dynamics and intra-party political positioning with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:29.311Z"
+    },
+    {
+      "id": "b0e335dd3919",
+      "title": "Members of Congress will have access to unredacted Epstein files",
+      "url": "https://www.axios.com/2026/02/06/epstein-files-congress-unredacted-doj-raskin",
+      "source": "Axios",
+      "published": "2026-02-06T23:14:13.000Z",
+      "description": "The Justice Department will let members of Congress view unredacted copies of the more than 3 million documents related to Jeffrey Epstein that have been publicly released, according to a letter obtained by Axios. \nWhy it matters: Democrats have argued that the DOJ is skirting its statutory requirements under the Epstein Transparency Act by withholding millions of documents and heavily redacting some of the files they did release.\n\nHouse Judiciary Committee ranking member Jamie Raskin (D-Md.) se",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional access to unredacted documents represents a notable assertion of legislative oversight authority, but the DOJ's discretionary compliance rather than a forced institutional change limits its significance.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-09T17:50:36.525Z"
+    },
+    {
+      "id": "1b7140d2710f",
+      "title": "Operation Metro Surge is eroding global trust in the US",
+      "url": "https://thehill.com/opinion/white-house/5728835-us-global-leader-domestic-crisis/",
+      "source": "The Hill",
+      "published": "2026-02-09T17:30:00.000Z",
+      "description": "The United States is struggling to maintain order within its own borders, as evidenced by the recent partial shutdown of the federal government and the tragic deaths of two American citizens at the hands of federal officers, while simultaneously presenting itself as a global titan and \"merchant of stability\" through arms sales to Israel and Saudi Arabia.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 4,
+      "reason": "While the article touches on federal government dysfunction and law enforcement accountability, it primarily offers opinion/commentary on foreign policy optics rather than documenting specific institutional erosion of democratic checks and balances.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:50:31.725Z"
+    },
+    {
+      "id": "7c42fa95e362",
+      "title": "Live updates: DHS funding battle; Bad Bunny Super Bowl fallout; Maxwell stays mum in Epstein probe",
+      "url": "https://thehill.com/homenews/administration/5728527-live-updates-trump-dhs-funding-maxwell-epstein-probe/",
+      "source": "The Hill",
+      "published": "2026-02-09T17:09:25.000Z",
+      "description": "The Department of Homeland Security (DHS) is back in the spotlight Monday, with Congress staring down another funding lapse deadline as bipartisan talks fizzle. With funding drying up at the end of the week, lawmakers are gearing up for a tough fight as Democrats dig in on 10 “guardrails” they want Congress to enact, and…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A funding deadline negotiation represents routine legislative activity with standard partisan disagreement, though the guardrails issue warrants monitoring for potential checks-and-balances implications.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:50:33.715Z"
+    },
+    {
+      "id": "807368c050ba",
+      "title": "March for Life attendees may have been exposed to measles, DC health officials say",
+      "url": "https://thehill.com/policy/healthcare/5729715-dc-health-alert-measles-exposure/",
+      "source": "The Hill",
+      "published": "2026-02-09T17:01:48.000Z",
+      "description": "Health officials in Washington, D.C., said Sunday that attendees of last month’s March for Life rally may have been exposed to measles, amid a nationwide outbreak of the disease.  D.C. Health said in a notice it was “notified of multiple confirmed cases of measles whose carriers visited multiple locations in the District while contagious” and…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a public health notification about disease exposure at a public event with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:50:30.895Z"
+    },
+    {
+      "id": "8644b1ce9e8c",
+      "title": "US military intercepts vessel ‘hunted’ from Caribbean to Indian Ocean",
+      "url": "https://thehill.com/policy/defense/5729697-us-military-intercepts-vessel-venezuela-sanctions/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:45:58.000Z",
+      "description": "The U.S. military intercepted an oil tanker it said was operating in defiance of President Trump’s quarantine of sanctioned vessels in the Indian Ocean overnight Monday after it tracked the vessel from the Caribbean.  The Pentagon did not clarify if U.S. forces seized the ship, the Aquilla II, as U.S. personnel have done with at…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine military/foreign policy news involving vessel interception and sanctions enforcement, with no direct bearing on domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:02.960Z"
+    },
+    {
+      "id": "46b70ad026d1",
+      "title": "Hegseth records message for Turning Point USA halftime show",
+      "url": "https://thehill.com/policy/defense/5729707-bad-bunny-super-bowl-halftime/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:33:54.000Z",
+      "description": "Defense Secretary Pete Hegseth on Sunday praised Turning Point USA for an alternative Super Bowl halftime show meant to compete with the official performance by Bad Bunny. “From the War Department, we salute Turning Point USA and every American who still believes freedom is worth defending,” Hegseth said in the clip on the YouTube livestream…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A Cabinet secretary recording a message for a political organization's event is routine political activity with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:04.049Z"
+    },
+    {
+      "id": "798a8113d858",
+      "title": "Apprenticeships can help save the Democratic Party",
+      "url": "https://thehill.com/opinion/campaign/5726676-democrats-working-class-voters/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:30:00.000Z",
+      "description": "Democrats need to deliver results that improve the lot of working-class voters.",
+      "keywords": [
+        "voter",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is opinion/commentary about Democratic Party strategy and apprenticeship policy with no direct connection to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:03.826Z"
+    },
+    {
+      "id": "3d8461157160",
+      "title": "Bannon warns of ‘massive lack of enthusiasm’ among Trump MAGA base",
+      "url": "https://thehill.com/homenews/campaign/5729639-gop-fractures-trump-behavior/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:17:14.000Z",
+      "description": "Former White House strategist Steve Bannon on Saturday signaled a growing concern about what he described as the lack of enthusiasm among President Trump’s MAGA base over the White House’s direction. “You have a massive lack of enthusiasm among the base. Because they’re sitting there going ‘I’m just not feelin’ it right now,’” Bannon said…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on political sentiment and internal campaign dynamics with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:03.994Z"
+    },
+    {
+      "id": "4cec0534c21f",
+      "title": "Star snowboarder Chloe Kim defends fellow Olympian Hunter Hess from Trump attack",
+      "url": "https://thehill.com/blogs/in-the-know/5729611-chloe-kim-supports-hunter-hess-trump-criticism/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:13:46.000Z",
+      "description": "Chloe Kim, the two-time Olympic snowboarding gold medalist, voiced support Monday for Hunter Hess, a fellow Team USA athlete who has drawn criticism from President Trump over comments expressing mixed feelings about representing the United States in Milan-Cortina. “My parents being immigrants, this one definitely hits pretty close to home,” Kim said when asked during…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a celebrity social media response to political criticism with no bearing on institutional checks and balances, democratic governance, or the tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:03.814Z"
+    },
+    {
+      "id": "df45c408429e",
+      "title": "Crockett, Paxton lead their Texas Senate primaries: Poll",
+      "url": "https://thehill.com/homenews/campaign/5729642-paxton-cornyn-hypothetical-runoff/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:05:36.000Z",
+      "description": "Texas Attorney General Ken Paxton (R) and Rep. Jasmine Crockett (D-Texas) lead their respective parties’ U.S. Senate primary races in Texas, according to a new survey released just over a week before early voting begins. Paxton leads incumbent Sen. John Cornyn (R-Texas), 38 percent to 31 percent, among likely GOP primary voters, in the latest…",
+      "keywords": [
+        "voting",
+        "voter",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral polling coverage with no direct implications for democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:03.814Z"
+    },
+    {
+      "id": "2574791f6500",
+      "title": "ICE’s actions are an affront to our Constitution and the founders’ God",
+      "url": "https://thehill.com/opinion/immigration/5726439-judge-biery-defends-immigrant-rights/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:00:00.000Z",
+      "description": "In the world the Declaration of Independence envisions, no human being should ever be treated as worthless. That is why the Trump administration’s policies are so dangerous and destructive.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary expressing moral objections to immigration enforcement policies rather than reporting on institutional actions, policy changes, or democratic mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:51:07.145Z"
+    },
+    {
+      "id": "35d0ac90f150",
+      "title": "Markey to introduce resolution denouncing Trump’s call to ‘nationalize’ elections",
+      "url": "https://thehill.com/homenews/senate/5729617-markey-resolution-trump-election-takeover/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:47:42.000Z",
+      "description": "Sen. Edward Markey (D-Mass.) on Monday plans to introduce a resolution denouncing statements by President Trump calling on Republicans to “nationalize” or “take over” voting procedures in more than a dozen key states ahead of the 2026 midterm elections. “The Constitution gives states the primary authority over the times, places, and manner of federal elections to the States. It does not assign to the…",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Trump's calls to nationalize elections represent a notable challenge to federalism and election infrastructure, but the item itself is a legislative response rather than institutional action, making it significant but not yet demonstrating actual erosion of checks.",
+      "categories": [
+        "election_infrastructure",
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:05.325Z"
+    },
+    {
+      "id": "36a39e48aa85",
+      "title": "Trump attacks the media to hide the truth",
+      "url": "https://thehill.com/opinion/white-house/5726594-trump-attacks-media-democracy/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:30:00.000Z",
+      "description": "Trump’s legendary hostility to any media that is not fawning or submissive is a danger to our freedom.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary characterizing Trump's media criticism as dangerous, lacking specific institutional actions, policy changes, or concrete examples that would demonstrate measurable impact on democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:51:05.261Z"
+    },
+    {
+      "id": "0b31861a71bc",
+      "title": "Search for Nancy Guthrie enters second week",
+      "url": "https://thehill.com/homenews/state-watch/5729581-search-for-nancy-guthrie/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:19:09.000Z",
+      "description": "The search for Nancy Guthrie has entered its second week as investigators have yet to identify suspects tied to the disappearance of the 84-year-old. The FBI and the Pima County Sheriff’s Department are co-leading the probe into Guthrie’s abrupt absence. She was last seen at her home near Tucson, Ariz., on the evening of Jan.…",
+      "keywords": [
+        "FBI",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine missing persons case with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:04.799Z"
+    },
+    {
+      "id": "4673cd3b2ade",
+      "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
+      "url": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T15:16:07.000Z",
+      "description": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a foreign policy action with indirect economic consequences but does not directly implicate U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:04.989Z"
+    },
+    {
+      "id": "ad02504c95b7",
+      "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
+      "url": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T03:41:49.000Z",
+      "description": "Lai, who had pleaded not guilty to all charges, was among the first prominent figures arrested under Beijing's security law in August 2020.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Hong Kong's judicial system under Beijing authority and has no direct bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:08.892Z"
+    },
+    {
+      "id": "221132efe3cf",
+      "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
+      "url": "https://www.cnbc.com/2026/02/08/georgia-trump-election-case-judge-federal-unsealed.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T13:57:15.000Z",
+      "description": "The FBI last month raided an election facility central to President Donald Trump's debunked claims of fraud in the 2020 election.",
+      "keywords": [
+        "election",
+        "FBI",
+        "raid",
+        "fulton county",
+        "georgia election",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "The unsealing of election case documents impacts judicial transparency and election integrity oversight, but the routine nature of court-ordered document disclosure and lack of unprecedented institutional action place it in the notable but not urgent range.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:08.326Z"
+    },
+    {
+      "id": "23499157fb1f",
+      "title": "Epstein files: Congress members call for Trump Commerce chief Lutnick to resign, or be fired",
+      "url": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T17:18:03.000Z",
+      "description": "Commerce Secretary Howard Lutnick previously said on a podcast he had cut ties with the notorious sex offender since an initial 2005 encounter.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional pressure on an executive appointee raises accountability questions, but lacks evidence of systemic institutional erosion or unprecedented democratic threat.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-09T17:51:08.209Z"
+    },
+    {
+      "id": "13168c26a091",
+      "title": "Japanese Prime Minister Takaichi's ruling LDP set to secure supermajority in Lower House: NHK",
+      "url": "https://www.cnbc.com/2026/02/08/japans-ruling-ldp-seen-winning-outright-majority-in-snap-poll-nhk.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-09T00:14:14.000Z",
+      "description": "PM Takaichi's Liberal Democratic Party is likely to win between 274-328 seats in the Lower House, higher than the 233 seats needed for a majority, NHK says.",
+      "keywords": [
+        "ruling"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Japanese domestic politics and has no relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:07.864Z"
+    },
+    {
+      "id": "028de14861f4",
+      "title": "SAVE Act voter ID bill is on the minds of Trump and Congress: What to know",
+      "url": "https://www.cnbc.com/2026/02/06/save-act-trump-congress-elections-voting.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-06T21:11:44.000Z",
+      "description": "A bill that would make it harder to vote in federal elections is a Republican focus this week, with President Donald Trump calling for enacting the SAVE Act.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Proposed federal voter ID legislation directly impacts election infrastructure and voting access, representing a significant policy change with substantial implications for democratic participation.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:08.324Z"
+    },
+    {
+      "id": "d54c0b5f2da2",
+      "title": "Trump condemns racist video showing Obamas as apes after removing it, but says he won't apologize",
+      "url": "https://www.cnbc.com/2026/02/06/trump-obama-post-white-house.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-07T02:11:18.000Z",
+      "description": "The depiction of the Obamas, posted from Trump's Truth Social account, was included in a video pushing a conspiracy theory about 2020 election voting machines.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the racist content and election conspiracy promotion are morally reprehensible, this is primarily a commentary on personal conduct and speech rather than an institutional action that directly erodes democratic checks and balances mechanisms.",
+      "categories": [
+        "press freedom",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-09T17:51:10.829Z"
+    },
+    {
+      "id": "4c970227563d",
+      "title": "Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide",
+      "url": "https://www.cnbc.com/2026/02/06/japan-election-takaichi-ldp-landslide-polls-ldp-trump-innovation-party-nikkei.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-06T06:30:46.000Z",
+      "description": "The poll showed that the LDP-led coalition was likely to secure more than 300 of the 465 seats in the Lower House.",
+      "keywords": [
+        "election",
+        "SNAP"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Japanese electoral politics and has no relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:09.573Z"
+    },
+    {
+      "id": "25cdadb4980b",
+      "title": "Sen. Slotkin refuses DOJ interview request over troops video: 'The intimidation is the point'",
+      "url": "https://www.cnbc.com/2026/02/05/slotkin-military-video-bondi-pirro-trump-kelly.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T22:37:50.000Z",
+      "description": "Slotkin's lawyer urged U.S. Attorney Jeanine Pirro to retain her records in case the senator files a lawsuit over the probe.",
+      "keywords": [
+        "DOJ"
+      ],
+      "significance": 7,
+      "reason": "Represents a significant institutional challenge involving DOJ independence and potential political retribution, as a sitting senator publicly refuses DOJ questioning and signals litigation over investigative tactics.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:10.116Z"
+    },
+    {
+      "id": "23e5f832e9de",
+      "title": "Trump would decide whether to investigate Fed pick Warsh over refusal to cut rates: Bessent",
+      "url": "https://www.cnbc.com/2026/02/05/bessent-trump-investigation-warsh-warren-fed.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T19:32:40.000Z",
+      "description": "Treasury Secretary Scott Bessent left the door open to suing Kevin Warsh as Fed chair in testimony to the Senate Banking, Housing and Urban Affairs Committee.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "A Treasury Secretary suggesting the President could investigate or sue a Federal Reserve chair for policy disagreements directly threatens Fed independence, a core democratic check on executive power.",
+      "categories": [
+        "DOJ independence",
+        "Federal Reserve independence",
+        "political retribution",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:51:10.025Z"
+    },
+    {
+      "id": "5eed1b1b7d1a",
+      "title": "Warren to call for reversal of Trump's UAE chip sales after 'Spy Sheikh' revelations",
+      "url": "https://www.cnbc.com/2026/02/05/warren-trump-chip-sales-spy-sheikh.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T18:58:45.000Z",
+      "description": "President Donald Trump made a deal in May to send 500,000 of the most advanced U.S. AI chips to the United Arab Emirates.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A congressional challenge to an executive arms/trade decision raises oversight concerns, but the issue centers on foreign policy judgment and business dealings rather than direct institutional checks erosion.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:51:12.969Z"
+    },
+    {
+      "id": "d587902d3e69",
+      "title": "Paul Weiss Chairman Brad Karp resigns after Jeffrey Epstein email disclosures",
+      "url": "https://www.cnbc.com/2026/02/05/paul-weiss-brad-karp-resigns-jeffrey-epstein.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T13:07:38.000Z",
+      "description": "The Department of Justice last week released millions of documents related to the notorious sex offender Jeffrey Epstein.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is primarily a personnel/corporate governance story about a law firm chairman's resignation following document disclosures, with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:14.480Z"
+    },
+    {
+      "id": "025e3e57a5be",
+      "title": "Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD",
+      "url": "https://www.cnbc.com/2026/02/04/trump-wbd-netflix-paramount-skydance.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-05T15:33:07.000Z",
+      "description": "Trump in December said he would be involved in the review of whether Netflix should be allowed to buy parts of Warner Bros. Discover, as WBD leadership wants.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While Trump's statement about media consolidation touches on potential conflicts of interest, the voluntary commitment to stay out of the review process indicates restraint rather than institutional erosion.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-09T17:51:14.520Z"
+    },
+    {
+      "id": "bfbe508d00e9",
+      "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
+      "url": "https://www.cnbc.com/2026/02/04/scott-trump-powell-fed-warsh-tillis-doj.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T19:12:47.000Z",
+      "description": "President Donald Trump recently said the investigation into Jerome Powell, led by U.S. Attorney for Washington Jeanine Pirro, should continue to the end.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "A senator's opinion on whether an investigation should proceed lacks institutional significance and does not represent concrete action affecting democratic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:18.969Z"
+    },
+    {
+      "id": "e092330f79d5",
+      "title": "Democrats lay out demands in prickly DHS funding fight as Republicans balk",
+      "url": "https://www.cnbc.com/2026/02/04/democrats-demands-dhs-funding-fight.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T21:33:42.000Z",
+      "description": "Funding for the Department of Homeland Security still needs to be worked out after President Trump signed a law that reopened most of the federal government.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine budget negotiation reporting between parties over DHS funding with no indication of institutional breakdown or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:13.999Z"
+    },
+    {
+      "id": "0edf924391e3",
+      "title": "Democrats grill Bessent at House oversight hearing: 'Stop covering for the president'",
+      "url": "https://www.cnbc.com/2026/02/04/treasury-bessent-congress-hearing-economy.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T20:28:40.000Z",
+      "description": "Treasury Secretary Scott Bessent took flack from Democrats while testifying before the House Financial Services Committee on Wednesday.",
+      "keywords": [
+        "ICE",
+        "oversight hearing"
+      ],
+      "significance": 4,
+      "reason": "Routine partisan questioning of a cabinet official represents normal congressional oversight function without evidence of systematic institutional breakdown.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:13.911Z"
+    },
+    {
+      "id": "7d4c4566e61b",
+      "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
+      "url": "https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-04T19:49:47.000Z",
+      "description": "The Trump administration will draw down about 25% of its law enforcement officers from Minnesota on Wednesday, border czar Tom Homan said.",
+      "keywords": [
+        "ICE",
+        "homan",
+        "border czar",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A routine personnel deployment decision affecting federal law enforcement presence in one state, with limited direct impact on core democratic checks and balances mechanisms.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-09T17:51:20.765Z"
+    },
+    {
+      "id": "7f61607fa3fa",
+      "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
+      "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
+      "source": "Rolling Stone",
+      "published": "2026-02-09T15:05:00.000Z",
+      "description": "Trump and his MAGA allies were predictably upset that a Spanish-speaking critic of the administration was given the stage",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment/culture commentary about social media reactions to a performer, with no direct connection to institutional checks and balances or democratic governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:20.727Z"
+    },
+    {
+      "id": "de036da324dd",
+      "title": "Trump Got Bad Bunny’s Message — And He Didn’t Like It",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-bad-bunny-super-bowl-halftime-show-1235513077/",
+      "source": "Rolling Stone",
+      "published": "2026-02-09T02:54:26.000Z",
+      "description": "The anti-immigrant president called the Puerto Rican musician’s Super Bowl performance “an affront to the Greatness of America”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on a political figure's reaction to a cultural performance, lacking institutional significance to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T17:51:20.103Z"
+    },
+    {
+      "id": "37e5dc2faf8c",
+      "title": "Dems Channel Kramer in Softening ICE Demands",
+      "url": "https://www.rollingstone.com/politics/political-commentary/democrats-channel-kramer-soften-ice-demands-1235512377/",
+      "source": "Rolling Stone",
+      "published": "2026-02-06T19:10:12.000Z",
+      "description": "Party leaders have released a new list of demands to rein in Trump's deadly immigration enforcement agenda",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Democratic legislative demands regarding immigration enforcement represent notable political positioning but lack the institutional force of actual policy implementation or court action.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-09T17:51:20.131Z"
+    },
+    {
+      "id": "4d837de79287",
+      "title": "Trump Posts Wildly Racist Video of the Obamas",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-racist-video-barack-michelle-obama-apes-1235512093/",
+      "source": "Rolling Stone",
+      "published": "2026-02-06T14:09:59.000Z",
+      "description": "The president shared a video that included a clip depicting Barack and Michelle Obama as apes. The post has since been removed",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the offensive content is deplorable and reflects concerning speech norms, the incident primarily represents a social media post rather than a direct institutional action that undermines democratic checks and balances, though it relates to press freedom and political discourse standards.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-09T17:51:20.122Z"
+    },
+    {
+      "id": "3704d7c4a863",
+      "title": "‘Melania’ Attains Biggest Critic-Audience Disparity in Rotten Tomatoes History",
+      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-doc-reviews-rotten-tomatoes-1235511549/",
+      "source": "Rolling Stone",
+      "published": "2026-02-05T20:00:00.000Z",
+      "description": "IMDb, meanwhile, has flagged the film for “unusual” voting activity",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 1,
+      "reason": "This article about a film's critical reception has no relevance to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:23.997Z"
+    },
+    {
+      "id": "d443274ae9ce",
+      "title": "Melania Trump Uses Event With Freed Hostages to Promote Her Documentary",
+      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-promotes-doc-freed-hostages-1235511163/",
+      "source": "Rolling Stone",
+      "published": "2026-02-04T21:57:31.000Z",
+      "description": "The first lady plugged $75 million vanity project at the White House on Wednesday",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a critique of poor optics and taste regarding personal promotion at a hostage event, but does not involve institutional erosion or democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-09T17:51:22.901Z"
+    },
+    {
+      "id": "71b533f37185",
+      "title": "How a Labor Leader Took Down a Culture Warrior in Ruby Red Texas",
+      "url": "https://www.rollingstone.com/politics/politics-features/taylor-rehmet-texas-state-senate-trump-district-1235510776/",
+      "source": "Rolling Stone",
+      "published": "2026-02-04T15:00:00.000Z",
+      "description": "“People who are frustrated and angry? They always vote,” Democrat Taylor Rehmet says of his upset win in a district that supported Trump by double digits",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a local election profile piece focused on a Democratic candidate's upset victory strategy rather than an analysis of institutional checks and balances or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:21.871Z"
+    },
+    {
+      "id": "c71bc9378de8",
+      "title": "Patti LuPone Slams Trump’s Plans to Renovate the Kennedy Center: It’s Time to ‘Rise Up’",
+      "url": "https://www.rollingstone.com/politics/politics-news/patti-lupone-slams-trump-kennedy-center-plans-1235510398/",
+      "source": "Rolling Stone",
+      "published": "2026-02-03T20:45:31.000Z",
+      "description": "The acclaimed singer and actress addressed Trump’s involvement during an impassioned speech at Carnegie Hall",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment commentary on a celebrity's opinion about a building renovation project, with no direct connection to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T17:51:22.785Z"
+    }
+  ],
+  "lastDigest": null,
+  "lastFetch": "2026-02-09T17:51:23.997Z"
+}
