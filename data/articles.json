@@ -3148,8 +3148,64 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-09T16:00:05.877Z"
+    },
+    {
+      "id": "85414bb26001",
+      "title": "4 takeaways from the Epstein files about the FBI investigation of possible sex trafficking",
+      "url": "https://www.pbs.org/newshour/nation/ap-review-on-what-the-epstein-files-show-about-the-fbi-investigation-of-possible-sex-trafficking",
+      "source": "PBS NewsHour",
+      "published": "2026-02-08T17:16:33.000Z",
+      "description": "An Associated Press review of internal Justice Department records shows that the FBI found proof Jeffrey Epstein sexually abused underage girls but little evidence of a sex trafficking ring.",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a retrospective analysis of a past FBI investigation into a criminal matter, containing no information about current threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-09T16:07:03.202Z"
+    },
+    {
+      "id": "2574791f6500",
+      "title": "ICE’s actions are an affront to our Constitution and the founders’ God",
+      "url": "https://thehill.com/opinion/immigration/5726439-judge-biery-defends-immigrant-rights/",
+      "source": "The Hill",
+      "published": "2026-02-09T16:00:00.000Z",
+      "description": "In the world the Declaration of Independence envisions, no human being should ever be treated as worthless. That is why the Trump administration’s policies are so dangerous and destructive.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary expressing moral criticism of immigration policies rather than reporting on institutional actions, policy changes, or democratic mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-09T16:07:03.186Z"
+    },
+    {
+      "id": "35d0ac90f150",
+      "title": "Markey to introduce resolution denouncing Trump’s call to ‘nationalize’ elections",
+      "url": "https://thehill.com/homenews/senate/5729617-markey-resolution-trump-election-takeover/",
+      "source": "The Hill",
+      "published": "2026-02-09T15:47:42.000Z",
+      "description": "Sen. Edward Markey (D-Mass.) on Monday plans to introduce a resolution denouncing statements by President Trump calling on Republicans to “nationalize” or “take over” voting procedures in more than a dozen key states ahead of the 2026 midterm elections. “The Constitution gives states the primary authority over the times, places, and manner of federal elections to the States. It does not assign to the…",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Trump's call to nationalize elections represents a notable challenge to constitutional federalism and election infrastructure, but the response is legislative pushback rather than institutional action or implementation.",
+      "categories": [
+        "election_infrastructure",
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-09T16:07:03.094Z"
     }
   ],
   "lastDigest": null,
-  "lastFetch": "2026-02-09T16:00:05.877Z"
+  "lastFetch": "2026-02-09T16:07:03.995Z"
 }
