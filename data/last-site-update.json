@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-02-09T18:14:05.262Z",
+  "articleCount": 7,
+  "updates": {
+    "statusChanges": [],
+    "newIncidents": [
+      {
+        "date": "Feb 05, 2026",
+        "severity": "crit",
+        "title": "Trump states intent to 'take over' elections amid Georgia records seizure dispute",
+        "description": "President Trump publicly declared he wants to 'take over' elections as legal battles escalate over FBI seizure of Georgia voting records. The statement represents an unprecedented direct threat to election infrastructure independence. <a href=\"https://abcnews.go.com/Politics/wireStory/georgias-fulton-county-seeks-return-2020-election-documents-129849119\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 05, 2026",
+        "severity": "crit",
+        "title": "Treasury Secretary suggests Trump could investigate Fed chair over policy disagreements",
+        "description": "Treasury Secretary Bessent stated that Trump would decide whether to investigate Federal Reserve nominee Warsh if he refused to cut interest rates, directly threatening central bank independence from political interference. <a href=\"https://www.cnbc.com/2026/02/05/bessent-trump-investigation-warsh-warren-fed.html\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "severity": "warn",
+        "title": "Trump backs SAVE America Act to nationalize election administration",
+        "description": "Trump endorsed federal legislation that would impose strict voter ID requirements and shift election control from states to federal oversight, fundamentally altering election infrastructure. <a href=\"https://www.axios.com/2026/02/08/save-america-act-trump-nationalize-elections\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 05, 2026",
+        "severity": "warn",
+        "title": "Senator refuses DOJ interview, alleges political intimidation",
+        "description": "Sen. Slotkin publicly refused a DOJ interview request regarding a military video, stating 'the intimidation is the point' and signaling potential litigation over investigative tactics. <a href=\"https://www.cnbc.com/2026/02/05/slotkin-military-video-bondi-pirro-trump-kelly.html\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newCheckEvents": [
+      {
+        "check": "Election Infrastructure",
+        "date": "Feb 2026",
+        "text": "Trump publicly states he wants to 'take over' elections amid Georgia voting records seizure dispute. <a href=\"https://abcnews.go.com/Politics/wireStory/georgias-fulton-county-seeks-return-2020-election-documents-129849119\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "FBI Independence",
+        "date": "Feb 2026",
+        "text": "FBI seizure of Georgia election records linked to conservative researcher raises questions about political motivation in election investigations. <a href=\"https://www.propublica.org/article/kevin-moncla-election-researcher-fulton-county-georgia\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2026",
+        "text": "Treasury Secretary Bessent states Trump would decide whether to investigate Federal Reserve chair over policy disagreements. <a href=\"https://www.cnbc.com/2026/02/05/bessent-trump-investigation-warsh-warren-fed.html\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newTickerItems": [
+      {
+        "label": "ELECTIONS",
+        "text": "Trump says he wants to <strong>'take over' elections</strong> amid Georgia records fight"
+      },
+      {
+        "label": "FED",
+        "text": "Bessent: Trump could <strong>investigate Fed chair</strong> over rate disagreements"
+      },
+      {
+        "label": "CONGRESS",
+        "text": "Sen. Slotkin <strong>refuses DOJ interview</strong>, alleges political intimidation"
+      },
+      {
+        "label": "VOTING",
+        "text": "Trump backs <strong>SAVE Act to nationalize</strong> election administration"
+      }
+    ],
+    "statUpdates": [],
+    "bannerUpdate": null,
+    "summary": "Added four critical incidents including Trump's stated intent to 'take over' elections, Treasury Secretary suggesting presidential investigations of Fed officials over policy disagreements, and a senator publicly refusing DOJ interview citing intimidation. Updated check events for Election Infrastructure, FBI Independence, and DOJ Independence with sourced developments."
+  }
+}
