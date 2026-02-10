@@ -2407,7 +2407,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T00:14:47.633Z"
+      "scoredAt": "2026-02-10T00:14:47.633Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "d9a5956e1320",
@@ -2428,7 +2429,8 @@
         "corruption & self-dealing",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-10T00:14:50.327Z"
+      "scoredAt": "2026-02-10T00:14:50.327Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "2bfe853dcff5",
@@ -2488,7 +2490,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T00:14:50.321Z"
+      "scoredAt": "2026-02-10T00:14:50.321Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "075c055404d9",
@@ -2596,7 +2599,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T00:14:55.793Z"
+      "scoredAt": "2026-02-10T00:14:55.793Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "5f9dbb5feab3",
@@ -2662,7 +2666,8 @@
         "judicial independence",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-10T00:14:56.823Z"
+      "scoredAt": "2026-02-10T00:14:56.823Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "6d56b94ffb85",
@@ -2755,7 +2760,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T00:14:58.646Z"
+      "scoredAt": "2026-02-10T00:14:58.646Z",
+      "digestedAt": "2026-02-10T00:20:25.175Z"
     },
     {
       "id": "6b2775fe52cd",
@@ -2821,6 +2827,6 @@
       "scoredAt": "2026-02-10T00:15:01.219Z"
     }
   ],
-  "lastDigest": "2026-02-09T17:56:26.759Z",
+  "lastDigest": "2026-02-10T00:20:25.175Z",
   "lastFetch": "2026-02-10T00:15:01.219Z"
 }
