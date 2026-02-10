@@ -24,11 +24,12 @@
 <link rel="canonical" href="https://checks.fail/">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚨</text></svg>">
 <style>
+  @keyframes emergency-pulse { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
   @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes pulse { 0%,100% { box-shadow: 0 0 0 0 rgba(220,38,38,0.5); } 50% { box-shadow: 0 0 0 10px rgba(220,38,38,0); } }
   @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.2; } }
   @keyframes slideIn { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
-  @keyframes scroll-left { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @keyframes scroll-left { from { transform: translateX(0); } to { transform: translateX(var(--scroll-offset, -50%)); } }
 
   :root {
     --bg: #050505;
@@ -74,6 +75,15 @@
       linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px),
       linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px);
     background-size: 48px 48px;
+  }
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(220,38,38,0.045) 100%);
+    animation: emergency-pulse 8s ease-in-out infinite;
+    pointer-events: none;
+    z-index: 9999;
   }
 
   a { color: var(--link); text-decoration: none; transition: color 0.15s; }
@@ -744,6 +754,8 @@
     color: var(--text-dim); letter-spacing: 0.02em;
   }
   .live-ticker-item strong { color: var(--text); }
+  a.live-ticker-item { color: var(--text-dim); }
+  a.live-ticker-item:hover { color: var(--text); text-decoration: none; }
   .live-ticker-item .hl { color: var(--red); font-weight: 700; }
   .live-clock {
     font-family: var(--mono); font-size: 0.58rem;
@@ -978,6 +990,27 @@
     font-size: 0.85rem; transition: all 0.15s; line-height: 1;
   }
   .sticky-sub-x:hover { color: var(--text-white); border-color: var(--border-bright); }
+  .sticky-sub-form {
+    display: none; align-items: center; gap: 0.5rem; flex: 1; max-width: 400px;
+  }
+  .sticky-sub.show-form .sticky-sub-actions { display: none; }
+  .sticky-sub.show-form .sticky-sub-sep { display: none; }
+  .sticky-sub.show-form .sticky-sub-form { display: flex; }
+  .sticky-sub-input {
+    flex: 1; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 4px; padding: 6px 10px;
+    font-family: var(--mono); font-size: 0.62rem;
+    color: var(--text); outline: none;
+  }
+  .sticky-sub-input:focus { border-color: var(--border-bright); }
+  .sticky-sub-input::placeholder { color: var(--text-dim); }
+  .sticky-sub-go {
+    background: var(--green); color: #000; border: none; border-radius: 4px;
+    padding: 6px 14px; font-family: var(--mono); font-size: 0.6rem;
+    font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+    cursor: pointer; transition: all 0.2s; white-space: nowrap;
+  }
+  .sticky-sub-go:hover { background: #22c55e; }
 
   /* ─── WELCOME MODAL ─── */
   .welcome-bg {
@@ -1221,30 +1254,30 @@
     <div class="live-badge">Live</div>
     <div class="live-ticker">
       <div class="live-ticker-track">
-        <span class="live-ticker-item"><span class="hl">FULTON COUNTY</span> &mdash; FBI seizes 700 boxes of 2020 election materials</span>
-        <span class="live-ticker-item"><span class="hl">RETRIBUTION</span> &mdash; 1,500 Jan 6 pardons including seditious conspiracy convictions</span>
-        <span class="live-ticker-item"><span class="hl">PRESS</span> &mdash; U.S. falls to <strong>57th</strong> on World Press Freedom Index</span>
-        <span class="live-ticker-item"><span class="hl">IMMIGRATION</span> &mdash; 31 detention deaths in 2025 &mdash; 20-year high</span>
-        <span class="live-ticker-item"><span class="hl">CORRUPTION</span> &mdash; Trump family reports <strong>$500M crypto profits</strong> in first 100 days</span>
-        <span class="live-ticker-item"><span class="hl">AGENCIES</span> &mdash; USAID shut down. Lancet: up to <strong>14M additional deaths</strong> projected</span>
-        <span class="live-ticker-item">AG Bondi receives <strong>prosecution orders via DM</strong> from the President</span>
-        <span class="live-ticker-item"><span class="hl">SCHEDULE F</span> &mdash; 50,000 workers reclassified as at-will. 94% of comments opposed</span>
-        <span class="live-ticker-item"><span class="hl">HEALTHCARE</span> &mdash; $911B Medicaid cut. CBO: <strong>10 million</strong> lose coverage</span>
-        <span class="live-ticker-item"><span class="hl">DOGE</span> &mdash; Social Security data shared to unauthorized servers. 300M+ records at risk</span>
-        <span class="live-ticker-item"><span class="hl">VOA</span> &mdash; Stops broadcasting for first time in <strong>83 years</strong>. Staff: 1,300 to 81</span>
-        <span class="live-ticker-item"><span class="hl">CECOT</span> &mdash; Court order to turn deportation planes around &mdash; <strong>defied</strong></span>
-        <span class="live-ticker-item"><span class="hl">FULTON COUNTY</span> &mdash; FBI seizes 700 boxes of 2020 election materials</span>
-        <span class="live-ticker-item"><span class="hl">RETRIBUTION</span> &mdash; 1,500 Jan 6 pardons including seditious conspiracy convictions</span>
-        <span class="live-ticker-item"><span class="hl">PRESS</span> &mdash; U.S. falls to <strong>57th</strong> on World Press Freedom Index</span>
-        <span class="live-ticker-item"><span class="hl">IMMIGRATION</span> &mdash; 31 detention deaths in 2025 &mdash; 20-year high</span>
-        <span class="live-ticker-item"><span class="hl">CORRUPTION</span> &mdash; Trump family reports <strong>$500M crypto profits</strong> in first 100 days</span>
-        <span class="live-ticker-item"><span class="hl">AGENCIES</span> &mdash; USAID shut down. Lancet: up to <strong>14M additional deaths</strong> projected</span>
-        <span class="live-ticker-item">AG Bondi receives <strong>prosecution orders via DM</strong> from the President</span>
-        <span class="live-ticker-item"><span class="hl">SCHEDULE F</span> &mdash; 50,000 workers reclassified as at-will. 94% of comments opposed</span>
-        <span class="live-ticker-item"><span class="hl">HEALTHCARE</span> &mdash; $911B Medicaid cut. CBO: <strong>10 million</strong> lose coverage</span>
-        <span class="live-ticker-item"><span class="hl">DOGE</span> &mdash; Social Security data shared to unauthorized servers. 300M+ records at risk</span>
-        <span class="live-ticker-item"><span class="hl">VOA</span> &mdash; Stops broadcasting for first time in <strong>83 years</strong>. Staff: 1,300 to 81</span>
-        <span class="live-ticker-item"><span class="hl">CECOT</span> &mdash; Court order to turn deportation planes around &mdash; <strong>defied</strong></span>
+        <a class="live-ticker-item" href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener"><span class="hl">FULTON COUNTY</span> &mdash; FBI seizes 700 boxes of 2020 election materials</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot" target="_blank" rel="noopener"><span class="hl">RETRIBUTION</span> &mdash; 1,500 Jan 6 pardons including seditious conspiracy convictions</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/05/05/nx-s1-5384970/press-freedom-no-longer-a-given-in-u-s-according-to-cpj-report" target="_blank" rel="noopener"><span class="hl">PRESS</span> &mdash; U.S. falls to <strong>57th</strong> on World Press Freedom Index</a>
+        <a class="live-ticker-item" href="https://www.axios.com/2026/01/20/ice-custody-deaths-trump-surge" target="_blank" rel="noopener"><span class="hl">IMMIGRATION</span> &mdash; 31 detention deaths in 2025 &mdash; 20-year high</a>
+        <a class="live-ticker-item" href="https://www.axios.com/2025/07/18/trump-signs-stablecoin-bill-into-law-genius" target="_blank" rel="noopener"><span class="hl">CORRUPTION</span> &mdash; Trump family reports <strong>$500M crypto profits</strong> in first 100 days</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department" target="_blank" rel="noopener"><span class="hl">AGENCIES</span> &mdash; USAID shut down. Lancet: up to <strong>14M additional deaths</strong> projected</a>
+        <a class="live-ticker-item" href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">AG Bondi receives <strong>prosecution orders via DM</strong> from the President</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2026/02/06/nx-s1-5704171/trump-fire-federal-employees-schedule-f" target="_blank" rel="noopener"><span class="hl">SCHEDULE F</span> &mdash; 50,000 workers reclassified as at-will. 94% of comments opposed</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid" target="_blank" rel="noopener"><span class="hl">HEALTHCARE</span> &mdash; $911B Medicaid cut. CBO: <strong>10 million</strong> lose coverage</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/06/06/nx-s1-5422283/supreme-court-doge-social-security-records" target="_blank" rel="noopener"><span class="hl">DOGE</span> &mdash; Social Security data shared to unauthorized servers. 300M+ records at risk</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake" target="_blank" rel="noopener"><span class="hl">VOA</span> &mdash; Stops broadcasting for first time in <strong>83 years</strong>. Staff: 1,300 to 81</a>
+        <a class="live-ticker-item" href="https://www.cnn.com/2025/04/16/politics/boasberg-contempt-deportation-flights/index.html" target="_blank" rel="noopener"><span class="hl">CECOT</span> &mdash; Court order to turn deportation planes around &mdash; <strong>defied</strong></a>
+        <a class="live-ticker-item" href="https://www.propublica.org/article/fbi-fulton-county-voting-records-search-warrant" target="_blank" rel="noopener"><span class="hl">FULTON COUNTY</span> &mdash; FBI seizes 700 boxes of 2020 election materials</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot" target="_blank" rel="noopener"><span class="hl">RETRIBUTION</span> &mdash; 1,500 Jan 6 pardons including seditious conspiracy convictions</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/05/05/nx-s1-5384970/press-freedom-no-longer-a-given-in-u-s-according-to-cpj-report" target="_blank" rel="noopener"><span class="hl">PRESS</span> &mdash; U.S. falls to <strong>57th</strong> on World Press Freedom Index</a>
+        <a class="live-ticker-item" href="https://www.axios.com/2026/01/20/ice-custody-deaths-trump-surge" target="_blank" rel="noopener"><span class="hl">IMMIGRATION</span> &mdash; 31 detention deaths in 2025 &mdash; 20-year high</a>
+        <a class="live-ticker-item" href="https://www.axios.com/2025/07/18/trump-signs-stablecoin-bill-into-law-genius" target="_blank" rel="noopener"><span class="hl">CORRUPTION</span> &mdash; Trump family reports <strong>$500M crypto profits</strong> in first 100 days</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department" target="_blank" rel="noopener"><span class="hl">AGENCIES</span> &mdash; USAID shut down. Lancet: up to <strong>14M additional deaths</strong> projected</a>
+        <a class="live-ticker-item" href="https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830" target="_blank" rel="noopener">AG Bondi receives <strong>prosecution orders via DM</strong> from the President</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2026/02/06/nx-s1-5704171/trump-fire-federal-employees-schedule-f" target="_blank" rel="noopener"><span class="hl">SCHEDULE F</span> &mdash; 50,000 workers reclassified as at-will. 94% of comments opposed</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid" target="_blank" rel="noopener"><span class="hl">HEALTHCARE</span> &mdash; $911B Medicaid cut. CBO: <strong>10 million</strong> lose coverage</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/06/06/nx-s1-5422283/supreme-court-doge-social-security-records" target="_blank" rel="noopener"><span class="hl">DOGE</span> &mdash; Social Security data shared to unauthorized servers. 300M+ records at risk</a>
+        <a class="live-ticker-item" href="https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake" target="_blank" rel="noopener"><span class="hl">VOA</span> &mdash; Stops broadcasting for first time in <strong>83 years</strong>. Staff: 1,300 to 81</a>
+        <a class="live-ticker-item" href="https://www.cnn.com/2025/04/16/politics/boasberg-contempt-deportation-flights/index.html" target="_blank" rel="noopener"><span class="hl">CECOT</span> &mdash; Court order to turn deportation planes around &mdash; <strong>defied</strong></a>
       </div>
     </div>
     <div class="live-clock" id="liveClock">--:--:--</div>
@@ -1717,17 +1750,17 @@
     <div class="label">The Stakes &mdash; Prediction Markets <span class="mkt-live">Live</span></div>
     <div class="mkts">
       <div class="mkt g">
-        <div class="mkt-val green">82%</div>
+        <div class="mkt-val green" id="mktHouse">--</div>
         <div class="mkt-desc">Democrats win the House</div>
         <div class="mkt-src"><a href="https://polymarket.com/event/balance-of-power-2026-midterms" target="_blank" rel="noopener">Polymarket</a></div>
       </div>
       <div class="mkt a">
-        <div class="mkt-val amber">88%</div>
+        <div class="mkt-val amber" id="mktMidterms">--</div>
         <div class="mkt-desc">Midterms happen as scheduled</div>
         <div class="mkt-src"><a href="https://polymarket.com/event/will-the-2026-midterm-elections-happen-as-scheduled" target="_blank" rel="noopener">Polymarket</a></div>
       </div>
       <div class="mkt d">
-        <div class="mkt-val dim">14%</div>
+        <div class="mkt-val dim" id="mktImpeach">--</div>
         <div class="mkt-desc">Trump impeached by end of 2026</div>
         <div class="mkt-src"><a href="https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026" target="_blank" rel="noopener">Polymarket</a></div>
       </div>
@@ -2078,7 +2111,7 @@
         <div class="sub-stream">
           <div class="sub-stream-label">Stream 1</div>
           <div class="sub-stream-name">Weekly Digest</div>
-          <div class="sub-stream-desc">Automated status changes, new incidents, and what shifted across all 12 monitored systems. AI-synthesized from 15+ verified sources.</div>
+          <div class="sub-stream-desc">Automated status changes, new incidents, and what shifted across all 12 monitored systems. Synthesized from 15+ verified sources.</div>
           <div class="sub-stream-freq">Every Sunday</div>
         </div>
         <div class="sub-stream">
@@ -2090,9 +2123,6 @@
       </div>
       <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="signup-btn" onclick="markSubscribed()">Subscribe on Substack</a>
       <p class="signup-fine">Free. No spam. Unsubscribe anytime.</p>
-      <div class="sub-embed">
-        <iframe src="https://checksfail.substack.com/embed" width="100%" height="150" style="border:none; background:transparent;" frameborder="0" scrolling="no"></iframe>
-      </div>
     </div>
   </div>
 
@@ -2171,6 +2201,10 @@
       <a href="https://checksfail.substack.com" target="_blank" rel="noopener" class="sticky-sub-btn">Subscribe</a>
       <button class="sticky-sub-x" onclick="dismissStickyBar()" aria-label="Dismiss">&times;</button>
     </div>
+    <form class="sticky-sub-form" action="https://checksfail.substack.com/api/v1/free?nojs=true" method="post" target="_blank">
+      <input type="email" name="email" class="sticky-sub-input" placeholder="your@email.com" required>
+      <button type="submit" class="sticky-sub-go" onclick="markSubscribed()">Subscribe</button>
+    </form>
   </div>
 </div>
 
@@ -2402,6 +2436,7 @@ document.querySelectorAll('[data-person]').forEach(function(card) {
         }).join('');
         // Append to both halves of the duplicated ticker
         tickerTrack.innerHTML = tickerTrack.innerHTML + newSpans + newSpans;
+        calibrateMarquee('.live-ticker-track', 30);
       }
 
       // ── Inject into incident log ──
@@ -2431,14 +2466,14 @@ document.querySelectorAll('[data-person]').forEach(function(card) {
 // ── Sticky footer dismiss ──
 function dismissStickyBar() {
   var bar = document.getElementById('stickySub');
-  if (bar) bar.classList.add('hidden');
+  if (bar) bar.classList.add('show-form');
   try { sessionStorage.setItem('cf_sub_dismissed', '1'); } catch(e) {}
 }
 (function() {
   try {
     if (sessionStorage.getItem('cf_sub_dismissed') === '1') {
       var bar = document.getElementById('stickySub');
-      if (bar) bar.classList.add('hidden');
+      if (bar) bar.classList.add('show-form');
     }
   } catch(e) {}
 })();
@@ -2534,6 +2569,94 @@ function markSubscribed() {
 document.getElementById('welcomeModal').addEventListener('click', function(e) {
   if (e.target === this) dismissWelcome();
 });
+
+// ── Polymarket live prices ──
+(function() {
+  var API = 'https://gamma-api.polymarket.com/events?slug=';
+  var markets = [
+    { slug: 'balance-of-power-2026-midterms', el: 'mktHouse', composite: true },
+    { slug: 'will-the-2026-midterm-elections-happen-as-scheduled', el: 'mktMidterms' },
+    { slug: 'will-trump-be-impeached-by-december-31-2026', el: 'mktImpeach' }
+  ];
+
+  function colorClass(pct, id) {
+    if (id === 'mktImpeach') return 'dim';
+    if (pct >= 70) return 'green';
+    if (pct >= 40) return 'amber';
+    return 'dim';
+  }
+
+  markets.forEach(function(m) {
+    fetch(API + m.slug)
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        var evt = Array.isArray(data) ? data[0] : data;
+        if (!evt) return;
+        var pct;
+        if (m.composite && evt.markets) {
+          // Sum sub-markets where Dems win House
+          pct = 0;
+          evt.markets.forEach(function(sub) {
+            var s = sub.slug || sub.groupItemTitle || '';
+            if (s.toLowerCase().indexOf('d-house') !== -1 || s.toLowerCase().indexOf('d house') !== -1) {
+              var prices = typeof sub.outcomePrices === 'string' ? JSON.parse(sub.outcomePrices) : sub.outcomePrices;
+              pct += parseFloat(prices[0]) * 100;
+            }
+          });
+        } else {
+          var prices = typeof evt.outcomePrices === 'string' ? JSON.parse(evt.outcomePrices) : evt.outcomePrices;
+          pct = Math.round(parseFloat(prices[0]) * 100);
+        }
+        pct = Math.round(pct);
+        var el = document.getElementById(m.el);
+        if (el) {
+          el.textContent = pct + '%';
+          el.className = 'mkt-val ' + colorClass(pct, m.el);
+        }
+        // Also update stat chip in marquee if it's the House odds
+        if (m.el === 'mktHouse') {
+          document.querySelectorAll('.stat-chip').forEach(function(chip) {
+            if (chip.textContent.indexOf('Dem House odds') !== -1) {
+              var val = chip.querySelector('.stat-val');
+              if (val) {
+                val.textContent = pct + '%';
+                val.className = 'stat-val ' + (pct >= 70 ? 'gv' : pct >= 40 ? 'av' : '');
+              }
+            }
+          });
+        }
+      })
+      .catch(function() {
+        // Silently fail — show fallback values
+        var el = document.getElementById(m.el);
+        if (el && el.textContent === '--') {
+          var fallbacks = { mktHouse: '82%', mktMidterms: '88%', mktImpeach: '14%' };
+          el.textContent = fallbacks[m.el] || '--';
+        }
+      });
+  });
+})();
+
+// ── Seamless marquee offset ──
+function calibrateMarquee(trackSelector, pxPerSec) {
+  var track = document.querySelector(trackSelector);
+  if (!track) return;
+  var children = Array.from(track.children);
+  var half = Math.floor(children.length / 2);
+  if (half < 1) return;
+  var first = children[0].getBoundingClientRect();
+  var last = children[half - 1].getBoundingClientRect();
+  var width = last.right - first.left;
+  track.style.setProperty('--scroll-offset', '-' + width + 'px');
+  track.style.animationDuration = (width / pxPerSec) + 's';
+}
+function calibrateAllMarquees() {
+  calibrateMarquee('.live-ticker-track', 30);
+  calibrateMarquee('.stats-track', 25);
+  calibrateMarquee('.source-track', 20);
+}
+calibrateAllMarquees();
+window.addEventListener('resize', calibrateAllMarquees);
 </script>
 
 </body>
