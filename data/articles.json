@@ -3264,8 +3264,471 @@
       "reason": "Historical anecdote about Trump's private comments during a 2006 criminal investigation lacks direct relevance to current institutional checks and balances or democratic governance.",
       "categories": [],
       "scoredAt": "2026-02-10T06:22:34.723Z"
+    },
+    {
+      "id": "f2a10b750a72",
+      "title": "Immigrants Who Say Their Detention Is Illegal Have Filed More Than 18,000 Cases. It’s a Historic High.",
+      "url": "https://www.propublica.org/article/habeas-petitions-immigrant-detentions-trump",
+      "source": "ProPublica",
+      "published": "2026-02-10T10:00:00.000Z",
+      "description": "The post Immigrants Who Say Their Detention Is Illegal Have Filed More Than 18,000 Cases. It’s a Historic High. appeared first on ProPublica.",
+      "keywords": [
+        "detention"
+      ],
+      "significance": 6,
+      "reason": "The historic surge in illegal detention cases indicates systemic challenges to judicial oversight and civil rights protections, but represents litigation symptom rather than institutional action or policy change.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T12:13:20.518Z"
+    },
+    {
+      "id": "8fbf11e4c4cd",
+      "title": "DHS faces funding deadline. And, courts fast-track Somali asylum seeker hearings",
+      "url": "https://www.npr.org/2026/02/10/g-s1-109430/up-first-newsletter-dhs-funding-uk-epstein-nancy-guthrie-somali-migrants",
+      "source": "NPR Politics",
+      "published": "2026-02-10T11:44:02.000Z",
+      "description": "Congress has until Friday to reach a deal to fund the Department of Homeland Security. And, several asylum cases filed by Somali migrants in immigration courts were suddenly fast-tracked.",
+      "keywords": [
+        "immigration",
+        "EPA",
+        "asylum"
+      ],
+      "significance": 5,
+      "reason": "DHS funding deadline is routine legislative process, while fast-tracked asylum hearings warrant monitoring for potential due process concerns but lack evidence of systematic erosion.",
+      "categories": [
+        "election infrastructure",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T12:13:19.293Z"
+    },
+    {
+      "id": "629ddc20dc8a",
+      "title": "Rep. Suhas Subramanyam, D-Va., talks about viewing the unredacted Epstein files",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5707293/rep-suhas-subramanyam-d-va-talks-about-viewing-the-unredacted-epstein-files",
+      "source": "NPR Politics",
+      "published": "2026-02-10T11:41:10.000Z",
+      "description": "NPR's Michel Martin speaks to Democratic Rep. Suhas Subramanyam of Virginia about viewing the unredacted Epstein files that the Justice Department made available to members of Congress.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While congressional access to unredacted files relates to oversight, this is routine implementation of a previously ordered document release rather than a new institutional action or policy change.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-10T12:13:19.363Z"
+    },
+    {
+      "id": "95208d32e44e",
+      "title": "How much power does the Fed chair really have?",
+      "url": "https://www.npr.org/sections/planet-money/2026/02/10/g-s1-109375/how-much-power-does-the-fed-chair-really-have",
+      "source": "NPR Politics",
+      "published": "2026-02-10T11:30:00.000Z",
+      "description": "On paper, the Fed chair is just one vote among many. In practice, the job carries far more influence. We analyze what gives the Fed chair power.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is analytical commentary on institutional power dynamics within the Federal Reserve's existing governance structure, not reporting on threats to or changes in democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:19.413Z"
+    },
+    {
+      "id": "9d72ae59424f",
+      "title": "Immigration officials to testify before House as DHS funding deadline approaches",
+      "url": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
+      "source": "NPR Politics",
+      "published": "2026-02-10T10:00:00.000Z",
+      "description": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement. But tensions between the two parties are high and the timeline is short – the stopgap bill funding DHS runs out Friday.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Routine congressional oversight hearing on immigration enforcement amid typical partisan budget negotiations, with no indication of systemic institutional threats or unprecedented actions.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T12:13:19.343Z"
+    },
+    {
+      "id": "d256d4c515a1",
+      "title": "Top immigration officials to testify before House as DHS funding deadline approaches",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5707411/top-immigration-officials-to-testify-before-house-as-dhs-funding-deadline-approaches",
+      "source": "NPR Politics",
+      "published": "2026-02-10T09:43:38.000Z",
+      "description": "Members of a House committee will question top immigration officials as lawmakers discuss possible changes to immigration enforcement operations.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 4,
+      "reason": "Routine congressional oversight hearing on immigration policy with no indication of institutional breakdown, though congressional oversight itself is a relevant check.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T12:13:21.451Z"
+    },
+    {
+      "id": "ed13e6c7c67e",
+      "title": "Rep. Dan Goldman, D-N.Y., talks about DHS reforms ahead of looming funding deadline",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5707285/rep-dan-goldman-d-n-y-talks-about-dhs-reforms-ahead-of-looming-funding-deadline",
+      "source": "NPR Politics",
+      "published": "2026-02-10T09:43:33.000Z",
+      "description": "NPR's Michel Martin speaks with Rep. Dan Goldman, D-N.Y., about oversight and reforms for the Department of Homeland Security as a funding deadline looms.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine congressional commentary about standard oversight discussions and budget negotiations with no indication of institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T12:13:21.695Z"
+    },
+    {
+      "id": "a029a2d58a5c",
+      "title": "Trump is threatening to block a new bridge between Detroit and Canada from opening",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5708607/trump-block-bridge-detroit-canada",
+      "source": "NPR Politics",
+      "published": "2026-02-10T06:46:09.000Z",
+      "description": "President Donald Trump on Monday threatened to block the opening of a new Canadian-built bridge across the Detroit River, in his latest salvo over cross-border trade issues.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This represents a trade policy dispute and executive leverage over infrastructure, not a systemic threat to democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:21.340Z"
+    },
+    {
+      "id": "42592256603c",
+      "title": "Ghislaine Maxwell appeals for clemency from Trump as she declines to answer questions",
+      "url": "https://www.npr.org/2026/02/10/g-s1-109413/maxwell-appeals-for-clemency",
+      "source": "NPR Politics",
+      "published": "2026-02-10T06:30:18.000Z",
+      "description": "Maxwell declined to answer questions from House lawmakers on Monday, but indicated that if President Trump ended her sentence, she was willing to testify that neither he nor former President Clinton had done anything wrong in their connections with Epstein.",
+      "keywords": [
+        "trump",
+        "clemency"
+      ],
+      "significance": 3,
+      "reason": "While the article touches on potential corruption and self-dealing concerns, it primarily reports on routine legal/clemency proceedings rather than demonstrating institutional erosion of democratic checks.",
+      "categories": [
+        "corruption & self-dealing",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-10T12:13:21.753Z"
+    },
+    {
+      "id": "ae4e9114cfe0",
+      "title": "Democrats reject latest White House offer on ICE with DHS funding expiring",
+      "url": "https://www.cbsnews.com/news/democrats-white-house-offer-ice-reforms-homeland-security-funding/",
+      "source": "CBS News",
+      "published": "2026-02-10T11:54:35.000Z",
+      "description": "Democratic leaders a say White House proposal doesn't make the grade as they demand new restrictions on ICE and threaten a shutdown of the Homeland Security Department.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A funding dispute over ICE restrictions reflects normal legislative disagreement on immigration policy, though DHS shutdown threats indicate heightened institutional tension warranting monitoring.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T12:13:22.973Z"
+    },
+    {
+      "id": "64d91f09f242",
+      "title": "Trump threatens to block opening of Gordie Howe International Bridge",
+      "url": "https://www.cbsnews.com/news/trump-gordie-howe-international-bridge/",
+      "source": "CBS News",
+      "published": "2026-02-10T11:32:55.000Z",
+      "description": "President Trump said Monday he would block the opening of the Gordie Howe International Bridge between Detroit and Canada  \"until the United States is fully compensated for everything we have given them.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine trade/foreign policy negotiation statement that does not directly implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:22.551Z"
+    },
+    {
+      "id": "71f4138ab533",
+      "title": "ICE chief, immigration officials set to testify to House panel today",
+      "url": "https://www.cbsnews.com/live-updates/ice-hearing-cbp-uscis-congress-immigration/",
+      "source": "CBS News",
+      "published": "2026-02-10T11:00:02.000Z",
+      "description": "The leaders of ICE, CBP and USCIS are set to testify before the House Homeland Security Committee on Tuesday.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine congressional testimony by executive branch officials is standard legislative oversight with no indication of institutional conflict or policy change.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T12:13:22.720Z"
+    },
+    {
+      "id": "7c435750458f",
+      "title": " Democrats and White House trade offers as shutdown of Homeland Security looms",
+      "url": "https://abcnews.go.com/Politics/wireStory/democrats-white-house-trade-offers-shutdown-homeland-security-130009178",
+      "source": "ABC News",
+      "published": "2026-02-10T04:21:23.000Z",
+      "description": "Democratic leaders say a proposal from the White House is “incomplete and insufficient” as they are demanding new restrictions on President Donald Trump’s immigration crackdown just days before funding for the Department of Homeland Security is set to ...",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A funding negotiation over DHS reflects normal legislative-executive bargaining on immigration policy, though the context of Trump's immigration enforcement raises questions about oversight that warrant monitoring.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T12:13:22.855Z"
+    },
+    {
+      "id": "1cb4913447b8",
+      "title": " Jury convicts 2 in signature scandal that doomed 2022 Michigan candidates for governor",
+      "url": "https://abcnews.go.com/Politics/wireStory/jury-convicts-2-signature-scandal-doomed-2022-michigan-130008412",
+      "source": "ABC News",
+      "published": "2026-02-09T23:57:44.000Z",
+      "description": "Two people have been convicted of forgery and other crimes in an election petition scandal in Michigan",
+      "keywords": [
+        "election"
+      ],
+      "significance": 3,
+      "reason": "This is a routine criminal conviction involving election petition fraud that was caught and prosecuted through normal legal processes, demonstrating the system's ability to address electoral crimes.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-10T12:13:23.977Z"
+    },
+    {
+      "id": "67ecb95e0413",
+      "title": " Gabbard's office warns attorney against sharing classified complaint with Congress",
+      "url": "https://abcnews.go.com/Politics/wireStory/gabbards-office-warns-attorney-sharing-classified-complaint-congress-130008283",
+      "source": "ABC News",
+      "published": "2026-02-09T23:09:37.000Z",
+      "description": "The general counsel for Director of National Intelligence Tulsi Gabbard is warning the attorney for an anonymous government employee not to share a top-secret complaint about Gabbard directly with members of Congress",
+      "keywords": [
+        "ICE",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "classified"
+      ],
+      "significance": 8,
+      "reason": "Attempt to obstruct statutory whistleblower protections and congressional oversight of intelligence leadership represents significant institutional threat to democratic checks.",
+      "categories": [
+        "DOJ independence",
+        "intelligence community integrity",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-10T12:13:24.458Z"
+    },
+    {
+      "id": "d08acc000bc3",
+      "title": "Europe's leaders are deeply unpopular",
+      "url": "https://www.axios.com/2026/02/10/europe-leadership-crisis-starmer-macron-merz",
+      "source": "Axios",
+      "published": "2026-02-10T10:00:06.000Z",
+      "description": "Data: Morning Consult; Chart: Axios Visuals\nU.K. Prime Minister Keir Starmer is fighting for his political life, rejecting calls to resign yesterday as fallout from the Epstein files threatened to bring down the British government.\nWhy it matters: Less than two years after the Labour Party's blowout election victory, Starmer is the most unpopular British prime minister on record, according to The Economist.\n\nZoom in: New data from Morning Consult shows he isn't even the most unpopular leader in ",
+      "keywords": [
+        "election",
+        "immigration"
+      ],
+      "significance": 1,
+      "reason": "This article concerns British political leadership approval ratings and is entirely outside the scope of U.S. democratic institutions and checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:23.785Z"
+    },
+    {
+      "id": "d21e04cb14a6",
+      "title": "Texas Democratic Senate primary shows how identity politics could haunt Democrats in 2028",
+      "url": "https://www.axios.com/2026/02/10/texas-senate-talarico-crockett-race-identity",
+      "source": "Axios",
+      "published": "2026-02-10T10:00:04.000Z",
+      "description": "The Texas Democratic Senate primary between Rep. Jasmine Crockett and state Rep. James Talarico has turned ugly over race and credibility, becoming a skirmish that could foreshadow tensions for Democrats nationwide. \nWhy it matters: The primary's rapid escalation in identity-based attacks reveals unsettled fault lines that Democrats worry could derail them, again.\n\nBack in December, Crockett had to defend comments she made a year ago to Vanity Fair, when she described how Latinos talk about immi",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "attorney general",
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers intra-party primary campaign dynamics and messaging strategy with no direct impact on constitutional checks and balances, institutional independence, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:24.002Z"
+    },
+    {
+      "id": "5008b7ec56e1",
+      "title": "OpenAI and Anthropic are picking public fights",
+      "url": "https://www.axios.com/2026/02/10/ai-ceo-feuds-openai-anthropic-google",
+      "source": "Axios",
+      "published": "2026-02-10T09:45:04.000Z",
+      "description": "AI CEOs are openly trash-talking each other, sniping over advertising and their philosophical approaches to the future.\nWhy it matters: The squabbling is intensifying as the cost of staying competitive in AI soars — and pressure is mounting for the technology to deliver real returns.\n\nDriving the news: The fighting ramped up around the Super Bowl.\n\nAnthropic pledged to keep its large language model, Claude, ad-free, alongside a commercial poking at OpenAI, which is testing ads in ChatGPT. \nOpenA",
+      "keywords": [
+        "musk",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns private sector competition between AI companies and has no relevance to U.S. democratic institutions, governmental checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:24.258Z"
+    },
+    {
+      "id": "74b0e43bbaf6",
+      "title": "Epstein file review yields 6 new \"likely incriminated\" men, lawmakers say",
+      "url": "https://www.axios.com/2026/02/09/epstein-files-unredacted-doj-massie-khanna",
+      "source": "Axios",
+      "published": "2026-02-09T23:19:05.000Z",
+      "description": "The Justice Department redacted the names of at least six men who are \"likely incriminated\" by their inclusion in the Epstein files, Reps. Thomas Massie (R-Ky.) and Ro Khanna (D-Calif.) said after reviewing unredacted versions of documents related to Jeffrey Epstein. \nWhy it matters: The lawmakers said they want to allow DOJ time to further unredact those files, but have also put sharing the names on the House floor on the table. Association with Epstein has plagued powerful people across the U.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Raises legitimate oversight questions about DOJ transparency and potential political pressure, but lacks evidence of systematic institutional erosion or unprecedented democratic threat.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-10T12:13:25.896Z"
+    },
+    {
+      "id": "833b8dd51910",
+      "title": "Say goodbye to free ChatGPT with no ads",
+      "url": "https://www.axios.com/2026/02/09/chatgpt-ads-testing-go-free",
+      "source": "Axios",
+      "published": "2026-02-09T19:00:20.000Z",
+      "description": "ChatGPT is testing ads for some U.S. users on both the free and Go subscription tiers, its most affordable offerings.   \nWhy it matters: It could be the beginning of the end of ad-free ChatGPT.\n\nWhat they're saying: \"Our goal is for ads to support broader access to more powerful ChatGPT features while maintaining the trust people place in ChatGPT for important and personal tasks,\" an OpenAI spokesperson told Axios. \n\nThe company says ads will not influence ChatGPT's answers, which it says will r",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns a private company's advertising policy for its commercial product and has no relationship to U.S. democratic institutions, governmental checks and balances, or constitutional processes.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:25.845Z"
+    },
+    {
+      "id": "39039dd957b3",
+      "title": "Progressive Democrats seek to ‘annul’ Trump Doctrine",
+      "url": "https://thehill.com/policy/international/5730477-trump-doctrine-latin-america/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "A group of progressive Democrats on Tuesday introduced a resolution to “leave the Monroe Doctrine to the dustbin of history,” in the words of Rep. Nydia Velázquez (D-N.Y.), and replace it with a foreign policy in the Western Hemisphere based on mutual cooperation and respect. The proposal, shared exclusively with The Hill, seeks to do…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine legislative commentary on foreign policy doctrine with no direct bearing on institutional checks and balances, separation of powers, or democratic accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:25.243Z"
+    },
+    {
+      "id": "3f97823bdad3",
+      "title": "The Memo: From Bad Bunny to Springsteen, new cultural wars erupt around Trump",
+      "url": "https://thehill.com/homenews/administration/5730454-trump-bad-bunny-clash/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "The controversy over Bad Bunny’s Super Bowl performance is the latest — and perhaps biggest — cultural flash point of President Trump’s second term so far. Trump’s time back in office has, of course, been marked by huge ideological clashes over innumerable matters of policy. But the battles around the president have increasingly spread beyond…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment and cultural commentary with no direct bearing on institutional checks and balances, democratic oversight, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:25.523Z"
+    },
+    {
+      "id": "cfeff0fb7ca3",
+      "title": "Senate GOP set to go to battle over Trump’s ICE, CBP policies",
+      "url": "https://thehill.com/homenews/senate/5730460-trump-allies-immigration-war/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "President Trump’s allies in the Senate are planning to go to war with Democrats this week over proposed immigration enforcement reforms, working closely with White House deputy chief of staff Stephen Miller to play offense on what has been a strong issue for the president.    These Senate conservatives are gearing up to fight any…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "miller",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Senate GOP planning legislative battles over immigration enforcement represents normal partisan disagreement on policy implementation rather than a structural threat to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T12:13:25.600Z"
+    },
+    {
+      "id": "5999206ac34d",
+      "title": "Harris takes on MAGA’s content machine with Headquarters relaunch",
+      "url": "https://thehill.com/policy/technology/5729586-harris-headquarters-democrats-social-media/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "Former Vice President Kamala Harris is reviving her edgy 2024 campaign social media account KamalaHQ in what her Gen Z aides are hyping as an effort to fight fire with fire in the ruthless, Republican-dominated social media content wars.  The rebranded account, Headquarters, inherits Harris’s massive follower count: 1.1 million followers on the social platform…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political campaign activity involving social media strategy with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:26.658Z"
+    },
+    {
+      "id": "0a4e29b63bd4",
+      "title": "Here are the first big midterm primaries to watch",
+      "url": "https://thehill.com/homenews/campaign/5729942-texas-north-carolina-illinois-ohio-senate-races/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "The first contests of the 2026 midterms will kick off in the coming weeks as the fight for control of Congress heats up.  High-profile primaries for Senate in Texas, North Carolina, Illinois and Ohio are set to make headlines in March and May, cementing general election match-ups for November as Republicans fight to maintain their…",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news covering standard primary contest scheduling with no implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:26.939Z"
+    },
+    {
+      "id": "a33b1909f359",
+      "title": "For Gavin Newsom, now comes the hard part ",
+      "url": "https://thehill.com/homenews/campaign/5730128-gavin-newsom-political-analysis/",
+      "source": "The Hill",
+      "published": "2026-02-10T11:00:00.000Z",
+      "description": "Political analysis is comparative, not qualitative. It isn’t that the people who win elections are necessarily good at politics, only that they are better than the other guy or gal. And at least in that way, we can say right now that California Gov. Gavin Newsom (D) is better at running for president than anybody…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is political commentary analyzing a governor's electoral skills and campaign viability, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T12:13:26.739Z"
     }
   ],
   "lastDigest": "2026-02-10T00:20:25.175Z",
-  "lastFetch": "2026-02-10T06:22:34.723Z"
+  "lastFetch": "2026-02-10T12:13:26.939Z"
 }
