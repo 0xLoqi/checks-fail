@@ -3727,8 +3727,777 @@
       "reason": "This is political commentary analyzing a governor's electoral skills and campaign viability, with no direct bearing on institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-10T12:13:26.739Z"
+    },
+    {
+      "id": "989b5d46ee36",
+      "title": "Firefighters Wore Gear Containing “Forever Chemicals.” The Forest Service Knew and Stayed Silent for Years.",
+      "url": "https://www.propublica.org/article/forest-service-forever-chemical-firefighter-pfas",
+      "source": "ProPublica",
+      "published": "2026-02-10T17:40:00.000Z",
+      "description": "The post Firefighters Wore Gear Containing “Forever Chemicals.” The Forest Service Knew and Stayed Silent for Years. appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a public health and environmental management issue involving agency accountability, but does not directly impact constitutional checks and balances, separation of powers, or democratic institutions.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:19:34.234Z"
+    },
+    {
+      "id": "9f070841a17f",
+      "title": "Governors won't hold meeting with Trump after White House only invited Republicans, Stitt says",
+      "url": "https://www.pbs.org/newshour/politics/governors-wont-hold-meeting-with-trump-after-white-house-only-invited-republicans-stitt-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T17:40:02.000Z",
+      "description": "Oklahoma Governor Kevin Stitt, a Republican, shared the cancellation in a letter to fellow governors on Monday.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a scheduling disagreement and does not represent a systemic threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:35.613Z"
+    },
+    {
+      "id": "9c604f7f2f3a",
+      "title": "WATCH LIVE: White House holds news briefing as shutdown looms over DHS funding",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-news-briefing-as-shutdown-looms-over-dhs-funding",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T17:29:42.000Z",
+      "description": "The briefing comes as heads of the agencies carrying out President Donald Trump's mass deportation agenda are testifying in Congress, parrying questions over how they are prosecuting immigration enforcement inside American cities.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A routine news briefing announcement with standard congressional oversight of executive agencies, though immigration enforcement actions warrant monitoring across multiple democratic guardrails.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:19:32.907Z"
+    },
+    {
+      "id": "ac06dfc5c561",
+      "title": "Trump set to gut U.S. climate change policy and environmental regulations, White House official says",
+      "url": "https://www.pbs.org/newshour/politics/trump-set-to-gut-u-s-climate-change-policy-and-environmental-regulations-white-house-official-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T17:24:06.000Z",
+      "description": "The Environmental Protection Agency will issue a final rule rescinding a 2009 government declaration known as the endangerment finding.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a policy disagreement on environmental regulation, which is within normal executive authority and does not directly threaten democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:32.472Z"
+    },
+    {
+      "id": "dc8954e86c14",
+      "title": "Susan Collins announces reelection bid for her Maine Senate seat challenged by Democrats",
+      "url": "https://www.pbs.org/newshour/politics/susan-collins-announces-reelection-bid-for-her-maine-senate-seat-challenged-by-democrats",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T16:19:17.000Z",
+      "description": "Collins previously defeated Democrat Sara Gideon in 2020 despite being outspent.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "Routine political announcement about a senator's reelection campaign with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:32.481Z"
+    },
+    {
+      "id": "936196178322",
+      "title": "WATCH LIVE: Heads of ICE, immigration agencies testify following protester deaths",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-heads-of-ice-immigration-agencies-testify-as-funding-deadline-looms",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T14:43:11.000Z",
+      "description": "Todd Lyons of Immigration and Customs Enforcement, Rodney Scott of Customs and Border Protection, and Joseph Edlow of U.S. Citizenship and Immigration Services will appear before the House Committee on Homeland Security.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of agency leadership regarding deaths in custody is notable institutional accountability, but the significance depends on whether testimony reveals systemic failures or policy changes.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:19:39.426Z"
+    },
+    {
+      "id": "1cf9c9edb9a3",
+      "title": "GOP Sen. Lisa Murkowski comes out against Trump's election bill, with a warning to her party",
+      "url": "https://www.nbcnews.com/politics/congress/gop-sen-lisa-murkowski-comes-trumps-election-bill-warning-party-rcna258353",
+      "source": "NBC News",
+      "published": "2026-02-10T16:47:08.000Z",
+      "description": "Sen. Lisa Murkowski said she opposes President Trump's SAVE Act, an election bill requiring proof of citizenship to vote nationwide, saying states run elections.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A notable intra-party disagreement on election policy that reflects ongoing tensions over federal-state authority in elections, but represents routine legislative opposition rather than an institutional threat.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T18:19:37.391Z"
+    },
+    {
+      "id": "39a3f3b38db7",
+      "title": "Minnesota gubernatorial candidate suspends his campaign after his daughter is found fatally stabbed",
+      "url": "https://www.nbcnews.com/news/us-news/minnesota-gubernatorial-candidate-suspends-campaign-daughter-found-fat-rcna258320",
+      "source": "NBC News",
+      "published": "2026-02-10T15:23:21.000Z",
+      "description": "Minnesota gubernatorial candidate Jeff Johnson announced Monday that he is suspending his campaign after his daughter was found fatally stabbed",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 1,
+      "reason": "This is a tragic personal tragedy with no connection to institutional checks and balances or democratic governance systems.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:36.469Z"
+    },
+    {
+      "id": "76796fc7bbfb",
+      "title": "DOJ again defends Lindsey Halligan's appointment in appeal of James Comey and Letitia James decisions",
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-defends-lindsey-halligans-appointment-appeal-james-comey-letitia-j-rcna258316",
+      "source": "NBC News",
+      "published": "2026-02-10T14:42:50.000Z",
+      "description": "The Justice Department again defended Attorney General Pam Bondi's appointment of former Trump personal lawyer Lindsey Halligan as an interim U.S. attorney in an appeal of a judge's dismissal of the indictments against New York Attorney General Letitia James and former FBI Director James Comey.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "FBI",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "The appointment of a Trump-connected lawyer to prosecute political opponents represents a significant institutional challenge to DOJ independence and raises concerns about political retribution, directly testing judicial oversight of executive power.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:40.510Z"
+    },
+    {
+      "id": "5b3c7afe97ec",
+      "title": "Tom Malinowski concedes in special election to fill Gov. Mikie Sherrill's seat in Congress",
+      "url": "https://www.cbsnews.com/news/tom-malinowski-concedes-to-analilia-mejia-nj-special-election/",
+      "source": "CBS News",
+      "published": "2026-02-10T18:09:39.000Z",
+      "description": "Former Rep. Tom Malinowski has conceded the New Jersey special election to fill Gov. Mikie Sherrill's congressional seat​.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is a routine electoral outcome announcement with no bearing on institutional checks and balances, democratic integrity mechanisms, or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:40.830Z"
+    },
+    {
+      "id": "2f07aed42527",
+      "title": "Ketanji Brown Jackson says Supreme Court justices \"get along well\"",
+      "url": "https://www.cbsnews.com/news/ketanji-brown-jackson-supreme-court-justices-get-along-well/",
+      "source": "CBS News",
+      "published": "2026-02-10T17:20:42.000Z",
+      "description": "Ketanji Brown Jackson told \"CBS Mornings\" that the justices \"have learned how to adapt to being in an environment with people who have very strongly held but different views.\"",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine personal anecdote about inter-personal dynamics among justices with no bearing on institutional checks, policy outcomes, or democratic processes.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:41.181Z"
+    },
+    {
+      "id": "57a871d5cccb",
+      "title": "Court unseals more records in Fulton County suit over FBI search",
+      "url": "https://www.cbsnews.com/news/fulton-county-fbi-search-court-records-2020-election/",
+      "source": "CBS News",
+      "published": "2026-02-10T16:57:29.000Z",
+      "description": "A federal court in Georgia unsealed key records related to the FBI's seizure of 2020 election materials from Fulton County last month.",
+      "keywords": [
+        "election",
+        "FBI",
+        "fulton county"
+      ],
+      "significance": 5,
+      "reason": "Unsealing records about an FBI search provides transparency into law enforcement actions but represents routine judicial process rather than a major institutional shift or democratic threat.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:40.740Z"
+    },
+    {
+      "id": "5f0bbd02a0fb",
+      "title": "Judge rejects Trump administration's effort to obtain Michigan voter data",
+      "url": "https://www.cbsnews.com/news/judge-rejects-trump-administration-michigan-voter-data/",
+      "source": "CBS News",
+      "published": "2026-02-10T16:04:29.000Z",
+      "description": "The Trump administration has filed lawsuits against 24 states in an effort to obtain their voter rolls.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A judicial ruling blocking executive efforts to obtain voter data represents a significant assertion of checks and balances across multiple institutional domains, particularly regarding election infrastructure protection and judicial independence.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:43.510Z"
+    },
+    {
+      "id": "f8a0b18197a7",
+      "title": "Airlines adjust as Trump's policies dry up Cuba's jet fuel supplies",
+      "url": "https://www.cbsnews.com/news/trump-cuba-jet-fuel-shortage-airlines-adjust-tariffs-sanctions/",
+      "source": "CBS News",
+      "published": "2026-02-10T15:44:11.000Z",
+      "description": "A Canadian airline suspends flights to Cuba as U.S sanctions and Trump's tariff threats force Havana to warn carriers there's no way to refuel on the island.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on economic sanctions and their commercial effects rather than institutional actions affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:44.356Z"
+    },
+    {
+      "id": "c429023dd730",
+      "title": "Sen. Susan Collins announces reelection bid, setting up key Senate contest",
+      "url": "https://www.cbsnews.com/news/susan-collins-reelection-bid-key-senate-contest-maine/",
+      "source": "CBS News",
+      "published": "2026-02-10T14:42:34.000Z",
+      "description": "Republican Sen. Susan Collins announced a widely expected reelection bid on Tuesday as focus turns to the Maine Senate race, which could be among the most consequential this cycle.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A routine election announcement lacks substantive information about threats to or maintenance of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:44.439Z"
+    },
+    {
+      "id": "e056f817c8ac",
+      "title": " Lucas Glover has a voice on the radio. Now he wants it heard in the PGA Tour boardroom",
+      "url": "https://abcnews.go.com/Politics/wireStory/lucas-glover-voice-radio-now-heard-pga-tour-130032200",
+      "source": "ABC News",
+      "published": "2026-02-10T17:33:47.000Z",
+      "description": "Lucas Glover has been a strong voice on the radio the last two years with no shortage of opinions",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article about a professional golfer's desire for boardroom representation has no relevance to U.S. democratic institutions, constitutional checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:44.590Z"
+    },
+    {
+      "id": "35bead02f531",
+      "title": " Malinowski concedes to Mejia in Democratic US House special primary in New Jersey",
+      "url": "https://abcnews.go.com/Politics/wireStory/malinowski-concedes-mejia-democratic-us-house-special-primary-130031910",
+      "source": "ABC News",
+      "published": "2026-02-10T17:08:21.000Z",
+      "description": "Former congressman Tom Malinowski concedes to Analilia Mejia in New Jersey’s Democratic primary for the U.S. House special election",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A routine primary election result between two Democratic candidates with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:44.445Z"
+    },
+    {
+      "id": "bd9762063126",
+      "title": " Susan Collins announces reelection bid in pivotal Maine Senate race",
+      "url": "https://abcnews.go.com/Politics/wireStory/susan-collins-announces-reelection-bid-pivotal-maine-senate-130025565",
+      "source": "ABC News",
+      "published": "2026-02-10T14:48:04.000Z",
+      "description": "Maine’s Republican Sen. Susan Collins has announced her reelection bid, entering a closely watched race that Democrats have targeted in their effort to retake the Senate majority in Congress in this year’s midterm elections",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "A routine political campaign announcement with no direct bearing on institutional checks, balances, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:45.249Z"
+    },
+    {
+      "id": "1b981a61b82b",
+      "title": " 'We hold these truths': Viewing the Declaration of Independence, visitors reflect on America at 250",
+      "url": "https://abcnews.go.com/Politics/wireStory/hold-truths-viewing-declaration-independence-visitors-reflect-america-130019917",
+      "source": "ABC News",
+      "published": "2026-02-10T13:09:54.000Z",
+      "description": "America’s 250th anniversary arrives at a time of deep political divisions and, in some quarters, heightened anxiety over whether representative government in the world’s oldest democracy can be sustained",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is a commemorative article about visitors reflecting on the Declaration of Independence during America's 250th anniversary, lacking substantive reporting on specific institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:48.037Z"
+    },
+    {
+      "id": "2030a930cf98",
+      "title": " Trump's immigration chiefs are set to testify in Congress following protester deaths",
+      "url": "https://abcnews.go.com/Politics/wireStory/trumps-immigration-chiefs-set-testify-congress-protester-deaths-130019865",
+      "source": "ABC News",
+      "published": "2026-02-10T13:09:24.000Z",
+      "description": "The heads of agencies enforcing President Donald Trump's immigration agenda are set to testify before Congress",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of executive immigration enforcement is a routine check-and-balance function, though the context of protester deaths adds moderate significance to the accountability process.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T18:19:50.085Z"
+    },
+    {
+      "id": "aa3003c78608",
+      "title": "Exclusive: Trump says he might send second carrier to strike Iran if talks fail",
+      "url": "https://www.axios.com/2026/02/10/trump-iran-talks-aircraft-carriers",
+      "source": "Axios",
+      "published": "2026-02-10T18:15:46.000Z",
+      "description": "President Trump told Axios in an interview on Tuesday that he's considering sending a second aircraft carrier strike group to the Middle East to prepare for military action if negotiations with Iran fail.\nWhy it matters: The U.S. and Iran resumed negotiations last Friday in Oman for the first time since the 12-day war in June, but Trump has simultaneously launched a massive military buildup in the Gulf. \"Either we will make a deal or we will have to do something very tough like last time,\" Trump",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine foreign policy/military statement about executive branch decision-making that does not directly implicate domestic democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:49.001Z"
+    },
+    {
+      "id": "dc396c8d8a67",
+      "title": "Pride flag removed from Stonewall monument",
+      "url": "https://www.axios.com/2026/02/10/stonewall-pride-flag-removed-national-park-service",
+      "source": "Axios",
+      "published": "2026-02-10T18:12:20.000Z",
+      "description": "Government officials removed a pride flag from New York's Stonewall National Monument, the birthplace of the modern queer rights movement, following federal guidance restricting what flags can be flown in national parks, community leaders says.\nThe big picture: The removal comes amid a broader federal effort to scrub LGBTQ+ history from government sites and single out transgender people, raising fears among LGBTQ+ advocates that their community faces erasure from public life.  \n\n\"It's an outrage",
+      "keywords": [
+        "speaker",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the flag removal reflects concerning ideological pressure on federal agencies and raises civil rights issues, it primarily involves symbolic expression at a monument rather than structural threats to core democratic checks and balances.",
+      "categories": [
+        "civil service independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T18:19:49.132Z"
+    },
+    {
+      "id": "784af8a8af1f",
+      "title": "Trump is in the unredacted Epstein files \"more than a million times,\" Raskin alleges",
+      "url": "https://www.axios.com/2026/02/10/trump-epstein-files-jamie-raskin-unredacted",
+      "source": "Axios",
+      "published": "2026-02-10T17:08:44.000Z",
+      "description": "Rep. Jamie Raskin (D-Md.) told Axios in an interview Tuesday that, when he searched President Trump's name in the unredacted Epstein files the previous day, it came up \"more than a million times.\"\nWhy it matters: At least one of the files Raskin found appears to contradict what Trump has publicly claimed about his association with Jeffrey Epstein, according to the House Judiciary Committee ranking member.\n\nThat document is a 2009 email exchange between Epstein and his associate, Ghislaine Maxwel",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a political allegation about document search results lacking institutional action, verification, or democratic mechanism impact.",
+      "categories": [
+        "political_retribution"
+      ],
+      "scoredAt": "2026-02-10T18:19:47.644Z"
+    },
+    {
+      "id": "1b47bf865ef3",
+      "title": "EPA's \"endangerment finding\" rescission looms",
+      "url": "https://www.axios.com/2026/02/10/epa-endangerment-rescission",
+      "source": "Axios",
+      "published": "2026-02-10T13:42:07.000Z",
+      "description": "EPA's reversal of the formal 2009 scientific finding that greenhouse gases threaten humans looks slated to land this week, per the WSJ, other reports, and people tracking the move. \nWhy it matters: Rescinding the \"endangerment finding\" is the Trump administration's most direct effort yet to rip out climate regulations root and branch — and make it harder for a successor to impose new ones.\n\nThe big picture: EPA did not confirm the timing, but pointed to Administrator Lee Zeldin's comments in the",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While this represents a significant policy reversal with long-term implications, it operates within executive authority over agency rulemaking rather than directly eroding institutional checks and balances themselves.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:19:51.208Z"
+    },
+    {
+      "id": "b5ecca098a46",
+      "title": "FBI releases photo of subject in connection with Nancy Guthrie disappearance",
+      "url": "https://thehill.com/blogs/in-the-know/5731661-fbi-photo-person-of-interest-nancy-guthrie-disappearance/",
+      "source": "The Hill",
+      "published": "2026-02-10T18:04:47.000Z",
+      "description": "The FBI on Tuesday released a series of photos of a person police are looking for in connection to the disappearance of Nancy Guthrie, the mother of “Today” Show host Savannah Guthrie. “Over the last eight days, the FBI and Pima County Sheriff’s Department have been working closely with our private sector partners to continue…",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine criminal investigation announcement with no relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:50.915Z"
+    },
+    {
+      "id": "ca9628071205",
+      "title": "So few good lawyers want to work for Trump that DOJ is recruiting on Fox",
+      "url": "https://thehill.com/opinion/criminal-justice/5729776-so-few-good-lawyers-want-to-work-for-trump-that-doj-is-recruiting-on-fox/",
+      "source": "The Hill",
+      "published": "2026-02-10T18:00:00.000Z",
+      "description": "Trump's Justice Department is known for botching prosecutions and infuriating federal judges.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Indicates potential DOJ institutional challenges and staffing concerns affecting prosecutorial competence, but represents operational difficulty rather than systematic erosion of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:51.273Z"
+    },
+    {
+      "id": "5d91f539809f",
+      "title": "Johnson said he plans to view unredacted Epstein files",
+      "url": "https://thehill.com/homenews/house/5731640-mike-johnson-unredacted-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:59:19.000Z",
+      "description": "Speaker Mike Johnson (R-La.) said on Tuesday that he plans to view a tranche of unredacted Department of Justice (DOJ) files related to convicted sex offender Jeffrey Epstein. DOJ allowed members of Congress to review the unredacted versions of more than three million pages of publicly released Epstein files starting on Monday. The push to release the…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "johnson",
+        "speaker",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but routine exercise of congressional oversight authority over DOJ document access, with no indication of institutional erosion or unprecedented action.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T18:19:51.385Z"
+    },
+    {
+      "id": "62c9558a1704",
+      "title": "Live updates: White House to brief press as DHS funding deadline looms; ICE chief testifies",
+      "url": "https://thehill.com/homenews/administration/5729965-live-updates-trump-dhs-funding-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:55:45.000Z",
+      "description": "White House press secretary Karoline Leavitt will speak with reporters Tuesday, when she is likely to field questions over the quickly approaching Department of Homeland Security (DHS) funding deadline as Democrats and Republicans butt heads in negotiations.   Senate Republicans and the White House have drawn a line over Democrats’ demands for some Immigration and Customs…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine reporting on ordinary legislative negotiations and scheduled press briefings with no indication of institutional checks being tested or eroded.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:51.208Z"
+    },
+    {
+      "id": "23f60c6897d1",
+      "title": "Schlossberg: Midterms ‘last chance to stop Trump’",
+      "url": "https://thehill.com/homenews/campaign/5731556-schlossberg-last-chance-trump-midterms/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:44:33.000Z",
+      "description": "Jack Schlossberg, the grandson of former President Kennedy, on Tuesday said next year’s midterms are the “last chance to stop” President Trump amid rising concerns about the president’s desire to assert federal control over elections. “This is our last chance to stop Trump. If we don’t win this election and Democrats don’t take back the…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary from a political figure about upcoming elections, lacking substantive reporting on actual institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [
+        "political_retribution"
+      ],
+      "scoredAt": "2026-02-10T18:19:52.572Z"
+    },
+    {
+      "id": "0b12036ac389",
+      "title": "Epstein survivors, Democrats unveil bill to end federal statute of limitations for sex trafficking",
+      "url": "https://thehill.com/homenews/house/5731588-epstein-survivors-push-for-justice/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:42:37.000Z",
+      "description": "Survivors of convicted sex offender Jeffrey Epstein joined Democrats on Capitol Hill on Tuesday to unveil legislation aimed at eliminating the statute of limitations for federal sex trafficking crimes amid growing demands for accountability and transparency from the Justice Department. The bill, Virginia’s Law, would remove “barriers that have kept survivors of sexual violence from…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While substantive criminal justice legislation with survivor advocacy, this is routine lawmaking on a specific crime category without direct implications for institutional checks and balances or democratic governance structures.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-10T18:19:57.468Z"
+    },
+    {
+      "id": "ef9197046dfd",
+      "title": "Watch live: White House holds briefing as DHS funding battle persists",
+      "url": "https://thehill.com/video-clips/5731550-watch-live-white-house-press-briefing-dhs-funding-fight/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:37:57.000Z",
+      "description": "White House press secretary Karoline Leavitt will brief reporters Tuesday afternoon as criticism mounts over the Trump administration’s immigration enforcement operations. Funding for the Department of Homeland Security is in limbo as Congress has just days to pass another bill or face a partial shutdown. Republicans and Democrats have hit an impasse over potential reforms…",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine announcement of a scheduled press briefing with no new policy developments, institutional actions, or checks-and-balances implications disclosed.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:53.690Z"
+    },
+    {
+      "id": "6f2599aef6bc",
+      "title": "Epstein made regular payments to Ohio State head of gynecology, records show",
+      "url": "https://thehill.com/homenews/state-watch/5731545-epstein-files-ohio-state-doj/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:33:53.000Z",
+      "description": "Convicted sex offender Jeffrey Epstein paid Ohio State University's head of gynecology quarterly payments of thousands of dollars, Department of Justice files show.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal justice story about historical misconduct by a convicted individual that does not directly implicate democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:53.045Z"
+    },
+    {
+      "id": "c2e23f4d3f11",
+      "title": "Senate Republican on Pretti, Good deaths: Democrats ‘got their martyrs’",
+      "url": "https://thehill.com/homenews/senate/5731477-ron-johnson-democrats-immigration-martyrs/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:10:03.000Z",
+      "description": "Republican Sen. Ron Johnson (Wis.) said Tuesday that Democrats “got their martyrs” when immigration authorities shot and killed two U.S. citizens in Minneapolis last month.  Alex Pretti and Renee Good were shot and killed by federal immigration authorities in separate incidents during operations in Minnesota last month. On Tuesday, Johnson said “Democrats are trying to…",
+      "keywords": [
+        "immigration",
+        "johnson",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a political commentary on a controversial incident rather than reporting on institutional action, policy change, or systemic erosion of democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T18:19:54.223Z"
+    },
+    {
+      "id": "5ebfee675270",
+      "title": "‘What’s happening in Minnesota is wrong’: Attorney turned US curler comments on ICE",
+      "url": "https://thehill.com/policy/international/5731491-team-usa-curling-ice-dhs-minnesota/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:05:55.000Z",
+      "description": "(NEXSTAR) — Several American Olympians have been pressed for comment on the political situation back home during their press briefings in Italy. When you get to the Olympic stage, athletes are paraded in front of reporters and given a voice. How they choose to use it is up to them. “It brings up mixed emotions…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "An Olympic athlete's personal commentary on ICE policy is opinion/commentary without institutional significance to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-10T18:19:59.205Z"
+    },
+    {
+      "id": "a35c6e1afc8b",
+      "title": "Navarro says expectations for monthly jobs numbers must be reduced ‘significantly,’ citing deportations",
+      "url": "https://thehill.com/business/5731440-peter-navarro-jobs-report-warning/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:01:19.000Z",
+      "description": "White House senior trade adviser Peter Navarro cautioned the public to lower expectations ahead of Wednesday’s monthly jobs report, citing the Trump administration’s deportations of immigrants working in the country illegally. “The jobs report’s going to come out tomorrow. We have to revise our expectations down significantly for what a monthly job number should look…",
+      "keywords": [
+        "deportation",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine policy statement about economic expectations related to immigration enforcement, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:58.341Z"
+    },
+    {
+      "id": "7a8604e593d4",
+      "title": "Darkness descends with Washington Post mass layoffs  ",
+      "url": "https://thehill.com/opinion/technology/5729864-democracy-dies-in-darkness/",
+      "source": "The Hill",
+      "published": "2026-02-10T17:00:00.000Z",
+      "description": "When a paper that brands itself as democracy’s lantern starts extinguishing bulbs, people are going to ask who is holding the switch.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 7,
+      "reason": "Mass layoffs at a major investigative outlet significantly impair press freedom and the media's capacity to serve as a check on government power, directly affecting democratic accountability.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-10T18:20:00.176Z"
+    },
+    {
+      "id": "9e7c101e624d",
+      "title": "GOP lawmaker blames Bovino for worsening situation in Minneapolis",
+      "url": "https://thehill.com/homenews/house/5731488-mccaul-bovino-escalated-minneapolis-situation/",
+      "source": "The Hill",
+      "published": "2026-02-10T16:57:20.000Z",
+      "description": "Rep. Mike McCaul (R-Texas) said he believes Greg Bovino, the former commissioner at large of the Border Patrol, escalated the situation in Minnesota. McCaul referenced widespread protests taking place in Minneapolis over federal immigration operations in the state before turning to Bovino. “All this created a perfect storm for our officers being thrown into this…",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A partisan criticism of a former official regarding immigration enforcement does not directly implicate democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:19:58.893Z"
+    },
+    {
+      "id": "93139ff206a2",
+      "title": "Speaker Johnson backs full-year DHS bill as Thune eyes stopgap",
+      "url": "https://thehill.com/homenews/house/5731476-speaker-johnson-dhs-funding-thune/",
+      "source": "The Hill",
+      "published": "2026-02-10T16:54:35.000Z",
+      "description": "Speaker Mike Johnson (R-La.) said that the House GOP leadership wants to see the Senate pass a full-year funding bill for the Department of Homeland Security rather than a short-term or even long-term continuing resolution (CR) to fund the department at current levels. His position is a contrast from that of Senate Majority Leader John Thune (R-S.D.),…",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine legislative positioning on budget appropriations with no indication of institutional threat or democratic erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:19:59.716Z"
+    },
+    {
+      "id": "b2df160aee4a",
+      "title": "GOP lawmakers threaten to rebel on Trump tariff vote",
+      "url": "https://thehill.com/homenews/house/5731405-trump-tariff-rule-vote-republicans/",
+      "source": "The Hill",
+      "published": "2026-02-10T16:39:54.000Z",
+      "description": "A procedural vote slated for Tuesday afternoon is in trouble as Republican leaders seek to reinstate a prohibition on calling snap votes to repeal President Trump’s tariffs. Two Republicans — Reps. Kevin Kiley (R-Calif.) and Victoria Spartz (R-Ind.) — told The Hill that they planned to vote against the rule out of opposition to reinstating…",
+      "keywords": [
+        "trump",
+        "SNAP"
+      ],
+      "significance": 3,
+      "reason": "This is routine legislative procedure reporting on internal GOP disagreements over tariff votes, involving no institutional erosion or systemic democratic concern.",
+      "categories": [],
+      "scoredAt": "2026-02-10T18:20:01.400Z"
+    },
+    {
+      "id": "ecb04c370acb",
+      "title": "GOP anxiety over Trump tariffs tests House Speaker Johnson in upcoming vote",
+      "url": "https://www.cnbc.com/2026/02/10/gop-tariffs-trump-house-johnson.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T17:30:02.000Z",
+      "description": "The House is slated to take a vote Tuesday that could block challenges to Trump's tariffs through the summer.",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While congressional tariff votes test legislative oversight of executive trade powers, this represents routine partisan disagreement over policy implementation rather than a structural threat to institutional checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T18:20:01.515Z"
+    },
+    {
+      "id": "3d5527aa7539",
+      "title": "EPA set to revoke 'endangerment finding' that underpins all climate regulation",
+      "url": "https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T15:41:33.000Z",
+      "description": "The endangerment finding gives the EPA authority to regulate greenhouse gases by deeming they pose a risk to public health and welfare.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Revoking the endangerment finding would represent a significant institutional action that undermines the EPA's independent regulatory authority and represents a major shift in how executive power interprets its delegated authority under the Clean Air Act.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-10T18:20:01.391Z"
+    },
+    {
+      "id": "0883f7dea436",
+      "title": "Trump Commerce Sec. Lutnick admits visiting Epstein island during family vacation",
+      "url": "https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T16:16:07.000Z",
+      "description": "Lutnick is facing bipartisan calls to resign following the release of records showing his relationship with Epstein was more extensive than previously known.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While raising serious ethical and vetting concerns about a Cabinet official, the incident involves past personal conduct rather than direct institutional action that undermines checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-10T18:20:01.339Z"
+    },
+    {
+      "id": "6cb2c0e01db3",
+      "title": "GOP Sen. Johnson slams Dems' 'obnoxious' judicial warrant demand as another shutdown looms",
+      "url": "https://www.cnbc.com/2026/02/10/congress-ice-dhs-johnson-government-shutdown.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T15:43:51.000Z",
+      "description": "The Wisconsin senator warned the Federal Emergency Management Agency and Transportation Security Administration would be defunded if DHS appropriations lapse.",
+      "keywords": [
+        "johnson",
+        "judicial"
+      ],
+      "significance": 3,
+      "reason": "This is routine political messaging about appropriations negotiations with no indication of institutional damage to democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-10T18:20:01.199Z"
     }
   ],
   "lastDigest": "2026-02-10T00:20:25.175Z",
-  "lastFetch": "2026-02-10T12:13:26.939Z"
+  "lastFetch": "2026-02-10T18:20:01.515Z"
 }
