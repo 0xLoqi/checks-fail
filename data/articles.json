@@ -5317,8 +5317,448 @@
         "corruption & self-dealing"
       ],
       "scoredAt": "2026-02-11T00:15:41.583Z"
+    },
+    {
+      "id": "558612b1549a",
+      "title": "The FBI seizure of Georgia 2020 election ballots relies on debunked claims",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi",
+      "source": "NPR Politics",
+      "published": "2026-02-11T00:37:59.000Z",
+      "description": "An FBI investigation of the 2020 election in Fulton County, Ga., was initiated by a lawyer who aided President Trump's unsuccessful efforts to overturn that election, an unsealed affidavit says.",
+      "keywords": [
+        "election",
+        "ballot",
+        "FBI",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Significant institutional action involving FBI seizure of election materials based on debunked claims raises serious concerns about potential misuse of federal investigative power and election integrity.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T06:21:44.341Z"
+    },
+    {
+      "id": "12b2e48cefe1",
+      "title": "How the SAVE America Act could make major changes to voting",
+      "url": "https://www.pbs.org/newshour/politics/how-the-save-america-act-would-make-major-changes-to-voting",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T03:09:36.000Z",
+      "description": "Ahead of the midterm elections, Republicans are again pushing for legislation that requires documentary proof of U.S. citizenship to vote.",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm"
+      ],
+      "significance": 6,
+      "reason": "Proposed voting requirement legislation is notable for its potential impact on election infrastructure and civil rights, but represents routine legislative debate rather than institutional action or unprecedented erosion.",
+      "categories": [
+        "election infrastructure",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T06:21:44.889Z"
+    },
+    {
+      "id": "4bf4ae154101",
+      "title": "DOJ fails to indict in case of Democrats' video about refusing illegal military orders",
+      "url": "https://www.nbcnews.com/politics/trump-administration/doj-fails-secure-indictment-democrats-involved-illegal-orders-video-rcna258385",
+      "source": "NBC News",
+      "published": "2026-02-11T01:09:21.000Z",
+      "description": "President Donald Trump had accused six lawmakers of \"seditious behavior\" after they urged members of the military to refuse unlawful orders in a video.",
+      "keywords": [
+        "DOJ",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The DOJ's decision not to indict reflects institutional independence in resisting political pressure, but the underlying accusation of sedition for lawful speech represents a notable threat to democratic norms that warrants monitoring.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T06:21:45.926Z"
+    },
+    {
+      "id": "9bdb8232eb06",
+      "title": "What's next in New Jersey's special election: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-jerseys-special-election-politics-desk-rcna258478",
+      "source": "NBC News",
+      "published": "2026-02-11T02:15:28.000Z",
+      "description": "This is the online version of From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail",
+      "keywords": [
+        "election",
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is routine political coverage of a state special election with no implications for federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:46.807Z"
+    },
+    {
+      "id": "334d4b9d540f",
+      "title": "Judge dismisses DOJ lawsuit seeking Michigan's voter roll data",
+      "url": "https://www.nbcnews.com/politics/elections/judge-dismisses-doj-lawsuit-seeking-michigan-voter-roll-data-rcna258465",
+      "source": "NBC News",
+      "published": "2026-02-11T01:48:12.000Z",
+      "description": "The ruling is the third time this year a court has tossed out a lawsuit by the Trump administration in its push to get details on state voter registration lists.",
+      "keywords": [
+        "voter",
+        "DOJ",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The dismissal represents a judicial check on executive overreach regarding election data, but the routine nature of court rejections and lack of broader institutional impact limits significance.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T06:21:47.229Z"
+    },
+    {
+      "id": "cd5c5815a440",
+      "title": "Grand jury declines criminal charges against 6 Democrats, sources say",
+      "url": "https://www.cbsnews.com/news/grand-jury-declines-charges-against-6-democrats/",
+      "source": "CBS News",
+      "published": "2026-02-11T03:40:25.000Z",
+      "description": "A federal grand jury refused to indict six Democrats who drew President Trump's ire by taping a video telling members of the military that they must reject \"illegal orders,\" three sources told CBS News.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A grand jury's decision to decline charges demonstrates the judicial system functioning as intended to reject politically-motivated prosecution, but the underlying attempt to prosecute political opponents for protected speech reflects concerning pressure on DOJ independence.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-11T06:21:47.229Z"
+    },
+    {
+      "id": "fc55cd78c661",
+      "title": "House Republicans break with Trump, blocking a bid to protect tariff authority",
+      "url": "https://www.cbsnews.com/news/house-vote-trump-tariffs-ban/",
+      "source": "CBS News",
+      "published": "2026-02-11T03:16:54.000Z",
+      "description": "GOP leaders launched an unsuccessful bid to reinstate a ban on resolutions that challenged the president's sweeping tariffs.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "House Republicans' procedural resistance to Trump's tariff authority demonstrates internal congressional checks functioning, but the attempt to block oversight mechanisms represents a notable challenge to normal legislative oversight without unprecedented institutional breakdown.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T06:21:47.370Z"
+    },
+    {
+      "id": "aabbbf12c7c9",
+      "title": "Don Lemon now represented by ex-prosecutor who resigned from DOJ",
+      "url": "https://www.cbsnews.com/news/don-lemon-lawyer-ex-prosecutor-who-resigned-from-justice-department/",
+      "source": "CBS News",
+      "published": "2026-02-11T01:58:06.000Z",
+      "description": "A high-profile former prosecutor who was part of a wave of resignations from the Justice Department's office in Minneapolis last month has a surprising new client: Former CNN anchor Don Lemon.",
+      "keywords": [
+        "DOJ",
+        "prosecutor",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a personnel/employment news item with no direct connection to institutional checks and balances, democratic processes, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:46.821Z"
+    },
+    {
+      "id": "5a49efd5d9f8",
+      "title": "Democrats grill ICE director in heated hearing: \"Do you think you're going to hell?\"",
+      "url": "https://www.cbsnews.com/video/democrats-grill-ice-director-in-heated-hearing-do-you-think-youre-going-to-hell/",
+      "source": "CBS News",
+      "published": "2026-02-11T01:12:00.000Z",
+      "description": "The leaders of three major immigration agencies defended the Trump administration's mass deportation campaign in testimony before lawmakers, marking their first appearance on Capitol Hill since the recent crackdown in Minneapolis. Nicole Sganga has details.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight hearing on executive immigration enforcement actions demonstrates checks and balances in operation, but lacks indication of institutional dysfunction or unprecedented democratic erosion.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T06:21:49.529Z"
+    },
+    {
+      "id": "e2cbbcc7feb2",
+      "title": "Ex-police chief told FBI Trump thanked him in 2006 for \"stopping\" Epstein",
+      "url": "https://www.cbsnews.com/video/ex-police-chief-told-fbi-trump-thanked-him-in-2006-for-stopping-epstein/",
+      "source": "CBS News",
+      "published": "2026-02-11T01:06:00.000Z",
+      "description": "A newly surfaced record from the files related to convicted sex offender Jeffrey Epstein alleges President Trump told a Palm Beach police chief in 2006, \"Thank goodness you're stopping him. Everyone has known he's been doing this.\" As Scott MacFarlane reports, that contradicts Mr. Trump's claims that he was unaware of Epstein's crimes.",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While potentially relevant to Trump's credibility on a personal matter, this historical anecdote from 2006 does not address institutional checks and balances, democratic governance structures, or threats to constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:48.599Z"
+    },
+    {
+      "id": "d95821b6deb7",
+      "title": "Slotkin slams Trump admin after grand jury refuses to indict Democrats over military video",
+      "url": "https://www.axios.com/2026/02/11/trump-democrats-illegal-orders-video-pirro",
+      "source": "Axios",
+      "published": "2026-02-11T05:40:30.000Z",
+      "description": "A group of House and Senate Democrats denounced the Trump administration as they announced a grand jury declined to indict them over a video they appeared in urging service members to reject unlawful orders.\nWhy it matters: Sen. Elissa Slotkin (D-Mich.) and Rep. Maggie Goodlander (D-N.H.) both accused President Trump of directing the Department of Justice against the lawmakers, all military veterans or former national security personnel, over the November video.\n\nTrump had accused the lawmakers ",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "FBI",
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the case demonstrates potential DOJ politicization concerns that warrant monitoring, the grand jury's decision to decline indictment actually shows the system functioning as a check against executive pressure, making this notable but not immediately critical.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T06:21:48.724Z"
+    },
+    {
+      "id": "cd01f0d36ca2",
+      "title": "Person detained in connection with Nancy Guthrie disappearance",
+      "url": "https://www.axios.com/2026/02/11/nancy-guthrie-disappearance-man-detained-updates",
+      "source": "Axios",
+      "published": "2026-02-11T05:04:14.000Z",
+      "description": "A person was detained for questioning in connection with the disappearance of Savannah Guthrie's mother, Nancy Guthrie, the Pima County Sheriff's Department said Tuesday evening.\nThe big picture: The \"Today\" show co-host's 84-year-old mother was reported missing from her home outside of Tucson, Arizona, more than a week ago.\n\nThe latest: The FBI and local law enforcement were searching a location in Rio Rico, some 60 miles south of Tucson and near the U.S. border with Mexico, in connection with ",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "ICE",
+        "detained",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a missing persons case involving a private citizen with no connection to democratic institutions, government checks and balances, or systemic governance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:50.246Z"
+    },
+    {
+      "id": "6d581323f2cc",
+      "title": "GOP revolt opens up lane for votes on challenging Trump tariffs",
+      "url": "https://www.axios.com/2026/02/11/tariffs-trump-gop-house-rebellion-rule-vote",
+      "source": "Axios",
+      "published": "2026-02-11T03:10:15.000Z",
+      "description": "A group of Republicans staged a rebellion on the House floor Tuesday night over leadership's move to block members from challenging President Trump's tariffs, defeating a measure that would have reinstated the ban. \nWhy it matters: With the election nine months away and economic issues looming large, some House Republicans are becoming increasingly uneasy about defending Trump's tariffs — and continuing to cede their constitutional authority over trade. \n\nThe rule failed with Reps. Thomas Massie",
+      "keywords": [
+        "election",
+        "voting",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents notable congressional assertion of constitutional authority over trade policy, but lacks the systemic or institutional significance of a major democratic check erosion or strengthening.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T06:21:48.448Z"
+    },
+    {
+      "id": "2286b7c95bdf",
+      "title": "Scoop: Dem House candidate Analilia Mejìa won't commit to voting for Hakeem Jeffries",
+      "url": "https://www.axios.com/2026/02/11/analilia-mejia-hakeem-jeffries-new-jersey",
+      "source": "Axios",
+      "published": "2026-02-11T02:50:36.000Z",
+      "description": "Analilia Mejia, the presumptive Democratic nominee in a special U.S. House election in New Jersey, declined to commit to voting for House Minority Leader Hakeem Jeffries (D-N.Y.) in an interview with Axios on Tuesday.\nWhy it matters: She is one of dozens of Democratic candidates who are non-committal on Jeffries' leadership, which could put the Democratic leader in a difficult spot if the left sweeps party primaries this year.\n\n\"I haven't even had an opportunity to talk to him,\" Mejia told Axios",
+      "keywords": [
+        "election",
+        "voting",
+        "ICE",
+        "speaker",
+        "trump",
+        "democracy",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party leadership dynamics during a campaign, with no impact on institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:51.286Z"
+    },
+    {
+      "id": "c7a92bf5fe00",
+      "title": "Inside Epstein's efforts to influence elites, from U.K. to Russia and beyond",
+      "url": "https://www.axios.com/2026/02/11/epstein-global-connections-uk-russia-europe-australia",
+      "source": "Axios",
+      "published": "2026-02-11T01:27:34.000Z",
+      "description": "The Justice Department's release of millions of documents related to convicted sex offender Jeffrey Epstein shows how he worked to cultivate a vast web of influence among the global elite before and well after his 2008 conviction.\nWhy it matters: Epstein's network of connections was \"extraordinary,\" Sarah Krissoff, a former U.S. attorney in the Southern District of New York, tells Axios. \"Power is one of those things that keeps expanding. He traveled in ultra-rich circles, and, from what I have ",
+      "keywords": [
+        "DOJ",
+        "prosecutor",
+        "ICE",
+        "intelligence",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the document release touches on DOJ transparency and judicial processes, the article primarily concerns historical criminal activity rather than current institutional erosion or systemic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-11T06:21:51.289Z"
+    },
+    {
+      "id": "2d08e616beed",
+      "title": "Democrats warn Trump on sanctuary cities as shutdown looms",
+      "url": "https://www.axios.com/2026/02/11/democrats-trump-sanctuary-cities-ice-funding",
+      "source": "Axios",
+      "published": "2026-02-11T01:11:12.000Z",
+      "description": "Senate Democrats are drawing a preemptive red line on ICE reforms, telling Axios any sanctuary city crackdown is dead on arrival.\n\n\"It's a nonstarter. The whole term is really misleading,\" Sen. Adam Schiff (D-Calif.) said, adding that changes to state and local rules would \"grant ICE even greater authority over local law enforcement.\"\n\nWhy it matters: Senate Minority Leader Chuck Schumer's (D-N.Y.) rank-and-file are in no mood to let Republicans turn a debate about ICE's use of force into a conv",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "This represents routine legislative positioning on immigration policy where the minority party signals opposition to a proposed executive/legislative initiative, which is normal congressional oversight but lacks evidence of institutional threat or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T06:21:51.568Z"
+    },
+    {
+      "id": "8043ea85e855",
+      "title": "The left rages at Democrats over \"surrender\" on ICE: \"Absolutely pathetic\"",
+      "url": "https://www.axios.com/2026/02/11/democrats-ice-funding-dhs-government-shutdown",
+      "source": "Axios",
+      "published": "2026-02-11T01:00:04.000Z",
+      "description": "House Democrats are facing increasingly frustrated demands from their left flank not to give the Trump administration another inch on ICE funding.\nWhy it matters: That could mean shutting down the Department of Homeland Security, which is set to run out of cash on Friday unless Congress agrees to a funding stopgap.\n\n\"Shut it down, shut it down, shut it down,\" Rep. Delia Ramirez (D-Ill.) told Axios, \"and maybe, maybe, they'll take us serious and understand that we are unwilling to negotiate some ",
+      "keywords": [
+        "election",
+        "ICE",
+        "white house",
+        "trump",
+        "authoritarian",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Reflects internal Democratic disagreement over ICE funding with potential government shutdown implications, but represents routine legislative negotiation rather than institutional erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T06:21:51.494Z"
+    },
+    {
+      "id": "24692db1bae4",
+      "title": "Trump lights a fresh fuse with Canada over new bridge",
+      "url": "https://www.axios.com/2026/02/10/trump-canada-threats-risk-us-interests-bridge",
+      "source": "Axios",
+      "published": "2026-02-10T23:01:24.000Z",
+      "description": "President Trump has warned he would stop the Gordie Howe International Bridge between Detroit and Ontario from opening unless Canada meets a list of U.S. demands unrelated to the bipartisan infrastructure project. \nWhy it matters: The threat could further inflame tensions with America's northern neighbors amid an ongoing trade war, sanctions and talk of making Canada the 51st state. \n\nDriving the news: Trump wrote on Truth Social Monday that he'd block the bridge unless the U.S. is \"fully compen",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a trade/foreign policy dispute that, while contentious, does not directly implicate democratic institutional checks and balances or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-02-11T06:21:51.226Z"
+    },
+    {
+      "id": "ab6ffa1b1f5e",
+      "title": "Grand jury fails to indict 6 Congressional Democrats, rebuking DOJ",
+      "url": "https://thehill.com/regulation/court-battles/5732714-democrats-lawmakers-illegal-orders-video-indictment-fails/",
+      "source": "The Hill",
+      "published": "2026-02-11T03:35:10.000Z",
+      "description": "A grand jury on Tuesday refused to indict a coalition of Democratic lawmakers over their participation in a controversial “illegal orders” video last fall. The failed federal indictment was pursued by the office of U.S. Attorney for the District of Columbia, Jeanine Pirro, as first reported by The New York Times. The lawmakers urged military…",
+      "keywords": [
+        "DOJ",
+        "ICE"
+      ],
+      "significance": 7,
+      "reason": "A grand jury's refusal to indict sitting members of Congress represents a significant institutional check against potential DOJ overreach and political prosecution, directly testing DOJ independence and congressional protections.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T06:21:53.836Z"
+    },
+    {
+      "id": "0fc93f645c38",
+      "title": "GOP rebels rebuke Trump tariffs, blocking ban on snap repeal votes",
+      "url": "https://thehill.com/homenews/house/5732632-gop-rebuke-trump-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-11T02:55:43.000Z",
+      "description": "A few GOP rebels on Tuesday issued a stunning rebuke of President Trump’s tariff regime, joining with Democrats to vote down legislation that would have banned members’ ability to call snap votes to repeal the tariffs. The House voted 214-217 to block the rule, which would have also teed up votes for unrelated legislation later this week. …",
+      "keywords": [
+        "trump",
+        "SNAP"
+      ],
+      "significance": 5,
+      "reason": "This represents normal legislative deliberation and intra-party disagreement on tariff policy, demonstrating that congressional oversight mechanisms are functioning, but lacks the systemic significance of institutional erosion or democratic checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T06:21:53.076Z"
+    },
+    {
+      "id": "37f96dde7a26",
+      "title": "Democracies’ anti-corruption efforts slipping: Survey",
+      "url": "https://thehill.com/polls/5732633-democracies-anti-corruption-efforts-slipping-survey/",
+      "source": "The Hill",
+      "published": "2026-02-11T01:04:48.000Z",
+      "description": "Most countries have failed to improve perceptions of public corruption within their borders over the last decade, a new survey found.  Transparency International, a Berlin-based anti-corruption advocacy group, ranked 182 countries from across the globe on the basis of perceived public sector corruption in their latest annual survey for 2025.  Only 31 of these countries…",
+      "keywords": [
+        "corruption"
+      ],
+      "significance": 3,
+      "reason": "This is a routine global survey report about international corruption trends with no specific U.S. institutional action or policy change affecting domestic checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T06:21:52.711Z"
+    },
+    {
+      "id": "8ac51710cbc0",
+      "title": "DC grand jury declines to indict Sens. Kelly, Slotkin for seditious conspiracy: MS Now",
+      "url": "https://www.cnbc.com/2026/02/11/kelly-slotkin-grand-jury-trump-hegseth.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-11T04:02:20.000Z",
+      "description": "President Donald Trump had blasted six Democrats in Congress for a video reminding American military service members of their right to refuse illegal orders.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A grand jury's declination to indict represents normal judicial process functioning as a check against political weaponization, but the underlying attempt to prosecute legislators for speech raises serious concerns about DOJ independence and political retribution.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T06:21:52.761Z"
     }
   ],
   "lastDigest": "2026-02-11T00:20:28.315Z",
-  "lastFetch": "2026-02-11T00:15:41.814Z"
+  "lastFetch": "2026-02-11T06:21:53.836Z"
 }
