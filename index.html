@@ -1113,6 +1113,35 @@
     color: var(--text-dim); text-align: center; opacity: 0.6;
   }
 
+  /* ─── INVESTIGATION LINKS ─── */
+  .inv-links {
+    display: flex; gap: 8px; justify-content: center;
+    margin-bottom: 2rem; flex-wrap: wrap;
+    animation: fadeUp 0.5s ease-out 0.18s both;
+  }
+  .inv-link {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 6px; padding: 0.6rem 1.25rem;
+    font-family: var(--mono); font-size: 0.65rem;
+    color: var(--text-bright); text-decoration: none;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    transition: all 0.2s; position: relative; overflow: hidden;
+  }
+  .inv-link::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 2px; background: var(--red); opacity: 0.6;
+  }
+  .inv-link:hover {
+    border-color: var(--red-border); background: var(--red-glow);
+    color: var(--text-white); text-decoration: none;
+  }
+  .inv-link .inv-badge {
+    font-size: 0.5rem; color: var(--red); font-weight: 700;
+    background: var(--red-glow); border: 1px solid var(--red-border);
+    padding: 1px 6px; border-radius: 3px;
+  }
+
   /* ─── INCIDENT LOG COLLAPSE ─── */
   .inc-overflow {
     position: relative; max-height: 0; overflow: hidden;
@@ -1291,6 +1320,11 @@
     <div class="hero-badge">Systems Degraded</div>
     <h1>checks.<span class="fail">fail</span></h1>
     <p class="hero-sub">12 systems monitored. 200+ sourced events. Every claim linked. Updated automatically.</p>
+  </div>
+
+  <!-- ═══ INVESTIGATIONS ═══ -->
+  <div class="inv-links">
+    <a href="epstein.html" class="inv-link"><span class="inv-badge">New</span> The Orbit &mdash; Epstein Files Mapped &rarr;</a>
   </div>
 
   <!-- ═══ INCIDENT LOG ═══ -->

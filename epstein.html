@@ -1,0 +1,1502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Orbit — Epstein Files Mapped | checks.fail</title>
+<meta name="description" content="Interactive force-directed visualization mapping connections, timeline, and evidence from the Epstein files. Every claim sourced. 3M+ pages distilled.">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://checks.fail/epstein.html">
+<meta property="og:title" content="The Orbit — Epstein Files Mapped">
+<meta property="og:description" content="3M pages. 6 redacted names. Every connection mapped and sourced. Interactive visualization from checks.fail.">
+<meta property="og:image" content="https://checks.fail/og.png">
+
+<link rel="canonical" href="https://checks.fail/epstein.html">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔗</text></svg>">
+
+<script type="importmap">{"imports":{"three":"https://esm.sh/three","three/addons/":"https://esm.sh/three/examples/jsm/"}}</script>
+
+<style>
+  @keyframes emergency-pulse { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.2; } }
+  @keyframes scroll-left { from { transform: translateX(0); } to { transform: translateX(var(--scroll-offset, -50%)); } }
+  @keyframes breathe { 0%,100% { opacity: 0.7; } 50% { opacity: 1; } }
+  @keyframes scanline {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100vh); }
+  }
+  @keyframes slideInRight {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes slideOutRight {
+    from { transform: translateX(0); opacity: 1; }
+    to { transform: translateX(100%); opacity: 0; }
+  }
+
+  :root {
+    --bg: #050505;
+    --surface: #0e0e0e;
+    --surface-2: #141414;
+    --surface-hover: #191919;
+    --border: #1e1e1e;
+    --border-bright: #2a2a2a;
+    --text: #b0b0b0;
+    --text-dim: #585858;
+    --text-bright: #dcdcdc;
+    --text-white: #f0f0f0;
+    --red: #dc2626;
+    --red-glow: rgba(220,38,38,0.08);
+    --red-border: rgba(220,38,38,0.2);
+    --red-dim: #991b1b;
+    --amber: #d97706;
+    --amber-glow: rgba(217,119,6,0.08);
+    --amber-border: rgba(217,119,6,0.2);
+    --green: #16a34a;
+    --green-glow: rgba(22,163,74,0.08);
+    --cyan: #06b6d4;
+    --cyan-glow: rgba(6,182,212,0.08);
+    --purple: #7c3aed;
+    --link: #6b8fd4;
+    --serif: Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    --sans: system-ui, -apple-system, 'Segoe UI', sans-serif;
+    --mono: 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+  }
+
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.65;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    background-image:
+      linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(220,38,38,0.045) 100%);
+    animation: emergency-pulse 8s ease-in-out infinite;
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  /* CRT scanline overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.03) 2px,
+      rgba(0,0,0,0.03) 4px
+    );
+    pointer-events: none;
+    z-index: 9998;
+  }
+
+  a { color: var(--link); text-decoration: none; transition: color 0.15s; }
+  a:hover { color: #93b0e8; text-decoration: underline; }
+
+  /* ─── HEADER / LIVEBAR ─── */
+  .livebar {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(5,5,5,0.95);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--red-border);
+  }
+  .livebar-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: flex; align-items: center;
+    padding: 7px 1.5rem; gap: 14px;
+  }
+  .back-link {
+    font-family: var(--mono); font-size: 0.6rem;
+    color: var(--text-dim); text-decoration: none;
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 3px 10px; border-radius: 4px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    transition: all 0.15s; flex-shrink: 0;
+    text-transform: uppercase; letter-spacing: 0.08em;
+  }
+  .back-link:hover { border-color: var(--border-bright); color: var(--text); text-decoration: none; }
+  .live-badge {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-family: var(--mono); font-size: 0.55rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--red); flex-shrink: 0;
+    background: var(--red-glow); border: 1px solid var(--red-border);
+    padding: 2px 8px; border-radius: 3px;
+  }
+  .live-badge::before {
+    content: ''; width: 5px; height: 5px;
+    background: var(--red); border-radius: 50%;
+    animation: blink 1.2s ease-in-out infinite;
+  }
+
+  /* ─── HERO ─── */
+  .hero {
+    text-align: center;
+    padding: 2.5rem 1.5rem 1.5rem;
+    animation: fadeUp 0.5s ease-out;
+  }
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-family: var(--mono); font-size: 0.62rem;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--red); background: var(--red-glow);
+    border: 1px solid var(--red-border);
+    padding: 5px 14px; border-radius: 100px; margin-bottom: 1rem;
+  }
+  .hero h1 {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700; color: var(--text-white);
+    letter-spacing: -0.03em; line-height: 1.1; margin-bottom: 0.4rem;
+  }
+  .hero h1 .red { color: var(--red); }
+  .hero-sub {
+    font-family: var(--mono); font-size: 0.7rem;
+    color: var(--text-dim); letter-spacing: 0.04em;
+  }
+
+  /* ─── SECTION LABELS ─── */
+  .label {
+    font-family: var(--mono); font-size: 0.62rem;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--text-dim); margin-bottom: 0.85rem;
+    display: flex; align-items: center; gap: 10px;
+    padding: 0 1.5rem;
+  }
+  .label::after {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+
+  /* ─── STATS MARQUEE ─── */
+  .stats-bar {
+    overflow: hidden;
+    margin: 0 1.5rem 1.5rem;
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 10px 0;
+    background: var(--surface);
+    mask-image: linear-gradient(90deg, transparent, #000 3%, #000 97%, transparent);
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 3%, #000 97%, transparent);
+    animation: fadeUp 0.5s ease-out 0.12s both;
+  }
+  .stats-track {
+    display: flex; white-space: nowrap;
+    animation: scroll-left 35s linear infinite;
+  }
+  .stats-track:hover { animation-play-state: paused; }
+  .stat-chip {
+    display: inline-flex; align-items: center; gap: 7px;
+    padding: 0 1.8rem;
+    font-family: var(--mono); font-size: 0.58rem;
+    letter-spacing: 0.04em; color: var(--text-dim);
+    text-transform: uppercase;
+    border-right: 1px solid var(--border);
+  }
+  .stat-val {
+    font-size: 0.9rem; font-weight: 800;
+    color: var(--red); letter-spacing: -0.02em;
+  }
+  .stat-val.av { color: var(--amber); }
+  .stat-val.gv { color: var(--green); }
+  .stat-val.cv { color: var(--cyan); }
+
+  /* ─── MAIN LAYOUT ─── */
+  .main-layout {
+    display: flex;
+    position: relative;
+  }
+  .graph-container {
+    flex: 1;
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+  }
+
+  /* ─── DETAIL PANEL ─── */
+  .detail-panel {
+    position: fixed;
+    top: 0; right: 0; bottom: 0;
+    width: 380px; max-width: 90vw;
+    background: #0a0a0a;
+    border-left: 1px solid var(--border-bright);
+    z-index: 200;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-bright) transparent;
+  }
+  .detail-panel.open { transform: translateX(0); }
+  .detail-panel::-webkit-scrollbar { width: 8px; }
+  .detail-panel::-webkit-scrollbar-track { background: transparent; }
+  .detail-panel::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 4px; }
+
+  .panel-close {
+    position: sticky; top: 0; z-index: 2;
+    display: flex; justify-content: flex-end;
+    padding: 0.85rem 0.85rem 0;
+    background: linear-gradient(#0a0a0a 60%, transparent);
+  }
+  .panel-close button {
+    background: var(--surface-2); border: 1px solid var(--border);
+    color: var(--text-dim); font-size: 1.3rem; cursor: pointer;
+    width: 34px; height: 34px; display: flex;
+    align-items: center; justify-content: center;
+    border-radius: 8px; transition: all 0.15s; line-height: 1;
+  }
+  .panel-close button:hover { color: var(--text-white); background: var(--surface-hover); border-color: var(--border-bright); }
+
+  .panel-header {
+    padding: 0.5rem 1.5rem 1.25rem;
+  }
+  .panel-status {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-family: var(--mono); font-size: 0.55rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    padding: 3px 10px; border-radius: 3px; margin-bottom: 0.6rem;
+  }
+  .panel-status.convicted { color: var(--red); background: var(--red-glow); border: 1px solid var(--red-border); }
+  .panel-status.accused { color: var(--amber); background: var(--amber-glow); border: 1px solid var(--amber-border); }
+  .panel-status.named { color: var(--text-bright); background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); }
+  .panel-status.redacted { color: var(--green); background: var(--green-glow); border: 1px solid rgba(22,163,74,0.2); }
+  .panel-status.victim { color: var(--purple); background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.2); }
+  .panel-status.institution { color: var(--cyan); background: var(--cyan-glow); border: 1px solid rgba(6,182,212,0.2); }
+  .panel-status.center { color: var(--red); background: var(--red-glow); border: 1px solid var(--red-border); }
+  .panel-status::before {
+    content: ''; width: 5px; height: 5px;
+    border-radius: 50%;
+  }
+  .panel-status.convicted::before { background: var(--red); }
+  .panel-status.accused::before { background: var(--amber); }
+  .panel-status.named::before { background: var(--text-bright); }
+  .panel-status.redacted::before { background: var(--green); }
+  .panel-status.victim::before { background: var(--purple); }
+  .panel-status.institution::before { background: var(--cyan); }
+  .panel-status.center::before { background: var(--red); animation: blink 1.2s ease-in-out infinite; }
+
+  .panel-name {
+    font-family: var(--serif); font-size: 1.4rem;
+    font-weight: 700; color: var(--text-white);
+    letter-spacing: -0.02em; margin-bottom: 0.25rem; line-height: 1.2;
+  }
+  .panel-role {
+    font-family: var(--mono); font-size: 0.6rem;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--text-dim); margin-bottom: 0.75rem;
+  }
+  .panel-summary {
+    font-size: 0.82rem; color: var(--text); line-height: 1.65;
+    border-left: 2px solid var(--border); padding-left: 0.75rem;
+  }
+  .panel-summary strong { color: var(--text-bright); }
+
+  .panel-section {
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+  .panel-section-label {
+    font-family: var(--mono); font-size: 0.58rem;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--text-dim); margin-bottom: 0.6rem;
+  }
+  .evidence-item {
+    font-size: 0.78rem; color: var(--text-dim);
+    line-height: 1.55; padding: 0.35rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .evidence-item:last-child { border-bottom: none; }
+  .evidence-item strong { color: var(--text); }
+  .evidence-item a { font-size: 0.7rem; }
+
+  .panel-connections {
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+  .conn-item {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-family: var(--mono); font-size: 0.65rem;
+    color: var(--text-dim); padding: 0.3rem 0;
+  }
+  .conn-dot {
+    width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0;
+  }
+
+  .panel-sources {
+    padding: 0.75rem 1.5rem;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono); font-size: 0.55rem;
+  }
+  .panel-sources a {
+    display: block; padding: 0.2rem 0;
+    color: var(--link); font-size: 0.6rem;
+  }
+
+  .panel-foot {
+    padding: 0.75rem 1.5rem;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono); font-size: 0.5rem;
+    color: var(--text-dim); opacity: 0.6;
+  }
+
+  /* ─── LEGEND ─── */
+  .legend-toggle {
+    position: fixed; bottom: 1.5rem; left: 1.5rem; z-index: 150;
+    background: var(--surface); border: 1px solid var(--border);
+    color: var(--text-dim); font-family: var(--mono); font-size: 0.6rem;
+    padding: 6px 14px; border-radius: 6px; cursor: pointer;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    transition: all 0.15s;
+  }
+  .legend-toggle:hover { border-color: var(--border-bright); color: var(--text); }
+
+  .legend-panel {
+    position: fixed; bottom: 3.5rem; left: 1.5rem; z-index: 150;
+    background: #0a0a0a; border: 1px solid var(--border-bright);
+    border-radius: 8px; padding: 1.25rem;
+    width: 260px;
+    opacity: 0; visibility: hidden;
+    transform: translateY(10px);
+    transition: all 0.2s ease;
+  }
+  .legend-panel.open { opacity: 1; visibility: visible; transform: translateY(0); }
+
+  .legend-title {
+    font-family: var(--mono); font-size: 0.6rem;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--text-dim); margin-bottom: 0.75rem;
+  }
+  .legend-group { margin-bottom: 0.85rem; }
+  .legend-group:last-child { margin-bottom: 0; }
+  .legend-group-title {
+    font-family: var(--mono); font-size: 0.5rem;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--text-dim); margin-bottom: 0.4rem;
+    opacity: 0.7;
+  }
+  .legend-item {
+    display: flex; align-items: center; gap: 8px;
+    padding: 0.2rem 0;
+  }
+  .legend-dot {
+    width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+  }
+  .legend-line {
+    width: 24px; height: 0; flex-shrink: 0;
+    border-top: 2px solid var(--text-dim);
+  }
+  .legend-line.dashed { border-top-style: dashed; }
+  .legend-text {
+    font-family: var(--mono); font-size: 0.55rem;
+    color: var(--text-dim); letter-spacing: 0.02em;
+  }
+
+  /* ─── TIMELINE ─── */
+  .timeline-section {
+    padding: 0 1.5rem 2rem;
+  }
+  .htl {
+    display: flex; gap: 12px;
+    overflow-x: auto; padding-bottom: 10px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    counter-reset: timeline;
+    position: relative;
+  }
+  .htl { scrollbar-width: auto; scrollbar-color: var(--border-bright) transparent; }
+  .htl::-webkit-scrollbar { height: 10px; }
+  .htl::-webkit-scrollbar-track { background: var(--surface); border-radius: 5px; }
+  .htl::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 5px; }
+  .htl::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
+  .htl-hint {
+    font-family: var(--mono); font-size: 0.55rem;
+    color: var(--text); margin-bottom: 0.5rem;
+    display: flex; align-items: center;
+    justify-content: flex-end; gap: 8px;
+    padding: 0 1.5rem;
+    opacity: 1;
+  }
+  .htl-hint::before {
+    content: ''; flex: 1; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--amber) 30%, var(--red));
+    border-radius: 1px;
+  }
+
+  .htl-card {
+    flex: 0 0 200px; scroll-snap-align: start;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 6px; padding: 1rem; position: relative;
+    overflow: hidden; transition: border-color 0.2s;
+    counter-increment: timeline;
+  }
+  .htl-card:hover { border-color: var(--border-bright); }
+  .htl-card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px; border-radius: 6px 6px 0 0;
+  }
+  .htl-card::after {
+    content: counter(timeline); position: absolute;
+    top: 10px; right: 10px;
+    font-family: var(--mono); font-size: 0.6rem; font-weight: 800;
+    color: var(--text-dim); opacity: 0.2;
+    width: 18px; height: 18px;
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 50%; border: 1px solid var(--border);
+  }
+  .htl-card.crit::before { background: var(--red); }
+  .htl-card.warn::before { background: var(--amber); }
+  .htl-card.good::before { background: var(--green); }
+
+  .htl-date {
+    font-family: var(--mono); font-size: 0.6rem;
+    color: var(--text-dim); margin-bottom: 0.35rem;
+  }
+  .htl-title {
+    font-size: 0.82rem; color: var(--text-white);
+    font-weight: 600; margin-bottom: 0.35rem; line-height: 1.35;
+  }
+  .htl-desc {
+    font-size: 0.72rem; color: var(--text-dim); line-height: 1.5;
+  }
+
+  /* ─── FOOTER ─── */
+  .footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 1.5rem;
+    text-align: center;
+    max-width: 900px; margin: 0 auto;
+  }
+  .footer-tag {
+    font-family: var(--serif); font-style: italic;
+    font-size: 0.88rem; color: var(--text-dim); margin-bottom: 0.4rem;
+  }
+  .footer p { font-size: 0.72rem; color: var(--text-dim); margin-bottom: 0.3rem; opacity: 0.7; }
+  .footer .sig {
+    font-family: var(--mono); font-size: 0.55rem;
+    margin-top: 0.85rem; opacity: 0.35;
+  }
+
+  /* ─── RESPONSIVE ─── */
+  @media (max-width: 768px) {
+    .hero h1 { font-size: 2rem; }
+    .detail-panel { width: 100%; max-width: 100%; }
+    .legend-panel { width: 220px; }
+    .graph-container { height: 450px; }
+  }
+  @media (max-width: 600px) {
+    .livebar-inner { padding: 5px 1rem; gap: 8px; }
+    .stats-bar { margin: 0 1rem 1rem; }
+    .label { padding: 0 1rem; }
+    .timeline-section { padding: 0 1rem 2rem; }
+    .htl-hint { padding: 0 1rem; }
+  }
+  @media (max-width: 420px) {
+    .legend-toggle { bottom: 1rem; left: 1rem; }
+    .legend-panel { bottom: 3rem; left: 1rem; width: 200px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══ HEADER ═══ -->
+<div class="livebar">
+  <div class="livebar-inner">
+    <a href="index.html" class="back-link">&larr; checks.fail</a>
+    <div class="live-badge">Mapped</div>
+  </div>
+</div>
+
+<!-- ═══ HERO ═══ -->
+<div class="hero">
+  <div class="hero-badge">3,000,000+ pages released</div>
+  <h1>THE <span class="red">ORBIT</span></h1>
+  <p class="hero-sub">Epstein Files &mdash; Every connection mapped and sourced</p>
+</div>
+
+<!-- ═══ STATS MARQUEE ═══ -->
+<div class="stats-bar">
+  <div class="stats-track" id="statsTrack">
+    <span class="stat-chip"><span class="stat-val">3M+</span> pages released</span>
+    <span class="stat-chip"><span class="stat-val">6M+</span> total in DOJ possession</span>
+    <span class="stat-chip"><span class="stat-val">427-1</span> House vote</span>
+    <span class="stat-chip"><span class="stat-val av">$440M</span> bank settlements</span>
+    <span class="stat-chip"><span class="stat-val">20yr</span> Maxwell sentence</span>
+    <span class="stat-chip"><span class="stat-val gv">6</span> redacted names</span>
+    <span class="stat-chip"><span class="stat-val">0</span> new indictments</span>
+    <span class="stat-chip"><span class="stat-val cv">9,500</span> docs pulled for re-redaction</span>
+    <span class="stat-chip"><span class="stat-val">43/47</span> victim names exposed</span>
+    <span class="stat-chip"><span class="stat-val av">1</span> Commerce Secretary caught lying</span>
+    <!-- Duplicate for seamless loop -->
+    <span class="stat-chip"><span class="stat-val">3M+</span> pages released</span>
+    <span class="stat-chip"><span class="stat-val">6M+</span> total in DOJ possession</span>
+    <span class="stat-chip"><span class="stat-val">427-1</span> House vote</span>
+    <span class="stat-chip"><span class="stat-val av">$440M</span> bank settlements</span>
+    <span class="stat-chip"><span class="stat-val">20yr</span> Maxwell sentence</span>
+    <span class="stat-chip"><span class="stat-val gv">6</span> redacted names</span>
+    <span class="stat-chip"><span class="stat-val">0</span> new indictments</span>
+    <span class="stat-chip"><span class="stat-val cv">9,500</span> docs pulled for re-redaction</span>
+    <span class="stat-chip"><span class="stat-val">43/47</span> victim names exposed</span>
+    <span class="stat-chip"><span class="stat-val av">1</span> Commerce Secretary caught lying</span>
+  </div>
+</div>
+
+<!-- ═══ GRAPH ═══ -->
+<div class="label">Network Map</div>
+<div class="main-layout">
+  <div class="graph-container" id="graphContainer"></div>
+</div>
+
+<!-- ═══ DETAIL PANEL ═══ -->
+<div class="detail-panel" id="detailPanel">
+  <div class="panel-close"><button onclick="closePanel()" aria-label="Close">&times;</button></div>
+  <div class="panel-header" id="panelHeader"></div>
+  <div id="panelBody"></div>
+</div>
+
+<!-- ═══ LEGEND ─── -->
+<button class="legend-toggle" id="legendToggle" onclick="toggleLegend()">Legend</button>
+<div class="legend-panel" id="legendPanel">
+  <div class="legend-title">Map Legend</div>
+  <div class="legend-group">
+    <div class="legend-group-title">Node Status</div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--red);box-shadow:0 0 8px rgba(220,38,38,0.5)"></div><span class="legend-text">Convicted</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--amber);box-shadow:0 0 8px rgba(217,119,6,0.5)"></div><span class="legend-text">Accused in depositions</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--text-bright)"></div><span class="legend-text">Named &mdash; no accusation</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--green);box-shadow:0 0 8px rgba(22,163,74,0.5)"></div><span class="legend-text">Redacted names (6)</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--purple);box-shadow:0 0 8px rgba(124,58,237,0.5)"></div><span class="legend-text">Victim / survivor</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:var(--cyan);opacity:0.6"></div><span class="legend-text">Institution</span></div>
+  </div>
+  <div class="legend-group">
+    <div class="legend-group-title">Connection Type</div>
+    <div class="legend-item"><div class="legend-line" style="border-color:var(--text-dim)"></div><span class="legend-text">Documented relationship</span></div>
+    <div class="legend-item"><div class="legend-line dashed" style="border-color:var(--amber)"></div><span class="legend-text">Alleged / unverified</span></div>
+  </div>
+</div>
+
+<!-- ═══ TIMELINE ═══ -->
+<div class="timeline-section">
+  <div class="label" style="padding:0">Timeline</div>
+  <div class="htl-hint">Scroll &rarr;</div>
+  <div class="htl" id="timeline">
+    <div class="htl-card crit">
+      <div class="htl-date">Sep 2007</div>
+      <div class="htl-title">Non-prosecution agreement</div>
+      <div class="htl-desc">Acosta signs NPA one day before 60-count indictment. Epstein pleads to state charges. 13 months. <a href="https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta" target="_blank" rel="noopener">PBS</a></div>
+    </div>
+    <div class="htl-card crit">
+      <div class="htl-date">Aug 2019</div>
+      <div class="htl-title">Epstein found dead</div>
+      <div class="htl-desc">MCC cell. Medical examiner rules suicide. DOJ IG finds "numerous and serious failures" by staff. <a href="https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey" target="_blank" rel="noopener">DOJ IG</a></div>
+    </div>
+    <div class="htl-card crit">
+      <div class="htl-date">Dec 2021</div>
+      <div class="htl-title">Maxwell convicted</div>
+      <div class="htl-desc">Found guilty of sex trafficking and conspiracy. Sentenced to 20 years. <a href="https://www.pbs.org/newshour/show/epstein-files-fallout-grows-as-ghislaine-maxwell-pleads-fifth-before-congress" target="_blank" rel="noopener">PBS</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Apr 2025</div>
+      <div class="htl-title">Virginia Giuffre dies</div>
+      <div class="htl-desc">Most prominent survivor. Age 41. Western Australia. Father rejects suicide finding. <a href="https://www.npr.org/2025/04/26/g-s1-62856/virginia-giuffre-has-died" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Jul 2025</div>
+      <div class="htl-title">DOJ: no client list exists</div>
+      <div class="htl-desc">Contradicts AG Bondi's Feb 2025 Fox News claim that a list was "on her desk." <a href="https://www.axios.com/2025/07/07/jeffrey-epstein-suicide-client-list-trump-administration" target="_blank" rel="noopener">Axios</a></div>
+    </div>
+    <div class="htl-card good">
+      <div class="htl-date">Nov 2025</div>
+      <div class="htl-title">House votes 427-1</div>
+      <div class="htl-desc">Epstein Files Transparency Act passes. Sole no vote: Rep. Clay Higgins (R-LA). Trump signs same day. <a href="https://www.congress.gov/bill/119th-congress/house-bill/4405" target="_blank" rel="noopener">Congress.gov</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Nov 2025</div>
+      <div class="htl-title">Selective investigation ordered</div>
+      <div class="htl-desc">Trump directs Bondi to investigate Clinton, Summers, Hoffman. Own connections not mentioned. <a href="https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes" target="_blank" rel="noopener">NPR</a></div>
+    </div>
+    <div class="htl-card crit">
+      <div class="htl-date">Dec 2025</div>
+      <div class="htl-title">First batch released</div>
+      <div class="htl-desc">Heavily redacted. Widely criticized as insufficient. DOJ misses 30-day deadline. <a href="https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files" target="_blank" rel="noopener">DOJ</a></div>
+    </div>
+    <div class="htl-card crit">
+      <div class="htl-date">Jan 30, 2026</div>
+      <div class="htl-title">3M pages released</div>
+      <div class="htl-desc">180K images, 2K videos. Faulty redactions expose 43 of 47 victim names. 9,500 docs pulled. <a href="https://www.cnn.com/politics/live-news/epstein-files-release-doj-01-30-26" target="_blank" rel="noopener">CNN</a></div>
+    </div>
+    <div class="htl-card good">
+      <div class="htl-date">Feb 6, 2026</div>
+      <div class="htl-title">Congressional review begins</div>
+      <div class="htl-desc">DOJ invites 535 members to secure reading room. Handwritten notes only. <a href="https://thehill.com/homenews/house/5730626-massie-khanna-unredacted-epstein-files/" target="_blank" rel="noopener">The Hill</a></div>
+    </div>
+    <div class="htl-card good">
+      <div class="htl-date">Feb 9, 2026</div>
+      <div class="htl-title">Massie &amp; Khanna review</div>
+      <div class="htl-desc">Two hours reviewing unredacted files. Identify six "likely incriminated" redacted names. <a href="https://www.axios.com/2026/02/09/epstein-files-unredacted-doj-massie-khanna" target="_blank" rel="noopener">Axios</a></div>
+    </div>
+    <div class="htl-card good">
+      <div class="htl-date">Feb 10, 2026</div>
+      <div class="htl-title">Khanna reads 6 names on floor</div>
+      <div class="htl-desc">Invokes Speech and Debate Clause. Names include Wexner (FBI co-conspirator label) and bin Sulayem. <a href="https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/" target="_blank" rel="noopener">The Hill</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Feb 9, 2026</div>
+      <div class="htl-title">Maxwell pleads Fifth</div>
+      <div class="htl-desc">House Oversight. Invokes 5th 12+ times. Offers to testify fully in exchange for executive clemency. <a href="https://www.pbs.org/newshour/show/epstein-files-fallout-grows-as-ghislaine-maxwell-pleads-fifth-before-congress" target="_blank" rel="noopener">PBS</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Feb 2026</div>
+      <div class="htl-title">Lutnick exposed</div>
+      <div class="htl-desc">Files show contact through 2018, island invitation, co-investments. He claimed ties ended in 2005. <a href="https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html" target="_blank" rel="noopener">CNBC</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">Feb 26-27</div>
+      <div class="htl-title">Clintons to testify</div>
+      <div class="htl-desc">Depositions scheduled after facing contempt of Congress. Hillary challenges for public hearing. <a href="https://www.nbcnews.com/politics/congress/clintons-agree-testify-house-epstein-probe-ahead-contempt-vote-rcna257143" target="_blank" rel="noopener">NBC</a></div>
+    </div>
+    <div class="htl-card warn">
+      <div class="htl-date">May 11, 2026</div>
+      <div class="htl-title">Bank of America trial</div>
+      <div class="htl-desc">Judge Rakoff rules victims may pursue claims BofA knowingly benefited from trafficking. <a href="https://www.usnews.com/news/top-news/articles/2026-01-29/judge-rules-bank-of-america-must-face-lawsuit-over-jeffrey-epstein-ties" target="_blank" rel="noopener">U.S. News</a></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ FOOTER ═══ -->
+<div class="footer">
+  <p class="footer-tag">Every claim sourced. Every connection documented.</p>
+  <p>Named in the files &#8800; accused of wrongdoing. Connections show documented relationships, not guilt.</p>
+  <p>Data sourced from DOJ releases, court records, congressional testimony, and published investigative journalism.</p>
+  <p class="sig">checks.fail &mdash; The Orbit &mdash; Feb 2026</p>
+</div>
+
+<script type="module">
+import ForceGraph3D from 'https://esm.sh/3d-force-graph';
+import * as THREE from 'three';
+
+// ══════════════════════════════════════
+// DATA MODEL
+// ══════════════════════════════════════
+
+// Wikipedia thumbnail API helper — 96px for proper scaling on 128px canvas
+var WIKI_THUMB = 'https://en.wikipedia.org/w/api.php?action=query&titles=TITLE&prop=pageimages&format=json&pithumbsize=96&origin=*';
+function wikiUrl(title) { return WIKI_THUMB.replace('TITLE', encodeURIComponent(title)); }
+
+var PEOPLE = [
+  {
+    id: 'epstein', name: 'Jeffrey Epstein', role: 'Convicted sex offender',
+    status: 'center', size: 32,
+    wiki: 'Jeffrey_Epstein',
+    details: 'Found dead in his cell at the Metropolitan Correctional Center on August 10, 2019. Medical examiner ruled suicide. DOJ IG found "numerous and serious failures" by prison staff. The DOJ and FBI reiterated in July 2025 that his death was a suicide.',
+    evidence: [
+      'Convicted of state prostitution charges in 2008 after NPA voided 60-count federal indictment',
+      'DOJ possesses 6M+ documents related to his crimes',
+      '3M+ pages released January 30, 2026',
+      'No "client list" exists per DOJ (July 2025)'
+    ],
+    sources: [
+      {label: 'DOJ IG Report', url: 'https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey'},
+      {label: 'CBS News - Death video logs', url: 'https://www.cbsnews.com/news/epstein-files-jail-cell-death-video-logs/'}
+    ]
+  },
+  {
+    id: 'maxwell', name: 'Ghislaine Maxwell', role: 'Convicted co-conspirator',
+    status: 'convicted', size: 24,
+    wiki: 'Ghislaine_Maxwell',
+    details: 'Convicted in 2021 of sex trafficking and conspiracy. Currently serving 20-year sentence. Appeared before House Oversight Committee on Feb 9, 2026 and invoked the Fifth Amendment 12+ times. Offered to testify fully in exchange for executive clemency.',
+    evidence: [
+      'Convicted December 2021 of sex trafficking and conspiracy',
+      'Serving 20-year federal sentence',
+      'Pleaded Fifth 12+ times before House Oversight (Feb 9, 2026)',
+      'Offered full testimony in exchange for Trump clemency',
+      'Supreme Court declined appeal (Oct 2025)',
+      'Filed habeas corpus petition (Dec 2025)'
+    ],
+    sources: [
+      {label: 'PBS NewsHour', url: 'https://www.pbs.org/newshour/show/epstein-files-fallout-grows-as-ghislaine-maxwell-pleads-fifth-before-congress'},
+      {label: 'NBC News', url: 'https://www.nbcnews.com/politics/justice-department/ghislaine-maxwell-pleads-fifth-says-speak-fully-honestly-trump-grants-rcna258227'}
+    ]
+  },
+  {
+    id: 'giuffre', name: 'Virginia Giuffre', role: 'Primary survivor / deceased',
+    status: 'victim', size: 20,
+    wiki: 'Virginia_Giuffre',
+    details: 'The most prominent Epstein survivor. Her testimony formed the backbone of public understanding of Epstein\'s operation. Died by suicide on April 25, 2025 at age 41 in Western Australia. Her father publicly rejected the suicide finding.',
+    evidence: [
+      'Alleged in depositions she was paid $15,000 to have sex with Prince Andrew',
+      'Her testimony was central to the Maxwell prosecution',
+      'Died April 25, 2025 at age 41',
+      'Posthumous memoir "Nobody\'s Girl" published October 2025'
+    ],
+    sources: [
+      {label: 'NPR - Obituary', url: 'https://www.npr.org/2025/04/26/g-s1-62856/virginia-giuffre-has-died'},
+      {label: 'CNN - Memoir', url: 'https://www.cnn.com/2025/10/20/uk/virginia-giuffre-memoir-epstein-prince-andrew-intl'}
+    ]
+  },
+  {
+    id: 'trump', name: 'Donald Trump', role: '47th President',
+    status: 'named', size: 22,
+    wiki: 'Donald_Trump',
+    details: 'Mentioned frequently in communications and emails. Photos with Epstein from 1990s-2000s. One accuser\'s allegations were recanted within the files themselves. The DOJ files do not accuse Trump of criminal conduct. Initially resisted releasing files, reversed when discharge petition succeeded.',
+    evidence: [
+      'Frequent mentions in communications and emails',
+      'Photos together from 1990s-2000s era',
+      'Sarah Ransome allegation recanted in follow-up email within the files',
+      'Not accused of criminal conduct in DOJ files',
+      'Directed AG Bondi to investigate political opponents\' Epstein ties (Nov 2025)',
+      'Signed Epstein Files Transparency Act (Nov 2025)'
+    ],
+    sources: [
+      {label: 'Slate', url: 'https://slate.com/news-and-politics/2026/02/epstein-files-trump-bill-gates-elon-musk-bill-clinton.html'},
+      {label: 'CNN', url: 'https://www.cnn.com/2025/11/17/politics/trump-epstein-files-reluctant-reversal'}
+    ]
+  },
+  {
+    id: 'clinton', name: 'Bill Clinton', role: '42nd President',
+    status: 'named', size: 21,
+    wiki: 'Bill_Clinton',
+    details: 'Communications between Maxwell\'s team and Clinton staffers from 2001-2004. Flight records show 27 flights on Epstein\'s plane including a 2002 Africa trip. Epstein invoked the Fifth when asked about Clinton. Clinton\'s team says files prove he did nothing wrong.',
+    evidence: [
+      '27 flights on Epstein\'s plane documented',
+      '2002 Africa trip with Kevin Spacey and Chris Tucker',
+      'Communications with Maxwell team 2001-2004',
+      'Epstein invoked Fifth Amendment when asked about Clinton (2016)',
+      'Facing depositions Feb 26-27 after contempt vote',
+      'Not accused of criminal conduct in DOJ files'
+    ],
+    sources: [
+      {label: 'NBC News', url: 'https://www.nbcnews.com/politics/congress/clintons-agree-testify-house-epstein-probe-ahead-contempt-vote-rcna257143'},
+      {label: 'Wikipedia - Lolita Express', url: 'https://en.wikipedia.org/wiki/Lolita_Express'}
+    ]
+  },
+  {
+    id: 'gates', name: 'Bill Gates', role: 'Microsoft co-founder',
+    status: 'named', size: 19,
+    wiki: 'Bill_Gates',
+    details: 'Several hundred references in the files. Emails detailing meetings, meals, and phone calls. Two unverified emails Epstein sent to himself contain allegations about Gates. Gates denied the claims and called meeting Epstein "a serious error in judgment."',
+    evidence: [
+      'Several hundred references in DOJ files',
+      'Emails detail meetings, meals, and phone calls',
+      'Two unverified self-sent emails by Epstein contain allegations',
+      'Gates denies wrongdoing, says he never visited the island',
+      'Called meeting Epstein "a serious error in judgment"'
+    ],
+    sources: [
+      {label: 'CNN', url: 'https://www.cnn.com/2026/02/05/politics/kfile-gates-scrutiny-justice-department-documents'},
+      {label: 'ABC News', url: 'https://abcnews.com/US/foolish-bill-gates-denies-wrongdoing-after-latest-release/story?id=129845144'}
+    ]
+  },
+  {
+    id: 'musk', name: 'Elon Musk', role: 'Tesla/SpaceX CEO',
+    status: 'named', size: 19,
+    wiki: 'Elon_Musk',
+    details: 'At least 16 emails between Musk and Epstein from 2012-2013. In one, Musk asked about the "wildest party" on Epstein\'s island. Plans for visits were made but Epstein cancelled. Musk denies ever visiting island or flying on Epstein\'s plane.',
+    evidence: [
+      '16+ emails with Epstein (2012-2013)',
+      'Asked Epstein about "wildest party" on island',
+      'Visit plans made but Epstein cancelled (not Musk)',
+      'Claims he "rejected" invitation are misleading per fact-checkers',
+      'Denies visiting island or flying on Epstein\'s plane',
+      'Not accused of wrongdoing in documents'
+    ],
+    sources: [
+      {label: 'NBC News', url: 'https://www.nbcnews.com/tech/elon-musk/expressed-interest-visiting-jeffrey-epstein-island-emails-show-doj-rcna256784'},
+      {label: 'Zeteo', url: 'https://zeteo.com/p/elon-musk-jeffrey-epstein-files-island'},
+      {label: 'Yahoo News - Fact check', url: 'https://www.yahoo.com/news/articles/fact-check-elon-musks-emails-040344657.html'}
+    ]
+  },
+  {
+    id: 'andrew', name: 'Prince Andrew', role: 'Duke of York',
+    status: 'accused', size: 20,
+    wiki: 'Prince_Andrew,_Duke_of_York',
+    details: 'Virginia Giuffre alleged in depositions she was paid $15,000 to have sex with Andrew. Andrew initially denied meeting her, later acknowledged it. Settled Giuffre\'s civil case in February 2022.',
+    evidence: [
+      'Accused by Virginia Giuffre in depositions',
+      'Giuffre alleged she was paid $15,000',
+      'Initially denied meeting Giuffre, later acknowledged it',
+      'Settled civil case February 2022'
+    ],
+    sources: [
+      {label: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Virginia_Giuffre'}
+    ]
+  },
+  {
+    id: 'dershowitz', name: 'Alan Dershowitz', role: 'Attorney / Professor',
+    status: 'accused', size: 17,
+    wiki: 'Alan_Dershowitz',
+    details: 'Accused by Virginia Giuffre in depositions. Denied all allegations. The two eventually reached a settlement.',
+    evidence: [
+      'Accused by Virginia Giuffre in depositions',
+      'Denied all allegations',
+      'Reached settlement with Giuffre'
+    ],
+    sources: []
+  },
+  {
+    id: 'lutnick', name: 'Howard Lutnick', role: 'Commerce Secretary',
+    status: 'named', size: 20,
+    wiki: 'Howard_Lutnick',
+    details: 'Told a podcast he cut ties with Epstein after 2005. Files show contact as recently as 2018. Bipartisan calls for his resignation followed. White House expressed continued confidence.',
+    evidence: [
+      'Claimed ties ended after initial encounter in 2005',
+      'Files show contact continued through at least 2018',
+      'Epstein invited Lutnick to his private island',
+      'Lutnick acknowledges visiting island (calls it "family vacation lunch stop")',
+      'Communicated about construction near their homes',
+      'Co-invested in AdFin Solutions',
+      'Epstein\'s lawyer obtained resume of Lutnick\'s nanny',
+      'Epstein donated $50K to event honoring Lutnick'
+    ],
+    sources: [
+      {label: 'CNBC - Island invitation', url: 'https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html'},
+      {label: 'CNBC - Ties', url: 'https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html'},
+      {label: 'Sen. Schiff statement', url: 'https://www.schiff.senate.gov/news/press-releases/statement-sen-schiff-calls-for-secretary-howard-lutnick-to-resign-after-lying-about-his-business-ties-to-epstein/'}
+    ]
+  },
+  {
+    id: 'wexner', name: 'Leslie Wexner', role: 'L Brands founder / billionaire',
+    status: 'redacted', size: 18,
+    wiki: 'Les_Wexner',
+    details: 'One of six names read on the House floor by Rep. Khanna on February 10, 2026. Name had been redacted from public releases. Labeled a "co-conspirator" by the FBI in the files.',
+    evidence: [
+      'Name redacted from public file releases',
+      'Labeled "co-conspirator" by FBI in files',
+      'Named on House floor by Rep. Khanna (Feb 10, 2026)',
+      'DOJ has not explained why name was redacted'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'binsulayem', name: 'Sultan bin Sulayem', role: 'CEO, Dubai Ports World',
+    status: 'redacted', size: 16,
+    wiki: 'Sultan_Ahmed_bin_Sulayem',
+    details: 'One of six names read on the House floor by Rep. Khanna. Massie described one redacted name as "pretty high up in a foreign government." CEO of Dubai Ports World.',
+    evidence: [
+      'Name redacted from public releases',
+      'Named on House floor (Feb 10, 2026)',
+      'CEO of Dubai Ports World',
+      'DOJ has not explained why name was redacted'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'nuara', name: 'Salvatore Nuara', role: 'Redacted individual',
+    status: 'redacted', size: 14,
+    details: 'One of six names read on the House floor by Rep. Khanna on February 10, 2026. Name had been redacted from public releases.',
+    evidence: [
+      'Name redacted from public releases',
+      'Named on House floor (Feb 10, 2026)'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'mikeladze', name: 'Zurab Mikeladze', role: 'Redacted individual',
+    status: 'redacted', size: 14,
+    details: 'One of six names read on the House floor by Rep. Khanna on February 10, 2026. Name had been redacted from public releases.',
+    evidence: [
+      'Name redacted from public releases',
+      'Named on House floor (Feb 10, 2026)'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'leonov', name: 'Leonic Leonov', role: 'Redacted individual',
+    status: 'redacted', size: 14,
+    details: 'One of six names read on the House floor by Rep. Khanna on February 10, 2026. Name had been redacted from public releases.',
+    evidence: [
+      'Name redacted from public releases',
+      'Named on House floor (Feb 10, 2026)'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'caputo', name: 'Nicola Caputo', role: 'Redacted individual',
+    status: 'redacted', size: 14,
+    details: 'One of six names read on the House floor by Rep. Khanna on February 10, 2026. Name had been redacted from public releases.',
+    evidence: [
+      'Name redacted from public releases',
+      'Named on House floor (Feb 10, 2026)'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'}
+    ]
+  },
+  {
+    id: 'acosta', name: 'Alexander Acosta', role: 'Former Labor Secretary',
+    status: 'named', size: 17,
+    wiki: 'Alexander_Acosta',
+    details: 'U.S. Attorney who signed the 2007 non-prosecution agreement one day before a 60-count indictment was set to be filed. Served as Trump\'s Secretary of Labor, resigned in 2019 when the deal resurfaced. DOJ review found "poor judgment" but no misconduct.',
+    evidence: [
+      'Signed NPA one day before 60-count indictment (Sep 24, 2007)',
+      'Victims not informed of deal before signing',
+      'DOJ review: "poor judgment" but no professional misconduct',
+      'Served as Trump\'s Labor Secretary (2017-2019)',
+      'Resigned July 2019 when NPA deal resurfaced'
+    ],
+    sources: [
+      {label: 'NPR', url: 'https://www.npr.org/2020/11/12/934265386/jeffrey-epsteins-former-prosecutors-used-poor-judgment-in-deal-doj-says'},
+      {label: 'PBS NewsHour', url: 'https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta'}
+    ]
+  },
+  {
+    id: 'bondi', name: 'Pam Bondi', role: 'Attorney General',
+    status: 'institution', size: 17,
+    wiki: 'Pam_Bondi',
+    details: 'Current AG overseeing the file releases. In Feb 2025, suggested an Epstein "client list" was on her desk. By July 2025, DOJ formally stated no such list exists. Gap between statements unexplained.',
+    evidence: [
+      'Suggested "client list" on her desk (Feb 2025, Fox News)',
+      'DOJ stated no client list exists (July 2025)',
+      'Directed to investigate Clinton, Summers, Hoffman specifically',
+      'Investigation does not mention Trump\'s or Lutnick\'s connections',
+      'Oversaw file release that exposed 43 of 47 victim names'
+    ],
+    sources: [
+      {label: 'Axios', url: 'https://www.axios.com/2025/07/07/jeffrey-epstein-suicide-client-list-trump-administration'},
+      {label: 'NPR', url: 'https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes'}
+    ]
+  },
+  {
+    id: 'massie', name: 'Thomas Massie', role: 'Rep. (R-KY)',
+    status: 'institution', size: 15,
+    wiki: 'Thomas_Massie',
+    details: 'Co-authored Epstein Files Transparency Act with Rep. Khanna. Filed discharge petition to force floor vote. Reviewed unredacted files in secure reading room. Called for Lutnick\'s resignation.',
+    evidence: [
+      'Co-authored bipartisan Transparency Act',
+      'Filed discharge petition to bypass committee chairs',
+      'Reviewed unredacted files (Feb 9, 2026) for 2 hours',
+      'Identified 6 "likely incriminated" redacted names',
+      'Called for Lutnick\'s resignation (Republican calling out Republican)'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5730626-massie-khanna-unredacted-epstein-files/'},
+      {label: 'CNN', url: 'https://edition.cnn.com/2026/02/08/politics/massie-howard-lutnick-epstein-files'}
+    ]
+  },
+  {
+    id: 'khanna', name: 'Ro Khanna', role: 'Rep. (D-CA)',
+    status: 'institution', size: 15,
+    wiki: 'Ro_Khanna',
+    details: 'Co-authored Epstein Files Transparency Act with Rep. Massie. Read all six redacted names on the House floor on February 10, 2026, invoking the Speech and Debate Clause for legal protection.',
+    evidence: [
+      'Co-authored bipartisan Transparency Act',
+      'Reviewed unredacted files (Feb 9, 2026)',
+      'Read six redacted names on House floor (Feb 10, 2026)',
+      'Invoked Speech and Debate Clause for legal protection'
+    ],
+    sources: [
+      {label: 'The Hill', url: 'https://thehill.com/homenews/house/5731909-khanna-epstein-files-house-floor/'},
+      {label: 'Axios', url: 'https://www.axios.com/2026/02/09/epstein-files-unredacted-doj-massie-khanna'}
+    ]
+  },
+  {
+    id: 'jpmorgan', name: 'JPMorgan Chase', role: 'Banking institution',
+    status: 'institution', size: 15,
+    details: 'Settled two lawsuits related to Epstein. Combined $365M in settlements. No individual banker criminally charged.',
+    evidence: [
+      '$290 million settlement to victims (June 2023)',
+      '$75 million settlement to U.S. Virgin Islands (September 2023)',
+      'No individual banker criminally charged'
+    ],
+    sources: [
+      {label: 'NPR', url: 'https://www.npr.org/2023/06/12/1181675580/epstein-jane-doe-1-290-million-settlement-jpmorgan-chase'},
+      {label: 'CNBC', url: 'https://www.cnbc.com/2023/09/26/jpmorgan-to-settle-jeffrey-epstein-suit-by-virgin-islands.html'}
+    ]
+  },
+  {
+    id: 'deutsche', name: 'Deutsche Bank', role: 'Banking institution',
+    status: 'institution', size: 14,
+    details: 'Settled lawsuit with Epstein accusers for $75 million in May 2023. No individual banker criminally charged.',
+    evidence: [
+      '$75 million settlement to victims (May 2023)',
+      'No individual banker criminally charged'
+    ],
+    sources: [
+      {label: 'NPR', url: 'https://www.npr.org/2023/05/18/1176974676/deutsche-bank-settles-lawsuit-with-epstein-accusers-for-75-million'}
+    ]
+  }
+];
+
+var CONNECTIONS = [
+  {source:'epstein', target:'maxwell', type:'co-conspirator', label:'Co-conspirator', verified:true},
+  {source:'epstein', target:'giuffre', type:'legal', label:'Victim / accuser', verified:true},
+  {source:'maxwell', target:'giuffre', type:'legal', label:'Trafficked by Maxwell', verified:true},
+  {source:'epstein', target:'trump', type:'social', label:'Social contact, photos, emails', verified:true},
+  {source:'epstein', target:'clinton', type:'flew-together', label:'27 flights on Epstein plane', verified:true},
+  {source:'epstein', target:'gates', type:'social', label:'Meetings, meals, hundreds of refs', verified:true},
+  {source:'epstein', target:'musk', type:'emails', label:'16+ emails, island interest', verified:true},
+  {source:'epstein', target:'andrew', type:'social', label:'Social relationship', verified:true},
+  {source:'giuffre', target:'andrew', type:'legal', label:'Accused in depositions', verified:true},
+  {source:'giuffre', target:'dershowitz', type:'legal', label:'Accused in depositions', verified:true},
+  {source:'epstein', target:'dershowitz', type:'social', label:'Attorney / associate', verified:true},
+  {source:'epstein', target:'lutnick', type:'business', label:'Island, co-investments, contact 2005-2018', verified:true},
+  {source:'epstein', target:'wexner', type:'co-conspirator', label:'FBI: "co-conspirator"', verified:true},
+  {source:'epstein', target:'binsulayem', type:'social', label:'Redacted connection', verified:false},
+  {source:'epstein', target:'nuara', type:'social', label:'Redacted connection', verified:false},
+  {source:'epstein', target:'mikeladze', type:'social', label:'Redacted connection', verified:false},
+  {source:'epstein', target:'leonov', type:'social', label:'Redacted connection', verified:false},
+  {source:'epstein', target:'caputo', type:'social', label:'Redacted connection', verified:false},
+  {source:'epstein', target:'acosta', type:'legal', label:'Signed non-prosecution agreement', verified:true},
+  {source:'trump', target:'bondi', type:'legal', label:'Directed selective investigation', verified:true},
+  {source:'trump', target:'lutnick', type:'business', label:'Appointed Commerce Secretary', verified:true},
+  {source:'maxwell', target:'clinton', type:'social', label:'Communications 2001-2004', verified:true},
+  {source:'massie', target:'khanna', type:'legal', label:'Bipartisan Transparency Act', verified:true},
+  {source:'epstein', target:'jpmorgan', type:'financial', label:'Banking relationship', verified:true},
+  {source:'epstein', target:'deutsche', type:'financial', label:'Banking relationship', verified:true},
+  {source:'trump', target:'acosta', type:'legal', label:'Appointed Labor Secretary', verified:true}
+];
+
+
+// ══════════════════════════════════════
+// COLOR MAPPING
+// ══════════════════════════════════════
+
+var STATUS_COLORS = {
+  center: '#dc2626',
+  convicted: '#dc2626',
+  accused: '#d97706',
+  named: '#dcdcdc',
+  redacted: '#16a34a',
+  victim: '#7c3aed',
+  institution: '#06b6d4'
+};
+
+var STATUS_LABELS = {
+  center: 'Subject of Investigation',
+  convicted: 'Convicted',
+  accused: 'Accused in Depositions',
+  named: 'Named \u2014 No Accusation',
+  redacted: 'Redacted Name (Unredacted Feb 2026)',
+  victim: 'Victim / Survivor',
+  institution: 'Institution / Official'
+};
+
+
+// ══════════════════════════════════════
+// CANVAS NODE DRAWING
+// ══════════════════════════════════════
+
+function drawNodeCanvas(ctx, size, node, img) {
+  var half = size / 2;
+  var radius = half - 4;
+  var color = STATUS_COLORS[node.status];
+
+  ctx.clearRect(0, 0, size, size);
+
+  // Circle clip
+  ctx.save();
+  ctx.beginPath();
+  ctx.arc(half, half, radius, 0, Math.PI * 2);
+  ctx.clip();
+
+  if (img) {
+    // Draw image with grayscale filter
+    ctx.filter = 'grayscale(70%) brightness(0.9)';
+    // Cover-fit the image within the circle
+    var imgAspect = img.width / img.height;
+    var drawW, drawH;
+    if (imgAspect > 1) {
+      drawH = radius * 2;
+      drawW = drawH * imgAspect;
+    } else {
+      drawW = radius * 2;
+      drawH = drawW / imgAspect;
+    }
+    ctx.drawImage(img, half - drawW / 2, half - drawH / 2, drawW, drawH);
+    ctx.filter = 'none';
+  } else {
+    // Dark fill
+    ctx.fillStyle = node.status === 'named' ? '#1a1a1a' : color;
+    ctx.globalAlpha = 0.25;
+    ctx.fillRect(0, 0, size, size);
+    ctx.globalAlpha = 1;
+
+    // Silhouette head
+    ctx.fillStyle = '#444';
+    ctx.beginPath();
+    ctx.arc(half, half - radius * 0.12, radius * 0.28, 0, Math.PI * 2);
+    ctx.fill();
+
+    // Silhouette body
+    ctx.beginPath();
+    ctx.ellipse(half, half + radius * 0.45, radius * 0.4, radius * 0.3, 0, 0, Math.PI * 2);
+    ctx.fill();
+  }
+
+  ctx.restore();
+
+  // Border ring
+  ctx.beginPath();
+  ctx.arc(half, half, radius, 0, Math.PI * 2);
+  ctx.strokeStyle = color;
+  ctx.lineWidth = node.id === 'epstein' ? 5 : 3;
+  ctx.stroke();
+
+  // Glow for special statuses
+  if (['convicted', 'accused', 'redacted', 'victim', 'center'].indexOf(node.status) !== -1) {
+    ctx.beginPath();
+    ctx.arc(half, half, radius + 3, 0, Math.PI * 2);
+    ctx.strokeStyle = color;
+    ctx.globalAlpha = 0.25;
+    ctx.lineWidth = 4;
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+}
+
+
+// ══════════════════════════════════════
+// 3D FORCE GRAPH
+// ══════════════════════════════════════
+
+function buildGraph() {
+  var container = document.getElementById('graphContainer');
+  container.innerHTML = '';
+
+  // Copy data for graph
+  var graphData = {
+    nodes: PEOPLE.map(function(p) { return Object.assign({}, p); }),
+    links: CONNECTIONS.map(function(c) { return Object.assign({}, c); })
+  };
+
+  // Cross-link neighbors for highlighting
+  var nodeMap = {};
+  graphData.nodes.forEach(function(n) {
+    nodeMap[n.id] = n;
+    n.neighbors = [];
+    n.linkObjs = [];
+  });
+  graphData.links.forEach(function(link) {
+    var a = nodeMap[link.source];
+    var b = nodeMap[link.target];
+    if (a && b) {
+      a.neighbors.push(b);
+      b.neighbors.push(a);
+      a.linkObjs.push(link);
+      b.linkObjs.push(link);
+    }
+  });
+
+  var highlightNodes = new Set();
+  var highlightLinks = new Set();
+  var hoverNode = null;
+
+  var Graph = new ForceGraph3D(container)
+    .graphData(graphData)
+    .backgroundColor('#050505')
+    .width(container.offsetWidth)
+    .height(container.clientHeight || 600)
+    .showNavInfo(false)
+    .nodeId('id')
+    .nodeLabel(function(n) {
+      return '<div style="font-family:monospace;font-size:11px;background:rgba(10,10,10,0.95);border:1px solid #2a2a2a;padding:4px 10px;border-radius:4px;color:#b0b0b0;white-space:nowrap">'
+        + n.name + ' &mdash; ' + STATUS_LABELS[n.status] + '</div>';
+    })
+    .nodeThreeObject(function(node) {
+      var group = new THREE.Group();
+
+      // Node sprite canvas (128px for crisp rendering)
+      var canvasSize = 128;
+      var canvas = document.createElement('canvas');
+      canvas.width = canvasSize;
+      canvas.height = canvasSize;
+      var ctx = canvas.getContext('2d');
+      drawNodeCanvas(ctx, canvasSize, node, null);
+
+      var texture = new THREE.CanvasTexture(canvas);
+      texture.colorSpace = THREE.SRGBColorSpace;
+      var material = new THREE.SpriteMaterial({ map: texture, transparent: true, depthWrite: false });
+      var sprite = new THREE.Sprite(material);
+      var s = node.size * 0.6;
+      sprite.scale.set(s, s, 1);
+      group.add(sprite);
+
+      // Label sprite below node
+      var labelCanvas = document.createElement('canvas');
+      labelCanvas.width = 256;
+      labelCanvas.height = 64;
+      var lctx = labelCanvas.getContext('2d');
+      var label = node.id === 'epstein' ? 'EPSTEIN' : node.name.split(' ').pop().toUpperCase();
+      lctx.font = node.id === 'epstein' ? 'bold 24px monospace' : '18px monospace';
+      lctx.textAlign = 'center';
+      lctx.textBaseline = 'middle';
+      lctx.fillStyle = node.id === 'epstein' ? '#f0f0f0' : '#777';
+      lctx.fillText(label, 128, 32);
+      var labelTexture = new THREE.CanvasTexture(labelCanvas);
+      var labelMat = new THREE.SpriteMaterial({ map: labelTexture, transparent: true, depthWrite: false });
+      var labelSprite = new THREE.Sprite(labelMat);
+      labelSprite.scale.set(s * 2.5, s * 0.6, 1);
+      labelSprite.position.set(0, -s * 0.75, 0);
+      group.add(labelSprite);
+
+      // [REDACTED] tag for redacted nodes
+      if (node.status === 'redacted') {
+        var rCanvas = document.createElement('canvas');
+        rCanvas.width = 128;
+        rCanvas.height = 32;
+        var rctx = rCanvas.getContext('2d');
+        rctx.font = 'bold 14px monospace';
+        rctx.textAlign = 'center';
+        rctx.textBaseline = 'middle';
+        rctx.fillStyle = '#16a34a';
+        rctx.fillText('[REDACTED]', 64, 16);
+        var rTexture = new THREE.CanvasTexture(rCanvas);
+        var rMat = new THREE.SpriteMaterial({ map: rTexture, transparent: true, depthWrite: false });
+        var rSprite = new THREE.Sprite(rMat);
+        rSprite.scale.set(s * 1.5, s * 0.35, 1);
+        rSprite.position.set(0, 0, 0.1);
+        group.add(rSprite);
+      }
+
+      // Async Wikipedia image load
+      if (node.wiki) {
+        fetch(wikiUrl(node.wiki))
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            var pages = data.query.pages;
+            var page = Object.values(pages)[0];
+            if (page && page.thumbnail && page.thumbnail.source) {
+              var img = new Image();
+              img.crossOrigin = 'anonymous';
+              img.onload = function() {
+                drawNodeCanvas(ctx, canvasSize, node, img);
+                texture.needsUpdate = true;
+              };
+              img.src = page.thumbnail.source;
+            }
+          })
+          .catch(function() { /* silhouette stays */ });
+      }
+
+      return group;
+    })
+    .linkColor(function(link) {
+      if (highlightLinks.has(link)) return link.verified ? '#aaa' : '#f59e0b';
+      return link.verified ? '#585858' : '#d97706';
+    })
+    .linkWidth(function(link) {
+      var base = link.type === 'co-conspirator' ? 2 : (link.type === 'financial' ? 1.2 : 0.5);
+      return highlightLinks.has(link) ? base * 2 : base;
+    })
+    .linkOpacity(0.5)
+    .linkDirectionalParticles(function(link) {
+      if (highlightLinks.has(link)) return 4;
+      return link.type === 'co-conspirator' ? 2 : 0;
+    })
+    .linkDirectionalParticleWidth(2)
+    .linkDirectionalParticleColor(function(link) {
+      return link.verified ? '#dc2626' : '#d97706';
+    })
+    .onNodeHover(function(node) {
+      container.style.cursor = node ? 'pointer' : 'default';
+      if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
+      highlightNodes.clear();
+      highlightLinks.clear();
+      if (node) {
+        highlightNodes.add(node);
+        if (node.neighbors) node.neighbors.forEach(function(n) { highlightNodes.add(n); });
+        if (node.linkObjs) node.linkObjs.forEach(function(l) { highlightLinks.add(l); });
+      }
+      hoverNode = node || null;
+      Graph
+        .linkColor(Graph.linkColor())
+        .linkWidth(Graph.linkWidth())
+        .linkDirectionalParticles(Graph.linkDirectionalParticles());
+    })
+    .onNodeClick(function(node) {
+      if (node) {
+        openPanel(node);
+        // Zoom camera to clicked node
+        var distance = 80;
+        var distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+        var newPos = (node.x || node.y || node.z)
+          ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
+          : { x: 0, y: 0, z: distance };
+        Graph.cameraPosition(newPos, node, 1000);
+      }
+    })
+    .onBackgroundClick(function() {
+      closePanel();
+    });
+
+  // Force tuning — tighter layout
+  Graph.d3Force('charge').strength(function(d) {
+    return d.id === 'epstein' ? -300 : -80;
+  });
+  Graph.d3Force('link').distance(function(d) {
+    if (d.type === 'co-conspirator') return 30;
+    return 50;
+  });
+
+  // Zoom camera in after initial settlement
+  setTimeout(function() {
+    Graph.cameraPosition({ x: 0, y: 0, z: 300 });
+  }, 500);
+
+  window._graph = Graph;
+}
+
+
+// ══════════════════════════════════════
+// DETAIL PANEL
+// ══════════════════════════════════════
+
+function openPanel(person) {
+  var panel = document.getElementById('detailPanel');
+  var header = document.getElementById('panelHeader');
+  var body = document.getElementById('panelBody');
+
+  // Build header
+  header.innerHTML =
+    '<div class="panel-status ' + person.status + '">' + STATUS_LABELS[person.status] + '</div>' +
+    '<div class="panel-name">' + person.name + '</div>' +
+    '<div class="panel-role">' + person.role + '</div>' +
+    '<div class="panel-summary">' + person.details + '</div>';
+
+  // Build body
+  var html = '';
+
+  // Evidence
+  if (person.evidence && person.evidence.length) {
+    html += '<div class="panel-section"><div class="panel-section-label">Key Evidence</div>';
+    person.evidence.forEach(function(e) {
+      html += '<div class="evidence-item">' + e + '</div>';
+    });
+    html += '</div>';
+  }
+
+  // Connections
+  var conns = CONNECTIONS.filter(function(c) {
+    return c.source === person.id || c.target === person.id ||
+      (typeof c.source === 'object' && c.source.id === person.id) ||
+      (typeof c.target === 'object' && c.target.id === person.id);
+  });
+  if (conns.length) {
+    html += '<div class="panel-connections"><div class="panel-section-label">Connections</div>';
+    conns.forEach(function(c) {
+      var sid = typeof c.source === 'object' ? c.source.id : c.source;
+      var tid = typeof c.target === 'object' ? c.target.id : c.target;
+      var otherId = sid === person.id ? tid : sid;
+      var other = PEOPLE.find(function(p) { return p.id === otherId; });
+      if (other) {
+        var color = STATUS_COLORS[other.status];
+        html += '<div class="conn-item"><div class="conn-dot" style="background:' + color + '"></div>' +
+          '<span>' + other.name + ' &mdash; ' + c.label + '</span></div>';
+      }
+    });
+    html += '</div>';
+  }
+
+  // Sources
+  if (person.sources && person.sources.length) {
+    html += '<div class="panel-sources"><div class="panel-section-label">Sources</div>';
+    person.sources.forEach(function(s) {
+      html += '<a href="' + s.url + '" target="_blank" rel="noopener">' + s.label + ' &rarr;</a>';
+    });
+    html += '</div>';
+  }
+
+  // Footer
+  html += '<div class="panel-foot">Named in files &#8800; accused of wrongdoing</div>';
+
+  body.innerHTML = html;
+  panel.classList.add('open');
+}
+
+function closePanel() {
+  document.getElementById('detailPanel').classList.remove('open');
+}
+
+
+// ══════════════════════════════════════
+// LEGEND
+// ══════════════════════════════════════
+
+function toggleLegend() {
+  document.getElementById('legendPanel').classList.toggle('open');
+}
+
+
+// ══════════════════════════════════════
+// KEYBOARD
+// ══════════════════════════════════════
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closePanel();
+    document.getElementById('legendPanel').classList.remove('open');
+  }
+});
+
+
+// ══════════════════════════════════════
+// MARQUEE CALIBRATION
+// ══════════════════════════════════════
+
+function calibrateMarquee(trackSelector, pxPerSec) {
+  var track = document.querySelector(trackSelector);
+  if (!track) return;
+  var children = Array.from(track.children);
+  var half = Math.floor(children.length / 2);
+  if (half < 1) return;
+  var first = children[0].getBoundingClientRect();
+  var last = children[half - 1].getBoundingClientRect();
+  var width = last.right - first.left;
+  track.style.setProperty('--scroll-offset', '-' + width + 'px');
+  track.style.animationDuration = (width / pxPerSec) + 's';
+}
+
+function calibrateAllMarquees() {
+  calibrateMarquee('#statsTrack', 25);
+}
+
+
+// ══════════════════════════════════════
+// INIT
+// ══════════════════════════════════════
+
+buildGraph();
+calibrateAllMarquees();
+
+window.addEventListener('resize', function() {
+  if (window._graph) {
+    window._graph
+      .width(document.getElementById('graphContainer').offsetWidth)
+      .height(document.getElementById('graphContainer').clientHeight || 600);
+  }
+  calibrateAllMarquees();
+});
+
+// Expose functions for HTML onclick handlers
+window.closePanel = closePanel;
+window.toggleLegend = toggleLegend;
+</script>
+
+</body>
+</html>
