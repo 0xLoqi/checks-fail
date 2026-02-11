@@ -4496,8 +4496,815 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-10T18:20:01.199Z"
+    },
+    {
+      "id": "893117321a89",
+      "title": "Top 5 takeaways from the House immigration oversight hearing",
+      "url": "https://www.npr.org/2026/02/10/nx-s1-5708757/immigration-enforcement-oversight-house-takeaways",
+      "source": "NPR Politics",
+      "published": "2026-02-10T21:37:05.000Z",
+      "description": "The hearing underscored how deeply divided Republicans and Democrats remain on top-level changes to immigration enforcement in the wake of the shootings of two U.S. citizens.",
+      "keywords": [
+        "immigration",
+        "oversight hearing"
+      ],
+      "significance": 3,
+      "reason": "Standard reporting on routine congressional hearing highlighting partisan disagreement without describing specific institutional actions or policy changes affecting democratic checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:24.929Z"
+    },
+    {
+      "id": "5452a2c1f49b",
+      "title": "Epstein files scrubbed to protect 'elite, powerful men,' Rep. Khanna says",
+      "url": "https://www.pbs.org/newshour/show/epstein-files-scrubbed-to-protect-elite-powerful-men-rep-khanna-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T23:55:55.000Z",
+      "description": "Questions continue to emerge over the Department of Justice's handling of the Jeffrey Epstein files. One Democratic Congressman went to the House floor to read the names of six \"wealthy, powerful men\" whose identities were shielded in the public release. Rep. Ro Khanna co-sponsored the Epstein Transparency Act and reviewed some of the unredacted files. He joined Geoff Bennett to discuss more.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Raises legitimate concerns about DOJ transparency and potential selective protection of powerful individuals, but lacks evidence of systematic institutional erosion and remains within normal congressional oversight channels.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T00:15:23.339Z"
+    },
+    {
+      "id": "4dea78048b27",
+      "title": "Immigration officials defend officers and tactics as public backlash grows",
+      "url": "https://www.pbs.org/newshour/show/immigration-officials-defend-officers-and-tactics-as-public-backlash-grows",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T23:45:51.000Z",
+      "description": "The heads of Immigration and Customs Enforcement, Customs and Border Protection and Citizenship and Immigration Services appeared before the House Homeland Security Committee on Tuesday. Among the questions they faced was whether the tactics used by their agents during arrests and deportations run afoul of the Constitution. Lisa Desjardins reports.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight hearing on immigration enforcement tactics raises legitimate democratic accountability questions, but represents routine legislative review rather than a systemic institutional crisis.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T00:15:23.099Z"
+    },
+    {
+      "id": "25cdf446b75d",
+      "title": "Mother recounts weeks in immigration custody with her U.S. citizen children",
+      "url": "https://www.pbs.org/newshour/show/mother-recounts-weeks-in-immigration-custody-with-her-u-s-citizen-children",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T23:35:16.000Z",
+      "description": "The Trump administration has said its immigration crackdown targets the worst of the worst, but many people without criminal records are getting swept up and detained — some of them along with their families. Lisa Desjardins spoke with one of them.",
+      "keywords": [
+        "immigration",
+        "detained",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Documents a concerning pattern of immigration enforcement affecting citizens and families, highlighting potential civil rights violations and executive overreach, but represents individual case reporting rather than a systemic policy change or institutional action.",
+      "categories": [
+        "immigration & civil rights",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:23.340Z"
+    },
+    {
+      "id": "ab72eecb07c4",
+      "title": "FBI documents show what led to raid of Georgia elections office",
+      "url": "https://www.pbs.org/newshour/show/fbi-documents-show-what-led-to-raid-of-georgia-elections-office",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T23:30:22.000Z",
+      "description": "The FBI raid on a Georgia elections office was fueled by an investigation into so-called \"deficiencies\" in the 2020 election. That's according to an unsealed FBI agent's affidavit filed by the DOJ in federal court. White House correspondent Liz Landers reports.",
+      "keywords": [
+        "election",
+        "DOJ",
+        "FBI",
+        "raid",
+        "ICE",
+        "georgia election",
+        "white house"
+      ],
+      "significance": 6,
+      "reason": "Documents revealing FBI's rationale for an election-related raid are notable for transparency and oversight but lack evidence of unprecedented institutional erosion or novel threats to democratic checks.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-11T00:15:25.110Z"
+    },
+    {
+      "id": "fbe14eabfbfa",
+      "title": "WATCH: White House won't confirm whether Trump called Palm Beach sheriff about Epstein",
+      "url": "https://www.pbs.org/newshour/politics/watch-white-house-wont-confirm-whether-trump-called-palm-beach-sheriff-about-epstein",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T21:25:11.000Z",
+      "description": "White House Press Secretary Karoline Leavitt said she did not know if the call had occurred, saying it is something that \"may or may not have happened in 2006.\"",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The White House's evasive response about a potential 2006 call raises concerns about transparency and potential political influence over law enforcement, but lacks confirmed details or immediate institutional impact.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:26.360Z"
+    },
+    {
+      "id": "039890510446",
+      "title": "FBI searched Fulton County offices in probe of possible 2020 election 'defects,' affidavit says",
+      "url": "https://www.pbs.org/newshour/politics/fbi-searched-fulton-county-offices-in-probe-of-possible-2020-election-defects-affidavit-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T21:01:00.000Z",
+      "description": "The FBI obtained a search warrant to seize hundreds of boxes of ballots from election offices in Fulton County, Georgia, as part of a criminal investigation into possible \"deficiencies or defects\" in the vote count in the 2020 contest lost by President Donald Trump, according to an affidavit unsealed Tuesday.",
+      "keywords": [
+        "election",
+        "ballot",
+        "FBI",
+        "search warrant",
+        "ICE",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional action by the FBI asserting investigative authority over election infrastructure and ballot materials, raising important questions about election integrity oversight and potential politicization of federal law enforcement in election disputes.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-11T00:15:28.129Z"
+    },
+    {
+      "id": "cce3d9b58c50",
+      "title": "WATCH: Vance and Azerbaijani President Aliyev speak after signing strategic partnership charter",
+      "url": "https://www.pbs.org/newshour/world/watch-vance-and-azerbaijani-president-aliyev-speak-after-signing-strategic-partnership-charter",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T20:16:32.000Z",
+      "description": "Azerbaijani President Ilham Aliyev hosted Vice President JD Vance as he arrived in Baku on Tuesday following a visit to neighboring Armenia.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic coverage of a bilateral meeting with no direct implications for U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:27.035Z"
+    },
+    {
+      "id": "d0c2adeb2df9",
+      "title": "WATCH: Lutnick downplays relationship with Epstein during Senate testimony",
+      "url": "https://www.pbs.org/newshour/nation/watch-lutnick-downplays-relationship-with-epstein-during-senate-testimony",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T19:39:11.000Z",
+      "description": "Commerce Secretary Howard Lutnick has acknowledged that he had met with Jeffrey Epstein twice after his 2008 conviction for soliciting prostitution from a child.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "While the testimony touches on a cabinet official's personal associations, it does not directly involve institutional erosion of democratic checks and balances, congressional oversight failures, or systemic threats to democratic structures.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:26.038Z"
+    },
+    {
+      "id": "c6b19fff203e",
+      "title": "Malinowski concedes to Mejia in Democratic special election primary in New Jersey",
+      "url": "https://www.pbs.org/newshour/politics/malinowski-concedes-to-mejia-in-democratic-special-election-primary-in-new-jersey",
+      "source": "PBS NewsHour",
+      "published": "2026-02-10T18:50:50.000Z",
+      "description": "Mejia would face Republican Joe Hathaway in the special general election on April 16. The district covers parts of Essex, Morris, and Passaic counties.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting the outcome of a Democratic primary special election with no implications for institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-11T00:15:26.325Z"
+    },
+    {
+      "id": "f99d9ed71eb7",
+      "title": "Justice Department releases names of 3 people the FBI once called Jeffrey Epstein 'co-conspirators'",
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-names-3-people-fbi-once-called-jeffrey-epstein-co-conspirators-rcna258335",
+      "source": "NBC News",
+      "published": "2026-02-11T00:10:34.000Z",
+      "description": "The Justice Department has released the names of three people the FBI once called co-conspirators of Jeffrey Epstein following complaints from lawmakers that the names had been improperly withheld",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The release addresses transparency and DOJ/FBI accountability regarding document withholding, but involves a historical case rather than current institutional threats.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:29.189Z"
+    },
+    {
+      "id": "ea57fff1a365",
+      "title": "Trump instructs spy agencies to provide intelligence to his 'Stop the Steal' lawyer",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406",
+      "source": "NBC News",
+      "published": "2026-02-10T23:30:33.000Z",
+      "description": "President Trump has instructed the CIA and other spy agencies to provide intelligence to Kurt Olsen to help him with his probe of the 2020 election",
+      "keywords": [
+        "election",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "This represents an unprecedented politicization of intelligence agencies by directing them to support a partisan legal effort, directly undermining intelligence community independence and DOJ/judicial independence in election matters.",
+      "categories": [
+        "intelligence community integrity",
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:29.318Z"
+    },
+    {
+      "id": "bd3d74c7ad25",
+      "title": "EPA to repeal its own conclusion that greenhouse gases harm the environment",
+      "url": "https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250",
+      "source": "NBC News",
+      "published": "2026-02-10T22:50:47.000Z",
+      "description": "The Environmental Protection Agency plans to repeal its endangerment finding, the legal framework that underpins its power to regulate greenhouse gas emissions.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Repealing the endangerment finding represents a significant institutional action that undermines the EPA's independence and statutory authority, constituting a major policy reversal with long-term implications for federal regulatory power and environmental governance.",
+      "categories": [
+        "federal programs & agencies",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-11T00:15:29.236Z"
+    },
+    {
+      "id": "d33bb77a7fa9",
+      "title": "White House calls disappearance of Nancy Guthrie a 'heartbreaking situation'",
+      "url": "https://www.nbcnews.com/now/video/white-house-calls-disappearance-of-nancy-guthrie-a-heartbreaking-situation-257466437593",
+      "source": "NBC News",
+      "published": "2026-02-10T19:47:57.000Z",
+      "description": "White House press secretary Karoline Leavitt said that President Trump was following the developments in the search for Nancy Guthrie as authorities released new images and videos of a possible subject. NBC News' Gabe Gutierrez reports on the White House's reaction to what they are calling a \"heartbreaking situation.\"",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news report about White House commentary on a missing persons case with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:31.054Z"
+    },
+    {
+      "id": "c9c71568d13d",
+      "title": "FBI raid of Georgia election hub was driven by Trump appointee, court docs show",
+      "url": "https://www.nbcnews.com/politics/elections/fbi-raided-georgia-election-hub-search-evidence-2020-voter-fraud-court-rcna258344",
+      "source": "NBC News",
+      "published": "2026-02-10T20:40:18.000Z",
+      "description": "The FBI last month raided a Georgia election hub near Atlanta and seized ballots and voter records at the urging of a lawyer who had worked with President Donald Trump to try to overturn the results of the 2020 election, a newly released court record revealed Tuesday",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "FBI",
+        "raid",
+        "georgia election",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "This reveals potential politicization of the FBI by Trump appointees to target election infrastructure, directly threatening both FBI independence and election integrity while suggesting possible abuse of federal law enforcement power.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:32.835Z"
+    },
+    {
+      "id": "b9562f9aeee8",
+      "title": "Trump's immigration heads questioned over Pretti, Good killings in House hearing ",
+      "url": "https://www.nbcnews.com/news/us-news/trumps-immigration-heads-questioned-pretti-good-killings-house-hearing-rcna258366",
+      "source": "NBC News",
+      "published": "2026-02-10T21:21:33.000Z",
+      "description": "Government officials continued to defend the Trump administration’s immigration enforcement tactics and were unapologetic when grilled by Democrats during a House hearing on Tuesday.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of executive immigration enforcement is functioning as intended, with Democratic questioning representing normal legislative checks, though the hearing itself does not indicate new institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T00:15:31.372Z"
+    },
+    {
+      "id": "052b0fe22e82",
+      "title": "14-year-old girl allegedly zip-tied in raid, raising questions about ICE tactics",
+      "url": "https://www.cbsnews.com/news/feds-zip-tied-14-year-old-girl-idaho-raid-ice-tactics/",
+      "source": "CBS News",
+      "published": "2026-02-10T22:54:48.000Z",
+      "description": "A 14-year-old girl said she was \"crying\" and \"struggling to breathe\" when law enforcement officers herded her onto a racetrack with other detainees and zip-tied her hands.",
+      "keywords": [
+        "raid",
+        "ICE"
+      ],
+      "significance": 6,
+      "reason": "Raises serious civil rights and potential civil service accountability concerns regarding immigration enforcement tactics, but represents an alleged incident rather than a systemic policy change or institutional action.",
+      "categories": [
+        "immigration & civil rights",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-11T00:15:31.343Z"
+    },
+    {
+      "id": "3cb58a23a48c",
+      "title": "Democratic governors excluded from typically bipartisan White House gathering",
+      "url": "https://www.cbsnews.com/news/democratic-governors-excluded-by-trump-from-white-house/",
+      "source": "CBS News",
+      "published": "2026-02-10T22:08:30.000Z",
+      "description": "A source familiar with the White House's planning said exclusion of Democrats from a formal business meeting was deliberate — President Trump did not want them there.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Deliberate partisan exclusion from a White House business meeting reflects concerning political selectivity but falls short of systemic institutional erosion without evidence of broader policy consequences or legal violations.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:31.326Z"
+    },
+    {
+      "id": "3d27fbe238cc",
+      "title": "NATO to shift 2 commands from U.S. to European leadership",
+      "url": "https://www.cbsnews.com/news/nato-to-shift-2-commands-from-us-to-european-leadership/",
+      "source": "CBS News",
+      "published": "2026-02-10T21:32:00.000Z",
+      "description": "Two NATO Joint Force Commands led by U.S. officers will transition to be European-led in an apparent answer to President Trump's calls for Europe to contribute more to its defense.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a NATO military command restructuring in response to defense burden-sharing discussions, which does not directly implicate U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:33.773Z"
+    },
+    {
+      "id": "7674ee2f9ea3",
+      "title": "Lutnick defends visit to Epstein's island with his family",
+      "url": "https://www.cbsnews.com/news/howard-lutnick-jeffrey-epstein-island-visit/",
+      "source": "CBS News",
+      "published": "2026-02-10T19:39:21.000Z",
+      "description": "Justice Department files on Jeffrey Epstein released recently​ show Commerce Secretary Howard Lutnick and Jeffrey Epstein had a closer relationship​ than Lutnick has previously stated.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a personal conduct/reputation story about a cabinet member's past associations that does not directly implicate institutional checks and balances or democratic governance structures.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T00:15:34.075Z"
+    },
+    {
+      "id": "de255b5c0e97",
+      "title": " Trump administration plans to hold back grant money for some Democratic-led states",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-administration-plans-hold-back-grant-money-democratic-130042262",
+      "source": "ABC News",
+      "published": "2026-02-10T21:57:52.000Z",
+      "description": "President Donald Trump’s administration plans to withhold public health and transportation funds from several Democratic-led states",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Withholding federal funds to Democratic states represents a significant potential abuse of executive power that directly threatens institutional checks on presidential authority and equal treatment under law.",
+      "categories": [
+        "corruption & self-dealing",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-11T00:15:33.975Z"
+    },
+    {
+      "id": "3681c816cc76",
+      "title": " Republican lawmakers grill telecom officials over phone records access in Trump investigation",
+      "url": "https://abcnews.go.com/Politics/wireStory/republican-lawmakers-grill-telecom-officials-phone-records-access-130038735",
+      "source": "ABC News",
+      "published": "2026-02-10T19:58:26.000Z",
+      "description": "Republican lawmakers are decrying what they said are invasive tactics in the investigation of President Donald Trump’s efforts to overturn the 2020 election",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This involves legitimate oversight scrutiny of investigative methods, but represents standard congressional questioning rather than a fundamental institutional threat or protection.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:34.579Z"
+    },
+    {
+      "id": "f8d4be7fe87a",
+      "title": "Exclusive: Trump says he opposes Israeli annexation steps in West Bank",
+      "url": "https://www.axios.com/2026/02/10/trump-israel-annex-west-bank-opposes-netanyahu",
+      "source": "Axios",
+      "published": "2026-02-10T19:59:14.000Z",
+      "description": "President Trump reiterated in an interview with Axios on Tuesday that he opposes Israeli moves toward annexation in the occupied West Bank. \nWhy it matters: Trump made the remarks several days after the Israeli security cabinet advanced a new policy that is a step toward de facto annexation.\n\nWhat he's saying: Asked about the Israeli move, Trump didn't comment on the specifics but said \"I am against annexation.\"\n\n\"We have enough things to think about now. We don't need to be dealing with the Wes",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article covers foreign policy commentary on Israeli-Palestinian affairs with no direct bearing on U.S. domestic democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:33.817Z"
+    },
+    {
+      "id": "dcf38b417548",
+      "title": "ICE director grilled over Trump's immigration crackdown",
+      "url": "https://www.axios.com/2026/02/10/ice-border-patrol-lyons-scott-trump-house-panel",
+      "source": "Axios",
+      "published": "2026-02-10T19:49:49.000Z",
+      "description": "President Trump's top immigration enforcement officials on Tuesday defended their officers before a House panel whose members grilled the officials on their agencies' heavy-handed tactics.\nWhy it matters: It wasn't just the fatal shootings of U.S. citizens Renee Good and Alex Pretti, who were both killed in Minneapolis in January, that the agency heads had to answer for, but a broader pattern of use of force incidents.\n\n\"You are supposed to be making people safer, instead your agents are being u",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "oversight hearing",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Congressional oversight of executive agency enforcement practices represents significant institutional accountability, particularly regarding civil rights concerns and use of force patterns.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T00:15:36.267Z"
+    },
+    {
+      "id": "cdd8f22fa8b8",
+      "title": "Clergy say Jesus' teachings leave Christians no choice but to resist ICE",
+      "url": "https://www.axios.com/2026/02/10/trump-immigration-faith-leaders-resist",
+      "source": "Axios",
+      "published": "2026-02-10T18:33:53.000Z",
+      "description": "Christian clergy are deploying spiritual infrastructure — from organizing prayer circles to acting as human shields — to resist the Trump administration's immigration agenda.\nWhy it matters: The clergy members who spoke with Axios argue that Trump's immigration crackdown contradicts core biblical teachings about protecting the vulnerable, putting them at odds with the Christian nationalists who back the administration's policies.  \n\n\"I feel a huge responsibility as a Christian pastor to say, not",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article documents civil society advocacy and religious opposition to executive policy, which is routine democratic participation rather than an institutional check on government power.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T00:15:35.691Z"
+    },
+    {
+      "id": "d2e7870d51da",
+      "title": "Macron: Trump administration has sought EU’s ‘dismemberment’",
+      "url": "https://thehill.com/policy/international/5732583-trump-macron-tensions-eu-trade/",
+      "source": "The Hill",
+      "published": "2026-02-10T23:56:26.000Z",
+      "description": "French President Emmanuel Macron has accused President Trump of seeking the European Union’s “dismemberment.” Macron called the Trump administration “openly anti-European,” said it has displayed “contempt” when it comes to the EU and has wanted “its dismemberment” in a recent interview with multiple European outlets, according to the Financial Times.  “When there’s a clear act…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy commentary from a European leader regarding U.S. international relations, which does not directly concern domestic U.S. democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:36.924Z"
+    },
+    {
+      "id": "980e438eaf3d",
+      "title": "Don Lemon hires federal prosecutor who resigned over Minnesota probes ",
+      "url": "https://thehill.com/regulation/court-battles/5732520-don-lemon-attorney-former-federal-prosecutor/",
+      "source": "The Hill",
+      "published": "2026-02-10T23:24:17.000Z",
+      "description": "Don Lemon has brought on an attorney who recently resigned from the office prosecuting the former CNN anchor, according to a new court filing.  Joseph Thompson informed the judge Tuesday that he will represent Lemon ahead of his next court appearance, which is slated for Friday. Until last month, Thompson served as the No. 2 official in the U.S. attorney’s office in Minnesota. He helped lead the office’s investigation…",
+      "keywords": [
+        "prosecutor",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine employment/legal news item involving private attorney hiring with no systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:35.540Z"
+    },
+    {
+      "id": "56c360a1f2a6",
+      "title": "Dem rep says Republicans ‘afraid of women voting’",
+      "url": "https://thehill.com/homenews/house/5732359-dem-rep-says-republicans-afraid-of-women-voting/",
+      "source": "The Hill",
+      "published": "2026-02-10T23:12:21.000Z",
+      "description": "Rep. Katherine Clark (Mass.), the No. 2 House Democrat, slammed the GOP-backed voting bill that the House is set to vote on this week, claiming it was meant to suppress a major Democratic-leaning voting bloc: women. “This is not about protecting our elections. Republicans are not truly afraid of noncitizens voting, which we all know…",
+      "keywords": [
+        "election",
+        "voting",
+        "raid"
+      ],
+      "significance": 2,
+      "reason": "This is a partisan political attack/commentary from a Democratic leader rather than reporting on an institutional action, policy change, or democratic mechanism.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-02-11T00:15:36.691Z"
+    },
+    {
+      "id": "161f5d967b1d",
+      "title": "Sheriff’s Office responds after Domino’s delivery driver walks to Nancy Guthrie’s front door",
+      "url": "https://thehill.com/blogs/in-the-know/5732496-pizza-delivery-nancy-guthrie-house/",
+      "source": "The Hill",
+      "published": "2026-02-10T23:10:01.000Z",
+      "description": "A Domino’s delivery driver accidentally attempted to drop off a pizza to the front door of Nancy Guthrie’s house on Tuesday morning.  During a live taping of NewsNation, The Hill’s broadcast partner, the man was seen carrying several pizza boxes up the front steps of the residence belonging to the missing mother of TV host…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine local incident involving a pizza delivery mixup with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:38.598Z"
+    },
+    {
+      "id": "75e33fbd1c43",
+      "title": "Top White House aides tamp down January jobs expectation",
+      "url": "https://thehill.com/business/5732317-top-white-house-aides-tamp-down-january-jobs-expectation/",
+      "source": "The Hill",
+      "published": "2026-02-10T22:56:05.000Z",
+      "description": "Top White House officials are trying to prepare Americans for a lackluster January jobs report this week as President Trump kicks off 2026 under intense economic pressure. Trump’s top economic advisers have said in recent days that the January jobs report, scheduled to be released Wednesday, is unlikely to show a strong gain, citing high…",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic news reporting on White House messaging about expected jobs data, with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:37.992Z"
+    },
+    {
+      "id": "65a29f8bffc8",
+      "title": "Monks to end ‘Walk for Peace’ this week after Wednesday trip to Lincoln Memorial",
+      "url": "https://thehill.com/blogs/in-the-know/5732385-buddhist-monks-walk-for-peace/",
+      "source": "The Hill",
+      "published": "2026-02-10T22:28:17.000Z",
+      "description": "A group of Buddhist monks will conclude a multi-state “Walk for Peace” this week after a Wednesday visit to the Lincoln Memorial. The two dozen walkers departed Fort Worth, Texas, on Oct. 26 with the mission of promoting “national healing, unity, and compassion,” according to a press release announcing the pilgrimage.  On Wednesday afternoon, the…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news story about a peaceful religious pilgrimage with no connection to democratic institutions, governance, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:37.881Z"
+    },
+    {
+      "id": "aa475c62ccc7",
+      "title": "Russia, Iran blast Musk’s Starlink during UN space meeting",
+      "url": "https://thehill.com/policy/international/5732199-russia-iran-blast-starlink/",
+      "source": "The Hill",
+      "published": "2026-02-10T22:03:43.000Z",
+      "description": "Officials from Russia and Iran blasted Elon Musk’s Starlink at a Monday United Nations meeting held by the Committee on the Peaceful Uses of Outer Space. Both countries alleged that Musk’s satellite internet constellation service program was operating in violation of international law. Iran’s claims spurred from a January incident in which Starlink began offering…",
+      "keywords": [
+        "musk",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine international diplomatic complaints about a private company's satellite service and does not involve U.S. domestic democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:38.021Z"
+    },
+    {
+      "id": "4b911701144e",
+      "title": "Democrats targeting 5 more districts Trump won in 2024",
+      "url": "https://thehill.com/homenews/campaign/5732258-house-control-democrats-bullish/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:35:49.000Z",
+      "description": "The Democrats’ House campaign arm is expanding its midterm map to include five more districts President Trump won in 2024 as the party grows more bullish about flipping the chamber in November.  The Democratic Congressional Campaign Committee (DCCC) is adding Colorado’s 5th Congressional District, Minnesota’s 1st Congressional District, Montana’s 1st Congressional District, South Carolina’s open…",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political campaign strategy reporting about Democratic House targeting decisions with no institutional, legal, or democratic process implications.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:37.937Z"
+    },
+    {
+      "id": "24a346ad817a",
+      "title": "Lawmakers grill top immigration officials amid outcry over Good, Pretti killings",
+      "url": "https://thehill.com/homenews/5732214-ice-cbp-immigration-officials-house-hearing/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:19:14.000Z",
+      "description": "The men leading the agencies central to the Trump administration’s immigration crackdown appeared before lawmakers Tuesday for the first time since federal officers killed two Minnesotans, taking heat over the raids that are generating growing backlash from the public. U.S. Immigration and Customs Enforcement (ICE) acting Director Todd Lyons and U.S. Customs and Border Protection…",
+      "keywords": [
+        "raid",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of executive agency actions is functioning through hearings, but the article lacks detail on substantive accountability measures, policy changes, or institutional consequences.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T00:15:40.454Z"
+    },
+    {
+      "id": "c322426375b8",
+      "title": "Gabbard’s office warns attorney not to share classified complaint with Congress",
+      "url": "https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:15:33.000Z",
+      "description": "National Intelligence Director Tulsi Gabbard’s office on Monday warned the attorney of an anonymous whistleblower not to share a classified complaint about the director’s handling of classified material with Congress. Gabbard’s general counsel sent the letter to attorney Andrew Bakaj in response to a letter sent on Feb. 3. Bakaj wrote that if Gabbard failed…",
+      "keywords": [
+        "ICE",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "classified"
+      ],
+      "significance": 9,
+      "reason": "An intelligence director's office attempting to prevent a whistleblower's attorney from sharing classified complaints with Congress directly undermines congressional oversight authority and whistleblower protections, core democratic checks on executive power.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "intelligence community integrity",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:40.027Z"
+    },
+    {
+      "id": "5ca240980ee3",
+      "title": "Thune: ‘Not even close’ to enough votes to change filibuster rule to enact voting reform",
+      "url": "https://thehill.com/homenews/senate/5732146-senate-filibuster-rule-thune/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:05:05.000Z",
+      "description": "Senate Majority Leader John Thune (R-S.D.) said “there aren’t anywhere close to the votes” needed to change the Senate’s filibuster rule to allow Republican-sponsored legislation to reform voter registration requirements to pass the upper chamber with fewer than 60 votes. Thune on Tuesday dismissed the idea that Republicans might lower the procedural threshold for advancing…",
+      "keywords": [
+        "voting",
+        "voter"
+      ],
+      "significance": 4,
+      "reason": "This represents a routine procedural statement about legislative feasibility rather than an action that meaningfully affects institutional checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:39.908Z"
+    },
+    {
+      "id": "6b4b3aa203c6",
+      "title": "Pelosi throws support behind Jack Schlossberg in New York House race",
+      "url": "https://thehill.com/homenews/campaign/5732152-nancy-pelosi-endorses-jack-schlossberg/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:01:27.000Z",
+      "description": "Speaker Emerita Rep. Nancy Pelosi (D-Calif.) is throwing her support behind Jack Schlossberg in the upcoming race for a New York congressional seat, an endorsement likely to boost his standing among a crowded Democratic primary field.   Pelosi said Schlossberg, the grandson of President John F. Kennedy and the son of former U.S. Ambassador Caroline Kennedy, “represents…",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a primary endorsement with no direct impact on democratic institutions, checks and balances, or constitutional processes.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:40.138Z"
+    },
+    {
+      "id": "6aec15343982",
+      "title": "GOP senators grill telecom giants over phone record subpoenas",
+      "url": "https://thehill.com/policy/technology/5732034-senate-judiciary-phone-records/",
+      "source": "The Hill",
+      "published": "2026-02-10T21:00:45.000Z",
+      "description": "Republican senators grilled top executives from AT&T, T-Mobile and Verizon on Tuesday for handing over the phone records of several members of Congress that were subpoenaed by former special counsel Jack Smith. The Senate Judiciary Committee called officials from the three telecommunications giants to testify before the panel over their decision to comply with Smith’s…",
+      "keywords": [
+        "subpoena"
+      ],
+      "significance": 5,
+      "reason": "Raises questions about DOJ independence and congressional oversight, but involves standard legal processes (subpoenas) rather than unprecedented institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:39.805Z"
+    },
+    {
+      "id": "2311408b531c",
+      "title": "Carney says he had ‘positive’ conversation with Trump after bridge threat",
+      "url": "https://thehill.com/policy/international/5732140-us-canada-bridge-dispute/",
+      "source": "The Hill",
+      "published": "2026-02-10T20:51:48.000Z",
+      "description": "Canadian Prime Minister Mark Carney said Tuesday that he had a “positive” conversation with President Trump after the president threatened to stop a bridge between the U.S. and Canada from being opened. “So, it was a positive conversation, it’s a big game today and we’re going to win,” Carney told reporters, referencing a U.S.-Canada Olympic…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic news about bilateral trade/infrastructure discussions with no direct bearing on U.S. constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:41.754Z"
+    },
+    {
+      "id": "59cf75d9b263",
+      "title": "Trump administration moves to restrict federal funds for EV chargers",
+      "url": "https://thehill.com/policy/energy-environment/5732153-trump-administration-restricts-ev-charger-funds/",
+      "source": "The Hill",
+      "published": "2026-02-10T20:47:28.000Z",
+      "description": "The Trump administration on Tuesday moved to restrict the flow of federal funds to electric vehicle chargers. The Transportation Department proposed to tighten restrictions on which electric vehicle chargers can receive federal funds – saying it will only allow funds to go to chargers whose components are 100 percent made in the U.S. Funds can now go…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine policy implementation regarding EV charger funding eligibility that does not implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T00:15:41.364Z"
+    },
+    {
+      "id": "edae0cc47e81",
+      "title": "Senate Leader Thune throws cold water on filibuster change in push for voter-ID bill",
+      "url": "https://www.cnbc.com/2026/02/10/senate-filibuster-thune-trump-save-act.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T22:16:39.000Z",
+      "description": "Voter ID legislation backed by President Donald Trump and his GOP allies faces an uphill climb in the Senate.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A Senate leader's position on filibuster rules and voter ID legislation represents routine legislative positioning rather than a systemic threat or erosion of institutional checks.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T00:15:41.638Z"
+    },
+    {
+      "id": "54e6fe5971b5",
+      "title": "Former Trump campaign lawyer sparked FBI probe of Fulton County ballots: Affidavit",
+      "url": "https://www.cnbc.com/2026/02/10/trump-olsen-fbi-fulton-county-ballots.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-10T21:06:45.000Z",
+      "description": "The FBI raid of a Fulton County, Georgia, election center generated controversy because of the presence of Trump national intelligence director Tulsi Gabbard.",
+      "keywords": [
+        "election",
+        "ballot",
+        "FBI",
+        "raid",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article documents a specific investigative action concerning election infrastructure and potential political influence on federal law enforcement, but lacks clarity on the substantive findings or institutional implications.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T00:15:41.814Z"
+    },
+    {
+      "id": "631b60286a9f",
+      "title": "Trump Official Who Called Epstein ‘Gross’ Admits to Island Trip",
+      "url": "https://www.rollingstone.com/politics/politics-news/howard-lutnick-admits-jeffrey-epstein-island-1235514372/",
+      "source": "Rolling Stone",
+      "published": "2026-02-10T21:17:54.000Z",
+      "description": "Howard Lutnick insisted last year he swore off Epstein decades ago. Emails tell a different story",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a personal credibility issue regarding a Trump official's past statements about Epstein, lacking institutional or systemic implications for democratic checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T00:15:41.583Z"
     }
   ],
   "lastDigest": "2026-02-10T00:20:25.175Z",
-  "lastFetch": "2026-02-10T18:20:01.515Z"
+  "lastFetch": "2026-02-11T00:15:41.814Z"
 }
