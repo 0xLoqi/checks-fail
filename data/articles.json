@@ -5757,8 +5757,418 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-11T06:21:52.761Z"
+    },
+    {
+      "id": "3371c8b05113",
+      "title": "With just days left until funding deadline, lawmakers seem no closer to making a deal",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5709006/with-just-days-left-until-funding-deadline-lawmakers-seem-no-closer-to-making-a-deal",
+      "source": "NPR Politics",
+      "published": "2026-02-11T12:00:22.000Z",
+      "description": "A contentious House hearing with senior immigration leaders did little to bring lawmakers closer on a deal to fund the Department of Homeland Security.",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While funding deadlines involve congressional oversight and executive branch operations, this article describes routine legislative disagreement without evidence of institutional breakdown or novel threats to checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-11T12:12:21.351Z"
+    },
+    {
+      "id": "2a2d99171e37",
+      "title": "Rep. Mike Quigley, D-Ill., talks about ICE reforms ahead of DHS funding deadline",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5708888/rep-mike-quigley-d-ill-talks-about-ice-reforms-ahead-of-dhs-funding-deadline",
+      "source": "NPR Politics",
+      "published": "2026-02-11T12:00:17.000Z",
+      "description": "NPR's Steve Inskeep speaks with Democratic Rep. Mike Quigley of Illinois about DHS funding and ICE reforms ahead of Friday's deadline to avert a partial government shutdown.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary on legislative negotiations regarding DHS funding and ICE policy, with no institutional action or precedent-setting developments.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T12:12:20.827Z"
+    },
+    {
+      "id": "689b47d426db",
+      "title": "Pam Bondi to face questions from House lawmakers about her helm of the DOJ",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice",
+      "source": "NPR Politics",
+      "published": "2026-02-11T10:00:00.000Z",
+      "description": "The attorney general's appearance before the House Judiciary Committee comes one year into her tenure, a period marked by a striking departure from traditions and norms at the Justice Department.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Congressional oversight of DOJ leadership regarding institutional norm departures represents a significant check on executive power, though the outcome remains uncertain.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T12:12:22.314Z"
+    },
+    {
+      "id": "1574026b2c95",
+      "title": "Maryland Gov. Wes Moore talks about being excluded from White House governors event",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707308/maryland-gov-wes-moore-talks-about-being-excluded-from-white-house-governors-event",
+      "source": "NPR Politics",
+      "published": "2026-02-11T09:47:51.000Z",
+      "description": "NPR's Michel Martin speaks with Maryland's Democratic Gov. Wes Moore about being disinvited from a White House event and his support for redistricting in his state.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political dispute involving event attendance and state policy disagreement, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:20.702Z"
+    },
+    {
+      "id": "b41a6f513152",
+      "title": "Annual governors' gathering with White House unraveling after Trump excludes Democrats",
+      "url": "https://www.npr.org/2026/02/11/g-s1-109579/annual-governors-gathering",
+      "source": "NPR Politics",
+      "published": "2026-02-11T07:18:48.000Z",
+      "description": "An annual meeting of the nation's governors that has long served as a rare bipartisan gathering is unraveling after President Donald Trump excluded Democratic governors from White House events.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the exclusion represents a breakdown of bipartisan norms and potentially affects congressional oversight dynamics, it is primarily a ceremonial/symbolic action without direct institutional consequences for constitutional checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-11T12:12:21.008Z"
+    },
+    {
+      "id": "a4aa7f7df108",
+      "title": "Poll: Americans support ICE overhaul amid federal funding fight",
+      "url": "https://www.nbcnews.com/politics/trump-administration/poll-americans-support-ice-overhaul-federal-funding-fight-rcna258241",
+      "source": "NBC News",
+      "published": "2026-02-11T11:00:40.000Z",
+      "description": "A sizable majority of Americans want significant changes to Immigration and Customs Enforcement — but while they largely disapprove of ICE and say its tactics have gone too far, the country is divided over just how much to reform the agency and how to handle immigration policy broadly, according to a new survey.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Public opinion polling on immigration policy preferences reflects routine democratic discourse rather than an institutional action or threat to checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-11T12:12:24.222Z"
+    },
+    {
+      "id": "bfa552e2b137",
+      "title": "Poll: Trump's ratings on immigration tumble as Americans lose confidence in his top issue",
+      "url": "https://www.nbcnews.com/politics/trump-administration/poll-trumps-ratings-immigration-tumble-americans-lose-confidence-top-i-rcna258159",
+      "source": "NBC News",
+      "published": "2026-02-11T11:00:40.000Z",
+      "description": "Support for President Donald Trump’s immigration agenda is in free fall in early 2026 after federal immigration agents shot and killed two Americans last month, according to the new NBC News Decision Desk Poll powered by SurveyMonkey",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine polling report on public opinion regarding immigration policy implementation, not an institutional action affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:23.169Z"
+    },
+    {
+      "id": "21553fb0ae73",
+      "title": "Bondi set to testify at House hearing amid scrutiny over Epstein files",
+      "url": "https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/",
+      "source": "CBS News",
+      "published": "2026-02-11T11:00:17.000Z",
+      "description": "Attorney General Pam Bondi is set to field questions about the Justice Department's handling of the Epstein files.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A congressional oversight hearing on DOJ handling of historical records raises legitimate accountability questions, but lacks indicators of systemic institutional threat or unprecedented democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T12:12:25.694Z"
+    },
+    {
+      "id": "f6361245b943",
+      "title": "Unusual FAA restriction closes El Paso airspace for 10 days",
+      "url": "https://www.axios.com/2026/02/11/faa-el-paso-airspace-closed-10-days-tfr",
+      "source": "Axios",
+      "published": "2026-02-11T11:40:58.000Z",
+      "description": "A 10-mile ring of airspace centered on El Paso, Texas, is effectively closed to aircraft for the next 10 days after the Federal Aviation Administration issued a surprise restriction late Tuesday night for \"special security reasons.\"\nWhy it matters: The temporary flight restriction, or TFR, includes the airspace over El Paso International Airport, effectively shutting down the city's main aviation link.\n\nA notice to pilots classified the area as \"national defense airspace,\" and warned that deadly",
+      "keywords": [
+        "ICE",
+        "classified"
+      ],
+      "significance": 3,
+      "reason": "While unusual, a temporary airspace restriction for security reasons is a routine operational decision that does not indicate erosion of democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:25.579Z"
+    },
+    {
+      "id": "3ed78cb5b00e",
+      "title": "The AI boom belongs to capital, not workers",
+      "url": "https://www.axios.com/2026/02/11/ai-boom-labor-market-jobs",
+      "source": "Axios",
+      "published": "2026-02-11T10:00:06.000Z",
+      "description": "Data: U.S. Commerce Department; Chart: Jacque Schrag/Axios\nThe United States is experiencing an investment boom from AI and the infrastructure that makes it possible — but much of those economic gains aren't reaching workers.\nWhy it matters: Job openings have become scarce and workers' wages are no longer rising that rapidly.\n\nThe big picture: That disconnect between strong growth and comparatively anemic results for workers may sound like a unique challenge of 2026, but in fact, it is part of a",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is economic analysis and commentary on wealth distribution trends, which does not directly engage with democratic institutions, constitutional checks and balances, or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:25.730Z"
+    },
+    {
+      "id": "0c427577818a",
+      "title": "Crime plunges in major cities despite Trump's crackdown rhetoric",
+      "url": "https://www.axios.com/2026/02/11/violent-crime-homicides-falls-major-cities-trump",
+      "source": "Axios",
+      "published": "2026-02-11T10:00:06.000Z",
+      "description": "CopyData: Major Cities Chiefs Association (MCCA); Chart: Axios Visuals\nViolent crime dropped sharply across America's biggest cities in 2025, according to new data reviewed by Axios.\nWhy it matters: The stats were yet another sign that violent crime in the U.S. was starkly different from what President Trump cited as his reason for sending federal troops to Chicago, Portland, Washington, D.C., Memphis and cities in California.\n\n\"Chicago is a hellhole right now. Baltimore is a hellhole right now,",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "The article documents a significant disconnect between Trump's stated justification for deploying federal troops to multiple cities and actual crime data, raising concerns about potential misuse of executive power and federal authority without legitimate basis.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T12:12:26.211Z"
+    },
+    {
+      "id": "d7f188ca2f84",
+      "title": "Ex-Biden officials keep him at a distance in their 2026 campaigns",
+      "url": "https://www.axios.com/2026/02/11/democrat-candidates-biden-2026",
+      "source": "Axios",
+      "published": "2026-02-11T10:00:05.000Z",
+      "description": "At least nine Biden administration alumni running for Congress or governor this year are keeping President Biden at arm's length in the run-up to the November elections.\nWhy it matters: Biden's brand is still a liability, even as Democrats salivate at the prospect of major gains against Republicans in the November elections.\n\nThat's why many non-incumbent Democrats aren't mentioning the ex-president in their campaigns' promotional materials.\nIt's a stark reversal from the 2018 midterms, when Dem",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "department of justice",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage about campaign strategy and candidate positioning, with no implications for institutional checks and balances or democratic integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:26.682Z"
+    },
+    {
+      "id": "525896ecd44b",
+      "title": "Drones are giving fans new angles on the Olympics",
+      "url": "https://www.axios.com/2026/02/11/milan-olympics-drone-video-broadcast",
+      "source": "Axios",
+      "published": "2026-02-11T09:30:05.000Z",
+      "description": "Drones and other tech advances are reshaping how viewers from around the world experience the Winter Olympics.\nWhy it matters: New camera angles can pull the audience into the athlete's perspective, making the sheer intensity and speed of events like skiing and bobsled easier to grasp.\n\nDriving the news: One of the most obvious tech advances at this year's games has been the extensive use of drones by the Olympic Broadcasting Services, the group that provides camera feeds to NBC and other broadc",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article about Olympic broadcasting technology has no relevance to any of the 12 tracked categories concerning democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:27.497Z"
+    },
+    {
+      "id": "14539bcd2d35",
+      "title": "Collins stares down tough reelection bid",
+      "url": "https://thehill.com/homenews/senate/5732403-susan-collins-reelection-bid/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Sen. Susan Collins (R-Maine) is staring down a precarious reelection bid after officially launching her campaign this week, with her fellow Senate Republicans trying to smooth the way as much as possible for their most vulnerable incumbent. The Maine centrist is key to the GOP’s path to keeping the majority in the upper chamber, prompting…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of a senator's reelection campaign with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:28.905Z"
+    },
+    {
+      "id": "c26576f02a65",
+      "title": "Ocasio-Cortez’s political clout grows after recent progressive wins",
+      "url": "https://thehill.com/homenews/campaign/5731749-ocasio-cortez-endorses-key-candidates/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) is seeing her political influence grow among Democrats as chatter builds about her future. Ocasio-Cortez had her latest win over the last week when her endorsed candidate in a crowded New Jersey House special primary election, Analilia Mejia, performed above expectations. On Tuesday, her top rival, former Rep. Tom Malinowski (D-N.J.),…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a member of Congress's growing influence within her party through endorsements, with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:27.849Z"
+    },
+    {
+      "id": "3aa3b6675a62",
+      "title": "Democrats lead GOP rivals in key Minnesota races: Poll",
+      "url": "https://thehill.com/homenews/campaign/5732315-minnesota-gop-faces-challenges/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Democrats are leading their Republican challengers in several high-profile Minnesota races this year, including contests for governor and Senate, according to a new poll.  An Emerson College Polling survey released on Wednesday found Sen. Amy Klobuchar (D-Minn.), who’s running for governor, handily beating both of her top potential Republican opponents, MyPillow CEO Mike Lindell and Minnesota House Speaker Lisa Demuth. …",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 1,
+      "reason": "This is routine political polling coverage with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:28.445Z"
+    },
+    {
+      "id": "09e168a4a1f2",
+      "title": "DHS faces weekend shutdown with ICE talks inching forward",
+      "url": "https://thehill.com/homenews/senate/5732420-senate-democrats-ice-reform-demands/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Senate Democrats say negotiations with the White House to reform Immigration and Customs Enforcement (ICE) haven’t made enough progress for them to support another short-term funding agreement to keep the Department of Homeland Security (DHS) open. Senate Democrats say they won’t vote for another stopgap to keep the DHS open beyond Friday unless Republicans agree…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Routine budget negotiation reporting typical of legislative process without evidence of institutional breakdown or unprecedented democratic erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-11T12:12:27.932Z"
+    },
+    {
+      "id": "5343f055a615",
+      "title": "Democrats grapple with choice of progressive vs. centrist",
+      "url": "https://thehill.com/homenews/campaign/5732030-democrats-2028-centrist-progressive-debate/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Democrats are grappling with an existential question as the 2028 Democratic primary comes into view: Is a centrist or progressive candidate best positioned to win not only the nomination, but also in November against the GOP? Rep. Alexandria Ocasio-Cortez (D-N.Y.) is increasingly being seen as the future of the party by Democrats who say she…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party primary strategy discussions with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:29.749Z"
+    },
+    {
+      "id": "8d4b8555b006",
+      "title": "Raskin launches probe into Ed Martin’s removal from Weaponization Working Group",
+      "url": "https://thehill.com/homenews/house/5732370-raskin-ed-martin-weaponization-working-group/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Rep. Jamie Raskin (D-Md.) is demanding the Justice Department turn over all its files related to the demotion of Ed Martin from his role as the head of the Weaponization Working Group amid reports he improperly disclosed grand jury material about prosecutions of Trump foes. The new probe from the top Democrat on the House…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This involves congressional oversight of DOJ personnel decisions and potential misconduct, but represents routine investigative activity rather than a systemic institutional threat.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T12:12:29.850Z"
+    },
+    {
+      "id": "272ca518ae74",
+      "title": "As schools go remote in the face of ICE, pandemic-era concerns reemerge",
+      "url": "https://thehill.com/homenews/education/5731854-ice-minnesota-schools-remote-learning-ohio-california/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "A growing number of schools are offering remote learning in the face of attendance drops due to U.S. Immigration and Customs Enforcement (ICE) activity, bringing back pandemic-era problems — and some new ones as well.  While schools around Minneapolis offered virtual learning to combat the substantial increase in student absences in the face of the Trump administration’s…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Illustrates policy impacts on civil rights and institutional functioning, but represents responsive school adaptation rather than direct institutional erosion of checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-11T12:12:30.871Z"
+    },
+    {
+      "id": "24c0dc0f9302",
+      "title": "‘From disbelief to anger to sadness’: Canadian envoy to US says country stunned by Trump trade fights",
+      "url": "https://thehill.com/business/5731717-trump-carney-trade-tensions/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "It has been a roller coaster ride for outgoing Canadian Ambassador to the U.S. Kirsten Hillman, who is leaving Washington this month after six years as Ottawa’s top envoy to the U.S.  Hillman, who assumed her post in 2020, recalled “hard” and “volatile” trade talks with the U.S. and Mexico during President Trump’s first term,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article reports on a foreign diplomat's personal reflections about trade negotiations, which does not directly concern U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T12:12:29.705Z"
+    },
+    {
+      "id": "6f5bb3a0ba8d",
+      "title": "Lutnick under fire after latest batch of Epstein revelations",
+      "url": "https://thehill.com/homenews/administration/5732351-howard-lutnick-epstein-scandal/",
+      "source": "The Hill",
+      "published": "2026-02-11T11:00:00.000Z",
+      "description": "Commerce Secretary Howard Lutnick is facing growing calls to resign this week after new revelations in a fresh batch of the Jeffrey Epstein files tied him to the convicted sex offender more closely and more recently. But the White House is standing firm, saying President Trump has unwavering support for his Cabinet secretary and longtime…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a personnel/scandal story about a Cabinet member's personal associations that does not directly implicate systemic democratic checks and balances or institutional governance.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-11T12:12:29.841Z"
+    },
+    {
+      "id": "01785da323c4",
+      "title": "Tariff bill in U.S. states hits $200 billion as affordability and Trump head into midterms showdown",
+      "url": "https://www.cnbc.com/2026/02/11/inflation-affordability-trump-tariffs-midterm-elections.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-11T11:58:59.000Z",
+      "description": "New data shows that states where key midterm elections races will take place paid over $134 billion in tariffs during 2025 as affordability issues mounted.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While tariff impacts on affordability are economically significant and politically relevant to midterm races, this primarily reflects policy consequences rather than direct threats to institutional checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-11T12:12:32.926Z"
     }
   ],
   "lastDigest": "2026-02-11T00:20:28.315Z",
-  "lastFetch": "2026-02-11T06:21:53.836Z"
+  "lastFetch": "2026-02-11T12:12:32.926Z"
 }
