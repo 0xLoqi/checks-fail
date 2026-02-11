@@ -6167,8 +6167,689 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-11T12:12:32.926Z"
+    },
+    {
+      "id": "81be0dfd9e63",
+      "title": "WATCH LIVE: House expected to vote on Trump tariffs, SAVE Act",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-on-trump-tariffs-save-act",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T17:48:53.000Z",
+      "description": "A vote to disapprove of the Trump administration's tariff plan is expected as soon as Wednesday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Congressional tariff votes represent routine legislative oversight of executive trade policy, though the specific circumstances and margin could indicate broader separation-of-powers dynamics.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:42.298Z"
+    },
+    {
+      "id": "9f8ba02489b8",
+      "title": "WATCH: Rep. Jayapal asks Bondi to apologize in person to Epstein survivors",
+      "url": "https://www.pbs.org/newshour/politics/watch-rep-jayapal-asks-bondi-to-apologize-in-person-to-epstein-survivors",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T17:07:01.000Z",
+      "description": "In a heated exchange, Jayapal asked Attorney General Pam Bondi to turn to the survivors in attendance \"and apologize for what your Department of Justice has put them through with the absolutely unacceptable release of the Epstein files and their information.\"",
+      "keywords": [
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This covers a congressional exchange regarding document release procedures and victim notification, which is routine oversight questioning rather than evidence of systemic checks-and-balances erosion.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:44.084Z"
+    },
+    {
+      "id": "5ffd2ef753a2",
+      "title": "FAA lifts airspace shutdown over El Paso after announcing 10-day closure hours earlier",
+      "url": "https://www.pbs.org/newshour/nation/faa-lifts-airspace-shutdown-over-el-paso-after-announcing-10-day-closure-hours-earlier",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T14:28:19.000Z",
+      "description": "A Mexican cartel drone incursion prompted an hourslong closure of airspace around El Paso International Airport in Texas that was lifted on Wednesday morning, the Trump administration said.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine operational/security incident involving airspace management with no bearing on democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:41.917Z"
+    },
+    {
+      "id": "bd6c7ffa34b8",
+      "title": "WATCH LIVE: Pam Bondi appears at House Judiciary Committee hearing on Justice Department oversight",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-pam-bondi-appears-at-house-judiciary-committee-hearing-on-justice-department-oversight",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T13:35:10.000Z",
+      "description": "Bondi will face questions from lawmakers Wednesday over the Justice Department's handling of files related to Jeffrey Epstein that have exposed sensitive private information about victims despite redaction efforts.",
+      "keywords": [
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A routine congressional oversight hearing on DOJ document handling procedures, significant for institutional accountability but not indicative of systemic democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:42.027Z"
+    },
+    {
+      "id": "a5b247a675dd",
+      "title": "Pam Bondi hearing devolves into shouting matches with Democrats over Epstein and DOJ prosecutions",
+      "url": "https://www.nbcnews.com/politics/justice-department/pam-bondi-hearing-jeffrey-epstein-trump-rcna258522",
+      "source": "NBC News",
+      "published": "2026-02-11T17:09:09.000Z",
+      "description": "Attorney General Pam Bondi lashed out at judges and lawmakers at a contentious House Judiciary Committee hearing on Wednesday that followed reports of President Donald Trump's gripes with her tenure.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A contentious confirmation/oversight hearing reflects partisan tensions and potential DOJ independence concerns, but the hearing itself is a normal legislative check on executive power rather than evidence of institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:45.854Z"
+    },
+    {
+      "id": "a04fc93df11a",
+      "title": "Bondi touts stock exchange numbers while defending Trump at House hearing",
+      "url": "https://www.nbcnews.com/now/video/bondi-touts-stock-exchange-numbers-while-defending-trump-at-house-hearing-257518149829",
+      "source": "NBC News",
+      "published": "2026-02-11T16:12:27.000Z",
+      "description": "Attorney General Pam Bondi clashed with Democrats on the House Judiciary Committee as they asked questions about the Jeffrey Epstein files and raised the current numbers of the Dow Jones Index and other stock market factors while defending President Trump.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Routine partisan hearing exchange between AG and opposing party members, lacking evidence of systemic institutional erosion or unprecedented democratic breach.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:45.163Z"
+    },
+    {
+      "id": "347764ca10a1",
+      "title": "Rep. Jayapal demands Bondi apologize to Epstein survivors in hearing room",
+      "url": "https://www.nbcnews.com/now/video/rep-jayapal-demands-bondi-apologize-to-epstein-survivors-in-hearing-room-257515077820",
+      "source": "NBC News",
+      "published": "2026-02-11T15:59:05.000Z",
+      "description": "Rep. Pramila Jayapal, D-Wash., demanded that Attorney General Pam Bondi apologize to victims of Jeffrey Epstein who were in the audience during her testimony to the House Judiciary Committee. When Jayapal asked the victims to raise their hands to indicate if they had not met with the Department of Justice, they all did so.",
+      "keywords": [
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "This reflects a notable but not urgent congressional oversight moment regarding DOJ accountability and victim engagement, without indicating systematic institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:45.137Z"
+    },
+    {
+      "id": "08b39f346584",
+      "title": "Bondi discusses Epstein files, Minnesota and drug trafficking in opening statement",
+      "url": "https://www.nbcnews.com/now/video/bondi-discusses-epstein-files-minnesota-and-drug-trafficking-in-opening-statement-257515589783",
+      "source": "NBC News",
+      "published": "2026-02-11T15:40:41.000Z",
+      "description": "Attorney General Pam Bondi used her opening statement at a House hearing to discuss the Department of Justice's efforts to \"make America safe again.\" She addressed recent federal action in cities that included \"avoidable clashes on the streets,\" efforts to combat drug trafficking and the review and release of the Epstein files.",
+      "keywords": [
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Routine reporting on an AG's opening statement about DOJ priorities and policy positions without evidence of institutional action or democratic erosion.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-11T18:17:45.076Z"
+    },
+    {
+      "id": "b9b4a51c18da",
+      "title": "J.P. Cooney, ex-Trump prosecutor in Jack Smith's office, is running for Congress",
+      "url": "https://www.nbcnews.com/politics/2026-election/jp-cooney-trump-jack-smith-prosecutor-running-for-congress-virginia-rcna258505",
+      "source": "NBC News",
+      "published": "2026-02-11T14:05:23.000Z",
+      "description": "A former deputy to ex-special counsel Jack Smith, J.P. Cooney, announced Wednesday morning that he is launching a congressional bid in Virginia.",
+      "keywords": [
+        "prosecutor",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A former prosecutor's career move to electoral politics is routine personnel news without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:47.234Z"
+    },
+    {
+      "id": "1099828bb89e",
+      "title": "Iran rules out broader U.S. talks as Trump hints at sending 2nd carrier",
+      "url": "https://www.nbcnews.com/world/iran/iran-us-nuclear-talks-trump-carrier-netanyahu-meeting-israel-rcna258495",
+      "source": "NBC News",
+      "published": "2026-02-11T13:27:09.000Z",
+      "description": "Iran insisted Wednesday that it was willing to negotiate with the United States over its nuclear program, but ruled out broader talks at a pivotal moment in diplomacy between Washington and Tehran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns U.S.-Iran foreign policy negotiations and military positioning, which does not directly implicate any of the 12 democratic checks and balances categories tracked.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:46.891Z"
+    },
+    {
+      "id": "0ddddcf1d3f1",
+      "title": "Lawyer for lawmaker in illegal orders video threatens suit after failed charges",
+      "url": "https://www.cbsnews.com/news/jason-crow-letter-jeanine-pirro-illegal-orders-video-records-lawsuit/",
+      "source": "CBS News",
+      "published": "2026-02-11T18:15:09.000Z",
+      "description": "An attorney for one of the lawmakers who appeared in a video telling members of the military to reject \"illegal orders\" demanded that the federal prosecutors preserve records for a potential suit.",
+      "keywords": [
+        "prosecutor"
+      ],
+      "significance": 5,
+      "reason": "The threat of litigation regarding prosecutorial conduct touches on judicial independence and DOJ accountability, but lacks the institutional significance of actual charges, convictions, or policy changes.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-11T18:17:47.012Z"
+    },
+    {
+      "id": "466b183ca996",
+      "title": "McConnell released from hospital after weeklong stay for \"flu-like symptoms\"",
+      "url": "https://www.cbsnews.com/news/mitch-mcconnell-released-from-hospital-flu-like-symptoms/",
+      "source": "CBS News",
+      "published": "2026-02-11T17:38:44.000Z",
+      "description": "\"He is feeling better and will be working from home this week on the advice of his doctors,\" Sen. Mitch McConnell's spokesman said.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine health news about a senator's medical condition with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:47.181Z"
+    },
+    {
+      "id": "5e349d2f1c35",
+      "title": "Airspace closure followed FAA, Pentagon spat over drone-related tests, sources say",
+      "url": "https://www.cbsnews.com/news/airspace-closure-followed-spat-over-drone-related-tests-and-party-balloon-shoot-down-sources-say/",
+      "source": "CBS News",
+      "published": "2026-02-11T17:21:47.000Z",
+      "description": "Pentagon officials had undertaken planning to use military technology near Fort Bliss, in El Paso, to practice downing drones.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on an internal Pentagon-FAA coordination matter regarding military testing procedures with no apparent impact on constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:48.716Z"
+    },
+    {
+      "id": "e4a7bb13bcee",
+      "title": "Data center building boom stirs pushback in state and local politics",
+      "url": "https://www.cbsnews.com/news/data-center-building-boom-politics/",
+      "source": "CBS News",
+      "published": "2026-02-11T16:14:17.000Z",
+      "description": "The Trump administration is trying to supercharge the race to dominate artificial intelligence by fast-tracking federal permits for data centers, but some local homeowners are raising concerns.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine article about local zoning and permitting disputes related to data center development, with no direct connection to democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:48.551Z"
+    },
+    {
+      "id": "d3f379fae858",
+      "title": "House to vote on the SAVE America Act as GOP makes election bill push",
+      "url": "https://www.cbsnews.com/news/save-america-act-election-bill-house-republicans/",
+      "source": "CBS News",
+      "published": "2026-02-11T12:52:59.000Z",
+      "description": "The House is set to vote Wednesday on the SAVE America Act, which would implement strict new requirements for registering to vote and casting ballots.",
+      "keywords": [
+        "election",
+        "ballot"
+      ],
+      "significance": 7,
+      "reason": "Major legislative action directly affecting election infrastructure and voting access with significant implications for democratic participation and electoral systems.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-11T18:17:48.746Z"
+    },
+    {
+      "id": "f5750c69cdbc",
+      "title": "Former Senate Leader Mitch McConnell discharged from hospital after week-long stay",
+      "url": "https://www.axios.com/2026/02/11/mitch-mcconnell-discharged-hospital-flu-senate",
+      "source": "Axios",
+      "published": "2026-02-11T16:41:27.000Z",
+      "description": "Sen. Mitch McConnell (R-Ky.) was discharged from the hospital Tuesday after  checking in last week due to \"flu-like symptoms,\" his spokesperson said in a statement.\nDriving the news: The 83-year-old former Senate Republican leader \"is grateful for the outstanding care he received,\" the spokesperson said. \n\n\"He is feeling better and will be working from home this week on the advice of his doctors.\"\n\nEditor's note: This is a breaking news story. Check back for updates.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine health news about a public figure with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:48.489Z"
+    },
+    {
+      "id": "f020c748588a",
+      "title": "House Democrats plot barrage of anti-tariff votes after stunning GOP failure",
+      "url": "https://www.axios.com/2026/02/11/tariff-votes-congress-canada-mexico-democrats",
+      "source": "Axios",
+      "published": "2026-02-11T16:05:17.000Z",
+      "description": "House Democrats are already planning to force votes overturning at least two of President Trump's tariffs, with more likely to follow, senior lawmakers tell Axios.\nWhy it matters: House Speaker Mike Johnson (R-La.) has repeatedly blocked these votes over the past year, but his attempt to do so on Tuesday was thwarted by a trio of Republican defectors in a late-night vote.\n\nJohnson's procedural maneuver to stop Democrats from forcing votes to end Trump's tariffs under the National Emergencies Act",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but not urgent instance of congressional oversight asserting itself through procedural mechanisms, demonstrating checks-and-balances functioning but without unprecedented institutional change.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:48.302Z"
+    },
+    {
+      "id": "8b593e1aa008",
+      "title": "House Democrats try to shut down disruptions at Trump's State of the Union",
+      "url": "https://www.axios.com/2026/02/11/trump-democrats-state-of-the-union-disruptions",
+      "source": "Axios",
+      "published": "2026-02-11T15:47:11.000Z",
+      "description": "House Democrats are clamping down on disruptions at President Trump's upcoming State of the Union in the hopes of putting on a more stolid display of opposition, sources told Axios.\nWhy it matters: Last year's speech to a joint session of Congress was rocked by Democrats holding up signs, heckling and walking out of the speech in displays of resistance.\n\nRep. Al Green (D-Texas) was ejected from the speech and later censured for standing up and repeatedly shouting at the beginning of the speech.\n",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine internal party management regarding decorum at a legislative event, with no implications for democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:50.021Z"
+    },
+    {
+      "id": "ab5254644069",
+      "title": "FAA reopens El Paso airspace after its abrupt closure",
+      "url": "https://www.axios.com/2026/02/11/faa-el-paso-airspace-closure-ended",
+      "source": "Axios",
+      "published": "2026-02-11T15:00:15.000Z",
+      "description": "The Federal Aviation Administration reopened the airspace over El Paso, Texas, Wednesday after abruptly closing it earlier in the morning.\nWhy it matters: The closure would have prevented any flights in and out of the local airport for 10 days, creating massive travel disruptions.\n\nDriving the news: Several hours after issuing the restrictions for \"special security reasons,\" the FAA announced via an X post Wednesday that the temporary closure had been lifted.\n\n\"There is no threat to commercial a",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "A routine operational decision to reopen airspace with no indication of institutional erosion or democratic governance concerns.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:49.749Z"
+    },
+    {
+      "id": "2d97e4f995df",
+      "title": "El Paso airspace shutdown sparked by \"drone incursion\" near border: Officials",
+      "url": "https://www.axios.com/2026/02/11/el-paso-airspace-drones-faa-pentagon-breakdown",
+      "source": "Axios",
+      "published": "2026-02-11T14:45:30.000Z",
+      "description": "The sudden, unexplained closure of the airspace around El Paso, Texas, was ordered when the military responded to a \"cartel drone incursion,\" Transportation Secretary Sean Duffy said Wednesday.\nThe intrigue: Early indications suggest a communications breakdown between the Federal Aviation Administration and the military may have contributed to the extraordinary order to close El Paso's airspace for 10 days — a decision reversed some eight hours later.\n\nDriving the news: The order alarmed residen",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news story about an operational security incident and potential communications breakdown between federal agencies, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:49.796Z"
+    },
+    {
+      "id": "36cbe65e9f61",
+      "title": "Haley: No talk of ‘fiscal conservatism’ from Trump White House",
+      "url": "https://thehill.com/homenews/administration/5733614-haley-fiscal-conservatism-jobs/",
+      "source": "The Hill",
+      "published": "2026-02-11T18:07:04.000Z",
+      "description": "Former South Carolina Gov. Nikki Haley (R) said “something needs to be done” on the issue of affordability in America or Republicans will be imperiled in the upcoming midterm elections.  “Fiscal conservatism has not been talked about at all during this administration,” Haley told Fox News’s Brett Baier on Tuesday evening. “And I think now…",
+      "keywords": [
+        "election",
+        "midterm",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on fiscal policy messaging by a political figure, lacking substantive information about institutional checks, democratic mechanisms, or government actions that would affect constitutional balance.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:50.040Z"
+    },
+    {
+      "id": "b753a14f6f62",
+      "title": "House tees up final vote on GOP elections bill",
+      "url": "https://thehill.com/homenews/house/5733505-house-vote-elections-bill-save-act/",
+      "source": "The Hill",
+      "published": "2026-02-11T18:06:43.000Z",
+      "description": "The House on Wednesday advanced a Republican-backed voting requirements bill and three other measures, rebounding from a mini-GOP revolt that had derailed the passage of a procedural rule a day earlier. The lower chamber voted 216-215 to pass the rule, which tees up debate and votes on final passage for all four measures.  It was…",
+      "keywords": [
+        "election",
+        "voting"
+      ],
+      "significance": 4,
+      "reason": "A routine procedural vote advancing election-related legislation represents standard legislative activity, though election infrastructure falls within monitored democratic categories.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:50.252Z"
+    },
+    {
+      "id": "f3d4627062ce",
+      "title": "El Paso mayor: Airspace closure caused ‘chaos and confusion’",
+      "url": "https://thehill.com/homenews/state-watch/5733593-el-paso-airspace-closure/",
+      "source": "The Hill",
+      "published": "2026-02-11T18:06:16.000Z",
+      "description": "The Federal Aviation Administration’s overnight closure of the airspace over El Paso International Airport and subsequent decision to lift the restrictions roughly eight hours later caused “chaos and confusion” in Texas’s sixth-largest city, the city’s mayor said Wednesday. El Paso Mayor Renard Johnson slammed the lack of clarity coming from the federal government, saying during…",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news story about airport operations and federal agency communication that does not implicate democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:51.026Z"
+    },
+    {
+      "id": "1a2823181299",
+      "title": "Kelly, Slotkin deride DOJ attempt to indict Democrats: A ‘master alarm flashing for our democracy’",
+      "url": "https://thehill.com/homenews/senate/5733621-kelly-slotkin-doj-indictment/",
+      "source": "The Hill",
+      "published": "2026-02-11T18:02:15.000Z",
+      "description": "A pair of Senate Democrats on Wednesday warned that the Justice Department’s attempt to indict six members of Congress who reminded active duty military members they are able to refuse unlawful orders represents a “master alarm flashing for our democracy.”  Sen. Mark Kelly (D-Ariz.), standing with Sen. Elissa Slotkin (D-Mich.), derided the move by the…",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "democracy",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Alleged DOJ prosecution of members of Congress for protected speech raises significant concerns about DOJ independence, political retribution, and potential institutional overreach.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:51.387Z"
+    },
+    {
+      "id": "917bfa7cd9d8",
+      "title": "Did MAGA lose the culture war on Super Bowl Sunday?",
+      "url": "https://thehill.com/opinion/white-house/5732806-bad-bunny-super-bowl/",
+      "source": "The Hill",
+      "published": "2026-02-11T18:00:00.000Z",
+      "description": "Bad Bunny's Super Bowl performance was a celebration of America's cultural diversity, which was a defeat for Team MAGA in the culture wars, as evidenced by the failure of the Melania Trump documentary and the controversy surrounding Kid Rock's lyrics.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment and culture commentary with no direct bearing on institutional checks and balances, democratic processes, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:51.142Z"
+    },
+    {
+      "id": "5d5f93d702f2",
+      "title": "Over half disapprove of how Trump has handled border security, immigration: Survey",
+      "url": "https://thehill.com/homenews/5733516-poll-trump-handling-immigration/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:34:25.000Z",
+      "description": "Over half of people in a new poll said they disapprove of how President Trump is handling one of his central campaign promises: immigration enforcement.  The NBC News poll found that 60 percent of respondents said they disapprove — either “strongly” or “somewhat” — of the way Trump has handled the issues of border security…",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine polling report on public opinion regarding immigration policy implementation, with no direct bearing on institutional checks and balances or democratic structures.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:51.606Z"
+    },
+    {
+      "id": "e2dd204f246a",
+      "title": "Two xAI cofounders announce departures in quick succession",
+      "url": "https://thehill.com/policy/technology/5733483-elon-musk-xai-departures/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:27:54.000Z",
+      "description": "Two co-founders of Elon Musk’s xAI resigned with little explanation, leaving the AI company with half of its original dozen co-founders. Tony Wu announced early Tuesday that he had resigned from xAI, saying it was “time for my next chapter” and thanking Musk “for believing in the mission and for the ride of a lifetime.”…",
+      "keywords": [
+        "musk",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine corporate personnel announcement with no connection to U.S. democratic institutions, government oversight, or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:51.252Z"
+    },
+    {
+      "id": "7e0cd4fc334a",
+      "title": "Trump considers sending second carrier to Middle East",
+      "url": "https://thehill.com/policy/defense/5733517-trump-considers-second-aircraft-carrier-iran/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:25:01.000Z",
+      "description": "President Trump is considering sending a second aircraft carrier to the Middle East to beef up U.S. military presence in the region as he threatens to authorize strikes on Iran if diplomacy falters.  “We have an armada that is heading there and another one might be going,” the president said during an interview with Axios…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine military/foreign policy news involving executive war powers that does not directly implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:52.821Z"
+    },
+    {
+      "id": "d7d89ca8ee86",
+      "title": "Sanders: If this is greatest economy in history, ‘God help us’",
+      "url": "https://thehill.com/homenews/senate/5733386-sanders-slams-trump-economic-claims/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:16:02.000Z",
+      "description": "Sen. Bernie Sanders (I-Vt.) on Tuesday questioned President Trump’s latest evaluation on the state of the economy, saying that if the president’s assessment is true, “God help us.” “You wonder whether Trump is completely crazy and delusional or just a pathological liar,” Sanders told MS NOW host Chris Hayes. “But the idea that anybody would…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is political commentary and opinion criticism of economic claims, with no institutional action, policy change, or democratic mechanism impact.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:52.611Z"
+    },
+    {
+      "id": "e50249b1ae8c",
+      "title": "Georgia election offices search relied on years-old fraud claims: Affidavit",
+      "url": "https://thehill.com/homenews/state-watch/5733457-fbi-raid-fulton-county/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:04:12.000Z",
+      "description": "The FBI raid of a Fulton County, Ga., election office late last month was based on widely unsubstantiated claims of fraud in the 2020 presidential election, according to an affidavit unsealed Tuesday. The affidavit, signed by FBI Special Agent Hugh Raymond Evans, cited “allegations of electoral impropriety relating to the voting process and ballot counting”…",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "FBI",
+        "raid",
+        "ICE",
+        "fulton county",
+        "georgia election"
+      ],
+      "significance": 7,
+      "reason": "Significant institutional concern as it demonstrates potential misuse of federal law enforcement (FBI) authority to investigate election infrastructure based on unsubstantiated fraud claims, directly implicating both FBI independence and election infrastructure integrity.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T18:17:53.182Z"
+    },
+    {
+      "id": "0d4c143bb7d5",
+      "title": "Democrats need to shift their fire from Trump to the Republicans",
+      "url": "https://thehill.com/opinion/campaign/5732186-hold-republicans-accountable-trump/",
+      "source": "The Hill",
+      "published": "2026-02-11T17:00:00.000Z",
+      "description": "Everything Trump does should be framed as Republican policy (because it is) and much less about his personal pathologies",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary advocating a political messaging strategy rather than reporting on institutional actions, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-11T18:17:52.813Z"
+    },
+    {
+      "id": "ff4f7df446f6",
+      "title": "Tillis applauds jury’s rejection of Justice Department’s attempt to indict Democratic colleagues",
+      "url": "https://thehill.com/homenews/senate/5733465-democratic-lawmakers-avoid-indictment/",
+      "source": "The Hill",
+      "published": "2026-02-11T16:57:15.000Z",
+      "description": "Republican Sen. Thom Tillis (N.C.) on Wednesday applauded a grand jury’s rejection of an effort by federal prosecutors to indict six Democratic lawmakers who last year circulated a video urging members of the military to refuse illegal orders. The grand jury convened in the Federal District of Washington, D.C., refused to approve the criminal charges…",
+      "keywords": [
+        "prosecutor",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A grand jury's decision to reject charges demonstrates the judicial system functioning as a check on prosecutorial overreach, but the incident itself involves routine prosecutorial discretion rather than a systemic threat or institutional action.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T18:17:53.406Z"
+    },
+    {
+      "id": "7e13347f2fd2",
+      "title": "Live updates: Bondi hearing turns into shouting match; Dems won’t back DHS stopgap",
+      "url": "https://thehill.com/homenews/administration/5731595-live-updates-doj-jeffrey-epstein-donald-trump-dhs-funding/",
+      "source": "The Hill",
+      "published": "2026-02-11T16:34:00.000Z",
+      "description": "Attorney General Pam Bondi is on Capitol Hill Wednesday morning to testify before the House Judiciary Committee, in a hearing that quickly turned combative. Democrats immediately pressed Bondi with questions related to the Department of Justice’s (DOJ) handling of the Epstein files while she accused the Democrats of “theatrics.” The DOJ released its final batch…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A contentious confirmation hearing on DOJ independence and congressional oversight reflects institutional tension but represents normal democratic processes rather than unprecedented erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:54.383Z"
+    },
+    {
+      "id": "fafed3fe2a47",
+      "title": "‘No reason’ Alex Pretti should have died, mother says",
+      "url": "https://thehill.com/homenews/state-watch/5733372-parents-speak-out-alex-pretti/",
+      "source": "The Hill",
+      "published": "2026-02-11T16:24:06.000Z",
+      "description": "The parents of the man killed by federal immigration agents in Minneapolis last month are speaking out.  In their first sit-down interview with The New York Times, Michael and Susan Pretti reflected on the life and legacy of their son, Alex Pretti.  The 37-year-old ICU nurse was killed after he tried to assist a woman…",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 6,
+      "reason": "While this incident raises serious concerns about federal agent conduct and civil rights, the article itself is a personal/family narrative rather than reporting on systemic policy changes, legal rulings, or institutional responses that would indicate broader democratic erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-11T18:17:54.807Z"
+    },
+    {
+      "id": "bba1c44b15d6",
+      "title": "Shouting match erupts after Bondi asked to apologize to Epstein victims",
+      "url": "https://thehill.com/homenews/house/5733381-shouting-match-bondi-jayapal-epstein-victims/",
+      "source": "The Hill",
+      "published": "2026-02-11T16:23:42.000Z",
+      "description": "Attorney General Pam Bondi rebuffed a request from Rep. Pramila Jayapal (D-Wash.) to turn around and address victims of sex offender Jeffrey Epstein who were in the audience of a House Judiciary Committee hearing, resulting in a shouting match during which the attorney general accused the lawmaker of “theatrics.” Jayapal used her questioning to criticize the Justice Department for…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine incident of congressional theater and personal conflict between elected officials that does not reflect institutional erosion of democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:54.314Z"
+    },
+    {
+      "id": "d1b9d84f3a51",
+      "title": "Watch: AG Bondi touts Dow records as furious Dems grill her over Epstein and Trump",
+      "url": "https://www.cnbc.com/2026/02/11/trump-pam-bondi-hearing-stock-epstein-judiciary-dow.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-11T17:02:16.000Z",
+      "description": "Bondi's sworn testimony came after Rep. Jerrold Nadler, D-N.Y., slammed the DOJ for so far failing to indict any Jeffrey Epstein co-conspirators.",
+      "keywords": [
+        "DOJ",
+        "bondi",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of DOJ leadership is routine, though questions about prosecutorial independence and potential political influence regarding high-profile cases warrant monitoring.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-11T18:17:54.505Z"
+    },
+    {
+      "id": "adecc54912c6",
+      "title": "SAVE Act: House to vote on Trump-backed voter ID bill",
+      "url": "https://www.cnbc.com/2026/02/11/trump-save-act-house-voter-id.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-11T17:44:28.000Z",
+      "description": "The SAVE America Act's GOP supporters say it would secure elections and prevent fraud. Democrats say it could disenfranchise millions.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Major legislative action directly affecting election infrastructure and voting rights with significant partisan disagreement over democratic access.",
+      "categories": [
+        "election infrastructure",
+        "civil rights"
+      ],
+      "scoredAt": "2026-02-11T18:17:54.489Z"
+    },
+    {
+      "id": "d052728ae135",
+      "title": "Trump Canada tariffs face House vote after Republican leaders fail to block rebellion",
+      "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-11T16:13:12.000Z",
+      "description": "Republican House leaders tried, and failed, to pass a measure on Tuesday that would have blocked House disapproval votes on Trump tariffs through July.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but not urgent instance of congressional oversight functioning as designed, with House members exercising their constitutional authority to challenge executive tariff decisions regardless of party leadership pressure.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-11T18:17:55.779Z"
     }
   ],
   "lastDigest": "2026-02-11T00:20:28.315Z",
-  "lastFetch": "2026-02-11T12:12:32.926Z"
+  "lastFetch": "2026-02-11T18:17:55.779Z"
 }
