@@ -2896,7 +2896,8 @@
         "political retribution",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-10T06:22:29.356Z"
+      "scoredAt": "2026-02-10T06:22:29.356Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "5d5d8a814d24",
@@ -3075,7 +3076,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T06:22:31.035Z"
+      "scoredAt": "2026-02-10T06:22:31.035Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "64a33b99810c",
@@ -3537,7 +3539,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-10T12:13:24.458Z"
+      "scoredAt": "2026-02-10T12:13:24.458Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "d08acc000bc3",
@@ -3890,7 +3893,8 @@
         "political retribution",
         "judicial independence"
       ],
-      "scoredAt": "2026-02-10T18:19:40.510Z"
+      "scoredAt": "2026-02-10T18:19:40.510Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "5b3c7afe97ec",
@@ -3963,7 +3967,8 @@
         "judicial independence",
         "DOJ independence"
       ],
-      "scoredAt": "2026-02-10T18:19:43.510Z"
+      "scoredAt": "2026-02-10T18:19:43.510Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "f8a0b18197a7",
@@ -4372,7 +4377,8 @@
       "categories": [
         "press freedom"
       ],
-      "scoredAt": "2026-02-10T18:20:00.176Z"
+      "scoredAt": "2026-02-10T18:20:00.176Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "9e7c101e624d",
@@ -4460,7 +4466,8 @@
         "federal programs & agencies",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-10T18:20:01.391Z"
+      "scoredAt": "2026-02-10T18:20:01.391Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "0883f7dea436",
@@ -4644,7 +4651,8 @@
         "election infrastructure",
         "DOJ independence"
       ],
-      "scoredAt": "2026-02-11T00:15:28.129Z"
+      "scoredAt": "2026-02-11T00:15:28.129Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "cce3d9b58c50",
@@ -4733,7 +4741,8 @@
         "DOJ independence",
         "political retribution"
       ],
-      "scoredAt": "2026-02-11T00:15:29.318Z"
+      "scoredAt": "2026-02-11T00:15:29.318Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "bd3d74c7ad25",
@@ -4751,7 +4760,8 @@
         "federal programs & agencies",
         "DOJ independence"
       ],
-      "scoredAt": "2026-02-11T00:15:29.236Z"
+      "scoredAt": "2026-02-11T00:15:29.236Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "d33bb77a7fa9",
@@ -4792,7 +4802,8 @@
         "election infrastructure",
         "political retribution"
       ],
-      "scoredAt": "2026-02-11T00:15:32.835Z"
+      "scoredAt": "2026-02-11T00:15:32.835Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "b9562f9aeee8",
@@ -4902,7 +4913,8 @@
         "congressional oversight",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-11T00:15:33.975Z"
+      "scoredAt": "2026-02-11T00:15:33.975Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "3681c816cc76",
@@ -4960,7 +4972,8 @@
         "congressional oversight",
         "immigration & civil rights"
       ],
-      "scoredAt": "2026-02-11T00:15:36.267Z"
+      "scoredAt": "2026-02-11T00:15:36.267Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "cdd8f22fa8b8",
@@ -5157,7 +5170,8 @@
         "intelligence community integrity",
         "political retribution"
       ],
-      "scoredAt": "2026-02-11T00:15:40.027Z"
+      "scoredAt": "2026-02-11T00:15:40.027Z",
+      "digestedAt": "2026-02-11T00:20:28.315Z"
     },
     {
       "id": "5ca240980ee3",
@@ -5305,6 +5319,6 @@
       "scoredAt": "2026-02-11T00:15:41.583Z"
     }
   ],
-  "lastDigest": "2026-02-10T00:20:25.175Z",
+  "lastDigest": "2026-02-11T00:20:28.315Z",
   "lastFetch": "2026-02-11T00:15:41.814Z"
 }
