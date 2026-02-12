@@ -7677,8 +7677,344 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-12T00:10:41.584Z"
+    },
+    {
+      "id": "aa138f9056da",
+      "title": "Bondi battled with lawmakers over handling of Epstein files. Here are 3 big takeaways",
+      "url": "https://www.pbs.org/newshour/politics/epstein-files-took-center-stage-at-bondis-oversight-hearing-here-are-3-big-moments",
+      "source": "PBS NewsHour",
+      "published": "2026-02-12T00:23:25.000Z",
+      "description": "Pam Bondi didn't want to talk about the Trump administration's handling of the Jeffrey Epstein investigation.",
+      "keywords": [
+        "bondi",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Reflects potential DOJ independence concerns regarding a Cabinet nominee's handling of a high-profile investigation, but represents standard congressional oversight rather than unprecedented institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:03.424Z"
+    },
+    {
+      "id": "a4ca5aa2361b",
+      "title": "Rep. Crow signals legal action after administration's effort to indict 6 Democrats",
+      "url": "https://www.pbs.org/newshour/show/rep-crow-signals-legal-action-after-administrations-effort-to-indict-6-democrats",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T23:25:14.000Z",
+      "description": "A federal grand jury put a halt to the Trump administration's efforts to prosecute Democratic lawmakers under an anti-insubordination law. In November, six lawmakers with military and intelligence backgrounds published a message urging members of their former communities to disobey illegal orders. Amna Nawaz spoke with one of those members, Rep. Jason Crow of Colorado, a former Army Ranger.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "An administration's attempt to prosecute opposition lawmakers for protected speech represents an unprecedented weaponization of DOJ against political opponents, striking at core democratic protections across multiple institutional checks.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "press freedom",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:04.237Z"
+    },
+    {
+      "id": "83248c9ae3ae",
+      "title": "Epstein survivors say they felt 'degraded' and a 'lack of empathy' from AG Pam Bondi",
+      "url": "https://www.nbcnews.com/news/us-news/epstein-survivors-felt-degraded-lack-empathy-ag-pam-bondi-rcna258633",
+      "source": "NBC News",
+      "published": "2026-02-12T03:10:32.000Z",
+      "description": "Six survivors of Jeffrey Epstein’s abuse and two members of another accuser’s family said they felt \"degraded\" during Wednesday's contentious House Judiciary Committee hearing, at which Attorney General Pam Bondi refused to face them and apologize",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 3,
+      "reason": "While reflecting poorly on AG Bondi's conduct, this is primarily a news account of survivor testimony and personal grievances rather than evidence of institutional erosion of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T06:21:04.635Z"
+    },
+    {
+      "id": "dd210bae2fdd",
+      "title": "Bondi and Democrats clash over Epstein files",
+      "url": "https://www.nbcnews.com/nightly-news/video/bondi-and-democrats-clash-over-epstein-files-257544261932",
+      "source": "NBC News",
+      "published": "2026-02-12T00:14:54.000Z",
+      "description": "Attorney General Pam Bondi clashed with Democrats over her handling of the Jeffrey Epstein files in an explosive hearing. NBC News’ Hallie Jackson reports.",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 4,
+      "reason": "A partisan clash over historical Epstein file handling raises questions about DOJ independence and congressional oversight, but lacks evidence of systematic institutional erosion or unprecedented democratic breach.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:06.076Z"
+    },
+    {
+      "id": "db19eea53291",
+      "title": "Justice Department fires U.S. attorney hours after judges picked him for the job",
+      "url": "https://www.cbsnews.com/news/justice-department-fires-u-s-attorney-in-new-york-hours-after-judges-picked-him-for-the-job/",
+      "source": "CBS News",
+      "published": "2026-02-12T05:02:08.000Z",
+      "description": "A panel of judges in New York appointed a new top federal prosecutor in Albany after a Trump nominee was found to be serving unlawfully — but within hours, the Justice Department said it had fired the judges' new hire.",
+      "keywords": [
+        "prosecutor",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 9,
+      "reason": "This represents an unprecedented direct conflict between the judicial and executive branches over institutional independence, with the DOJ immediately overriding a judicial appointment decision.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:05.612Z"
+    },
+    {
+      "id": "d725ef5840e7",
+      "title": "Mystery of the missing minute from Epstein jail video solved",
+      "url": "https://www.cbsnews.com/news/mystery-of-the-missing-minute-from-epstein-jail-solved/",
+      "source": "CBS News",
+      "published": "2026-02-12T02:58:00.000Z",
+      "description": "Documents that were part of the Epstein files release help explain why a video released from the night of Epstein's death was missing one minute close to midnight.",
+      "keywords": [
+        "DNI"
+      ],
+      "significance": 2,
+      "reason": "This article addresses a factual mystery about evidence documentation but does not involve institutional checks and balances, policy changes, or democratic governance systems.",
+      "categories": [],
+      "scoredAt": "2026-02-12T06:21:05.517Z"
+    },
+    {
+      "id": "6d9bcd926f6e",
+      "title": "Bondi had list of a Democratic lawmaker's Epstein files \"search history\"",
+      "url": "https://www.cbsnews.com/news/bondi-epstein-files-search-history-hearing-pramila-jayapal/",
+      "source": "CBS News",
+      "published": "2026-02-12T01:54:20.000Z",
+      "description": "A high-profile House Democrat is accusing Attorney General Pam Bondi of \"spying\" on her search history while she pored through Jeffrey Epstein-related documents.",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 8,
+      "reason": "Allegations of Attorney General accessing a lawmaker's search history during official document review raises serious concerns about DOJ independence, congressional oversight, and potential abuse of executive power.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T06:21:05.839Z"
+    },
+    {
+      "id": "db9425265442",
+      "title": "Pam Bondi and House Democrats trade fiery barbs at Epstein hearing",
+      "url": "https://www.cbsnews.com/video/pam-bondi-and-house-democrats-trade-fiery-barbs-at-epstein-hearing/",
+      "source": "CBS News",
+      "published": "2026-02-12T00:43:00.000Z",
+      "description": "A shouting match broke out as Attorney General Pam Bondi sparred with critics in Congress over her handling of the Justice Department's Epstein files release. Scott MacFarlane has more.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the confrontation reflects partisan tension over DOJ transparency and congressional oversight, the substantive governance issues (Epstein files release, AG accountability) represent notable institutional concerns rather than unprecedented democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:05.890Z"
+    },
+    {
+      "id": "cc8c09d09ea9",
+      "title": "Untranslatable words for love from around the world",
+      "url": "https://www.axios.com/2026/02/12/love-words-other-language-untranslatable",
+      "source": "Axios",
+      "published": "2026-02-12T02:25:05.000Z",
+      "description": "Across the globe, many cultures have words for love and attachment that don't have a direct English equivalent.\nWhy it matters: As Valentine's Day approaches, borrowing a word from another language could help you say what \"love\" alone can't. \n\nBetween the lines: Axios Finish Line readers recommended that we write about some of these words as part of our ongoing series on untranslatable words.\n\nThe big picture: English heavily relies on the \"L\" word to talk about all manner of deep connection — w",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article about untranslatable words for love has no connection to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-12T06:21:06.792Z"
+    },
+    {
+      "id": "008b63abccd7",
+      "title": "Trump orders Pentagon to buy electricity from coal plants",
+      "url": "https://www.axios.com/2026/02/12/coal-power-buy-trump-us-military-order",
+      "source": "Axios",
+      "published": "2026-02-12T02:11:45.000Z",
+      "description": "The Trump administration is harnessing military purchase power in some of its most aggressive attempts to stem or even reverse coal-fired electricity's decline.\nWhy it matters: Surging electricity demand and fresh White House support could provide a lifeline to the most CO2-heavy power source.\n\nEnvironmentalists, energy experts and others criticized President Trump's further acceleration of his fossil fuel drive and warned it would increase energy prices for U.S. families already struggling to p",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While this represents notable executive overreach in energy policy with potential institutional implications, it primarily involves administrative agency direction rather than direct threats to the core democratic checks and balances framework.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-12T06:21:07.605Z"
+    },
+    {
+      "id": "2e41de74a655",
+      "title": "The Republican who Mike Johnson can't ever count on",
+      "url": "https://www.axios.com/2026/02/12/thomas-massie-mike-johnson-house-margin",
+      "source": "Axios",
+      "published": "2026-02-12T01:34:56.000Z",
+      "description": "Rep. Thomas Massie's (R-Ky.) willingness to buck the party line has become so routine that House Speaker Mike Johnson (R-La.) doesn't even factor him into the equation for tough votes. \nWhy it matters: Johnson's majority now stands at 218-214, meaning he can lose only one GOP member on party-line issues. Massie is rarely part of the majority.\n\n\"What's my incentive to vote for anything?\" Massie said to Axios recently. And asked by Axios on Wednesday if Johnson had his back, Massie replied, \"No.\"\n",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While illustrating congressional independence and potential constraints on Speaker authority, this is primarily a personality-driven political story about one maverick legislator rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:07.207Z"
+    },
+    {
+      "id": "6509ecf0bf09",
+      "title": "Trump admin reveals first-of-its-kind funding data in elite college crackdown",
+      "url": "https://www.axios.com/2026/02/11/trump-harvard-stanford-education-department",
+      "source": "Axios",
+      "published": "2026-02-11T23:57:30.000Z",
+      "description": "The Trump administration is casting new scrutiny on foreign funding at U.S. colleges and universities — a push critics say is part of a broader effort to assert control over higher education under the guise of national security.\nThe big picture: The Department of Education is pointing to newly-revealed data on foreign gifts and contracts to schools as a national security issue, which is misleading, Alexander Cooley, a political scientist researching foreign authoritarian influence, tells Axios. ",
+      "keywords": [
+        "white house",
+        "executive order",
+        "classified",
+        "trump",
+        "authoritarian",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the article touches on institutional independence and potential overreach, it primarily represents a policy enforcement action with disputed characterization rather than a demonstrable breakdown of checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-12T06:21:07.224Z"
+    },
+    {
+      "id": "c5e23571103a",
+      "title": "House Republicans defy Trump on trade",
+      "url": "https://www.axios.com/2026/02/11/canada-tarriffs-trump-house-vote-overturn",
+      "source": "Axios",
+      "published": "2026-02-11T23:40:37.000Z",
+      "description": "Half a dozen House Republicans voted with the majority of Democrats on Wednesday to overturn President Trump's tariffs on Canada.\nWhy it matters: The vote signals growing GOP discomfort with Trump's aggressive tariff strategy, and a willingness by some Republicans to buck the president after months of being in lockstep with the White House.\n\nReps. Thomas Massie (R-Ky.), Don Bacon (R-Neb.), Kevin Kiley (R-Calif.), Dan Newhouse (R-Wash.), Jeff Hurd (R-Colo.) and Brian Fitzpatrick (R-Pa.) voted to ",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional override of executive tariff action demonstrates functioning legislative checks on presidential power, but represents routine parliamentary procedure rather than institutional crisis or unprecedented democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T06:21:07.122Z"
+    },
+    {
+      "id": "60772ec5b398",
+      "title": "Biden-pardoned Maduro ally again targeted by DOJ",
+      "url": "https://thehill.com/homenews/administration/5734708-venezuela-saab-doj-investigation/",
+      "source": "The Hill",
+      "published": "2026-02-12T04:12:28.000Z",
+      "description": "A close ally of Venezuela’s former regime leader is being targeted by the Department of Justice (DOJ) after receiving a pardon during the Biden administration. Alex Saab, Venezuela’s former Minister of Industry and National Production, is being investigated by DOJ officials for an alleged bribery conspiracy to import food,  two former law enforcement officials told…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA",
+        "pardon"
+      ],
+      "significance": 4,
+      "reason": "While the pardon-investigation tension raises questions about DOJ independence, this appears to be a routine case involving a foreign national rather than a systemic threat to democratic institutions.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T06:21:09.868Z"
+    },
+    {
+      "id": "a039b7ca0c87",
+      "title": "IRS improperly disclosed immigrant tax data to DHS: Report",
+      "url": "https://thehill.com/homenews/administration/5734677-taxpayer-data-improperly-shared-dhs/",
+      "source": "The Hill",
+      "published": "2026-02-12T03:36:10.000Z",
+      "description": "The Internal Revenue Service (IRS) improperly disclosed confidential tax data of thousands of people to the Department of Homeland Security (DHS) as part of the Trump administration’s push to crack down on immigration enforcement measures across agencies.  Last April, DHS signed a memorandum of understanding with the Treasury Department so that Immigration and Customs Enforcement…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Improper disclosure of confidential tax data represents a significant institutional breach affecting civil service independence and potential civil rights violations through inter-agency coordination without proper legal authority.",
+      "categories": [
+        "civil service independence",
+        "immigration & civil rights",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T06:21:08.458Z"
+    },
+    {
+      "id": "1ee156492f76",
+      "title": "Trump threatens ‘consequences’ for Republicans who voted against tariffs on Canada",
+      "url": "https://thehill.com/homenews/administration/5734521-trump-tariffs-primary-threat/",
+      "source": "The Hill",
+      "published": "2026-02-12T00:22:55.000Z",
+      "description": "President Trump threatened “consequences come Election time” for Republican lawmakers who oppose his administration’s tariffs on U.S. trading partners. “Any Republican, in the House or the Senate, that votes against TARIFFS will seriously suffer the consequences come Election time, and that includes Primaries!” the president wrote in a Truth Social post Wednesday evening, shortly after…",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the threat represents concerning partisan pressure on legislative independence, it is a rhetorical warning rather than an institutional action that directly erodes checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T06:21:08.754Z"
+    },
+    {
+      "id": "f8d8edafd31f",
+      "title": "After weeks of tension, Trump is still talking tough on Iran. Here's what could happen next",
+      "url": "https://www.cnbc.com/2026/02/12/trump-talking-tough-iran-analysts-nuclear-will-us-strike.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-12T04:58:23.000Z",
+      "description": "",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy commentary on Iran tensions with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T06:21:08.446Z"
     }
   ],
   "lastDigest": "2026-02-11T00:20:28.315Z",
-  "lastFetch": "2026-02-12T00:10:41.584Z"
+  "lastFetch": "2026-02-12T06:21:09.869Z"
 }
