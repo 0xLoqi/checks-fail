@@ -8031,8 +8031,482 @@
       "reason": "This is foreign policy commentary on Iran tensions with no direct bearing on domestic democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-12T06:21:08.446Z"
+    },
+    {
+      "id": "e95753a49547",
+      "title": "Pam Bondi clashes with House Democrats at DOJ oversight hearing",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5711513/pam-bondi-clashes-with-house-democrats-at-doj-oversight-hearing",
+      "source": "NPR Politics",
+      "published": "2026-02-12T11:42:45.000Z",
+      "description": "Attorney General Pam Bondi clashed with Democratic lawmakers who questioned her about the Epstein files and the weaponization of the Justice Department at an oversight hearing Wednesday.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "oversight hearing",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight hearing represents routine institutional function, but contentious questioning about DOJ independence and potential weaponization raises concerns warranting monitoring.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T12:10:01.121Z"
+    },
+    {
+      "id": "17e74fd774b9",
+      "title": "Rep. Pramila Jayapal talks about AG Pam Bondi's contentious DOJ oversight hearing",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5711418/rep-pramila-jayapal-talks-about-ag-pam-bondis-contentious-doj-oversight-hearing",
+      "source": "NPR Politics",
+      "published": "2026-02-12T11:42:39.000Z",
+      "description": "Rep. Pramila Jayapal, D-Wash., offers her assessment of Attorney General Pam Bondi's testimony before the House Judiciary Committee.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "oversight hearing"
+      ],
+      "significance": 4,
+      "reason": "A Democratic representative's commentary on AG confirmation hearing testimony is notable for oversight proceedings but represents routine legislative reaction rather than a substantive institutional action or policy development.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:01.204Z"
+    },
+    {
+      "id": "07fc4ec3a9c2",
+      "title": "Top immigration officials to testify before Senate as a potential DHS shutdown looms",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5707281/senate-dhs-oversight-hearing",
+      "source": "NPR Politics",
+      "published": "2026-02-12T10:00:00.000Z",
+      "description": "The leaders of ICE, Customs and Border Protection and and U.S. Citizenship and Immigration Services will appear for their second oversight hearing this week and as lawmakers tussle over their funding.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "oversight hearing"
+      ],
+      "significance": 4,
+      "reason": "Routine congressional oversight hearing on agency funding with standard institutional processes, though budget negotiations carry moderate significance for agency operations.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-12T12:10:01.491Z"
+    },
+    {
+      "id": "effdb3d86cae",
+      "title": "Swing voters in Arizona say they want to see ICE reformed",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5703368/trump-ice-reforms-arizona-focus-group",
+      "source": "NPR Politics",
+      "published": "2026-02-12T10:00:00.000Z",
+      "description": "Concerns about the tactics of federal immigration agents remain front of mind for some key voters who supported President Trump in 2024.",
+      "keywords": [
+        "voter",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage reporting voter opinions on immigration enforcement policy preferences rather than documenting institutional actions or threats to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-12T12:10:01.587Z"
+    },
+    {
+      "id": "954d28f9fa7e",
+      "title": "6 House Republicans buck party, vote against Trump's Canadian tariffs",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5711475/6-house-republicans-buck-party-vote-against-trumps-canadian-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-12T09:49:50.000Z",
+      "description": "Six House Republicans voted against President Trump over Canadian tariffs in a symbolic blow to his trade agenda.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the vote demonstrates congressional independence on a trade policy disagreement, it represents routine legislative debate rather than a significant institutional check on executive power or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:01.533Z"
+    },
+    {
+      "id": "2c6636f6083b",
+      "title": "Rep. Kevin Kiley on why some Republicans pushed back against Trump's tariffs",
+      "url": "https://www.npr.org/2026/02/12/nx-s1-5711471/rep-kevin-kiley-on-why-some-republicans-pushed-back-against-trumps-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-12T09:49:45.000Z",
+      "description": "NPR's Steve Inskeep speaks with Congressman Kevin Kiley, R-Calif., about growing Republican opposition to President Trump's tariffs.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting on policy disagreement within the Republican party regarding tariffs, with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:03.381Z"
+    },
+    {
+      "id": "299ea6c197c8",
+      "title": "House GOP pushes strict proof-of-citizenship requirement for voters",
+      "url": "https://www.npr.org/2026/02/12/g-s1-109745/house-pushes-strict-requirement-for-voters",
+      "source": "NPR Politics",
+      "published": "2026-02-12T08:40:34.000Z",
+      "description": "House Republicans rushed to approve legislation on Wednesday that would impose new proof-of-citizenship requirements ahead of the midterm elections, a Trump administration priority that faces blowback in the Senate.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Significant institutional action directly affecting election infrastructure and voting access, a core democratic mechanism, with substantial partisan disagreement over implementation.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:02.650Z"
+    },
+    {
+      "id": "ba5c172aef9c",
+      "title": "Trump administration working to expand effort to strip citizenship from foreign-born Americans",
+      "url": "https://www.nbcnews.com/politics/immigration/trump-administration-working-expand-effort-strip-citizenship-foreign-b-rcna255427",
+      "source": "NBC News",
+      "published": "2026-02-12T10:00:00.000Z",
+      "description": "WASHINGTON — The Trump administration is dramatically expanding an effort to revoke U.S. citizenship for foreign-born Americans as it works to curb immigration, according to two people familiar with the plans",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Mass citizenship revocation represents an unprecedented expansion of executive power that directly threatens judicial independence, civil rights protections, and the constitutional naturalization process that has been settled law for over a century.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T12:10:03.302Z"
+    },
+    {
+      "id": "0afd977e0834",
+      "title": "Canadian separatists optimistic after meetings with Trump officials ",
+      "url": "https://www.nbcnews.com/politics/trump-administration/canadian-separatists-alberta-meetings-trump-officials-rcna258230",
+      "source": "NBC News",
+      "published": "2026-02-12T10:13:00.000Z",
+      "description": "Leaders of a right-wing separatist movement in Canada say they’ve discussed switching over to U.S. currency and creating a new military in conversations with U.S. officials.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign separatist movements' claims about meetings with U.S. officials but does not document any actual U.S. government action, policy change, or institutional erosion affecting American democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:04.538Z"
+    },
+    {
+      "id": "4deb4f845b36",
+      "title": "Trump faces growing GOP blowback on issues like immigration and his social media posts",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-growing-gop-blowback-immigration-social-media-posts-rcna258211",
+      "source": "NBC News",
+      "published": "2026-02-12T10:02:00.000Z",
+      "description": "Without Trump at the top of the ticket, Republicans are feeling emboldened to push back on policies that might cost them at the ballot box.",
+      "keywords": [
+        "ballot",
+        "immigration",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political reporting on intra-party disagreement and campaign strategy, lacking evidence of systemic threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:04.742Z"
+    },
+    {
+      "id": "7c8e3c43198f",
+      "title": "Trump's EPA is revoking the \"endangerment finding.\" Here's what to know.",
+      "url": "https://www.cbsnews.com/news/trump-epa-endangerment-finding-greenhouse-gases-climate-change/",
+      "source": "CBS News",
+      "published": "2026-02-12T11:38:38.000Z",
+      "description": "The Trump administration says greenhouse gases emitted from sources like cars, trucks and power plants will no longer by regulated by the federal government.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "This represents a significant executive policy reversal affecting federal regulatory authority and institutional precedent, but operates within presidential power to direct agency action rather than circumventing checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:04.431Z"
+    },
+    {
+      "id": "a8908f98fee5",
+      "title": "Minnesota officials, heads of immigration agencies to testify at Senate hearing",
+      "url": "https://www.cbsnews.com/live-updates/minnesota-immigration-ice-hearing-senate-homeland-security/",
+      "source": "CBS News",
+      "published": "2026-02-12T11:00:16.000Z",
+      "description": "Four Minnesota officials and the leaders of three major immigration agencies are set to testify before the Senate Homeland Security Committee on Thursday.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 4,
+      "reason": "A routine Senate hearing on immigration policy represents standard congressional oversight activity, though the specific testimony content would determine if it addresses systemic issues.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:04.448Z"
+    },
+    {
+      "id": "da1dad761e86",
+      "title": "Voluntary departures hit record high as detained immigrants lose hope",
+      "url": "https://www.cbsnews.com/news/immigration-detention-voluntary-departures-record-high/",
+      "source": "CBS News",
+      "published": "2026-02-12T10:00:19.000Z",
+      "description": "Vilma Palacios is one of thousands who have given up their immigration cases and voluntarily left the U.S. after being detained. More detainees are opting for voluntary departure than ever before, a CBS News analysis found.",
+      "keywords": [
+        "immigration",
+        "detained",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The article documents a significant policy outcome affecting immigrants' legal processes and civil rights protections, but reflects implementation of existing legal mechanisms rather than new institutional changes to checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-12T12:10:04.896Z"
+    },
+    {
+      "id": "6a6cae5ed096",
+      "title": " Democratic-led states sue to stop Trump from withholding $600M in health grants",
+      "url": "https://abcnews.go.com/Politics/wireStory/democratic-led-states-sue-stop-trump-withholding-600m-130088435",
+      "source": "ABC News",
+      "published": "2026-02-12T04:45:51.000Z",
+      "description": "Four Democratic-led states that have become frequent targets of President Donald Trump have sued to block his administration from cutting off hundreds of millions in public health grants",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable but not unprecedented conflict over executive authority and fiscal power that will likely be resolved through existing judicial review mechanisms.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T12:10:05.851Z"
+    },
+    {
+      "id": "d8f629011447",
+      "title": " McMaster backs Evette to replace him as South Carolina governor. Is Trump's endorsement next?",
+      "url": "https://abcnews.go.com/Politics/wireStory/mcmaster-backs-evette-replace-south-carolina-governor-trumps-130082182",
+      "source": "ABC News",
+      "published": "2026-02-11T23:41:55.000Z",
+      "description": "South Carolina Governor Henry McMaster is backing Lieutenant Governor Pamela Evette's bid to succeed him, and he tries to thin a crowded Republican primary",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a state gubernatorial endorsement with no direct implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:05.812Z"
+    },
+    {
+      "id": "014631f28db9",
+      "title": "The existential AI threat is here — and some AI leaders are fleeing",
+      "url": "https://www.axios.com/2026/02/12/ai-openai-agi-xai-doomsday-scenario",
+      "source": "Axios",
+      "published": "2026-02-12T10:00:06.000Z",
+      "description": "Top AI experts at OpenAI, Anthropic and other companies warn of rising dangers of their technology, with some quitting in protest or going public with grave concerns.\nWhy it matters: Leading AI models, including Anthropic's Claude and OpenAI's ChatGPT, are getting a lot better, a lot faster, and even building new products themselves.\n\nThat excites AI optimists — and scares the hell out of several people tasked with policing their safety for society.\n\nDriving the news: On Monday, an Anthropic res",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns AI industry internal concerns and product safety rather than institutional checks, balances, or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:05.840Z"
+    },
+    {
+      "id": "ecbafafed71b",
+      "title": "Greenhouse gas emissions will keep falling despite Trump's climate rollback",
+      "url": "https://www.axios.com/2026/02/12/trump-epa-climate-rollback-emissions-impact",
+      "source": "Axios",
+      "published": "2026-02-12T10:00:05.000Z",
+      "description": "President Trump is trying to pull the rug out from under federal climate regulation. But the U.S. economy may no longer be standing on it.\nWhy it matters: The energy transition is well underway and is unlikely to be reversed by Thursday's historic move.\n\nThe big picture: America's emissions are projected to decline substantially even if major climate regulations are repealed, driven by falling renewable energy prices and cleaner natural gas outcompeting dirtier coal.\nDriving the news: The Enviro",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports on economic market trends and energy transitions rather than institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:05.658Z"
+    },
+    {
+      "id": "22ca5d988c27",
+      "title": "A year into Trump's term, voters say Biden was better",
+      "url": "https://www.axios.com/2026/02/12/trump-polling-approval-biden-democrats",
+      "source": "Axios",
+      "published": "2026-02-12T10:00:05.000Z",
+      "description": "President Trump has become so politically toxic that voters now say Joe Biden — whose unpopularity forced him into early retirement — did a better job as president, according to three new polls.\nWhy it matters: One year in, Trump has squandered virtually every advantage that won him the presidency. The White House has nine months to turn the ship around before a potential midterm wipeout for Republicans.\n\nZoom in: Three national surveys point to the same alarming trend for a president who's done",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "immigration",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is polling commentary on presidential popularity with no institutional action, legal ruling, or democratic mechanism directly affected.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:05.765Z"
+    },
+    {
+      "id": "c70ef359c7a7",
+      "title": "Scoop: Democrats are eyeing protests at Trump's State of the Union address",
+      "url": "https://www.axios.com/2026/02/12/trump-state-of-the-union-democrats-protests",
+      "source": "Axios",
+      "published": "2026-02-12T09:30:04.000Z",
+      "description": "Some House Democrats say they plan to defy instructions from House Minority Leader Hakeem Jeffries (D-N.Y.) not to protest President Trump during his State of the Union address on Feb. 24.\nWhy it matters: Even some top progressives and lawmakers who participated in demonstrations at Trump's speech last year acknowledge it wasn't their shining moment.\n\n\"Last year didn't really work as envisioned,\" Rep. Greg Casar (D-Texas), the chair of the Congressional Progressive Caucus, told Axios.\nAnother se",
+      "keywords": [
+        "impeach",
+        "speaker",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about planned protest behavior during a speech, involving no institutional action, policy change, or threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:06.755Z"
+    },
+    {
+      "id": "d7f1bb42a3df",
+      "title": "2030 census poses tough questions for Democrats’ future",
+      "url": "https://thehill.com/homenews/campaign/5733750-sun-belt-states-rise/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "The population shifts projected for the next decade are raising questions about the impact they could have on Democrats’ pathway to winning the White House and a House majority starting in 2032.  2030 population estimates released by the U.S. Census Bureau last month suggest a handful of Sun Belt states are expected to gain seats in the House,…",
+      "keywords": [
+        "white house",
+        "house majority"
+      ],
+      "significance": 2,
+      "reason": "This is routine political analysis about demographic trends and their electoral implications, not reporting on threats to or changes in institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:06.830Z"
+    },
+    {
+      "id": "5a929e9f7763",
+      "title": "GOP senators express relief over failed DOJ effort to indict Democrats",
+      "url": "https://thehill.com/homenews/senate/5734392-republican-senators-defend-democrats/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "Key Republican senators say a grand jury made the right decision by rejecting an effort by the Department of Justice (DOJ) to indict six Democratic lawmakers, including Sens. Mark Kelly (Ariz.) and Elissa Slotkin (Mich.), on criminal charges for filming a video last year urging military service members to disobey unlawful orders. Republican senators by…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates DOJ independence and judicial oversight functioning as intended by rejecting potentially retaliatory prosecutions, but reveals concerning prior DOJ action targeting political opponents.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T12:10:07.039Z"
+    },
+    {
+      "id": "113d051f301e",
+      "title": "Democrats seek to weaponize Trump tariffs against GOP",
+      "url": "https://thehill.com/homenews/senate/5734383-republicans-dems-clash-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "Senate Republicans are staring down a major headache as Democrats ready constant votes targeting President Trump’s tariffs, a political vulnerability given the unease many in the GOP feel about the import taxes. The Senate GOP will have to deal with the issue because the House GOP was unable to unify behind a rule that would…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political strategy reporting about legislative maneuvering over tariff policy, with no institutional checks and balances implications.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:06.886Z"
+    },
+    {
+      "id": "15001fbd93ea",
+      "title": "Trump turns to military leaders for high-stakes diplomacy",
+      "url": "https://thehill.com/policy/defense/5734361-trump-relies-military-diplomacy/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "President Trump is increasingly turning to military leaders for some of his toughest diplomatic assignments, sending top brass to help negotiate the end of the Russia-Ukraine war, a potential new nuclear deal with Iran and forge closer ties with countries in the Western Hemisphere.  Army Secretary Daniel Driscoll, an Iraq War veteran and ally of…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Using military leaders for diplomacy raises questions about civil-military norms and civilian control but represents a policy choice rather than institutional erosion without additional context about bypassing State Department authority.",
+      "categories": [
+        "congressional_oversight",
+        "political_retribution"
+      ],
+      "scoredAt": "2026-02-12T12:10:06.916Z"
+    },
+    {
+      "id": "47a16f7e66a8",
+      "title": "Here’s how a shutdown will affect DHS agencies",
+      "url": "https://thehill.com/homenews/administration/5734644-heres-how-a-shutdown-will-affect-dhs-agencies/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "The federal government appears to be barreling toward yet another partial shutdown this week, as Democrats and Republicans remain at odds over a deal to keep the Department of Homeland Security (DHS) funded before its two-week stopgap funding measure expires on Friday. Senate Democrats say negotiations with the White House over changes to Immigration and Customs…",
+      "keywords": [
+        "immigration",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A shutdown itself is a routine institutional conflict, but DHS shutdowns can impact immigration enforcement and civil rights protections, warranting attention without being unprecedented.",
+      "categories": [
+        "federal programs & agencies",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-12T12:10:08.848Z"
+    },
+    {
+      "id": "a3bde0840275",
+      "title": "Why MAHA wants the US to be more like Denmark",
+      "url": "https://thehill.com/policy/healthcare/5733786-why-maha-wants-the-us-to-be-more-like-denmark/",
+      "source": "The Hill",
+      "published": "2026-02-12T11:00:00.000Z",
+      "description": "In remaking U.S. vaccine policy, Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and his “Make America Healthy Again” (MAHA) allies have repeatedly called for the U.S. to emulate Denmark, confounding lawmakers and spurring criticism from public health experts.  The Scandinavian nation of just 6 million people was the model for Kennedy’s reduction…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "Article discusses policy preferences and public health strategy comparisons rather than actions that directly undermine institutional checks, balances, or democratic processes.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-12T12:10:07.976Z"
+    },
+    {
+      "id": "cd8f9cc5dac4",
+      "title": "Russia shrugs off Trump’s tariff threats on those who provide oil to Cuba",
+      "url": "https://www.cnbc.com/2026/02/12/cuba-fuel-shortage-oil-russia-trump-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-12T11:16:34.000Z",
+      "description": "The comments came in response to a question about whether Russia was concerned about the Trump administration's tariff threats.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on routine foreign policy posturing and economic threats with no direct impact on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T12:10:07.935Z"
     }
   ],
   "lastDigest": "2026-02-12T06:26:15.510Z",
-  "lastFetch": "2026-02-12T06:21:09.869Z"
+  "lastFetch": "2026-02-12T12:10:08.848Z"
 }
