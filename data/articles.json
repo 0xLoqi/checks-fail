@@ -6848,8 +6848,837 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-11T18:17:55.779Z"
+    },
+    {
+      "id": "4f40ce3caf72",
+      "title": "VA Secretary clashes with Democrats over details on VA re-organization",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707502/va-secretary-clashes-with-democrats-over-details-on-va-re-organization",
+      "source": "NPR Politics",
+      "published": "2026-02-11T22:12:18.000Z",
+      "description": "The secretary of Veterans Affairs testified before a house committee today for just the second time during the Trump administration, to explain a national plan to drastically streamline VA bureaucracy.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A cabinet secretary's testimony on agency reorganization represents routine executive oversight, though the scope of restructuring warrants monitoring for potential impacts on federal programs and civil service independence.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:29.015Z"
+    },
+    {
+      "id": "304e14e093fa",
+      "title": "Bondi and House Democrats clash over Epstein files at DOJ oversight hearing",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5711379/bondi-and-house-democrats-clash-over-epstein-files-at-doj-oversight-hearing",
+      "source": "NPR Politics",
+      "published": "2026-02-11T22:06:09.000Z",
+      "description": "Attorney General Pam Bondi testified on Capitol Hill Wednesday before House lawmakers in a frequently combative hearing.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "oversight hearing"
+      ],
+      "significance": 5,
+      "reason": "A contentious oversight hearing reflects normal congressional-executive tensions but lacks evidence of institutional breakdown or precedent-setting erosion of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:28.872Z"
+    },
+    {
+      "id": "46fc87aca638",
+      "title": "Can Republicans and Democrats find common ground on DHS funding?",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707565/can-republicans-and-democrats-find-common-ground-on-dhs-funding",
+      "source": "NPR Politics",
+      "published": "2026-02-11T21:28:35.000Z",
+      "description": "NPR's Scott Detrow talks with Reps. Brian Fitzpatrick, R-Pa., and Tom Suozzi, D-N.Y., about current congressional negotiations regarding funding for the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting on standard congressional budget negotiations with no indication of institutional threats or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:28.479Z"
+    },
+    {
+      "id": "42b4d53bac1c",
+      "title": "A Jan. 6 rioter pardoned by Trump was convicted of sexually abusing children",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5711294/trump-jan-6-pardons-child-sex-abuse",
+      "source": "NPR Politics",
+      "published": "2026-02-11T19:08:16.000Z",
+      "description": "A handyman from Florida who received a pardon from President Trump for storming the U.S. Capitol on Jan. 6, 2021, was convicted on state charges of child sex abuse and exposing himself to a child.",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates use of presidential pardon power in a manner that raises significant questions about political retribution and the prioritization of political loyalty over public safety, particularly when the pardoned individual poses documented risks to vulnerable populations.",
+      "categories": [
+        "political retribution",
+        "corruption & self-dealing",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:28.568Z"
+    },
+    {
+      "id": "65454ed644bb",
+      "title": "Maryland's Democratic governor among those excluded from White House event",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707308/wes-moore-white-house-governors-event-excluded",
+      "source": "NPR Politics",
+      "published": "2026-02-11T09:47:51.000Z",
+      "description": "The White House excluded Democratic leaders from a traditionally bipartisan meeting for governors. Maryland Governor Wes Moore said he was also disinvited from a dinner.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 3,
+      "reason": "While potentially discourteous, excluding governors from a single White House event represents routine political friction rather than a systemic threat to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:28.323Z"
+    },
+    {
+      "id": "6d0deb9e8e62",
+      "title": "Analilia Mejia declares victory in N.J. primary and credits progressive platform",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5708912/analilia-mejia-democratic-primary-election-new-jersey",
+      "source": "NPR Politics",
+      "published": "2026-02-11T09:47:31.000Z",
+      "description": "Former political director to Bernie Sanders, Analilia Mejia, says discussing national issues with voters gave her an edge in the Democratic House primary for New Jersey's U.S. House special election.",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a Democratic primary election result with no connection to institutional checks and balances, democratic safeguards, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:30.172Z"
+    },
+    {
+      "id": "ffc6fc552667",
+      "title": "Bondi sidesteps Epstein questions in tense Judiciary Committee hearing",
+      "url": "https://www.pbs.org/newshour/show/bondi-sidesteps-epstein-questions-in-tense-judiciary-committee-hearing",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T23:30:34.000Z",
+      "description": "On Capitol Hill, Attorney General Pam Bondi faced a barrage of questions on the handling of the Epstein files and the fatal shootings of two U.S. citizens in Minnesota by federal officers. Bondi repeatedly sparred with lawmakers, at times engaging in shouting matches and leaving many questions unanswered. The exchanges unfolded with Epstein survivors seated just behind her. Ali Rogin reports.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "While an AG confirmation hearing raises important oversight questions about DOJ independence and accountability, the article describes contentious testimony rather than a concrete institutional action or policy change that would constitute significant democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:30.212Z"
+    },
+    {
+      "id": "a4e086a88859",
+      "title": "What to know as Iran and the U.S. weigh holding a second round of nuclear talks",
+      "url": "https://www.pbs.org/newshour/world/what-to-know-as-iran-and-the-u-s-weigh-holding-a-second-round-of-nuclear-talks",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T22:15:30.000Z",
+      "description": "U.S. President Donald Trump has kept up pressure on Iran, moving an aircraft carrier and other military assets to the Persian Gulf and suggesting the U.S. could attack Iran over the killing of peaceful demonstrators or if Tehran launches mass executions over the protests.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article concerns foreign policy and military posturing regarding Iran nuclear negotiations, which does not directly implicate the 12 domestic democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:29.870Z"
+    },
+    {
+      "id": "c73485f274db",
+      "title": "Vance deleted a message referring to the 'Armenian genocide.' Here's why the phrase matters",
+      "url": "https://www.pbs.org/newshour/politics/vance-deleted-a-message-referring-to-the-armenian-genocide-heres-why-the-phrase-matters",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T21:03:22.000Z",
+      "description": "U.S. Vice President JD Vance's team posted and then deleted a message on social media about the Republican's visit to a memorial paying tribute to early 20th century Armenians killed by the Ottoman Empire.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "While the deletion raises questions about political messaging on sensitive historical topics, it does not directly impact any institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:29.894Z"
+    },
+    {
+      "id": "114d8e6eec17",
+      "title": "WATCH: 'You are responsible,' GOP Rep. Massie tells Bondi on Epstein files",
+      "url": "https://www.pbs.org/newshour/politics/watch-you-are-responsible-gop-rep-massie-tells-bondi-on-epstein-files",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T19:00:03.000Z",
+      "description": "Rep. Thomas Massie, R-Ky., told Attorney General Pam Bondi in a House oversight hearing Wednesday that she is responsible for a portion of what he calls a coverup of the investigation into the late disgraced financier and convicted sex offender Jeffrey Epstein.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "oversight hearing"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight hearing questioning AG accountability on document transparency is notable institutional accountability, but lacks evidence of systemic democratic erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:30.098Z"
+    },
+    {
+      "id": "0a6d1034bda5",
+      "title": "Federal deficits and debt will worsen over next decade, Congressional Budget Office finds",
+      "url": "https://www.pbs.org/newshour/politics/federal-deficits-and-debt-will-worsen-over-next-decade-congressional-budget-office-finds",
+      "source": "PBS NewsHour",
+      "published": "2026-02-11T18:56:26.000Z",
+      "description": "Congressional Budget Office projections also indicate that inflation doesn't hit the Federal Reserve's 2% target rate until 2030.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic reporting on CBO budget projections with no direct implications for democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:31.167Z"
+    },
+    {
+      "id": "198e661bde9c",
+      "title": "House votes to nix Trump's tariffs on Canada",
+      "url": "https://www.nbcnews.com/politics/congress/house-votes-end-trump-tariffs-canada-rcna258661",
+      "source": "NBC News",
+      "published": "2026-02-11T23:59:35.000Z",
+      "description": "Six Republicans crossed the aisle to oppose the president's tariffs on a major U.S. trading partner. The measure now heads to the Senate.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This represents routine legislative disagreement on trade policy within normal congressional oversight processes, with no institutional checks or democratic safeguards at stake.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:31.190Z"
+    },
+    {
+      "id": "4fd5509a354d",
+      "title": "Trump says all Democratic governors except Wes Moore and Jared Polis are invited to White House meeting",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-democratic-governors-wes-moore-jared-polis-white-house-meeting-rcna258634",
+      "source": "NBC News",
+      "published": "2026-02-11T23:59:31.000Z",
+      "description": "President Donald Trump said Wednesday that he invited the governors from both major parties — with two notable Democratic exceptions — to a traditionally bipartisan meeting at the White House next week",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While selective invitation suggests potential political favoritism, this represents routine political behavior rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T00:10:31.047Z"
+    },
+    {
+      "id": "b8d68bc66a85",
+      "title": "Rep. Jason Crow: ‘I’m taking names’ to pursue ‘accountability’ after DOJ’s failed indictment",
+      "url": "https://www.nbcnews.com/meet-the-press/video/rep-jason-crow-i-m-taking-names-to-pursue-accountability-after-doj-s-failed-indictment-257541701524",
+      "source": "NBC News",
+      "published": "2026-02-11T22:03:08.000Z",
+      "description": "Rep. Jason Crow (D-Colo.) joins Meet the Press NOW after the Department of Justice failed to secure an indictment against him and five Democratic members of Congress who released a video last year calling on service members to refuse illegal orders.",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A lawmaker's response to a failed DOJ prosecution touches on DOJ independence and congressional oversight, but lacks the institutional impact or precedent needed for higher significance.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:32.377Z"
+    },
+    {
+      "id": "11fde7f2d841",
+      "title": "Kornacki: ‘Large number’ of independents strongly disapprove of Trump’s immigration agenda",
+      "url": "https://www.nbcnews.com/meet-the-press/video/kornacki-large-number-of-independents-strongly-disapprove-of-trump-s-immigration-agenda-257536581916",
+      "source": "NBC News",
+      "published": "2026-02-11T21:34:38.000Z",
+      "description": "NBC News Chief Data Analyst Steve Kornacki joins Meet the Press NOW to explain the biggest takeaways from the latest NBC News Decision Desk poll on President Trump’s job approval and his administration’s handling of immigration issues.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is polling analysis and opinion commentary on public disapproval, which reflects democratic participation but does not document institutional actions, policy changes, or threats to checks and balances themselves.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:32.606Z"
+    },
+    {
+      "id": "afc1a42ddd67",
+      "title": "'You're here to testify!': Bondi clashes with congresswoman",
+      "url": "https://www.nbcnews.com/video/bondi-clashes-with-congresswoman-during-maxwell-questions-257529413774",
+      "source": "NBC News",
+      "published": "2026-02-11T19:41:29.000Z",
+      "description": "Attorney General Pam Bondi clashed with Rep. Deborah Ross, D-N.C., as she was asking about Ghislaine Maxwell's transfer to a different prison. The two engaged in a back-and-forth when Bondi tried to turn questions back on Ross, who reminded the attorney general that she was the one appearing at the hearing to testify.",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 3,
+      "reason": "This describes a routine contentious congressional exchange during testimony without evidence of systemic institutional erosion or precedent-breaking action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:32.362Z"
+    },
+    {
+      "id": "8b530e4efa3d",
+      "title": "House passes SAVE America Act, sending Trump-backed election bill to the Senate",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-save-america-act-trump-backed-election-bill-rcna258614",
+      "source": "NBC News",
+      "published": "2026-02-11T23:45:57.000Z",
+      "description": "The Republican-controlled House voted Wednesday to pass the SAVE America Act, a sweeping election bill that President Donald Trump is pushing Congress to enact.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A major election bill with presidential backing represents significant potential impact on election infrastructure and congressional oversight, warranting close institutional scrutiny.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:32.374Z"
+    },
+    {
+      "id": "c15c5b69cf8b",
+      "title": "3 immigration numbers to know from our new poll: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/3-immigration-numbers-know-new-poll-politics-desk-rcna258650",
+      "source": "NBC News",
+      "published": "2026-02-11T23:26:01.000Z",
+      "description": "In today’s edition, Scott Bland breaks down the big takeaways from the latest NBC News Decision Desk Poll on immigration and Trump's approval rating.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling analysis and opinion commentary on public sentiment regarding immigration, with no direct bearing on institutional checks and balances or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:32.247Z"
+    },
+    {
+      "id": "41854ba67c53",
+      "title": "Senators introduce first bipartisan effort to curb utility bill hikes related to data centers",
+      "url": "https://www.nbcnews.com/politics/congress/senators-introduce-first-bipartisan-effort-curb-utility-bill-hikes-rel-rcna258577",
+      "source": "NBC News",
+      "published": "2026-02-11T22:00:41.000Z",
+      "description": "d together on a number of bipartisan initiatives, are wading into this policy fight weeks after President Donald Trump — who has made the rapid development of artificial intelligence and the data center buildout a core piece of his economic agenda — said his administration was working to ensure consumers would not face utility bill increases in conjunction.“I never want Americans to pay higher Electricity bills because of Data Centers,” Trump posted to Truth Social last month, adding, ��",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine policy news about utility regulation with bipartisan support, containing no evidence of democratic checks and balances being tested or threatened.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:34.463Z"
+    },
+    {
+      "id": "21f6208196ec",
+      "title": "House votes to rescind Trump's Canada tariffs",
+      "url": "https://www.cbsnews.com/news/house-votes-trump-canada-tariffs/",
+      "source": "CBS News",
+      "published": "2026-02-11T23:29:59.000Z",
+      "description": "The measure's passage is largely symbolic as it's likely to be vetoed by the president if it survives a Senate vote.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This represents congressional oversight attempting to exercise its trade authority, but the symbolic nature and expected veto significantly limit its institutional impact on checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:33.548Z"
+    },
+    {
+      "id": "3d8cae999c96",
+      "title": "Trump says governors from both parties are invited to White House, except 2 Democrats",
+      "url": "https://www.cbsnews.com/news/trump-national-governors-association-democrats-invited-moore-polis/",
+      "source": "CBS News",
+      "published": "2026-02-11T23:12:13.000Z",
+      "description": "President Trump says nearly all governors are welcome at the White House for a formal meeting and dinner next week, though the Democratic governors of Maryland and Colorado are still being excluded.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Selective exclusion of governors raises concerns about presidential conduct and potential political retribution, but falls short of institutional erosion as it involves invitation discretion rather than systemic checks removal.",
+      "categories": [
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:33.695Z"
+    },
+    {
+      "id": "388a6a684954",
+      "title": " Nebraska to hand over sensitive voter data to the Justice Department after court loss",
+      "url": "https://abcnews.go.com/Politics/wireStory/nebraska-hand-sensitive-voter-data-justice-department-after-130079992",
+      "source": "ABC News",
+      "published": "2026-02-11T22:38:46.000Z",
+      "description": "Nebraska’s secretary of state says he will hand over sensitive voter data to the U.S. Justice Department after the state Supreme Court refused to block the move",
+      "keywords": [
+        "voter",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional action affecting election infrastructure and DOJ independence, as it involves sensitive voter data transfer following judicial action, raising questions about data security and appropriate government access.",
+      "categories": [
+        "election infrastructure",
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:33.700Z"
+    },
+    {
+      "id": "9c468682fe4a",
+      "title": " House faces showdown vote over Trump's tariffs on Canada",
+      "url": "https://abcnews.go.com/Politics/wireStory/house-faces-showdown-vote-trumps-tariffs-canada-130079989",
+      "source": "ABC News",
+      "published": "2026-02-11T22:45:51.000Z",
+      "description": "The House is preparing to potentially slap back President Donald Trump’s tariffs on Canada",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A House vote on tariffs represents routine congressional oversight of executive trade policy, but lacks the institutional significance of checks on DOJ independence, election integrity, or democratic norms.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:35.572Z"
+    },
+    {
+      "id": "c4156cdbfe50",
+      "title": " Congressional Black Caucus and civil rights leaders unite to counter Trump administration's agenda",
+      "url": "https://abcnews.go.com/Politics/wireStory/congressional-black-caucus-civil-rights-leaders-unite-counter-130079871",
+      "source": "ABC News",
+      "published": "2026-02-11T22:45:45.000Z",
+      "description": "The Congressional Black Caucus is building a new coalition with major civil rights groups to push back on President Trump’s domestic agenda",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Coalition-building and opposition messaging represent normal democratic participation and congressional oversight activity, but lack indication of specific institutional actions, policy changes, or checks being formally exercised.",
+      "categories": [
+        "congressional oversight",
+        "civil rights & immigration"
+      ],
+      "scoredAt": "2026-02-12T00:10:35.584Z"
+    },
+    {
+      "id": "afba4655ebd3",
+      "title": " Iowa, naturalized citizens settle lawsuit over voter eligibility ahead of 2024 election",
+      "url": "https://abcnews.go.com/Politics/wireStory/iowa-naturalized-citizens-settle-lawsuit-voter-eligibility-ahead-130077141",
+      "source": "ABC News",
+      "published": "2026-02-11T22:05:39.000Z",
+      "description": "Iowa’s top election official and a group of naturalized citizens have settled a federal lawsuit that will prevent the state from relying exclusively on driver’s license records for citizenship data in the three months before an election",
+      "keywords": [
+        "election",
+        "voter",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "The settlement addresses election administration procedures and citizenship verification methods, preventing potential disenfranchisement of eligible voters, which is notable but represents a procedural correction rather than a systemic institutional crisis.",
+      "categories": [
+        "election_infrastructure",
+        "civil_rights"
+      ],
+      "scoredAt": "2026-02-12T00:10:35.556Z"
+    },
+    {
+      "id": "436bffe3bfb8",
+      "title": "Exclusive: Bernie Sanders is already eyeing the left's next big Democratic primary upset",
+      "url": "https://www.axios.com/2026/02/11/bernie-sanders-mejia-left-primaries-new-jersey",
+      "source": "Axios",
+      "published": "2026-02-11T20:36:33.000Z",
+      "description": "Sen. Bernie Sanders (I-Vt.) is feeling emboldened by progressives' shock victory in a New Jersey special House primary last week — and sizing up his next targets.\nWhy it matters: The senator has endorsed over a dozen progressive House and Senate candidates who are aiming to reshape the Democratic Party.\n\nAsked in a phone interview where else he thinks the left can win upset victories, Sanders pointed to a \"Fighting Oligarchy\" rally he is doing on Friday with Nida Allam, who is challenging Rep. V",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about campaign strategy and candidate endorsements with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:35.243Z"
+    },
+    {
+      "id": "f788135b4a1d",
+      "title": "Trump's revenge tour falls flat in the courts",
+      "url": "https://www.axios.com/2026/02/11/trump-justice-department-grand-jury-political-enemies",
+      "source": "Axios",
+      "published": "2026-02-11T19:43:05.000Z",
+      "description": "President Trump has increasingly tested how far political retribution can stretch into the justice system, but his efforts to prosecute his perceived political opponents during his second term have repeatedly fallen short. \nWhy it matters: Federal grand juries almost always return indictments — rejecting them only five times out of more than 165,000 cases nationwide in 2013, according to the Bureau of Justice Statistics.\n\nProsecutors need only 12 of 23 grand jurors to secure an inducement, under",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "prosecutor",
+        "FBI",
+        "ICE",
+        "intelligence",
+        "white house",
+        "ruling",
+        "trump",
+        "EPA",
+        "retribution"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates judicial and grand jury independence actively resisting political pressure to prosecute perceived opponents, a significant institutional check on executive power.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:35.582Z"
+    },
+    {
+      "id": "56251dae8a1f",
+      "title": "Trump to Netanyahu: U.S. prefers deal with Iran to war, for now",
+      "url": "https://www.axios.com/2026/02/11/netanyahu-trump-iran-strike-nuclear-talks",
+      "source": "Axios",
+      "published": "2026-02-11T19:31:00.000Z",
+      "description": "President Trump stressed after a three-hour meeting with Israeli Prime Minister Benjamin Netanyahu on Wednesday that he wants to keep pursuing a deal with Iran rather than moving to military action at this time.\nWhy it matters: While Trump said his meeting with Netanyahu \"very good,\" the Israeli prime minister is very skeptical about the prospects for diplomacy with Iran and inclined to support military action.   \n\nYes, but: Trump and Netanyahu also made divergent public statements before Israel",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports routine foreign policy positioning and diplomatic preferences between U.S. and Israeli leaders with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:36.446Z"
+    },
+    {
+      "id": "0165fab2e415",
+      "title": "GOP voting bill clears House as conservatives clamor for Senate action",
+      "url": "https://thehill.com/homenews/house/5734391-gop-voting-bill-save-america-act/",
+      "source": "The Hill",
+      "published": "2026-02-11T23:44:49.000Z",
+      "description": "House Republicans clamoring for stricter voting rules cleared a hurdle with passage of the Safeguard American Voter Eligibility (SAVE) America Act on Wednesday — but that’s only ramping up debate among conservatives on how to pressure the Senate to take up the election legislation. The bill, which would require individuals to present proof of citizenship…",
+      "keywords": [
+        "election",
+        "voting",
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Partisan voting legislation represents notable democratic tension over electoral access and rules, but routine legislative passage without institutional violation or unprecedented action.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:37.244Z"
+    },
+    {
+      "id": "3652ea2beb5b",
+      "title": "6 Republicans join Democrats to rebuke tariffs on Canada in blow to Trump",
+      "url": "https://thehill.com/homenews/house/5734340-trump-tariffs-canada-republicans-rebuke/",
+      "source": "The Hill",
+      "published": "2026-02-11T23:18:46.000Z",
+      "description": "Six House Republicans joined Democrats on Wednesday to pass a resolution to repeal President Trump’s tariffs on Canada, a blow to both President Trump and House GOP leadership. The Wednesday 219-211 vote also followed an intraparty revolt against leadership over the administration’s handling of trade policy a day earlier. Reps. Don Bacon (R-Neb.), Kevin Kiley…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents notable congressional pushback on executive trade policy but reflects routine legislative oversight rather than a fundamental democratic check or institutional integrity issue.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:37.158Z"
+    },
+    {
+      "id": "b9a5afd847d1",
+      "title": "RNC asks Supreme Court to take up Pennsylvania mail ballot fight",
+      "url": "https://thehill.com/homenews/campaign/5734318-rnc-petitions-supreme-court-pennsylvania-ballots/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:47:14.000Z",
+      "description": "The Republican National Committee (RNC) petitioned the Supreme Court on Wednesday to reverse a ruling that requires Pennsylvania to count undated and misdated mail ballots, saying its logic transforms the courts into “weapons of political warfare.”  The technical requirements for Pennsylvania mail ballots have been the subject of extensive litigation ever since the state passed universal mail voting in 2019. It’s a battle only heightened by the Keystone State’s outsized role as a swing…",
+      "keywords": [
+        "voting",
+        "ballot",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "A routine legal petition on election administration procedures that reflects ongoing partisan litigation but does not represent institutional erosion or unprecedented democratic action.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:37.350Z"
+    },
+    {
+      "id": "7ac54c5f26e8",
+      "title": "Trump directs Pentagon to boost coal use as Energy Department announces $175M infusion for plants",
+      "url": "https://thehill.com/policy/energy-environment/5734350-coal-power-trump-doe-pentagon/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:43:54.000Z",
+      "description": "President Trump on Wednesday directed the Pentagon to purchase more power from coal plants in a boost to the declining fossil fuel. “I will sign an executive order that directs the Department of War to work directly with coal plants on the new power purchasing agreements, ensuring that we have more reliable power and stronger…",
+      "keywords": [
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine policy decision involving energy procurement and executive authority within normal presidential powers, with no direct impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:36.997Z"
+    },
+    {
+      "id": "da927e5a7217",
+      "title": "Fiery exchanges dominate Bondi appearance before Congress: 4 takeaways",
+      "url": "https://thehill.com/homenews/house/5734303-pam-bondi-judiciary-committee-hearing-epstein/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:16:26.000Z",
+      "description": "Attorney General Pam Bondi went toe-to-toe with lawmakers in a heated hearing on Wednesday as the country’s top lawyer appeared before the House Judiciary Committee for the first time since taking office. Bondi fielded questions on issues ranging from pending investigations into adversaries of President Trump to immigration, but the most tense exchanges came amid…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A heated congressional hearing on DOJ leadership touches on checks and balances but lacks details about substantive outcomes, policy changes, or institutional implications.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:38.224Z"
+    },
+    {
+      "id": "25f34ca6e90c",
+      "title": "Member of White House Religious Liberty Commission booted after antisemitism hearing",
+      "url": "https://thehill.com/homenews/administration/5734288-carrie-boller-removed-commission/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:15:25.000Z",
+      "description": "Carrie Prejean Boller has been removed from the White House Religious Liberty Commission after Texas Lt. Gov. Dan Patrick (R), who chairs the body, accused her of trying to “hijack” a hearing on antisemitism this week. “No member of the Commission has the right to hijack a hearing for their own personal and political agenda…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 4,
+      "reason": "A personnel removal from an advisory commission reflects internal governance but represents routine institutional management rather than a systematic erosion of democratic checks.",
+      "categories": [
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:38.261Z"
+    },
+    {
+      "id": "7f89a7bb06bf",
+      "title": "Just 8 percent in US see immigration as biggest problem: Gallup",
+      "url": "https://thehill.com/policy/national-security/5734174-us-immigration-concerns-poll/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:13:56.000Z",
+      "description": "A new poll from Gallup released Wednesday shows that few Americans see immigration as the country’s biggest problem compared with other nations where more respondents say it’s an issue. Gallup found that 8 percent of Americans said immigration was their top concern, placing the U.S. in a tie with Germany and Switzerland. Pollsters found that…",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling data reporting public opinion on policy priorities rather than analyzing any institutional action, democratic mechanism, or checks and balances erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:38.293Z"
+    },
+    {
+      "id": "9901e50e6614",
+      "title": "Anthropic says it will cover electricity price hikes caused by its data centers",
+      "url": "https://thehill.com/policy/technology/5734292-anthropic-says-it-will-cover-electricity-price-hikes-caused-by-its-data-centers/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:13:44.000Z",
+      "description": "Anthropic said Wednesday that it will cover increases in consumer electricity prices that result from its data centers, becoming the latest company to make commitments in the face of growing pushback to the AI infrastructure. The company behind Claude pledged to pay for grid infrastructure upgrades required to connect its data centers, which it noted…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns corporate infrastructure policy and electricity pricing arrangements unrelated to governmental checks and balances, democratic institutions, or constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:38.671Z"
+    },
+    {
+      "id": "3b94b0ef5513",
+      "title": "State Department to revoke more passports from people who haven’t paid child support",
+      "url": "https://thehill.com/homenews/administration/5734138-unpaid-child-support-passports-revoke/",
+      "source": "The Hill",
+      "published": "2026-02-11T22:02:48.000Z",
+      "description": "The State Department is planning to revoke more passports from people with large amounts of outstanding unpaid child support.  Individuals who owe more than $100,000 will be among the first groups targeted by the State Department for passport revocation, a U.S. official told the Associated Press. Those who enroll in a payment plan could avoid…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine enforcement of existing statutory authority (child support collection mechanisms established by prior law) with no novel institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:38.273Z"
+    },
+    {
+      "id": "d9fa02e0db91",
+      "title": "Rep. Crow on grand jury’s refusal to indict six Democrats: ‘They always will fail’",
+      "url": "https://thehill.com/homenews/house/5734277-lawmakers-defy-trump-doj/",
+      "source": "The Hill",
+      "published": "2026-02-11T21:57:26.000Z",
+      "description": "Rep. Jason Crow (D-Colo.) on Wednesday applauded a grand jury’s decision not to indict him and five other Democratic lawmakers over their participation in a controversial video last year, arguing that the Department of Justice “failed, and they will always fail.” The failed federal indictment was pursued by the office of U.S. Attorney for the…",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "A politician's statement celebrating a grand jury's decision not to indict is routine political commentary without evidence of institutional erosion or policy changes affecting democratic checks and balances.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:39.649Z"
+    },
+    {
+      "id": "27a24d45a7f4",
+      "title": "Trump slams ‘RINO’ Stitt over National Governors Association dinner",
+      "url": "https://thehill.com/homenews/administration/5734264-trump-lashes-out-oklahoma-governor/",
+      "source": "The Hill",
+      "published": "2026-02-11T21:57:24.000Z",
+      "description": "President Trump lashed out at Oklahoma Gov. Kevin Stitt (R) in a Truth Social post on Wednesday, calling him a “RINO” after the National Governors Association (NGA) announced it would not hold its annual meeting at the White House.  “The RINO Governor of the Great State of Oklahoma, in which I won all 77 Counties, three…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary involving a social media dispute between political figures with no institutional, legal, or policy implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:39.702Z"
+    },
+    {
+      "id": "2c74c055b18f",
+      "title": "The Memo: Failure to indict 6 Democrats disrupts Trump’s push to punish ",
+      "url": "https://thehill.com/homenews/administration/5734257-lawmakers-video-grand-jury/",
+      "source": "The Hill",
+      "published": "2026-02-11T21:45:20.000Z",
+      "description": "The Trump administration suffered one of its most embarrassing legal setbacks so far on Tuesday, when a grand jury in the District of Columbia rebuffed a request to indict six Democratic lawmakers. The case was made over a video the lawmakers released in November noting troops do not have to obey “illegal orders.” The grand…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates judicial/grand jury independence resisting executive pressure to prosecute political opponents, directly bearing on political retribution concerns and separation of powers.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-12T00:10:39.753Z"
+    },
+    {
+      "id": "97a5ff8e7f13",
+      "title": "Bessent says housing market has ‘gotten better’ in defense of Trump economy",
+      "url": "https://thehill.com/business/5734237-bessent-defends-trump-housing-market/",
+      "source": "The Hill",
+      "published": "2026-02-11T21:44:24.000Z",
+      "description": "Treasury Secretary Scott Bessent said Wednesday the housing market has improved in defense of the economy under President Trump. “President Trump is laser-focused on the housing market, and things have gotten better. Last month, we hit a three-year low in mortgage rates. The Fed, subsequent to, I believe the appearance you were talking about, it…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine statement by Treasury Secretary defending economic policy with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:40.108Z"
+    },
+    {
+      "id": "5072795690b7",
+      "title": "Trump gets spot of good news from delayed January jobs report",
+      "url": "https://thehill.com/business/5734225-january-jobs-report-trump/",
+      "source": "The Hill",
+      "published": "2026-02-11T21:31:28.000Z",
+      "description": "January’s delayed jobs report gave President Trump a badly needed spot of good news on Wednesday, showing the economy gained 130,000 jobs, a number well ahead of expectations. Economists expected the U.S. to have added roughly 70,000 jobs in January, with the unemployment rate staying flat at 4.4 percent, according to consensus projections. After Trump’s…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine economic news reporting on job statistics with no direct connection to democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-02-12T00:10:39.499Z"
+    },
+    {
+      "id": "0434a7d30460",
+      "title": "Johnson on calls for Lutnick to resign over Epstein ties: ‘Absurd’",
+      "url": "https://thehill.com/homenews/house/5734021-house-speaker-defends-lutnick/",
+      "source": "The Hill",
+      "published": "2026-02-11T20:47:49.000Z",
+      "description": "Speaker Mike Johnson (R-La.) on Tuesday said calls for Commerce Secretary Howard Lutnick to resign for misrepresenting his previous interactions with Jeffrey Epstein are “absurd.” “It’s absurd. Howard Lutnick is a great Commerce Secretary. He’s done an extraordinary job for the country,” Johnson told CNN’s Manu Raju.  Rep. Thomas Massie (R-Ky.) and a growing number…",
+      "keywords": [
+        "johnson",
+        "speaker"
+      ],
+      "significance": 4,
+      "reason": "While the Epstein ties raise ethical concerns relevant to corruption/self-dealing, Speaker Johnson's dismissal of resignation calls is a political statement rather than a structural threat to checks and balances, though it warrants monitoring if part of a pattern of shielding officials from accountability.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-12T00:10:41.272Z"
+    },
+    {
+      "id": "ddd4e7a6aef6",
+      "title": "Walz: Immigration crackdown in Minnesota may end in days",
+      "url": "https://thehill.com/homenews/state-watch/5733933-walz-expects-trump-crackdown-end/",
+      "source": "The Hill",
+      "published": "2026-02-11T20:28:52.000Z",
+      "description": "Minnesota Gov. Tim Walz (D) said Tuesday that he expects the Trump administration’s immigration crackdown in Minneapolis to end in a matter of days. Walz told reporters that he spoke with White House chief of staff Susie Wiles earlier that morning and with White House border czar Tom Homan on Monday. He noted that while…",
+      "keywords": [
+        "immigration",
+        "homan",
+        "border czar",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents notable but routine executive-legislative disagreement over immigration enforcement without indicating systemic institutional breakdown or unprecedented democratic erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:41.120Z"
+    },
+    {
+      "id": "c1cee6bfbc13",
+      "title": "Epstein files: AG Pam Bondi appeared to have Rep. Jayapal's DOJ database search history at hearing",
+      "url": "https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-12T00:00:09.000Z",
+      "description": "Attorney General Pam Bondi at a House Judiciary Committee hearing seemed to have a printout of Rep. Jayapal's search history related to Epstein.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 7,
+      "reason": "Potential misuse of DOJ resources to obtain private information on a Congressional member represents a significant breach of DOJ independence and congressional oversight norms.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-12T00:10:41.085Z"
+    },
+    {
+      "id": "48df8b6d4f63",
+      "title": "Pam Bondi Melts Down as Dems Press for Answers on Epstein-Files Fiasco",
+      "url": "https://www.rollingstone.com/politics/politics-news/pam-bondi-melts-down-dems-press-answers-epstein-files-1235514752/",
+      "source": "Rolling Stone",
+      "published": "2026-02-11T19:35:41.000Z",
+      "description": "The attorney general ignored questions about the administration’s handling of the case, which has enraged lawmakers, survivors, and the public",
+      "keywords": [
+        "attorney general",
+        "bondi"
+      ],
+      "significance": 4,
+      "reason": "While AG evasiveness on Epstein case oversight raises concerns about DOJ accountability, the article focuses primarily on political theater and press dynamics rather than documenting systemic erosion of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-12T00:10:41.584Z"
     }
   ],
   "lastDigest": "2026-02-11T00:20:28.315Z",
-  "lastFetch": "2026-02-11T18:17:55.779Z"
+  "lastFetch": "2026-02-12T00:10:41.584Z"
 }
