@@ -10083,7 +10083,8 @@
         "judicial independence",
         "political retribution"
       ],
-      "scoredAt": "2026-02-13T06:18:44.497Z"
+      "scoredAt": "2026-02-13T06:18:44.497Z",
+      "digestedAt": "2026-02-13T06:23:51.331Z"
     },
     {
       "id": "5b988a73de15",
@@ -10170,7 +10171,8 @@
         "political retribution",
         "civil service independence"
       ],
-      "scoredAt": "2026-02-13T06:18:46.425Z"
+      "scoredAt": "2026-02-13T06:18:46.425Z",
+      "digestedAt": "2026-02-13T06:23:51.331Z"
     },
     {
       "id": "2601804a9e11",
@@ -10217,7 +10219,8 @@
         "judicial independence",
         "immigration & civil rights"
       ],
-      "scoredAt": "2026-02-13T06:18:49.350Z"
+      "scoredAt": "2026-02-13T06:18:49.350Z",
+      "digestedAt": "2026-02-13T06:23:51.331Z"
     },
     {
       "id": "00d36fb54bcc",
@@ -10388,6 +10391,6 @@
       "scoredAt": "2026-02-13T06:18:51.411Z"
     }
   ],
-  "lastDigest": "2026-02-13T00:17:34.625Z",
+  "lastDigest": "2026-02-13T06:23:51.331Z",
   "lastFetch": "2026-02-13T06:18:51.411Z"
 }
