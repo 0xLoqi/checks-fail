@@ -10389,8 +10389,484 @@
       "reason": "Routine scheduling and communication confusion regarding a governors' conference lacks systemic implications for democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-13T06:18:51.411Z"
+    },
+    {
+      "id": "73d6847be3ab",
+      "title": "“Not Ready for Prime Time.” A Federal Tool to Check Voter Citizenship Keeps Making Mistakes.",
+      "url": "https://www.propublica.org/article/save-voter-citizenship-tool-mistakes-confusion",
+      "source": "ProPublica",
+      "published": "2026-02-13T10:30:00.000Z",
+      "description": "The post “Not Ready for Prime Time.” A Federal Tool to Check Voter Citizenship Keeps Making Mistakes. appeared first on ProPublica.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 6,
+      "reason": "A flawed federal voter citizenship verification tool poses notable risks to election integrity and voting rights, but the article documents system failures rather than intentional institutional erosion.",
+      "categories": [
+        "election infrastructure",
+        "civil rights"
+      ],
+      "scoredAt": "2026-02-13T12:06:39.980Z"
+    },
+    {
+      "id": "8accf305846a",
+      "title": "Trump Is Threatening to Block the Michigan-Canada Bridge. He Used to Cheer It.",
+      "url": "https://www.propublica.org/article/trump-michigan-canada-gordie-howe-bridge-reversal",
+      "source": "ProPublica",
+      "published": "2026-02-13T10:00:00.000Z",
+      "description": "The post Trump Is Threatening to Block the Michigan-Canada Bridge. He Used to Cheer It. appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article covers a policy position reversal on infrastructure rather than an institutional threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:40.081Z"
+    },
+    {
+      "id": "664d479bc491",
+      "title": "DHS expected to shut down as talks over immigration enforcement reform falter",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5712312/dhs-expected-to-shut-down-as-talks-over-immigration-enforcement-reform-falter",
+      "source": "NPR Politics",
+      "published": "2026-02-13T11:44:43.000Z",
+      "description": "A stopgap bill to temporarily fund the Department of Homeland Security expires Friday night. DHS could be without funding for days, as the House and Senate are expected to be in recess next week.",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A temporary DHS shutdown represents a notable legislative failure and potential disruption to federal operations, but is not unprecedented and does not constitute institutional erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:40.134Z"
+    },
+    {
+      "id": "4aa2ff1f724d",
+      "title": "Sen. Ruben Gallego talks about debate over DHS funding as deadline approaches",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5712516/sen-ruben-gallego-talks-about-debate-over-dhs-funding-as-deadline-approaches",
+      "source": "NPR Politics",
+      "published": "2026-02-13T11:44:38.000Z",
+      "description": "NPR's Steve Inskeep asks Democratic Sen. Ruben Gallego of Arizona about the fight over funding for the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on standard budgetary negotiations with no indication of institutional threats or democratic erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:40.003Z"
+    },
+    {
+      "id": "f18bdf95da0f",
+      "title": "A bipartisan effort to save health subsidies failed. Will ICE reform be different?",
+      "url": "https://www.npr.org/2026/02/13/g-s1-109818/bipartisan-effort-save-health-subsidies-failed-ice-reform-different",
+      "source": "NPR Politics",
+      "published": "2026-02-13T10:00:00.000Z",
+      "description": "A bipartisan effort in Congress to restrain immigration enforcement tactics is flailing despite a Friday deadline to fund the Department of Homeland Security. The pattern is increasingly familiar.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Legislative gridlock on immigration enforcement policy reflects institutional friction but doesn't represent a direct threat to core democratic checks and balances or unprecedented erosion of institutional independence.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T12:06:39.809Z"
+    },
+    {
+      "id": "5cb9b975a675",
+      "title": "Swing voters in Arizona say ICE should be reformed",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5707491/swing-voters-in-arizona-say-ice-should-be-reformed",
+      "source": "NPR Politics",
+      "published": "2026-02-13T09:47:09.000Z",
+      "description": "NPR's Steve Inskeep speaks to Rich Thau, who runs focus groups with swing voters and recently asked for their opinions on the Trump administration's immigration policies.",
+      "keywords": [
+        "voter",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is polling commentary on public opinion regarding immigration policy implementation, lacking substantive information about institutional changes or democratic erosion.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T12:06:41.637Z"
+    },
+    {
+      "id": "f44ac90563de",
+      "title": "Minnesota Sen. Amy Klobuchar talks about last effect of federal immigration crackdown",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5712399/minnesota-sen-amy-klobuchar-talks-about-last-effect-of-federal-immigration-crackdown",
+      "source": "NPR Politics",
+      "published": "2026-02-13T09:46:23.000Z",
+      "description": "NPR's Steve Inskeep asks Sen. Amy Klobuchar, D-Minn., about the lingering impact of the federal immigration crackdown in Minnesota.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 4,
+      "reason": "A senator discussing observed effects of immigration enforcement policies represents notable commentary on civil rights and federal program implementation, but lacks institutional action, policy changes, or systemic checks-and-balances developments.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:41.422Z"
+    },
+    {
+      "id": "2f76a3046000",
+      "title": "Trump pardons 5 former NFL players for crimes ranging from perjury to drug trafficking",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5713307/trump-nfl-pardons",
+      "source": "NPR Politics",
+      "published": "2026-02-13T07:41:41.000Z",
+      "description": "Those pardoned include ex-NFL players Joe Klecko, Nate Newton, Jamal Lewis, Travis Henry and the late Billy Cannon.",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "Individual pardons of non-political figures for past crimes, while raising general concerns about pardon power use, do not constitute a systematic threat to constitutional checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-13T12:06:41.265Z"
+    },
+    {
+      "id": "f5952c7af29e",
+      "title": "Judge blocks Trump admin from rescinding health grants to Democratic-led states",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5713305/federal-funding-democratic-states-lawsuit",
+      "source": "NPR Politics",
+      "published": "2026-02-13T07:31:12.000Z",
+      "description": "The ruling temporarily blocks the Trump Administration from cutting $600 million in public health grants that had already been allocated to four Democratic-led states.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Judicial intervention blocking executive action targeting states based on political affiliation directly tests separation of powers and prevents potential political retribution through federal funding mechanisms.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:41.205Z"
+    },
+    {
+      "id": "4e9a36048ba0",
+      "title": "A historic election in Bangladesh brings BNP to power. What to know about its leader",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-nationalist-party-victory-election-student-uprising-leader",
+      "source": "NPR Politics",
+      "published": "2026-02-13T07:28:20.000Z",
+      "description": "The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This article covers elections in Bangladesh and has no direct relevance to U.S. democratic institutions, checks and balances, or any of the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:40.974Z"
+    },
+    {
+      "id": "9a4f1842bf82",
+      "title": "Members of Congress prepare to face angry, dissatisfied primary voters in 2026",
+      "url": "https://www.nbcnews.com/politics/2026-election/members-congress-prepare-face-angry-dissatisfied-primary-voters-2026-rcna253870",
+      "source": "NBC News",
+      "published": "2026-02-13T10:00:00.000Z",
+      "description": "Lawmakers in both parties face a reckoning from within their own ranks this year — and the first major primary day of the midterm elections puts all of those pressures on full display",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine electoral competition and primary challenges, which are normal democratic processes rather than institutional threats to checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:42.650Z"
+    },
+    {
+      "id": "931c40df401f",
+      "title": " Trump heads to Fort Bragg to cheer special forces who ousted Venezuela's Maduro",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-heads-fort-bragg-cheer-special-forces-members-130128722",
+      "source": "ABC News",
+      "published": "2026-02-13T09:14:14.000Z",
+      "description": "President Donald Trump is visiting Fort Bragg in North Carolina on Friday to praise special forces involved in the capture of Venezuela’s former leader, Nicolás Maduro",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report about a presidential visit to a military base to honor service members; it does not involve domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:42.858Z"
+    },
+    {
+      "id": "f9f3de22582a",
+      "title": " Professors in the Epstein files say they hoped friendship would lead to research funding",
+      "url": "https://abcnews.go.com/Politics/wireStory/professors-epstein-files-hoped-friendship-lead-research-funding-130127957",
+      "source": "ABC News",
+      "published": "2026-02-13T05:10:07.000Z",
+      "description": "A new trove of documents released by the Justice Department reveals that Epstein’s reach into academia was wider than previously known",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article describes past misconduct by a deceased individual and academic corruption unrelated to current institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:43.024Z"
+    },
+    {
+      "id": "482d9b61cf4c",
+      "title": " Judge temporarily blocks Trump officials from rescinding health grants to some Democratic-led states",
+      "url": "https://abcnews.go.com/Politics/wireStory/judge-temporarily-blocks-trump-officials-rescinding-health-grants-130125040",
+      "source": "ABC News",
+      "published": "2026-02-13T07:41:46.000Z",
+      "description": "A federal judge has ruled that President Donald Trump’s administration cannot pull back $600 million in public health grants allocated to four Democratic-led states, for now",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This ruling represents a notable judicial check on executive overreach regarding grant rescissions, but lacks the precedential weight or systemic institutional impact required for higher significance.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-13T12:06:44.150Z"
+    },
+    {
+      "id": "46161ba3c632",
+      "title": " A judge orders DHS to give Minnesota detainees swift access to lawyers before transfers",
+      "url": "https://abcnews.go.com/Politics/wireStory/judge-orders-dhs-give-minnesota-detainees-swift-access-130123147",
+      "source": "ABC News",
+      "published": "2026-02-13T01:33:29.000Z",
+      "description": "A federal judge has ordered the Department of Homeland Security to give detained immigrants in Minnesota quick, private access to lawyers",
+      "keywords": [
+        "detained",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "A federal judge's enforcement order against DHS strengthens judicial independence and civil rights protections by ensuring legal access for detained immigrants, representing significant institutional action on constitutional due process.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T12:06:44.160Z"
+    },
+    {
+      "id": "d3950fbe3d77",
+      "title": " Arizona GOP candidate drops out of primary, narrowing field to two",
+      "url": "https://abcnews.go.com/Politics/wireStory/arizona-gop-candidate-drops-primary-narrowing-field-130120726",
+      "source": "ABC News",
+      "published": "2026-02-13T02:05:26.000Z",
+      "description": "President Donald Trump-endorsed housing developer Karrin Taylor Robson suspended her campaign Thursday for Arizona governor",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A candidate withdrawal from a primary election is routine political news with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:43.864Z"
+    },
+    {
+      "id": "a2a94d9f530f",
+      "title": " A look at false claims made by the Trump administration as it revokes a key scientific finding",
+      "url": "https://abcnews.go.com/Politics/wireStory/false-claims-made-trump-administration-revokes-key-scientific-130120372",
+      "source": "ABC News",
+      "published": "2026-02-12T23:17:52.000Z",
+      "description": "While announcing that he was rolling back the Environmental Protection Agency’s 2009 endangerment finding, President Donald Trump and EPA Administrator Lee Zeldin made false claims regarding the government declaration, climate change and energy",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While policy rollback is notable, this article primarily documents false claims rather than a structural threat to institutional checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:44.530Z"
+    },
+    {
+      "id": "318483ba3969",
+      "title": " Trump immigration officials shown video of Alex Pretti’s death in tense Senate hearing",
+      "url": "https://abcnews.go.com/Politics/wireStory/trump-immigration-officials-shown-video-alex-prettis-death-130118761",
+      "source": "ABC News",
+      "published": "2026-02-12T22:53:48.000Z",
+      "description": "Sen. Rand Paul has challenged federal immigration officers over the shooting death of Alex Pretti and said the public has lost trust",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of immigration enforcement is notable, but this incident's significance to systemic checks and balances depends on whether it reveals institutional failures or improper pressure on independent agencies.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T12:06:44.010Z"
+    },
+    {
+      "id": "f2e856acc027",
+      "title": "Behind the Curtain: Resistance rising",
+      "url": "https://www.axios.com/2026/02/13/trump-lose-power-republican-resistance",
+      "source": "Axios",
+      "published": "2026-02-13T10:35:27.000Z",
+      "description": "Little by little, week after week, a subtle but significant shift is unfolding in American politics: Institutions and even a small but growing number of Republicans are standing up to President Trump.\nWhy it matters: This is hardly COVID, where everyone seemed to resist everything — or even a return to Normal Times, when CEOs and Republicans said something when they saw something alarming.\n\nBut the law of political gravity is starting to apply to Trump. Simply put, the more unpopular his policie",
+      "keywords": [
+        "election",
+        "voting",
+        "DOJ",
+        "raid",
+        "immigration",
+        "ICE",
+        "homan",
+        "deportation",
+        "border czar",
+        "white house",
+        "johnson",
+        "speaker",
+        "unconstitutional",
+        "trump",
+        "EPA",
+        "retribution"
+      ],
+      "significance": 5,
+      "reason": "The article describes emerging institutional resistance to Trump policies, which is notable for democratic checks and balances, but lacks specific details about concrete actions, rulings, or policy changes that would elevate it to significant impact.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-13T12:06:45.729Z"
+    },
+    {
+      "id": "dd94c8661749",
+      "title": "Inside the \"complicated\" relationship between Donald Trump and Chuck Schumer",
+      "url": "https://www.axios.com/2026/02/13/trump-schumer-new-york-witkoff-lutnick",
+      "source": "Axios",
+      "published": "2026-02-13T09:45:05.000Z",
+      "description": "Senate Minority Leader Chuck Schumer is one of the only Democrats in Washington who can work with President Trump, leaning on their common New York ties, mutual allies and the residuals of their long-ago alliance.\nWhy it matters: There's deep mistrust between the two and their aides. But Schumer and Trump have each other's numbers literally and figuratively, and have been known to talk on the phone like the longtime acquaintances they are.\n\nAs a New York Democrat decades ago, Trump financially s",
+      "keywords": [
+        "ICE",
+        "DNI",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting about personal relationships and communication channels between political figures, with no evidence of institutional action affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:45.461Z"
+    },
+    {
+      "id": "e093b5bdc2ed",
+      "title": "Congress braces for extended DHS shutdown",
+      "url": "https://thehill.com/newsletters/morning-report/5736902-funding-lapse-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-13T11:48:52.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ DHS funding set to run out Saturday ▪ Trump defends embattled Cabinet members ▪ Top Wall Street lawyer resigns over Epstein ties ▪ Climate change endangerment finding overturned Lawmakers left Washington Thursday afternoon without plans to vote on a deal to avert a funding lapse at the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A potential DHS shutdown represents a notable institutional stress point affecting federal operations and congressional oversight, but lacks evidence of unprecedented democratic erosion or imminent passage.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-13T12:06:45.978Z"
+    },
+    {
+      "id": "ff90f6092d88",
+      "title": "Party balloons? FAA’s surprise El Paso airspace closure fuels questions",
+      "url": "https://thehill.com/policy/transportation/5736518-faa-el-paso-airspace-closure/",
+      "source": "The Hill",
+      "published": "2026-02-13T11:00:00.000Z",
+      "description": "The Federal Aviation Administration (FAA) surprise closure and later opening of airspace over El Paso, Texas is fueling questions from the public and sharp rebukes from lawmakers.  Trump administration officials initially contended the move came in response to the incursion of Mexican drug cartel drones.  However, the closure of airspace — initially set to last…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the airspace closure raises questions about agency decision-making transparency, it appears to be an operational/security matter without clear evidence of systematic undermining of constitutional checks and balances or democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:45.602Z"
+    },
+    {
+      "id": "c5476a03b3cd",
+      "title": "Democrats’ tariff gambit sparks new headaches for Mike Johnson",
+      "url": "https://thehill.com/homenews/house/5736513-democrats-trump-tariffs-mike-johnson/",
+      "source": "The Hill",
+      "published": "2026-02-13T11:00:00.000Z",
+      "description": "This week’s rebuke of President Trump’s tariff regime by a small group of House Republicans is only the start of what will likely be a series of headaches over the issue for Speaker Mike Johnson (R-La.), threatening to derail the White House’s messaging on the tariffs in a critical election year. First, Republican leaders failed…",
+      "keywords": [
+        "election",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine partisan disagreement over tariff policy within normal legislative processes, with no direct implications for constitutional checks and balances or democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:45.584Z"
+    },
+    {
+      "id": "996cddbfee51",
+      "title": "Ro Khanna’s role in Epstein files may be catnip for Democratic voters",
+      "url": "https://thehill.com/homenews/house/5736297-khanna-epstein-case-presidential-run/",
+      "source": "The Hill",
+      "published": "2026-02-13T11:00:00.000Z",
+      "description": "When Rep. Ro Khanna took to the House floor this week to read aloud the names of six “wealthy, powerful men” whose identities were originally redacted in the Jeffrey Epstein files, it catapulted the congressman further into the national spotlight. In recent months, Khanna has helped lead the charge around the Epstein case, meeting with…",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is primarily political commentary about a congressman's media strategy regarding released court documents, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:47.265Z"
+    },
+    {
+      "id": "dd7ee0a37899",
+      "title": "Congress barrels toward Homeland Security shutdown without off-ramp in sight",
+      "url": "https://thehill.com/homenews/senate/5736524-congress-homeland-security-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-13T11:00:00.000Z",
+      "description": "Senators left Washington this week without a deal to fund the Department of Homeland Security (DHS) past Friday, signaling how far apart Senate Democrats and White House negotiators are on a potential agreement to reform Immigration and Customs Enforcement (ICE). Senate Majority Leader John Thune (R-S.D.) and Senate Democratic Leader Chuck Schumer (D-N.Y.) have told…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A potential DHS shutdown reflects normal congressional budgetary disputes and legislative disagreement, though it involves significant agencies and could escalate if unresolved.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T12:06:47.308Z"
+    },
+    {
+      "id": "5836b77ca891",
+      "title": "Europe has 'failed' in the face of Trump and Putin's ‘wrecking ball’ politics, top security official says",
+      "url": "https://www.cnbc.com/2026/02/13/europe-trump-putin-defense-munich-security-conference.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-13T09:58:26.000Z",
+      "description": "The head of Europe’s biggest security forum said regional powers were “totally on the sidelines” of major discussions — but that it was their “own fault.”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on European geopolitical positioning rather than reporting on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T12:06:47.215Z"
     }
   ],
   "lastDigest": "2026-02-13T06:23:51.331Z",
-  "lastFetch": "2026-02-13T06:18:51.411Z"
+  "lastFetch": "2026-02-13T12:06:47.308Z"
 }
