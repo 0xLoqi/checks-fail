@@ -10865,8 +10865,585 @@
       "reason": "This is commentary on European geopolitical positioning rather than reporting on U.S. domestic democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-13T12:06:47.215Z"
+    },
+    {
+      "id": "1d716bdad9ac",
+      "title": "What Meetings Among Trump Lawyers Reveal About the FBI’s Seizure of Election Records in Georgia",
+      "url": "https://www.propublica.org/article/thomas-albus-fulton-county-georgia-election-records",
+      "source": "ProPublica",
+      "published": "2026-02-13T16:50:00.000Z",
+      "description": "The post What Meetings Among Trump Lawyers Reveal About the FBI’s Seizure of Election Records in Georgia appeared first on ProPublica.",
+      "keywords": [
+        "election",
+        "FBI",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Investigative reporting on FBI conduct regarding election records seizure directly implicates both FBI independence and judicial oversight, revealing potential institutional tensions in a high-stakes political context.",
+      "categories": [
+        "FBI independence",
+        "judicial independence",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-13T18:10:26.612Z"
+    },
+    {
+      "id": "45215854fcd1",
+      "title": "Trump boasts of over $1.5B in political funds. His spending tactic could shape the midterms",
+      "url": "https://www.pbs.org/newshour/politics/trump-boasts-of-over-1-5b-in-political-funds-his-spending-tactic-could-shape-the-midterms",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T17:45:16.000Z",
+      "description": "He claims to have raked in that much just between Election Day 2024 and last August, though details on the exact figure are unclear.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political news about campaign fundraising and spending tactics, lacking evidence of institutional democratic erosion or checks-and-balances violations.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-13T18:10:27.089Z"
+    },
+    {
+      "id": "f1fee5b07b08",
+      "title": "Germany's Merz calls on U.S. and Europe to 'repair and revive trans-Atlantic trust together'",
+      "url": "https://www.pbs.org/newshour/world/germanys-merz-calls-on-u-s-and-europe-to-repair-and-revive-trans-atlantic-trust-together",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T17:14:22.000Z",
+      "description": "German Chancellor Friedrich Merz acknowledged that \"a divide, a deep rift\" has opened up across the Atlantic as he opened the Munich Security Conference, an annual gathering of top global security figures including many European leaders and U.S. Secretary of State Marco Rubio.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article covers international diplomatic statements about trans-Atlantic relations and does not address any of the 12 domestic U.S. democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:26.690Z"
+    },
+    {
+      "id": "ae73b4581fdb",
+      "title": "Prosecutors to dismiss charges against men accused of assaulting ICE officer in Minneapolis",
+      "url": "https://www.pbs.org/newshour/politics/prosecutors-to-dismiss-charges-against-men-accused-of-assaulting-ice-officer-in-minneapolis",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T17:12:56.000Z",
+      "description": "The pending dismissal comes after a string of high-profile shootings involving federal immigration officers have called claims made by federal officers into question.",
+      "keywords": [
+        "prosecutor",
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "The dismissal reflects concerns about federal officer credibility that affect DOJ independence and rule of law, but represents a case-specific prosecutorial decision rather than a systemic institutional change.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-13T18:10:26.441Z"
+    },
+    {
+      "id": "1b5662bb4615",
+      "title": "Indonesia prepares up to 8,000 troops in first firm commitment to Gaza peacekeeping force",
+      "url": "https://www.pbs.org/newshour/politics/indonesia-prepares-up-to-8000-troops-in-first-firm-commitment-to-gaza-peacekeeping-force",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T16:23:44.000Z",
+      "description": "Officials now talk about sending 5,000 to 8,000 troops, focusing on engineering and medical units.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Indonesian military deployment to Gaza and has no relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:26.210Z"
+    },
+    {
+      "id": "22e7e0773759",
+      "title": "WATCH LIVE: Trump honors special forces who helped capture Venezuela's Maduro",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-honors-special-forces-who-helped-capture-venezuelas-maduro",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T15:41:58.000Z",
+      "description": "President Donald Trump's visit to Fort Bragg is meant to toast service members involved in his administration's dramatic ouster of Nicolás Maduro, an operation he has described as requiring bravery and advanced weapons.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on a presidential visit and military recognition ceremony with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:28.564Z"
+    },
+    {
+      "id": "785741369273",
+      "title": "What services are affected by the Homeland Security shutdown? What you need to know",
+      "url": "https://www.pbs.org/newshour/politics/what-services-are-affected-by-the-homeland-security-shutdown-what-you-need-to-know",
+      "source": "PBS NewsHour",
+      "published": "2026-02-13T14:40:18.000Z",
+      "description": "Another shutdown for parts of the federal government is expected this weekend as lawmakers debate new restrictions on President Donald Trump's immigration enforcement agenda.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A shutdown represents a notable congressional-executive tension and affects federal operations, but this article focuses on practical service impacts rather than documenting institutional erosion or unprecedented democratic breakdown.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:28.483Z"
+    },
+    {
+      "id": "241f250bfde5",
+      "title": "Virginia Supreme Court allows redistricting special election to move forward",
+      "url": "https://www.nbcnews.com/politics/2026-election/virginia-supreme-court-allows-redistricting-special-election-rcna258937",
+      "source": "NBC News",
+      "published": "2026-02-13T15:43:18.000Z",
+      "description": "The Virginia Supreme Court on Friday allowed a referendum that could pave the way for a new congressional map that heavily favors Democrats to appear on the ballot this spring",
+      "keywords": [
+        "election",
+        "ballot"
+      ],
+      "significance": 5,
+      "reason": "A state court's redistricting decision affects electoral fairness and congressional representation but involves routine judicial review rather than unprecedented institutional erosion.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-13T18:10:28.069Z"
+    },
+    {
+      "id": "89f2ec9b6ca0",
+      "title": "Trump Revokes EPA Scientific Finding on Greenhouse Gas Threat",
+      "url": "https://www.today.com/video/trump-revokes-key-climate-change-finding-from-obama-era-257645125813",
+      "source": "NBC News",
+      "published": "2026-02-13T13:16:57.000Z",
+      "description": "The Trump administration has repealed the Obama-era EPA rule known as the “Endangerment Finding” that classified carbon dioxide and five other greenhouse gases as a threat to public health. The landmark rule established in 2009, underpinned emissions standards and rules for vehicles, power plants and oil industry facilities.",
+      "keywords": [
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While reversing major environmental regulations is significant, this primarily represents executive policy change within statutory authority rather than an institutional threat to checks and balances themselves, though it does relate to executive accountability and congressional oversight.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-13T18:10:32.735Z"
+    },
+    {
+      "id": "eb70ad8bb413",
+      "title": "DHS Poised to Shut Down After Failed Senate Vote",
+      "url": "https://www.today.com/video/dhs-shutdown-looms-as-congress-fails-to-agree-to-ice-reform-257641541897",
+      "source": "NBC News",
+      "published": "2026-02-13T12:27:51.000Z",
+      "description": "The Department of Homeland Security is on the verge of a shutdown after lawmakers failed to agree to reforms around President Donald Trump’s mass deportation program. It comes as the administration announced plans to drawback its ICE surge in Minnesota. NBC’s Ryan Nobles reports for TODAY.",
+      "keywords": [
+        "ICE",
+        "deportation",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A DHS shutdown represents a significant congressional-executive standoff with institutional consequences, but falls short of critical level as shutdowns are recurring events within normal legislative processes.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:29.965Z"
+    },
+    {
+      "id": "5003c604e8bf",
+      "title": "Trump pardons 5 former NFL players for crimes ranging from perjury to drug trafficking",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-pardons-former-nfl-players-crimes-perjury-drug-trafficking-rcna258909",
+      "source": "NBC News",
+      "published": "2026-02-13T14:24:04.000Z",
+      "description": "President Donald Trump on Thursday pardoned five former professional football players — one posthumously — for various crimes ranging from perjury to drug trafficking.",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "While presidential pardons are constitutionally protected powers, this action involves routine exercise of that authority for private citizens rather than targeting political opponents or demonstrating institutional erosion.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-13T18:10:30.152Z"
+    },
+    {
+      "id": "75ef0018aa98",
+      "title": "CEO of Dubai's largest port replaced after ties to Epstein revealed",
+      "url": "https://www.cbsnews.com/news/jeffrey-epstein-ceo-dubais-largest-port-sultan-ahmed-bin-sulayem-replaced/",
+      "source": "CBS News",
+      "published": "2026-02-13T17:40:00.000Z",
+      "description": "Sultan Ahmed bin Sulayem, CEO and chairman of Dubai's DP World, appears in the Epstein files more than 4,700 times, according to the Justice Dept.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns a foreign corporate executive and does not involve U.S. democratic institutions, governance processes, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:30.187Z"
+    },
+    {
+      "id": "506ea511c70a",
+      "title": "Low expectations as Ukraine, Russia confirm new round of talks with U.S.",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-us-3rd-round-peace-talks-zelenskyy-says-up-to-trump/",
+      "source": "CBS News",
+      "published": "2026-02-13T16:46:00.000Z",
+      "description": "As Russia and Ukraine confirm a 3rd round of U.S.-mediated peace talks, this time in Europe, Zelenskyy says Trump admin \"must put pressure on Russia.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy negotiations with no direct bearing on the 12 tracked categories of U.S. democratic institutions and checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:30.258Z"
+    },
+    {
+      "id": "a46ceadd3a68",
+      "title": "JD Vance to join Tony Dokoupil for CBS News \"Things That Matter\" town hall",
+      "url": "https://www.cbsnews.com/news/jd-vance-tony-dokoupil-cbs-news-things-that-matter-town-hall/",
+      "source": "CBS News",
+      "published": "2026-02-13T15:28:03.000Z",
+      "description": "Vice President JD Vance will talk about the economy, foreign policy, the state of the Republican Party and the 2028 race for the White House in a March edition of the CBS News town hall series​ \"Things That Matter.\"",
+      "keywords": [
+        "ICE",
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is a routine media appearance announcement with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:33.520Z"
+    },
+    {
+      "id": "585a00a5664a",
+      "title": "Trump pardons 5 ex-NFL players for crimes including drug trafficking",
+      "url": "https://www.cbsnews.com/news/trump-pardons-5-ex-nfl-players-crimes-including-drug-trafficking-joe-klecko-nate-newton-billy-cannon/",
+      "source": "CBS News",
+      "published": "2026-02-13T12:27:41.000Z",
+      "description": "President Trump pardoned five former NFL players - one posthumously - for crimes ranging from perjury to drug trafficking.",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "While presidential pardons are a constitutional power, this routine exercise affecting individual criminal cases has minimal systemic impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:34.084Z"
+    },
+    {
+      "id": "3c1a49fd8340",
+      "title": "MAHA's midterm election test",
+      "url": "https://www.axios.com/2026/02/13/rfk-midterm-election-maha-voters",
+      "source": "Axios",
+      "published": "2026-02-13T14:06:22.000Z",
+      "description": "The \"Make America Healthy Again\" movement has the potential to boost Republicans in the midterms — as long as it avoids politically toxic vaccine rhetoric, which could be tough for Health Secretary Robert F. Kennedy Jr.\nWhy it matters: Embracing Kennedy on the campaign trail could either boost Republicans' chances of keeping one or both chambers of Congress in November, or further alienate voters increasingly wary of President Trump's tenure.\n\nThe big picture: While Democrats are ahead in the ge",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article discusses a political movement's electoral strategy and potential voter impact, which touches on election integrity concerns but lacks evidence of systemic institutional erosion or checks-and-balances breakdown.",
+      "categories": [
+        "election infrastructure",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:33.897Z"
+    },
+    {
+      "id": "1e67f2638283",
+      "title": "Trump sends second aircraft carrier to Gulf amid Iran threats",
+      "url": "https://www.axios.com/2026/02/13/aircraft-carrier-iran-ford-trump-threats",
+      "source": "Axios",
+      "published": "2026-02-13T12:53:01.000Z",
+      "description": "President Trump ordered the Pentagon to send the USS Gerald R. Ford aircraft carrier and its strike group to the Middle East to boost U.S. forces in the region amid tensions with Iran, two U.S. officials confirmed. \nWhy it matters: The move will increase the pressure on Tehran during the nuclear negotiations with the Trump administration, making the U.S. military threat even more menacing. \n\nThe Ford, which is now in the Caribbean, will need three or four weeks to arrive in the region. That's in",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine military deployment decision within the President's constitutional authority as Commander-in-Chief, with no apparent implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:34.711Z"
+    },
+    {
+      "id": "a3e1cfe0e005",
+      "title": "Musk labels Anthropic as ‘misanthropic and evil’",
+      "url": "https://thehill.com/policy/technology/5737459-musk-accuses-anthropic-bias/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:56:52.000Z",
+      "description": "Tech billionaire Elon Musk slammed Anthropic on Thursday as “misanthropic and evil,” after the AI firm announced its latest round of funding. Musk, who owns a competing AI company xAI, alleged that Anthropic’s AI “hates Whites & Asians, especially Chinese, heterosexuals and men.” He did not point to any specific examples. “This is misanthropic and…",
+      "keywords": [
+        "musk"
+      ],
+      "significance": 1,
+      "reason": "This is a billionaire's critical opinion about a private company's AI product, with no connection to government institutions, democratic processes, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:34.410Z"
+    },
+    {
+      "id": "d61985f04988",
+      "title": "Graham: ‘Who gives a s— who owns Greenland? I don’t’",
+      "url": "https://thehill.com/homenews/senate/5737582-graham-trump-greenland-defense/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:55:26.000Z",
+      "description": "Sen. Lindsey Graham (R-S.C.), who is closely allied with President Trump, distanced himself from the Trump administration’s maneuvering to seize control of Greenland, declaring in an interview: “Who gives as s— who owns Greenland?” Graham downplayed the significance of the Trump administration’s aggressive posturing to take over the mineral-rich territory, which belongs to Denmark, a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political commentary on a foreign policy position that does not directly implicate institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:36.327Z"
+    },
+    {
+      "id": "a57188e03e4c",
+      "title": "Trump finally ends Minnesota ICE op after two Americans killed ",
+      "url": "https://thehill.com/opinion/lindseys-lens/5737601-trump-ends-minnesota-immigration-surge/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:54:57.000Z",
+      "description": "Here’s my question: If Minnesota was honoring detainers, if the dispute was about data and communication, why did it take a massive federal surge, widespread fear, and two American lives lost to reach this middle ground?",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Represents a notable policy reversal with implications for federal-state immigration enforcement coordination and civil rights, but lacks the institutional or constitutional magnitude of higher-tier events.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-13T18:10:36.938Z"
+    },
+    {
+      "id": "12350b5d665f",
+      "title": "Watch live: Trump delivers remarks to troops in North Carolina",
+      "url": "https://thehill.com/video-clips/5736912-trump-fort-bragg-troops/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:45:00.000Z",
+      "description": "President Trump will speak to troops and military families in Fort Bragg, N.C., on Friday afternoon, where he is expected to highlight the specialized forces that assisted in the U.S. military’s capture and arrest of ex-Venezuelan leader Nicolás Maduro. Trump, who touted the Jan. 3 mission as a major win for U.S. national security, has…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A routine presidential speech to troops covering standard military operations and national security messaging, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:36.815Z"
+    },
+    {
+      "id": "a22c7b52d1bb",
+      "title": "Judge blocks planned Trump administration health cuts to Democratic states",
+      "url": "https://thehill.com/policy/healthcare/5737521-judge-blocks-trump-grants-cut/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:31:53.000Z",
+      "description": "The Trump administration cannot proceed with plans to rescind $602 million in public health grants from four Democratic-led states, a federal judge in Illinois ruled Thursday. U.S. District Judge Manish S. Shah determined that the four states — Colorado, Illinois, California and Minnesota — were likely to succeed in their claim that the government’s desired…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A federal judge blocking executive action on statutory grounds represents significant institutional pushback on executive power, directly testing judicial independence and separation of powers.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:36.280Z"
+    },
+    {
+      "id": "37336d18c838",
+      "title": "DHS ends deportation protections for Yemenis in US",
+      "url": "https://thehill.com/homenews/administration/5737503-dhs-ends-deportation-protections-yemen/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:20:29.000Z",
+      "description": "The Department of Homeland Security (DHS) on Friday moved to end deportation protections for people from Yemen, the 13th country from which the Trump administration has struck the status. The move leaves just four countries that the administration has not sought to end what is known as Temporary Protected Status (TPS), which bars immigration agencies…",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A significant executive action on immigration policy with potential civil rights implications, but within existing presidential authority over TPS designations and lacking the institutional confrontation that would constitute a democratic check erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:36.075Z"
+    },
+    {
+      "id": "a5ea758d4a3e",
+      "title": "German Chancellor Merz says US leadership ‘lost,’ calls for repair of relations",
+      "url": "https://thehill.com/policy/international/5737485-us-leadership-challenged-merz/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:10:52.000Z",
+      "description": "German Chancellor Friedrich Merz on Friday said that the U.S. role as a leader on the world stage is “lost,” and urged President Trump to repair the transatlantic relationship to challenge threats from China and Russia.  “The United States’ claim to leadership has been challenged and possibly lost,” Merz told a crowd of foreign heads…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Foreign commentary on U.S. leadership does not directly impact domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:37.749Z"
+    },
+    {
+      "id": "20be8466e957",
+      "title": "US forces complete transfer of thousands of ISIS detainees from Syria to Iraq",
+      "url": "https://thehill.com/policy/defense/5737399-us-force-transfer-isis-prisoners-syria-iraq/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:09:44.000Z",
+      "description": "The U.S. military completed the transfer of thousands of low-level ISIS prisoners from detention in Syria to Iraq, completing the effort that began last month at the request of Baghdad.  The transfer operation, which began Jan. 21, saw the U.S. Central Command (Centcom) forces move male ISIS fighters from detention facilities in northeastern Syria to…",
+      "keywords": [
+        "detention"
+      ],
+      "significance": 2,
+      "reason": "This is a routine military logistical operation involving prisoner transfers between allies with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:37.814Z"
+    },
+    {
+      "id": "19480ea86f9a",
+      "title": "HHS shaking up top personnel to push Trump, MAHA priorities ahead of midterms",
+      "url": "https://thehill.com/policy/healthcare/5737246-hhs-reshuffles-top-staffers/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:06:44.000Z",
+      "description": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Thursday announced a reshuffling of top staffers in his department as the Trump administration looks to shore up health wins that can boost GOP success in the upcoming midterms. Centers for Medicare and Medicaid Services (CMS) Deputy Administrator Chris Klomp will be chief counselor…",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump",
+        "EPA",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Personnel reshuffling within HHS is a routine administrative action, though the explicit timing around midterms and the MAHA mandate raises modest concerns about politicization of civil service functions.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-13T18:10:38.950Z"
+    },
+    {
+      "id": "7b71b439b088",
+      "title": "Trump endorses Hungary’s Orbán in reelection bid",
+      "url": "https://thehill.com/homenews/administration/5737415-donald-trump-endorses-viktor-orban-hungary/",
+      "source": "The Hill",
+      "published": "2026-02-13T17:01:17.000Z",
+      "description": "President Trump endorsed Hungarian Prime Minister Viktor Orbán’s reelection bid on Friday.  Trump called Orbán “a truly strong and powerful Leader” in a lengthy Truth Social post announcing support for his longtime political ally, crediting the prime minister with “delivering phenomenal results” for Hungary.  “He fights tirelessly for, and loves, his Great Country and People,…",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news item about a political endorsement with no direct impact on U.S. institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:38.825Z"
+    },
+    {
+      "id": "cef6bfc0a7ba",
+      "title": "UW-Madison requiring students to disclose measles vaccination status",
+      "url": "https://thehill.com/homenews/education/5737395-uw-madison-measles-vaccination-status/",
+      "source": "The Hill",
+      "published": "2026-02-13T16:59:23.000Z",
+      "description": "The University of Wisconsin-Madison announced Thursday it is requiring its students to disclose their vaccination status for certain diseases after a measles case was discovered on campus last month amid a spike nationally. The new policy states students must tell the university their vaccination status for measles, mumps, rubella (MMR), Tetanus, Diphtheria, Pertussis (Tdap), chicken pox, Meningococcal and Hepatitis…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine public health policy announcement by a university institution with no direct bearing on federal democratic checks and balances or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-02-13T18:10:37.818Z"
+    },
+    {
+      "id": "61c924bcc106",
+      "title": "Judge rules ICE likely violated Minnesota detainees’ constitutional rights",
+      "url": "https://thehill.com/regulation/court-battles/5737388-judge-rules-ice-detainee-rights/",
+      "source": "The Hill",
+      "published": "2026-02-13T16:51:39.000Z",
+      "description": "A federal judge in Minnesota found that Immigration and Customs Enforcement (ICE) isolated detainees in Minnesota from seeing their attorneys, ruling the action likely violated their constitutional rights.  U.S. District Judge Nancy Brasel, who was appointed by President Trump during his first term, on Thursday ordered detainees — most of whom are being kept at…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A judicial check on executive agency overreach with constitutional implications, but represents normal court function rather than unprecedented institutional erosion.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T18:10:39.931Z"
+    },
+    {
+      "id": "c0ed1b4ef4cf",
+      "title": "Trump administration spent $32M deporting migrants to third countries: Democrats",
+      "url": "https://thehill.com/homenews/administration/5737424-trump-third-country-removals/",
+      "source": "The Hill",
+      "published": "2026-02-13T16:48:40.000Z",
+      "description": "The Trump administration has spent at least $32 million on deportation flights to deport people to countries they are not from, Senate Democrats concluded in a Friday report that accuses the White House of making deals with “corrupt and unstable foreign governments” to deter migration to the U.S. The report from Senate Foreign Affairs Committee Democrats details…",
+      "keywords": [
+        "deportation",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises serious concerns about executive overreach and potential civil rights violations, but represents congressional oversight functioning as intended rather than a failure of checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-13T18:10:40.734Z"
+    },
+    {
+      "id": "56c2eccd8458",
+      "title": "Bondi faces MAGA media backlash after hearing on Epstein",
+      "url": "https://thehill.com/homenews/media/5737123-bondi-sparks-outrage-epstein/",
+      "source": "The Hill",
+      "published": "2026-02-13T16:31:57.000Z",
+      "description": "Attorney General Pam Bondi is facing a wave of backlash from many in the conservative media ecosystem following her testimony this week before the House Judiciary Committee about the Department of Justice’s (DOJ) handling of the Jeffrey Epstein files. During a contentious hearing Wednesday, Bondi sparred with lawmakers over the release of the files and…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article describes media criticism of an AG's testimony regarding document release decisions, which is routine political commentary rather than evidence of institutional erosion or checks-and-balances dysfunction.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-13T18:10:40.940Z"
+    },
+    {
+      "id": "4b5f18d3912d",
+      "title": "Trump Nominee Crumbles When Pressed on White Nationalist Posts",
+      "url": "https://www.rollingstone.com/politics/politics-news/jeremy-carl-white-nationalist-posts-senate-1235516101/",
+      "source": "Rolling Stone",
+      "published": "2026-02-13T18:05:32.000Z",
+      "description": "Jeremy Carl is the president's pick for a top State Department position, but his confirmation prospects aren't looking good",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A problematic nominee facing confirmation difficulties raises concerns about vetting standards and institutional judgment, but the outcome remains uncertain pending actual confirmation proceedings.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-13T18:10:40.062Z"
     }
   ],
   "lastDigest": "2026-02-13T06:23:51.331Z",
-  "lastFetch": "2026-02-13T12:06:47.308Z"
+  "lastFetch": "2026-02-13T18:10:40.940Z"
 }
