@@ -10027,8 +10027,367 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-13T00:12:35.570Z"
+    },
+    {
+      "id": "2a218045cd45",
+      "title": "Trump nominee stalls after GOP senator challenges him on remarks about Jews and Israel",
+      "url": "https://www.nbcnews.com/politics/trump-administration/state-department-nominee-jeremy-carl-senator-john-curtis-israel-jews-rcna258858",
+      "source": "NBC News",
+      "published": "2026-02-13T04:20:30.000Z",
+      "description": "Sen. John Curtis said he opposes Jeremy Carl for a State Department post in part because of his \"anti-Israel views and insensitive remarks about the Jewish people.\"",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A single Senate confirmation challenge demonstrates congressional oversight functioning, but lacks the scale or precedent needed for higher significance unless it reflects broader institutional breakdown.",
+      "categories": [
+        "congressional-oversight"
+      ],
+      "scoredAt": "2026-02-13T06:18:44.447Z"
+    },
+    {
+      "id": "3f5d58889ae3",
+      "title": "Trump administration fails to indict Democrats involved in 'illegal orders' video",
+      "url": "https://www.nbcnews.com/video/trump-administration-fails-to-indict-democrats-involved-in-illegal-orders-video-257627205503",
+      "source": "NBC News",
+      "published": "2026-02-13T02:01:32.000Z",
+      "description": "According to sources familiar with the matter, a grand jury rejected to indict Sen. Mark Kelly and five other Democrats over a social media video where they encouraged military members and intelligence officials to refuse illegal orders. NBC News’ Ryan Riley explains Kelly’s response.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A failed indictment attempt represents a routine application of existing legal processes rather than a significant institutional change, though it touches on important principles of political independence and DOJ integrity.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-13T06:18:44.652Z"
+    },
+    {
+      "id": "4a4d3f358a8f",
+      "title": "White House immediately fires U.S. attorney chosen by judges to replace Trump's pick",
+      "url": "https://www.nbcnews.com/politics/justice-department/white-house-fires-us-attorney-donald-kinsella-judges-replace-trump-pic-rcna258833",
+      "source": "NBC News",
+      "published": "2026-02-13T00:33:39.000Z",
+      "description": "Donald Kinsella was appointed and sworn in as the U.S. attorney in the Northern District of New York and then fired by the White House the same day.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "Immediate removal of a U.S. attorney selected through judicial appointment process represents unprecedented circumvention of established DOJ independence protocols and separation of powers.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-13T06:18:44.497Z"
+    },
+    {
+      "id": "5b988a73de15",
+      "title": "Ruemmler resigning as Goldman Sachs' general counsel after appearing in Epstein files",
+      "url": "https://www.cbsnews.com/news/kathryn-ruemmler-resigning-from-goldman-sachs-epstein-files/",
+      "source": "CBS News",
+      "published": "2026-02-13T03:28:07.000Z",
+      "description": "Kathryn Ruemmler served as White House counsel under former President Barack Obama.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is primarily a personnel/corporate news story about an individual's resignation with no direct implications for democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:45.527Z"
+    },
+    {
+      "id": "b75631391490",
+      "title": "Gov. Moore dismisses Trump's \"not worthy\" snub: \"I will bow down to no one\"",
+      "url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-trump-attack-on-social-media-governors-association/",
+      "source": "CBS News",
+      "published": "2026-02-13T02:32:21.000Z",
+      "description": "Maryland Gov. Wes Moore shrugged off President Trump's claim that he was \"not worthy\" to attend an annual White House dinner, telling CBS News Mr. Trump does \"not determine my worthiness.\"",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political disagreement between a governor and president with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:45.450Z"
+    },
+    {
+      "id": "425c9c26192b",
+      "title": "CBP officer allegedly harbored unauthorized immigrant who was also his girlfriend and niece",
+      "url": "https://www.cbsnews.com/news/cbp-officer-federal-charges-allegations-harbored-unauthorized-immigrant-girlfriend-niece/",
+      "source": "CBS News",
+      "published": "2026-02-13T02:22:05.000Z",
+      "description": "The Justice Department alleges that CBP officer and supervisor Andres Wilkinson had been living in Laredo, Texas, with a woman who had overstayed her visa and is now in the U.S. illegally.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal allegation against an individual officer that does not indicate systemic erosion of institutional checks and balances or democratic governance.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T06:18:45.626Z"
+    },
+    {
+      "id": "15bced8a6bfc",
+      "title": "DOJ drops charges against men accused of assaulting ICE, citing \"inconsistent\" evidence",
+      "url": "https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/",
+      "source": "CBS News",
+      "published": "2026-02-13T01:37:00.000Z",
+      "description": "The Justice Department moved to drop charges against two men charged with assaulting ICE officers, citing \"newly discovered evidence\" that was \"materially inconsistent\" with the allegations.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While case dismissals based on evidence integrity are routine prosecutorial decisions, the DOJ's action reflects proper checks on law enforcement credibility, though without additional context about pattern or political motivation, this appears to be standard judicial process rather than systemic concern.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-13T06:18:47.412Z"
+    },
+    {
+      "id": "7d750274a607",
+      "title": "Federal judge blocks Sen. Mark Kelly's demotion",
+      "url": "https://www.cbsnews.com/video/federal-judge-blocks-sen-mark-kellys-demotion/",
+      "source": "CBS News",
+      "published": "2026-02-13T00:49:00.000Z",
+      "description": "A federal judge blocked the Pentagon from downgrading the military retirement rank and pay of Sen. Mark Kelly over a video he and five other Democrats recorded last year that reminded service members they can refuse to follow illegal orders. Scott MacFarlane has more.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 7,
+      "reason": "A federal judge's blocking of military rank demotion based on protected political speech represents significant judicial defense of checks on executive power and civil service independence against potential political retribution.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-13T06:18:46.425Z"
+    },
+    {
+      "id": "2601804a9e11",
+      "title": "Top Goldman Sachs lawyer resigns after Epstein files release",
+      "url": "https://www.axios.com/2026/02/13/epstein-files-goldman-sachs-lawyer-kathryn-ruemmler-resigns",
+      "source": "Axios",
+      "published": "2026-02-13T04:45:12.000Z",
+      "description": "Goldman Sachs' top lawyer Kathryn Ruemmler resigned Thursday night after her name appeared in Epstein files documents the Department of Justice recently released.\nThe big picture: The ex-White House counsel to former President Obama and co-chair of Goldman's reputational risk committee is the latest high-profile figure to resign or be ousted following the DOJ's Jan. 30 release of 3 million documents related to convicted sex offender Jeffrey Epstein.\n\nState of play: Her resignation announcement t",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news story about a private sector executive resignation following document release, with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:48.326Z"
+    },
+    {
+      "id": "982b96757710",
+      "title": "Trump judge slams DHS for blocking detainees' access to lawyers",
+      "url": "https://www.axios.com/2026/02/13/trump-ice-immigration-detention-judge-court-orders",
+      "source": "Axios",
+      "published": "2026-02-13T02:47:08.000Z",
+      "description": "A Trump-appointed federal judge said immigration enforcement agencies \"violated noncitizen detainees' constitutional\" rights at a Minnesota facility in a scathing ruling on Thursday.\nWhy it matters: U.S. District Judge Nancy Brasel's ruling that \"policies and practices\" at the Bishop Henry Whipple Federal Building \"all but extinguish a detainee's access to counsel\" marked the 45th time that a judge nominated by President Trump had ruled against his mass detention agenda, per a Politico review.\n\n",
+      "keywords": [
+        "raid",
+        "immigration",
+        "ICE",
+        "detained",
+        "unconstitutional",
+        "ruling",
+        "trump",
+        "democracy",
+        "EPA",
+        "detention"
+      ],
+      "significance": 7,
+      "reason": "Judicial independence reasserts constitutional protections against executive overreach, demonstrating the judiciary's institutional check on immigration enforcement, with systemic pattern significance.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-13T06:18:49.350Z"
+    },
+    {
+      "id": "00d36fb54bcc",
+      "title": "Axios Finish Line: Embrace your insecurity",
+      "url": "https://www.axios.com/2026/02/13/axios-jim-vandehei-chatgpt-learn-insecurity",
+      "source": "Axios",
+      "published": "2026-02-13T02:25:05.000Z",
+      "description": "Axios CEO Jim VandeHei is here with advice on how to use your insecurities to motivate you.\n\nFor a video version of this column (and to see what Jim looked like as a 20-year-old punk), click here.\n\n I wasn't a fast, early adopter of AI beyond basic search on ChatGPT, Jim writes, for the same reason many of you have balked at these muscular new tools: I was insecure about my ability to use it with any sophistication.\n\nMy internal dialogue: I'm too old, too non-technical, too much of a words guy t",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a personal advice column about overcoming insecurity regarding AI adoption, with no relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:48.719Z"
+    },
+    {
+      "id": "4f07d8465975",
+      "title": "Congress plunges into \"no pressure\" government shutdown",
+      "url": "https://www.axios.com/2026/02/13/government-shutdown-dhs-democrats-trump",
+      "source": "Axios",
+      "published": "2026-02-13T00:40:34.000Z",
+      "description": "Congress is sliding toward a \"no-pressure\" shutdown, with both parties content to claim political wins as a department backfilled with billions of dollars experiences a funding lapse.\nWhy it matters: The lack of urgency to try to prevent the Department of Homeland Security shutdown at day's end Friday underscores how routine funding interruptions have become.\n\nIt also reveals the lowered political stakes both sides see in allowing the latest one to take hold.  \n\n\nLawmakers left Washington on Thu",
+      "keywords": [
+        "ICE",
+        "deportation",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While routine shutdowns indicate institutional dysfunction and reduced political accountability, this particular shutdown reflects normalized rather than novel erosion of checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-13T06:18:48.775Z"
+    },
+    {
+      "id": "510f54d22485",
+      "title": "Top lawyer for Goldman Sachs resigns over Epstein documents",
+      "url": "https://thehill.com/business/5736739-ruemmler-epstein-doj-files-controversy/",
+      "source": "The Hill",
+      "published": "2026-02-13T04:22:09.000Z",
+      "description": "Goldman Sachs CEO David Solomon said Thursday that Kathy Ruemmler, the investment banking company’s top lawyer, will resign after the Department of Justice (DOJ) released its remaining files connected to convicted sex offender Jeffrey Epstein, revealing a close relationship between the two. Ruemmler said she will “step down as Chief Legal Officer and General Counsel…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a personnel matter at a private company responding to personal misconduct revelations, with no direct impact on governmental checks and balances or democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:48.672Z"
+    },
+    {
+      "id": "314f419fc904",
+      "title": "Cardi B jokes about fighting ICE at concert: ‘They ain’t taking my fans’",
+      "url": "https://thehill.com/blogs/in-the-know/5736706-cardi-b-jokes-about-fighting-ice-at-concert-they-aint-taking-my-fans/",
+      "source": "The Hill",
+      "published": "2026-02-13T03:31:09.000Z",
+      "description": "Rapper Cardi B on Wednesday joked about fighting Immigration and Customs Enforcement (ICE) during a concert in California, saying that federal officers “ain’t taking my fans” — prompting a response from the Department of Homeland Security (DHS). “B—-, if ICE comes in here, we’re going to jump their a–es,” Cardi B said onstage in Coachella Valley…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment news reporting on a comedian's joke at a concert with no actual policy impact, institutional action, or threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:50.267Z"
+    },
+    {
+      "id": "c16ed27de474",
+      "title": "Joe Rogan explains his appearance in the Epstein files",
+      "url": "https://thehill.com/blogs/in-the-know/5736664-joe-rogan-epstein-doj-files/",
+      "source": "The Hill",
+      "published": "2026-02-13T02:51:06.000Z",
+      "description": "Podcaster Joe Rogan on the Tuesday episode of his show explained his why his name appeared in the Department of Justice’s (DOJ) last release of files related to convicted sex offender Jeffrey Epstein. “The Joe Rogan Experience” host told guest Cheryl Hines, the wife of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr.,…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "A public figure's personal explanation of why his name appeared in released documents is routine news commentary with no institutional, policy, or systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:50.275Z"
+    },
+    {
+      "id": "8cdf6da9aa3e",
+      "title": "Bipartisan push in U.S. House to create new visa program, help home builders who rely on immigrant workers",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5736632-bipartisan-push-in-u-s-house-to-create-new-visa-program-help-home-builders-who-rely-on-immigrant-workers/",
+      "source": "The Hill",
+      "published": "2026-02-13T01:58:10.000Z",
+      "description": "The South Texas Builders Association said construction sites are seeing fewer workers because of immigration enforcement and it's costing Americans big dollars.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 2,
+      "reason": "This is routine legislative news about a specific industry interest in immigration policy that does not directly implicate core democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:50.275Z"
+    },
+    {
+      "id": "43379ee44fbd",
+      "title": "FBI ups reward to $100K in Nancy Guthrie search",
+      "url": "https://thehill.com/blogs/in-the-know/5736555-fbi-raises-reward-nancy-guthrie/",
+      "source": "The Hill",
+      "published": "2026-02-13T00:51:51.000Z",
+      "description": "The FBI on Thursday raised its reward for information leading investigators to Nancy Guthrie, the mother of NBC’s “Today” host Savannah Guthrie, to $100,000 amid the agency’s search near Tucson, Ariz. The agency also revealed new identifying information about a possible suspect in connection with her disappearance, which investigators have ruled was a kidnapping. The…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 1,
+      "reason": "This is a routine criminal investigation story with no bearing on democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:50.289Z"
+    },
+    {
+      "id": "bbf9504a0879",
+      "title": "RFK Jr. says he ‘used to snort cocaine off of toilet seats’ on Theo Von podcast",
+      "url": "https://thehill.com/homenews/administration/5736499-kennedy-cocaine-toilet-seat-recovery/",
+      "source": "The Hill",
+      "published": "2026-02-13T00:29:32.000Z",
+      "description": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. said during the latest episode of Theo Von’s podcast Thursday that he once snorted cocaine off of a toilet seat while talking about not fearing germs. Kennedy, an anti-vaccine activist, appeared on “This Past Weekend” when he made the remark. He reflected on meeting with…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Personal anecdote about past drug use has no direct bearing on institutional checks and balances, though it may relate tangentially to character fitness for a cabinet position.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-13T06:18:50.321Z"
+    },
+    {
+      "id": "ff1135a1b9a2",
+      "title": "Venezuela’s Delcy Rodríguez: Maduro still ‘legitimate president’",
+      "url": "https://thehill.com/policy/international/5736502-venezuela-maduro-legitimate-president/",
+      "source": "The Hill",
+      "published": "2026-02-13T00:19:47.000Z",
+      "description": "Venezuela’s acting President Delcy Rodríguez said Thursday that Nicolás Maduro is still the “legitimate president” following his capture and arrest by the Trump administration.  “Yes, I can tell you that President Nicolás Maduro is the legitimate president. I can, I will tell you this as the lawyer that I am. They are both, President Maduro…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is foreign policy news about Venezuela with no direct impact on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:51.361Z"
+    },
+    {
+      "id": "b456b269e84f",
+      "title": "Confusion reigns over Trump meeting with governors",
+      "url": "https://thehill.com/homenews/administration/5736544-trump-governors-meeting-confusion/",
+      "source": "The Hill",
+      "published": "2026-02-13T00:10:54.000Z",
+      "description": "A series of contradictions and reversals from the White House and National Governors Association (NGA) this week has bred widespread confusion over the fate of the bipartisan group’s annual meeting with the president. All governors are expected to gather Feb. 19-21 in Washington, D.C., for the NGA’s annual conference, which has traditionally coincided with a…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine scheduling and communication confusion regarding a governors' conference lacks systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-13T06:18:51.411Z"
     }
   ],
   "lastDigest": "2026-02-13T00:17:34.625Z",
-  "lastFetch": "2026-02-13T00:12:35.758Z"
+  "lastFetch": "2026-02-13T06:18:51.411Z"
 }
