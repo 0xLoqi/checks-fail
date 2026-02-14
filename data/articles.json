@@ -12422,8 +12422,268 @@
       "reason": "Article describes routine political disagreements and electoral messaging rather than institutional threats to democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-14T00:11:52.292Z"
+    },
+    {
+      "id": "a80452d41dad",
+      "title": "5 things to know about the shutdown at the Department of Homeland Security",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown",
+      "source": "NPR Politics",
+      "published": "2026-02-14T05:07:24.000Z",
+      "description": "The sprawling agency saw its baseline funding expire after lawmakers left town for a week-long recess, but without a deal to rein in the conduct of federal immigration officers.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A funding lapse creates operational disruption and highlights congressional oversight failures, but is a recurring procedural issue rather than a structural threat to democratic institutions.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-14T06:11:03.292Z"
+    },
+    {
+      "id": "b71c6010a8bd",
+      "title": "Nonprofit libraries ordered by State Department to stop processing passport applications",
+      "url": "https://www.pbs.org/newshour/politics/nonprofit-libraries-ordered-by-state-department-to-stop-processing-passport-applications",
+      "source": "PBS NewsHour",
+      "published": "2026-02-14T00:51:58.000Z",
+      "description": "The agency, which regulates U.S. passports, began issuing cease and desist orders to not-for-profit libraries in late fall, informing them they were no longer authorized to participate in the Passport Acceptance Facility program as of Friday.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A notable administrative policy change affecting service delivery and federal-local partnerships, but lacking evidence of systematic democratic erosion or institutional bypass.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-14T06:11:03.296Z"
+    },
+    {
+      "id": "19505e2ad6e2",
+      "title": "Virginia redistricting election will go forward while state Supreme Court considers appeal",
+      "url": "https://www.pbs.org/newshour/politics/virginia-redistricting-election-will-go-forward-while-state-supreme-court-considers-appeal",
+      "source": "PBS NewsHour",
+      "published": "2026-02-14T00:30:56.000Z",
+      "description": "Virginia Democrats hold six of the state's 11 U.S. House seats, but they are backing a revised map that could help them win up to 10 seats in this year's midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 4,
+      "reason": "Redistricting disputes are recurring legal/political issues, but this case involves standard judicial review processes without evidence of unprecedented institutional erosion.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-14T06:11:03.196Z"
+    },
+    {
+      "id": "f601659e984e",
+      "title": "Homeland Security Department shuts down as Democrats and Trump negotiate changes",
+      "url": "https://www.nbcnews.com/politics/congress/know-dhs-government-shutdown-happening-impacts-rcna259001",
+      "source": "NBC News",
+      "published": "2026-02-14T05:00:40.000Z",
+      "description": "The Department of Homeland Security shut down as Trump and Democrats continued to discuss changes to U.S. immigration enforcement after the Minneapolis shootings.",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "A federal agency shutdown represents a significant breakdown in legislative-executive coordination and congressional oversight, directly impacting institutional functioning and democratic processes.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-14T06:11:04.308Z"
+    },
+    {
+      "id": "e7f572f05ab8",
+      "title": "Trump vows voter ID requirements for the midterms, 'whether approved by Congress or not'",
+      "url": "https://www.nbcnews.com/politics/elections/trump-vows-voter-id-requirements-midterms-rcna259018",
+      "source": "NBC News",
+      "published": "2026-02-14T02:12:21.000Z",
+      "description": "President Donald Trump said in social media posts on Friday that he would issue an executive order to require voters to show identification in the midterm elections if Congress fails to act.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "executive order",
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "Explicit threat to unilaterally impose voting requirements without congressional authorization represents unprecedented executive overreach directly undermining separation of powers and election integrity.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-14T06:11:04.340Z"
+    },
+    {
+      "id": "aaa383eaec0a",
+      "title": "DHS shutdown begins as funding expires without a deal in Congress",
+      "url": "https://www.cbsnews.com/news/government-shutdown-dhs-funding/",
+      "source": "CBS News",
+      "published": "2026-02-14T05:01:00.000Z",
+      "description": "It's the second time in as many weeks that government funding has lapsed as Democrats and the White House remain at an impasse over immigration enforcement policies.",
+      "keywords": [
+        "immigration",
+        "white house"
+      ],
+      "significance": 6,
+      "reason": "A funding lapse affects federal agency operations and reflects congressional oversight dysfunction, but is a recurring procedural failure rather than a novel institutional erosion.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-14T06:11:04.277Z"
+    },
+    {
+      "id": "2169c4bf5c93",
+      "title": "Khanna names 6 men who he says were redacted from Epstein files for \"no apparent reason\"",
+      "url": "https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/",
+      "source": "CBS News",
+      "published": "2026-02-14T03:41:31.000Z",
+      "description": "Two lawmakers are accusing the government of improperly redacting names from the Epstein files, including six men whose identities are now public — though the Justice Department later said some of those men had no ties to Epstein.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Raises legitimate questions about DOJ transparency and redaction practices, but the subsequent DOJ clarification that some named individuals had no connection to Epstein somewhat undermines the urgency of the core complaint.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-14T06:11:04.355Z"
+    },
+    {
+      "id": "329aa66f702d",
+      "title": "These DHS employees will be impacted by the government shutdown",
+      "url": "https://www.cbsnews.com/video/these-dhs-employees-will-be-impacted-by-the-government-shutdown/",
+      "source": "CBS News",
+      "published": "2026-02-14T00:32:00.000Z",
+      "description": "Lawmakers are locked in a standoff over the way ICE is carrying out immigration enforcement. Nicole Sganga has details about who will be impacted by the shutdown.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is routine reporting on the operational impacts of a government shutdown, lacking substantive information about policy changes, institutional erosion, or democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-14T06:11:04.388Z"
+    },
+    {
+      "id": "1572bdfc3464",
+      "title": "U.S. and Iran set to hold second round of nuclear talks in Geneva",
+      "url": "https://www.axios.com/2026/02/14/iran-nuclear-trump-geneva-us",
+      "source": "Axios",
+      "published": "2026-02-14T00:53:15.000Z",
+      "description": "The U.S. and Iran are expected to hold a second round of nuclear talks in Geneva next Tuesday in an effort to reach a deal that prevents war, according to a U.S. official and three sources with knowledge. \nWhy it matters: While President Trump said he prefers a diplomatic solution and wants to reach a deal with Iran, he has also ordered a massive military buildup in the Gulf, including sending a second aircraft carrier strike group.\n\n \"Either we will make a deal or we will have to do something v",
+      "keywords": [
+        "white house",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article reports on routine foreign policy diplomatic negotiations and does not address any of the 12 tracked categories related to domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T06:11:05.141Z"
+    },
+    {
+      "id": "52dd39938d3b",
+      "title": "DHS funding lapses as Democrats demand ICE reforms",
+      "url": "https://thehill.com/homenews/house/5738280-dhs-funding-shutdown-democrats-ice/",
+      "source": "The Hill",
+      "published": "2026-02-14T05:01:00.000Z",
+      "description": "Funding for the Department of Homeland Security (DHS) ran out at midnight, marking the third — but smallest — government shutdown of President Trump’s second term as Democrats demand reforms to immigration enforcement practices. The shutdown is likely to last longer than the four-day partial shutdown that ended last week, as the White House, Republicans…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "DNI",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A routine shutdown dispute over agency funding and immigration policy that reflects normal congressional disagreement, though the repeated shutdowns under this administration show some institutional strain.",
+      "categories": [
+        "congressional_oversight",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-02-14T06:11:05.426Z"
+    },
+    {
+      "id": "00c2622dad5a",
+      "title": "Noem says she’s ‘still in charge’ of DHS",
+      "url": "https://thehill.com/homenews/administration/5738484-noem-in-charge-homeland-security/",
+      "source": "The Hill",
+      "published": "2026-02-14T03:47:53.000Z",
+      "description": "Department of Homeland Security (DHS) Secretary Kristi Noem on Friday said she’s “still in charge” of her department as White House border czar Tom Homan has taken more control over President Trump’s immigration agenda. Noem has come under fire after two deadly shootings by immigration officials in Minneapolis spurred an outcry toward Immigration and Customs…",
+      "keywords": [
+        "immigration",
+        "homan",
+        "border czar",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Reflects potential institutional tension between cabinet officials over control of immigration policy, raising questions about chain of command and accountability, but lacks evidence of systematic erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-14T06:11:06.307Z"
+    },
+    {
+      "id": "d973f5172cf3",
+      "title": "Texans must prove legal status to register vehicles after new DMV rule",
+      "url": "https://thehill.com/homenews/5738300-texans-must-prove-legal-status-to-register-vehicles-after-new-dmv-rule/",
+      "source": "The Hill",
+      "published": "2026-02-14T02:35:18.000Z",
+      "description": "The board of the Texas Department of Motor Vehicles unanimously voted Thursday to pass new identification requirements.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine state-level administrative policy change affecting vehicle registration procedures, without direct implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T06:11:05.340Z"
+    },
+    {
+      "id": "4fb2f0d188dc",
+      "title": "Trump floats executive order on voter ID if SAVE Act stalls in Senate",
+      "url": "https://thehill.com/homenews/administration/5738317-trump-voter-id-executive-order/",
+      "source": "The Hill",
+      "published": "2026-02-14T00:27:30.000Z",
+      "description": "President Trump on Friday indicated he will issue an executive order seeking to require voters to present proof of citizenship if the Senate does not pass the Safeguard American Voter Eligibility (SAVE) America Act, which passed in the House this week. “There will be Voter I.D. for the Midterm Elections, whether approved by Congress or…",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "executive order",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Threatens judicial independence and election infrastructure through potential executive overreach on voting requirements that traditionally require legislative authority.",
+      "categories": [
+        "judicial independence",
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-14T06:11:05.278Z"
     }
   ],
   "lastDigest": "2026-02-14T00:16:49.046Z",
-  "lastFetch": "2026-02-14T00:11:52.632Z"
+  "lastFetch": "2026-02-14T06:11:06.307Z"
 }
