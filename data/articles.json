@@ -12685,8 +12685,127 @@
       ],
       "scoredAt": "2026-02-14T06:11:05.278Z",
       "digestedAt": "2026-02-14T06:15:58.520Z"
+    },
+    {
+      "id": "270f81842169",
+      "title": "How a Planned Disney World Vacation Turned Into Four Months in Immigration Detention",
+      "url": "https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story",
+      "source": "ProPublica",
+      "published": "2026-02-14T10:00:00.000Z",
+      "description": "The post How a Planned Disney World Vacation Turned Into Four Months in Immigration Detention appeared first on ProPublica.",
+      "keywords": [
+        "immigration",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Documents individual case of immigration detention practices that raises civil rights concerns but lacks systemic policy analysis or institutional findings needed for higher significance.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-14T12:03:28.010Z"
+    },
+    {
+      "id": "fafb1126f848",
+      "title": "Under oath and unredacted: The top political stories on Epstein this week",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5714031/epstein-files-massie-bondi-doj",
+      "source": "NPR Politics",
+      "published": "2026-02-14T10:00:00.000Z",
+      "description": "Attorney General Pam Bondi faced pointed questions on Capitol Hill, and lawmakers continued to press the Justice Department about its decision to redact certain information.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news coverage of standard congressional oversight questioning about document redactions, lacking evidence of systemic institutional threats.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-14T12:03:26.897Z"
+    },
+    {
+      "id": "1af278d6faf1",
+      "title": "Rubio reassures trans-Atlantic ties with Europe at Munich Security Conference",
+      "url": "https://www.npr.org/2026/02/14/g-s1-110107/rubio-speech-munich",
+      "source": "NPR Politics",
+      "published": "2026-02-14T09:59:33.000Z",
+      "description": "U.S. Secretary of State Marco Rubio delivered a calm and reassuring message to America's allies in Munich, after more than a year of President Donald Trump's often-hostile rhetoric toward allies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic reporting on a secretary of state's reassurance speech to allies, with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T12:03:26.960Z"
+    },
+    {
+      "id": "d42bee2e4948",
+      "title": "The future of Nebraska's 'blue dot' electoral vote becomes an issue in one key midterm race",
+      "url": "https://www.nbcnews.com/politics/2026-election/future-nebraskas-blue-dot-electoral-vote-becomes-issue-one-key-midterm-rcna258955",
+      "source": "NBC News",
+      "published": "2026-02-14T10:00:00.000Z",
+      "description": "Only three House Republicans won re-election in 2024 while Kamala Harris carried their districts — and one of them, Rep.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about electoral dynamics and House races with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T12:03:28.793Z"
+    },
+    {
+      "id": "8c7b37abcac7",
+      "title": "At least half a dozen top Trump administration officials appear in the Jeffrey Epstein files",
+      "url": "https://www.nbcnews.com/politics/justice-department/least-half-dozen-top-trump-administration-officials-appear-jeffrey-eps-rcna258749",
+      "source": "NBC News",
+      "published": "2026-02-14T10:00:00.000Z",
+      "description": "At least a half-dozen top officials in the current Trump administration have connections to Jeffrey Epstein, according to an NBC News review of some of the over 3 million documents the Justice Department has released",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the connections raise transparency and accountability concerns relevant to corruption & self-dealing, the article presents associations rather than evidence of institutional capture or specific policy actions that undermine democratic checks and balances.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-14T12:03:29.062Z"
+    },
+    {
+      "id": "3a1b97a69b6d",
+      "title": "Rubio sticks to Trump's firm stance, takes softer tone in speech to allies",
+      "url": "https://www.cbsnews.com/news/maro-rubio-donald-trump-european-union-munich-security-conference/",
+      "source": "CBS News",
+      "published": "2026-02-14T11:33:06.000Z",
+      "description": "Secretary of State Marco Rubio made it clear the Trump administration would stick to its guns on policy, but offered a calmer and more reassuring tone.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting on a cabinet secretary's rhetorical approach and tone at an event, with no substantive action, policy change, or institutional impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T12:03:29.223Z"
+    },
+    {
+      "id": "2caecd6e0ddf",
+      "title": "What's next for Cuba? Trump turns the screws as the island runs out of jet fuel",
+      "url": "https://www.cnbc.com/2026/02/14/cuba-fuel-shortage-trump-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-14T06:58:06.000Z",
+      "description": "Cuba’s government appears to be on the brink of economic collapse amid a worsening energy crisis.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article covers foreign policy and economic conditions in Cuba with no direct connection to U.S. democratic institutions, checks and balances, or domestic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-14T12:03:29.324Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-14T06:11:06.307Z"
+  "lastFetch": "2026-02-14T12:03:29.324Z"
 }
