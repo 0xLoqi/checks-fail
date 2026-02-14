@@ -10553,7 +10553,8 @@
         "political retribution",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-13T12:06:41.205Z"
+      "scoredAt": "2026-02-13T12:06:41.205Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "4e9a36048ba0",
@@ -10655,7 +10656,8 @@
         "judicial independence",
         "immigration & civil rights"
       ],
-      "scoredAt": "2026-02-13T12:06:44.160Z"
+      "scoredAt": "2026-02-13T12:06:44.160Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "d3950fbe3d77",
@@ -10885,7 +10887,8 @@
         "judicial independence",
         "election infrastructure"
       ],
-      "scoredAt": "2026-02-13T18:10:26.612Z"
+      "scoredAt": "2026-02-13T18:10:26.612Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "45215854fcd1",
@@ -11253,7 +11256,8 @@
         "judicial independence",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-13T18:10:36.280Z"
+      "scoredAt": "2026-02-13T18:10:36.280Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "37336d18c838",
@@ -11518,7 +11522,8 @@
         "political retribution",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-14T00:11:40.272Z"
+      "scoredAt": "2026-02-14T00:11:40.272Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "c1547df23afb",
@@ -11539,7 +11544,8 @@
         "DOJ independence",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-14T00:11:40.222Z"
+      "scoredAt": "2026-02-14T00:11:40.222Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "fc6d08d6affe",
@@ -11612,7 +11618,8 @@
         "DOJ independence",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-14T00:11:41.424Z"
+      "scoredAt": "2026-02-14T00:11:41.424Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "66c4dd41a10a",
@@ -11832,7 +11839,8 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-14T00:11:44.873Z"
+      "scoredAt": "2026-02-14T00:11:44.873Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "6161857dbfb7",
@@ -12070,7 +12078,8 @@
         "press freedom",
         "political retribution"
       ],
-      "scoredAt": "2026-02-14T00:11:47.694Z"
+      "scoredAt": "2026-02-14T00:11:47.694Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "c6b4be2ed70d",
@@ -12214,7 +12223,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-14T00:11:50.287Z"
+      "scoredAt": "2026-02-14T00:11:50.287Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "138f3fb28525",
@@ -12394,7 +12404,8 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-14T00:11:52.632Z"
+      "scoredAt": "2026-02-14T00:11:52.632Z",
+      "digestedAt": "2026-02-14T00:16:49.046Z"
     },
     {
       "id": "fa9f4b8d9ec6",
@@ -12413,6 +12424,6 @@
       "scoredAt": "2026-02-14T00:11:52.292Z"
     }
   ],
-  "lastDigest": "2026-02-13T06:23:51.331Z",
+  "lastDigest": "2026-02-14T00:16:49.046Z",
   "lastFetch": "2026-02-14T00:11:52.632Z"
 }
