@@ -12804,8 +12804,340 @@
       "reason": "This article covers foreign policy and economic conditions in Cuba with no direct connection to U.S. democratic institutions, checks and balances, or domestic governance structures.",
       "categories": [],
       "scoredAt": "2026-02-14T12:03:29.324Z"
+    },
+    {
+      "id": "4bdfbe455b42",
+      "title": "Week in politics: Rubio's speech, DHS funding, Epstein hearing, Republicans block tariffs",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5709043/week-in-politics-rubios-speech-dhs-funding-epstein-hearing-republicans-block-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-14T13:02:35.000Z",
+      "description": "Secretary of State Marco Rubio seeks to reassure European allies and a partial government shutdown hits the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Multiple routine institutional activities affecting checks and balances are reported, but none represent major erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-14T18:03:35.733Z"
+    },
+    {
+      "id": "07e528d5a8c1",
+      "title": "Marco Rubio has warmer words for Europe weeks after Trump's harsh Davos comments",
+      "url": "https://www.nbcnews.com/world/europe/marco-rubio-seeks-heal-divides-europe-rejects-end-transatlantic-era-rcna259066",
+      "source": "NBC News",
+      "published": "2026-02-14T15:38:39.000Z",
+      "description": "Secretary of State Marco Rubio spoke at the Munich Security Conference on Saturday in an apparent effort to paper over cracks in the relationship between the U.S. and Europe, though foreign diplomats were less convinced that real change would follow",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers diplomatic messaging and public relations efforts regarding U.S.-Europe relations, with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:35.176Z"
+    },
+    {
+      "id": "ba008f3e9551",
+      "title": "U.S. strikes alleged drug boat in Caribbean, killing three",
+      "url": "https://www.nbcnews.com/politics/national-security/us-strikes-alleged-drug-boat-caribbean-killing-three-rcna259028",
+      "source": "NBC News",
+      "published": "2026-02-14T02:30:52.000Z",
+      "description": "The U.S. Southern Command said it struck a vessel allegedly transporting drugs in the Caribbean on Friday, killing three people.“Joint Task Force Southern Spear conducted a lethal kinetic strike on a vessel operated by Designated Terrorist Organizations,” Southern Command said in a post on X, adding that “intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Caribbean and was engaged in narco-trafficking operations.”",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "Routine military operation against drug trafficking with no apparent connection to democratic checks and balances, institutional independence, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:35.241Z"
+    },
+    {
+      "id": "2df96fc42160",
+      "title": "Trump insider Tom Barrack kept in contact with Epstein for years, files show",
+      "url": "https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/",
+      "source": "CBS News",
+      "published": "2026-02-14T17:00:00.000Z",
+      "description": "Tom Barrack, a top U.S. diplomat and longtime friend of President Trump, networked and socialized with Epstein for years, CBS News found.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Personal associations between political figures and Epstein, while notable, do not directly constitute institutional erosion of democratic checks and balances without evidence of official misconduct or abuse of power.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-14T18:03:37.820Z"
+    },
+    {
+      "id": "f45e188f3692",
+      "title": " In battleground Michigan, 3 Democrats test vision of affordability in the Senate primary",
+      "url": "https://abcnews.go.com/Politics/wireStory/battleground-michigan-3-democrats-test-vision-affordability-senate-130165983",
+      "source": "ABC News",
+      "published": "2026-02-14T12:40:48.000Z",
+      "description": "Voters say they're worried about the cost of living, and affordability is a leading issue in 2026 campaigns",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "This is routine campaign coverage focused on policy positions and voter concerns in a primary election, with no connection to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:37.459Z"
+    },
+    {
+      "id": "516fb379d987",
+      "title": "Fragmenting Latino vote now a wildcard in elections",
+      "url": "https://www.axios.com/2026/02/14/latino-vote-midterms-elections-maga",
+      "source": "Axios",
+      "published": "2026-02-14T16:44:38.000Z",
+      "description": "Latino voters aren't realigning — they're fragmenting.\n\nConsultants and pollsters tell Axios that after moving toward Donald Trump in 2024, the nation's fastest-growing electorate is splintering into competing political identities, with no single partisan anchor after decades as a reliably Democratic bloc.\n\nWhy it matters: This fracture helped reshape the 2024 election map — and it's one of the biggest wildcards in 2026 and 2028, even as the economy and Trump's aggressive immigration enforcement",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "immigration",
+        "ICE",
+        "trump",
+        "democracy",
+        "detention"
+      ],
+      "significance": 2,
+      "reason": "This is electoral analysis and demographic commentary about voting patterns, which is routine political news rather than reporting on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:37.458Z"
+    },
+    {
+      "id": "648efda8a62f",
+      "title": "The Goldilocks economy, if you don't look too close",
+      "url": "https://www.axios.com/2026/02/14/cpi-report-inflation-ai-jobs-market",
+      "source": "Axios",
+      "published": "2026-02-14T14:31:20.000Z",
+      "description": "The U.S. economy started 2026 in a state of excellent balance: strong growth, a solid job market and subdued inflation. Just don't look too closely.\nThe big picture: The key headline numbers in recent days — on jobs and inflation— appear as good as they have been in some time. Still, there are also warnings in the data that the story is not quite as rosy as headline numbers might suggest.\n\nIt's the Goldilocks economy — neither too hot nor too cold, so long as you don't focus on the details.\n\nCat",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is routine economic commentary analyzing inflation and job market data with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:37.446Z"
+    },
+    {
+      "id": "0bc735aba160",
+      "title": "Trump vowed to boost Black business. Critics say he's failed so far",
+      "url": "https://www.axios.com/2026/02/14/black-owned-businesses-trump-anti-dei",
+      "source": "Axios",
+      "published": "2026-02-14T14:24:47.000Z",
+      "description": "President Trump promised economic relief for Black businesses and workers, but so far, analysts say his second-term policies have put them under greater strain.\nThe big picture: The combination of federal layoffs, tariff-related cost pressures and a weakening labor market have hurt many Black-owned small businesses. The Black unemployment rate has climbed to its highest level since 2021 during Trump's second term.\n\n\"Whether it is beauty stores that rely on international supply chains or transpor",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "johnson",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine policy criticism/commentary on economic outcomes affecting a demographic group, not a story about institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:37.492Z"
+    },
+    {
+      "id": "26654e033239",
+      "title": "Casey Wasserman selling his agency amid Epstein controversy",
+      "url": "https://www.axios.com/2026/02/14/casey-wasserman-agency-epstein",
+      "source": "Axios",
+      "published": "2026-02-14T13:50:39.000Z",
+      "description": "Casey Wasserman, the veteran Hollywood talent agent who also chairs the LA28 Olympic committee, is selling his agency amid a growing controversy over his ties to Jeffrey Epstein and his accomplice Ghislaine Maxwell. \nWhy it matters: Wasserman has seen a few high-profile celebrity clients exit in response to revelations about suggestive emails he sent to Maxwell that were revealed as part of the Epstein files. \n\nGrammy Award-winning pop star Chappell Roan on Monday said she is no longer represent",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news story about a private business transaction and personal/professional consequences, with no direct impact on governmental checks and balances or democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:38.637Z"
+    },
+    {
+      "id": "9bee94902a2a",
+      "title": "Gold and silver price swings are reshaping Valentine's Day jewelry",
+      "url": "https://www.axios.com/2026/02/14/gold-silver-prices-valentines-day-jewelry",
+      "source": "Axios",
+      "published": "2026-02-14T10:00:05.000Z",
+      "description": "Valentine's Day jewelry is quietly changing as higher metal prices push brands to rethink materials and price points.\nWhy it matters: This holiday could test whether shoppers care more about meaning — or metal weight.\n\nCatch up quick: Precious metal markets have been volatile heading into Valentine's Day. Gold and silver surged through much of 2025 before plunging sharply late last month, with silver posting its steepest one-day drop since 1980.\n\nEven after the selloff, both metals remain well a",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article about Valentine's Day jewelry pricing has no relevance to any democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:38.511Z"
+    },
+    {
+      "id": "5fdede5c2dbe",
+      "title": "America still needs Elon Musk",
+      "url": "https://thehill.com/opinion/campaign/5737955-elon-musk-activism-visionary/",
+      "source": "The Hill",
+      "published": "2026-02-14T17:00:00.000Z",
+      "description": "Surely many believe that Musk has now done more than enough for humanity with his massive fortune and technological vision. I am not one of them — nor, I suspect, is Musk.",
+      "keywords": [
+        "musk"
+      ],
+      "significance": 1,
+      "reason": "This is opinion commentary about Elon Musk's societal contributions with no direct bearing on democratic institutions, constitutional checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:38.777Z"
+    },
+    {
+      "id": "1a648783c0bd",
+      "title": "The Memo: Epstein scandal feeds suspicion of unaccountable elites",
+      "url": "https://thehill.com/homenews/5738360-trump-musk-epstein-emails/",
+      "source": "The Hill",
+      "published": "2026-02-14T17:00:00.000Z",
+      "description": "The Jeffrey Epstein scandal isn’t going anywhere — despite the recent release of roughly 3 million documents by the Department of Justice. The story’s longevity is partly because of the horrific scale of Epstein’s predations. The latest releases also placed a shadow over the previous accounts given by allies of President Trump — from Commerce…",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Commentary on an ongoing scandal with potential implications for DOJ transparency and political accountability, but lacks specifics about institutional checks being tested.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-14T18:03:38.809Z"
+    },
+    {
+      "id": "44bf51eeb2da",
+      "title": "Lincoln tops presidential rankings; Trump records most ‘poor’ marks: Poll",
+      "url": "https://thehill.com/homenews/administration/5738747-presidential-rankings-lincoln-trump-biden-nixon-survey/",
+      "source": "The Hill",
+      "published": "2026-02-14T16:48:22.000Z",
+      "description": "Americans overwhelmingly view former President Abraham Lincoln as an “outstanding” leader, while President Trump ranks near the bottom, according to a new poll. The YouGov survey, released Friday, found that 74 percent of U.S. voters collectively rank Lincoln, known affectionately as Honest Abe, as “outstanding” or “above average.” Another 12 percent said he was “average”…",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a polling article measuring public opinion on presidential performance, which reflects democratic sentiment but does not report on institutional actions, policy changes, or direct impacts on checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:38.838Z"
+    },
+    {
+      "id": "a950b78ad8a6",
+      "title": "Search intensifies for Nancy Guthrie in Arizona: What to know",
+      "url": "https://thehill.com/homenews/state-watch/5738760-nancy-guthrie-search-arizona-intensifies/",
+      "source": "The Hill",
+      "published": "2026-02-14T15:40:48.000Z",
+      "description": "Law enforcement has ramped up activity in the desperate search for Nancy Guthrie as the investigation into the disappearance of “Today” show anchor Savannah Guthrie’s mother persists. Three people were detained late Friday after a SWAT operation at a residence less than two miles from Guthrie’s home in Tucson, Ariz., according to NewsNation, The Hill’s…",
+      "keywords": [
+        "detained"
+      ],
+      "significance": 1,
+      "reason": "This is a missing persons case with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:39.532Z"
+    },
+    {
+      "id": "c1520070c670",
+      "title": "Casey Wasserman to sell entertainment agency amid backlash from Epstein ties",
+      "url": "https://thehill.com/blogs/in-the-know/5738695-casey-wasserman-selling-agency-jeffrey-epstein-ties/",
+      "source": "The Hill",
+      "published": "2026-02-14T15:17:09.000Z",
+      "description": "Casey Wasserman, the entertainment executive tapped by President Trump to chair the 2028 Los Angeles Olympics, said late Friday that he is in the process of selling off his talent agency. The move, first reported by the Wall Street Journal, comes after Wasserman faced backlash after his name was uncovered in files tied to convicted…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a private sector personnel/business decision with no direct impact on governmental checks and balances, judicial independence, congressional oversight, or other tracked institutional safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:39.810Z"
+    },
+    {
+      "id": "679239031797",
+      "title": "Newsom says world sees US as ‘a wrecking ball’ under Trump",
+      "url": "https://thehill.com/policy/international/5738685-gavin-newsom-donald-trump-wrecking-ball-us-munich/",
+      "source": "The Hill",
+      "published": "2026-02-14T14:59:36.000Z",
+      "description": "California Gov. Gavin Newsom (D) suggested Friday that world leaders likely see the U.S. as a “wrecking ball” under its current leadership, but added that President Trump is “temporary.” Newsom, on the sidelines of the Munich Security Conference, said the people he spoke with during the summit signaled they no longer see the U.S. as…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is political commentary and opinion from a state governor about international perceptions, lacking substantive reporting on actual institutional checks, policy changes, or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:40.777Z"
+    },
+    {
+      "id": "dd94d00c87e3",
+      "title": "Latest US strike on alleged drug vessel kills 3 ‘narco-terrorists’",
+      "url": "https://thehill.com/policy/defense/5738610-drug-boat-strike-3-killed-us-military-caribbean/",
+      "source": "The Hill",
+      "published": "2026-02-14T13:10:47.000Z",
+      "description": "The U.S. military on Friday said it carried out a strike on an alleged drug-smuggling vessel in the Caribbean, killing three — months after similar strikes caused controversy at the Defense Department. The vessel was operated by designated terrorist organization and moved along “known narco-trafficking routs in the Caribbean and was engaged in narco-trafficking operations,”…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports on a routine military operation against drug trafficking with no apparent connection to democratic institutions, checks and balances, or governance oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:40.374Z"
+    },
+    {
+      "id": "8ead7fe90056",
+      "title": "Abandoning negotiations won’t stop Trump’s attacks on clean energy",
+      "url": "https://thehill.com/opinion/energy-environment/5737467-democrats-permitting-reform-urgency/",
+      "source": "The Hill",
+      "published": "2026-02-14T13:00:00.000Z",
+      "description": "That means Trump will have free rein to weaponize the permitting process while blaming Democrats for the chaos.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article discusses potential executive branch actions on energy permitting policy, which touches on institutional checks but represents policy disagreement rather than democratic system erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-14T18:03:39.847Z"
+    },
+    {
+      "id": "10f5044fb00e",
+      "title": "Trump ramps up Fed rate cut pressure after strong jobs, inflation reports",
+      "url": "https://thehill.com/business/5738128-trump-pressure-fed-rates/",
+      "source": "The Hill",
+      "published": "2026-02-14T11:00:00.000Z",
+      "description": "President Trump and top White House officials are ramping up pressure on the Federal Reserve to cut interest rates after two surprisingly strong economic reports. Data released by the Labor Department on Friday showed inflation falling below economist expectations in January, two days after the January jobs report showed a surprising surge in hiring last…",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine political pressure on an economic institution within normal bounds of executive advocacy, without evidence of institutional erosion or unprecedented action.",
+      "categories": [],
+      "scoredAt": "2026-02-14T18:03:41.717Z"
+    },
+    {
+      "id": "5cac6d322894",
+      "title": "Johnson’s delegation cancellation upends lawmakers’ travel to critical global summit",
+      "url": "https://thehill.com/homenews/house/5738274-house-codel-munich-security-conference-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-14T11:00:00.000Z",
+      "description": "The cancellation of the official House delegation to the annual Munich Security Conference has drawn pushback from Democrats who still plan to attend, even as it’s upended a decades-long tradition of robust bipartisan participation in the high-profile global policy forum. A House leadership aide told The Hill that cancelling congressional delegations (CODEL) is standard operating…",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 4,
+      "reason": "While the cancellation disrupts diplomatic tradition and may reflect partisan tensions in congressional oversight, it represents an administrative decision rather than a systemic erosion of checks and balances, though it warrants monitoring for patterns of obstruction.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-14T18:03:42.010Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-14T12:03:29.324Z"
+  "lastFetch": "2026-02-14T18:03:42.011Z"
 }
