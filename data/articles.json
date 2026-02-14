@@ -12499,7 +12499,8 @@
         "congressional oversight",
         "federal programs & agencies"
       ],
-      "scoredAt": "2026-02-14T06:11:04.308Z"
+      "scoredAt": "2026-02-14T06:11:04.308Z",
+      "digestedAt": "2026-02-14T06:15:58.520Z"
     },
     {
       "id": "e7f572f05ab8",
@@ -12522,7 +12523,8 @@
         "congressional oversight",
         "political retribution"
       ],
-      "scoredAt": "2026-02-14T06:11:04.340Z"
+      "scoredAt": "2026-02-14T06:11:04.340Z",
+      "digestedAt": "2026-02-14T06:15:58.520Z"
     },
     {
       "id": "aaa383eaec0a",
@@ -12681,9 +12683,10 @@
         "election infrastructure",
         "congressional oversight"
       ],
-      "scoredAt": "2026-02-14T06:11:05.278Z"
+      "scoredAt": "2026-02-14T06:11:05.278Z",
+      "digestedAt": "2026-02-14T06:15:58.520Z"
     }
   ],
-  "lastDigest": "2026-02-14T00:16:49.046Z",
+  "lastDigest": "2026-02-14T06:15:58.520Z",
   "lastFetch": "2026-02-14T06:11:06.307Z"
 }
