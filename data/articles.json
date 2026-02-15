@@ -13566,8 +13566,103 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-15T06:15:33.025Z"
+    },
+    {
+      "id": "a28b9c4e0b06",
+      "title": "Director vacancies at the NIH give Trump administration an opportunity to exert control",
+      "url": "https://www.nbcnews.com/health/health-news/national-institutes-health-director-positions-unfilled-rcna257834",
+      "source": "NBC News",
+      "published": "2026-02-15T10:00:41.000Z",
+      "description": "More than half of the National Institutes of Health's 27 institutes and centers are missing permanent directors, giving the Trump administration an unusual opportunity to reshape NIH.",
+      "keywords": [
+        "trump",
+        "NIH"
+      ],
+      "significance": 7,
+      "reason": "Vacant leadership positions at a major federal research agency create significant opportunity for executive branch control over scientific independence and institutional direction, affecting federal programs & agencies and potentially civil service independence.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-15T12:03:37.791Z"
+    },
+    {
+      "id": "6f0456acbdb1",
+      "title": "Rubio outlines MAGA's foreign policy doctrine in Munich",
+      "url": "https://www.axios.com/2026/02/15/marco-rubio-maga-foreign-policy-munich",
+      "source": "Axios",
+      "published": "2026-02-15T12:00:04.000Z",
+      "description": "Secretary of State Marco Rubio made the future of MAGA's foreign policy clear in a speech Saturday: In Germany, he warned the Munich Security Conference of the dangers of mass migration, while emphasizing the shared heritage between Europe and the U.S.\n\nRubio's \"Make the West Great Again\" message dovetailed in substance with Vice President Vance's address at the same conference last year. But it was softer in tone and loftier in rhetoric, earning Rubio applause instead of the shock that greeted ",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A foreign policy speech outlining diplomatic priorities and messaging at an international conference is routine diplomatic activity without direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T12:03:37.961Z"
+    },
+    {
+      "id": "999cb0e27dac",
+      "title": "GOP senators view Lutnick’s contacts with Epstein as political liability",
+      "url": "https://thehill.com/homenews/senate/5738208-republican-senators-lutnick-epstein/",
+      "source": "The Hill",
+      "published": "2026-02-15T11:00:00.000Z",
+      "description": "Republican senators are worried that revelations around Commerce Secretary Howard Lutnick’s ties to the convicted sex offender Jeffrey Epstein could balloon into a bigger political liability for the GOP heading into this year’s midterm elections.  Lutnick is viewed on Capitol Hill as one of President Trump’s most influential economic advisers, and Republican senators have generally…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary about electoral concerns regarding a cabinet member's past associations, lacking evidence of systemic institutional erosion or democratic checks being tested.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-15T12:03:37.726Z"
+    },
+    {
+      "id": "5488d85d7951",
+      "title": "Democrats say Trump’s climate rollbacks ‘corruption in action’",
+      "url": "https://thehill.com/policy/energy-environment/5738260-democrats-trump-climate-big-oil-endangerment-finding/",
+      "source": "The Hill",
+      "published": "2026-02-15T11:00:00.000Z",
+      "description": "Democrats are linking President Trump’s unraveling of climate change regulations to a larger story about corruption, a midterm argument they think could hurt Republicans in the battles for the House and Senate this fall. While climate change itself may not be an issue driving most voters to the polls, Democrats are seeking to make a…",
+      "keywords": [
+        "voter",
+        "midterm",
+        "trump",
+        "corruption"
+      ],
+      "significance": 2,
+      "reason": "This is partisan political commentary about policy disagreements on climate regulation, not reporting on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-15T12:03:39.590Z"
+    },
+    {
+      "id": "7ab93dc24978",
+      "title": "DOJ sends letter to Congress with list of people named in Epstein files, including Trump: Report",
+      "url": "https://thehill.com/homenews/administration/5739338-justice-department-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-15T03:59:34.000Z",
+      "description": "The Justice Department (DOJ) sent a letter to Congress on Saturday outlining its justification for redactions made in the released Jeffrey Epstein files, according to Politico. The six-page letter to the leaders of the Senate and House Judiciary committees also included a list of “all government officials and politically exposed persons” named in the files…",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the DOJ's transparency about redactions in high-profile files touches on institutional independence and congressional oversight, the action itself represents routine executive-legislative communication rather than a significant systemic shift or erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-15T12:03:39.167Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-15T06:15:33.025Z"
+  "lastFetch": "2026-02-15T12:03:39.590Z"
 }
