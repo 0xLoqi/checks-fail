@@ -13435,8 +13435,139 @@
         "congressional_oversight"
       ],
       "scoredAt": "2026-02-15T00:10:48.545Z"
+    },
+    {
+      "id": "ad11da069097",
+      "title": "Rubio calls for U.S. and Europe to \"revitalize an old friendship\"",
+      "url": "https://www.cbsnews.com/news/marco-rubio-donald-trump-european-union-munich-security-conference/",
+      "source": "CBS News",
+      "published": "2026-02-15T01:03:13.000Z",
+      "description": "Secretary of State Marco Rubio made it clear the Trump administration would stick to its guns on policy, but offered a tone seen as softer and more reassuring.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Standard diplomatic statement about U.S.-Europe relations with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T06:15:31.158Z"
+    },
+    {
+      "id": "ca8e740c1a72",
+      "title": "DHS shutdown begins with no deal in sight",
+      "url": "https://www.cbsnews.com/video/dhs-shutdown-begins-with-no-deal-in-sight/",
+      "source": "CBS News",
+      "published": "2026-02-15T00:09:00.000Z",
+      "description": "Funding for the Department of Homeland Security has ground to a halt in a dispute in Congress over the Trump administration's immigration crackdown. The partial shutdown was impacting the Transportation Security Administration, the Coast Guard and FEMA, among other agencies. Willie James Inman reports.",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "A DHS shutdown represents a significant institutional action affecting multiple federal agencies and demonstrates Congress exercising its power of the purse over executive immigration policy, a core checks and balances mechanism.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-15T06:15:31.638Z"
+    },
+    {
+      "id": "b3e69800bc33",
+      "title": "Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute",
+      "url": "https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro",
+      "source": "Axios",
+      "published": "2026-02-15T02:12:47.000Z",
+      "description": "The Pentagon is considering severing its relationship with Anthropic over the AI firm's insistence on maintaining some limitations on how the military uses its models, a senior administration official told Axios.\nWhy it matters: The Pentagon is pushing four leading AI labs to let the military use their tools for \"all lawful purposes,\" even in the most sensitive areas of weapons development, intelligence collection, and battlefield operations. Anthropic has not agreed to those terms, and the Pent",
+      "keywords": [
+        "raid",
+        "intelligence",
+        "classified",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional conflict over executive power, civil service independence, and potential erosion of private sector safeguards, though it remains a dispute rather than a completed action.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence",
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-15T06:15:31.458Z"
+    },
+    {
+      "id": "a36e62b8f46c",
+      "title": "Noem boasts of Trump administration ensuring ‘we have the right people voting’ ahead of midterms",
+      "url": "https://thehill.com/homenews/campaign/5739328-noem-voting-midterm-elections/",
+      "source": "The Hill",
+      "published": "2026-02-15T02:48:06.000Z",
+      "description": "Homeland Security Secretary Kristi Noem suggested on Friday that her department has a broad role in election security, claiming she has the authority to identify “vulnerabilities” in the election system and implement “mitigation measures” to make sure local and state elections are “run correctly.” Noem argued during a press conference in Arizona, where she was…",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm",
+        "election security",
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "A cabinet secretary claiming expansive federal authority over election administration and using language about 'right people voting' raises significant concerns about potential election integrity violations and federal overreach into state election systems.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-15T06:15:32.660Z"
+    },
+    {
+      "id": "c17b1dbfe9bc",
+      "title": "Zelensky touts meeting with Witkoff, Kushner ahead of Geneva talks with Russia",
+      "url": "https://thehill.com/policy/international/5739289-zelensky-trump-envoy-phone-call/",
+      "source": "The Hill",
+      "published": "2026-02-15T00:32:34.000Z",
+      "description": "Ukrainian President Volodymyr Zelensky said he had a phone call with Trump administration envoys Steve Witkoff and Jared Kushner on Saturday ahead of trilateral talks in Geneva next week, saying all three “count” on the meetings with Russia being “truly productive.” “Not everything can be shared over the phone, and our negotiating team will present…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine diplomatic news reporting on international negotiations with no direct bearing on U.S. domestic checks and balances or institutional accountability.",
+      "categories": [],
+      "scoredAt": "2026-02-15T06:15:32.571Z"
+    },
+    {
+      "id": "8b18ea2e45a5",
+      "title": "Bad Bunny represents U.S better than Trump, Americans say in poll",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5739189-bad-bunny-trump-poll-results/",
+      "source": "The Hill",
+      "published": "2026-02-15T00:14:22.000Z",
+      "description": "60% said they approved of the Spanish-language show.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a poll about public opinion on a celebrity's representation of U.S. values, with no connection to institutional checks and balances, governance, or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-02-15T06:15:32.794Z"
+    },
+    {
+      "id": "b4d9da2dfc26",
+      "title": "Sunday shows preview: DHS shutdown, Epstein files backlash shine light on political quarrels",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5739207-epstein-documents-congress-tensions-dhs/",
+      "source": "The Hill",
+      "published": "2026-02-14T23:12:12.000Z",
+      "description": "The Department of Homeland Security (DHS) shut down on Saturday after Congress failed to pass a funding bill for the department.  DHS accounts for 3 percent of the U.S. federal budget and most department employees will be required to work without pay for the duration of the shutdown, which could stretch on for weeks due…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A routine government shutdown affecting one department reflects normal congressional budgeting conflicts rather than a systemic threat to democratic checks and balances, though it does impact federal programs and agency operations.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-15T06:15:33.025Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-15T00:10:48.578Z"
+  "lastFetch": "2026-02-15T06:15:33.025Z"
 }
