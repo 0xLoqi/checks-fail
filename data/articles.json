@@ -13136,8 +13136,307 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-14T18:03:42.010Z"
+    },
+    {
+      "id": "8755c757466a",
+      "title": "How the Homeland Security shutdown is impacting travel in the U.S.",
+      "url": "https://www.pbs.org/newshour/nation/how-the-homeland-security-shutdown-is-impacting-travel-in-the-u-s",
+      "source": "PBS NewsHour",
+      "published": "2026-02-14T21:57:39.000Z",
+      "description": "Transportation Security Administration officers are expected to work without pay while lawmakers remain without an agreement on DHS' annual funding.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 6,
+      "reason": "A government shutdown affecting DHS operations raises concerns about institutional functionality and congressional oversight failure, but lacks evidence of deliberate democratic erosion or checks-and-balances violation.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-15T00:10:43.836Z"
+    },
+    {
+      "id": "5b8b8cc38716",
+      "title": "Iran and U.S. to hold nuclear talks in Geneva, Swiss minister says",
+      "url": "https://www.pbs.org/newshour/world/iran-and-u-s-to-hold-nuclear-talks-in-geneva-swiss-minister-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-14T20:04:53.000Z",
+      "description": "The Trump administration has maintained that Iran can have no uranium enrichment under any deal. Tehran says it won't agree to that.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy news about international nuclear negotiations with no direct bearing on domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:43.530Z"
+    },
+    {
+      "id": "a3305bcf02f1",
+      "title": "Rubio tries to reassure skeptical European allies but pushes Trump's vision for reshaped alliance",
+      "url": "https://www.pbs.org/newshour/politics/rubio-tries-to-reassure-skeptical-european-allies-but-follows-trumps-vision-for-a-reshaped-alliance",
+      "source": "PBS NewsHour",
+      "published": "2026-02-14T18:55:31.000Z",
+      "description": "Rubio addressed the conference a year after Vice President JD Vance stunned the same audience with a harsh critique of European values.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Routine diplomatic messaging and alliance management that reflects policy direction but does not involve institutional erosion or unprecedented democratic checks violations.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-15T00:10:43.413Z"
+    },
+    {
+      "id": "886f9115c0ee",
+      "title": "Broken bones, burning eyes: How Trump's DHS deploys 'less lethal' weapons on protesters",
+      "url": "https://www.nbcnews.com/news/us-news/trump-dhs-immigration-protests-injuries-less-lethal-weapons-force-rcna258388",
+      "source": "NBC News",
+      "published": "2026-02-14T11:00:43.000Z",
+      "description": "Federal immigration officers have repeatedly used less lethal weapons in ways that appear to violate their own policies or general policing guidelines, unless they believed their lives were in danger, NBC News found.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Documents systematic misuse of force by federal agents outside normal oversight frameworks, directly implicating DHS independence, civil rights protections, and congressional oversight of executive agencies.",
+      "categories": [
+        "DOJ independence",
+        "civil rights & immigration",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-15T00:10:44.968Z"
+    },
+    {
+      "id": "699951e57075",
+      "title": "Sen. Mark Kelly's lawyer urges DOJ officials not to seek indictment for a second time over video",
+      "url": "https://www.nbcnews.com/politics/congress/sen-mark-kellys-lawyer-urges-doj-officials-not-seek-indictment-second-rcna259093",
+      "source": "NBC News",
+      "published": "2026-02-14T22:22:09.000Z",
+      "description": "An attorney for Sen. Mark Kelly is urging DOJ officials not to pursue an indictment for a second time against a group of lawmakers who participated in a video encouraging members of the military to ignore “illegal orders.”",
+      "keywords": [
+        "DOJ"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable but not unprecedented instance of DOJ prosecutorial discretion regarding political speech, touching on both DOJ independence and potential political retribution concerns without clear evidence of systemic erosion.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-15T00:10:44.811Z"
+    },
+    {
+      "id": "a56dd26423b6",
+      "title": "Obama on ICE shootings in Minnesota: \"This is not the America we believe in\"",
+      "url": "https://www.cbsnews.com/news/former-president-barack-obama-ice-shootings-minnesota/",
+      "source": "CBS News",
+      "published": "2026-02-14T19:40:32.000Z",
+      "description": "President Obama spoke about the \"unprecedented nature\" of what he said Immigration and Customs Enforcement agents did in Minnesota.",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is a presidential statement commenting on an ICE incident, representing routine political commentary rather than a substantive institutional action or policy change affecting democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-15T00:10:46.315Z"
+    },
+    {
+      "id": "cf4472877a53",
+      "title": "5 of the most-botched deportations of Trump 2.0",
+      "url": "https://www.axios.com/2026/02/14/ice-trump-dhs-immigration-deportations",
+      "source": "Axios",
+      "published": "2026-02-14T21:00:05.000Z",
+      "description": "The Department of Homeland Security is rushing to fulfill President Trump's mass deportation goals, and its haste has led to high-profile deportation screwups.\nWhy it matters: The high-visibility enforcement campaign has drawn attention to every tactic from Trump's immigration enforcers, including when they're on the wrong side of the law and public opinion.\n\nThe big picture: As of late January, DHS said it had deported 675,000 undocumented immigrants.\n\nBut from the earliest weeks of Trump 2.0, ",
+      "keywords": [
+        "prosecutor",
+        "immigration",
+        "ICE",
+        "deportation",
+        "detained",
+        "judicial",
+        "trump",
+        "EPA",
+        "CECOT",
+        "alien enemies act",
+        "asylum"
+      ],
+      "significance": 6,
+      "reason": "Documents notable enforcement failures and legal overreach by executive branch with implications for civil rights and rule of law, but lacks evidence of systematic institutional erosion or unprecedented democratic threats.",
+      "categories": [
+        "immigration & civil rights",
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-15T00:10:45.100Z"
+    },
+    {
+      "id": "35444c014c83",
+      "title": "Trump and Netanyahu agree to increase pressure on Iranian oil",
+      "url": "https://www.axios.com/2026/02/14/trump-netanyahu-china-iran-oil",
+      "source": "Axios",
+      "published": "2026-02-14T19:31:20.000Z",
+      "description": "President Trump and Israeli Prime Minister Benjamin Netanyahu agreed during their meeting at the White House on Wednesday that the U.S. will increase the economic pressure on Iran, mostly when it comes to oil sales to China, according to two U.S. officials briefed on the issue.\nWhy it matters: More than 80% of Iranian oil exports go to China. If China reduces its purchases of oil from Iran, the economic pressure on Iran would increase significantly. \n\nThis could change Iran's calculus and push i",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "trump",
+        "journalist"
+      ],
+      "significance": 3,
+      "reason": "This is routine foreign policy and economic diplomacy reporting on bilateral negotiations regarding Iran sanctions, which does not directly implicate domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:44.800Z"
+    },
+    {
+      "id": "aa6ff14be13c",
+      "title": "Greene says Epstein files handling is Trump’s ‘biggest political miscalculation’",
+      "url": "https://thehill.com/homenews/administration/5739226-marjorie-greene-trump-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-14T22:53:16.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) sharply criticized the Trump administration’s handling of the release of files related to the investigation into convicted sex offender Jeffrey Epstein, calling the saga the “biggest political miscalculation” of her former ally President Trump’s career. The former legislator accused President Trump of fighting “the hardest” against the files’ release…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a political figure criticizing an administrative decision, lacking evidence of systemic institutional impact on democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-15T00:10:47.332Z"
+    },
+    {
+      "id": "78d954c6946f",
+      "title": "Obama pushes back on White House rhetoric, ape video: Decorum has ‘been lost’",
+      "url": "https://thehill.com/homenews/administration/5739198-obama-trump-administration-rhetoric/",
+      "source": "The Hill",
+      "published": "2026-02-14T22:21:32.000Z",
+      "description": "Former President Obama argued in an interview published Saturday that American politics has become a “clown show” under the second Trump administration, suggesting that many Americans dislike the rhetoric coming out of the White House in recent months. Obama made the comparison while addressing a controversial video posted on President Trump’s Truth Social account earlier…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a former president about rhetoric and decorum rather than reporting on an actual institutional action, policy change, or threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:47.218Z"
+    },
+    {
+      "id": "35afa4e8de21",
+      "title": "Crowded California governor’s race creates opening for Republicans",
+      "url": "https://thehill.com/homenews/campaign/5738343-california-democrats-primary-risk/",
+      "source": "The Hill",
+      "published": "2026-02-14T22:00:00.000Z",
+      "description": "The crowded field of Democratic candidates running for governor in California could give Republicans a rare opening in the deep blue stronghold.  More than a half-dozen Democrats seen as serious contenders are competing in the Golden State’s June 2 primary, where all candidates will appear on the same ballot and the top two vote-getters will…",
+      "keywords": [
+        "ballot"
+      ],
+      "significance": 2,
+      "reason": "This is routine political analysis about electoral dynamics in a state primary race with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:47.095Z"
+    },
+    {
+      "id": "9af94ad47b1b",
+      "title": "Trump lambasts Maher rhetoric as ‘very boring, anti-Trump’",
+      "url": "https://thehill.com/homenews/administration/5739083-trump-lashes-out-bill-maher/",
+      "source": "The Hill",
+      "published": "2026-02-14T20:52:58.000Z",
+      "description": "President Trump on Saturday lashed out at comedian Bill Maher over his criticism of the commander in chief from the day before, with the president referring back to his dinner with Maher at the White House last year. The president in a lengthy Truth Social post praised how Maher was “a nice guy” who was…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary documenting a public dispute between a president and entertainer with no institutional or systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:47.427Z"
+    },
+    {
+      "id": "b277d863084b",
+      "title": "Reversing the endangerment finding, Trump’s EPA puts polluters over people",
+      "url": "https://thehill.com/opinion/energy-environment/5737863-climate-change-threatens-communities/",
+      "source": "The Hill",
+      "published": "2026-02-14T19:00:00.000Z",
+      "description": "The Trump administration is repealing scientific findings that greenhouse gases threaten public health and welfare, exacerbating the effects of climate change on vulnerable communities and reversing progress towards justice.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the EPA action represents a significant policy reversal with environmental and public health consequences, it falls within executive authority over agency rule-making and does not directly undermine democratic checks and balances mechanisms themselves.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-15T00:10:47.432Z"
+    },
+    {
+      "id": "3df3019b8372",
+      "title": "Ty Cobb rips Trump admin over political attacks: ‘All those people should be impeached’",
+      "url": "https://thehill.com/homenews/administration/5738831-ty-cobb-trump-cabinet-impeachment/",
+      "source": "The Hill",
+      "published": "2026-02-14T18:34:19.000Z",
+      "description": "Former White House lawyer Ty Cobb warned Friday that the Trump administration’s attacks on its perceived political enemies could lead to impeachment proceedings against top Cabinet officials if Democrats win back control of Congress in November. “All of those people should be impeached, for sure,” Cobb said in an appearance on “The Beat with Ari…",
+      "keywords": [
+        "impeach",
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Commentary from a former official expressing concern about potential political retribution is notable but represents opinion rather than documented institutional action or policy changes affecting democratic checks.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-15T00:10:48.577Z"
+    },
+    {
+      "id": "dba073a83624",
+      "title": "Alarms of China’s repression are ringing in Tibet — Washington is pivoting back",
+      "url": "https://thehill.com/opinion/international/5737583-ccp-tibet-coercive-displacement/",
+      "source": "The Hill",
+      "published": "2026-02-14T18:00:00.000Z",
+      "description": "China’s vocational training and labor transfer schemes are coercive instruments threatening the irreversible erasure of Tibetan identity.",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 2,
+      "reason": "This article concerns U.S. foreign policy and human rights criticism of China rather than domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T00:10:48.274Z"
+    },
+    {
+      "id": "915858cfdcca",
+      "title": "Pelosi calls out Trump over FBI raid in Georgia ahead of midterms: ‘Not right’",
+      "url": "https://thehill.com/homenews/house/5738884-pelosi-trump-elections-2026-immigration/",
+      "source": "The Hill",
+      "published": "2026-02-14T17:53:36.000Z",
+      "description": "Former House Speaker Nancy Pelosi (D-Calif.) on Saturday blasted President Trump and his administration over what she called “surveillance” ahead of November’s midterms, citing the recent FBI raid on an election office in Georgia. “I hear that all over the United States, not just in Europe, that there is concern about the election,” Pelosi told…",
+      "keywords": [
+        "election",
+        "midterm",
+        "FBI",
+        "raid",
+        "ICE",
+        "speaker",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a political criticism/commentary piece where a former official responds to an action, without reporting on institutional changes, formal investigations, or concrete policy impacts.",
+      "categories": [
+        "election_infrastructure",
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-15T00:10:48.545Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-14T18:03:42.011Z"
+  "lastFetch": "2026-02-15T00:10:48.578Z"
 }
