@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-02-15T12:12:52.630Z",
+  "articleCount": 83,
+  "updates": {
+    "statusChanges": [],
+    "newIncidents": [
+      {
+        "date": "Feb 13, 2025",
+        "severity": "crit",
+        "title": "Trump vows voter ID requirements 'whether approved by Congress or not'",
+        "description": "President publicly declares intent to unilaterally impose federal election requirements without congressional authorization, explicitly defying separation of powers for midterm elections. <a href=\"https://www.nbcnews.com/politics/elections/trump-vows-voter-id-requirements-midterms-rcna259018\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 13, 2025",
+        "severity": "crit",
+        "title": "Journalist Don Lemon prosecuted for ICE protest coverage",
+        "description": "DOJ charges journalist with criminal offenses related to First Amendment-protected reporting on immigration enforcement, pleads not guilty. <a href=\"https://www.axios.com/2026/02/13/don-lemon-plea-not-guilty-minnesota-church-protest\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 12, 2025",
+        "severity": "crit",
+        "title": "White House fires U.S. attorney hours after judicial appointment",
+        "description": "Administration immediately terminates U.S. attorney selected by judges to replace Trump appointee, circumventing established judicial appointment process. <a href=\"https://www.nbcnews.com/politics/justice-department/white-house-fires-us-attorney-donald-kinsella-judges-replace-trump-pic-rcna258833\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 11, 2025",
+        "severity": "crit",
+        "title": "DOJ attempts to indict six congressional Democrats",
+        "description": "Administration seeks criminal charges against opposition lawmakers for protected speech, prompting legal action from Rep. Crow over unprecedented weaponization of DOJ. <a href=\"https://www.pbs.org/newshour/show/rep-crow-signals-legal-action-after-administrations-effort-to-indict-6-democrats\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 10, 2025",
+        "severity": "crit",
+        "title": "Trump directs intelligence agencies to support 'Stop the Steal' lawyer",
+        "description": "President instructs spy agencies to provide intelligence to attorney involved in partisan election challenge efforts, politicizing intelligence community. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newCheckEvents": [
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "DOJ moves to erase Steve Bannon's conviction for defying Jan. 6 congressional subpoena. <a href=\"https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "Attorney General Bondi allegedly accessed Democratic lawmaker's search history of Epstein files, prompting congressional investigation. <a href=\"https://www.cbsnews.com/news/bondi-epstein-files-search-history-hearing-pramila-jayapal/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "White House fires U.S. attorney in New York hours after judges appointed him to replace Trump pick. <a href=\"https://www.cbsnews.com/news/justice-department-fires-u-s-attorney-in-new-york-hours-after-judges-picked-him-for-the-job/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Intelligence Community",
+        "date": "Feb 2025",
+        "text": "Trump instructs spy agencies to provide intelligence to his 'Stop the Steal' lawyer for partisan litigation. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Intelligence Community",
+        "date": "Feb 2025",
+        "text": "Gabbard's office warns attorney against sharing classified whistleblower complaint with Congress. <a href=\"https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Congressional Oversight",
+        "date": "Feb 2025",
+        "text": "DOJ allegedly tracks lawmakers' search histories of Epstein files, prompting Democratic investigation into surveillance of Congress. <a href=\"https://www.nbcnews.com/politics/congress/lawmakers-demand-doj-stop-tracking-lawmakers-epstein-files-searches-rcna258721\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Election Infrastructure",
+        "date": "Feb 2025",
+        "text": "Trump vows to require voter ID in midterms 'whether approved by Congress or not,' threatening unilateral election law changes. <a href=\"https://www.cbsnews.com/news/trump-vows-to-require-voter-id-in-midterms-whether-approved-by-congress-or-not/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Press Freedom",
+        "date": "Feb 2025",
+        "text": "DOJ prosecutes journalist Don Lemon for coverage of ICE protest at church. <a href=\"https://www.axios.com/2026/02/13/don-lemon-plea-not-guilty-minnesota-church-protest\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Civil Service Independence",
+        "date": "Feb 2025",
+        "text": "Trump administration seeks to block independent review when federal workers are laid off. <a href=\"https://thehill.com/homenews/administration/5730400-trump-admin-strips-mspb-power/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newTickerItems": [
+      {
+        "label": "ELECTIONS",
+        "text": "Trump vows <strong>voter ID mandate without Congress</strong> for midterms"
+      },
+      {
+        "label": "PRESS",
+        "text": "DOJ prosecutes journalist <strong>Don Lemon for ICE protest coverage</strong>"
+      },
+      {
+        "label": "CONGRESS",
+        "text": "Administration attempts to <strong>indict six Democratic lawmakers</strong>"
+      },
+      {
+        "label": "INTEL",
+        "text": "Trump directs spy agencies to <strong>support 'Stop the Steal' lawyer</strong>"
+      }
+    ],
+    "statUpdates": [],
+    "bannerUpdate": null,
+    "summary": "Multiple unprecedented institutional breaches recorded: Trump explicitly declared intent to impose election requirements without congressional approval, DOJ prosecuted journalist Don Lemon for protest coverage, and the administration attempted to indict six Democratic lawmakers. Additional developments include directing intelligence agencies to support partisan legal efforts, DOJ dismissing Bannon's contempt conviction, and immediate firing of a judicially-appointed U.S. attorney."
+  }
+}
