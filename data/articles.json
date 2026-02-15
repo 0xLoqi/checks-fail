@@ -13661,8 +13661,368 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-15T12:03:39.167Z"
+    },
+    {
+      "id": "ea2bf6c70d9f",
+      "title": "Politics chat: Government shuts down over DHS funding, Trump gets pushback from GOP",
+      "url": "https://www.npr.org/2026/02/15/nx-s1-5711367/politics-chat-government-shuts-down-over-dhs-funding-trump-gets-pushback-from-gop",
+      "source": "NPR Politics",
+      "published": "2026-02-15T13:07:27.000Z",
+      "description": "President Trump seems to lose some of his grip on his base as the Department Of Homeland Security shuts down amidst resistance to changes to immigration enforcement.",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A government shutdown over DHS funding represents institutional conflict and potential policy shifts in immigration enforcement, but lacks evidence of unprecedented democratic erosion or systematic checks-and-balances breakdown.",
+      "categories": [
+        "congressional_oversight",
+        "immigration_civil_rights",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-02-15T18:04:48.231Z"
+    },
+    {
+      "id": "65725ea99672",
+      "title": "Europeans reject U.S. claims after Rubio's address in Munich",
+      "url": "https://www.pbs.org/newshour/politics/europeans-reject-u-s-claims-after-rubios-address-in-munich",
+      "source": "PBS NewsHour",
+      "published": "2026-02-15T14:08:13.000Z",
+      "description": "A top European Union official has rejected the notion that Europe faces \"civilizational erasure,\" pushing back at criticism of the continent by the Trump administration. It came a day after U.S. Secretary of State Marco Rubio offered a somewhat reassuring message to European allies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers diplomatic disagreements between U.S. and European officials regarding rhetoric and messaging, which does not directly implicate domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:47.995Z"
+    },
+    {
+      "id": "cd8f3a92306d",
+      "title": "Obama derides social media 'clown show' in first comments since Trump's racist video post",
+      "url": "https://www.nbcnews.com/politics/politics-news/barack-obama-social-media-clown-show-trump-racist-video-rcna259144",
+      "source": "NBC News",
+      "published": "2026-02-15T17:36:18.000Z",
+      "description": "Former President Barack Obama called the kind of rhetoric coming from President Donald Trump and his administration “a clown show” in a podcast interview that aired Saturday",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a former president criticizing current political rhetoric, which is routine political discourse rather than reporting on institutional checks and balances or democratic mechanisms.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-15T18:04:48.180Z"
+    },
+    {
+      "id": "b90e024e4130",
+      "title": "Transcript: Tom Homan on \"Face the Nation with Margaret Brennan,\" Feb. 15, 2026",
+      "url": "https://www.cbsnews.com/news/tom-homan-border-czar-face-the-nation-02-15-2026/",
+      "source": "CBS News",
+      "published": "2026-02-15T17:49:27.000Z",
+      "description": "The following is the transcript of the interview with Tom Homan, Trump administration border czar, that aired on \"Face the Nation with Margaret Brennan\" on Feb. 15, 2026.",
+      "keywords": [
+        "homan",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A transcript of a routine media interview by a cabinet official discussing border policy implementation lacks specific institutional actions or policy changes that would indicate significant threats to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-15T18:04:49.542Z"
+    },
+    {
+      "id": "141411aad39c",
+      "title": "Homan says \"I don't like the masks\" on ICE, but they \"have to protect themselves\"",
+      "url": "https://www.cbsnews.com/news/border-czar-tom-homan-ice-masks/",
+      "source": "CBS News",
+      "published": "2026-02-15T17:48:44.000Z",
+      "description": "Democrats have demanded reforms to immigration enforcement, including barring officers from wearing masks.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "homan"
+      ],
+      "significance": 2,
+      "reason": "A statement about officer safety equipment reflects routine operational discussion rather than a systemic democratic check or institutional action.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-15T18:04:49.443Z"
+    },
+    {
+      "id": "6c1728aaf033",
+      "title": "Trump told Netanyahu he would support strikes on Iran missiles, sources say",
+      "url": "https://www.cbsnews.com/news/trump-netanyahu-israeli-strikes-iran-ballistic-missiles/",
+      "source": "CBS News",
+      "published": "2026-02-15T17:13:35.000Z",
+      "description": "President Trump met with Israeli Prime Minister Benjamin Netanyahu in December at Mar-a-Lago with Mr. Trump saying the U.S. would support strikes if no deal was made with Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This reports a foreign policy position statement between leaders regarding Iran negotiations, which does not directly implicate domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:51.108Z"
+    },
+    {
+      "id": "2b8aed7a15ec",
+      "title": "Axios CTO is living your coming AI reality",
+      "url": "https://www.axios.com/2026/02/15/ai-coding-tech-product-development",
+      "source": "Axios",
+      "published": "2026-02-15T13:52:11.000Z",
+      "description": "Dan Cox, Axios' chief technology officer, isn't a journalist, but his AI insights are vital to our readers. We want to show, not just tell, the impact AI is having on companies — in this case, Axios.\n\nSo we asked Dan to share what it's like to live the AI revolution. What his team is experiencing will soon hit lawyers, marketers, accountants, consultants ... and journalists. Here's what Dan told us:\n\nOne of our best engineers recently completed a project similar to one he delivered a year ago.\n\n",
+      "keywords": [
+        "ICE",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a technology commentary piece about AI adoption at a media company with no relation to governmental checks and balances, democratic institutions, or constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:49.585Z"
+    },
+    {
+      "id": "6bbf49d0488e",
+      "title": "ICE raids can revive Democrats’ multiracial coalition",
+      "url": "https://thehill.com/opinion/campaign/5737682-ice-raids-latinos-democrats/",
+      "source": "The Hill",
+      "published": "2026-02-15T17:00:00.000Z",
+      "description": "Democrats must seize the opportunity to rebuild their multiracial coalition by highlighting the similarities that connect all people of color, and reminding Latinos of the shared discrimination they face with other racial minorities, in order to win in 2026 and beyond.",
+      "keywords": [
+        "raid",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary on political strategy rather than reporting on institutional actions, policy changes, or threats to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-15T18:04:49.496Z"
+    },
+    {
+      "id": "5181cb8ffc7a",
+      "title": "Grand juries take on growing importance amid Trump’s legal retribution campaign",
+      "url": "https://thehill.com/regulation/court-battles/5738221-grand-juries-trump-interference/",
+      "source": "The Hill",
+      "published": "2026-02-15T17:00:00.000Z",
+      "description": "Grand juries are running interference with President Trump’s aggressive use of the Justice Department — including when it comes to going after his political foes. The common phrase that a grand jury would indict a ham sandwich underscores the reputation of the panels as a rubber stamp of sorts for prosecutors. But they haven’t always worked…",
+      "keywords": [
+        "prosecutor",
+        "ICE",
+        "trump",
+        "EPA",
+        "retribution"
+      ],
+      "significance": 7,
+      "reason": "Grand juries serving as an institutional check against politicized DOJ prosecutions represents a significant validation of existing democratic safeguards, though the need for this protection indicates potential systemic stress.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-15T18:04:52.084Z"
+    },
+    {
+      "id": "3849bbc4c91d",
+      "title": "Exiled crown prince says US intervention in Iran would be ‘humanitarian’",
+      "url": "https://thehill.com/policy/international/5739462-trump-regime-change-iran/",
+      "source": "The Hill",
+      "published": "2026-02-15T16:56:45.000Z",
+      "description": "Exiled Iranian Crown Prince Reza Pahlavi said Sunday that any U.S. intervention in Iran would be a “humanitarian” effort, pointing to the thousands of protesters killed under the country’s regime since anti-government demonstrations began in January. During an appearance on Fox News’s “Sunday Morning Futures,” Pahlavi addressed President Trump’s recent comments that regime change in…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a foreign political figure about potential U.S. foreign policy, lacking any evidence of domestic institutional action affecting checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:51.966Z"
+    },
+    {
+      "id": "f54e72b8f870",
+      "title": "Homan says he doesn’t ‘know’ meaning behind Noem ‘right leaders’ comments",
+      "url": "https://thehill.com/policy/national-security/5739463-homan-noem-dhs-election-security-comments/",
+      "source": "The Hill",
+      "published": "2026-02-15T16:33:18.000Z",
+      "description": "White House border czar Tom Homan said Sunday he didn’t “know” what Department of Homeland Security (DHS) Secretary Kristi Noem’s recent comments about ensuring “we have the right people voting, electing the right leaders to lead this country” meant. “So, what does she mean when she says ‘electing the right leaders?’ That’s not really immigration enforcement…",
+      "keywords": [
+        "voting",
+        "immigration",
+        "homan",
+        "border czar",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Ambiguous comments about voting and leadership raise concerns about election integrity but lack clear evidence of institutional action or policy change, warranting attention without confirmation of genuine democratic erosion.",
+      "categories": [
+        "election infrastructure",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-15T18:04:52.231Z"
+    },
+    {
+      "id": "d76b20f9549f",
+      "title": "Massie: Bondi was ‘afraid to’ look at Epstein survivors at hearing",
+      "url": "https://thehill.com/homenews/administration/5739465-massie-bondi-testimony-epstein-survivors/",
+      "source": "The Hill",
+      "published": "2026-02-15T16:25:09.000Z",
+      "description": "Rep. Thomas Massie (R-Ky.) on Sunday said that Attorney General Pam Bondi did not look at the Jeffrey Epstein survivors during her testimony before a House panel because she was “afraid to.” Co-host Martha Raddatz asked Massie on ABC News’s “This Week” if he was surprised that Bondi would not look at the Epstein survivors behind her. “I…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "raid"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on a politician's body language during testimony, lacking substantive information about institutional checks, policy changes, or democratic processes.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-15T18:04:52.227Z"
+    },
+    {
+      "id": "166edea28bb6",
+      "title": "Massie says Garland performed ‘much better’ than Bondi after fiery House hearing",
+      "url": "https://thehill.com/homenews/house/5739455-massie-bondi-epstein-hearing/",
+      "source": "The Hill",
+      "published": "2026-02-15T16:02:00.000Z",
+      "description": "Rep. Thomas Massie (R-Ky.) on Sunday said that former Attorney General Merrick Garland “performed better” than current Attorney General Pam Bondi did during her testimony before a House panel examining the Justice Department, including its handling of the Jeffrey Epstein investigation. “I don’t think she did very well. She came with a book full of insults, one for each congressperson.…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary comparing two officials' hearing performances rather than reporting on substantive institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-15T18:04:51.988Z"
+    },
+    {
+      "id": "48a2740f0edb",
+      "title": "There’s no such thing as a ‘good shoot’ — only credible investigations",
+      "url": "https://thehill.com/opinion/criminal-justice/5737707-minneapolis-shootings-investigation-needed/",
+      "source": "The Hill",
+      "published": "2026-02-15T16:00:00.000Z",
+      "description": "That is why the Department of Justice should issue a detailed public investigative report on the two recent shootings that occurred in Minneapolis.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Opinion piece advocating for DOJ investigative transparency in specific shooting cases, touching on institutional accountability but lacking broader systemic implications or institutional action.",
+      "categories": [
+        "DOJ independence",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-15T18:04:53.325Z"
+    },
+    {
+      "id": "184913bc84b7",
+      "title": "Schumer on Dems’ DHS demands: ‘These are common sense’",
+      "url": "https://thehill.com/homenews/senate/5739430-schumer-demands-dhs-funding/",
+      "source": "The Hill",
+      "published": "2026-02-15T15:18:22.000Z",
+      "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) said Sunday that Democrats’ demands for reforming the Department of Homeland Security (DHS) “are common sense,” just one day after funding for the department ran out. “We need masks off, we need cameras on and we need every police — every [Immigration and Customs Enforcement (ICE)] officer, to be…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine political commentary on departmental reform demands without institutional action, policy change, or documented impact on democratic mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-15T18:04:53.124Z"
+    },
+    {
+      "id": "60ed92d1a4e4",
+      "title": "Musk’s lunar city plan supercharges America’s return to the moon",
+      "url": "https://thehill.com/opinion/technology/5737808-elon-musk-lunar-settlement/",
+      "source": "The Hill",
+      "published": "2026-02-15T15:00:00.000Z",
+      "description": "NASA may wind up renting space at the SpaceX lunar city for its explorers and scientists at less cost than if it built one itself.",
+      "keywords": [
+        "musk"
+      ],
+      "significance": 1,
+      "reason": "This article discusses a commercial space contract arrangement with no direct implications for democratic institutions, oversight mechanisms, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:53.031Z"
+    },
+    {
+      "id": "b4751277749f",
+      "title": "US intercepts another oil tanker in the Indian Ocean",
+      "url": "https://thehill.com/policy/defense/5739379-us-intercepts-another-oil-tanker-in-the-indian-ocean/",
+      "source": "The Hill",
+      "published": "2026-02-15T13:23:53.000Z",
+      "description": "The U.S. intercepted another oil tanker in the Indian Ocean that had come from the Caribbean, according to the Defense Department (DOD). “We defend the Homeland forward. Distance does not protect you. Overnight, U.S. forces conducted a right-of-visit, maritime interdiction and boarding of the Veronica III without incident in the [U.S. Indo-Pacific Command (INDOPACOM)] area…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article reports routine military interdiction operations in international waters with no connection to domestic democratic institutions, checks and balances, or the tracked governance categories.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:53.180Z"
+    },
+    {
+      "id": "6ab28647bada",
+      "title": "Don’t underestimate the UN — Trump’s ‘Board of Peace’ is no substitute ",
+      "url": "https://thehill.com/opinion/international/5737540-un-vs-board-of-peace/",
+      "source": "The Hill",
+      "published": "2026-02-15T13:00:00.000Z",
+      "description": "If only the Board of Peace, dubbed “The Legion of Doom” by comedian Jimmy Kimmel and led by a chairman who seems bored with peace, remains standing, we may learn the truth of the old song, “You’re Gonna Miss Me When I’m Gone.”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary critiquing a proposed external advisory body with no direct institutional impact on U.S. democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:53.087Z"
+    },
+    {
+      "id": "30ca99e70446",
+      "title": "Retired Army general predicts ‘formidable’ US military action against Iran if Trump pulls trigger",
+      "url": "https://thehill.com/policy/international/5739272-keane-warns-iran-military/",
+      "source": "The Hill",
+      "published": "2026-02-15T12:00:00.000Z",
+      "description": "Retired four-star U.S. Army Gen. Jack Keane said he believes President Trump is inching closer to a decision on using military force against Iran as the president escalates pressure on Tehran over its nuclear program. “Obviously, the president has yet to make the decision about that military option, but obviously, we can see what’s taking…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a retired general speculating about potential presidential decision-making on foreign policy, lacking evidence of actual institutional action or policy change affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-15T18:04:54.355Z"
+    },
+    {
+      "id": "a12f2d42949d",
+      "title": "Trump’s Government Is Blowing Off the Epstein Scandal. Other Nations Aren’t",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-government-blows-off-epstein-scandal-1235516468/",
+      "source": "Rolling Stone",
+      "published": "2026-02-15T14:00:00.000Z",
+      "description": "The international fallout over the Epstein scandal is laying bare how America’s justice system has decayed under Trump",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The article addresses international perceptions of U.S. justice system handling but lacks concrete evidence of institutional erosion of specific democratic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-15T18:04:54.299Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-15T12:03:39.590Z"
+  "lastFetch": "2026-02-15T18:04:54.355Z"
 }
