@@ -14771,8 +14771,331 @@
         "press freedom"
       ],
       "scoredAt": "2026-02-16T12:08:29.025Z"
+    },
+    {
+      "id": "16623a5565ff",
+      "title": "NAACP asks judge to protect against 'misuse' after FBI seized of voter data in Fulton County",
+      "url": "https://www.pbs.org/newshour/politics/naacp-asks-judge-to-protect-against-misuse-after-fbi-seized-of-voter-data-in-fulton-county",
+      "source": "PBS NewsHour",
+      "published": "2026-02-16T16:18:29.000Z",
+      "description": "Georgia residents entrusted the state with their \"sensitive personal information\" when they registered to vote, and the Jan. 28 seizure of ballots and other election documents from the Fulton County elections hub \"breached that guarantee, infringed constitutional protections of privacy, and interfered with the right to vote,\" the organizations said in a motion filed late Sunday.",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "FBI",
+        "fulton county"
+      ],
+      "significance": 7,
+      "reason": "Represents significant institutional action addressing potential misuse of voter data and election infrastructure integrity, raising serious questions about proper oversight of law enforcement access to sensitive citizen information.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "civil rights"
+      ],
+      "scoredAt": "2026-02-16T18:09:07.559Z"
+    },
+    {
+      "id": "00cbdc560b1a",
+      "title": "AG Pam Bondi Says 'All' of the Epstein Files Have Been Released",
+      "url": "https://www.today.com/video/ag-pam-bondi-says-all-of-the-epstein-files-have-been-released-257737285955",
+      "source": "NBC News",
+      "published": "2026-02-16T12:36:26.000Z",
+      "description": "In a letter sent to Congress over the weekend, Attorney General Pam Bondi said the Justice Department released all of the million of Jeffrey Epstein files required by law but some lawmakers argue the release is insufficient and there are some crucial files missing. NBC’s Gabe Gutierrez reports for TODAY from the White House.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The article addresses DOJ independence and congressional oversight regarding document release compliance, but involves a settled legal matter rather than institutional erosion or unprecedented action.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T18:09:07.605Z"
+    },
+    {
+      "id": "e1f0e000dc2b",
+      "title": "TSA Agents Work Without Pay Amid Partial Government Shutdown",
+      "url": "https://www.today.com/video/tsa-agents-work-without-pay-amid-feud-over-dhs-funding-257738821625",
+      "source": "NBC News",
+      "published": "2026-02-16T12:31:32.000Z",
+      "description": "A partial government shutdown is entering its third day with Democrats refusing to fund the Department of Homeland Security over President Donald Trump’s ongoing immigration enforcement policies and after two U.S. citizens were shot and killed in Minneapolis. NBC’s Gabe Gutierrez reports for TODAY from the White House.",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While shutdown-related workforce impacts are notable operational concerns, this incident primarily reflects legislative gridlock rather than a direct institutional attack on checks and balances, though it does touch on congressional oversight and federal program continuity.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T18:09:07.595Z"
+    },
+    {
+      "id": "1dcb077771d3",
+      "title": "U.S., Hungary sign civil nuclear deal as Trump deepens ties with Orbán",
+      "url": "https://www.cbsnews.com/news/us-hungary-nuclear-cooperation-trump-deepens-ties-viktor-orban/",
+      "source": "CBS News",
+      "published": "2026-02-16T16:10:09.000Z",
+      "description": "Many of Hungary's neighbors say Prime Minister Viktor Orbán is eroding democracy, but President Trump is forging closer relations with the Putin ally.",
+      "keywords": [
+        "trump",
+        "democracy"
+      ],
+      "significance": 3,
+      "reason": "This article reports on foreign policy and diplomatic relations with Hungary rather than addressing domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T18:09:08.650Z"
+    },
+    {
+      "id": "567dc9ad85cc",
+      "title": "Epstein files end business, political careers across globe",
+      "url": "https://www.axios.com/2026/02/16/epstein-associates-consequences-usa-world",
+      "source": "Axios",
+      "published": "2026-02-16T17:30:21.000Z",
+      "description": "The latest round of the Epstein files has effectively ended the careers of some of the world's most powerful figures, from captains of industry to prominent attorneys.\nWhy it matters: The revelations aren't stopping, with new names — and new recriminations — coming to light every day.\n\nDriving the news: The Justice Department released its final tranche of Epstein files in late January, revealing connections between the disgraced financier and some of the world's most powerful political and busin",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "While the Epstein files involve serious misconduct, this article focuses on individual career consequences rather than systemic impacts on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T18:09:09.001Z"
+    },
+    {
+      "id": "9287333ff830",
+      "title": "A measure giving Congress the power to block Trump pardons draws Republican backing",
+      "url": "https://www.axios.com/2026/02/16/trump-pardons-don-bacon-republican-congress",
+      "source": "Axios",
+      "published": "2026-02-16T16:31:28.000Z",
+      "description": "A proposed Constitutional amendment that would give Congress the power to block presidential pardons gained its first House Republican co-sponsor on Monday.\nWhy it matters: It's a rare display of GOP defiance against President Trump, whose pardons have been the subject of bipartisan backlash in several cases.\n\nThe president began his second term by pardoning thousands of Jan. 6 defendants, including many who were charged with assaulting law enforcement during the 2021 Capitol riot.\nHe has since ",
+      "keywords": [
+        "white house",
+        "trump",
+        "checks and balances",
+        "crypto",
+        "pardon",
+        "clemency"
+      ],
+      "significance": 7,
+      "reason": "A constitutional amendment to constrain presidential pardon power represents a significant institutional check on executive authority, though its passage probability and immediate impact remain uncertain.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-16T18:09:08.783Z"
+    },
+    {
+      "id": "7ac4d7022d42",
+      "title": "Exclusive: Pentagon warns Anthropic will \"pay a price\" as feud escalates",
+      "url": "https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth",
+      "source": "Axios",
+      "published": "2026-02-16T12:44:04.000Z",
+      "description": "Defense Secretary Pete Hegseth is \"close\" to cutting business ties with Anthropic and designating the AI company a \"supply chain risk\" — meaning anyone who wants to do business with the U.S. military has to cut ties with the company, a senior Pentagon official told Axios.\n\nThe senior official said: \"It will be an enormous pain in the ass to disentangle, and we are going to make sure they pay a price for forcing our hand like this.\"\n\nWhy it matters: That kind of penalty is usually reserved for fo",
+      "keywords": [
+        "raid",
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents potential executive overreach and political retribution against a private company, directly implicating both corruption & self-dealing and DOJ/institutional independence concerns through weaponization of federal procurement power.",
+      "categories": [
+        "corruption & self-dealing",
+        "political retribution",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T18:09:08.929Z"
+    },
+    {
+      "id": "9970ce9bc2f4",
+      "title": "Trump says Guthrie kidnappers will face death penalty if she is killed",
+      "url": "https://thehill.com/homenews/administration/5740354-trump-death-penalty-nancy-guthrie/",
+      "source": "The Hill",
+      "published": "2026-02-16T17:53:18.000Z",
+      "description": "President Trump said Monday he would direct the Justice Department to seek the death penalty for kidnappers of Nancy Guthrie if the 84-year-old mother of “Today” show co-anchor Savannah Guthrie is found dead. In a brief phone interview with the New York Post, the president said consequences for the kidnappers would be “very, very severe…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "While the statement raises concerns about DOJ independence and potential political interference, it is a rhetorical comment about a specific criminal case rather than an institutional action or policy change affecting systemic checks and balances.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-16T18:09:10.442Z"
+    },
+    {
+      "id": "835272fd20bf",
+      "title": "FBI not sharing evidence in Pretti shooting, Minnesota authorities say",
+      "url": "https://thehill.com/homenews/state-watch/5740289-fbi-pretti-shooting-minnesota-authorities/",
+      "source": "The Hill",
+      "published": "2026-02-16T17:12:52.000Z",
+      "description": "The Minnesota Bureau of Criminal Apprehension (BCA) said Monday it was formally notified by the FBI that the bureau will not share any information about its investigation into the death of Alex Pretti. “The FBI formally notified the Minnesota Bureau of Criminal Apprehension (BCA) on Feb. 13 that it will not provide the BCA with…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 5,
+      "reason": "While the FBI's refusal to share evidence raises legitimate questions about interagency cooperation and transparency in a specific case, it represents a notable but localized institutional practice rather than a systemic erosion of checks and balances.",
+      "categories": [
+        "FBI independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T18:09:12.620Z"
+    },
+    {
+      "id": "a604dad85e9f",
+      "title": "Utah Republicans say they have support for redistricting ballot proposal ",
+      "url": "https://thehill.com/homenews/campaign/5740222-utah-republican-redistricting-initiative/",
+      "source": "The Hill",
+      "published": "2026-02-16T16:26:31.000Z",
+      "description": "Utah’s GOP chair confirmed Sunday that Republicans had clinched enough signatures to have their ballot initiative, which would repeal a 2018 initiative that created an independent redistricting commission in the state, considered for the November election.  “We are well over 200,000 signatures that have been submitted,” Robert Axson, who is organizing the ballot measure campaign to get…",
+      "keywords": [
+        "election",
+        "ballot"
+      ],
+      "significance": 3,
+      "reason": "This is routine state-level political news about a ballot initiative process with no immediate federal democratic implications or institutional threats.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-02-16T18:09:11.447Z"
+    },
+    {
+      "id": "0e4e9f2b6428",
+      "title": "Golfers sue Trump administration over move to overhaul DC course",
+      "url": "https://thehill.com/homenews/administration/5740138-dc-golf-lawsuit-trump/",
+      "source": "The Hill",
+      "published": "2026-02-16T15:40:33.000Z",
+      "description": "A pair of Washington-area golf enthusiasts are suing the Trump administration over its plan to take over and redevelop the District of Columbia’s public golf system. The lawsuit, filed late last week by plaintiffs Alex Dickson and Dave Roberts, argues the administration’s move to end its lease with the National Links Trust violates the Administrative…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A dispute over golf course management is routine administrative litigation with no bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T18:09:11.583Z"
+    },
+    {
+      "id": "1ee11fb96146",
+      "title": "Possible measles exposure reported at Philadelphia International Airport",
+      "url": "https://thehill.com/homenews/state-watch/5740141-philadelphia-measles-exposure-airport/",
+      "source": "The Hill",
+      "published": "2026-02-16T15:34:40.000Z",
+      "description": "The Philadelphia Department of Public Health is warning of a potential measles exposure at Philadelphia International Airport.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine public health advisory with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-16T18:09:11.561Z"
+    },
+    {
+      "id": "308a1f3907eb",
+      "title": "Jeffries: Democrats willing to spend big to reshape Virginia congressional districts",
+      "url": "https://thehill.com/homenews/campaign/5740143-jeffries-virginia-redistricting-battle/",
+      "source": "The Hill",
+      "published": "2026-02-16T15:32:25.000Z",
+      "description": "Democrats are ready to spend big to boost a Virginia redistricting effort that could give the party four more House seats, Minority Leader Hakeem Jeffries (D-N.Y.) has said, amid the national battle over congressional lines ahead of the midterms. “Whatever it takes,” Jeffries told CNN’s Manu Raju in an interview aired Sunday, when asked how…",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 3,
+      "reason": "This article describes routine partisan political activity regarding redistricting strategy and campaign spending, which is standard electoral competition rather than an institutional check or balance concern.",
+      "categories": [],
+      "scoredAt": "2026-02-16T18:09:11.440Z"
+    },
+    {
+      "id": "c64687d3ba89",
+      "title": "Donald Trump and the disgrace of Presidents Day",
+      "url": "https://thehill.com/opinion/white-house/5739699-trump-lying-loyalty-legacy/",
+      "source": "The Hill",
+      "published": "2026-02-16T15:00:00.000Z",
+      "description": "Presidents' Day has become a reminder of the stark contrast between past presidents and the current one, Donald Trump, who has treated truth and civility as optional, and has blurred the line between error and intent.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary comparing Trump unfavorably to past presidents on character grounds, without analyzing specific institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-16T18:09:14.666Z"
+    },
+    {
+      "id": "c8bc52e157af",
+      "title": "Homan: ‘Small’ security force staying in Minnesota",
+      "url": "https://thehill.com/policy/national-security/5740123-small-security-force-minnesota-tom-homan/",
+      "source": "The Hill",
+      "published": "2026-02-16T14:59:43.000Z",
+      "description": "White House border czar Tom Homan said Sunday that a “small” security force is set to stay in Minnesota after announcing last week that Trump administration immigration crackdown efforts were set to end in the state. “There will be a small force, a security force … that will respond to when our agents are out…",
+      "keywords": [
+        "immigration",
+        "homan",
+        "border czar",
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Routine announcement about immigration enforcement personnel deployment with unclear institutional implications, lacking detail on scope, legal authority, or systemic impact on checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-16T18:09:14.220Z"
+    },
+    {
+      "id": "f9a0c259d350",
+      "title": "Why so many congressional Republicans are retiring",
+      "url": "https://thehill.com/opinion/white-house/5739350-gop-exodus-trump-era/",
+      "source": "The Hill",
+      "published": "2026-02-16T14:30:00.000Z",
+      "description": "Congressional Republicans are facing a difficult decision: quit, stay silent, or accept the price of Trump worship as the midterms approach and public approval of Trump and the Republican Party remains low.",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article addresses congressional oversight dynamics and institutional independence through the lens of Republican retirements, reflecting broader tensions within checks and balances, but lacks specific evidence of institutional erosion or precedent-breaking action.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-16T18:09:13.801Z"
+    },
+    {
+      "id": "b5bb548edc66",
+      "title": "Live updates: DHS shuts down without funding deal; House and Senate out all week",
+      "url": "https://thehill.com/homenews/5739809-live-updates-trump-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-16T13:39:18.000Z",
+      "description": "The Munich Security Conference ended Sunday, with lawmakers and officials making their way back to the U.S. from Germany. But with the Senate and House out this week, things are looking grim for a speedy resolution to cover the Department of Homeland Security’s (DHS) budget lapse. DHS shut down Saturday morning after Democrats and Republicans…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A government shutdown affects federal program operations and DHS functions, but routine funding lapses occur periodically and reflect normal congressional gridlock rather than systematic democratic erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T18:09:13.854Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-16T12:08:29.561Z"
+  "lastFetch": "2026-02-16T18:09:14.666Z"
 }
