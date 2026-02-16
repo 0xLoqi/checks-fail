@@ -14021,8 +14021,355 @@
         "corruption & self-dealing"
       ],
       "scoredAt": "2026-02-15T18:04:54.299Z"
+    },
+    {
+      "id": "2ec8e66856b2",
+      "title": "Trump's border czar says a 'small' security force will stay in Minnesota",
+      "url": "https://www.npr.org/2026/02/15/nx-s1-5715151/minnesota-immigration-homan-security-force-stay",
+      "source": "NPR Politics",
+      "published": "2026-02-15T21:31:03.000Z",
+      "description": "Tom Homan says this federal force will stay \"for a short period of time\" to protect immigration agents who remain as the sweeping crackdown draws down.",
+      "keywords": [
+        "immigration",
+        "homan",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The deployment of a federal security force raises questions about executive authority and oversight, but the stated temporary and limited nature makes it notable rather than immediately critical without more details about scope, legal authorization, and congressional notification.",
+      "categories": [
+        "congressional oversight",
+        "civil service independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-16T00:10:57.950Z"
+    },
+    {
+      "id": "510832d6e9d7",
+      "title": "Obama responds to Trump sharing racist AI video depicting him as an ape",
+      "url": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump",
+      "source": "NPR Politics",
+      "published": "2026-02-15T18:45:20.000Z",
+      "description": "\"There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum,\" Obama said in an interview that was posted on YouTube Saturday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is commentary on offensive social media content rather than reporting on institutional actions, policy changes, or violations of democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-16T00:10:57.626Z"
+    },
+    {
+      "id": "3d79b5496700",
+      "title": "Partial government shutdown drags on amid immigration oversight battle",
+      "url": "https://www.pbs.org/newshour/politics/partial-government-shutdown-drags-on-amid-immigration-oversight-battle",
+      "source": "PBS NewsHour",
+      "published": "2026-02-15T20:30:56.000Z",
+      "description": "A partial government shutdown began Saturday after congressional Democrats and President Donald Trump's team failed to reach a deal on legislation to fund the department through September.",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A partial shutdown reflects a breakdown in congressional-executive coordination on funding, affecting institutional operations and oversight capacity, but is a recurring political dynamic rather than an unprecedented erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T00:10:58.110Z"
+    },
+    {
+      "id": "187ace58231d",
+      "title": "Trump's border czar says smaller force of ICE agents will remain in Minnesota amid drawdown",
+      "url": "https://www.pbs.org/newshour/politics/trumps-border-czar-says-drawdown-of-ice-agents-in-minnesota-continues-but-smaller-force-will-remain",
+      "source": "PBS NewsHour",
+      "published": "2026-02-15T18:44:57.000Z",
+      "description": "He also said agents will keep investigating fraud allegations as well as the anti-immigration enforcement protest that disrupted a service at a church service.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "border czar",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable operational policy shift in immigration enforcement with potential civil rights implications, but lacks the institutional challenge or unprecedented action required for higher significance.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T00:10:57.971Z"
+    },
+    {
+      "id": "dd422f59b905",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Feb. 15, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-02-15-2026/",
+      "source": "CBS News",
+      "published": "2026-02-15T20:15:46.000Z",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Tom Homan and House Minority Leader Hakeem Jeffries join Ed O'Keefe.",
+      "keywords": [
+        "homan"
+      ],
+      "significance": 2,
+      "reason": "A broadcast transcript featuring political figures discussing current events is routine news content without indication of specific institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:10:59.097Z"
+    },
+    {
+      "id": "5e17426ea867",
+      "title": "Tillis says Trump advisers are \"not taking care of this president's legacy\"",
+      "url": "https://www.cbsnews.com/news/thom-tillis-kristi-noem-stephen-miller-trump-face-the-nation-02-15-2026/",
+      "source": "CBS News",
+      "published": "2026-02-15T19:19:12.000Z",
+      "description": "Sen. Thom Tillis, who is not running for reelection in 2026, said he believed that Republicans could hold onto its majority in the Senate after the 2026 midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about electoral prospects with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:10:58.930Z"
+    },
+    {
+      "id": "4bdf93d4db8e",
+      "title": "Pelosi's new campaign: Boost Newsom for 2028",
+      "url": "https://www.axios.com/2026/02/15/pelosis-new-campaign-boost-newsom-for-2028",
+      "source": "Axios",
+      "published": "2026-02-15T23:40:11.000Z",
+      "description": "Nancy Pelosi is retiring from Congress, but she has more campaigns in mind. Among them: Boost Gavin Newsom as a potential contender for the White House in 2028.\nWhy it matters: Publicly and privately, the former speaker has been touting the California governor, a fellow San Franciscan she's helped mentor for decades.\n\nDriving the news: Pelosi has one of the strongest donor networks in Democratic politics. She's been a key validator for Newsom as he's emerged on the national stage and become one ",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "white house",
+        "speaker",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This describes routine political networking and campaign activity by a private citizen, which is standard democratic participation rather than a threat to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:10:59.387Z"
+    },
+    {
+      "id": "cad38356ffad",
+      "title": "Moore's bitter Maryland fights threaten '28 hopes",
+      "url": "https://www.axios.com/2026/02/15/wes-moore-maryland-legislature-problems",
+      "source": "Axios",
+      "published": "2026-02-15T23:21:08.000Z",
+      "description": "Maryland Gov. Wes Moore's national star is on the rise, but his relationships with fellow Democrats in his backyard are fraying.\nWhy it matters: Moore appears to have little control over his state's Democrat-led legislature, as lawmakers repeatedly defy his wishes and override his vetoes even as he builds a national profile ahead of a potential 2028 campaign for president.\n\nSeveral Maryland Democrats told Axios that Moore is talented, but he's struggled because of a lack of experience and, at ti",
+      "keywords": [
+        "voter",
+        "attorney general",
+        "ICE",
+        "trump",
+        "democracy",
+        "authoritarian",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about state-level legislative disagreements and internal party dynamics, with no bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:10:58.933Z"
+    },
+    {
+      "id": "38949b882592",
+      "title": "Mace slams DOJ over letter about completing Epstein files release: ‘They’re missing names’",
+      "url": "https://thehill.com/homenews/house/5739802-mace-criticizes-doj-redactions/",
+      "source": "The Hill",
+      "published": "2026-02-15T23:10:27.000Z",
+      "description": "Late Saturday evening and early Sunday morning, Rep. Nancy Mace (R-S.C.) criticized the Department of Justice’s (DOJ) justification for redacting certain names from the Jeffrey Epstein files. Mace, one of four Republicans to sign the initial discharge petition that brought the Epstein Files Transparency Act to the House floor last year, wrote Saturday in a…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Congressional criticism of DOJ redaction decisions is notable oversight activity, but represents routine legislative-executive tension over document release rather than systemic institutional threat.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T00:11:00.508Z"
+    },
+    {
+      "id": "9651042bbf7b",
+      "title": "Mullin on Trump calling Oklahoma governor a ‘RINO’: ‘Sometimes, friends disagree’",
+      "url": "https://thehill.com/homenews/senate/5739774-governor-stitt-trump-feud/",
+      "source": "The Hill",
+      "published": "2026-02-15T22:07:23.000Z",
+      "description": "Sen. Markwayne Mullin (R-Okla.) dismissed concerns Sunday over President Trump going after Oklahoma Gov. Kevin Stitt (R) earlier this week, chalking it up to a friendly disagreement.  The president called the Oklahoma governor a “RINO” — or a “Republican in name only” — on Wednesday after Stitt announced that the National Governors Association (NGA), which…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party disagreement with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:00.309Z"
+    },
+    {
+      "id": "936f99990f5c",
+      "title": "Crypto industry wades into midterms with hefty war chest ",
+      "url": "https://thehill.com/policy/technology/5738308-crypto-industry-midterms-war-chest/",
+      "source": "The Hill",
+      "published": "2026-02-15T22:00:00.000Z",
+      "description": "The cryptocurrency industry is ramping up its spending ahead of the midterm elections after accumulating a massive war chest in the wake of several key wins in 2024.  The industry’s leading super PAC network, Fairshake, had more than $193 million in cash on hand at the start of 2026 and has already announced several of its targets this cycle — boosting Rep. Barry Moore…",
+      "keywords": [
+        "election",
+        "midterm",
+        "crypto"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about campaign finance and industry advocacy spending, which is standard electoral activity without evidence of institutional erosion or democratic threats.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:00.408Z"
+    },
+    {
+      "id": "c7431a253384",
+      "title": "Tillis won’t support Fed nominee confirmation before DOJ investigation of Powell is done",
+      "url": "https://thehill.com/homenews/senate/5739734-tillis-opposes-warsh-fed-chair/",
+      "source": "The Hill",
+      "published": "2026-02-15T21:21:20.000Z",
+      "description": "Sen. Thom Tillis (R-N.C.) reiterated Sunday that he will not support Kevin Warsh, President Trump’s nominee to chair the Federal Reserve, until the Department of Justice (DOJ) concludes its probe into Fed Chair Jerome Powell. “I’ve tried to make it very clear that I have no intention of supporting any confirmation of any Fed board…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A senator conditioning Fed chair confirmation on a DOJ investigation outcome raises concerns about politicizing both institutions, but represents standard Senate leverage rather than systemic breakdown.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T00:11:00.526Z"
+    },
+    {
+      "id": "830b5a7da428",
+      "title": "Mullin on DHS shutdown: ‘All this is a political theater’",
+      "url": "https://thehill.com/homenews/senate/5739749-mullin-slams-democrats-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-15T21:06:02.000Z",
+      "description": "Sen. Markwayne Mullin (R-Okla.) on Sunday slammed Democrats over the current Department of Homeland Security (DHS) shutdown, calling their actions “political theater.” “What is actually happening right now with the Democrat Party by this political theater, by shutting down DHS for something that you even admitted yourself can’t be done. They’re not stopping [Immigration and…",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is partisan commentary on budget negotiations without substantive reporting on institutional erosion, policy changes, or systemic checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-16T00:11:00.493Z"
+    },
+    {
+      "id": "0e5a62cfc0cb",
+      "title": "Kelly rails against Trump as Munich Security Conference ends",
+      "url": "https://thehill.com/homenews/senate/5739714-kelly-rails-against-trump-as-munich-security-conference-ends/",
+      "source": "The Hill",
+      "published": "2026-02-15T20:47:52.000Z",
+      "description": "As he departed the Munich Security Conference on Sunday, Sen. Mark Kelly (D-Ariz.) sharply criticized President Trump for destabilizing NATO. Kelly wrote on the social platform X that it took the president “less than a year to practically destroy” the NATO alliance, adding that Russia and China are benefiting from Trump’s threats to European countries.…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a Democratic senator's critical commentary on Trump's foreign policy statements regarding NATO, which is routine political rhetoric rather than reporting on institutional actions or structural threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:01.589Z"
+    },
+    {
+      "id": "5128986e029d",
+      "title": "Obama praises Minnesota protesters, calls ‘rogue behavior’ of federal agents ‘deeply concerning and dangerous’",
+      "url": "https://thehill.com/homenews/administration/5739643-obama-praises-minneapolis-unity/",
+      "source": "The Hill",
+      "published": "2026-02-15T19:49:55.000Z",
+      "description": "Former President Obama in an interview published Saturday criticized the actions of federal immigration officers in Minneapolis while praising those protesting their presence in the city. Obama told host Brian Tyler Cohen on his “No Lie” podcast that federal agents have acted in a “rogue” manner in Minneapolis, where immigration enforcement officers shot and killed…",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a former president on federal agent conduct, lacking institutional action, policy change, or binding democratic consequence.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-16T00:11:01.527Z"
+    },
+    {
+      "id": "d28d2ead6b78",
+      "title": "Christie: Trump admin putting up ‘a bunch of ham sandwiches’ and grand juries not indicting them",
+      "url": "https://thehill.com/regulation/court-battles/5739542-chris-christie-slams-justice-department/",
+      "source": "The Hill",
+      "published": "2026-02-15T18:44:02.000Z",
+      "description": "Former New Jersey Gov. Chris Christie (R) slammed the Department of Justice’s efforts to prosecute President Trump’s perceived political enemies, saying the common phrase that grand juries would indict a ham sandwich is being proven false by the administration. “They’re putting a bunch of ham sandwiches up there and the grand juries are not indicting…",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is political commentary and opinion from a former official critiquing DOJ prosecutions, lacking concrete reporting of institutional action or policy changes.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-16T00:11:01.568Z"
+    },
+    {
+      "id": "9598b26522f1",
+      "title": "Trump announces Board of Peace members have pledged more than $5B toward Gaza",
+      "url": "https://thehill.com/policy/international/5739585-5-billion-gaza-reconstruction-board-of-peace/",
+      "source": "The Hill",
+      "published": "2026-02-15T18:41:45.000Z",
+      "description": "President Trump on Sunday said members of his newly created Board of Peace have pledged $5 billion toward Gaza reconstruction efforts and will commit thousands of personnel to “maintain security and peace” in the territory. Trump plans to host the board’s inaugural meeting on Feb. 19 at the “Donald J. Trump Institute of Peace” in Washington, D.C., where, he…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news about a foreign policy initiative and charitable pledge announcement with no direct implications for domestic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:01.384Z"
+    },
+    {
+      "id": "b554d248a6da",
+      "title": "Beshear on tension between White House and governors: ‘It’s just a lot of drama’",
+      "url": "https://thehill.com/homenews/state-watch/5739514-beshear-trump-governors-dinner-drama/",
+      "source": "The Hill",
+      "published": "2026-02-15T17:59:25.000Z",
+      "description": "Kentucky Gov. Andy Beshear (D) on Sunday decried the recent tension between governors and President Trump over invites and snubs to an annual White House meeting, calling it “unnecessary.” “It’s just a lot of drama, and it’s unnecessary. You know, governors wake up every day focused on getting results, on creating better jobs, creating safer…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A governor's commentary on protocol disputes and interpersonal tensions with the White House lacks substantive institutional or democratic significance.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:01.389Z"
+    },
+    {
+      "id": "26f9bc835103",
+      "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to 'internalize' costs",
+      "url": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-15T23:57:45.000Z",
+      "description": "Data centers powering artificial intelligence have strained the electrical grid and driven utility costs higher for consumers.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine policy proposal statement about utility cost allocation related to AI infrastructure, lacking evidence of institutional checks erosion or democratic system threat.",
+      "categories": [],
+      "scoredAt": "2026-02-16T00:11:02.519Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-15T18:04:54.355Z"
+  "lastFetch": "2026-02-16T00:11:02.519Z"
 }
