@@ -14368,8 +14368,168 @@
       "reason": "This is a routine policy proposal statement about utility cost allocation related to AI infrastructure, lacking evidence of institutional checks erosion or democratic system threat.",
       "categories": [],
       "scoredAt": "2026-02-16T00:11:02.519Z"
+    },
+    {
+      "id": "505700eaabef",
+      "title": "Europeans push back at US over claim they face 'civilizational erasure'",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5715730/europe-us-civilizational-erasure",
+      "source": "NPR Politics",
+      "published": "2026-02-16T06:13:23.000Z",
+      "description": "A top European Union official on Sunday rejected the notion that Europe faces \"civilizational erasure,\" pushing back at criticism of the continent by the Trump administration.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine diplomatic disagreement between the US and EU over rhetoric and characterization, with no direct impact on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:38.852Z"
+    },
+    {
+      "id": "0b0dbdd4f405",
+      "title": "Trump says Board of Peace members promise $5 billion for Gaza rebuild",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-board-of-peace-members-promise-5-billion-for-gaza-rebuild",
+      "source": "PBS NewsHour",
+      "published": "2026-02-16T01:54:45.000Z",
+      "description": "Israeli forces have carried out repeated airstrikes in Gaza and frequently fire on Palestinians despite a ceasefire deal. Trump did not detail which member nations were making the pledges for reconstruction.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report about international reconstruction pledges with no direct impact on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:37.966Z"
+    },
+    {
+      "id": "431b0d42172c",
+      "title": "7 highlights from CBS News town hall with Maryland Gov. Wes Moore",
+      "url": "https://www.cbsnews.com/news/wes-moore-cbs-news-town-hall-maryland-trump-biden-immigration-epstein/",
+      "source": "CBS News",
+      "published": "2026-02-16T05:04:00.000Z",
+      "description": "In a CBS News \"Things That Matter\" town hall, Maryland Gov. Wes Moore blasted President Trump — but also urged Democrats to change their perception as \"the party of no and slow.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political commentary from a gubernatorial town hall with no direct bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:37.923Z"
+    },
+    {
+      "id": "25bb62e4cd52",
+      "title": "Partial government shutdown continues amid demands for DHS reforms",
+      "url": "https://www.cbsnews.com/video/partial-government-shutdown-continues-amid-demands-for-dhs-reforms/",
+      "source": "CBS News",
+      "published": "2026-02-16T01:23:00.000Z",
+      "description": "Sunday marked the second day of a partial government shutdown impacting more than 260,000 government workers under the Department of Homeland Security across multiple agencies, including TSA, FEMA and the Coast Guard. Democrats are calling for a ban on face coverings for immigration agents and for officers to display identification and wear body cameras. Willie James Inman has more.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A partial shutdown affecting federal operations is notable for its immediate impact on government functions and worker welfare, but lacks evidence of direct institutional erosion or unprecedented democratic threats.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T06:20:40.083Z"
+    },
+    {
+      "id": "df876dfb9a24",
+      "title": "Kennedy says FDA \"will act on\" ultra-processed foods petition, but indicates no new rules",
+      "url": "https://www.axios.com/2026/02/16/kennedy-health-ultraprocessed-foods-fda-gras-rules",
+      "source": "Axios",
+      "published": "2026-02-16T04:37:57.000Z",
+      "description": "The Trump administration will respond to a citizen petition calling for a regulatory overhaul of ultra-processed foods, Health and Human Services Secretary Robert F. Kennedy Jr. told CBS' \"60 Minutes\" in an interview broadcast Sunday evening.\nThe big picture: \"We will act on David Kessler's petition,\" Kennedy told CBS' Bill Whitaker of the petition that the former FDA chief is spearheading, which calls on the agency to no longer classify sweeteners including corn syrup as \"Generally Recognized a",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine administrative news about FDA responsiveness to a citizen petition regarding food regulation, with no implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:39.782Z"
+    },
+    {
+      "id": "5fe9dd8db4e0",
+      "title": "Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison",
+      "url": "https://www.axios.com/2026/02/16/russia-navalny-death-poison-dart-frog-what-to-know",
+      "source": "Axios",
+      "published": "2026-02-16T00:34:48.000Z",
+      "description": "European allies' findings that Putin critic Alexei Navalny was killed with a rare toxin from poison dart frogs is \"troubling,\" said Secretary of State Marco Rubio on Sunday, adding the U.S. is \"not disputing\" the report.\nThe big picture: Rubio told reporters in Bratislava during a visit to Slovakia \"we don't have any reason to question\" the report that the U.K., France, Germany, Sweden and the Netherlands issued Saturday, which the Kremlin disputes.\n\nThe report follows Yulia Navalnaya, the Russi",
+      "keywords": [
+        "democracy",
+        "EPA",
+        "NIH"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy reporting on a Russian matter with no direct impact on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:39.988Z"
+    },
+    {
+      "id": "a3c4a8c51cb8",
+      "title": "Danish PM says Trump still ‘very serious’ about acquiring Greenland",
+      "url": "https://thehill.com/policy/international/5739950-trump-wants-greenland-deal/",
+      "source": "The Hill",
+      "published": "2026-02-16T04:02:10.000Z",
+      "description": "Danish Prime Minister Mette Frederiksen said Saturday that President Trump remains intent on acquiring Greenland.  “I think the desire from the U.S. president is exactly the same. He’s very serious about this,” Frederiksen said at the Munich Security Conference, according to the BBC. Throughout December and January, the president raised his view that the U.S.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article reports on diplomatic statements about territorial acquisition negotiations, which does not directly implicate any of the 12 democratic checks and balances categories being tracked.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:39.714Z"
+    },
+    {
+      "id": "dd807af654fb",
+      "title": "Moore says Democrats need to ‘stop being the party of no and slow’ ",
+      "url": "https://thehill.com/homenews/state-watch/5739933-moore-party-vison-trump/",
+      "source": "The Hill",
+      "published": "2026-02-16T03:30:30.000Z",
+      "description": "In an interview that aired Sunday, Maryland Gov. Wes Moore (D) urged his party to take a more aggressive governing posture to fight back against the Trump administration and regain popularity. “There’s something that we have to make sure that we do better and that’s actually meet people where they are and move with a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about Democratic messaging strategy with no bearing on institutional checks and balances or democratic mechanics.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:39.598Z"
+    },
+    {
+      "id": "f5b6c46c0226",
+      "title": "Moore declines to directly answer whether he thinks Trump is racist: ‘I think his actions probably give the answer’",
+      "url": "https://thehill.com/homenews/state-watch/5739922-moore-criticizes-trump-administration/",
+      "source": "The Hill",
+      "published": "2026-02-16T02:35:48.000Z",
+      "description": "Maryland Gov. Wes Moore (D) declined to say whether President Trump is racist in an interview released Sunday, just over a week after a video depicting the Obamas as apes posted to the president’s Truth Social account sparked bipartisan backlash.  “I think that’s a question for President Trump,” Moore, shaking his head, told CBS News’s…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a governor's response to controversial content, without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T06:20:41.154Z"
+    },
+    {
+      "id": "fd1408d28023",
+      "title": "Here’s how the DHS shutdown is impacting air travel, TSA",
+      "url": "https://thehill.com/policy/transportation/5739852-tsa-shutdown-impacts-air-travel/",
+      "source": "The Hill",
+      "published": "2026-02-16T00:26:07.000Z",
+      "description": "As the Department of Homeland Security (DHS) remains without funding, air travel nationwide has been impacted. Employees of the Transportation Security Agency (TSA), which is housed within DHS, are working without pay as of early Saturday morning — when the funding lapse began.  According to DHS’s shutdown contingency plan published in September, just more than…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A government shutdown affecting TSA operations is operationally significant but represents routine budgetary/political gridlock rather than an institutional threat to democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T06:20:41.041Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-16T00:11:02.519Z"
+  "lastFetch": "2026-02-16T06:20:41.154Z"
 }
