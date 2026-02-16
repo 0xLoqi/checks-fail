@@ -14528,8 +14528,243 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-16T06:20:41.041Z"
+    },
+    {
+      "id": "e65477d91d96",
+      "title": "Lawmakers appear no closer to a deal as partial government shutdown continues",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5713993/lawmakers-appear-no-closer-to-a-deal-as-partial-government-shutdown-continues",
+      "source": "NPR Politics",
+      "published": "2026-02-16T11:32:01.000Z",
+      "description": "The shutdown at the Department of Homeland Security is the latest example of bipartisan negotiations unraveling in the wake of a crisis that captures national attention.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A routine government shutdown reflects normal congressional dysfunction rather than a novel threat to institutional checks and balances, though it does implicate congressional oversight capacity.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T12:08:26.399Z"
+    },
+    {
+      "id": "fd1d6d1f34fd",
+      "title": "'American Struggle' author assesses Trump's expansion of presidential power",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5713495/american-struggle-author-assesses-trumps-expansion-of-presidential-power",
+      "source": "NPR Politics",
+      "published": "2026-02-16T10:00:00.000Z",
+      "description": "Pulitzer Prize-winning historian Jon Meacham talks about Trump's impact on democracy. Meacham's latest book is a collection of speeches, letters and other original texts from 1619 to the present.",
+      "keywords": [
+        "trump",
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is a book promotion and historical commentary piece rather than reporting on concrete institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:25.961Z"
+    },
+    {
+      "id": "28137720b8af",
+      "title": "How to register to vote in the 2026 primaries",
+      "url": "https://www.npr.org/2026/02/16/g-s1-109534/voter-registration-2026-mail",
+      "source": "NPR Politics",
+      "published": "2026-02-16T10:00:00.000Z",
+      "description": "For the 2026 primary elections, NPR has collected deadlines and information on how to register to vote — online, in person or by mail — in every U.S. state and territory.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine informational content about voting procedures with no bearing on institutional checks and balances.",
+      "categories": [
+        "election-infrastructure"
+      ],
+      "scoredAt": "2026-02-16T12:08:25.132Z"
+    },
+    {
+      "id": "5a4ad3a3492c",
+      "title": "Concerns over autocracy in the U.S. continue to grow",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5705955/us-autocracy-concerns-grow",
+      "source": "NPR Politics",
+      "published": "2026-02-16T06:34:02.000Z",
+      "description": "Is America still a democracy? Scholars tell NPR that after the last year under President Trump, the country has slid closer to autocracy or may already be there.",
+      "keywords": [
+        "trump",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "This is opinion-based commentary from scholars assessing democratic health rather than reporting on a specific institutional action, policy change, or ruling that directly affects checks and balances.",
+      "categories": [
+        "political retribution",
+        "DOJ independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-16T12:08:25.841Z"
+    },
+    {
+      "id": "215b8755b4a6",
+      "title": "Agreements that allow local police to work with ICE skyrocket",
+      "url": "https://www.nbcnews.com/politics/immigration/agreements-allow-local-police-work-ice-skyrocket-rcna258787",
+      "source": "NBC News",
+      "published": "2026-02-16T11:00:00.000Z",
+      "description": "Agreements between Immigration and Customs Enforcement and local law enforcement that allow officers to make federal immigration arrests have increased by 950% in the first year of President Donald Trump’s second term, according to a new analysis of ICE data.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Significant expansion of federal immigration enforcement authority through local police partnerships raises substantial checks-and-balances concerns regarding civil rights protections, judicial oversight, and potential political enforcement priorities.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-16T12:08:27.550Z"
+    },
+    {
+      "id": "b35e307557e1",
+      "title": " Derek Dooley didn't vote for years. Now he wants Georgia voters to send him to Washington",
+      "url": "https://abcnews.go.com/Politics/wireStory/derek-dooley-vote-years-now-georgia-voters-send-130185352",
+      "source": "ABC News",
+      "published": "2026-02-16T03:33:51.000Z",
+      "description": "Many political candidates pitch themselves as outsiders",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "This is a routine human-interest story about a political candidate's background and campaign messaging, with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:27.244Z"
+    },
+    {
+      "id": "b31d382be46f",
+      "title": "Integrity faces a critical moment of peril",
+      "url": "https://www.axios.com/2026/02/16/prediction-markets-insider-trading-integrity",
+      "source": "Axios",
+      "published": "2026-02-16T10:00:06.000Z",
+      "description": "Prediction markets are creating a digital Wild West, where well-placed opportunists can win big by betting on real-world events — from the capture of Nicolás Maduro to a surprise Super Bowl cameo.\n\nWhat may strike everyday people as blatant insider trading is defended as legal based on the letter of the law.\n\nWhy it matters: The spectacle of people profiting off privileged knowledge is accelerating a broader erosion of trust in a society where confidence and good faith were already in retreat.\n\n",
+      "keywords": [
+        "ICE",
+        "trump",
+        "crypto",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "While the article discusses trust erosion and potential insider trading concerns, it focuses on prediction markets as a general social phenomenon rather than addressing specific threats to formal democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:27.352Z"
+    },
+    {
+      "id": "4bfce4a52804",
+      "title": "America is dangerously unprepared for a GPS attack",
+      "url": "https://thehill.com/opinion/national-security/5739117-gps-warfare-threat-america/",
+      "source": "The Hill",
+      "published": "2026-02-16T12:00:00.000Z",
+      "description": "Our widespread reliance on a vulnerable technology should be a wake-up call. A single sustained outage could cost the U.S. economy an estimated $1.6 billion per day.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While infrastructure vulnerability is a serious national security concern, it does not directly implicate democratic checks and balances or institutional oversight mechanisms.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-16T12:08:27.444Z"
+    },
+    {
+      "id": "7d067c3e85a1",
+      "title": "‘I was scared, but I had to do something’: Clerk fights armed suspect targeting California jewelry store",
+      "url": "https://thehill.com/homenews/state-watch/5739756-jewelry-store-clerk-fights-robber/",
+      "source": "The Hill",
+      "published": "2026-02-16T11:47:18.000Z",
+      "description": "(KTLA) – Surveillance video captured the moment a store clerk fought back as she confronted an apparent armed smash-and-grab robber at a jewelry store in Montclair, California. On Thursday, the masked suspect entered the Fast-Fix Jewelry and Watch Repairs store at Montclair Place mall just after 7:30 p.m. The suspect pretended to browse around before…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a local crime incident with no connection to democratic institutions, governmental checks and balances, or systemic governance issues.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:28.888Z"
+    },
+    {
+      "id": "2ac1bb20102c",
+      "title": "Pressure mounts on Trump, GOP ahead of midterms",
+      "url": "https://thehill.com/newsletters/morning-report/5740024-trump-midterm-election-pressure/",
+      "source": "The Hill",
+      "published": "2026-02-16T11:37:42.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ Trump tries to avoid midterm losses ▪ DOJ explains Epstein files redactions ▪ Obama responds to Trump’s video post ▪ RFK Jr. reaches one-year mark leading HHS President Trump and congressional Republicans face rising pressure as they stare down a fast-approaching midterm election that could…",
+      "keywords": [
+        "election",
+        "midterm",
+        "DOJ",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine political newsletter preview covering standard campaign messaging, procedural DOJ disclosure, and political commentary without reporting on specific institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:29.561Z"
+    },
+    {
+      "id": "9d1eb701150a",
+      "title": "Debunked election claims behind Fulton County search spark new questions for Gabbard",
+      "url": "https://thehill.com/homenews/administration/5738302-democrats-question-gabbard-fbi-search/",
+      "source": "The Hill",
+      "published": "2026-02-16T11:00:00.000Z",
+      "description": "Democrats are asking new questions about Director of National Intelligence Tulsi Gabbard’s presence at the FBI’s search of a Georgia voting center after an affidavit showed the federal case relies on widely debunked claims about the 2020 election. The document, unsealed as part of a court challenge earlier this week, credited Kurt Olsen, an ally of…",
+      "keywords": [
+        "election",
+        "voting",
+        "FBI",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "fulton county"
+      ],
+      "significance": 7,
+      "reason": "Raises significant concerns about intelligence community independence and potential political misuse of federal law enforcement by involving a partisan political appointee in an election-related investigation based on debunked claims.",
+      "categories": [
+        "DNI independence",
+        "intelligence community integrity",
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-16T12:08:29.471Z"
+    },
+    {
+      "id": "73c185b097a4",
+      "title": "Republicans worry party won’t do enough to address costs before midterms",
+      "url": "https://thehill.com/homenews/senate/5738150-republicans-affordability-midterms/",
+      "source": "The Hill",
+      "published": "2026-02-16T11:00:00.000Z",
+      "description": "Some Senate Republicans are warning that the party is not doing enough to address affordability heading into the midterm elections, with hopes of passing more big-ticket items this year quickly fading away. Legislating has been difficult in this Congress, with fractious Republicans holding only a narrow majority, and is only expected to slow further in…",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about internal party strategy and legislative priorities, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-16T12:08:29.033Z"
+    },
+    {
+      "id": "3bdacc6d95c0",
+      "title": "Olympics turn political as US athletes speak out against Trump   ",
+      "url": "https://thehill.com/homenews/administration/5737956-us-olympians-trump-conflict/",
+      "source": "The Hill",
+      "published": "2026-02-16T11:00:00.000Z",
+      "description": "A growing number of Olympic athletes competing for the U.S. in this month’s Winter Games are expressing discomfort with representing the U.S. under President Trump’s administration, sparking intense pushback from the president’s supporters and Trump himself.  Trump attacked U.S. athlete Hunter Hess directly after Hess said he was conflicted about competing for Team USA given the country’s political climate. “It brings up mixed emotions to represent the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers athlete political expression and social commentary, which while culturally significant, does not directly impact institutional checks and balances or democratic governance mechanisms.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-16T12:08:29.025Z"
     }
   ],
   "lastDigest": "2026-02-14T06:15:58.520Z",
-  "lastFetch": "2026-02-16T06:20:41.154Z"
+  "lastFetch": "2026-02-16T12:08:29.561Z"
 }
