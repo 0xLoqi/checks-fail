@@ -592,6 +592,20 @@
   .inc-date { font-family: var(--mono); font-size: 0.65rem; color: var(--text-dim); }
   .inc-title { font-size: 0.85rem; color: var(--text-bright); font-weight: 600; }
   .inc-desc { font-size: 0.78rem; color: var(--text-dim); line-height: 1.5; margin-top: 0.15rem; }
+  .inc-sort {
+    display: flex; margin-bottom: 0.75rem;
+    border: 1px solid var(--border); border-radius: 4px;
+    overflow: hidden; width: fit-content;
+  }
+  .inc-sort-btn {
+    font-family: var(--mono); font-size: 0.55rem;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 4px 12px; background: none; border: none;
+    color: var(--text-dim); cursor: pointer; transition: all 0.2s;
+  }
+  .inc-sort-btn + .inc-sort-btn { border-left: 1px solid var(--border); }
+  .inc-sort-btn.active { background: var(--border); color: var(--text-bright); }
+  .inc-sort-btn:hover:not(.active) { color: var(--text); }
 
   /* ─── PIPELINE STATUS ─── */
   .pipeline-status {
@@ -1333,6 +1347,10 @@
     <div class="pipeline-status" id="pipelineStatus">
       <div class="pipeline-dot offline" id="pipelineDot"></div>
       <span id="pipelineText">Pipeline: connecting...</span>
+    </div>
+    <div class="inc-sort" id="incSort">
+      <button class="inc-sort-btn active" data-sort="severity" onclick="sortIncidents('severity')">Severity</button>
+      <button class="inc-sort-btn" data-sort="date" onclick="sortIncidents('date')">Date</button>
     </div>
     <div class="inc-fade">
     <div class="inc">
@@ -2521,6 +2539,42 @@ function toggleIncidents() {
   var isOpen = container.classList.toggle('expanded');
   overflow.classList.toggle('open');
   text.textContent = isOpen ? 'Show fewer' : 'Show all incidents';
+}
+
+function sortIncidents(mode) {
+  var btns = document.querySelectorAll('.inc-sort-btn');
+  btns.forEach(function(b) { b.classList.toggle('active', b.dataset.sort === mode); });
+
+  var fade = document.querySelector('#incidentLog .inc-fade');
+  var overflow = document.getElementById('incOverflow');
+  if (!fade || !overflow) return;
+
+  var allInc = Array.from(document.querySelectorAll('#incidentLog .inc'));
+  var mo = {Jan:0,Feb:1,Mar:2,Apr:3,May:4,Jun:5,Jul:6,Aug:7,Sep:8,Oct:9,Nov:10,Dec:11};
+
+  function parseD(el) {
+    var t = el.querySelector('.inc-date').textContent.trim().replace(',','').split(/\s+/);
+    if (t.length === 2) return new Date(parseInt(t[1]), mo[t[0]] || 0, 15);
+    return new Date(parseInt(t[2]), mo[t[0]] || 0, parseInt(t[1]));
+  }
+  function getSev(el) {
+    return el.querySelector('.inc-badge').classList.contains('crit') ? 0 : 1;
+  }
+
+  allInc.sort(function(a, b) {
+    if (mode === 'severity') {
+      var sa = getSev(a), sb = getSev(b);
+      if (sa !== sb) return sa - sb;
+    }
+    return parseD(b) - parseD(a);
+  });
+
+  fade.innerHTML = '';
+  overflow.innerHTML = '';
+  allInc.forEach(function(el, i) {
+    if (i < 3) fade.appendChild(el);
+    else overflow.appendChild(el);
+  });
 }
 
 // ── System status toggle ──
