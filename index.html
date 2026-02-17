@@ -1157,21 +1157,10 @@
   }
 
   /* ─── INCIDENT LOG COLLAPSE ─── */
-  .inc-overflow {
-    position: relative; max-height: 0; overflow: hidden;
-    transition: max-height 0.4s ease;
-  }
-  .inc-overflow.open { max-height: 5000px; }
-  .inc-overflow::before {
-    content: ''; position: absolute; top: 0; left: 0; right: 0;
-    height: 60px; z-index: 1; pointer-events: none;
-    background: linear-gradient(to bottom, rgba(5,5,5,0.9), transparent);
-    transition: opacity 0.3s;
-  }
-  .inc-overflow.open::before { opacity: 0; }
-  .inc-fade {
-    position: relative;
-  }
+  .inc-overflow { position: relative; }
+  .inc-overflow .inc { display: none; }
+  .inc-overflow .inc.inc-shown { display: block; }
+  .inc-fade { position: relative; }
   .inc-fade::after {
     content: ''; position: absolute; bottom: 0; left: 0; right: 0;
     height: 48px; pointer-events: none;
@@ -1494,7 +1483,7 @@
     </div>
     </div>
     <button class="inc-toggle" id="incToggle" onclick="toggleIncidents()">
-      <span id="incToggleText">Show all incidents</span>
+      <span id="incToggleText">Show more</span>
       <span class="inc-toggle-arrow">&#9660;</span>
     </button>
   </div>
@@ -2505,6 +2494,8 @@ document.querySelectorAll('[data-person]').forEach(function(card) {
             '</div>';
         }).join('');
         dynamicInc.innerHTML = html;
+        var activeSort = document.querySelector('.inc-sort-btn.active');
+        if (typeof sortIncidents === 'function') sortIncidents(activeSort ? activeSort.dataset.sort : 'severity');
       }
     })
     .catch(function(e) {
@@ -2531,14 +2522,47 @@ function dismissStickyBar() {
 })();
 
 // ── Incident log toggle ──
-function toggleIncidents() {
-  var container = document.getElementById('incidentLog');
+var INC_BATCH = 5;
+
+function incUpdateButton() {
   var overflow = document.getElementById('incOverflow');
   var text = document.getElementById('incToggleText');
-  if (!container || !overflow) return;
-  var isOpen = container.classList.toggle('expanded');
-  overflow.classList.toggle('open');
-  text.textContent = isOpen ? 'Show fewer' : 'Show all incidents';
+  var container = document.getElementById('incidentLog');
+  if (!overflow || !text || !container) return;
+  var items = overflow.querySelectorAll('.inc');
+  var shown = overflow.querySelectorAll('.inc.inc-shown').length;
+  var total = items.length;
+  if (total === 0) { text.textContent = 'No more incidents'; return; }
+  if (shown === 0) {
+    container.classList.remove('expanded');
+    text.textContent = 'Show more (' + total + ')';
+  } else if (shown < total) {
+    container.classList.add('expanded');
+    text.textContent = 'Show more (' + (total - shown) + ' remaining)';
+  } else {
+    container.classList.add('expanded');
+    text.textContent = 'Show fewer';
+  }
+}
+
+function toggleIncidents() {
+  var overflow = document.getElementById('incOverflow');
+  if (!overflow) return;
+  var items = Array.from(overflow.querySelectorAll('.inc'));
+  var shown = overflow.querySelectorAll('.inc.inc-shown').length;
+  var total = items.length;
+
+  if (shown >= total) {
+    // Collapse all
+    items.forEach(function(el) { el.classList.remove('inc-shown'); });
+  } else {
+    // Show next batch
+    var target = Math.min(shown + INC_BATCH, total);
+    items.forEach(function(el, i) {
+      if (i < target) el.classList.add('inc-shown');
+    });
+  }
+  incUpdateButton();
 }
 
 function sortIncidents(mode) {
@@ -2572,10 +2596,13 @@ function sortIncidents(mode) {
   fade.innerHTML = '';
   overflow.innerHTML = '';
   allInc.forEach(function(el, i) {
+    el.classList.remove('inc-shown');
     if (i < 3) fade.appendChild(el);
     else overflow.appendChild(el);
   });
+  incUpdateButton();
 }
+incUpdateButton();
 
 // ── System status toggle ──
 function toggleChecks() {
