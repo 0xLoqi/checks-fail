@@ -15606,8 +15606,187 @@
         "judicial independence"
       ],
       "scoredAt": "2026-02-17T00:11:19.947Z"
+    },
+    {
+      "id": "c2bb5424cc2d",
+      "title": "Trump says Venezuela's acting leader 'has to say' Nicolás Maduro is the legitimate president",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-venezuela-nicolas-maduro-legitimate-delcy-rodriguez-rcna259288",
+      "source": "NBC News",
+      "published": "2026-02-17T01:22:26.000Z",
+      "description": "President Donald Trump downplayed acting Venezuelan President Delcy Rodríguez's recent comment to NBC News that Nicolás Maduro is still the legitimate leader of Venezuela, telling reporters Monday that the response was one of political necessity.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on Trump's commentary regarding Venezuelan politics and does not involve U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:54.990Z"
+    },
+    {
+      "id": "a3b79388240c",
+      "title": "More than 70,000 voters will stay on North Carolina voter rolls after settlement",
+      "url": "https://www.nbcnews.com/politics/elections/north-carolina-voter-id-dnc-rnc-settlement-registration-rcna258986",
+      "source": "NBC News",
+      "published": "2026-02-17T00:38:38.000Z",
+      "description": "More than 73,000 North Carolinians will be given more time to show identifying documentation to election officials to remain on the state's voter rolls following a settlement between the national parties and the state's election board",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 4,
+      "reason": "A settlement affecting voter roll maintenance is notable for election administration but represents standard litigation resolution rather than institutional erosion or democratic crisis.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-02-17T06:17:54.833Z"
+    },
+    {
+      "id": "bec50489b4ed",
+      "title": "12/18: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/121825-cbs-evening-news/",
+      "source": "CBS News",
+      "published": "2026-02-17T02:30:47.000Z",
+      "description": "Greg Biffle killed in plane crash; Maurice DuBois and John Dickerson sign off from the \"CBS Evening News.\"",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news broadcast featuring personal announcements and a tragedy unrelated to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:54.516Z"
+    },
+    {
+      "id": "f284514787ac",
+      "title": "Obama reacts to Trump's repost of racist video on podcast",
+      "url": "https://www.cbsnews.com/video/obama-reacts-to-trumps-repost-of-racist-video-on-podcast/",
+      "source": "CBS News",
+      "published": "2026-02-17T01:04:00.000Z",
+      "description": "Former President Obama has broken his silence nearly two weeks after President Trump posted a video that included an animation of the Obamas' faces transposed on to the bodies of dancing cartoon apes. Weijia Jiang has details.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on offensive social media behavior rather than reporting on institutional actions affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:56.205Z"
+    },
+    {
+      "id": "30a39c85c423",
+      "title": "New Mexico lawmakers launch sweeping investigation into Epstein ranch",
+      "url": "https://www.axios.com/2026/02/17/epstein-new-mexico-ranch-state-house-review",
+      "source": "Axios",
+      "published": "2026-02-17T05:59:52.000Z",
+      "description": "New Mexico lawmakers launched an investigation into Jeffrey Epstein's former Zorro Ranch Tuesday over allegations the late convicted sex offender trafficked and sexually abused girls and women at the sprawling property outside Santa Fe.\nThe big picture: It's \"critical\" that the first full investigation into what happened at the ranch provides a platform to \"uncover the truth\" about what happened there and for survivors to see justice, state Rep. Andrea Romero (D) tells Axios.\n\nContext: Epstein o",
+      "keywords": [
+        "ICE",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "While the Epstein investigation is important for criminal justice and survivor accountability, it does not directly impact U.S. democratic checks and balances or institutional governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:55.860Z"
+    },
+    {
+      "id": "cd0811534650",
+      "title": "Trump and Maryland Gov. Moore trade barbs over Potomac River sewage spill blame",
+      "url": "https://www.axios.com/2026/02/17/trump-maryland-moore-potomac-river-sewage-spill-blame",
+      "source": "Axios",
+      "published": "2026-02-17T01:23:51.000Z",
+      "description": "President Trump sparked a blame game over the massive sewage spill into the Potomac River, attacking Maryland Gov. Wes Moore (D), who in turn blamed the feds.\nWhy it matters: The major sewage pipe that burst on Jan. 19 caused one of the worst raw sewage spills in U.S. history.\n\nThe big picture: Trump directed FEMA to assist in the cleanup on Monday afternoon after denouncing state and local officials for not requesting help, but Moore said the federal government had failed to act over the spill.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political dispute over infrastructure failure and disaster response with no bearing on democratic institutions, institutional independence, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:55.831Z"
+    },
+    {
+      "id": "e0da2885d355",
+      "title": "Trump says Iran \"doesn't want the consequences\" of not making a nuclear deal with the U.S.",
+      "url": "https://www.axios.com/2026/02/17/trump-iran-us-nuclear-deal-consequences",
+      "source": "Axios",
+      "published": "2026-02-17T00:57:52.000Z",
+      "description": "President Trump said he is going to be \"involved indirectly\" in the second round of nuclear talks between the U.S. and Iran that will take place in Geneva on Tuesday. \nWhy it matters: The meeting tomorrow between Trump's envoys Jared Kushner and Steve Witkoff and Iranian Foreign Minister Abbas Araghchi could be a make or break moment that will signal whether the two countries are moving towards an new nuclear deal or towards a war. \n\nU.S. officials said they expect Iran to come to the talks on T",
+      "keywords": [
+        "USAID",
+        "trump",
+        "USAID"
+      ],
+      "significance": 3,
+      "reason": "This is routine diplomatic news coverage of nuclear negotiations that does not directly implicate democratic checks and balances or institutional safeguards.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:55.821Z"
+    },
+    {
+      "id": "04a47150146e",
+      "title": "Moore’s office fires back at Trump after blaming Potomac sewage spill on local Democrats",
+      "url": "https://thehill.com/homenews/administration/5741034-trump-moore-potomac-waste-spill/",
+      "source": "The Hill",
+      "published": "2026-02-17T04:25:57.000Z",
+      "description": "Maryland Gov. Wes Moore (D) on Monday said President Trump was at fault for the Potomac waste spill, which now appears to be the largest in U.S. history, following scrutiny from the White House leader.  “The President has his facts wrong—again. Since the last century, the federal government has been responsible for the Potomac Interceptor,…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political dispute over infrastructure responsibility between a state governor and the federal government, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:55.999Z"
+    },
+    {
+      "id": "a8b002948812",
+      "title": "Trump says US, Cuba are talking in midst of oil blockade",
+      "url": "https://thehill.com/homenews/administration/5740997-trump-cuba-oil-blockade/",
+      "source": "The Hill",
+      "published": "2026-02-17T02:37:47.000Z",
+      "description": "President Trump on Monday said the United States and Cuba are talking as the island faces crippling circumstances in the midst of a White House-imposed oil blockade. “Cuba is right now a failed nation, and they don’t even have jet fuel to get for airplanes to take off. They’re clogging up their runway,” Trump told…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine foreign policy statement regarding U.S.-Cuba relations and does not directly implicate domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:57.044Z"
+    },
+    {
+      "id": "c3401110b6b0",
+      "title": "Trump: Ocasio-Cortez at Munich conference ‘not a good look’",
+      "url": "https://thehill.com/homenews/administration/5740934-ocasio-cortez-foreign-policy/",
+      "source": "The Hill",
+      "published": "2026-02-17T01:33:58.000Z",
+      "description": "President Trump on Monday slammed Rep. Alexandria Ocasio-Cortez (D-N.Y.) for what she said at the Munich Security Conference in Germany after the New York lawmaker was asked a series of questions on foreign policy. “I watched AOC answering questions in Munich. This was not a good look for the United States,” the president told reporters…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary where a president criticizes an opposition legislator's public statements, with no institutional action or policy implications affecting democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-17T06:17:57.336Z"
+    },
+    {
+      "id": "5de9b7d5a0fc",
+      "title": "Hyatt Hotels chair steps down over Epstein association",
+      "url": "https://thehill.com/business/5740879-pritzker-epstein-controversy-resignation-hyatt/",
+      "source": "The Hill",
+      "published": "2026-02-17T00:22:07.000Z",
+      "description": "Tom Pritzker resigned as executive chair of the Hyatt Hotels Corporation on Monday, citing his association with the convicted sex offender Jeffrey Epstein as reason for the departure.  Files released by the Justice Department show Pritzker was in close contact with Epstein in the years after Epstein’s 2008 plea deal for procuring a minor for…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a corporate leadership change driven by personal reputation concerns, with no direct connection to government institutions, democratic processes, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T06:17:57.045Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-17T00:11:20.777Z"
+  "lastFetch": "2026-02-17T06:17:57.336Z"
 }
