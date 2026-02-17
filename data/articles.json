@@ -15785,8 +15785,294 @@
       "reason": "This is a corporate leadership change driven by personal reputation concerns, with no direct connection to government institutions, democratic processes, or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-17T06:17:57.045Z"
+    },
+    {
+      "id": "9c84e008d269",
+      "title": "Immigration crackdown in Maine is a top issue in battle for key Senate seat",
+      "url": "https://www.npr.org/2026/02/17/nx-s1-5713854/immigration-crackdown-maine-top-issue-battle-key-senate-seat",
+      "source": "NPR Politics",
+      "published": "2026-02-17T10:00:00.000Z",
+      "description": "President Trump's immigration policy is complicating Republicans' attempts to maintain control of Congress. A recent crackdown in Maine, for instance, put the focus on GOP Sen. Susan Collins.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The article reports on electoral implications of immigration policy rather than documenting institutional changes to democratic checks and balances themselves.",
+      "categories": [
+        "election infrastructure",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-17T12:08:29.723Z"
+    },
+    {
+      "id": "6ecf68860b45",
+      "title": "Minnesota Republicans defend their focus on fraud despite the ICE surge that followed",
+      "url": "https://www.npr.org/2026/02/17/nx-s1-5716113/minnesota-nick-shirley-fraud-ice-minneapolis",
+      "source": "NPR Politics",
+      "published": "2026-02-17T10:00:00.000Z",
+      "description": "Minnesota Republicans say they were right to invite social media influencers into the state to highlight social service fraud, though Democrats blame Republicans for paving the way for the ICE surge.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Reflects a notable partisan disagreement about immigration enforcement and social service policy with some institutional implications, but lacks evidence of direct democratic institutional erosion or unprecedented action.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-17T12:08:29.995Z"
+    },
+    {
+      "id": "9cd7e9b8c2b0",
+      "title": "Australia won't repatriate 34 women and children from Syria",
+      "url": "https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria",
+      "source": "NPR Politics",
+      "published": "2026-02-17T07:07:39.000Z",
+      "description": "The Australian government will not repatriate from Syria a group of 34 women and children with alleged ties to the Islamic State group, Prime Minister Anthony Albanese said Tuesday.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Australian foreign policy regarding detainees in Syria and has no direct relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:29.972Z"
+    },
+    {
+      "id": "5df18980492e",
+      "title": "Kristi Noem's use of Coast Guard resources for deportations raises tension in the military branch",
+      "url": "https://www.nbcnews.com/politics/immigration/noems-use-coast-guard-resources-strains-relationship-military-branch-s-rcna258904",
+      "source": "NBC News",
+      "published": "2026-02-17T10:00:00.000Z",
+      "description": "WASHINGTON — Homeland Security Secretary Kristi Noem’s relationship with U.S.",
+      "keywords": [
+        "deportation"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about potential misuse of military resources for political purposes, but lacks evidence of systematic institutional erosion or unprecedented action at this stage.",
+      "categories": [
+        "civil_service_independence",
+        "political_retribution",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-02-17T12:08:31.021Z"
+    },
+    {
+      "id": "5783035c11be",
+      "title": " Texas Republican Paxton steps up his Senate bid against GOP Sen. Cornyn ahead of early voting",
+      "url": "https://abcnews.go.com/Politics/wireStory/texas-republican-paxton-steps-senate-bid-gop-sen-130212828",
+      "source": "ABC News",
+      "published": "2026-02-17T04:37:33.000Z",
+      "description": "Texas Attorney General Ken Paxton is stepping up his race for the U.S. Senate with early voting about to begin for the March 3 GOP primary",
+      "keywords": [
+        "voting",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a primary election campaign announcement with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:30.931Z"
+    },
+    {
+      "id": "db72d5d679b3",
+      "title": "\"The subpoenas are coming,\" bipartisan firm warns corporate America",
+      "url": "https://www.axios.com/2026/02/17/subpoenas-democrats-midterms-corporate-america",
+      "source": "Axios",
+      "published": "2026-02-17T11:23:24.000Z",
+      "description": "Matthew Miller and Tucker Eskew — veterans of high-profile campaigns, now partners at Vianovo, a bipartisan management and communications firm — write in a note to clients Tuesday that a \"tsunami of Congressional oversight\" is headed straight for corporate America if, as is likely based on history, Democrats win the House in November's midterms.\n\n\"It's going to be so much worse than they expect,\" Miller tells Axios.\n\nWhy it matters: Companies \"that prepare in advance stand a much better chance o",
+      "keywords": [
+        "midterm",
+        "congressional oversight",
+        "subpoena",
+        "miller",
+        "white house",
+        "trump",
+        "crypto",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "This is a predictive commentary on potential future congressional oversight rather than reporting on an actual institutional action or policy change affecting checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-17T12:08:31.007Z"
+    },
+    {
+      "id": "4884373eb3ca",
+      "title": "In photos: Jesse Jackson's life, activism and politics",
+      "url": "https://www.axios.com/2026/02/17/jesse-jackson-civil-rights-activism-photos",
+      "source": "Axios",
+      "published": "2026-02-17T10:46:49.000Z",
+      "description": "The Rev. Jesse Jackson died Tuesday after a career in activism and politics during a national transformation in civil rights and inequality, where he worked alongside Rev. Martin Luther King Jr. and made a historic presidential run.\nThrough the lens: Here's a look at some of Jackson's most memorable moments, from rallying Black residents devastated by riots in Los Angeles to meeting Nelson Mandela after being released from prison.\n \nMahalia Jackson, left, sings \"We Shall Overcome,\" with civil ri",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a biographical obituary/photo essay commemorating a historical figure's life and activism, containing no analysis of current institutional threats or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:32.785Z"
+    },
+    {
+      "id": "e22fce2bd4d9",
+      "title": "Civil rights icon Jesse Jackson dies at 84",
+      "url": "https://www.axios.com/2026/02/17/jesse-jackson-dies-civil-rights-leader",
+      "source": "Axios",
+      "published": "2026-02-17T10:29:32.000Z",
+      "description": "The Rev. Jesse Jackson, a civil rights icon who spent his career fighting against racial inequality and injustice, and who made two historic runs for the presidency, died Tuesday, his family said in a statement, multiple outlets reported. He was 84.\nThe big picture: Jackson leaves behind an expansive legacy, starting with his time alongside Rev. Martin Luther King Jr. to founding Operation Rainbow PUSH on the South Side of Chicago.\n \nJesse Jackson (left) with Rev. Martin Luther King Jr. in 1966.",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is an obituary of a historical civil rights figure with no direct bearing on current democratic institutions, checks and balances, or governance systems.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:30.972Z"
+    },
+    {
+      "id": "7b8b06fd143f",
+      "title": "How Trump saved TikTok: Backstory of a 2-year campaign",
+      "url": "https://www.axios.com/2026/02/17/trump-tiktok-ban-charlie-kirk",
+      "source": "Axios",
+      "published": "2026-02-17T10:13:36.000Z",
+      "description": "President Trump had just won reelection and was basking in the parade of congratulatory pilgrimages to Mar-a-Lago. On this day in November 2024, an old friend and a first-time visitor were meeting privately with Trump. They wanted something, and they brought something.\n\nCharlie Kirk — a beloved Trump confidant who had just led a smashingly successful turnout drive among young voters — was shepherding TikTok CEO Shou Zi Chew. A law banning the Chinese-owned TikTok in the U.S. was scheduled to kic",
+      "keywords": [
+        "election",
+        "voter",
+        "miller",
+        "white house",
+        "executive order",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "The article documents a potential executive intervention in enforcement of a law passed by Congress, raising questions about presidential power and judicial independence, but lacks evidence of systematic democratic erosion.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-17T12:08:33.967Z"
+    },
+    {
+      "id": "a77fb825041c",
+      "title": "The AI trade is swallowing the market",
+      "url": "https://www.axios.com/2026/02/17/wall-street-ai-bet-risk",
+      "source": "Axios",
+      "published": "2026-02-17T10:00:05.000Z",
+      "description": "AI is concentrating stocks, bonds, private credit — and even the broader economy — around a single bet.\nWhy it matters: Tech companies are projected to issue over $1 trillion in debt to fund their AI goals this year. Yet there's little evidence the technology can be monetized at a scale that justifies the bet.\n\nState of play: Hyperscalers — the AI data-center giants — could spend up to $700 billion from their balance sheets on AI this year, while issuing eye-popping debt to access even more capi",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article addresses economic market concentration and corporate investment trends, which do not directly engage with the 12 tracked categories of democratic checks and balances, institutional independence, or democratic governance.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:33.779Z"
+    },
+    {
+      "id": "2e7aa19c4c0a",
+      "title": "The narrow slice of data that worries biosecurity experts",
+      "url": "https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity",
+      "source": "Axios",
+      "published": "2026-02-17T09:50:05.000Z",
+      "description": "Researchers from Johns Hopkins, Oxford, Stanford, Columbia and NYU are calling for guardrails on certain infectious disease datasets that could enable AI to design deadly viruses.\nWhy it matters: Once high-risk biological data hits the open web, it can't be recalled — and regulation won't matter if the knowledge itself is already widely distributed.\n\nDriving the news: An international group of more than 100 researchers has endorsed a framework to govern certain biological data the same way we ha",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns scientific data governance and biosecurity policy, which falls outside the 12 tracked categories of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:33.805Z"
+    },
+    {
+      "id": "903c28370e81",
+      "title": "US meets Iran in search of historic deal",
+      "url": "https://thehill.com/newsletters/morning-report/5741136-us-meets-iran-in-search-of-historic-deal/",
+      "source": "The Hill",
+      "published": "2026-02-17T11:41:37.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ Jesse Jackson dies at 84 ▪ Next round of Iran nuclear talks ▪ FBI won’t share evidence in Pretti investigation ▪ AOC stumbles on foreign policy U.S. and Iranian officials are set to meet for a second round of talks on Iran’s…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy news coverage with no direct bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:33.789Z"
+    },
+    {
+      "id": "4c5745d05180",
+      "title": "On voter ID and ICE, do the parties want the policy win or the campaign issue?",
+      "url": "https://thehill.com/homenews/campaign/5740784-immigration-election-reform-compromise/",
+      "source": "The Hill",
+      "published": "2026-02-17T11:00:00.000Z",
+      "description": "Republicans want to identify voters. Democrats want to identify Immigration and Customs Enforcement (ICE) officers. Can they both get what they say they want? That’s the question before the Senate as dual-track negotiations continue over funding the Department of Homeland Security and a House-passed bill mandating changes to state election laws.  The two have become…",
+      "keywords": [
+        "election",
+        "voter",
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The article discusses ongoing legislative negotiations on substantive policy issues affecting election infrastructure and law enforcement oversight, representing notable but not yet resolved institutional tensions.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-17T12:08:33.836Z"
+    },
+    {
+      "id": "67f9c20cbfab",
+      "title": "DHS shutdown has no clear off-ramp: 5 takeaways",
+      "url": "https://thehill.com/homenews/senate/5740751-department-homeland-security-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-17T11:00:00.000Z",
+      "description": "There’s no end in sight for the Department of Homeland Security (DHS) shutdown as both sides point fingers while seemingly moving no closer to a resolution. The Senate left town on Thursday after Democrats decided against supporting a stopgap spending bill over concerns that talks about the full-year funding measure haven’t advanced far enough. They…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A DHS shutdown reflects congressional dysfunction and impacts federal programs, but without details on institutional erosion or democratic checks being deliberately circumvented, it remains a notable but not urgent governance failure.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-17T12:08:35.114Z"
+    },
+    {
+      "id": "6cde6f1135c2",
+      "title": "Democratic candidates rush to define themselves ahead of primary season",
+      "url": "https://thehill.com/homenews/campaign/5740771-2028-democratic-primary-candidates/",
+      "source": "The Hill",
+      "published": "2026-02-17T11:00:00.000Z",
+      "description": "The 2028 Democratic primary may be a year off, but many of the would-be candidates have already begun a soft launch with voters.  Potential candidates such as Govs. Gavin Newsom of California and Josh Shapiro of Pennsylvania are turning to newly penned books and late-night appearances. Kamala Harris, the former vice president-turned-2024 Democratic nominee, conducted a…",
+      "keywords": [
+        "voter",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about candidate positioning and campaign activities with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:34.954Z"
+    },
+    {
+      "id": "47aaea63113e",
+      "title": "Civil rights leader Jesse Jackson dies at age 84",
+      "url": "https://thehill.com/homenews/campaign/5604376-jesse-jackson-civil-rights-leader-dies/",
+      "source": "The Hill",
+      "published": "2026-02-17T10:22:11.000Z",
+      "description": "Celebrated civil rights leader the Rev. Jesse Jackson died early Tuesday, his family said in a statement, after battling the neurodegenerative disorder Progressive Supranuclear Palsy (PSP). He was 84 years old.   “Our father was a servant leader — not only to our family, but to the oppressed, the voiceless, and the overlooked around the world,” the…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is an obituary of a historical civil rights figure with no direct connection to current democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-02-17T12:08:34.988Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-17T06:17:57.336Z"
+  "lastFetch": "2026-02-17T12:08:35.114Z"
 }
