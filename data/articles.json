@@ -16071,8 +16071,410 @@
       "reason": "This is an obituary of a historical civil rights figure with no direct connection to current democratic institutions, checks and balances, or governance processes.",
       "categories": [],
       "scoredAt": "2026-02-17T12:08:34.988Z"
+    },
+    {
+      "id": "b5ac254953b1",
+      "title": "Top Trump administration immigration spokesperson is leaving",
+      "url": "https://www.npr.org/2026/02/17/g-s1-110410/homeland-security-department-mclaughlin-departure",
+      "source": "NPR Politics",
+      "published": "2026-02-17T17:55:22.000Z",
+      "description": "Tricia McLaughlin has become the public face defending the Trump administration's mass deportation policy and immigration tactics over the past year.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A personnel departure is routine news with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:46.285Z"
+    },
+    {
+      "id": "ec43ea044e49",
+      "title": "Citing Orwell's '1984,' judge orders Trump administration to restore slavery exhibit it removed in Philadelphia",
+      "url": "https://www.pbs.org/newshour/nation/citing-orwells-1984-judge-orders-trump-administration-to-restore-slavery-exhibit-it-removed-in-philadelphia",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T15:47:26.000Z",
+      "description": "A federal judge has ordered an exhibit about nine people enslaved by George Washington to be restored at his former home in Philadelphia after President Donald Trump's administration took it down last month.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A judicial ruling affirming institutional independence against executive removal of historical content is notable but represents normal checks and balances functioning rather than a critical democratic erosion or unprecedented action.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-17T18:15:46.433Z"
+    },
+    {
+      "id": "d203f7307bf1",
+      "title": "Trump lashes out at Maryland governor's over Potomac River sewage spill response",
+      "url": "https://www.pbs.org/newshour/politics/trump-lashes-out-at-maryland-governors-over-potomac-river-sewage-spill-response",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T13:04:25.000Z",
+      "description": "President Donald Trump took aim at Maryland Gov. Wes Moore even though a District of Columbia-based water authority and the federal government have jurisdiction over the busted pipe.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Political criticism of a governor's response to a sewage infrastructure issue does not substantively impact democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:46.302Z"
+    },
+    {
+      "id": "6164e89b1118",
+      "title": "Negotiators for US and Iran Hold Key Nuclear Talks",
+      "url": "https://www.today.com/video/negotiators-for-us-and-iran-hold-key-nuclear-talks-257784389695",
+      "source": "NBC News",
+      "published": "2026-02-17T12:26:38.000Z",
+      "description": "Diplomatic talks between the United States and Iran are getting underway in Geneva led by President Donald Trump’s envoy and his son-in-law, Jared Kushner, for a new round of nuclear talks. It comes as the president is making new threat about what could happen if a deal is not reached. NBC’s Keir Simmons reports for TODAY.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article covers routine foreign policy diplomatic negotiations with no direct bearing on domestic democratic institutions, checks and balances, or constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:47.399Z"
+    },
+    {
+      "id": "1b169af2d455",
+      "title": "U.S. and Iran tout progress in nuclear talks as supreme leader warns Trump over military buildup",
+      "url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
+      "source": "NBC News",
+      "published": "2026-02-17T07:39:44.000Z",
+      "description": "The United States and Iran have reached an understanding on the “guiding principles” in nuclear talks, Tehran’s foreign minister said Tuesday, though he cautioned that work still needs to be done to reach an agreement and head off the threat of an American military attack.“I believe we made good progress,” said Abbas Araghchi, the head of the Iranian delegation in Geneva.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy news about international nuclear negotiations that does not directly implicate U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:47.455Z"
+    },
+    {
+      "id": "49f782e3aab1",
+      "title": "Tricia McLaughlin, top Homeland Security spokeswoman, leaving her post",
+      "url": "https://www.cbsnews.com/news/tricia-mclaughlin-leaving-dhs-homeland-security/",
+      "source": "CBS News",
+      "published": "2026-02-17T18:07:21.000Z",
+      "description": "Tricia McLaughlin, the Department of Homeland Security's top spokeswoman, is leaving her post next week, two U.S. officials familiar with her plans told CBS News.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A personnel departure at DHS communications is routine staffing change without evidence of institutional impact on democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-17T18:15:47.316Z"
+    },
+    {
+      "id": "e42a372498f7",
+      "title": "Jesse Jackson remembered as \"a role model for a generation\"",
+      "url": "https://www.cbsnews.com/news/jesse-jackson-dead-tributes-remembrances/",
+      "source": "CBS News",
+      "published": "2026-02-17T18:05:00.000Z",
+      "description": "Martin Luther King Jr.'s daughter Bernice King shared a photo on social media of Jackson and King and wrote, \"Both ancestors now...\"",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is an obituary/commemorative piece about Jesse Jackson's legacy with no direct relation to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:47.417Z"
+    },
+    {
+      "id": "fc116388ec4f",
+      "title": "Iran calls talks with U.S. \"more constructive\" as Trump's threat looms",
+      "url": "https://www.cbsnews.com/news/us-iran-talks-geneva-trump-military-threat/",
+      "source": "CBS News",
+      "published": "2026-02-17T15:03:00.000Z",
+      "description": "Iran and the U.S. traded threats and warnings even as negotiators sat down to discuss a deal to avert a war, but Tehran says \"we now have a clearer path ahead.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "International diplomacy regarding Iran does not directly implicate U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:47.529Z"
+    },
+    {
+      "id": "1ad33054801f",
+      "title": "Trump honors Jesse Jackson as \"force of nature\"",
+      "url": "https://www.cbsnews.com/news/trump-honors-jesse-jackson-as-force-of-nature/",
+      "source": "CBS News",
+      "published": "2026-02-17T14:54:54.000Z",
+      "description": "President Trump and the Rev. Jesse Jackson, who died Tuesday at the age of 84, knew each other for decades.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a tribute piece about a deceased civil rights leader with no bearing on democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:48.423Z"
+    },
+    {
+      "id": "e1b23289717a",
+      "title": "Democrats make counteroffer on ICE reforms as DHS shutdown continues",
+      "url": "https://www.cbsnews.com/news/government-shutdown-dhs-democrats-counteroffer-republicans/",
+      "source": "CBS News",
+      "published": "2026-02-17T14:44:08.000Z",
+      "description": "Democrats made their counteroffer on overhauling immigration enforcement on Monday, the latest step in talks to fund the Department of Homeland Security.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine legislative negotiation over agency funding and immigration enforcement policy represents normal democratic process without evidence of institutional erosion or unprecedented action.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-17T18:15:48.584Z"
+    },
+    {
+      "id": "2f6b29604a6c",
+      "title": "U.S. and Iran say progress made in Geneva nuclear talks",
+      "url": "https://www.axios.com/2026/02/17/trump-iran-nuclear-deal-talks-geneva-progress",
+      "source": "Axios",
+      "published": "2026-02-17T16:36:02.000Z",
+      "description": "The U.S.-Iran nuclear talks in Geneva on Tuesday \"made progress,\" but \"there are still a lot of details to discuss,\" a U.S. official told Axios. \nThe latest: After negotiations with President Trump's envoys Jared Kushner and Steve Witkoff, the Iranians offered to come back in the next two weeks with detailed proposals \"to address some of the open gaps in our positions,\" the official said.\n\nCatch up quick: Earlier Tuesday, Iran's foreign minister Abbas Araghchi claimed that the two sides had agre",
+      "keywords": [
+        "USAID",
+        "trump",
+        "USAID"
+      ],
+      "significance": 1,
+      "reason": "This article covers routine international diplomacy negotiations with no direct bearing on U.S. domestic democratic institutions, checks and balances, or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:48.423Z"
+    },
+    {
+      "id": "4456db37014e",
+      "title": "For Black History Month, Trump’s racism again revealed",
+      "url": "https://thehill.com/opinion/white-house/5740877-trump-obamas-racist-video/",
+      "source": "The Hill",
+      "published": "2026-02-17T17:30:00.000Z",
+      "description": "President Trump has been accused of racism for posting an AI-generated video of former President Obama and his wife as apes, as well as for denying Black achievements, blocking Black advancement, and whitewashing the racist atrocities and systemic discrimination inflicted on Black Americans for over 400 years.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the content addresses serious concerns about rhetoric and racial discrimination, this is primarily opinion/commentary about statements rather than reporting on institutional actions, policy changes, or formal checks and balances mechanisms.",
+      "categories": [
+        "press freedom",
+        "civil rights"
+      ],
+      "scoredAt": "2026-02-17T18:15:48.746Z"
+    },
+    {
+      "id": "4f1634dbe8a4",
+      "title": "Democrats, Republicans strike deal on North Carolina voter rolls",
+      "url": "https://thehill.com/homenews/campaign/5741712-democrats-republicans-north-carolina-voter-roll-settlement/",
+      "source": "The Hill",
+      "published": "2026-02-17T17:10:40.000Z",
+      "description": "Democrats and Republicans have agreed to allow more than 73,000 voters in North Carolina whose registration is incomplete to remain on the state’s voter roll for upcoming elections, according to a settlement. The agreement, signed Monday by the Republican National Committee (RNC) and the Democratic National Committee (DNC), still needs final approval from a federal…",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "A bipartisan settlement on voter roll management is notable for election infrastructure but represents routine procedural resolution rather than systemic institutional change.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-17T18:15:48.753Z"
+    },
+    {
+      "id": "4c502e2533dd",
+      "title": "Ossoff knocks Trump as ‘spiritually broken president’",
+      "url": "https://thehill.com/homenews/senate/5741548-ossoff-calls-trump-spiritually-broken/",
+      "source": "The Hill",
+      "published": "2026-02-17T17:09:34.000Z",
+      "description": "Sen. Jon Ossoff (D-Ga.) ripped into President Trump and his allies Sunday, accusing the commander in chief of being a “spiritually broken president”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary and criticism from a senator with no institutional action, policy change, or documented impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:49.630Z"
+    },
+    {
+      "id": "dcd1f70696ca",
+      "title": "Live updates: DHS fight drags on as Democrats make new offer; Tricia McLaughlin to step down",
+      "url": "https://thehill.com/homenews/administration/5740907-live-updates-trump-dhs-iran/",
+      "source": "The Hill",
+      "published": "2026-02-17T17:04:08.000Z",
+      "description": "Democrats have made a new offer to the White House in negotiations to reopen the Department of Homeland Security, which shut down on Saturday over a fight centered on Immigration and Customs Enforcement (ICE). Democrats initially sent a 10-point plan featuring their wish list on Feb. 4, headlined by calls to tighten warrant requirements, unmask…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine budget negotiation with policy disagreements over immigration enforcement procedures, notable but lacking unprecedented institutional action or democratic erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-17T18:15:50.221Z"
+    },
+    {
+      "id": "4959e23a21ee",
+      "title": "Supreme Court unveils tool to help justices identify conflicts of interest",
+      "url": "https://thehill.com/regulation/court-battles/5741673-supreme-court-unveils-tool-to-help-justices-identify-conflicts-of-interest/",
+      "source": "The Hill",
+      "published": "2026-02-17T16:50:57.000Z",
+      "description": "The Supreme Court announced a new software on Tuesday to help the justices identify when they should recuse from a case, the court’s latest effort to respond to mounting ethics scrutiny. Updated court rules will require lawyers to provide the stock ticker symbols of all companies involved in their case to aid in the new checks. The changes take effect March 16.  “Most of the changes are designed to support operation of newly…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "A procedural ethics tool represents a notable institutional response to transparency concerns, but lacks the enforcement mechanism or demonstrated impact to constitute significant democratic reform.",
+      "categories": [
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-17T18:15:50.432Z"
+    },
+    {
+      "id": "fc7d7d177e92",
+      "title": "DHS spokesperson Tricia McLaughlin exiting Trump administration",
+      "url": "https://thehill.com/homenews/administration/5741686-tricia-mclaughlin-leaving-dhs/",
+      "source": "The Hill",
+      "published": "2026-02-17T16:42:57.000Z",
+      "description": "Tricia McLaughlin, a top spokesperson and assistant secretary for public affairs at the Department of Homeland Security (DHS), plans to leave her role. McLaughlin, an ardent defender of the Trump administration’s immigration policies, frequently appeared on TV to highlight DHS work and defend its most controversial actions.  A source familiar told The Hill that McLaughlin…",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A personnel departure of a spokesperson, while reflecting broader administration dynamics, does not constitute a direct threat to or action affecting institutional checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-17T18:15:49.717Z"
+    },
+    {
+      "id": "00b8329bc88b",
+      "title": "Trump presses DC-area officials on Potomac spill: ‘I am awaiting your call’",
+      "url": "https://thehill.com/policy/energy-environment/5741692-trump-potomac-sewage-spill-fix/",
+      "source": "The Hill",
+      "published": "2026-02-17T16:41:46.000Z",
+      "description": "President Trump pressured Washington-area officials to get to work on fixing the Potomac sewage spill, arguing the federal government would be able to assist in the process. “Maryland, Virginia, and Washington, D.C., who are responsible for the massive sewage spill in the Potomac River, must get to work, IMMEDIATELY,” Trump wrote in a Truth Social…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news about a president commenting on an environmental/infrastructure issue with no apparent connection to democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:49.817Z"
+    },
+    {
+      "id": "0ebdf4564dc8",
+      "title": "Trump’s immigration enforcement tactics are backfiring on Republicans",
+      "url": "https://thehill.com/opinion/immigration/5740216-trump-immigration-policy-republican-break/",
+      "source": "The Hill",
+      "published": "2026-02-17T16:30:00.000Z",
+      "description": "A real break from Trump’s policies will only come with serious consideration and endorsement of proposals that deal with the estimated 13 million undocumented immigrants already in the U.S.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is opinion/commentary analyzing political consequences of immigration policy rather than reporting on institutional actions or democratic mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-17T18:15:51.560Z"
+    },
+    {
+      "id": "da3bda7d25af",
+      "title": "Jill Biden’s ex-husband pleads not guilty in wife’s death",
+      "url": "https://thehill.com/regulation/court-battles/5741559-jill-biden-ex-husband-pleads-not-guilty-murder-charges/",
+      "source": "The Hill",
+      "published": "2026-02-17T16:29:08.000Z",
+      "description": "Former first lady Jill Biden’s ex-husband pleaded not guilty Tuesday to a murder charge in the death of his wife. William Stevenson, 77, was hit with a single count of first degree murder earlier this month. Police officers said they responded to a domestic dispute at a Delaware residence the night of Dec. 28, and…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine criminal case involving a private citizen with no connection to government institutions, democratic processes, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:51.655Z"
+    },
+    {
+      "id": "955825c0b6c5",
+      "title": "Trump administration launches new push to improve military meals",
+      "url": "https://thehill.com/policy/healthcare/5741493-trump-administration-improves-military-food/",
+      "source": "The Hill",
+      "published": "2026-02-17T15:46:45.000Z",
+      "description": "The Trump administration is reportedly launching a new push to improve the quality of food at U.S. military bases after a study found that meals contained poor nutrients and harmful contaminants.     The study, commissioned by Moms Across America in partnership with the Children’s Health Defense Military Chapter and Centner Academy, detected pesticides in 100…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article concerns military food quality improvement, which is a routine administrative matter unrelated to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:51.215Z"
+    },
+    {
+      "id": "b272fd689057",
+      "title": "Democrats send Trump DHS funding counteroffer as agency shutdown grinds on",
+      "url": "https://www.cnbc.com/2026/02/17/dhs-shutdown-democrats-trump-counteroffer-funding-homeland.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-17T16:22:44.000Z",
+      "description": "Congressional Democrats and the White House remain deadlocked in negotiations to reopen the Department of Homeland Security, which shuttered over the weekend.",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A routine budgetary negotiation typical of divided government that tests congressional oversight but does not represent institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-17T18:15:51.430Z"
+    },
+    {
+      "id": "ef1996834db2",
+      "title": "Trump Uses Jesse Jackson’s Death to Attack Democrats",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-responds-jesse-jackson-death-attacking-democrats-1235517741/",
+      "source": "Rolling Stone",
+      "published": "2026-02-17T15:26:18.000Z",
+      "description": "The president not surprisingly tried to make the death of the civil rights icon all about himself",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on political rhetoric rather than an institutional action or policy change affecting democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-17T18:15:51.378Z"
+    },
+    {
+      "id": "d779a754fb06",
+      "title": "Jesse Jackson, Civil Rights Activist and Religious Leader, Dead at 84",
+      "url": "https://www.rollingstone.com/politics/politics-news/jesse-jackson-civil-rights-activist-dead-obituary-1235477726/",
+      "source": "Rolling Stone",
+      "published": "2026-02-17T12:20:54.000Z",
+      "description": "“Our father was a servant leader — not only to our family, but to the oppressed, the voiceless, and the overlooked around the world,” his family said in a statement",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is an obituary of a historical civil rights figure with no direct bearing on current institutional checks and balances, democratic processes, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-17T18:15:52.627Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-17T12:08:35.114Z"
+  "lastFetch": "2026-02-17T18:15:52.627Z"
 }
