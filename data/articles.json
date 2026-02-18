@@ -17432,8 +17432,115 @@
         "press freedom"
       ],
       "scoredAt": "2026-02-18T00:12:05.115Z"
+    },
+    {
+      "id": "cafe4d9864f1",
+      "title": "Judge blocks deportation of Palestinian activist who led protests at Columbia",
+      "url": "https://www.cbsnews.com/news/mohsen-mahdawi-deportation-blocked-palestinian-activist-columbia/",
+      "source": "CBS News",
+      "published": "2026-02-18T03:25:18.000Z",
+      "description": "An immigration judge has dismissed the Trump administration's deportation case against Mohsen Mahdawi, a Palestinian graduate student and Columbia protest leader.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A judicial decision blocking a specific deportation case demonstrates judicial independence functioning as intended, but represents routine immigration litigation rather than a systemic institutional challenge.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T06:20:23.411Z"
+    },
+    {
+      "id": "66fcfe4eb49d",
+      "title": " White House names new pick for Nevada top federal prosecutor ",
+      "url": "https://abcnews.com/Politics/wireStory/white-house-names-new-pick-nevada-top-federal-130249135",
+      "source": "ABC News",
+      "published": "2026-02-18T00:09:07.000Z",
+      "description": "Last week the White House announced the nomination of a Las Vegas attorney for U.S. Attorney of the District of Nevada",
+      "keywords": [
+        "prosecutor",
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "Routine nomination announcement of a federal prosecutor with no indication of political irregularities or threats to institutional independence.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-18T06:20:23.341Z"
+    },
+    {
+      "id": "6264489bace1",
+      "title": "Colbert slams CBS statement, accuses Paramount of not standing up to \"bullies\"",
+      "url": "https://www.axios.com/2026/02/18/trump-equal-time-colbert-youtube-cbs",
+      "source": "Axios",
+      "published": "2026-02-18T05:55:19.000Z",
+      "description": "Stephen Colbert criticized CBS and parent company Paramount on Tuesday night over the posting on YouTube only of his interview with Texas Democrat James Talarico, who's running for a U.S. Senate seat.\nThe big picture: \"The Late Show With Stephen Colbert\" interview segment didn't air on CBS because the comedian said the network barred him from broadcasting it  due to concerns about a recent Trump administration directive to give equal time to candidates in an election.\n\nColbert said on his Tuesda",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is entertainment/opinion commentary about a late-night host's dispute with his network over interview airing decisions, not a substantive report on institutional checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-18T06:20:23.773Z"
+    },
+    {
+      "id": "928aad2a1f33",
+      "title": "The long game: Winter Olympians redefining their prime",
+      "url": "https://www.axios.com/2026/02/18/older-winter-olympians-redefining-their-prime",
+      "source": "Axios",
+      "published": "2026-02-18T02:25:04.000Z",
+      "description": "For most of us, 40 is the new 30. For elite athletes at this year's Winter Olympics, 40 is something else entirely: rare air.\nWhy it matter: The Games aren't just a showcase of peak performance anymore. They're a test of longevity. How long can greatness last?\n\nFrom the first-ever mother-son duo to compete in the Olympics to athletes who've come out of retirement to medal in Milan, this year's field is redefining what an Olympic career can look like.\n\nThey still get retirement questions.\n\nThey'r",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article about aging Olympic athletes has no relevance to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-18T06:20:25.246Z"
+    },
+    {
+      "id": "c89161cca3b3",
+      "title": "Bayer reaches $7.25B settlement over Monsanto's Roundup accusations",
+      "url": "https://www.axios.com/2026/02/17/bayer-roundup-settlement-monsanto",
+      "source": "Axios",
+      "published": "2026-02-17T22:03:00.000Z",
+      "description": "Bayer has agreed to a $7.25 billion deal to settle tens of thousands of lawsuits that its weedkiller Roundup caused cancer.\nThe big picture: Bayer — which acquired Roundup when it bought Monsanto in 2018 — announced Tuesday that it'll compensate people who allegedly suffered non-Hodgkin lymphoma due to exposure to Roundup.\n\nThe German drug giant and crop science company had originally reached a $10 billion settlement in 2020 that covered short-term claims up to four years — but that deal was lat",
+      "keywords": [
+        "ruling"
+      ],
+      "significance": 1,
+      "reason": "This is a routine corporate legal settlement with no relevance to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-18T06:20:25.388Z"
+    },
+    {
+      "id": "85e0691135fb",
+      "title": "Colbert defies CBS over interview with Texas Senate candidate James Talarico",
+      "url": "https://www.axios.com/2026/02/17/colbert-cbs-talarico-interview-fcc-trump-carr",
+      "source": "Axios",
+      "published": "2026-02-17T20:06:18.000Z",
+      "description": "Late-night host Stephen Colbert said Monday evening that CBS barred him from airing an interview with James Talarico, a Texas Democrat running for Senate, citing a recent federal directive.\nWhy it matters: CBS has faced mounting scrutiny in recent months that its news arm and parent company, Paramount Skydance, are succumbing to pressure from President Trump's administration.\n\nDriving the news: Colbert said on air that CBS' lawyers told his show that it could not have Talarico, a Texas state rep",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Represents significant potential erosion of press freedom through apparent executive pressure on media corporations to suppress political content, affecting institutional independence from political control.",
+      "categories": [
+        "press freedom",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-18T06:20:25.772Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-18T00:12:05.426Z"
+  "lastFetch": "2026-02-18T06:20:25.772Z"
 }
