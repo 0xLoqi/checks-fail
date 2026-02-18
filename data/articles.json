@@ -17539,8 +17539,211 @@
         "political retribution"
       ],
       "scoredAt": "2026-02-18T06:20:25.772Z"
+    },
+    {
+      "id": "7f8698182a13",
+      "title": "Amid Mass ICE Arrests, Trump Pardon Recipient Juan Orlando Hernández Given Special Treatment",
+      "url": "https://www.propublica.org/article/trump-ice-pardon-juan-orlando-hernandez-honduras-prison-special-treatment",
+      "source": "ProPublica",
+      "published": "2026-02-18T10:30:00.000Z",
+      "description": "The post Amid Mass ICE Arrests, Trump Pardon Recipient Juan Orlando Hernández Given Special Treatment appeared first on ProPublica.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "pardon"
+      ],
+      "significance": 6,
+      "reason": "Raises concerns about potential preferential treatment and politicization of immigration enforcement based on presidential connections, but lacks detail on systemic institutional impact.",
+      "categories": [
+        "political retribution",
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-18T12:08:26.121Z"
+    },
+    {
+      "id": "b6313a872612",
+      "title": "The Justice Department is not acting like it used to, criminal defense lawyers note",
+      "url": "https://www.npr.org/2026/02/18/g-s1-110397/justice-department-tracker-abnormal-criminal-charges",
+      "source": "NPR Politics",
+      "published": "2026-02-18T11:00:00.000Z",
+      "description": "Criminal defense lawyers are tracking when the Justice Department appears to rely on irregular charging practices, including aggressive legal theories and possible political retribution.",
+      "keywords": [
+        "ICE",
+        "EPA",
+        "retribution"
+      ],
+      "significance": 6,
+      "reason": "Reporting on observable shifts in DOJ charging practices raises concerns about institutional integrity and potential political influence, but lacks concrete evidence of systemic policy changes or institutional action.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-18T12:08:26.990Z"
+    },
+    {
+      "id": "7f7fcc76f48c",
+      "title": "Trump administration is erasing history and science at national parks, lawsuit argues",
+      "url": "https://www.npr.org/2026/02/18/nx-s1-5718006/trump-national-parks-lawsuit",
+      "source": "NPR Politics",
+      "published": "2026-02-18T07:09:39.000Z",
+      "description": "Conservation and historical organizations sued the Trump administration on Tuesday over National Park Service policies that the groups say erase history and science from America's national parks.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While content curation at federal agencies raises concerns about institutional integrity and potential politicization, this represents a policy dispute being addressed through judicial review rather than a fundamental breakdown of checks and balances.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T12:08:26.913Z"
+    },
+    {
+      "id": "ceeb98d322e7",
+      "title": "Where Christian nationalism is most dominant in U.S. states",
+      "url": "https://www.axios.com/2026/02/18/republicans-christian-nationalism-trump",
+      "source": "Axios",
+      "published": "2026-02-18T10:00:05.000Z",
+      "description": "Data: PRRI; Note: Map shows the share who were classified as \"adherents\" or \"sympathizers\" based on their responses to five questions; Map: Erin Davis/Axios Visuals\nChristian nationalism is now deeply entrenched inside today's Republican Party, according to a sweeping 50-state survey.\nWhy it matters: The once-fringe ideology holds that the U.S. was founded as a Christian nation and should be governed according to strict Christian values, even as the country becomes less religious and more racial",
+      "keywords": [
+        "immigration",
+        "classified",
+        "trump",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Data journalism on ideological trends within a political party is notable for understanding democratic preferences and potential policy directions, but the article itself reports survey findings rather than documenting institutional actions or policy changes that directly threaten checks and balances.",
+      "categories": [
+        "judicial_independence",
+        "civil_rights"
+      ],
+      "scoredAt": "2026-02-18T12:08:28.459Z"
+    },
+    {
+      "id": "5f7ef2e4943c",
+      "title": "Survey: Americans aren't as racially divided as we think",
+      "url": "https://www.axios.com/2026/02/18/americans-interracial-marriage-friendships",
+      "source": "Axios",
+      "published": "2026-02-18T10:00:05.000Z",
+      "description": "Data: Gallup/Brookings Institution's Center for Community Uplift; Chart: Axios Visuals\nMost Americans say race doesn't drive their daily decisions, even as the country feels more divided than ever, a new national survey finds.\nWhy it matters: Politics and social media amplify racial division. But in daily life — at work, in friendships and in families — Americans report far more interracial contact, and far less race-based decision-making, than the national mood suggests.\n\nThe shift is largely g",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a survey about social attitudes toward race that does not address any institutional checks, balances, democratic processes, or governmental accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-18T12:08:28.491Z"
+    },
+    {
+      "id": "fbffcbfb3916",
+      "title": "Trump moves closer to a major war with Iran",
+      "url": "https://www.axios.com/2026/02/18/iran-war-trump-military-strikes-nuclear-talks",
+      "source": "Axios",
+      "published": "2026-02-18T10:00:04.000Z",
+      "description": "The Trump administration is closer to a major war in the Middle East than most Americans realize. It could begin very soon.\nWhy it matters: A U.S. military operation in Iran would likely be a massive, weeks-long campaign that would look more like full-fledged war than last month's pinpoint operation in Venezuela, sources say.\n\nThe sources noted it would likely be a joint U.S.-Israeli campaign that's much broader in scope — and more existential for the regime — than the Israeli-led 12-day war las",
+      "keywords": [
+        "ICE",
+        "DNI",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "While a major military action involves significant executive power deployment that could affect democratic institutions long-term, this article is primarily foreign policy reporting without evidence of checks-and-balances erosion or institutional threats.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-18T12:08:28.719Z"
+    },
+    {
+      "id": "a2a465f72098",
+      "title": "Exclusive: Rubio's secret squeeze on Raul Castro's Cuba",
+      "url": "https://www.axios.com/2026/02/18/marco-rubio-cuba-secret-talks",
+      "source": "Axios",
+      "published": "2026-02-18T09:55:04.000Z",
+      "description": "Secretary of State Marco Rubio has been holding secret talks with the grandson and caretaker of Cuba's aging de facto dictator, Raul Castro, as the U.S. puts unprecedented pressure on Havana's regime, three sources tell Axios.\nWhy it matters: The talks between Rubio and Raul Guillermo Rodriguez Castro are bypassing official Cuban government channels. They show that the Trump administration sees the 94-year-old revolutionary as the communist island's true decision-maker.\n\n\"I wouldn't call these '",
+      "keywords": [
+        "election",
+        "ICE",
+        "intelligence",
+        "trump",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article concerns foreign policy diplomacy and executive branch negotiations, which do not directly implicate domestic democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-18T12:08:28.163Z"
+    },
+    {
+      "id": "79873403ea94",
+      "title": "Democrats plot protests for Trump’s State of the Union address",
+      "url": "https://thehill.com/homenews/house/5742751-democrats-protests-trump-state-of-the-union/",
+      "source": "The Hill",
+      "published": "2026-02-18T11:00:00.000Z",
+      "description": "House Democrats are plotting a range of moves to broadcast their defiance of President Trump during his State of the Union address to Congress next week. Trump’s speech marks a significant flashpoint as it comes amid a Department of Homeland Security (DHS) shutdown, with the White House and Democrats locked in an impasse over reforms…",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Routine partisan opposition tactics during a policy dispute lack institutional significance to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T12:08:27.912Z"
+    },
+    {
+      "id": "fb7abee68a48",
+      "title": "Battle over AI regulation hits the airwaves ahead of midterms",
+      "url": "https://thehill.com/policy/technology/5742396-ai-regulation-midterm-ads/",
+      "source": "The Hill",
+      "published": "2026-02-18T11:00:00.000Z",
+      "description": "Millions of dollars are flowing into advertisements seeking to move the needle on AI regulation ahead of the midterm elections amid a broader fight over who gets to determine the rules of the road for the industry. A super PAC backed by several major AI players, which boasts a multimillion-dollar war chest, is flexing its…",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 3,
+      "reason": "This is routine political news about industry lobbying and campaign advertising, which, while reflecting normal democratic participation, does not indicate erosion of or threats to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T12:08:30.079Z"
+    },
+    {
+      "id": "d8957e0bb34e",
+      "title": "Ukraine’s ambassador pushes back on Trump, urges US pressure on Putin",
+      "url": "https://thehill.com/policy/international/5742621-ukraine-ambassador-pushes-back-trump/",
+      "source": "The Hill",
+      "published": "2026-02-18T11:00:00.000Z",
+      "description": "Ukraine’s ambassador to the United States says her country is ready to make a peace deal, pushing back on President Trump’s remarks this week suggesting Kyiv was to blame for stalled negotiations with Russia.  “It has never been Ukraine who has been an impediment to the arrangement and the deal,” Olga Stefanishyna, Ukraine’s envoy to…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary involving diplomatic statements about international negotiations, with no direct bearing on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T12:08:31.687Z"
+    },
+    {
+      "id": "ebe7485b357d",
+      "title": "Hegseth launches culture war against elite universities",
+      "url": "https://thehill.com/policy/defense/5742833-hegseth-targets-universities-culture-war/",
+      "source": "The Hill",
+      "published": "2026-02-18T11:00:00.000Z",
+      "description": "Defense Secretary Pete Hegseth is expanding his culture war into academia, threatening to pull service members’ tuition assistance at potentially dozens of top colleges and universities he views as biased against the armed forces. The move is setting off alarm bells in the military and academic communities, who worry about cutting off a key pipeline…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable executive action with potential institutional implications for civil service independence and federal programs, but lacks the scale or precedent of critical democratic erosion.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T12:08:30.615Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-18T06:20:25.772Z"
+  "lastFetch": "2026-02-18T12:08:31.687Z"
 }
