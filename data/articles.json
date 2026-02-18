@@ -17742,8 +17742,552 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-18T12:08:30.615Z"
+    },
+    {
+      "id": "c3a73e1ee279",
+      "title": "Trump would like the government he leads to pay him billions",
+      "url": "https://www.npr.org/2026/02/18/nx-s1-5702503/trump-government-lawsuits-pay-himself-billions",
+      "source": "NPR Politics",
+      "published": "2026-02-18T17:00:00.000Z",
+      "description": "President Trump is asking the federal government for billions of dollars in damages, putting his own Justice Department on the spot and creating an unprecedented ethical morass.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "This represents a significant institutional conflict where the executive branch seeks to use government resources for personal financial gain, directly testing DOJ independence and creating potential corruption/self-dealing issues.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-18T18:12:51.918Z"
+    },
+    {
+      "id": "680a9246742d",
+      "title": "Mark Zuckerberg faces a jury today. And, the top DHS spokesperson resigns her post",
+      "url": "https://www.npr.org/2026/02/18/g-s1-110537/up-first-newsletter-cbs-anderson-cooper-mark-zuckerberg-iran-nuclear-program-dhs-tricia",
+      "source": "NPR Politics",
+      "published": "2026-02-18T12:42:06.000Z",
+      "description": "Mark Zuckerberg takes the stand today in a trial over whether social media companies are fueling the teen mental health crisis. And, Tricia McLaughlin is leaving the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "The Zuckerberg trial involves product liability and public health concerns unrelated to democratic checks, while a DHS spokesperson resignation is routine personnel turnover without evidence of institutional pressure or independence erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:12:54.494Z"
+    },
+    {
+      "id": "9a7f5ef18d28",
+      "title": "Groups sue Trump's EPA over repeal of rule that supported climate protections",
+      "url": "https://www.pbs.org/newshour/politics/groups-sue-trumps-epa-over-repeal-of-rule-that-supported-climate-protections",
+      "source": "PBS NewsHour",
+      "published": "2026-02-18T17:55:48.000Z",
+      "description": "A coalition of health and environmental groups sued the Environmental Protection Agency on Wednesday, challenging the rescinding of a scientific finding that has been the central basis for U.S. action to regulate greenhouse gas emissions and fight climate change.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable policy dispute with judicial review mechanisms functioning as intended, but lacks the institutional power-checking or democratic process elements that would elevate it to higher significance.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T18:12:52.166Z"
+    },
+    {
+      "id": "ca6ab3f25545",
+      "title": "WATCH LIVE: White House holds news briefing as partial government shutdown drags on",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-news-briefing-as-partial-government-shutdown-drags-on",
+      "source": "PBS NewsHour",
+      "published": "2026-02-18T16:49:22.000Z",
+      "description": "A partial government shutdown began Saturday after congressional Democrats and President Donald Trump's team failed to reach a deal on legislation to fund the Department of Homeland Security through September.",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine reporting on a standard political dispute over government funding, with no new information about institutional breakdown or democratic erosion.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-18T18:13:04.455Z"
+    },
+    {
+      "id": "71fbbc648511",
+      "title": "Melania Trump to donate 2025 inaugural ball gown to the Smithsonian",
+      "url": "https://www.pbs.org/newshour/politics/melania-trump-to-donate-2025-inaugural-ball-gown-to-the-smithsonian",
+      "source": "PBS NewsHour",
+      "published": "2026-02-18T15:32:31.000Z",
+      "description": "The strapless black-and-white gown was designed by her longtime fashion designer and stylist, Herve Pierre.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine cultural/fashion news item with no direct relevance to democratic institutions, governmental oversight, or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:12:51.727Z"
+    },
+    {
+      "id": "e8f709373a5d",
+      "title": "Billionaire Les Wexner is being deposed in the Epstein files probe. Here's what documents show about their relationship",
+      "url": "https://www.pbs.org/newshour/politics/billionaire-les-wexner-is-being-deposed-in-the-epstein-files-probe-heres-what-documents-show-about-their-relationship",
+      "source": "PBS NewsHour",
+      "published": "2026-02-18T15:09:46.000Z",
+      "description": "Wexner's long-time friendship with Jeffrey Epstein will be the subject of a closed-door congressional deposition in Ohio on Wednesday, where the billionaire retail magnate is expected to face questions about new revelations contained in the latest release of Justice Department documents.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine investigative journalism covering a civil deposition related to a concluded criminal case, with no direct bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:05.958Z"
+    },
+    {
+      "id": "610443ee34c2",
+      "title": "At least 12 Democratic lawmakers plan to boycott Trump's State of the Union address ",
+      "url": "https://www.nbcnews.com/politics/congress/democratic-lawmakers-plan-boycott-trumps-state-union-address-rally-rcna259552",
+      "source": "NBC News",
+      "published": "2026-02-18T16:37:42.000Z",
+      "description": "At least a dozen Democratic members of Congress plan to boycott President Donald Trump’s State of the Union address at the Capitol next Tuesday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A congressional boycott is a routine political protest tactic that does not undermine institutional checks and balances or democratic processes.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-18T18:13:05.392Z"
+    },
+    {
+      "id": "d2d1af73c2d7",
+      "title": "Colorado group pursues ballot measure to pave the way for a new congressional map ",
+      "url": "https://www.nbcnews.com/politics/elections/colorado-group-pursues-ballot-measure-new-congressional-map-rcna259553",
+      "source": "NBC News",
+      "published": "2026-02-18T16:18:36.000Z",
+      "description": "A new Colorado group launched an effort Wednesday to place an initiative on the ballot this year to pave the way for a new congressional map that would favor Democrats for the 2028 and 2030 elections",
+      "keywords": [
+        "election",
+        "ballot"
+      ],
+      "significance": 4,
+      "reason": "This represents a routine partisan political effort to influence district boundaries through an established legal mechanism, lacking evidence of institutional erosion or unprecedented democratic harm.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-18T18:13:06.169Z"
+    },
+    {
+      "id": "41d9a9876bcf",
+      "title": "Kristi Noem's use of Coast Guard resources strains her relationship with the military branch",
+      "url": "https://www.nbcnews.com/now/video/kristi-noem-s-use-of-coast-guard-resources-strains-her-relationship-with-the-military-branch-257887301677",
+      "source": "NBC News",
+      "published": "2026-02-18T14:34:50.000Z",
+      "description": "Decisions made by Homeland Security Secretary Kristi Noem have reportedly strained her relationship with U.S. Coast Guard officials throughout her first year leading the department, according to two U.S. officials, a Coast Guard official and a former Coast Guard official. NBC News' Jonathan Allen reports on the controversy.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Institutional strain between political leadership and military branch raises concerns about civil-military relations and potential politicization, but lacks evidence of systematic erosion of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T18:13:07.196Z"
+    },
+    {
+      "id": "e1849103b94f",
+      "title": "Man Arrested After Rushing the US Capitol With Loaded Shotgun",
+      "url": "https://www.today.com/video/teen-arrested-after-rushing-the-us-capitol-with-loaded-shotgun-257875013670",
+      "source": "NBC News",
+      "published": "2026-02-18T12:22:51.000Z",
+      "description": "An 18-year-old man was arrested on Tuesday after he rushed toward the U.S. Capitol wearing tactical gear and carrying a loaded weapon. Police say the teenager, Carter Camacho, backed down when confronted by Capitol police, but they found more ammunition, a Kevlar helmet and a gas mask in his car. NBC’s Ryan Nobles reports for TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 4,
+      "reason": "An individual arrest for Capitol security breach is notable as a security incident but represents routine law enforcement response rather than institutional erosion of checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-18T18:13:07.240Z"
+    },
+    {
+      "id": "1fa1a07c7a6a",
+      "title": "Democratic lawmakers ask watchdogs to probe ex-lobbyists serving in Trump admin.",
+      "url": "https://www.cbsnews.com/news/democrats-ask-watchdogs-probe-lobbyists-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-02-18T18:06:03.000Z",
+      "description": "Four congressional Democrats are asking inspectors general to probe whether ex-lobbyists in the administration broke ethics rules to benefit former clients.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A request for investigation into potential ethics violations is notable oversight activity, but lacks institutional action, findings, or evidence of actual rule-breaking or systemic checks erosion.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-18T18:13:07.348Z"
+    },
+    {
+      "id": "a458efb3144e",
+      "title": "Rev. Jamal Bryant: Jackson is \"my blueprint\" for Black churches in the Trump era",
+      "url": "https://www.axios.com/2026/02/18/jesse-jackson-trump-jamal-bryant",
+      "source": "Axios",
+      "published": "2026-02-18T18:00:05.000Z",
+      "description": "Rev. Jamal Bryant says Black churches must reclaim their historic mantle of leadership — and guide the nation through what he calls a moral and civic crossroads.\nWhy it matters: Bryant, who called Rev. Jesse Jackson his \"superhero\" and \"blueprint,\" is stepping into a prophetic tradition shaped by Jackson and other civil rights giants — many of whom are now gone.\n\nJackson, who died Tuesday and is expected to be honored with a funeral next week, embodied a model of ministry fused with movement-bui",
+      "keywords": [
+        "voting",
+        "ICE",
+        "johnson",
+        "trump",
+        "democracy",
+        "EPA",
+        "medicaid",
+        "food stamps"
+      ],
+      "significance": 2,
+      "reason": "This is primarily commentary on religious leadership and civil rights tradition with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:07.071Z"
+    },
+    {
+      "id": "86b692112771",
+      "title": "Les Wexner's ties to Jeffrey Epstein, explained",
+      "url": "https://www.axios.com/local/columbus/2026/02/18/les-wexner-jeffrey-epstein-ties-testimony",
+      "source": "Axios",
+      "published": "2026-02-18T11:20:06.000Z",
+      "description": "Embattled billionaire Les Wexner is scheduled to testify Wednesday about his association with Jeffrey Epstein as public pressure mounts on the L Brands founder and his many Columbus connections.\nWhy it matters: Wexner permanently shaped Central Ohio. He's Ohio's richest person and an international business titan whose influence extends well beyond our state.\n\nWednesday's deposition to members of Congress puts the 88-year-old in the spotlight after keeping a low public profile in recent years.\n\nL",
+      "keywords": [
+        "department of justice",
+        "FBI",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article covers a private citizen's deposition regarding personal business associations and does not involve government institutions, policy changes, or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:08.396Z"
+    },
+    {
+      "id": "e8946d700c27",
+      "title": "Live updates: White House to brief press as DHS funding talks stall",
+      "url": "https://thehill.com/homenews/administration/5742152-live-updates-trump-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-18T18:01:55.000Z",
+      "description": "White House press secretary Karoline Leavitt will hold a Wednesday afternoon press briefing as the funding fight over the Department of Homeland Security (DHS) on Capitol Hill remains at a standstill The White House on Tuesday indicated that negotiators are “still pretty far apart” after Democrats sent a Monday counterproposal outlining their demands for Immigration…",
+      "keywords": [
+        "immigration",
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on standard legislative negotiations and press briefing announcements with no indication of institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-02-18T18:13:09.346Z"
+    },
+    {
+      "id": "a1b761035882",
+      "title": "Hassett: Fed researchers should be punished for Trump tariff analysis",
+      "url": "https://thehill.com/business/5743717-hassett-federal-reserve-paper-trump-tariffs-criticism/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:57:37.000Z",
+      "description": "President Trump’s top White House economic adviser suggested Thursday that a group of Federal Reserve researchers should be punished for a paper exploring the costs of Trump’s tariffs. In a Thursday interview, National Economic Council Director Kevin Hassett condemned a new paper from Federal Reserve Bank of New York economists, who found that consumers paid…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "A sitting administration official publicly calling for punishment of independent agency researchers for publishing analysis represents significant institutional pressure on federal independence and scientific integrity.",
+      "categories": [
+        "federal programs & agencies",
+        "DOJ independence",
+        "civil service independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-18T18:13:10.326Z"
+    },
+    {
+      "id": "ef7bdc61d5d7",
+      "title": "Restore accountability to the inspector general system",
+      "url": "https://thehill.com/opinion/judiciary/5741856-trump-administration-executive-reforms/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:30:00.000Z",
+      "description": "The Counsel of Inspectors General on Integrity has become increasingly politicized and weaponized, expanding its powers and seeking more authority, while neglecting its original mission of coordinating training and best practices for inspectors general offices.",
+      "keywords": [
+        "ICE",
+        "inspector general"
+      ],
+      "significance": 6,
+      "reason": "Addresses institutional integrity of inspector general oversight system, which is important for checks and balances but represents an organizational/procedural issue rather than immediate democratic erosion.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T18:13:10.070Z"
+    },
+    {
+      "id": "dee4743e26b0",
+      "title": "FBI sued for Homan tapes following alleged bribery",
+      "url": "https://thehill.com/homenews/administration/5743683-fbi-sued-homan-bribe-tape/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:18:51.000Z",
+      "description": "A government watchdog group is suing the FBI to force the release of a tape that reportedly shows border czar Tom Homan alledgedly accepting a $50,000 bribe. MSNOW reported in September that before President Trump won the election, Homan had been approached by an undercover FBI agent following a tip that he was taking kickbacks in…",
+      "keywords": [
+        "election",
+        "FBI",
+        "homan",
+        "border czar",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Involves FBI independence and potential political retribution concerns, but the significance depends heavily on verification of allegations and outcome of the lawsuit.",
+      "categories": [
+        "FBI independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-18T18:13:09.445Z"
+    },
+    {
+      "id": "212890dcfc5a",
+      "title": "Democrats plan counter-programming during Trump’s State of the Union ",
+      "url": "https://thehill.com/homenews/house/5743636-democrats-state-of-the-union-rally/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:13:45.000Z",
+      "description": "Several House and Senate Democrats will skip President Trump’s State of the Union address next week to attend counter-programming events near the U.S. Capitol highlighting the impact of the administration’s policies.  Trump is scheduled to address Congress on Feb. 24, a speech that comes amid an uproar over his immigration policies, fueled in part by…",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Democratic boycott and counter-programming during a State of the Union is routine political protest and opposition messaging, not an institutional action affecting checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:09.737Z"
+    },
+    {
+      "id": "98058d2fe5a0",
+      "title": "TMZ’s Levin: FBI ‘very interested’ in Guthrie ransom and demand letters",
+      "url": "https://thehill.com/homenews/administration/5743509-fbi-tmz-ransom-letters/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:12:52.000Z",
+      "description": "TMZ founder Harvey Levin said the FBI is “very interested” in the ransom and demand letters that his news outlet has received amid the search for Nancy Guthrie, the mother of NBC “Today” show co-host Savannah Guthrie. Levin told Fox News host Sean Hannity on Tuesday night that there had been “a lot of communication”…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 1,
+      "reason": "This is a routine crime news story about an FBI investigation into ransom letters with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:11.350Z"
+    },
+    {
+      "id": "e767880d1621",
+      "title": "Arizona gun store owner says FBI asked him to check records in Nancy Guthrie search",
+      "url": "https://thehill.com/homenews/state-watch/5743644-fbi-searches-gun-shops-nancy-guthrie/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:11:25.000Z",
+      "description": "A Tucson, Ariz., area gun store owner said an FBI agent stopped by his store with a three-page list of names and photographs to ask whether any of the individuals had purchased a firearm within the past year amid the ongoing search for missing 84-year-old Nancy Guthrie. “The way that our system is set up…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 2,
+      "reason": "This describes routine law enforcement investigative procedure (FBI following up on missing person case) with no indication of institutional abuse or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:13.150Z"
+    },
+    {
+      "id": "ae439ef6fe6c",
+      "title": "Jimmy Kimmel to join Pelosi, Jeffries for March DCCC fundraiser",
+      "url": "https://thehill.com/blogs/in-the-know/5743628-jimmy-kimmel-democratic-fundraiser/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:08:45.000Z",
+      "description": "ABC late-night host Jimmy Kimmel will join top Democratic leaders for a fundraising event in California next month as the party builds its warchest for the midterm elections. The comedian is scheduled to join House Minority Leader Hakeem Jeffries (D-N.Y.) and former Speaker Nancy Pelosi (D-Calif.) at the Democratic Congressional Campaign Committee’s (DCCC) fundraising event…",
+      "keywords": [
+        "election",
+        "midterm",
+        "speaker"
+      ],
+      "significance": 1,
+      "reason": "Routine political news about a celebrity fundraising appearance with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:11.335Z"
+    },
+    {
+      "id": "b4e28b3b3e08",
+      "title": "Trump administration sued over renewed oil, gas development push in Alaska reserve",
+      "url": "https://thehill.com/policy/energy-environment/5743617-trump-federal-lawsuits-alaska-drilling/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:06:37.000Z",
+      "description": "The Trump administration is now facing two federal lawsuits over its renewed push to open the National Petroleum Reserve-Alaska for more oil and drilling opportunities.  Separate groups sued the Department of the Interior and sub-agencies on Tuesday, citing concerns for the 23-million-acre reserve, located on federal land within Alaska’s North Slope. As mandated by the…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine environmental litigation over policy disagreement, not a checks and balances issue affecting democratic institutions or governmental accountability structures.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:11.251Z"
+    },
+    {
+      "id": "cde2ddf06be5",
+      "title": "FBI investigating alleged beating during ICE arrest in Minnesota: Report",
+      "url": "https://thehill.com/homenews/administration/5743525-fbi-investigating-alleged-beating-during-ice-arrest-in-minnesota-report/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:05:52.000Z",
+      "description": "Investigators from the FBI and St. Paul Police Department are probing the alleged beating of a Mexican citizen by federal immigration officers during an arrest in Minnesota last month, according to The Associated Press.  The incident occurred Jan. 8, when Immigration and Customs Enforcement (ICE) officers detained Alberto Castañeda Mondragón in the parking lot of…",
+      "keywords": [
+        "FBI",
+        "immigration",
+        "ICE",
+        "detained",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the investigation demonstrates FBI independence and civil rights oversight mechanisms functioning, a single alleged incident under review is notable but not yet indicative of systemic institutional erosion.",
+      "categories": [
+        "FBI independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T18:13:12.306Z"
+    },
+    {
+      "id": "501301cf76a5",
+      "title": "Watch live: White House holds press briefing amid DHS funding turmoil",
+      "url": "https://thehill.com/video-clips/5743120-watch-live-white-house-press-briefing-trump-dhs-iran/",
+      "source": "The Hill",
+      "published": "2026-02-18T17:00:00.000Z",
+      "description": "White House press secretary Karoline Leavitt will speak with reporters Wednesday afternoon as the Department of Homeland Security (DHS) shutdown persists. The funding fight comes as Democrats push for reforms in how the DHS implements President Trump’s deportation agenda, from agents wearing masks to the use of force. While the department oversees several immigration enforcement…",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine news alert about a scheduled press briefing with standard political disagreement over immigration policy implementation, lacking any institutional action or democratic erosion.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T18:13:14.235Z"
+    },
+    {
+      "id": "33f2a3e48c62",
+      "title": "New York says Trump admin released Gateway tunnel funds after court order ",
+      "url": "https://thehill.com/regulation/court-battles/5743593-new-york-trump-gateway-tunnel-funds-released/",
+      "source": "The Hill",
+      "published": "2026-02-18T16:50:20.000Z",
+      "description": "New York Attorney General Letitia James (D) said the Trump administration released nearly $130 million in funds for the Gateway tunnel project Wednesday following a judge’s order. “This funding freeze was unlawful from the start. We took swift action in court, and now every dollar that was illegally withheld has been released,” James said in a statement.  Last week, a…",
+      "keywords": [
+        "attorney general",
+        "court order",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Demonstrates judicial independence forcing executive compliance with court orders, but involves routine budget execution rather than unprecedented institutional erosion.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T18:13:15.520Z"
+    },
+    {
+      "id": "bac61f01eda9",
+      "title": "Democratic-aligned Colorado group launches effort to redistrict after 2026",
+      "url": "https://thehill.com/homenews/campaign/5743586-colorado-redistricting-democrats-strategy/",
+      "source": "The Hill",
+      "published": "2026-02-18T16:33:57.000Z",
+      "description": "A Democratic-aligned Colorado group is launching an effort to redistrict in the Centennial State after 2026 as the redistricting wars show no signs of letting up.  Coloradans for a Level Playing Field filed four different versions for a ballot initiative on Tuesday, which would all largely ask voters to temporarily pass a new House map for the 2028 and 2030 elections, allowing them…",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter"
+      ],
+      "significance": 4,
+      "reason": "A partisan redistricting effort represents notable partisan maneuvering but falls within normal democratic processes absent evidence of illegal action or institutional subversion.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-18T18:13:15.567Z"
+    },
+    {
+      "id": "90397f92f516",
+      "title": "Democrats less positive about party: Survey",
+      "url": "https://thehill.com/homenews/campaign/5743533-democratic-party-favorability-poll/",
+      "source": "The Hill",
+      "published": "2026-02-18T16:30:10.000Z",
+      "description": "Democratic voters are expressing a less positive view of their party ahead of the midterm elections, according to recent polling data.  In a new survey from the Associated Press-NORC Center for Public Affairs Research, about 7 in 10 Democratic voters said they have a positive view of the Democratic Party.  These numbers are only slightly…",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This article reports routine polling data about voter sentiment and contains no information about institutional checks, balances, or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:15.526Z"
+    },
+    {
+      "id": "10947d53d894",
+      "title": "Trump family files to trademark use of name on airports",
+      "url": "https://thehill.com/homenews/administration/5743381-trump-family-trademark-name-airports/",
+      "source": "The Hill",
+      "published": "2026-02-18T16:12:41.000Z",
+      "description": "The Trump Organization this week filed to trademark the use of President Trump’s name on airports, according to The Associated Press. The move comes after Trump reportedly asked Senate Minority Leader Chuck Schumer (D-N.Y.) last month to support renaming Penn Station and Washington Dulles International Airport after him in exchange for his administration unfreezing $16…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While the apparent quid pro quo involving federal infrastructure raises concerns about corruption and self-dealing, the article focuses primarily on a trademark filing that lacks institutional/legal consequences for democratic checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-18T18:13:15.580Z"
+    },
+    {
+      "id": "d32ab11b1b48",
+      "title": "Trump Jr. calls banking a 'Ponzi scheme' that forced family to create crypto business",
+      "url": "https://www.cnbc.com/2026/02/18/trump-world-liberty-stablecoin-crypto-banks-ponzi.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-18T17:22:48.000Z",
+      "description": "Donald Trump Jr. and Eric Trump are hosting the World Liberty Forum at the Mar-a-Lago club in Palm Beach, Fla., owned by their father, President Donald Trump.",
+      "keywords": [
+        "trump",
+        "crypto"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news item about a private business event and commentary, with no direct bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-18T18:13:16.675Z"
+    },
+    {
+      "id": "2fb784228e69",
+      "title": "‘Playing Checkers’: Trump’s Bid to Revive Coal Is Nonsensical",
+      "url": "https://www.rollingstone.com/politics/politics-features/trump-bid-revive-coal-industry-nonsensical-1235518227/",
+      "source": "Rolling Stone",
+      "published": "2026-02-18T15:00:00.000Z",
+      "description": "The president last week ordered the Department of Defense to purchase coal energy. Experts say it's a lost cause",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the order raises concerns about presidential overreach and agency independence, it primarily represents a policy disagreement rather than a fundamental institutional threat to democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-02-18T18:13:18.488Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-18T12:08:31.687Z"
+  "lastFetch": "2026-02-18T18:13:18.488Z"
 }
