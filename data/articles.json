@@ -16473,8 +16473,967 @@
       "reason": "This is an obituary of a historical civil rights figure with no direct bearing on current institutional checks and balances, democratic processes, or governance.",
       "categories": [],
       "scoredAt": "2026-02-17T18:15:52.627Z"
+    },
+    {
+      "id": "e01325106522",
+      "title": "Trump's immigration crackdown is affecting politics in Maine",
+      "url": "https://www.npr.org/2026/02/17/nx-s1-5712371/trumps-immigration-crackdown-is-affecting-politics-in-maine",
+      "source": "NPR Politics",
+      "published": "2026-02-17T22:15:20.000Z",
+      "description": "President Trump's immigration crackdown is complicating Republicans' attempts to maintain control of Congress in this year's midterm elections. That dynamic is evident especially in Maine.",
+      "keywords": [
+        "election",
+        "midterm",
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article discusses electoral implications of immigration enforcement policy rather than documenting institutional checks, constitutional violations, or democratic safeguards being tested.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:11:50.713Z"
+    },
+    {
+      "id": "5c620a013b18",
+      "title": "Some states push back on Trump recruiting local officers to aid immigration enforcement",
+      "url": "https://www.pbs.org/newshour/politics/some-states-push-back-on-trump-recruiting-local-officers-to-aid-immigration-enforcement",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T23:46:48.000Z",
+      "description": "Ten states — all led by Democrats — now have statewide policies prohibiting law enforcement officers from cooperating in one of the primary programs Trump is using to carry out his agenda of mass deportations.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "State resistance to federal immigration enforcement represents notable pushback on executive power, but lacks the institutional scale or precedent to qualify as critical.",
+      "categories": [
+        "civil service independence",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:11:51.533Z"
+    },
+    {
+      "id": "6213625e0463",
+      "title": "How Trump and Bondi transformed the DOJ to push his agenda and challenge detractors",
+      "url": "https://www.pbs.org/newshour/show/how-trump-and-bondi-transformed-the-doj-to-push-his-agenda-and-challenge-detractors",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T23:40:20.000Z",
+      "description": "After she was confirmed, Attorney General Pam Bondi told lawyers at the Department of Justice that it was their job to \"zealously advance, protect and defend\" the policies of the U.S. as set by the president. It was an example of how the Trump administration has sought to transform the DOJ into the president's tool for promoting his agenda and challenging detractors. Ali Rogin reports.",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "Systematic transformation of DOJ leadership to prioritize presidential agenda over institutional independence represents significant erosion of a critical check on executive power.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-18T00:11:50.699Z"
+    },
+    {
+      "id": "58cec84525d4",
+      "title": "Trump administration backs Kalshi and Polymarket as states move to ban prediction markets",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-backs-kalshi-and-polymarket-as-states-move-to-ban-prediction-markets",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T22:51:10.000Z",
+      "description": "The Trump administration is throwing its support behind the prediction market operators Kalshi and Polymarket in a critical legal battle between the growing prediction market industry and states that wish to ban these platforms.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the administration's position on prediction markets involves regulatory authority and may affect financial oversight, it represents a notable policy stance rather than a direct threat to or enhancement of core democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:11:50.812Z"
+    },
+    {
+      "id": "d2e40e91f18c",
+      "title": "Stephen Colbert says CBS pulled candidate interview ahead of early voting in Texas",
+      "url": "https://www.pbs.org/newshour/politics/stephen-colbert-says-cbs-pulled-candidate-interview-ahead-of-early-voting-in-texas",
+      "source": "PBS NewsHour",
+      "published": "2026-02-17T21:33:43.000Z",
+      "description": "Late-night host Stephen Colbert said his interview with Democratic Texas Senate candidate James Talarico was pulled from Monday night's broadcast over network fears it would violate regulatory guidance from the Trump administration on giving equal time to political candidates.",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Represents significant institutional pressure on press freedom and potential self-censorship by media outlets in response to regulatory threats, affecting electoral coverage during critical voting periods.",
+      "categories": [
+        "press freedom",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-02-18T00:11:50.805Z"
+    },
+    {
+      "id": "c077a3110717",
+      "title": "Armed man wearing tactical vest arrested outside the U.S. Capitol, police say",
+      "url": "https://www.nbcnews.com/politics/politics-news/armed-man-wearing-tactical-vest-arrested-us-capitol-police-say-rcna259411",
+      "source": "NBC News",
+      "published": "2026-02-17T20:31:42.000Z",
+      "description": "Capitol Police identified the man as Carter Camacho of Smyrna, Georgia, and said a potential motive was still under investigation.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is a routine criminal incident involving an armed individual at the Capitol with an unknown motive, lacking evidence of systemic threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:52.501Z"
+    },
+    {
+      "id": "175ba937cd03",
+      "title": "John Cornyn fights for political survival as early voting kicks off in Texas: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/john-cornyn-political-survival-early-voting-texas-politics-desk-rcna259445",
+      "source": "NBC News",
+      "published": "2026-02-17T22:34:45.000Z",
+      "description": "Steve Kornacki takes stock of the Texas GOP Senate primary between John Cornyn, Ken Paxton and Wesley Hunt as early voting gets underway.",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign coverage of a primary election with no apparent connection to institutional checks and balances, democratic erosion, or integrity issues.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:52.393Z"
+    },
+    {
+      "id": "76cb3820891f",
+      "title": "Man arrested after rushing toward Capitol with loaded shotgun and tactical vest",
+      "url": "https://www.nbcnews.com/video/man-arrested-after-rushing-toward-capitol-with-loaded-shotgun-and-tactical-vest-257821253903",
+      "source": "NBC News",
+      "published": "2026-02-17T23:29:04.000Z",
+      "description": "An 18-year-old man was arrested after he tried to run toward the Capitol with a loaded shotgun and a tactical vest. Authorities say the man dropped the weapon when he was confronted by police. NBC News' Sahil Kapur has details on the arrest just a week ahead of the State of the Union.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal incident with no systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:52.422Z"
+    },
+    {
+      "id": "88b112f593d0",
+      "title": "Kornacki: ‘Ultimate X factor’ in Texas GOP Senate primary would be Trump endorsement",
+      "url": "https://www.nbcnews.com/meet-the-press/video/kornacki-ultimate-x-factor-in-texas-gop-senate-primary-would-be-trump-endorsement-257815109891",
+      "source": "NBC News",
+      "published": "2026-02-17T21:51:29.000Z",
+      "description": "NBC News Chief Data Analyst Steve Kornacki joins Meet the Press NOW to preview the Texas Senate primary election as early voting begins in the state.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary analyzing a primary election preview with no direct institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:53.433Z"
+    },
+    {
+      "id": "38a76ac236b4",
+      "title": "Trump's election bill tops 50 Senate votes, but Democrats could still block it",
+      "url": "https://www.nbcnews.com/politics/congress/trumps-election-bill-save-america-act-50-senate-votes-democrats-block-rcna259351",
+      "source": "NBC News",
+      "published": "2026-02-17T21:09:50.000Z",
+      "description": "The SAVE America Act to require proof of citizenship nationwide to vote has now topped 50 votes in the Republican-controlled Senate.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A significant election policy proposal with partisan implications that demonstrates congressional dynamics on voting requirements, but lacks the institutional erosion or unprecedented constitutional challenge needed for higher ratings.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-18T00:11:53.674Z"
+    },
+    {
+      "id": "c6ac5f8897c5",
+      "title": "CBS News Things That Matter: A Town Hall with Governor Wes Moore",
+      "url": "https://www.cbsnews.com/video/cbs-news-town-hall-governor-wes-moore/",
+      "source": "CBS News",
+      "published": "2026-02-17T21:29:03.000Z",
+      "description": "Maryland Governor Wes Moore, a rising star in the Democratic Party, sits down with CBS News senior correspondent Norah O'Donnell to discuss issues impacting the nation, including the critical 2026 midterm elections and his vision for the future of the Democratic Party.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political interview with a state governor discussing party vision and upcoming elections, with no direct bearing on institutional checks and balances, legal precedents, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:53.510Z"
+    },
+    {
+      "id": "5c90ae20684e",
+      "title": "Trump blames D.C., Maryland and Virginia for massive Potomac River sewage spill",
+      "url": "https://www.cbsnews.com/news/trump-blames-wes-moore-virginia-dc-maryland-sewage-spill-potomac-river/",
+      "source": "CBS News",
+      "published": "2026-02-17T21:06:40.000Z",
+      "description": "President Trump and Maryland Gov. Wes Moore are feuding over who's responsible for addressing one of the largest sewage spills in U.S. history.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A dispute over sewage infrastructure responsibility between political figures is routine environmental governance news without implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:53.383Z"
+    },
+    {
+      "id": "10ac87614db9",
+      "title": "Man arrested running toward Capitol with shotgun, police say",
+      "url": "https://www.cbsnews.com/news/us-capitol-police-man-arrested-shotgun-tactical-vest/",
+      "source": "CBS News",
+      "published": "2026-02-17T20:24:22.000Z",
+      "description": "U.S. Capitol Police that the individual was in custody and that there did not appear to be other suspects or an ongoing threat.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A single individual's arrest at the Capitol is a routine security incident without evidence of systemic threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:53.802Z"
+    },
+    {
+      "id": "bc8f663aafc8",
+      "title": "U.S. Air Force VIP fleet being repainted in Trump's preferred palette, sources say",
+      "url": "https://www.cbsnews.com/news/u-s-air-force-vip-plane-fleet-trump-paint-colors/",
+      "source": "CBS News",
+      "published": "2026-02-17T19:18:47.000Z",
+      "description": "The Kennedy-era robin's egg blue that's currently on the planes is being updated to navy, red and gold.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A cosmetic update to aircraft colors is routine administrative decision-making with no bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:54.720Z"
+    },
+    {
+      "id": "1a91e52d9b98",
+      "title": "Hillary Clinton alleges Epstein files \"cover-up\" by Trump administration",
+      "url": "https://www.cbsnews.com/news/hillary-clinton-epstein-files-cover-up-trump-house-oversight-committee-deposition/",
+      "source": "CBS News",
+      "published": "2026-02-17T18:26:00.000Z",
+      "description": "\"There's something about this administration's attitude toward this, which I think really leads us to conclude they have something to hide,\" she told the BBC.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a political allegation and commentary from a private citizen without new evidence, institutional action, or documented policy changes affecting democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:54.698Z"
+    },
+    {
+      "id": "ec1cb84361e0",
+      "title": " Texas Republican Paxton steps up his Senate bid against GOP Sen. Cornyn ahead of early voting",
+      "url": "https://abcnews.com/Politics/wireStory/texas-republican-paxton-steps-senate-bid-gop-sen-130212828",
+      "source": "ABC News",
+      "published": "2026-02-17T04:37:33.000Z",
+      "description": "Texas Attorney General Ken Paxton is stepping up his race for the U.S. Senate with early voting about to begin for the March 3 GOP primary",
+      "keywords": [
+        "voting",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political campaign news about a primary election without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:54.610Z"
+    },
+    {
+      "id": "923bf0e95942",
+      "title": " Derek Dooley didn't vote for years. Now he wants Georgia voters to send him to Washington",
+      "url": "https://abcnews.com/Politics/wireStory/derek-dooley-vote-years-now-georgia-voters-send-130185352",
+      "source": "ABC News",
+      "published": "2026-02-16T03:33:51.000Z",
+      "description": "Many political candidates pitch themselves as outsiders",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "A routine human-interest profile of a political candidate with no substantive implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:55.732Z"
+    },
+    {
+      "id": "6f148d9ccf4b",
+      "title": " In battleground Michigan, 3 Democrats test vision of affordability in the Senate primary",
+      "url": "https://abcnews.com/Politics/wireStory/battleground-michigan-3-democrats-test-vision-affordability-senate-130165983",
+      "source": "ABC News",
+      "published": "2026-02-14T12:40:48.000Z",
+      "description": "Voters say they're worried about the cost of living, and affordability is a leading issue in 2026 campaigns",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "This is routine campaign coverage focused on policy positions and voter concerns in a primary election, with no direct relevance to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:54.773Z"
+    },
+    {
+      "id": "cbff85dcdea9",
+      "title": " Trump heads to Fort Bragg to cheer special forces who ousted Venezuela's Maduro",
+      "url": "https://abcnews.com/Politics/wireStory/trump-heads-fort-bragg-cheer-special-forces-members-130128722",
+      "source": "ABC News",
+      "published": "2026-02-13T09:14:14.000Z",
+      "description": "President Donald Trump is visiting Fort Bragg in North Carolina on Friday to praise special forces involved in the capture of Venezuela’s former leader, Nicolás Maduro",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report about a presidential visit to a military base to praise special forces; it does not involve institutional erosion or checks and balances concerns.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:57.037Z"
+    },
+    {
+      "id": "abaa3e559cb9",
+      "title": " Professors in the Epstein files say they hoped friendship would lead to research funding",
+      "url": "https://abcnews.com/Politics/wireStory/professors-epstein-files-hoped-friendship-lead-research-funding-130127957",
+      "source": "ABC News",
+      "published": "2026-02-13T05:10:07.000Z",
+      "description": "A new trove of documents released by the Justice Department reveals that Epstein’s reach into academia was wider than previously known",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article documents historical misconduct by a private individual and does not describe any institutional failure, policy change, or erosion of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:56.610Z"
+    },
+    {
+      "id": "662b15d1c4a3",
+      "title": " Judge temporarily blocks Trump officials from rescinding health grants to some Democratic-led states",
+      "url": "https://abcnews.com/Politics/wireStory/judge-temporarily-blocks-trump-officials-rescinding-health-grants-130125040",
+      "source": "ABC News",
+      "published": "2026-02-13T07:41:46.000Z",
+      "description": "A federal judge has ruled that President Donald Trump’s administration cannot pull back $600 million in public health grants allocated to four Democratic-led states, for now",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This ruling represents a significant judicial check on executive power by blocking what could constitute political retribution through federal funding withholding, directly testing institutional independence and separation of powers.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:11:56.810Z"
+    },
+    {
+      "id": "0c3b122259c3",
+      "title": " A judge orders DHS to give Minnesota detainees swift access to lawyers before transfers",
+      "url": "https://abcnews.com/Politics/wireStory/judge-orders-dhs-give-minnesota-detainees-swift-access-130123147",
+      "source": "ABC News",
+      "published": "2026-02-13T01:33:29.000Z",
+      "description": "A federal judge has ordered the Department of Homeland Security to give detained immigrants in Minnesota quick, private access to lawyers",
+      "keywords": [
+        "detained",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A judicial order reinforcing detainee legal rights represents notable enforcement of checks and balances, but is a single district court ruling rather than a systemic or precedent-setting action.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:11:56.833Z"
+    },
+    {
+      "id": "7bdfc6fa0c48",
+      "title": " Arizona GOP candidate drops out of primary, narrowing field to two",
+      "url": "https://abcnews.com/Politics/wireStory/arizona-gop-candidate-drops-primary-narrowing-field-130120726",
+      "source": "ABC News",
+      "published": "2026-02-13T02:05:26.000Z",
+      "description": "President Donald Trump-endorsed housing developer Karrin Taylor Robson suspended her campaign Thursday for Arizona governor",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A routine primary campaign withdrawal with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:56.536Z"
+    },
+    {
+      "id": "f6fb466251cf",
+      "title": " A look at false claims made by the Trump administration as it revokes a key scientific finding",
+      "url": "https://abcnews.com/Politics/wireStory/false-claims-made-trump-administration-revokes-key-scientific-130120372",
+      "source": "ABC News",
+      "published": "2026-02-12T23:17:52.000Z",
+      "description": "While announcing that he was rolling back the Environmental Protection Agency’s 2009 endangerment finding, President Donald Trump and EPA Administrator Lee Zeldin made false claims regarding the government declaration, climate change and energy",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "EPA policy rollback with false claims represents notable institutional action affecting regulatory independence, but lacks the institutional confrontation or democratic mechanism erosion that would elevate it to higher significance.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:11:58.318Z"
+    },
+    {
+      "id": "50f093a067ba",
+      "title": " Trump immigration officials shown video of Alex Pretti’s death in tense Senate hearing",
+      "url": "https://abcnews.com/Politics/wireStory/trump-immigration-officials-shown-video-alex-prettis-death-130118761",
+      "source": "ABC News",
+      "published": "2026-02-12T22:53:48.000Z",
+      "description": "Sen. Rand Paul has challenged federal immigration officers over the shooting death of Alex Pretti and said the public has lost trust",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of federal agencies through Senate questioning on a significant death in custody, but no systemic institutional change or unprecedented democratic erosion evident.",
+      "categories": [
+        "congressional oversight",
+        "civil service independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:11:58.189Z"
+    },
+    {
+      "id": "5445adf6df05",
+      "title": " Trump nominates a hospitality executive to lead the National Park Service",
+      "url": "https://abcnews.com/Politics/wireStory/trump-nominates-hospitality-executive-lead-national-park-service-130115317",
+      "source": "ABC News",
+      "published": "2026-02-12T20:45:51.000Z",
+      "description": "President Donald Trump has nominated for director of the National Park Service an executive from a hospitality company that has extensive contracts with the agency he would lead",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A potential conflict of interest nomination raises integrity concerns but lacks the institutional or precedential significance of actions directly targeting core democratic mechanisms.",
+      "categories": [
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:11:58.055Z"
+    },
+    {
+      "id": "83baadeabf64",
+      "title": " Democratic-led states sue to stop Trump from withholding $600M in health grants",
+      "url": "https://abcnews.com/Politics/wireStory/democratic-led-states-sue-stop-trump-withholding-600m-130088435",
+      "source": "ABC News",
+      "published": "2026-02-12T04:45:51.000Z",
+      "description": "Four Democratic-led states that have become frequent targets of President Donald Trump have sued to block his administration from cutting off hundreds of millions in public health grants",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable constitutional clash over executive power and funding authority, with states invoking judicial oversight to challenge administrative actions, but lacks the unprecedented or systemic character of critical democratic erosion.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-18T00:11:58.287Z"
+    },
+    {
+      "id": "f4d2c1f2a1cd",
+      "title": " McMaster backs Evette to replace him as South Carolina governor. Is Trump's endorsement next?",
+      "url": "https://abcnews.com/Politics/wireStory/mcmaster-backs-evette-replace-south-carolina-governor-trumps-130082182",
+      "source": "ABC News",
+      "published": "2026-02-11T23:41:55.000Z",
+      "description": "South Carolina Governor Henry McMaster is backing Lieutenant Governor Pamela Evette's bid to succeed him, and he tries to thin a crowded Republican primary",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a gubernatorial primary endorsement with no direct implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:57.996Z"
+    },
+    {
+      "id": "168900710bda",
+      "title": " Nebraska to hand over sensitive voter data to the Justice Department after court loss",
+      "url": "https://abcnews.com/Politics/wireStory/nebraska-hand-sensitive-voter-data-justice-department-after-130079992",
+      "source": "ABC News",
+      "published": "2026-02-11T22:38:46.000Z",
+      "description": "Nebraska’s secretary of state says he will hand over sensitive voter data to the U.S. Justice Department after the state Supreme Court refused to block the move",
+      "keywords": [
+        "voter",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable but not unprecedented instance of voter data disclosure with mixed implications—while it raises election infrastructure and DOJ independence concerns, the state's own judicial check functioned as intended by ruling on the merits.",
+      "categories": [
+        "election infrastructure",
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-18T00:11:59.613Z"
+    },
+    {
+      "id": "e4d50ce5c6f3",
+      "title": " House votes to slap back Trump's tariffs on Canada in rare bipartisan rebuke",
+      "url": "https://abcnews.com/Politics/wireStory/house-faces-showdown-vote-trumps-tariffs-canada-130079989",
+      "source": "ABC News",
+      "published": "2026-02-12T09:01:46.000Z",
+      "description": "The House has voted to slap back President Donald Trump’s tariffs on Canada",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This represents routine congressional opposition to executive policy through standard legislative procedures, with no direct impact on institutional independence or democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-18T00:11:59.195Z"
+    },
+    {
+      "id": "8cbb2de2fd4d",
+      "title": "Scoop: Democrats eye forced vote to censure GOP Rep. Randy Fine over anti-Muslim post",
+      "url": "https://www.axios.com/2026/02/17/randy-fine-muslim-censure-democrats-congress",
+      "source": "Axios",
+      "published": "2026-02-17T23:30:04.000Z",
+      "description": "House Democrats are discussing a forced vote to censure Rep. Randy Fine (R-Fla.) if Speaker Mike Johnson (R-La.) doesn't take action, Axios has learned.\nWhy it matters: Fine's recent comments on social media saying \"the choice between dogs and Muslims is not a difficult one\" have drawn intense backlash from colleagues, including one fellow House Republican.\n\nWhile the increasingly irreverent and partisan use of censure in recent years has frustrated lawmakers, some progressives say this is a rar",
+      "keywords": [
+        "ICE",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 4,
+      "reason": "This represents routine partisan conflict and internal House discipline procedures rather than a systemic threat to democratic checks and balances, though it reflects broader concerns about institutional norms.",
+      "categories": [
+        "congressional_oversight",
+        "press_freedom"
+      ],
+      "scoredAt": "2026-02-18T00:11:59.335Z"
+    },
+    {
+      "id": "d7bdd39a3597",
+      "title": "Police arrest 18-year-old suspect for allegedly running at U.S. Capitol with shotgun",
+      "url": "https://www.axios.com/2026/02/17/capitol-police-arrest-gun-washington-dc-suspect",
+      "source": "Axios",
+      "published": "2026-02-17T20:54:58.000Z",
+      "description": "The U.S. Capitol Police arrested a person with \"what appears to be a gun\" near the Capitol, according to an email sent out to congressional offices.\nWhat they're saying: \"Our officers just arrested an unnamed person with what appears to be a gun near the West Front of the U.S. Capitol building,\" says the email, copies of which were obtained by Axios.\n\nThe email advised staff to \"avoid the area.\"\n\nThe latest: The Capitol Police said in a subsequent post on X that they have temporarily closed seve",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine law enforcement incident involving individual criminal conduct, not a systemic threat to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:11:59.305Z"
+    },
+    {
+      "id": "9f6843cbd262",
+      "title": "After Super Bowl ad, consumers rethink the tradeoffs of home surveillance tech",
+      "url": "https://www.axios.com/2026/02/17/doorbell-cams-and-surveillance-tech-face-growing-public-backlash",
+      "source": "Axios",
+      "published": "2026-02-17T18:48:08.000Z",
+      "description": "Sentiment around widely used home surveillance tools is souring as high-profile cases reveal just how deeply law enforcement can tap the data they generate.\nWhy it matters: What once felt like a personal security upgrade now feels to many like participation in a broader law enforcement apparatus they didn't sign up for.\n\nNew AI advancements have made it easier to search, cross-reference and retain massive amounts of video and license plate data, raising the stakes of what once felt like localize",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "While touching on civil rights concerns, this is primarily consumer sentiment reporting about private surveillance technology rather than an analysis of government institutional checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:11:59.354Z"
+    },
+    {
+      "id": "760170cf9c27",
+      "title": "Zelensky says Ukrainian public won't let him hand Russia territory",
+      "url": "https://www.axios.com/2026/02/17/ukraine-russia-negotiations-zelensky-donbas",
+      "source": "Axios",
+      "published": "2026-02-17T18:44:21.000Z",
+      "description": "The Ukrainian people would reject a peace deal that involves Ukraine unilaterally withdrawing from the eastern Donbas region and turning it over to Russia, President Volodymyr Zelensky told Axios in an interview Tuesday.\nWhy it matters: As Zelensky was speaking to Axios, Ukrainian and Russian negotiators were meeting for a third round of direct talks in Geneva. The main sticking point is control of the Donbas, around 10% of which is still in Ukrainian hands.\n\nZelensky said U.S. mediators Steve W",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Ukrainian foreign policy negotiations and has no direct relevance to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:00.387Z"
+    },
+    {
+      "id": "1eb41d9e78f9",
+      "title": "Hegseth touts Presidents Day strike on boat",
+      "url": "https://thehill.com/policy/defense/5742773-trump-administration-boat-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-18T00:08:23.000Z",
+      "description": "Defense Secretary Pete Hegseth commended the Trump administration’s recent boat strikes in the Caribbean in a Tuesday social media post.  “Turns out President’s Day — under President Trump — is not a good day to run drugs,” Hegseth wrote on the social platform X.  The secretary was replying to a mission report from the U.S.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine announcement of a military drug interdiction operation with no implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:00.354Z"
+    },
+    {
+      "id": "49efc9c36563",
+      "title": "Megyn Kelly accuses GOP Rep. Randy Fine of going ‘full bigot’ with post about Muslims",
+      "url": "https://thehill.com/homenews/house/5742728-randy-fine-muslim-bigot-megyn-kelly/",
+      "source": "The Hill",
+      "published": "2026-02-17T23:45:57.000Z",
+      "description": "Conservative commentator Megyn Kelly accused Rep. Randy Fine (R-Fla.) of going “full bigot” on Tuesday following the congressman’s weekend social media post that compared Muslim people to dogs.  “If they force us to choose, the choice between dogs and Muslims is not a difficult one,” Fine wrote Sunday in a post on the social platform…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "While the statement raises concerns about civil discourse and potentially immigration & civil rights rhetoric, this is primarily a commentary piece about a politician's social media post rather than reporting on institutional action, policy change, or formal checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:12:00.743Z"
+    },
+    {
+      "id": "bce929687b28",
+      "title": "Trump to DC, Maryland, Virginia: ‘I am awaiting your call’ on spill",
+      "url": "https://thehill.com/homenews/5742692-trump-to-dc-md-va-i-am-awaiting-your-call-on-spill/",
+      "source": "The Hill",
+      "published": "2026-02-17T23:41:24.000Z",
+      "description": "Presented by Panasonic {beacon} Energy & Environment Energy & Environment The Big Story  Trump to DC, MD, VA: ‘I am awaiting your call’ on spill President Trump pressured Washington-area officials to get to work on fixing the Potomac sewage spill, saying the federal government would also be able to assist in the process. © Cliff…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine environmental news about a sewage spill response with no connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:00.343Z"
+    },
+    {
+      "id": "58d862a31463",
+      "title": "Wes Moore hits back at Trump, calls for more FEMA funds",
+      "url": "https://thehill.com/homenews/state-watch/5742544-moore-responds-trump-potomac-spillage/",
+      "source": "The Hill",
+      "published": "2026-02-17T23:02:57.000Z",
+      "description": "Maryland Gov. Wes Moore (D) fired back at President Trump on Tuesday, hours after the president said the governor is partially responsible for recovery efforts in the wake of a massive sewage spillage in the Potomac River. “Mr. President, this spill is basically contained,” Moore wrote on the social platform X. “So could you approve…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political dispute between a governor and president over disaster response funding, lacking systemic implications for democratic institutions or checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-18T00:12:00.909Z"
+    },
+    {
+      "id": "5c6ea808ab5a",
+      "title": "53 percent in new poll think Trump is ‘trying to cover up’ Epstein’s crimes ",
+      "url": "https://thehill.com/homenews/administration/5742548-poll-trump-epstein-crimes/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:55:40.000Z",
+      "description": "More than half of Americans in a new poll said they believe President Trump is attempting to conceal crimes committed by convicted sex offender Jeffrey Epstein.  In an Economist/YouGov poll released Tuesday, 53 percent of respondents said they believe Trump is “trying to cover up Epstein’s crimes.” Twenty-nine percent of those polled said they do…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a polling report on public opinion regarding alleged cover-ups, which is commentary on political perception rather than documentation of institutional action affecting democratic checks and balances.",
+      "categories": [
+        "political_retribution"
+      ],
+      "scoredAt": "2026-02-18T00:12:01.921Z"
+    },
+    {
+      "id": "03412a7037dc",
+      "title": "Bacon: Mandatory body cameras proposal is ‘easy’ demand to meet in DHS funding fight",
+      "url": "https://thehill.com/homenews/house/5742588-bacon-urges-gop-compromise-dhs/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:39:34.000Z",
+      "description": "Rep. Don Bacon (R-Neb.) urged Republican senators on Tuesday to find “some low-hanging fruit” among Democratic demands for reform within the Department of Homeland Security (DHS) to bring an end to the days-long partial government shutdown. During an appearance on MS NOW, Bacon suggested Republicans have two choices: “Play hardball” or identify potential areas of…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about budget negotiations and a specific procedural proposal (body cameras) with no direct bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:01.799Z"
+    },
+    {
+      "id": "cd1f4d5742eb",
+      "title": "GAO launches investigation into DHS whistleblower treatment",
+      "url": "https://thehill.com/homenews/administration/5742600-gao-investigates-dhs-whistleblowers/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:32:17.000Z",
+      "description": "The Government Accountability Office (GAO) has launched an investigation into the Department of Homeland Security’s (DHS) handling of whistleblower complaints following a string of complaints about DHS’s Office of Inspector General. According to an email obtained by the Project on Government Oversight, the GAO is reviewing the handling of whistleblower complaints from President Trump’s first term through…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA",
+        "inspector general"
+      ],
+      "significance": 6,
+      "reason": "The GAO investigation into whistleblower treatment is notable for institutional oversight but represents standard investigative process rather than an immediate threat to or defense of democratic checks.",
+      "categories": [
+        "congressional oversight",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-18T00:12:02.013Z"
+    },
+    {
+      "id": "4524c8cd7f00",
+      "title": "Stephen A. Smith says he isn’t worried about racism hurting chances if he runs for White House",
+      "url": "https://thehill.com/blogs/in-the-know/5742395-stephen-smith-2028-presidency/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:23:00.000Z",
+      "description": "ESPN commentator Stephen A. Smith said Sunday he is not worried about racism affecting a White House run if he chooses to throw his hat in the 2028 presidential contest. “I know it [racism] exists. I know that you can’t escape it, but I do not believe it is as prevalent as some on the…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is commentary on a public figure's personal speculation about a potential future political candidacy, with no bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:01.841Z"
+    },
+    {
+      "id": "5f800117b29c",
+      "title": "Fetterman says he doesn’t know why Trump, GOP aren’t working to ‘lock down’ Texas Senate seat",
+      "url": "https://thehill.com/homenews/campaign/5742463-fetterman-questions-texas-senate-gop/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:19:54.000Z",
+      "description": "Sen. John Fetterman (D-Pa.) on Tuesday questioned why President Trump and other GOP lawmakers haven’t locked down the Texas Senate race with an endorsement in the three-way party primary.  Sen. John Cornyn (R-Texas), Texas Attorney General Ken Paxton (R) and Rep. Wesley Hunt (R-Texas) are vying for Cornyn’s seat in the Senate. The frequently nasty…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party primary dynamics and candidate endorsements, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:01.790Z"
+    },
+    {
+      "id": "eff453845083",
+      "title": "Rubio’s Munich moment gives him burst of momentum",
+      "url": "https://thehill.com/homenews/campaign/5742341-rubio-munich-speech-momentum/",
+      "source": "The Hill",
+      "published": "2026-02-17T22:07:57.000Z",
+      "description": "Secretary of State Marco Rubio is coming out of the Munich Security Conference with fresh momentum after a well-received speech to world leaders. Rubio received a standing ovation for his 30-minute remarks that sought to ease European anxieties about U.S. foreign policy and emphasize the importance of the transatlantic partnership, a year after Vice President…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a diplomatic speech and international relations, with no direct bearing on domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:02.794Z"
+    },
+    {
+      "id": "75a51454b9a6",
+      "title": "Air Force One jets to be repainted in Trump’s preferred colors",
+      "url": "https://thehill.com/homenews/administration/5742424-air-force-one-new-paint/",
+      "source": "The Hill",
+      "published": "2026-02-17T21:56:23.000Z",
+      "description": "Air Force One jets are expected to receive a new paint job in President Trump’s preferred colors of red, white, gold and dark blue, The Hill’s sister network NewsNation has confirmed. Both the luxury jet donated by Qatar and new VC-25B Boeing jets will feature the new colors, an Air Force spokesperson told NewsNation. The…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Cosmetic rebranding of presidential aircraft falls outside substantive democratic governance concerns and does not implicate institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:02.925Z"
+    },
+    {
+      "id": "418f6fb5a761",
+      "title": "Vance calls Ocasio-Cortez’s response to Taiwan question in Munich ’embarrassing’",
+      "url": "https://thehill.com/homenews/administration/5742481-vance-slams-aoc-foreign-policy/",
+      "source": "The Hill",
+      "published": "2026-02-17T21:54:17.000Z",
+      "description": "Vice President Vance on Monday slammed Rep. Alexandria Ocasio-Cortez’s (D-N.Y.) response to a question at the Munich Security Conference about whether the U.S. should help Taiwan if China invades the country as “embarrassing.” “Look, that was embarrassing,” Vance told Fox News host Martha MacCallum on “The Story.”  “If I had given that answer I would…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary involving a vice president criticizing an opposition lawmaker's public statement, with no institutional action, policy change, or democratic mechanism being affected.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:03.027Z"
+    },
+    {
+      "id": "28d95b8bd564",
+      "title": "Vance dismisses ‘conflict’ with Rubio after Munich fuels 2028 chatter",
+      "url": "https://thehill.com/homenews/administration/5742410-vance-rubio-2028-presidential-speculation/",
+      "source": "The Hill",
+      "published": "2026-02-17T21:33:11.000Z",
+      "description": "Vice President Vance dismissed the idea that there is a “conflict” brewing between him and Secretary of State Marco Rubio amid speculation that both men are considering presidential runs in 2028. “I think it’s so interesting the media wants to create this conflict where there just isn’t any conflict,” Vance told Fox News host Martha…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine political speculation about potential future presidential ambitions with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:02.826Z"
+    },
+    {
+      "id": "bbe8cfcd92a0",
+      "title": "Mace asks CIA director for documents agency may have on Epstein, Maxwell ",
+      "url": "https://thehill.com/homenews/house/5742394-mace-requests-cia-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-17T21:26:47.000Z",
+      "description": "Rep. Nancy Mace (R-S.C.) requested that the Central Intelligence Agency (CIA) release “any and all” documents it may possess related to convicted sex offenders Jeffrey Epstein and Ghislaine Maxwell in a Tuesday letter to the agency’s director. “Congress needs to know what, if any, relationship the CIA had with Jeffrey Epstein and what information they’re…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 4,
+      "reason": "A routine congressional oversight request for document disclosure that exercises legitimate legislative authority but lacks evidence of institutional conflict or systemic threat.",
+      "categories": [
+        "congressional oversight",
+        "intelligence community integrity"
+      ],
+      "scoredAt": "2026-02-18T00:12:03.104Z"
+    },
+    {
+      "id": "f285db771ee2",
+      "title": "Top Republican eyeing FDA overhaul",
+      "url": "https://thehill.com/policy/healthcare/5741597-cassidy-report-fda-innovation/",
+      "source": "The Hill",
+      "published": "2026-02-17T20:57:44.000Z",
+      "description": "Sen. Bill Cassidy (R-La.) on Tuesday unveiled his proposal for modernizing the Food and Drug Administration (FDA), calling on the agency to reform some of its practices and embrace innovations in order to get more products approved for patients. In the report titled “Patients and families: Building the FDA of the future,” Cassidy, chair of…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A legislative proposal for FDA regulatory modernization is routine policy discussion that does not implicate democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:04.008Z"
+    },
+    {
+      "id": "b92478ae665c",
+      "title": "Judge rules Abrego Garcia can’t be detained again by ICE",
+      "url": "https://thehill.com/homenews/administration/5742317-judge-blocks-deportation-abregogarcia/",
+      "source": "The Hill",
+      "published": "2026-02-17T20:55:12.000Z",
+      "description": "A federal judge ruled the Trump administration could not again place Kilmar Abrego Garcia in immigration detention, accusing them of seeking to “rewrite the history of this case.” U.S. District Court Judge Paula Xinis forbid U.S. Immigration and Customs Enforcement from again seeking to detain the Maryland resident, determining he was well beyond the 90-day…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "trump",
+        "detention"
+      ],
+      "significance": 6,
+      "reason": "A judicial check on executive immigration enforcement overreach that prevents unlawful detention but represents a single case rather than systemic institutional action.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:12:04.089Z"
+    },
+    {
+      "id": "d7eaac1d4637",
+      "title": "White House: Negotiators ‘still pretty far apart’ on DHS funding",
+      "url": "https://thehill.com/homenews/administration/5742274-white-house-dhs-funding/",
+      "source": "The Hill",
+      "published": "2026-02-17T20:52:34.000Z",
+      "description": "The White House on Tuesday indicated that a deal to fund the Department of Homeland Security (DHS) is a ways off, despite more than a week of talks between the two sides over Democratic demands to reform Immigration and Customs Enforcement (ICE). Democrats late Monday night sent a counteroffer to the White House, which Republicans…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on standard budget negotiations between branches without indication of institutional erosion or democratic norm violations.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:03.981Z"
+    },
+    {
+      "id": "e08a4d0933f9",
+      "title": "Trump administration sued for Stonewall Pride flag removal in New York",
+      "url": "https://www.cnbc.com/2026/02/17/trump-pride-flag-stonewall-monument-lgbtq.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-17T21:33:55.000Z",
+      "description": "The suit comes a day after a judge in Philadelphia ordered the National Park Service to restore an exhibit about slaves owned by President George Washington.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine litigation over symbolic displays with limited direct implications for institutional checks and balances, though it touches on executive discretion and judicial oversight.",
+      "categories": [
+        "judicial independence",
+        "civil rights"
+      ],
+      "scoredAt": "2026-02-18T00:12:04.141Z"
+    },
+    {
+      "id": "e8c5b1670eb0",
+      "title": "Potomac River sewage spill: Trump says Democrats need to ask for his help",
+      "url": "https://www.cnbc.com/2026/02/17/potomac-sewage-spill-trump-democratic-governors-spanberger-moore.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-17T22:16:18.000Z",
+      "description": "The collapse of a pipe on the Potomac Interceptor sewer line caused more than 200 million gallons of sewer wastewater to gush into the Potomac River.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news story about infrastructure failure with political commentary that does not substantively impact democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:04.242Z"
+    },
+    {
+      "id": "3c2eb9e19cee",
+      "title": "Man ran at U.S. Capitol with shotgun and tactical vest: Capitol Police chief",
+      "url": "https://www.cnbc.com/2026/02/17/capitol-shotgun-vest-police-chief.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-17T20:40:34.000Z",
+      "description": "U.S. Capitol Police Chief Michael Sullivan commended his officers, saying this is why they conduct monthly active-shooter exercises.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine law enforcement incident report about Capitol security protocols rather than an article addressing systemic threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-18T00:12:05.097Z"
+    },
+    {
+      "id": "ef751bafc816",
+      "title": "Stephen Colbert says CBS blocks James Talarico interview from air",
+      "url": "https://www.cnbc.com/2026/02/17/james-talarico-stephen-colbert-cbs-fcc-interview.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-17T21:28:00.000Z",
+      "description": "\"I think Donald Trump is worried we're about to flip Texas,\" Texas state Rep. James Talarico said. \"This is the party that ran against cancel culture.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a dispute between a media company and a talk show host over content decisions, which involves press freedom considerations but lacks institutional democratic significance or evidence of systematic checks-and-balances erosion.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-18T00:12:05.426Z"
+    },
+    {
+      "id": "a8ece24423d4",
+      "title": "Colbert Calls Out CBS for Caving to Trump Administration Over James Talarico Interview",
+      "url": "https://www.rollingstone.com/politics/politics-news/stephen-colbert-james-talarico-cbs-fcc-interview-1235517938/",
+      "source": "Rolling Stone",
+      "published": "2026-02-17T18:15:53.000Z",
+      "description": "The network has denied they prohibited the Late Show from broadcasting the interview",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on entertainment media decisions rather than an institutional action affecting democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-18T00:12:05.115Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-17T18:15:52.627Z"
+  "lastFetch": "2026-02-18T00:12:05.426Z"
 }
