@@ -19213,8 +19213,385 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-19T06:19:50.256Z"
+    },
+    {
+      "id": "ecc3d7e819c2",
+      "title": "Early voting underway in closely watched Texas Senate Democratic primary",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5712618/early-voting-underway-in-closely-watched-texas-senate-democratic-primary",
+      "source": "NPR Politics",
+      "published": "2026-02-19T09:51:01.000Z",
+      "description": "Early voting began this week in the Texas Senate Democratic primary election, and one candidate got a fundraising bump from talk show host Stephen Colbert.",
+      "keywords": [
+        "election",
+        "voting"
+      ],
+      "significance": 2,
+      "reason": "Routine coverage of standard electoral process with no bearing on institutional checks and balances or democratic integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:27.119Z"
+    },
+    {
+      "id": "d0f058dd9259",
+      "title": "Sen. Bernie Sanders rallies support for proposed tax on billionaires in California",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5718525/sen-bernie-sanders-rallies-support-for-proposed-tax-on-billionaires-in-california",
+      "source": "NPR Politics",
+      "published": "2026-02-19T09:50:39.000Z",
+      "description": "Sen. Bernie Sanders, I-Vt., is in California trying to drum up support for a ballot measure asking for a tax on billionaires.",
+      "keywords": [
+        "ballot"
+      ],
+      "significance": 2,
+      "reason": "This is routine political advocacy and campaign activity with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:27.201Z"
+    },
+    {
+      "id": "88992a0b7b65",
+      "title": "Trump gathers members of Board of Peace for first meeting, with some U.S. allies wary",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5719053/trump-gathers-members-board-of-peace-first-meeting",
+      "source": "NPR Politics",
+      "published": "2026-02-19T06:30:21.000Z",
+      "description": "President Donald Trump will gather Thursday with representatives from more than two dozen countries that have joined his Board of Peace, for a meeting that will focus on the reconstruction of Gaza.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a routine diplomatic meeting on Middle East reconstruction with no direct implications for U.S. institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:26.993Z"
+    },
+    {
+      "id": "573d1c0acb5b",
+      "title": "Immigration operations in Minnesota leave behind a more polarized populace",
+      "url": "https://www.nbcnews.com/politics/trump-administration/poll-immigration-operations-minnesota-leave-polarized-populace-rcna258341",
+      "source": "NBC News",
+      "published": "2026-02-19T10:00:00.000Z",
+      "description": "President Donald Trump’s immigration policies have divided Minnesotans even more sharply than adults nationwide, new polling shows",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article reports polling data on public opinion regarding immigration policies rather than documenting institutional changes, legal rulings, or actions that directly affect democratic checks and balances mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-19T12:09:29.020Z"
+    },
+    {
+      "id": "9f0b043a7b40",
+      "title": "'No expense has been spared': Inside a luxury jet DHS wants to buy for deportations",
+      "url": "https://www.nbcnews.com/politics/immigration/no-expense-spared-luxury-jet-dhs-wants-buy-deportations-rcna259425",
+      "source": "NBC News",
+      "published": "2026-02-19T10:00:00.000Z",
+      "description": "WASHINGTON — An executive jet the Department of Homeland Security has told the White House’s Office of Management and Budget it needs for immigrant deportation flights and Cabinet officials’ travel features a bedroom with a queen bed, showers, a kitchen, four large flat-screen TVs and even a bar, according to images of the aircraft obtained by NBC News.",
+      "keywords": [
+        "ICE",
+        "deportation",
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is primarily a critical commentary on government spending priorities and potential misuse of resources rather than a substantive threat to institutional checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-19T12:09:29.088Z"
+    },
+    {
+      "id": "d6198806b12a",
+      "title": "Trump's 'Board of Peace' to hold first meeting, with key U.S. allies absent ",
+      "url": "https://www.nbcnews.com/world/gaza/trump-board-of-peace-first-meeting-gaza-un-israel-rcna259509",
+      "source": "NBC News",
+      "published": "2026-02-19T11:22:36.000Z",
+      "description": "President Donald Trump's \"Board of Peace\" will convene for its long-awaited first meeting on Thursday, with the next stage of the fragile ceasefire in Gaza in focus",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Represents a notable organizational development in foreign policy and executive decision-making, but lacks evidence of direct institutional checks-and-balances erosion or novel democratic concerns.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-19T12:09:29.280Z"
+    },
+    {
+      "id": "fc1679c8d40d",
+      "title": "Democrats in Congress press National Park Service on Trump ballroom donors",
+      "url": "https://www.cbsnews.com/news/trump-ballroom-donors-national-park-service-democrats-congress/",
+      "source": "CBS News",
+      "published": "2026-02-19T11:00:18.000Z",
+      "description": "Sen. Elizabeth Warren and Rep. Robert Garcia's previous attempts to extract information about the White House ballroom's finances have so far yielded few answers.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This represents routine congressional inquiry about potential financial impropriety at a federal facility, lacking evidence of systemic institutional erosion or unprecedented democratic breach.",
+      "categories": [
+        "corruption & self-dealing",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-19T12:09:29.138Z"
+    },
+    {
+      "id": "c6110b9f3836",
+      "title": "Inside the surge of threats against public officials fueling a rise in prosecutions",
+      "url": "https://www.cbsnews.com/news/threats-government-officials-prosecutions/",
+      "source": "CBS News",
+      "published": "2026-02-19T09:00:15.000Z",
+      "description": "A CBS News analysis found 126 cases that were brought by federal prosecutors last year arising out of threats to public officials.",
+      "keywords": [
+        "prosecutor"
+      ],
+      "significance": 6,
+      "reason": "Demonstrates both a threat to institutional integrity and the functioning of DOJ prosecutorial mechanisms, but lacks information about systemic erosion or unprecedented institutional failures.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-02-19T12:09:29.183Z"
+    },
+    {
+      "id": "e4cd79f2fc16",
+      "title": " Gov. Wes Moore on Trump: 'I pray for him and I just feel bad for him'",
+      "url": "https://abcnews.com/Politics/wireStory/gov-wes-moore-trump-pray-feel-bad-130290394",
+      "source": "ABC News",
+      "published": "2026-02-19T08:05:43.000Z",
+      "description": "Maryland Gov. Wes Moore is pushing back on President Donald Trump while trying to rally Democrats in his state around a mid-decade redistricting fight",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary from a state governor expressing personal opinion about the president during a redistricting discussion, with no direct bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:30.379Z"
+    },
+    {
+      "id": "03f84aaac649",
+      "title": "Oil prices jump amid signs of U.S.-Iran conflict",
+      "url": "https://www.axios.com/2026/02/19/battle-iran-upend-oil-markets",
+      "source": "Axios",
+      "published": "2026-02-19T11:18:39.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nOil prices jumped to their highest levels since last summer amid growing signs the U.S. is preparing a military strike against Iran.\nWhy it matters: The market sees risks to both Iranian exports but also a conflict that could threaten other supplies from the oil-producing region.\n\n The latest: Prices climbed well over 4% on Wednesday and are rising again on Thursday morning.\n\nThe global benchmark Brent crude is at over $71 per barrel this morni",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine financial market report on oil prices with geopolitical context, lacking any direct connection to U.S. democratic institutions or their oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:30.313Z"
+    },
+    {
+      "id": "63c977335142",
+      "title": "Europe answers Trump's call on Ukraine",
+      "url": "https://www.axios.com/2026/02/19/ukraine-russia-war-europe-aid-arms",
+      "source": "Axios",
+      "published": "2026-02-19T10:00:05.000Z",
+      "description": "Data: Kiel Institute; Note: Converted from euros to USD using the exchange rate as of Feb. 13, 2026; Kavya Beheraj/Axios\nFour years after Russia's invasion, Europe has quietly replaced the United States as the engine of Ukraine's survival.\nWhy it matters: President Trump and his allies have long insisted that Europe — not Washington — should shoulder the cost of the continent's largest land war since World War II.\n\nIn 2025, European governments and institutions answered that call — surging milit",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This article reports on European military aid policy decisions rather than addressing direct threats to U.S. democratic institutions or checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-19T12:09:30.618Z"
+    },
+    {
+      "id": "f30fef2278fd",
+      "title": "GOP angst over voter turnout builds as losses pile up",
+      "url": "https://www.axios.com/2026/02/19/republican-angst-voter-turnout",
+      "source": "Axios",
+      "published": "2026-02-19T10:00:05.000Z",
+      "description": "Republicans are getting crushed in scores of state and local races, raising deep concerns about a deflated base refusing to show up to vote even in the most pro-Trump areas.\nWhy it matters: The numbers are startling. In race after race, Democrats are outpacing their 2024 performance by double digits, a clear sign of a yawning enthusiasm gap.\n\nBy the numbers: Democrats have outperformed former Vice President Harris' 2024 numbers by an average of 10.5 percentage points in the 20 state legislative ",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about election results and voter turnout patterns, lacking any information about institutional checks, governmental actions, or threats to democratic systems.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:30.415Z"
+    },
+    {
+      "id": "bcae5df1b64b",
+      "title": "Pentagon-Anthropic battle pushes other AI labs into major dilemma",
+      "url": "https://www.axios.com/2026/02/19/anthropic-pentagon-ai-fight-openai-google-xai",
+      "source": "Axios",
+      "published": "2026-02-19T10:00:05.000Z",
+      "description": "As the Pentagon and Anthropic wage an ugly and potentially costly battle, three other leading AI labs are also negotiating with the department — and deliberating internally — about the terms under which they'll let the military use their models.\nWhy it matters: Defense Secretary Pete Hegseth wants to integrate AI into everything the military does more quickly and effectively than adversaries like China. He's insisting AI firms give unrestricted access to their models with no questions asked — an",
+      "keywords": [
+        "election",
+        "raid",
+        "musk",
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns a commercial contract dispute between the Pentagon and a private AI company with no direct implications for the tracked democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:30.950Z"
+    },
+    {
+      "id": "a6ec150ac50e",
+      "title": "China's AI rise rattles Hollywood",
+      "url": "https://www.axios.com/2026/02/19/hollywood-chinese-ai-bytedance-seedance",
+      "source": "Axios",
+      "published": "2026-02-19T09:50:05.000Z",
+      "description": "China's unrelenting efforts to catch the U.S. in AI may have claimed its first significant casualty — Hollywood.\nWhy it matters: Technology good enough to scare even the most seasoned filmmakers is prompting a legal fight that's only the opening salvo in a broader war over intellectual property and market dominance.\n\nChinese AI models that undercut U.S. rivals on price, speed and market share pose an existential threat to high-cost, high-risk industries like the film business.\nThey also ship wit",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article concerns international technology competition and intellectual property disputes rather than U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:32.048Z"
+    },
+    {
+      "id": "85a9eefeb579",
+      "title": "Trump attacks on Democrats cast shadow on governors’ meeting",
+      "url": "https://thehill.com/homenews/state-watch/5744154-governors-white-house-tensions/",
+      "source": "The Hill",
+      "published": "2026-02-19T11:00:00.000Z",
+      "description": "Governors will descend on Washington this weekend for the National Governors Association’s (NGA) winter meeting, a typically bipartisan gathering that has been overshadowed this year by President Trump’s escalating attacks on two Democratic governors.  After initially inviting only Republican governors to meet at the White House on Friday, Trump later extended invitations to Democratic governors. But he…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article reports on political rhetoric and social dynamics at a governors' meeting rather than documenting actual institutional actions, legal changes, or systematic threats to democratic structures.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:31.894Z"
+    },
+    {
+      "id": "b54aafeef2da",
+      "title": "Talarico gets burst of momentum from CBS controversy",
+      "url": "https://thehill.com/homenews/campaign/5744369-cbs-late-show-controversy/",
+      "source": "The Hill",
+      "published": "2026-02-19T11:00:00.000Z",
+      "description": "Controversy surrounding a CBS “Late Show” segment with Texas Senate candidate James Talarico has given the Democratic rising star a new burst of momentum just as early voting kicks off in the Lone Star State. Comic Stephen Colbert said during Monday’s episode that CBS told him not to broadcast Talarico’s appearance, citing pressure from the Federal Communications…",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a candidate gaining campaign momentum from media coverage, with no substantive institutional or democratic governance implications.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:31.996Z"
+    },
+    {
+      "id": "31d040eb1da9",
+      "title": "DHS shutdown talks hit a wall as GOP fumes",
+      "url": "https://thehill.com/homenews/senate/5744390-dhs-shutdown-talks-white-house-democrats/",
+      "source": "The Hill",
+      "published": "2026-02-19T11:00:00.000Z",
+      "description": "Discussions between the White House and Democratic leaders on funding the Department of Homeland Security (DHS) have hit a wall as administration officials publicly slammed the minority party for refusing to make concessions. Ever since Democrats sent the White House legislative text of their demands to reform how the administration carries out immigration enforcement on…",
+      "keywords": [
+        "immigration",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Budget negotiations are routine legislative processes, though DHS funding involves immigration enforcement oversight, making this notable but not yet indicative of institutional erosion.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-19T12:09:33.291Z"
+    },
+    {
+      "id": "1a46f5ef665a",
+      "title": "Anthropic on shaky ground with Pentagon amid feud after Maduro raid",
+      "url": "https://thehill.com/policy/defense/5744403-anthropic-pentagon-ai-dispute/",
+      "source": "The Hill",
+      "published": "2026-02-19T11:00:00.000Z",
+      "description": "Anthropic has increasingly found itself at odds with the Pentagon over how its AI model Claude can be deployed in military operations following disclosure about its use in the raid that captured Venezuelan President Nicolas Maduro last month. The AI company is one of several firms that secured a massive contract with the Defense Department…",
+      "keywords": [
+        "raid",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a business/contract dispute between a private company and the Pentagon regarding AI deployment terms, lacking direct implications for constitutional checks and balances or democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:32.454Z"
+    },
+    {
+      "id": "bfeb4aabac51",
+      "title": "Dueling PACs take center stage in midterm elections over AI regulation",
+      "url": "https://www.cnbc.com/2026/02/19/dueling-pacs-take-center-stage-in-midterm-elections-over-ai-regulation.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T10:00:01.000Z",
+      "description": "Two groups with opposite missions and backing from different companies are making a New York congressional primary a central battleground.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of campaign spending and interest group activity in a congressional primary, without evidence of institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:34.265Z"
+    },
+    {
+      "id": "e79ad2b4a3f6",
+      "title": "U.S. says Tehran would be ‘very wise’ to make a deal as Russia, Iran hold naval drills",
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T11:17:56.000Z",
+      "description": "It comes shortly after Vice President JD Vance accused Iran of failing to address core U.S. demands during nuclear talks in Geneva, Switzerland.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy news about nuclear negotiations and diplomatic messaging with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:34.514Z"
+    },
+    {
+      "id": "6b5935a2cb33",
+      "title": "'Do not give away Diego Garcia': Trump attacks the UK over Chagos Islands deal, again",
+      "url": "https://www.cnbc.com/2026/02/19/trump-us-chagos-islands-deal-diego-garcia-uk-starmer.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T08:23:36.000Z",
+      "description": "Trump told the U.K. not to \"give away\" the Chagos Islands, which is where a joint U.S.-U.K. military base is located.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a foreign policy disagreement statement with no direct bearing on domestic U.S. democratic institutions, checks and balances, or constitutional governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:34.178Z"
+    },
+    {
+      "id": "f70e0fee115e",
+      "title": "Andrew Mountbatten-Windsor Arrested on Suspicion of Misconduct in Public Office",
+      "url": "https://www.rollingstone.com/politics/politics-news/andrew-mountbatten-windsor-arrested-misconduct-1235519229/",
+      "source": "Rolling Stone",
+      "published": "2026-02-19T11:06:56.000Z",
+      "description": "The British royal was detained at his home in England on Thursday morning following an \"assessment\" of revelations in the Epstein files",
+      "keywords": [
+        "ICE",
+        "detained"
+      ],
+      "significance": 1,
+      "reason": "This article concerns a British royal family matter with no connection to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T12:09:35.806Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-19T06:19:50.361Z"
+  "lastFetch": "2026-02-19T12:09:35.806Z"
 }
