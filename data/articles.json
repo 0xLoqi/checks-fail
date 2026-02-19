@@ -19590,8 +19590,573 @@
       "reason": "This article concerns a British royal family matter with no connection to U.S. democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-19T12:09:35.806Z"
+    },
+    {
+      "id": "432eb5e52072",
+      "title": "A Republican plan to overhaul voting is back. Here's what's new in the bill",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5719252/trump-voting-save-america-act-explainer",
+      "source": "NPR Politics",
+      "published": "2026-02-19T16:15:55.000Z",
+      "description": "A Republican voting overhaul is back on Capitol Hill — with an added photo identification provision and an altered name. Opponents say the legislation would disenfranchise millions of voters.",
+      "keywords": [
+        "voting",
+        "voter"
+      ],
+      "significance": 6,
+      "reason": "The proposed legislation directly impacts election infrastructure and voting access, representing a notable policy initiative with significant partisan implications, though it remains at the proposal stage without enacted changes to democratic structures.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-19T18:15:17.260Z"
+    },
+    {
+      "id": "8f47c516fc5d",
+      "title": "Refugees in the U.S. could be arrested under a new immigration memo",
+      "url": "https://www.npr.org/2026/02/19/g-s1-110721/trump-administration-refugees-memo-arrest",
+      "source": "NPR Politics",
+      "published": "2026-02-19T15:10:49.000Z",
+      "description": "The move is another Trump administration effort to limit legal pathways to migration or resettlement, after already curbing the number of admitted refugees and re-reviewing those admitted under the Biden administration.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable policy shift with potential civil rights implications, but falls short of critical severity as it operates within executive authority over immigration enforcement rather than dismantling institutional checks.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-19T18:15:17.130Z"
+    },
+    {
+      "id": "d610ab26fd04",
+      "title": "Police arrest Ex-Prince Andrew. And, Trump hosts the first Board of Peace meeting",
+      "url": "https://www.npr.org/2026/02/19/g-s1-110710/up-first-newsletter-trump-board-of-peace-ukraine-russia-prince-andrew-arrest",
+      "source": "NPR Politics",
+      "published": "2026-02-19T12:21:31.000Z",
+      "description": "U.K. police arrested Former Prince Andrew today on suspicion of misconduct in public office, U.K. media reports. And, President Trump is hosting the first-ever Board of Peace meeting today.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "The Prince Andrew arrest is foreign news unrelated to U.S. democratic institutions, while the Board of Peace meeting lacks sufficient detail to assess institutional impact on checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:16.872Z"
+    },
+    {
+      "id": "6d384183ae2a",
+      "title": "Trump gathers members of Board of Peace for first meeting, with some U.S. allies wary",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5719053/trump-board-of-peace-meeting",
+      "source": "NPR Politics",
+      "published": "2026-02-19T06:30:21.000Z",
+      "description": "Trump created the group to oversee his ceasefire plan in Gaza, and said member states have pledged $7 billion for Gaza reconstruction. He also said the U.S. will contribute $10 billion to the Board of Peace.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a foreign policy initiative regarding Gaza reconstruction that does not implicate U.S. domestic democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:16.918Z"
+    },
+    {
+      "id": "48381a198d2f",
+      "title": "WATCH: Trump says 'nobody occupied' U.S. Institute of Peace, he 'had nothing to do' with renaming the building after him",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-nobody-occupied-u-s-institute-of-peace-he-had-nothing-to-do-with-renaming-the-building-after-him",
+      "source": "PBS NewsHour",
+      "published": "2026-02-19T17:59:48.000Z",
+      "description": "President Donald Trump said Thursday that Secretary of State Marco Rubio was the driving force behind renaming the U.S. Institute of Peace the \"Donald J. Trump U.S. Institute of Peace,\" in a move still being contested in courts.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Routine political statement about building nomenclature with no direct impact on institutional checks and balances, despite ongoing legal contestation.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-19T18:15:17.195Z"
+    },
+    {
+      "id": "0dc923633ca9",
+      "title": "WATCH LIVE: Trump touts economic agenda at Georgia rally ahead of March special election",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-touts-economic-agenda-at-georgia-rally-ahead-of-march-special-election",
+      "source": "PBS NewsHour",
+      "published": "2026-02-19T17:48:54.000Z",
+      "description": "On Thursday, President Donald Trump's team insists he will focus on the economy when he visits battleground Georgia in a trip designed to help boost Republicans' political standing heading into the high-stakes midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign coverage of a presidential rally focused on economic messaging during midterm elections, with no reported institutional actions, policy changes, or democratic checks implications.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:19.495Z"
+    },
+    {
+      "id": "7f54e3879816",
+      "title": "WATCH: Trump boasts he has 'very good record of endorsing' foreign leaders",
+      "url": "https://www.pbs.org/newshour/world/watch-trump-boasts-he-has-very-good-record-of-endorsing-foreign-leaders",
+      "source": "PBS NewsHour",
+      "published": "2026-02-19T17:31:11.000Z",
+      "description": "In one of many tangents, Trump used his speech at the Board of Peace meeting to reinforce his support for various foreign leaders who are facing or were recently facing a contested election in their country.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a candidate's public statements about foreign policy preferences, not evidence of institutional erosion or action affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:18.659Z"
+    },
+    {
+      "id": "aa4c2e38b648",
+      "title": "An arts panel made up of Trump appointees approves his proposal for a massive White House ballroom",
+      "url": "https://www.pbs.org/newshour/politics/an-arts-panel-made-up-of-trump-appointees-approves-his-proposal-for-a-massive-white-house-ballroom",
+      "source": "PBS NewsHour",
+      "published": "2026-02-19T16:20:37.000Z",
+      "description": "The National Trust for Historic Preservation has sued in federal court to halt construction of the ballroom.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine property dispute involving aesthetic and preservation concerns with no direct impact on constitutional checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:18.407Z"
+    },
+    {
+      "id": "23319fc0f398",
+      "title": "WATCH: Trump announces pledges for Gaza reconstruction and troop commitments at first Board of Peace meeting",
+      "url": "https://www.pbs.org/newshour/world/watch-live-trump-hosts-first-board-of-peace-meeting-as-some-u-s-allies-remain-skeptical",
+      "source": "PBS NewsHour",
+      "published": "2026-02-19T14:06:49.000Z",
+      "description": "President Donald Trump announced Thursday at the inaugural Board of Peace meeting that nine members of the body have agreed to pledge $7 billion toward a Gaza relief package and that five countries have agreed to deploy troops to take part in an international stabilization force to the war-battered Palestinian territory.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy and humanitarian announcements with no direct bearing on the tracked institutional checks and balances of U.S. democracy.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:18.407Z"
+    },
+    {
+      "id": "ded0330c66fc",
+      "title": "N.Y.-N.J. tunnel construction to resume after Trump releases funding",
+      "url": "https://www.nbcnews.com/politics/trump-administration/new-york-gateway-hudson-tunnel-construction-trump-releases-funds-rcna259703",
+      "source": "NBC News",
+      "published": "2026-02-19T13:02:16.000Z",
+      "description": "Construction on the massive $16 billion Hudson Tunnel Project will resume next week after the Trump administration on Wednesday released $127 million in frozen funding, New York Governor Kathy Hochul said",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns infrastructure funding allocation with no direct bearing on democratic institutions, checks and balances, or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:20.327Z"
+    },
+    {
+      "id": "33c82bfd48d1",
+      "title": "Trump says outcome of Iran talks could come within next 10 days",
+      "url": "https://www.nbcnews.com/video/trump-says-outcome-of-iran-talks-could-come-within-next-10-days-257972805884",
+      "source": "NBC News",
+      "published": "2026-02-19T17:05:23.000Z",
+      "description": "While hosting the first meeting for the Board of Peace, President Donald Trump spoke about the ongoing talks with Iran and said the outcome of the negotiations could come in the next 10 days.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy news reporting on diplomatic negotiations with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:20.712Z"
+    },
+    {
+      "id": "f1d56f5e38c2",
+      "title": "Ex-South Korean president sentenced to life in prison over martial law order",
+      "url": "https://www.nbcnews.com/now/video/ex-south-korean-president-sentenced-to-life-in-prison-over-martial-law-order-257958469801",
+      "source": "NBC News",
+      "published": "2026-02-19T14:06:05.000Z",
+      "description": "Yoon Suk Yeol, the impeached president of South Korea, was found guilty of insurrection and sentenced to life in prison over his failed attempt to impose martial law on the U.S. ally. NBC News' Janis Mackey Frayer reports on Suk Yeol's short-lived power grab that sent the Asian democracy into political turmoil in 2024.",
+      "keywords": [
+        "impeach",
+        "democracy"
+      ],
+      "significance": 1,
+      "reason": "This article concerns South Korean governance and does not directly relate to U.S. democratic institutions or their checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:20.461Z"
+    },
+    {
+      "id": "64f7bbac32b1",
+      "title": "US Builds Up Weaponry in Middle East Amid Tensions With Iran",
+      "url": "https://www.today.com/video/us-increases-middle-east-arsenal-as-trump-weighs-iran-strikes-257953349993",
+      "source": "NBC News",
+      "published": "2026-02-19T12:31:27.000Z",
+      "description": "The United States military is pushing more warships and weapons into the Middle East to protect U.S. allies and bases there. President Donald Trump has been contemplating strikes on Iran while simultaneously pursuing diplomatic talks to reach a deal in restricting Iran’s nuclear program as well as its missiles. NBC’s Keir Simmons reports for TODAY.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine military deployment and foreign policy decisions that do not directly implicate the 12 tracked categories of domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:20.543Z"
+    },
+    {
+      "id": "0f6d0eb9e827",
+      "title": "Trump says U.S. will contribute $10 billion to Board of Peace",
+      "url": "https://www.cbsnews.com/news/trump-says-us-to-contribute-10-billion-for-board-of-peace/",
+      "source": "CBS News",
+      "published": "2026-02-19T17:29:00.000Z",
+      "description": "President Trump made the announcement during the first meeting of his Board of Peace, although the funding source is unclear.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This appears to be routine political announcement coverage without clear implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:21.644Z"
+    },
+    {
+      "id": "20056c57896a",
+      "title": "Arts commission approves Trump's White House ballroom, clearing key hurdle",
+      "url": "https://www.cbsnews.com/news/trump-white-house-ballroom-commission-of-fine-arts/",
+      "source": "CBS News",
+      "published": "2026-02-19T16:39:11.000Z",
+      "description": "A commission that advises the federal government on architecture and the arts voted to approve President Trump's overhaul of the White House East Wing.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine approval of architectural modifications to federal building infrastructure with no direct bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:21.684Z"
+    },
+    {
+      "id": "2ae9ae2115f0",
+      "title": "Here's what's in the Epstein files about former Prince Andrew",
+      "url": "https://www.cbsnews.com/news/epstein-files-former-prince-andrew-arrested/",
+      "source": "CBS News",
+      "published": "2026-02-19T16:10:00.000Z",
+      "description": "Former Prince Andrew's arrest followed the release of a massive trove of Epstein files by the U.S. Justice Department that included a series of potentially incriminating documents related to his activities as trade envoy.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a criminal investigation outcome with no bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:22.134Z"
+    },
+    {
+      "id": "b889b30cdc98",
+      "title": "Puerto Vallarta-area timeshare was a cartel-run fraud engine, officials say",
+      "url": "https://www.cbsnews.com/news/kovay-gardens-puerto-vallarta-mexico-cartel-fraud-scam-treasury/",
+      "source": "CBS News",
+      "published": "2026-02-19T15:30:19.000Z",
+      "description": "The U.S. Treasury Department on Thursday sanctioned Kovay Gardens, accusing the Mexican resort of operating under the direction of the Cartel de Jalisco Nueva Generación, or CJNG.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports routine law enforcement action against a criminal enterprise abroad with no direct implications for U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:23.118Z"
+    },
+    {
+      "id": "b32c902afd44",
+      "title": " Wisconsin poised to leave Arkansas as only state without expanded Medicaid for new moms",
+      "url": "https://abcnews.com/Politics/wireStory/wisconsin-poised-leave-arkansas-state-expanded-medicaid-new-130302844",
+      "source": "ABC News",
+      "published": "2026-02-19T16:21:05.000Z",
+      "description": "Wisconsin Republicans who long blocked a bipartisan measure to expand postpartum Medicaid coverage plan to pass the measure following pressure from Democrats",
+      "keywords": [
+        "medicaid"
+      ],
+      "significance": 2,
+      "reason": "This article addresses healthcare policy implementation rather than democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:21.398Z"
+    },
+    {
+      "id": "590ad700832b",
+      "title": "As prices rise, corporate America braces for the blame",
+      "url": "https://www.axios.com/2026/02/19/prices-costs-affordability-corporate-america-midterms",
+      "source": "Axios",
+      "published": "2026-02-19T16:59:04.000Z",
+      "description": "The pricing and affordability debate is heating up, and it's likely to get even more politicized ahead of the 2026 midterms.\nWhy it matters: Rising costs remain a vulnerability for the Trump administration and the Republican Party, and the president can blame the \"Biden economy\" for only so long.\n\nThe next most likely target: corporate America.\n\nState of play: 2026 has already brought higher-than-usual price increases for utilities, electronics, appliances and other household staples.\n\nHome elec",
+      "keywords": [
+        "voter",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine political and economic commentary about pricing debates and midterm strategy with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:24.263Z"
+    },
+    {
+      "id": "78386ca56b86",
+      "title": "Former Prince Andrew was arrested. What the Epstein files revealed about him",
+      "url": "https://www.axios.com/2026/02/19/prince-andrew-arrest-epstein-files",
+      "source": "Axios",
+      "published": "2026-02-19T14:28:54.000Z",
+      "description": "Andrew Mountbatten-Windsor, formerly Prince Andrew, was arrested on Thursday on suspicion of misconduct in public office, authorities said. \nWhy it matters: The second son of the late Queen Elizabeth II now becomes the most prominent associate of convicted sex offender Jeffrey Epstein to face criminal consequences for his dealings with the disgraced financier. \n\nMountbatten-Windsor has consistently denied wrongdoing in connection with his relationship with Epstein. \nIn the latest round of Epstei",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a criminal matter involving a foreign national with no direct bearing on U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:24.105Z"
+    },
+    {
+      "id": "07c6265a707e",
+      "title": "Federal arts panel approves Trump’s White House ballroom renovation",
+      "url": "https://thehill.com/homenews/administration/5745521-federal-arts-panel-approves-trump-white-house-ballroom-renovation/",
+      "source": "The Hill",
+      "published": "2026-02-19T18:06:51.000Z",
+      "description": "A federal arts panel appointed by President Trump signed off on Trump’s plan to construct a new 90,000-square-foot ballroom on the East Wing of the White House, according to The Associated Press. Six of the seven members of the U.S. Commission of Fine Arts (CFA) gave final approval to the project during a meeting that…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine architectural approval for White House renovation with no direct bearing on democratic institutions, oversight mechanisms, or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:24.222Z"
+    },
+    {
+      "id": "b16cba53a455",
+      "title": "Trump Station? America’s place names are not bargaining chips.",
+      "url": "https://thehill.com/opinion/white-house/5743779-renaming-dulles-penn-station-trump/",
+      "source": "The Hill",
+      "published": "2026-02-19T18:00:00.000Z",
+      "description": "The president appears to be tying the future of vital infrastructure, a public good, to the promotion of his name.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the practice raises concerns about presidential overreach and potential corruption/self-dealing, the actual institutional impact remains unclear without concrete evidence of infrastructure decisions being materially altered or democratic processes being circumvented.",
+      "categories": [
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-19T18:15:24.379Z"
+    },
+    {
+      "id": "fba1e08de46c",
+      "title": "West Virginia alleges Apple failed to detect, report child sexual abuse material",
+      "url": "https://thehill.com/policy/technology/5745470-west-virginia-apple-child-safety/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:54:07.000Z",
+      "description": "West Virginia in a new lawsuit is accusing Apple of knowingly permitting its iCloud platform to be used to store and distribute child sexual abuse material.  The state’s attorney general, John McCuskey, filed the complaint in the Circuit Court of Mason County on Thursday, demanding the company adopt “effective” detection measures for this illicit content. …",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is a routine consumer protection and criminal enforcement matter involving a private company's content moderation practices, with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:24.533Z"
+    },
+    {
+      "id": "630297201c49",
+      "title": "US military leader meets with Rodríguez after Maduro ouster from Venezuela",
+      "url": "https://thehill.com/policy/defense/5745482-southcom-leader-meeting-delcy-rodriguez-venezuela/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:47:20.000Z",
+      "description": "The U.S. military leader overseeing operations and forces in Latin America met with Venezuela’s interim President Delcy Rodríguez in Caracas on Wednesday, as the Trump administration continues to forge ties with the Venezuelan government after the ouster of Nicolás Maduro.   Rodríguez huddled with U.S. Southern Command (Southcom) Cmdr. Gen. Francis L. Donovan, Ambassador Laura F.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports routine diplomatic and military engagement with a foreign government and does not involve domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:26.036Z"
+    },
+    {
+      "id": "2b0d1c892132",
+      "title": "Ricketts backs his wife, a Democrat, in Nebraska election",
+      "url": "https://thehill.com/homenews/campaign/5745468-pete-ricketts-endorses-wife-susanne/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:41:26.000Z",
+      "description": "Republican Sen. Pete Ricketts (Neb.) has endorsed his wife, Susanne Shore, who’s campaigning for a seat on the University of Nebraska Board of Regents as a Democrat. The couple has traditionally dueled over which party’s candidate should rise to state leadership and both have frequently funded opposing campaigns for mayor and the Nebraska Legislature.  Despite…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a candidate endorsement with no bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:25.544Z"
+    },
+    {
+      "id": "13ad2d27dff7",
+      "title": "A year of failure: Trump’s attempt to end the Russia-Ukraine war",
+      "url": "https://thehill.com/opinion/international/5744722-trump-russia-ukraine-war/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:30:00.000Z",
+      "description": "President Trump's attempt to end the Russia-Ukraine war has failed due to his lack of pressure on Russia, with Putin refusing to make concessions and Trump not providing any new military or financial assistance to Ukraine.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses foreign policy outcomes rather than impacts on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:25.352Z"
+    },
+    {
+      "id": "a393356e4f18",
+      "title": "DHS halts some FEMA travel amid partial shutdown",
+      "url": "https://thehill.com/policy/energy-environment/5745433-dhs-fema-funding-shutdown-immigration/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:26:41.000Z",
+      "description": "The Department of Homeland Security (DHS) is halting at least some disaster-related travel at the Federal Emergency Management Agency (FEMA) as the Trump administration tussles with Democratic lawmakers over funding, according to an internal email reviewed by The Hill. “DHS has issued a stop-travel order for all DHS funded travel … for the duration of…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A travel halt during shutdown negotiations is operationally disruptive and concerning for emergency response capacity, but represents routine fiscal brinksmanship rather than structural institutional erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-19T18:15:26.094Z"
+    },
+    {
+      "id": "f6fb07e4d861",
+      "title": "Substack, Polymarket announce partnership: ‘Journalism is better when it’s backed by live markets’",
+      "url": "https://thehill.com/homenews/5745387-substack-polymarket-partnership-prediction/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:14:04.000Z",
+      "description": "Publishing platform Substack and prediction market Polymarket announced a new partnership on Wednesday. The new partnership will allow Substack users to integrate Polymarket’s prediction data directly into their content. Substack said 1 in 5 of Substack’s top 250 highest-revenue publications started using Polymarket’s data to produce content focusing on current events like election timelines, shifting…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is a routine announcement about a commercial partnership between two private platforms with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:25.430Z"
+    },
+    {
+      "id": "35787cc10300",
+      "title": "News, Fox Corp. to match federal contribution to ‘Trump Accounts’",
+      "url": "https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:12:38.000Z",
+      "description": "Rupert Murdoch’s News and Fox Corps. will match the U.S. government’s one-time $1,000 contribution to the Section 530A accounts, informally known as “Trump Accounts” that the administration says are designed to “jumpstart the American Dream” for children across the country. Starting in July, eligible U.S. employees of the two media properties “will have the opportunity…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents potential corruption and self-dealing through corporate alignment with administration policy, but lacks evidence of direct quid pro quo or institutional coercion affecting democratic mechanisms.",
+      "categories": [
+        "corruption & self-dealing",
+        "press freedom"
+      ],
+      "scoredAt": "2026-02-19T18:15:27.280Z"
+    },
+    {
+      "id": "ba64c718db20",
+      "title": "Trump jokes he almost fired Rubio over Munich speech",
+      "url": "https://thehill.com/homenews/administration/5745314-trump-rubio-munich-speech/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:03:06.000Z",
+      "description": "President Trump joked Thursday that he nearly “fired” Secretary of State Marco Rubio for his well-received speech last week at the Munich Security Conference. During the first meeting of his Board of Peace to rebuild the Gaza Strip, the president said Rubio “really did yourself proud” in Munich.  “In fact, so proud that I almost…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A joking remark about nearly firing a cabinet member is routine political banter without substantive institutional impact or evidence of actual checks-and-balances erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:27.179Z"
+    },
+    {
+      "id": "a1742a71f0f2",
+      "title": "Live updates: Trump heads to Georgia as DHS shutdown drags on; former Prince Andrew arrested",
+      "url": "https://thehill.com/homenews/administration/5743611-live-updates-trump-dhs-shutdown-board-of-peace/",
+      "source": "The Hill",
+      "published": "2026-02-19T17:02:37.000Z",
+      "description": "President Trump is on his way to Georgia, where he will deliver remarks about the economy later Thursday.  His visit to the battleground state comes as Capitol Hill remains at a standstill on negotiations to fund the Department of Homeland Security (DHS). Funding lapsed for the department over the weekend. The White House has taken…",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news covering a presidential visit and ongoing budget negotiations without indication of democratic checks and balances being substantially affected.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:27.328Z"
+    },
+    {
+      "id": "b7f80912ec6f",
+      "title": "Section 301 won’t save Trump’s tariffs if the Supreme Court strikes them down ",
+      "url": "https://thehill.com/opinion/judiciary/5743662-trump-tariffs-section-301/",
+      "source": "The Hill",
+      "published": "2026-02-19T16:30:00.000Z",
+      "description": "Section 301 cannot lawfully backfill for Trump’s current tariffs.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is legal analysis commentary on tariff authority and Supreme Court interpretation, not reporting on institutional actions or democratic checks erosion.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:27.044Z"
+    },
+    {
+      "id": "edc771ac230d",
+      "title": "Trump says US committing $10 billion to Board of Peace",
+      "url": "https://thehill.com/policy/international/5745297-trump-funding-board-of-peace/",
+      "source": "The Hill",
+      "published": "2026-02-19T16:23:50.000Z",
+      "description": "President Trump said Thursday the U.S. is committing $10 billion to the Board of Peace, the forum that was created to reconstruct the Gaza Strip but that the president wants to see broadened to tackle other foreign conflicts. Trump made the pledge during the first meeting of the Board of Peace, held in Washington, D.C.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports a routine foreign policy funding announcement with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:27.070Z"
+    },
+    {
+      "id": "3afee7ca60bd",
+      "title": "Kennedy defends Trump glyphosate order; MAHA erupts as midterms approach",
+      "url": "https://www.cnbc.com/2026/02/19/trump-kennedy-glyphosate-maha-midterms-rfk-jr.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T17:19:11.000Z",
+      "description": "President Donald Trump on Wednesday invoked the Defense Production Act to spur the domestic production of glyphosate and elemental phosphorus.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A domestic production order for agricultural chemicals using existing executive authority is routine economic policy lacking direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T18:15:28.381Z"
+    },
+    {
+      "id": "33ad10dd2c68",
+      "title": "Trump’s VA Found a New Way to Cut Disability Compensation for Vets",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-va-changes-disability-ratings-rule-veterans-1235519325/",
+      "source": "Rolling Stone",
+      "published": "2026-02-19T17:15:00.000Z",
+      "description": "The administration continues to punish the men and women who served the nation",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Administrative policy change affecting federal programs with potential civil rights implications, but lacks evidence of systemic institutional erosion or unprecedented democratic breach.",
+      "categories": [
+        "federal programs & agencies",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-02-19T18:15:28.973Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-19T12:09:35.806Z"
+  "lastFetch": "2026-02-19T18:15:28.973Z"
 }
