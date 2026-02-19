@@ -18986,8 +18986,235 @@
       "reason": "This is a routine business commentary on cryptocurrency regulation without direct implications for democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-19T00:12:03.256Z"
+    },
+    {
+      "id": "41aedd1be2de",
+      "title": "U.S. military pushes more weaponry into the Middle East for possible strikes on Iran",
+      "url": "https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632",
+      "source": "NBC News",
+      "published": "2026-02-19T04:21:43.000Z",
+      "description": "WASHINGTON — The Defense Department is sending a large array of additional weaponry to the Middle East, including more warships, air defenses and submarines, in preparation for a possible military strike on Iran if President Donald Trump makes that decision, according to U.S. officials and information from public tracking.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Military deployment decisions, while significant in foreign policy, do not directly implicate the tracked democratic checks and balances categories focused on domestic institutional independence and integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:46.052Z"
+    },
+    {
+      "id": "d2cc4307e304",
+      "title": "Trump administration gives ICE broader powers to detain legal refugees",
+      "url": "https://www.cbsnews.com/news/trump-administration-gives-ice-broader-powers-to-detain-legal-refugees-citing-security-concerns/",
+      "source": "CBS News",
+      "published": "2026-02-19T03:59:34.000Z",
+      "description": "The Trump administration has given ICE the authority to detain refugees who entered the U.S. lawfully but don't have green cards yet, part of a bid to scrutinize the legal immigration system, according to a government memo obtained by CBS News.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Significant institutional action expanding executive detention authority over legally present individuals, affecting immigration & civil rights protections and potentially constraining judicial review of immigration proceedings.",
+      "categories": [
+        "immigration & civil rights",
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-02-19T06:19:46.861Z"
+    },
+    {
+      "id": "588176c29b9a",
+      "title": "Judge holds DOJ lawyer in contempt as tensions flare over immigration cases",
+      "url": "https://www.cbsnews.com/news/minnesota-judge-holds-lawyer-for-doj-in-contempt-as-tensions-flare-over-immigration-cases/",
+      "source": "CBS News",
+      "published": "2026-02-19T01:29:35.000Z",
+      "description": "A Minnesota federal judge ordered a government attorney to be held in civil contempt of court, further escalating tension between the judiciary and Trump administration over immigration cases.",
+      "keywords": [
+        "DOJ",
+        "immigration",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A contempt ruling against DOJ counsel signals judicial enforcement of institutional boundaries against executive overreach, representing a significant institutional action with implications for DOJ independence and judicial oversight.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-02-19T06:19:46.083Z"
+    },
+    {
+      "id": "0284c0ef4ad4",
+      "title": "Mass departures from DOJ are boon for law firms, legal groups",
+      "url": "https://www.cbsnews.com/news/mass-departures-justice-dept-boon-for-law-firms-legal-groups-campaigns/",
+      "source": "CBS News",
+      "published": "2026-02-19T00:30:08.000Z",
+      "description": "More than 5,000 employees have resigned, retired or been fired​ from the Justice Department in the first year of Mr. Trump's second administration.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Mass departure of 5,000+ DOJ employees represents significant institutional disruption affecting prosecutorial capacity, institutional memory, and DOJ independence, though the full democratic impact depends on replacement quality and motivations.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-02-19T06:19:48.650Z"
+    },
+    {
+      "id": "431172ad7ff1",
+      "title": "Bondi orders Justice Department to prioritize animal welfare enforcement",
+      "url": "https://www.cbsnews.com/news/bondi-orders-justice-department-to-prioritize-animal-welfare-enforcement/",
+      "source": "CBS News",
+      "published": "2026-02-19T00:23:05.000Z",
+      "description": "Attorney General Pam Bondi ordered the Justice Department to prioritize animal welfare enforcement, in a move she said will entail stepping up prosecutions and even doling out grants to animal welfare groups.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine prosecutorial priority-setting on a non-political issue that does not implicate democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:48.378Z"
+    },
+    {
+      "id": "16bb7f0bdaf3",
+      "title": "U.S. military strike on Iran could happen as soon as Saturday, officials say",
+      "url": "https://www.cbsnews.com/video/us-military-strike-iran-could-happen-as-soon-as-saturday-officials-say/",
+      "source": "CBS News",
+      "published": "2026-02-19T00:22:00.000Z",
+      "description": "A potential military strike on Iran could happen as soon as Saturday, according to top national security officials. President Trump has been putting military pressure on Iran to work out a nuclear deal by sending U.S. warships and fighter jets to the region. Ed O'Keefe reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy/military reporting about potential military action that does not directly implicate domestic democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:49.207Z"
+    },
+    {
+      "id": "546c2ca279e4",
+      "title": " Governors arrive in Washington eager to push past Trump's partisan grip",
+      "url": "https://abcnews.com/Politics/wireStory/governors-arrive-washington-eager-push-past-trumps-partisan-130290395",
+      "source": "ABC News",
+      "published": "2026-02-19T05:18:21.000Z",
+      "description": "Governors are arriving in Washington for an annual gathering that has traditionally been a show of bipartisanship",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about governors meeting in Washington with standard partisan dynamics, with no mention of institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:48.363Z"
+    },
+    {
+      "id": "dfb64d69e812",
+      "title": "Coca-Cola bottler sued by federal agency over work event that excluded men",
+      "url": "https://www.axios.com/2026/02/19/coca-cola-bottler-work-discrimination-lawsuit-men-women",
+      "source": "Axios",
+      "published": "2026-02-19T03:40:04.000Z",
+      "description": "A Coca-Cola distributor and bottler is being sued for alleged sexual discrimination over a corporate networking event that excluded men, announced the U.S. Equal Employment Opportunity Commission, which filed the lawsuit, Wednesday.\nWhy it matters: This is the first lawsuit related to workplace diversity that the federal agency in charge of enforcing anti-discrimination laws at work has filed during President Trump's second term.\n\nTrump has made dismantling diversity, equity and inclusion polici",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine enforcement action by a federal agency applying existing anti-discrimination law to a specific workplace practice, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:48.539Z"
+    },
+    {
+      "id": "f141b5688eaf",
+      "title": "Zuckerberg testifies in landmark social media addiction trial",
+      "url": "https://www.axios.com/2026/02/18/zuckerberg-testifies-landmark-social-media-addiction-trial",
+      "source": "Axios",
+      "published": "2026-02-18T21:26:55.000Z",
+      "description": "Meta CEO Mark Zuckerberg on Wednesday was grilled for past statements about his company's role in child safety and knowledge of alleged harms.\nWhy it matters: This is the first time Zuckerberg has faced a jury in a courtroom alongside families who say that Meta's products harmed their children. \n\nThis test case could determine the outcome of more than 1,500 other pending social media addiction cases that were consolidated from parents and school districts.\n\nZuckerberg argued Instagram is valuabl",
+      "keywords": [
+        "ICE",
+        "SNAP"
+      ],
+      "significance": 4,
+      "reason": "While this litigation is significant for corporate accountability and consumer protection, it primarily concerns private sector liability rather than direct threats to governmental checks and balances, though it touches on broader institutional integrity.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-02-19T06:19:50.361Z"
+    },
+    {
+      "id": "c09a85060dcb",
+      "title": "Fed minutes show widening divide over rate cuts",
+      "url": "https://www.axios.com/2026/02/18/fed-interest-rates-minutes-january",
+      "source": "Axios",
+      "published": "2026-02-18T19:20:20.000Z",
+      "description": "Federal Reserve officials appear deeply divided over interest rates, with several suggesting the possibility of higher borrowing costs if inflation remains stubborn, according to policy meeting minutes released on Wednesday.\nWhy it matters: Officials are split over how weak the labor market is and whether businesses will continue to pass along tariff-related costs to consumers.\n\nThe result is a muddled outlook about the path ahead for rates as President Trump's pick to lead the Fed takes over in",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Article discusses routine monetary policy disagreements among Federal Reserve officials with no direct implications for institutional independence or democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:50.067Z"
+    },
+    {
+      "id": "3ffd02d5deb9",
+      "title": "Trump claims US trade deficit decreased by 78 percent due to tariffs",
+      "url": "https://thehill.com/business/5744684-trump-claims-trade-deficit-fall/",
+      "source": "The Hill",
+      "published": "2026-02-19T03:53:03.000Z",
+      "description": "President Trump on Wednesday claimed that the U.S. trade deficit has fallen by 78 percent because of tariffs. “THE UNITED STATES TRADE DEFICIT HAS BEEN REDUCED BY 78% BECAUSE OF THE TARIFFS BEING CHARGED TO OTHER COMPANIES AND COUNTRIES,” the president said in a post on his Truth Social platform. “IT WILL GO INTO POSITIVE…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential claim about trade statistics is routine economic commentary that does not directly implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:50.114Z"
+    },
+    {
+      "id": "75a6b26bffb1",
+      "title": "US preparing for pullout of all troops from Syria ",
+      "url": "https://thehill.com/policy/defense/5744568-syria-pullout-us-forces/",
+      "source": "The Hill",
+      "published": "2026-02-19T00:18:05.000Z",
+      "description": "The U.S. is preparing for a pullout of all troops stationed in Syria, readying to end its military presence deployed to fight against ISIS in the country, two U.S. officials told The Hill on Wednesday.   The move comes as the U.S. military has withdrawn service members from the al-Shaddadi base in northeast Syria and from…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Military deployment decisions, while important foreign policy matters, do not directly implicate domestic democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-02-19T06:19:50.061Z"
+    },
+    {
+      "id": "e83252b2b338",
+      "title": "Trump order pushes glyphosate production; Roundup chemical hated by MAHA",
+      "url": "https://www.cnbc.com/2026/02/18/trump-executive-order-weedkiller-hated-by-maha.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T02:03:05.000Z",
+      "description": "Secretary of Health and Human Services Robert F. Kennedy Jr.'s Make America Healthy Again movement is largely opposed to glyphosate.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses a regulatory/agricultural policy dispute between agencies without evidence of systematic erosion of democratic checks and balances or institutional independence.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-02-19T06:19:50.256Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-19T00:12:03.256Z"
+  "lastFetch": "2026-02-19T06:19:50.361Z"
 }
