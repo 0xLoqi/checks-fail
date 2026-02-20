@@ -109,12 +109,16 @@ async function scoreArticles(articles) {
     const batch = articles.slice(i, i + 5);
     const results = await Promise.all(batch.map(async (article) => {
       try {
-        const response = await client.messages.create({
-          model: 'claude-haiku-4-5-20251001',
-          max_tokens: 200,
-          messages: [{
-            role: 'user',
-            content: `Rate this article's significance to U.S. democratic checks and balances (1-10).
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 30000);
+        let response;
+        try {
+          response = await client.messages.create({
+            model: 'claude-haiku-4-5-20251001',
+            max_tokens: 200,
+            messages: [{
+              role: 'user',
+              content: `Rate this article's significance to U.S. democratic checks and balances (1-10).
 
 We track 12 categories: DOJ independence, FBI independence, intelligence community integrity, civil service independence, election infrastructure, congressional oversight, judicial independence, political retribution, press freedom, immigration & civil rights, corruption & self-dealing, federal programs & agencies.
 
@@ -129,8 +133,12 @@ Source: ${article.source}
 Summary: ${article.description}
 
 Respond ONLY with valid JSON: {"score": N, "reason": "one sentence", "categories": ["check-name"]}`
-          }]
-        });
+            }],
+            signal: controller.signal,
+          });
+        } finally {
+          clearTimeout(timeoutId);
+        }
 
         const text = response.content[0].text.trim();
         const jsonStr = text.replace(/^```json?\n?/, '').replace(/\n?```$/, '');
