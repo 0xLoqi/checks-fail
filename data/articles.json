@@ -20155,8 +20155,1838 @@
         "immigration & civil rights"
       ],
       "scoredAt": "2026-02-19T18:15:28.973Z"
+    },
+    {
+      "id": "3c68be5511fa",
+      "title": "Trump calls SCOTUS tariffs decision 'deeply disappointing' and lays out path forward",
+      "url": "https://www.npr.org/2026/02/20/nx-s1-5720826/trump-calls-scotus-tariffs-decision-deeply-disappointing-and-lays-out-path-forward",
+      "source": "NPR Politics",
+      "published": "2026-02-20T19:22:29.000Z",
+      "description": "President Trump claimed the justices opposing his position were acting because of partisanship, though three of those ruling against his tariffs were appointed by Republican presidents.",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.301Z"
+    },
+    {
+      "id": "9e1819298c10",
+      "title": "Supreme Court strikes down Trump's tariffs",
+      "url": "https://www.npr.org/2026/02/20/nx-s1-5672383/supreme-court-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-20T15:10:45.000Z",
+      "description": "The 6-3 ruling is a major blow to the president's signature economic policy.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.292Z"
+    },
+    {
+      "id": "9d9da6cb4a14",
+      "title": "Trump visits Georgia to promote economy to woo voters ahead of midterms",
+      "url": "https://www.npr.org/2026/02/20/nx-s1-5719476/trump-visits-georgia-to-promote-economy-to-woo-voters-ahead-of-midterms",
+      "source": "NPR Politics",
+      "published": "2026-02-20T12:21:47.000Z",
+      "description": "President Trump went to Georgia Thursday for his latest domestic stop, where he pitched the economy and touted his tariff policies to voters.",
+      "keywords": [
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.339Z"
+    },
+    {
+      "id": "f1727300eba1",
+      "title": "Trump says he doesn't know if aliens are real but directs government to release files on UFOs",
+      "url": "https://www.npr.org/2026/02/20/nx-s1-5720667/trump-says-he-doesnt-know-if-aliens-are-real-but-directs-government-to-release-files-on-ufos",
+      "source": "NPR Politics",
+      "published": "2026-02-20T07:06:20.000Z",
+      "description": "President Donald Trump said Thursday that he's directing the Pentagon and other government agencies to release files related to extraterrestrials and UFOs because of \"tremendous interest.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.309Z"
+    },
+    {
+      "id": "eda3b8996d4d",
+      "title": "Trump's Board of Peace pledges billions of dollars, thousands of troops for Gaza",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5719249/trumps-board-of-peace-pledges-billions-of-dollars-thousands-of-troops-for-gaza",
+      "source": "NPR Politics",
+      "published": "2026-02-19T22:31:36.000Z",
+      "description": "President Trump announces 10 billion dollars for rebuilding Gaza at the first meeting of his \"Board of Peace\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.420Z"
+    },
+    {
+      "id": "201a000e44de",
+      "title": "Internal memo details cosmetic changes and facility repairs to Kennedy Center",
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5717475/trump-kennedy-center-renovations",
+      "source": "NPR Politics",
+      "published": "2026-02-19T21:16:33.000Z",
+      "description": "Trump announced his plans to close the Kennedy Center entirely for two years \"for Construction, Revitalization, and Complete Rebuilding.\" The announcement came after many prominent artists canceled existing scheduled appearances.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.583Z"
+    },
+    {
+      "id": "ae4cf4a3d62c",
+      "title": "Why the Supreme Court ruled against Trump's tariffs",
+      "url": "https://www.pbs.org/newshour/show/why-the-supreme-court-ruled-against-trumps-tariffs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:55:11.000Z",
+      "description": "The Supreme Court struck down most of President Trump's tariffs in a blow to his agenda. In a 6-3 decision, the court ruled that he did not have the authority under an economic emergency law to issue such levies. The president responded, saying he would impose a global 10% tariff under a different law. Geoff Bennett spoke with News Hour Supreme Court analyst and SCOTUSBlog co-founder Amy Howe.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.531Z"
+    },
+    {
+      "id": "9ef133e69ee2",
+      "title": "Trump's administration is loaded with people who backed his false 2020 election claims",
+      "url": "https://www.pbs.org/newshour/politics/trumps-administration-is-loaded-with-people-who-backed-his-false-2020-election-claims",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:50:32.000Z",
+      "description": "President Donald Trump has long spread conspiracy theories  designed to explain away his 2020 election loss. Now that he's president again, Trump has stocked his administration with those who have promoted his falsehoods and in some cases helped him try to overturn his loss.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.532Z"
+    },
+    {
+      "id": "497a26686631",
+      "title": "What's next for consumers and the economy after the Supreme Court's tariff ruling",
+      "url": "https://www.pbs.org/newshour/show/whats-next-for-consumers-and-the-economy-after-the-supreme-courts-tariff-ruling",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:50:25.000Z",
+      "description": "After the Supreme Court struck down many of President Trump's global tariffs, he pledged to keep most of them in place through other means. To discuss what the ruling and the president's response mean for the economy, Amna Nawaz spoke with Natasha Sarin, a professor of law and finance at Yale University and president of The Budget Lab at Yale.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.536Z"
+    },
+    {
+      "id": "c852907058e4",
+      "title": "Business owner who challenged Trump's tariffs reacts to Supreme Court decision",
+      "url": "https://www.pbs.org/newshour/show/business-owner-who-challenged-trumps-tariffs-reacts-to-supreme-court-decision",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:45:19.000Z",
+      "description": "One of the plaintiffs in the Supreme Court case that overturned many of President Trump's tariffs is Rick Woldenberg. He's the owner of the Chicago-based small toy manufacturer, Learning Resources. Woldenberg joined Geoff Bennett to discuss the ruling and what comes next for his business.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.517Z"
+    },
+    {
+      "id": "fe4df6b2048c",
+      "title": "Wyoming Gov. Gordon on tariffs, energy and environmental stewardship",
+      "url": "https://www.pbs.org/newshour/show/wyoming-gov-gordon-on-tariffs-energy-and-environmental-stewardship",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:25:51.000Z",
+      "description": "President Trump welcomed both Democratic and Republican governors to the White House on Friday. As that meeting was underway, the Supreme Court handed down a major ruling against tariffs. The decision could affect a number of states, including Wyoming, where trade and energy production play an important role in the state's economy. Geoff Bennett discussed more with Wyoming Gov. Mark Gordon.",
+      "keywords": [
+        "white house",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.695Z"
+    },
+    {
+      "id": "8d8fb0c23aeb",
+      "title": "Brooks and Capehart on the tariff ruling and Trump's attacks on Supreme Court justices",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-the-tariff-ruling-and-trumps-attacks-on-supreme-court-justices",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T23:20:13.000Z",
+      "description": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including the Supreme Court's tariff ruling, President Trump's attacks on the justices, the first meeting of the Board of Peace and reflections on Rev. Jesse Jackson after his passing.",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.690Z"
+    },
+    {
+      "id": "aabf79a720ad",
+      "title": "WATCH LIVE: President Donald Trump's 2026 State of the Union address",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-president-donald-trumps-2026-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T22:47:44.000Z",
+      "description": "President Donald Trump will deliver his first State of the Union address of his second term before Congress and the nation on Tuesday. Watch live here.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.636Z"
+    },
+    {
+      "id": "ee951abdbba2",
+      "title": "WATCH: Transportation Secretary Duffy announces English-only commercial driver's license tests",
+      "url": "https://www.pbs.org/newshour/politics/watch-transportation-secretary-duffy-announces-english-only-commercial-drivers-license-tests",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T20:45:18.000Z",
+      "description": "All truckers and pass drivers will have to take their commercial driver's license tests in English as the Trump administration expands its aggressive campaign to improve safety in the industry and get unqualified drivers off the road.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.681Z"
+    },
+    {
+      "id": "ccbd9fd8cab6",
+      "title": "WATCH: Trump 'absolutely ashamed' of 'certain' Supreme Court justices after tariff decision",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-absolutely-ashamed-of-certain-supreme-court-justices-after-tariff-decision",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T20:37:10.000Z",
+      "description": "President Donald Trump slammed the U.S. Supreme Court on Friday for striking down global tariffs he imposed using the International Emergency Economic Powers Act. Watch the clip in the video player above. \"I'm ashamed of certain members of the court, absolutely ashamed, for not having the courage to do what's right for our country,\" the president said during a White House news conference. WATCH: Trump holds news conference after Supreme Court strikes down his global...",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.685Z"
+    },
+    {
+      "id": "470f1aba1b06",
+      "title": "How to watch Trump's 2026 State of the Union",
+      "url": "https://www.pbs.org/newshour/politics/how-to-watch-trumps-2026-state-of-the-union",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T20:05:57.000Z",
+      "description": "With midterm elections on the horizon, a number of pain points threaten to overshadow the list of accomplishments Trump is sure to tout during his big, primetime speech.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.801Z"
+    },
+    {
+      "id": "89e3806f3fea",
+      "title": "Trump's face is now on the Justice Department headquarters",
+      "url": "https://www.pbs.org/newshour/politics/trumps-face-is-now-on-the-justice-department-headquarters",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T19:38:28.000Z",
+      "description": "While Trump banners have been hung outside other agencies across Washington, the decision to place one on the storied Justice Department building amounted to a striking symbol of the erosion of the department's tradition of independence from White House control.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.807Z"
+    },
+    {
+      "id": "c32758d86b87",
+      "title": "What to know about the Supreme Court ruling on Trump's tariffs",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-supreme-court-ruling-on-trumps-tariffs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T19:12:06.000Z",
+      "description": "In its 6-3 opinion on Friday, the court ruled Trump's attempt to use an emergency powers law to enact the levies was not valid.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.789Z"
+    },
+    {
+      "id": "baa992b01350",
+      "title": "Why Texas' redistricting plan isn't a sure bet",
+      "url": "https://www.pbs.org/newshour/politics/why-texas-redistricting-plan-isnt-a-sure-bet",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T18:03:20.000Z",
+      "description": "Republicans pursued that goal largely by \"cracking\" Democratic-leaning voters across multiple districts.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.778Z"
+    },
+    {
+      "id": "718bb14359fb",
+      "title": "What happens now that the Supreme Court struck down Trump's tariffs?",
+      "url": "https://www.pbs.org/newshour/politics/what-happens-now-that-the-supreme-court-struck-down-trumps-tariffs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T17:55:22.000Z",
+      "description": "Friday's ruling will most likely prolong political and economic chaos over international trade through the election year.",
+      "keywords": [
+        "election",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:31.956Z"
+    },
+    {
+      "id": "b6a5481ccd56",
+      "title": "Cherished teacher Linda Davis mourned after deadly crash with driver fleeing ICE",
+      "url": "https://www.pbs.org/newshour/politics/cherished-teacher-linda-davis-mourned-after-deadly-crash-with-driver-fleeing-from-ice",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T17:47:13.000Z",
+      "description": "Principal Alonna McMullen says it was heartbreaking telling 5 and 6 year old students in Linda Davis' special needs classes of her death.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.059Z"
+    },
+    {
+      "id": "d12c31eab435",
+      "title": "WATCH: Trump vows to impose 10% global tariff after Supreme Court strikes down his sweeping policy",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-news-conference-after-supreme-court-strikes-down-his-global-tariffs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T17:38:23.000Z",
+      "description": "Furious about the defeat, Trump said he will impose a global 10% tariff as an alternative while pressing his trade policies by other means. The new tariffs would come under a law that restricts them to 150 days.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.045Z"
+    },
+    {
+      "id": "8da76300182a",
+      "title": "Virginia judge blocks Democrats' referendum, a blow to redistricting effort over 4 U.S. House seats",
+      "url": "https://www.pbs.org/newshour/politics/virginia-judge-blocks-democrats-referendum-a-blow-to-redistricting-effort-over-4-u-s-house-seats",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T16:47:50.000Z",
+      "description": "The order runs until March 18 and clashes with early voting set to begin March 6, which could doom the referendum.",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.076Z"
+    },
+    {
+      "id": "b86289431135",
+      "title": "DC Mayor Bowser declares emergency after Potomac River sewage spill",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-dc-mayor-bowser-offers-update-on-potomac-river-sewage-spill-after-declaring-emergency",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T16:06:45.000Z",
+      "description": "Bowser declared an emergency on Wednesday and requested that President Donald Trump provide federal resources to help the city fight a sewage system leak that dumped 250 million gallons of raw sewage into the Potomac River in its early stages.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.060Z"
+    },
+    {
+      "id": "de1f833a57b5",
+      "title": "WATCH: First lady Melania Trump donates 2025 inaugural ball &zwnj;gown to the Smithsonian",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-first-lady-melania-trump-donates-2025-inaugural-ball-%e2%80%8cgown-to-the-smithsonian",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T16:00:17.000Z",
+      "description": "Trump is expected to speak after donating her black-and-white ball gown to the First Ladies Gallery in the Smithsonian National Museum of American History.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.066Z"
+    },
+    {
+      "id": "4e9a103f3fff",
+      "title": "Supreme Court strikes down Trump's sweeping tariffs",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-strikes-down-trumps-sweeping-tariffs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-20T15:11:17.000Z",
+      "description": "The Supreme Court struck down President Donald Trump's far-reaching global tariffs on Friday, handing him a significant loss on an issue crucial to his economic agenda.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.195Z"
+    },
+    {
+      "id": "e826e76ffb72",
+      "title": "Trump calls Supreme Court justices 'disloyal to the Constitution' over tariffs ruling",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-supreme-court-justices-disloyal-unpatriotic-tariffs-rcna259948",
+      "source": "NBC News",
+      "published": "2026-02-20T19:21:17.000Z",
+      "description": "WASHINGTON — President Donald Trump on Friday launched an extraordinary attack on the Supreme Court after it ruled against him on tariffs, describing justices in the majority as a “disgrace to our nation\" and “very unpatriotic and disloyal to the Constitution.\"While praising the three dissenting justices in the 6-3 ruling that invalidated most of his tariffs, Trump suggested the majority was \"swayed by foreign interests\" and said the three Democratic appointees in the majority are \"fools a",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.169Z"
+    },
+    {
+      "id": "f21d344f9366",
+      "title": "Rep. Tony Gonzales faces ethics investigation over alleged affair ahead of tough primary",
+      "url": "https://www.nbcnews.com/politics/congress/rep-tony-gonzales-faces-ethics-investigation-alleged-affair-ahead-toug-rcna259799",
+      "source": "NBC News",
+      "published": "2026-02-20T20:15:10.000Z",
+      "description": "As Rep. Tony Gonzales prepares to face Republican primary voters in Texas on March 3, the Office of Congressional Conduct has conducted — and concluded — an investigation into an alleged affair between Gonzalez and a former staffer who died by suicide in September",
+      "keywords": [
+        "voter",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.174Z"
+    },
+    {
+      "id": "d43fe485e0fc",
+      "title": "Speaker Mike Johnson denies request for the Rev. Jesse Jackson to lie in honor in Capitol",
+      "url": "https://www.nbcnews.com/politics/politics-news/speaker-mike-johnson-denies-request-rev-jesse-jackson-lie-honor-capito-rcna259978",
+      "source": "NBC News",
+      "published": "2026-02-20T23:10:38.000Z",
+      "description": "WASHINGTON — Speaker Mike Johnson, R-La., has denied a request for the late Rev.",
+      "keywords": [
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.341Z"
+    },
+    {
+      "id": "1a761bde9360",
+      "title": "Congress needs to be 'involved in trade policy' after Supreme Court tariff ruling: GOP congressman",
+      "url": "https://www.nbcnews.com/meet-the-press/video/congress-needs-to-be-involved-in-trade-policy-after-supreme-court-tariff-ruling-gop-congressman-258051653739",
+      "source": "NBC News",
+      "published": "2026-02-20T21:49:56.000Z",
+      "description": "Rep. Kevin Kiley (R-Calif.) joins Meet the Press NOW to react to the Supreme Court's decision to strike down a majority of President Trump's tariffs. He also discusses the Republican messaging strategy heading into the midterms.",
+      "keywords": [
+        "midterm",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.345Z"
+    },
+    {
+      "id": "a1db1ea25fb8",
+      "title": "Trump hints at limited military strikes to try to ‘nudge along’ nuclear talks with Iran",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-hints-at-limited-military-strikes-to-try-to-nudge-along-nuclear-talks-with-iran-258050117691",
+      "source": "NBC News",
+      "published": "2026-02-20T21:45:42.000Z",
+      "description": "President Trump says he is “considering” limited military strikes on Iran amid the Pentagon’s large-scale military buildup in the region. NBC News National Security Reporter Gordon Lubold joins Meet the Press NOW to analyze the current U.S. posture in the region.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.346Z"
+    },
+    {
+      "id": "9b4e797d768c",
+      "title": "Trump ‘absolutely fuming’ after Supreme Court ruling striking down tariffs",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-absolutely-fuming-after-supreme-court-ruling-striking-down-tariffs-258051653571",
+      "source": "NBC News",
+      "published": "2026-02-20T21:32:11.000Z",
+      "description": "President Trump lashes out at the Supreme Court following its ruling striking down most of the administration’s tariffs. NBC’s Monica Alba, Christine Romans, Gary Grumbach, and Julie Tsirkin join Meet the Press NOW, along with international trade law and policy attorney Tim Brightbill to discuss the ruling and the potential implications for trading partners.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.332Z"
+    },
+    {
+      "id": "01da6be280cd",
+      "title": "DOJ seeks to revoke U.S. citizenship of former North Miami mayor ",
+      "url": "https://www.nbcnews.com/news/us-news/doj-seeks-revoke-us-citizenship-former-north-miami-mayor-rcna259944",
+      "source": "NBC News",
+      "published": "2026-02-20T22:07:48.000Z",
+      "description": "Federal attorneys filed a denaturalization case against Philippe Bien-Aime, alleging he misrepresented his identity and immigration history during his naturalization process.",
+      "keywords": [
+        "DOJ",
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.329Z"
+    },
+    {
+      "id": "7fd4ddcdd3fb",
+      "title": "Supreme Court deals a blow to Trump's economic agenda: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/supreme-court-deals-blow-trumps-economic-agenda-politics-desk-rcna259986",
+      "source": "NBC News",
+      "published": "2026-02-20T22:01:06.000Z",
+      "description": "In today’s edition, we break down the fallout from the Supreme Court’s long-awaited tariff ruling and highlight two House GOP primaries in Texas that are worth monitoring next month.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.445Z"
+    },
+    {
+      "id": "bf14b374702a",
+      "title": "'Everyone here is irate': White House scrambles after tariff loss as Trump unloads on Supreme Court",
+      "url": "https://www.nbcnews.com/politics/trump-administration/white-house-tariff-loss-trump-supreme-court-rcna259910",
+      "source": "NBC News",
+      "published": "2026-02-20T20:33:20.000Z",
+      "description": "A visibly irritated President Donald Trump blasted the Supreme Court on Friday for striking down tariffs he had imposed under an economic emergency law.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.464Z"
+    },
+    {
+      "id": "067d9ecd5a2e",
+      "title": "Supreme Court strikes down most of Trump's tariffs",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-strikes-trumps-tariffs-major-blow-president-rcna244827",
+      "source": "NBC News",
+      "published": "2026-02-20T15:03:58.000Z",
+      "description": "Delivering a major blow to President Donald Trump, the Supreme Court ruled he exceeded his authority when imposing sweeping tariffs using a law reserved for a national emergency.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.459Z"
+    },
+    {
+      "id": "d720077db99b",
+      "title": "What Trump's first Board of Peace summit signals about Gaza's future",
+      "url": "https://www.nbcnews.com/world/gaza/board-of-peace-gaza-trump-reconstruction-israel-rcna259860",
+      "source": "NBC News",
+      "published": "2026-02-20T17:10:26.000Z",
+      "description": "Billions of dollars earmarked for reconstruction and the promise of an international stabilization force for the destroyed Gaza Strip.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.459Z"
+    },
+    {
+      "id": "0d157d0fa3a8",
+      "title": "Trump defends tariffs in Georgia ahead of pivotal Supreme Court ruling",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-defends-tariffs-georgia-ahead-supreme-court-ruling-rcna259826",
+      "source": "NBC News",
+      "published": "2026-02-20T01:34:22.000Z",
+      "description": "President Donald Trump offered a forceful defense of his tariff agenda Thursday at a steel manufacturing factory in Rome, Georgia, as the Supreme Court weighs whether to strike down the policy at the center of his economic platform.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.424Z"
+    },
+    {
+      "id": "ee8cd8c23df3",
+      "title": "Will Americans get refunds after Trump's tariffs were overturned by the Supreme Court?",
+      "url": "https://www.cbsnews.com/news/tariff-refunds-trump-ruling/",
+      "source": "CBS News",
+      "published": "2026-02-20T23:23:42.000Z",
+      "description": "While the Supreme Court struck down the Trump administration's emergency tariffs, experts said it could take years for businesses to get refunds.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.571Z"
+    },
+    {
+      "id": "e0f5fc510e56",
+      "title": "Remaining slavery exhibits don't need to be reinstalled for now, court rules",
+      "url": "https://www.cbsnews.com/news/slavery-exhibits-reinstalled-presidents-house-philadelphia/",
+      "source": "CBS News",
+      "published": "2026-02-20T22:56:21.000Z",
+      "description": "Displays about slavery at the President's House​ in Old City were being restored nearly a month after they were removed by order of the Trump administration.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.575Z"
+    },
+    {
+      "id": "97264bd81f60",
+      "title": "Who's weighing in as Trump considers military strikes on Iran?",
+      "url": "https://www.cbsnews.com/news/whos-weighing-in-as-trump-considers-military-strikes-on-iran/",
+      "source": "CBS News",
+      "published": "2026-02-20T22:45:49.000Z",
+      "description": "President Trump says he's considering limited strikes against Iran as negotiations over its nuclear program are underway. Here are some of the figures talking with him about the decision.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.564Z"
+    },
+    {
+      "id": "ada52004ff0a",
+      "title": "Trump lashes out at his own Supreme Court picks over tariff ruling",
+      "url": "https://www.cbsnews.com/news/trump-lashes-out-at-his-own-supreme-court-picks-over-tariff-ruling-an-embarrassment-to-their-families/",
+      "source": "CBS News",
+      "published": "2026-02-20T22:29:26.000Z",
+      "description": "President Trump said he was \"ashamed of certain members of the court\" after the Supreme Court struck down most of his tariffs.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.566Z"
+    },
+    {
+      "id": "b725718db707",
+      "title": "Trump attacks Supreme Court over tariff ruling, announces new 10% global tariff",
+      "url": "https://www.cbsnews.com/live-updates/trump-tariffs-supreme-court-press-conference/",
+      "source": "CBS News",
+      "published": "2026-02-20T21:47:58.000Z",
+      "description": "President Trump lashed out at the Supreme Court over its tariff decision, saying he was \"absolutely ashamed\" of the justices who ruled against him.",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.563Z"
+    },
+    {
+      "id": "a5535d62e632",
+      "title": "Supreme Court strikes down most of Trump's tariffs in major defeat",
+      "url": "https://www.cbsnews.com/news/supreme-court-tariffs-decision-trump/",
+      "source": "CBS News",
+      "published": "2026-02-20T21:47:11.000Z",
+      "description": "The Supreme Court on Friday ruled President Trump does not have the authority to unilaterally impose sweeping tariffs under a federal emergency powers law.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.673Z"
+    },
+    {
+      "id": "a89b98e9c8f5",
+      "title": "How advanced is Iran's nuclear program? Here's what we know.",
+      "url": "https://www.cbsnews.com/news/iran-nuclear-program-what-to-know-trump-negotiations-enrichment/",
+      "source": "CBS News",
+      "published": "2026-02-20T20:57:30.000Z",
+      "description": "President Trump is pressuring Iran to either curtail its nuclear program or face military strikes, after Iran amassed a large stockpile of highly enriched uranium. Here's what to know.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.696Z"
+    },
+    {
+      "id": "b2869c61d685",
+      "title": "Trump admin. unveils plans to restrict work permits for asylum-seekers",
+      "url": "https://www.cbsnews.com/news/asylum-seeker-work-permits-trump-administration-restrictions/",
+      "source": "CBS News",
+      "published": "2026-02-20T20:17:27.000Z",
+      "description": "The Trump administration on Friday formally proposed a regulation that would dramatically restrict work permits for asylum-seekers.",
+      "keywords": [
+        "trump",
+        "asylum"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.877Z"
+    },
+    {
+      "id": "2ba3b5182b03",
+      "title": "Trump says 32,000 people were killed in Iran's crackdown on protesters",
+      "url": "https://www.cbsnews.com/news/donald-trump-iran-protest-crackdown-death-toll/",
+      "source": "CBS News",
+      "published": "2026-02-20T20:06:00.000Z",
+      "description": "President Trump did not offer a source for the new death toll, which is far higher than what has been previously reported.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.696Z"
+    },
+    {
+      "id": "38937c6db29a",
+      "title": "Labor secretary's husband banned from Labor Dept. building, sources say",
+      "url": "https://www.cbsnews.com/news/labor-secretary-lori-chavez-deremer-husband-shawn-sexual-assault-accusation/",
+      "source": "CBS News",
+      "published": "2026-02-20T19:39:40.000Z",
+      "description": "Labor Secretary Lori Chavez-DeRemer's husband has been banned from the Labor Department building after agency employees alleged he had touched them inappropriately, sources said.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.677Z"
+    },
+    {
+      "id": "fc7536b9384d",
+      "title": "Why the Supreme Court struck down Trump's most sweeping tariffs",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-supreme-court-decision/",
+      "source": "CBS News",
+      "published": "2026-02-20T19:26:01.000Z",
+      "description": "The Supreme Court divided 6-3 in finding that a federal law known as IEEPA does not authorize the president to impose tariffs.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.967Z"
+    },
+    {
+      "id": "5cbfa604ce14",
+      "title": "DOJ files complaint against OhioHealth over patient access to affordable healthcare",
+      "url": "https://www.cbsnews.com/news/doj-antitrust-civil-complaint-ohiohealth-blocking-patients-access-affordable-healthcare/",
+      "source": "CBS News",
+      "published": "2026-02-20T19:00:06.000Z",
+      "description": "The Justice Department's civil antitrust enforcement action against OhioHealth comes a week after DOJ's antitrust chief, Gail Slater,​ was fired from her post.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.965Z"
+    },
+    {
+      "id": "dfd6ba5595f7",
+      "title": "Skier called loser by Trump flashes \"L\" sign after successful qualifier",
+      "url": "https://www.cbsnews.com/news/2026-winter-olympics-hunter-hess-trump-skiing/",
+      "source": "CBS News",
+      "published": "2026-02-20T17:34:07.000Z",
+      "description": "After a successful halfpipe qualifier, Team USA's Hunter Hess flashed an \"L\" and referenced insults from President Trump.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.979Z"
+    },
+    {
+      "id": "abbf3eb1e2a5",
+      "title": "Trump says he's considering limited military strike on Iran",
+      "url": "https://www.cbsnews.com/news/trump-says-hes-considering-limited-military-strike-on-iran/",
+      "source": "CBS News",
+      "published": "2026-02-20T16:35:00.000Z",
+      "description": "\"I guess I can say I am considering that,\" President Trump told reporters when asked about the possibility of a limited strike on Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.972Z"
+    },
+    {
+      "id": "bab3bf8d69e6",
+      "title": "Trump tells Pentagon to release files on UFOs and \"alien and extraterrestrial life\"",
+      "url": "https://www.cbsnews.com/news/trump-ufo-alien-and-extraterrestrial-life-files-pentagon/",
+      "source": "CBS News",
+      "published": "2026-02-20T13:12:00.000Z",
+      "description": "President Trump directed his administration to release files on UFOs and any \"alien and extraterrestrial life,\" an issue that has drawn decades of fascination — and spawned more than a few wild theories.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:32.989Z"
+    },
+    {
+      "id": "66e91f61fc6e",
+      "title": "Patel takes FBI jet to Italy, plans to watch Olympic hockey medal rounds, sources say",
+      "url": "https://www.cbsnews.com/news/fbi-director-kash-patel-ice-hockey-flies-agency-jet-to-olympic-hockey-finals-italy/",
+      "source": "CBS News",
+      "published": "2026-02-20T13:11:44.000Z",
+      "description": "Patel took an FBI jet to Italy and plans to watch the Men's USA Olympic hockey team compete in the medal rounds, multiple sources said.",
+      "keywords": [
+        "FBI",
+        "patel"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.098Z"
+    },
+    {
+      "id": "784d9b264aa8",
+      "title": " House Speaker Johnson denies request for Jesse Jackson to lie in honor in Capitol",
+      "url": "https://abcnews.com/Politics/wireStory/house-speaker-mike-johnson-denies-request-rev-jesse-130344782",
+      "source": "ABC News",
+      "published": "2026-02-20T20:22:11.000Z",
+      "description": "House Speaker Mike Johnson’s office has denied a request to have the late Rev. Jesse Jackson lie in honor in the United States Capitol Rotunda due to precedents that such honors are usually only designated for presidents",
+      "keywords": [
+        "ICE",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.089Z"
+    },
+    {
+      "id": "f4b94a362172",
+      "title": " Judge dismisses ex-NYPD commissioner's lawsuit alleging 'systemic corruption' in police department",
+      "url": "https://abcnews.com/Politics/wireStory/judge-dismisses-nypd-commissioners-lawsuit-alleging-systemic-corruption-130320387",
+      "source": "ABC News",
+      "published": "2026-02-20T00:21:49.000Z",
+      "description": "A federal judge has dismissed a lawsuit filed by New York City’s former interim police commissioner against the previous mayor, Eric Adams, and his top deputies",
+      "keywords": [
+        "ICE",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.080Z"
+    },
+    {
+      "id": "0bf342586bf3",
+      "title": " Virginia judge temporarily blocks Democrats' redistricting work on bid to flip 4 congressional seats",
+      "url": "https://abcnews.com/Politics/wireStory/virginia-judge-temporarily-blocks-democrats-redistricting-work-bid-130316368",
+      "source": "ABC News",
+      "published": "2026-02-19T22:24:36.000Z",
+      "description": "A Virginia court is temporarily blocking Democrats from preparing for an April voter referendum to redraw the state’s congressional maps",
+      "keywords": [
+        "voter",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.099Z"
+    },
+    {
+      "id": "87250dea8c52",
+      "title": " Large banner featuring Trump's face is displayed on Justice Department headquarters",
+      "url": "https://abcnews.com/Politics/wireStory/large-banner-featuring-trumps-face-displayed-justice-department-130311987",
+      "source": "ABC News",
+      "published": "2026-02-19T20:21:42.000Z",
+      "description": "A large banner featuring Donald Trump’s face has been hung on the exterior of Justice Department headquarters in a physical display of the Republican president’s efforts to exert power over the law enforcement agency",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.237Z"
+    },
+    {
+      "id": "a806ab7dfb67",
+      "title": "Trump's Iran options: \"Token\" nuclear enrichment to taking out Khamenei",
+      "url": "https://www.axios.com/2026/02/21/trump-iran-plan-kill-khamenei-regime-change-deal",
+      "source": "Axios",
+      "published": "2026-02-21T00:07:24.000Z",
+      "description": "The Trump administration is prepared to consider a proposal that allows Iran \"token\" nuclear enrichment if it leaves no possible path to a bomb, a senior U.S. official told Axios.\nWhy it matters: This suggests there could be an opening, if only a small one, between the red lines set by the U.S. and Iran for a deal to constrain Iran's nuclear capabilities and prevent war.\n\nBut at the same time, Trump has been presented with military options that involve directly targeting the supreme leader.\n\nDri",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.332Z"
+    },
+    {
+      "id": "af5117399740",
+      "title": "\"Patience was running thin\": Some Republicans privately cheer SCOTUS rebuke of Trump",
+      "url": "https://www.axios.com/2026/02/20/trump-tariffs-supreme-court-republicans-congress",
+      "source": "Axios",
+      "published": "2026-02-20T21:14:25.000Z",
+      "description": "The small bloc of Republicans who have publicly broken with President Trump on trade policy aren't the only ones thrilled about the Supreme Court overturning his global tariffs, Axios has learned.\nWhy it matters: Cracks in GOP support for protecting Trump's trade barriers had already grown significant by the time of the ruling, and Republicans tell Axios a \"messy\" full-scale revolt on the issue was just around the corner.\n\n\"Republicans have been patient with the President's tariffs until recentl",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.348Z"
+    },
+    {
+      "id": "60483a5c7dca",
+      "title": "Trump signals new tariffs plan. Here's how Section 122 works",
+      "url": "https://www.axios.com/2026/02/20/trump-tariff-plan-section-122-trade-act",
+      "source": "Axios",
+      "published": "2026-02-20T20:55:21.000Z",
+      "description": "After the Supreme Court's shock decision on tariffs Friday, President Trump quickly pivoted to another trade law: Section 122 of the Trade Act of 1974.\nWhy it matters: The global break from President Trump's tariffs will only be temporary. For months, top Trump officials said they had a \"Plan B\" if the highest court blocked their signature economic policy — which could leave hefty import taxes on foreign consumer goods essentially intact.\n\nThe big picture: Section 122 will allow Trump to reimpos",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.469Z"
+    },
+    {
+      "id": "088377ead47d",
+      "title": "Trump's tariffs were voided, starting a new fight over refunds",
+      "url": "https://www.axios.com/2026/02/20/trump-scotus-tariff-refund-battle",
+      "source": "Axios",
+      "published": "2026-02-20T20:39:03.000Z",
+      "description": "The Supreme Court struck down President Trump's tariffs but was silent on whether that money must be refunded — leaving the $175 billion question to an obscure trade court.\nWhy it matters: If you're a business — or even a consumer — hoping for some kind of tariff refund, somehow, from somewhere, prepare to wait years for any decisions to be made.\n\nState of play: Companies, including Costco, Revlon and Bumble Bee Foods sued in the Court of International Trade last year to preemptively secure refu",
+      "keywords": [
+        "ICE",
+        "white house",
+        "unconstitutional",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.345Z"
+    },
+    {
+      "id": "6ffbe2b1d522",
+      "title": "Trump to impose global 10% tariff after Supreme Court loss",
+      "url": "https://www.axios.com/2026/02/20/trump-global-tariffs-supreme-court-10-percent",
+      "source": "Axios",
+      "published": "2026-02-20T19:40:03.000Z",
+      "description": "President Trump Friday said he would sign an executive order to impose 10% tariffs on all nations, replacing part of the tariffs overturned by the Supreme Court.\nWhy it matters: It might be just the beginning of a patchwork of new tariffs imposed by the administration to remake the sweeping levies deemed illegal.\n\nWhat they're saying: \"Today I will sign an order to impose a 10% global tariff under Section 122, over and above our normal tariffs already being charged,\" Trump said in a briefing roo",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.344Z"
+    },
+    {
+      "id": "cfdff9ea105e",
+      "title": "Trump \"absolutely ashamed\" of SCOTUS for tariffs ruling",
+      "url": "https://www.axios.com/2026/02/20/trump-response-tariffs-supreme-court",
+      "source": "Axios",
+      "published": "2026-02-20T19:16:24.000Z",
+      "description": "President Trump said Friday that he is \"absolutely ashamed\" of the Supreme Court after it struck down his sweeping tariffs agenda.\nWhy it matters: Trump, who previously called the lawsuit the \"most important case ever,\" was banking on tariffs to boost the U.S. economy, pay down the national debt, and fund domestic policy plans. \n\n\"The Supreme Court's ruling on tariffs is deeply disappointing,\" he said in Friday afternoon's news conference. \n\nThe big picture: The Supreme Court's ruling is a blow ",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.579Z"
+    },
+    {
+      "id": "3d563e76b7e0",
+      "title": "Scoop: Rep. Summer Lee to deliver progressive State of the Union response",
+      "url": "https://www.axios.com/2026/02/20/summer-lee-state-of-the-union-working-families",
+      "source": "Axios",
+      "published": "2026-02-20T18:55:04.000Z",
+      "description": "Rep. Summer Lee (D-Pa.) has been tapped to give the progressive Working Families Party's response to President Trump's State of the Union this year, Axios has learned.\nWhy it matters: The spot is given to lawmakers seen as rising stars on the left. Past speakers include Reps. Ayanna Pressley (D-Mass.), Rashida Tlaib (D-Mich.) and Delia Ramirez (D-Ill.).\n\nLee \"is the kind of leader this moment demands,\" Working Families Party National Director Maurice Mitchell said in a statement first shared wit",
+      "keywords": [
+        "election",
+        "midterm",
+        "raid",
+        "ICE",
+        "speaker",
+        "trump",
+        "corruption"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.577Z"
+    },
+    {
+      "id": "56e41557f463",
+      "title": "Court fight over slavery exhibit tests how America tells its 250th story",
+      "url": "https://www.axios.com/2026/02/20/philadelphia-slavery-exhibit-250th-anniversary",
+      "source": "Axios",
+      "published": "2026-02-20T17:30:01.000Z",
+      "description": "Philadelphia is preparing to celebrate 250 years of American independence, even as a court fight over a slavery exhibit questions how much of that founding story should remain on display.\nWhy it matters: The legal skirmish is not about facts; it's about whether to keep them in public view.\n\nCatch up quick: On Friday, a federal judge in Pennsylvania denied the Trump administration's request for an emergency stay, allowing the restoration of the President's House site to proceed.\n\nThe ruling came ",
+      "keywords": [
+        "ICE",
+        "johnson",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.576Z"
+    },
+    {
+      "id": "731a0d8da9bf",
+      "title": "Business groups applaud Supreme Court ruling on Trump tariffs",
+      "url": "https://www.axios.com/2026/02/20/trump-tariffs-overturned-companies-business",
+      "source": "Axios",
+      "published": "2026-02-20T17:27:34.000Z",
+      "description": "Businesses are the big winners from the Supreme Court ruling invalidating President Trump's global tariffs after a bruising year in which the duties bludgeoned bottom lines and prompted price hikes.\nWhy it matters: The ruling tees up a fight over corporate refunds — a potential windfall for companies that paid extra costs to import goods under the Trump tariff regime, though nothing is guaranteed.\n\nIf the Treasury Department is forced to issue refunds, it would total about $120 billion, accordin",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "white house",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.570Z"
+    },
+    {
+      "id": "1d361e488ef2",
+      "title": "What Trump's tariff loss means for his agenda",
+      "url": "https://www.axios.com/2026/02/20/supreme-court-tariff-ruling-trump",
+      "source": "Axios",
+      "published": "2026-02-20T16:58:40.000Z",
+      "description": "For the past year, concerns about the U.S. and global economy have boiled down to President Trump's sweeping tariffs.\n\nOn Friday, that worry was wiped away as the Supreme Court ruled that the unilaterally imposed levies were illegal. \n\nWhy it matters: The bottom just fell out of the administration's economic — and in many cases, geopolitical — agenda.\n\nNo longer does Trump have a tariff \"on/off\" switch that underpinned many economic threats, reignited fears about inflation and impacted the natio",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.563Z"
+    },
+    {
+      "id": "2e6e4f4469c8",
+      "title": "Supreme Court says Trump global tariffs are illegal",
+      "url": "https://www.axios.com/2026/02/20/trump-tariffs-supreme-court-illegal",
+      "source": "Axios",
+      "published": "2026-02-20T15:50:22.000Z",
+      "description": "The Supreme Court struck down a suite of President Trump's tariffs on Friday, a historic blow to the administration's economic agenda.  \nThe big picture: In a rare rebuke of Trump's power, the nation's highest court said many of the administration's tariffs were illegal. The 6-3 ruling sets a new boundary for what policies presidents can impose without congressional approval. \n\nWhat they're saying: \"[T]he Government reads IEEPA to give the President power to unilaterally impose unbounded tariffs",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.752Z"
+    },
+    {
+      "id": "8743d75e1dfe",
+      "title": "How Jesse Jackson used the South to reshape Democratic politics",
+      "url": "https://www.axios.com/2026/02/20/jesse-jackson-southern-strategy-democratic-party",
+      "source": "Axios",
+      "published": "2026-02-20T13:00:06.000Z",
+      "description": "Rev. Jesse Jackson's influence in the South wasn't just symbolic — it reshaped how political power is allocated in the Democratic Party, says Emory political scientist Andra Gillespie.\nWhy it matters: Cities from Cleveland to San Francisco are recalling Jackson's national imprint after his death on Tuesday. He leveraged Southern Black voters to gain bargaining power that changed Democratic primary rules — shifts that still shape presidential contests today.\n\nThe big picture: Jackson's career ref",
+      "keywords": [
+        "voter",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.682Z"
+    },
+    {
+      "id": "2e712733e833",
+      "title": "Kristi Noem tightens her grip on the Department of Homeland Security",
+      "url": "https://www.axios.com/2026/02/20/noem-lewandowski-homeland-security-firings",
+      "source": "Axios",
+      "published": "2026-02-20T10:00:06.000Z",
+      "description": "Homeland Security Secretary Kristi Noem has upended DHS staffing in her first year, pairing high-level leadership ousters with a growing staff exodus.\nWhy it matters: Multiple reports describe a culture of fear inside DHS as Noem and her top adviser Corey Lewandowski have fired, reassigned and demoted people throughout the department's 23 sub-agencies.\n\nThe big picture: About 10% of employees left DHS last year, according to a review by Federal News Network.\n\nRoughly 80% of career leadership at ",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "homan",
+        "deportation",
+        "border czar",
+        "white house",
+        "CISA",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.696Z"
+    },
+    {
+      "id": "d50be525b182",
+      "title": "AI's populist moment",
+      "url": "https://www.axios.com/2026/02/20/ai-populist-moment",
+      "source": "Axios",
+      "published": "2026-02-20T10:00:06.000Z",
+      "description": "AI has hit the campaign trail, with candidates in both parties casting it as a fight over jobs and corporate power.\nWhy it matters: AI is emerging as a stand-in for kitchen-table concerns like paychecks, power bills and the future of the economy.\n\nDemocrats and Republicans at the state level are testing whether anti-Big Tech messaging can compete with an industry pouring billions into AI infrastructure and political influence.\n\nDriving the news: Several Democrats this cycle are echoing Sen. Bern",
+      "keywords": [
+        "musk",
+        "ICE",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.740Z"
+    },
+    {
+      "id": "f70cd0b6895f",
+      "title": "Why filling up the gas tank will soon get more expensive",
+      "url": "https://www.axios.com/2026/02/20/gas-prices-oil-cost-iran",
+      "source": "Axios",
+      "published": "2026-02-20T10:00:05.000Z",
+      "description": "Data: EIA; Chart: Axios Visuals\nThe cost to fill up your car will probably climb soon — and the oil price spike over Iran tensions is only one reason.\nWhy it matters: Gasoline is the most visible energy expense for many people. That makes it politically important, too. \n\nPresident Trump is fond of touting what are now pretty modest prices in much of the country.\n\nThe big picture: Oil prices are jumping this week as traders digest the risk that a U.S. strike on Iran could disrupt supply.\n\nThat wi",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.715Z"
+    },
+    {
+      "id": "9039258c818d",
+      "title": "Overdoses are dropping, but poly-drug mixes are rewriting the U.S. drug crisis",
+      "url": "https://www.axios.com/2026/02/20/overdose-crisis-polydrugs-fentanyl",
+      "source": "Axios",
+      "published": "2026-02-20T09:53:05.000Z",
+      "description": "Overdose deaths are falling, but America's illicit drug supply is re-engineering itself into lethal cocktails: fentanyl plus stimulants, sedatives, and novel synthetics that hide in party powders and pressed pills.\nWhy it matters: Those polydrug blends — nicknamed \"pink cocaine,\" \"rhino tranq,\" \"benzo-dope\" and others — are harder to detect, harder to reverse, harder to message against and can even result in the loss of limbs. \n\nThat makes recent overdose declines fragile and public-health victo",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.917Z"
+    },
+    {
+      "id": "951c3776d926",
+      "title": "Trump orders UFO files release after slamming Obama over alien comments",
+      "url": "https://www.axios.com/2026/02/20/trump-alien-ufo-government-files-release-obama",
+      "source": "Axios",
+      "published": "2026-02-20T05:43:03.000Z",
+      "description": "President Trump is directing his administration to begin releasing government documents related to aliens and unidentified flying objects (UFOs), he announced Thursday evening.\nThe big picture: Trump's comments on Truth Social came hours after he accused former President Obama of disclosing classified information for saying aliens are \"real\" in a podcast last week.\n \nScreenshot: President Trump/Truth Social\nContext: Obama clarified in Saturday's podcast interview with host Brian Tyler Cohen that",
+      "keywords": [
+        "ICE",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.860Z"
+    },
+    {
+      "id": "3fa830c9ee71",
+      "title": "Congress risks major loss to Trump over war powers vote on Iran",
+      "url": "https://www.axios.com/2026/02/20/congress-war-powers-act-trump-iran",
+      "source": "Axios",
+      "published": "2026-02-20T01:36:08.000Z",
+      "description": "Barring a surprise, Congress and its elected leaders are on track to give President Trump the equivalent of a green light ahead of a potential major war in the Middle East.\nWhy it matters: War Powers Act resolutions, including one that Rep. Ro Khanna (D-Calif.) intends to force next week, are meant to restrain the president.\n\nBut House Democrats appear short of the Republican support they would need to pass a symbolic resolution against Trump.\nAn early defeat of one in either chamber could make ",
+      "keywords": [
+        "raid",
+        "ICE",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.841Z"
+    },
+    {
+      "id": "e3d985cd1d53",
+      "title": "How Virginia Giuffre became a key voice in bringing down Prince Andrew",
+      "url": "https://www.axios.com/2026/02/19/prince-andrew-virginia-giuffre-epstein",
+      "source": "Axios",
+      "published": "2026-02-19T21:45:50.000Z",
+      "description": "Andrew Mountbatten-Windsor's Thursday arrest makes him the highest-profile figure to face criminal consequences for ties to convicted sex offender Jeffrey Epstein. \nThe big picture: Following the arrest, police cited the former Prince Andrew's emails with Epstein — made public in the latest Justice Department drop — but supporters of the late Virginia Giuffre see it as a long-coming victory for the woman who once sued Mountbatten-Windsor for sexual abuse. \n\nDriving the news: Mountbatten-Windsor ",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.874Z"
+    },
+    {
+      "id": "1016440418af",
+      "title": "Epstein revelations spur calls to scrape Lutnick's name from college library",
+      "url": "https://www.axios.com/2026/02/19/howard-lutnick-haverford-college-epstein-files",
+      "source": "Axios",
+      "published": "2026-02-19T20:44:51.000Z",
+      "description": "Haverford College students and alumni are calling on the school to remove Commerce Secretary Howard Lutnick's name from its library after revelations about Lutnick's ties to the late pedophile Jeffrey Epstein. \nWhy it matters: It follows reports that Lutnick — a 1983 Haverford graduate and the suburban Philadelphia school's largest single donor — communicated with Epstein years after Epstein had been convicted of procuring a child for prostitution.\n\nLutnick said in a 2025 podcast interview that ",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:33.872Z"
+    },
+    {
+      "id": "e0c25f37a9d5",
+      "title": "Murkowski: Ruling is ‘firm reminder’ of limits to presidential power",
+      "url": "https://thehill.com/homenews/senate/5748545-murkowski-applauds-scotus-tariff-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-20T23:18:18.000Z",
+      "description": "Sen. Lisa Murkowski (R-Alaska) applauded a Supreme Court ruling Friday that struck down much of President Trump’s tariff agenda, casting the decision as a “firm reminder” of the limits to presidential power. “The Supreme Court’s ruling on tariffs is a clear rebuke and firm reminder that presidential power is not unlimited,” Murkowski wrote on the…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.005Z"
+    },
+    {
+      "id": "1ce028f0410c",
+      "title": "Trump mulling limited strikes on Iran",
+      "url": "https://thehill.com/newsletters/defense-national-security/5747362-trump-iran-limited-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-20T23:18:11.000Z",
+      "description": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security   The Big Story  Trump mulling limited strike on Iran President Trump said Friday morning he is considering a limited strike against Iran if it does not forge a deal with the U.S. to constrain its nuclear program. © Photo Credit “I guess…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.054Z"
+    },
+    {
+      "id": "38c43c08dad3",
+      "title": "John Yoo: Supreme Court’s tariff ruling a ‘blessing in disguise’ for Trump",
+      "url": "https://thehill.com/business/5748493-yoo-tariffs-blessing-disguise/",
+      "source": "The Hill",
+      "published": "2026-02-20T23:05:04.000Z",
+      "description": "Former U.S. Deputy Assistant Attorney General John Yoo called the Supreme Court’s Friday ruling that struck down the bulk of President Trump’s tariffs a “blessing in disguise” for the president ahead of the 2026 midterms. Yoo said that if it forces the president to put off the tariffs, it could boost the economy ahead of…",
+      "keywords": [
+        "midterm",
+        "attorney general",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.009Z"
+    },
+    {
+      "id": "c823de91e5ff",
+      "title": "Susan Rice predicts ‘accountability agenda’ when Democrats are back in power",
+      "url": "https://thehill.com/homenews/campaign/5748439-susan-rice-trump-corporations-accountability/",
+      "source": "The Hill",
+      "published": "2026-02-20T22:46:52.000Z",
+      "description": "Former United Nations Ambassador Susan Rice (D) is warning corporations and other entities that “take a knee” to President Trump to expect to be “held accountable” if Democrats return to power. “If these corporations think that the Democrats, when they come back in power, are going to, you know, play by the old rules, and,…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.005Z"
+    },
+    {
+      "id": "aad037745980",
+      "title": "Cantwell asks Bessent for ‘detailed explanation’ of tariff refund process",
+      "url": "https://thehill.com/business/5748362-supreme-court-rules-trump-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:48:26.000Z",
+      "description": "Sen. Maria Cantwell (D-Wash.) penned a letter to Treasury Secretary Scott Bessent asking for a “detailed explanation” of how the Department of the Treasury will dole out tariff refunds in the wake of a Supreme Court ruling Friday that said the president was working outside of his authority in imposing some tariffs.  “Given this Administration…",
+      "keywords": [
+        "ruling",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.003Z"
+    },
+    {
+      "id": "66077b0ef052",
+      "title": "5 takeaways as Supreme Court strikes blow to Trump’s tariffs",
+      "url": "https://thehill.com/homenews/5747935-trump-tariffs-supreme-court-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:43:04.000Z",
+      "description": "President Trump suffered a striking blow to his bid to refashion global trade with sweeping tariffs as the Supreme Court on Friday struck down his use of an emergency statute to execute the strategy core to his economic agenda.  Trump was the first president in history to attempt to use the International Emergency Economic Powers…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.157Z"
+    },
+    {
+      "id": "d96b4a291908",
+      "title": "58 percent say Trump administration has gone too far with undocumented immigrant deportations: Survey",
+      "url": "https://thehill.com/polls/5748344-trump-immigration-crackdown-disapproved/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:41:20.000Z",
+      "description": "More than half of Americans surveyed in a new poll disapprove of President Trump’s sweeping crackdown on illegal immigration.  The joint survey from The Washington Post, ABC News and Ipsos found that 58 percent of respondents said they believe the Trump administration has gone too far in its efforts to deport immigrants living in the…",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.156Z"
+    },
+    {
+      "id": "3bc5b1a1fa40",
+      "title": "Vance: Supreme Court tariff decision represents ‘lawlessness from the court’",
+      "url": "https://thehill.com/homenews/administration/5748269-vance-supreme-court-tariff-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:27:26.000Z",
+      "description": "Vice President Vance condemned the Supreme Court’s decision to strike down a majority of President Trump’s sweeping tariffs on Friday. “Today, the Supreme Court decided that Congress, despite giving the president the ability to ‘regulate imports’, didn’t actually mean it,” Vance posted on the social platform X. “This is lawlessness from the Court, plain and…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.153Z"
+    },
+    {
+      "id": "71caccff0a4b",
+      "title": "Trump tariff revenue of $175B at stake after Supreme Court ruling: Estimate",
+      "url": "https://thehill.com/homenews/5748171-us-tariff-revenue-refunds/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:24:49.000Z",
+      "description": "More than $175 billion in U.S. tariff revenue could be refunded after the U.S. Supreme Court ruled against President Trump’s sweeping emergency tariffs Friday, according to economists with the Penn Wharton Budget Model (PWBM), a fiscal research group at the University of Pennsylvania. The economists’ findings, which were first reported in Reuters, note that the…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.170Z"
+    },
+    {
+      "id": "86504bf9e9da",
+      "title": "Trump announces $10M in aid to East Palestine tied to 2023 train derailment",
+      "url": "https://thehill.com/homenews/administration/5748270-trump-announces-east-palestine-funding/",
+      "source": "The Hill",
+      "published": "2026-02-20T21:03:22.000Z",
+      "description": "President Trump announced late Thursday that the federal government will provide $10 million to East Palestine, Ohio, to support ongoing recovery efforts from a 2023 train derailment that triggered an environmental disaster and lingering health concerns in the community. Trump, who has repeatedly accused former President Biden’s administration of mishandling its response to the incident,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.183Z"
+    },
+    {
+      "id": "bfc51eb9010b",
+      "title": "What are sections 122 and 301, Trump’s potential alternate tariff tools?",
+      "url": "https://thehill.com/business/trade/5748172-trump-tariffs-section-301/",
+      "source": "The Hill",
+      "published": "2026-02-20T20:36:39.000Z",
+      "description": "The Supreme Court has struck down Trump’s authority to impose tariffs on other countries through the International Emergency Economic Powers Act (IEEPA). But it’s not the only tool at the president’s disposal to press on with his tariff regime.  “The reality is the president is going to have tariffs as part of his trade policy…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.286Z"
+    },
+    {
+      "id": "efbd81fefcfd",
+      "title": "Massie seeks to undo Trump’s pro-glyphosate executive order",
+      "url": "https://thehill.com/policy/energy-environment/5748169-massie-trump-pesticide-glyphosate-maha/",
+      "source": "The Hill",
+      "published": "2026-02-20T20:28:36.000Z",
+      "description": "At least one Republican lawmaker is formally pushing back on President Trump’s effort to boost a controversial herbicide, glyphosate, that’s reviled by supporters of the “Make America Healthy Again” (MAHA) movement. Trump this week stoked MAHA fury by issuing an executive order that seeks to “ensure an adequate supply” of glyphosate as a national security issue and…",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.279Z"
+    },
+    {
+      "id": "46dc3898c2a8",
+      "title": "DHS now requires written approval for all FEMA travel",
+      "url": "https://thehill.com/policy/energy-environment/5748070-dhs-fema-immigration-disaster-funds-government-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-20T20:01:46.000Z",
+      "description": "The Department of Homeland Security (DHS) will now need to approve all travel for Federal Emergency Management Agency (FEMA) staff, even if the travel is funded through a pocket of disaster money that’s separate from appropriations that have lapsed. A travel bulletin sent to staff Friday and reviewed by The Hill states that “Effective February…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.288Z"
+    },
+    {
+      "id": "94d10042b495",
+      "title": "Letitia James takes victory lap after Supreme Court tariffs ruling",
+      "url": "https://thehill.com/regulation/court-battles/5748114-letitia-james-praises-tariffs-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-20T19:59:58.000Z",
+      "description": "New York Attorney General Letitia James (D), a frequent critic of President Trump, praised the Supreme Court’s ruling on Friday against the president’s sweeping tariffs as a “critical victory” for the “rule of law and our economy.” The court struck down most of Trump’s tariffs in a 6-3 decision that found the president’s expanded use…",
+      "keywords": [
+        "attorney general",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.298Z"
+    },
+    {
+      "id": "445e78f91677",
+      "title": "Johnson denies request for Jesse Jackson to lie in honor in Capitol",
+      "url": "https://thehill.com/homenews/house/5748099-jesse-jackson-mike-johnson-capitol-rejection/",
+      "source": "The Hill",
+      "published": "2026-02-20T19:59:43.000Z",
+      "description": "Speaker Mike Johnson (R-La.) denied a request to have the Rev. Jesse L. Jackson lie in honor in the Capitol, a source confirmed to The Hill. After the civil rights leader died this week at age 84, Jackson’s family requested that he lie in honor in the Capitol, another source said. CNN was first to report Johnson’s…",
+      "keywords": [
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.277Z"
+    },
+    {
+      "id": "ceb7003157cb",
+      "title": "Trump says Gorsuch, Barrett decisions to rule against tariffs ’embarrassment to their families’",
+      "url": "https://thehill.com/homenews/administration/5748068-barrett-gorsuch-trump-disloyalty/",
+      "source": "The Hill",
+      "published": "2026-02-20T19:40:17.000Z",
+      "description": "President Trump said Supreme Court Justices Amy Coney Barrett’s and Neil Gorsuch’s decisions to rule against his administration’s tariff policies are “an embarrassment to their families.”  “I don’t want to say whether I regret nominating them. I think their decision was terrible,” Trump told reporters at the White House press briefing.  “I think it’s an…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.398Z"
+    },
+    {
+      "id": "243e25df1860",
+      "title": "Trump announces new tariffs, investigations after Supreme Court ruling",
+      "url": "https://thehill.com/business/5748016-trump-imposes-new-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-20T19:29:18.000Z",
+      "description": "President Trump said Friday he would raise preexisting tariffs and begin the process of imposing new ones after the Supreme Court struck down many of his import taxes on foreign trading partners. During a White House press conference, Trump announced he would impose a universal tariff of 10 percent and begin investigations that could lead…",
+      "keywords": [
+        "white house",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.403Z"
+    },
+    {
+      "id": "a8e409a02464",
+      "title": "McConnell: Congressional role in trade policy ‘not an inconvenience to avoid’",
+      "url": "https://thehill.com/homenews/senate/5747917-mitch-mcconnell-supreme-court-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-20T19:19:33.000Z",
+      "description": "Sen. Mitch McConnell (R-Ky.) joined several other Republicans in expressing his approval of Friday’s Supreme Court decision largely knocking down President Trump’s tariffs.  The court found in a 6-3 decision that many of the Trump administration’s tariffs were unlawfully imposed under the International Emergency Economic Powers Act (IEEPA).  In a statement released Friday afternoon, McConnell…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.388Z"
+    },
+    {
+      "id": "ad2871fa5696",
+      "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+      "url": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T22:48:00.000Z",
+      "description": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.453Z"
+    },
+    {
+      "id": "c343efbec795",
+      "title": "Watch: Trump speaks after Supreme Court strikes down tariffs ",
+      "url": "https://www.cnbc.com/2026/02/20/trump-supreme-court-tariffs-white-house.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T19:21:03.000Z",
+      "description": "The Supreme Court ruling is a major blow to Trump, whose economic and foreign policies leaned on his asserted power to unilaterally slap tariffs on any country.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.387Z"
+    },
+    {
+      "id": "c358c5fbce83",
+      "title": "Supreme Court tariff case winner Learning Resources is 'on the right side of history,' CEO says",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-tariff-trade-trump-learning-resources.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T19:47:35.000Z",
+      "description": "Learning Resources CEO Rick Woldenberg said the Supreme Court ruling against Trump's tariffs could inject \"a lot of money\" into the U.S. economy.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.653Z"
+    },
+    {
+      "id": "607cd5556e09",
+      "title": "U.S. trading partners cheer Supreme Court tariff ruling — but businesses must still navigate 'murky waters'",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-tariff-ruling-trade-world-leaders-react-trump.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T17:19:48.000Z",
+      "description": "The U.S. Supreme Court voted 6-3 to strike down large parts of President Trump's tariff policies Friday.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.585Z"
+    },
+    {
+      "id": "c8c39609206f",
+      "title": "Democrats rejoice in Supreme Court rebuke of Trump tariffs they have called illegal",
+      "url": "https://www.cnbc.com/2026/02/20/congress-scotus-trump-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T19:19:55.000Z",
+      "description": "President Donald Trump's tariff agenda took a blow Friday, prompting celebration from Democrats who have opposed his unilateral tariffs.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.555Z"
+    },
+    {
+      "id": "3095fb372018",
+      "title": "Supreme Court Trump tariffs ruling could put U.S. on hook for $175 billion in refunds, estimate says",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-us-refunds.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T19:13:39.000Z",
+      "description": "Supreme Court Justice Brett Kavanaugh, in his dissent, warned that \"the refund process\" for tariffs \"is likely to be a 'mess,'\" citing oral arguments",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.573Z"
+    },
+    {
+      "id": "fc46a7b8ad17",
+      "title": "Supreme Court strikes down Trump tariffs, rebuking president's signature economic policy",
+      "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-ruling.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T22:45:17.000Z",
+      "description": "Trump, as recently as Thursday, has talked up the consequences of the Supreme Court striking down his tariffs prior to the seismic ruling.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.553Z"
+    },
+    {
+      "id": "48436c5647ed",
+      "title": "Trump previewed weak GDP on Truth Social ahead of official data release",
+      "url": "https://www.cnbc.com/2026/02/20/trump-gdp-weak-powell-fed-interest-rates.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T19:18:41.000Z",
+      "description": "Trump has revealed economic data before its official release on multiple occasions, raising questions about possible policy violations",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.741Z"
+    },
+    {
+      "id": "33790fec3eca",
+      "title": "Labor secretary's husband barred from HQ after claims he sexually assaulted women there: MS Now",
+      "url": "https://www.cnbc.com/2026/02/19/labor-secretary-chavez-deremer-husband-barred-sexual-assault-claims.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-20T21:30:41.000Z",
+      "description": "The Labor Department's inspector general is investigating the situation, and a complaint has been made to police in Washington, D.C., the report said.",
+      "keywords": [
+        "ICE",
+        "EPA",
+        "inspector general"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.773Z"
+    },
+    {
+      "id": "81e169029ccd",
+      "title": "Epstein would 'name drop' Trump, Les Wexner says in deposition video",
+      "url": "https://www.cnbc.com/2026/02/19/epstein-trump-les-wexner-deposition.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T22:21:57.000Z",
+      "description": "Democrats on the House Oversight Committee have expressed skepticism about Wexner's insistence that he had virtually no social life with Epstein.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.750Z"
+    },
+    {
+      "id": "2582e08112c4",
+      "title": "House Democrats call for Treasury probe into Trump family crypto venture",
+      "url": "https://www.cnbc.com/2026/02/19/treasury-probe-trump-crypto-world-liberty-financial-democrats.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T20:39:29.000Z",
+      "description": "World Liberty Financial drew scrutiny after it was revealed an Emirati royal known as the \"Spy Sheikh\" purchased a $500 million stake in the company last year.",
+      "keywords": [
+        "trump",
+        "crypto",
+        "world liberty financial"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.751Z"
+    },
+    {
+      "id": "1f168a5e5923",
+      "title": "Epstein files: Former prince Andrew released by police, Trump calls his arrest 'a shame'",
+      "url": "https://www.cnbc.com/2026/02/19/epstein-files-former-prince-andrew-police-released-arrest.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T22:28:58.000Z",
+      "description": "President Donald Trump said the arrest of Andrew Mountbatten-Windsor, the brother of King Charles III, was \"very sad\" and \"so bad for the royal family.\"",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.742Z"
+    },
+    {
+      "id": "c1c2e70b8abd",
+      "title": "Democrats pick Virginia Gov. Spanberger to give State of the Union rebuttal ",
+      "url": "https://www.cnbc.com/2026/02/19/democrats-pick-gov-spanberger-to-give-state-of-the-union-rebuttal-.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-19T19:57:53.000Z",
+      "description": "President Donald Trump will address the nation on Tuesday amid sagging poll numbers.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.874Z"
+    },
+    {
+      "id": "4f8301118844",
+      "title": "Trump Bashes ‘Disloyal’ Supreme Court for Not Letting Him Defy Constitution ",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-bashes-supreme-court-disloyal-tariff-ruling-1235520144/",
+      "source": "Rolling Stone",
+      "published": "2026-02-20T19:01:40.000Z",
+      "description": "The president lashed out at the justices who struck down his tariff agenda on Friday, alleging they were “swayed by foreign interests”",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.928Z"
+    },
+    {
+      "id": "f90504c54821",
+      "title": "Supreme Court Blocks Tariffs Hours After Trump Bragged They Wouldn’t",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-tariffs-blocked-supreme-court-1235519927/",
+      "source": "Rolling Stone",
+      "published": "2026-02-20T15:40:08.000Z",
+      "description": "The conservative-dominated court ruled 6-3 against the cornerstone of the president’s economic agenda",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:35.027Z"
+    },
+    {
+      "id": "529823f1bdcb",
+      "title": "Trump Is Hijacking Billions in Taxpayer Money for His Made-Up ‘Peace’ Group",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-pledges-10-billion-board-of-peace-meeting-1235519576/",
+      "source": "Rolling Stone",
+      "published": "2026-02-19T21:50:14.000Z",
+      "description": "The president banged a golden gavel to “Y.M.C.A.” at the coalitions first official meeting",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T00:10:34.873Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-19T18:15:28.973Z"
+  "lastFetch": "2026-02-21T00:10:35.027Z"
 }
