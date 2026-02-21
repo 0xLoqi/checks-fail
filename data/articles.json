@@ -21985,8 +21985,355 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-21T00:10:34.873Z"
+    },
+    {
+      "id": "d61620f4bf4a",
+      "title": "After the Supreme Court's ruling on tariffs, companies line up for refunds",
+      "url": "https://www.npr.org/2026/02/21/g-s1-110987/supreme-court-tariffs-refunds",
+      "source": "NPR Politics",
+      "published": "2026-02-21T06:18:50.000Z",
+      "description": "The Supreme Court on Friday struck down President Trump's tariffs. But the justices left a $133 billion question unanswered: What's going to happen to the money the government has already collected?",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.330Z"
+    },
+    {
+      "id": "78d1b57df606",
+      "title": "Deputy AG fires interim U.S. attorney succeeding Trump loyalist hours after appointment",
+      "url": "https://www.nbcnews.com/politics/trump-administration/deputy-ag-fires-interim-us-attorney-rcna260012",
+      "source": "NBC News",
+      "published": "2026-02-21T03:51:52.000Z",
+      "description": "The Department of Justice fired longtime litigator James Hundley from his appointment to interim U.S.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.198Z"
+    },
+    {
+      "id": "3de12708fd35",
+      "title": "In tariff case, Supreme Court justices bicker over treating Trump and Biden differently",
+      "url": "https://www.nbcnews.com/politics/supreme-court/tariffs-case-supreme-court-justices-bicker-biden-trump-treatment-rcna259922",
+      "source": "NBC News",
+      "published": "2026-02-21T10:00:00.000Z",
+      "description": "Supreme Court justices fought in their opinions in Donald Trump's tariffs case over whether they are treating Joe Biden and Trump equally.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.197Z"
+    },
+    {
+      "id": "edc95038c6f7",
+      "title": "Trump imposes 10% tariffs on all countries after SCOTUS struck down earlier tariffs",
+      "url": "https://www.cbsnews.com/news/trump-executive-order-10-percent-tariffs-supreme-court/",
+      "source": "CBS News",
+      "published": "2026-02-21T05:46:05.000Z",
+      "description": "President Trump signed an order that will impose 10% tariffs on imports from all countries, just hours after the Supreme Court struck down a different set of sweeping global tariffs.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.429Z"
+    },
+    {
+      "id": "9549fcfd5608",
+      "title": "2/20: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/022026-cbs-evening-news/",
+      "source": "CBS News",
+      "published": "2026-02-21T05:27:46.000Z",
+      "description": "Trump lashes out at Supreme Court after justices strike down his tariffs; Man's cat sanctuary naps still helping rescue expand years after they first went viral",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.452Z"
+    },
+    {
+      "id": "9359a76f9224",
+      "title": "Judge who held DOJ lawyer in contempt blasts handling of immigration cases",
+      "url": "https://www.cbsnews.com/news/judge-lifts-contempt-doj-ice-trump-minnesota/",
+      "source": "CBS News",
+      "published": "2026-02-21T04:14:00.000Z",
+      "description": "A federal judge who took the extraordinary step of holding a government lawyer in contempt of court earlier this week blasted the Justice Department for its handling of immigration cases on Friday.",
+      "keywords": [
+        "DOJ",
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.411Z"
+    },
+    {
+      "id": "97fa68987f42",
+      "title": "House Speaker denies request for Jesse Jackson to lie in honor at Capitol",
+      "url": "https://www.cbsnews.com/news/house-speaker-mike-johnson-denies-jesse-jackson-request/",
+      "source": "CBS News",
+      "published": "2026-02-21T04:06:38.000Z",
+      "description": "House Speaker Mike Johnson's office has denied a request to have the late Rev. Jesse Jackson lie in honor in the U.S. Capitol Rotunda due to past precedent.",
+      "keywords": [
+        "ICE",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.461Z"
+    },
+    {
+      "id": "229cb8c2692e",
+      "title": "Trump admin. fires top prosecutor in Eastern Virginia shortly after he was hired by judges",
+      "url": "https://www.cbsnews.com/news/white-house-fires-new-top-prosecutor-eastern-virginia-hours-after-he-was-hired-by-judges-james-hundley/",
+      "source": "CBS News",
+      "published": "2026-02-21T03:34:00.000Z",
+      "description": "The Trump administration fired an interim top prosecutor in Eastern Virginia almost immediately after he was hired by a panel of judges, deepening the conflict between the DOJ and the judiciary in that region.",
+      "keywords": [
+        "DOJ",
+        "prosecutor",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.457Z"
+    },
+    {
+      "id": "b63f80f4888e",
+      "title": "Tensions flare as Trump surges military assets and Iran warns of retaliation",
+      "url": "https://www.cbsnews.com/video/tensions-flare-as-trump-surges-military-assets-and-iran-warns-of-retaliation/",
+      "source": "CBS News",
+      "published": "2026-02-21T00:33:00.000Z",
+      "description": "As President Trump continues to surge major U.S. military assets into the region, Iran is still insisting diplomacy is alive and that it will submit a written proposal to Washington within the next two to three days. But as Imtiaz Tyab reports, the core disputes remain unresolved.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.565Z"
+    },
+    {
+      "id": "1b24e79ba4d4",
+      "title": "Trump lashes out at Supreme Court after justices strike down his tariffs",
+      "url": "https://www.cbsnews.com/video/trump-lashes-out-at-supreme-court-after-justices-strike-down-his-tariffs/",
+      "source": "CBS News",
+      "published": "2026-02-21T00:27:00.000Z",
+      "description": "The Supreme Court ruled that President Trump's sweeping global tariffs are illegal and must end, blowing a huge hole in his signature plan to bring business back to the U.S. Jan Crawford has more on the president's reaction and what's expected next.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.575Z"
+    },
+    {
+      "id": "59d050b68af2",
+      "title": "Democratic response to Trump's SOTU becomes a crowded affair",
+      "url": "https://www.axios.com/2026/02/20/democrats-stage-trump-counterrallies-state-of-the-union",
+      "source": "Axios",
+      "published": "2026-02-20T23:34:48.000Z",
+      "description": "Top Democrats instructed members not to interrupt President Trump's State of the Union speech next Tuesday — so instead they're planning individualized responses to show opposition to his agenda.\nWhy it matters: Fresh off a slew of reassuring election wins, Democrats are trying to mobilize every faction of their coalition before the midterms — but a range of messages could dilute their impact.\n\nState of play: As Axios previously reported, members are tailoring their approaches, though the common",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "immigration",
+        "speaker",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.554Z"
+    },
+    {
+      "id": "7eea10706977",
+      "title": "The Memo: Trump fumes at Supreme Court justices who knocked down tariffs",
+      "url": "https://thehill.com/homenews/administration/5748604-supreme-court-justices-trump-fury-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-21T11:00:00.000Z",
+      "description": "Less than six weeks before the 2020 election, President Trump stepped into the White House Rose Garden to fete his newest Supreme Court nominee.  “She is a woman of unparalleled achievement, towering intellect, sterling credentials, and unyielding loyalty to the Constitution,” he enthused. “Judge Amy Coney Barrett.” Barrett would duly be confirmed, the third newly…",
+      "keywords": [
+        "election",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.605Z"
+    },
+    {
+      "id": "6ae95f5fb208",
+      "title": "Trump’s Iran warning gives UK whiplash over Chagos island deal",
+      "url": "https://thehill.com/policy/international/5748361-trump-roils-uk-chagos-deal-iran/",
+      "source": "The Hill",
+      "published": "2026-02-21T11:00:00.000Z",
+      "description": "President Trump’s attack plans for Iran have roiled a deal for the United Kingdom to cede control of the tiny and isolated island of Diego Garcia, where a strategic American air base sits in the middle of the vast Indian Ocean.  Trump took to his Truth Social media account Wednesday to warn British Prime Minister…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.707Z"
+    },
+    {
+      "id": "fdcd10f1bcd1",
+      "title": "Republicans breathe sigh of relief as Supreme Court axes Trump tariffs",
+      "url": "https://thehill.com/homenews/house/5748394-republicans-supreme-court-trump-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-21T11:00:00.000Z",
+      "description": "The Supreme Court’s ruling that struck down the sweeping global tariffs at the heart of President Trump’s economic policies has produced enormous cracks in the GOP’s outward show of party unity. After spending the past year rallying behind Trump on virtually every facet of his second-term agenda, Republican lawmakers spanning the ideological spectrum are publicly…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.921Z"
+    },
+    {
+      "id": "ad50202d2620",
+      "title": "Pentagon blocked from using UK bases in potential Iran strike",
+      "url": "https://thehill.com/policy/defense/5748731-starmer-refuses-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-02-21T03:51:48.000Z",
+      "description": "The United Kingdom has blocked a request by the U.S. to use the country’s bases for a potential strike on Iran, according to multiple British media reports. The decision by British Prime Minister Keir Starmer, first reported by The Times, was reportedly made due to concerns that such action could violate international law. President Trump…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.798Z"
+    },
+    {
+      "id": "dccca3bab544",
+      "title": "What the Supreme Court’s tariff ruling could mean for your wallet",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5748713-tariffs-ruling-impact-consumers/",
+      "source": "The Hill",
+      "published": "2026-02-21T02:35:36.000Z",
+      "description": "Don't expect a cheaper grocery bill tomorrow even after the Supreme Court struck down most of President Donald Trump's tariffs.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.827Z"
+    },
+    {
+      "id": "ef1d0944807c",
+      "title": "Trump lashes out at Barrett, Gorsuch for ruling against tariffs",
+      "url": "https://thehill.com/homenews/administration/5748670-trump-attacks-court-justices/",
+      "source": "The Hill",
+      "published": "2026-02-21T01:30:51.000Z",
+      "description": "President Trump late Friday again slammed Supreme Court Justices Amy Coney Barrett and Neil Gorsuch — both of whom he appointed during his first term — for siding with the majority in striking down most of his sweeping tariff agenda. In a 6-3 decision earlier Friday, Barrett and Gorsuch joined the high court’s three liberal…",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.814Z"
+    },
+    {
+      "id": "d2336e4395a3",
+      "title": "Trump to impose new 10 percent tariff on all countries after Supreme Court decision",
+      "url": "https://thehill.com/homenews/administration/5748682-trump-imposes-global-tariff/",
+      "source": "The Hill",
+      "published": "2026-02-21T01:30:14.000Z",
+      "description": "President Trump said he signed an executive order on Friday imposing a 10 percent tariff on imports from countries around the world, hours after the Supreme Court ruled a set of sweeping emergency tariffs were unconstitutional. “It is my Great Honor to have just signed, from the Oval Office, a Global 10% Tariff on all…",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "unconstitutional",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:06.845Z"
+    },
+    {
+      "id": "dd0217117c0b",
+      "title": "US military blows up another drug boat in Eastern Pacific, killing 3 ‘narco-terrorists’ ",
+      "url": "https://thehill.com/policy/defense/5748652-us-military-blows-narco-boat/",
+      "source": "The Hill",
+      "published": "2026-02-21T00:55:38.000Z",
+      "description": "The U.S. military blew up another alleged drug-trafficking boat in the Eastern Pacific on Friday, killing three “narco-terrorists.”  The boat was operated by a designated terrorist organization and the intelligence confirmed the vessel was transiting along “known narco-trafficking” routes and was engaged in “narco-trafficking” operations,” the U.S. Southern Command (Southcom) said on Friday.  It is…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:07.021Z"
+    },
+    {
+      "id": "42a7455fc997",
+      "title": "Pritzker tells Trump to ‘cut the check’ after tariffs ruling",
+      "url": "https://thehill.com/homenews/state-watch/5748630-pritzker-demands-trump-tariff-refunds/",
+      "source": "The Hill",
+      "published": "2026-02-21T00:30:13.000Z",
+      "description": "Illinois Gov. JB Pritzker (D) on Thursday called on President Trump to “cut the check” and issue refunds to American taxpayers after the Supreme Court struck down a cornerstone of his economic agenda, tariffs.   “The Supreme Court just confirmed what we already know. Trump’s tariffs are illegal. He did it without the support of…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:07.006Z"
+    },
+    {
+      "id": "c50debc8b278",
+      "title": "New Documents Reveal a Controversial Vaccine Study’s Unusual Path to CDC Approval",
+      "url": "https://www.rollingstone.com/politics/politics-features/new-documents-vaccine-study-cdc-approval-1235518406/",
+      "source": "Rolling Stone",
+      "published": "2026-02-21T00:28:35.000Z",
+      "description": "A Rolling Stone investigation uncovered irregularities in the ethics review of a $1.6 million research grant to examine the effects of a birth dose of the hepatitis B vaccine in Guinea-Bissau",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-21T12:04:07.066Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-21T00:10:35.027Z"
+  "lastFetch": "2026-02-21T12:04:07.066Z"
 }
