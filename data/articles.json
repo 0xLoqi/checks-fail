@@ -22844,8 +22844,188 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-22T00:09:22.769Z"
+    },
+    {
+      "id": "64496c5a8134",
+      "title": "Only a fraction of House seats are competitive. Redistricting is driving that lower",
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control",
+      "source": "NPR Politics",
+      "published": "2026-02-22T10:00:00.000Z",
+      "description": "Primary voters in a small number of districts play an outsized role in deciding who wins Congress. The Trump-initiated mid-decade redistricting is driving that number of competitive seats even lower.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.368Z"
+    },
+    {
+      "id": "6b34e4138c39",
+      "title": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5722770/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security",
+      "source": "NPR Politics",
+      "published": "2026-02-22T07:07:58.000Z",
+      "description": "The U.S. Department of Homeland Security is suspending the TSA PreCheck and Global Entry airport security programs as a partial government shutdown continues.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.469Z"
+    },
+    {
+      "id": "70c285e23ad3",
+      "title": "Faith leaders accuse White House Faith Office of stonewalling them",
+      "url": "https://www.axios.com/2026/02/22/faith-leaders-white-house-faith-office-ice",
+      "source": "Axios",
+      "published": "2026-02-22T12:00:07.000Z",
+      "description": "Some faith leaders say they're being shut out by the White House Faith Office, alleging the administration provides access only to those in political lockstep while ignoring the impact of ICE raids on religious attendance.\nWhy it matters: The office is taxpayer-funded and ostensibly represents the full breadth of American religious life. Critics argue it has instead become a political arm for conservative Christians.\n\nCatch up quick: President Trump created the White House Faith Office by execut",
+      "keywords": [
+        "raid",
+        "immigration",
+        "ICE",
+        "white house",
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.371Z"
+    },
+    {
+      "id": "71ad181410ed",
+      "title": "Lindsey Graham frets that Trump's advisers oppose Iran strike",
+      "url": "https://www.axios.com/2026/02/22/graham-trump-iran-strike-aides-oppose",
+      "source": "Axios",
+      "published": "2026-02-22T03:07:14.000Z",
+      "description": "Senator Lindsey Graham (R-S.C.) told Axios on Saturday that several people around President Trump are advising him not to bomb Iran. Graham urged the president to ignore them.\nWhy it matters: With two aircraft carriers and hundreds of warplanes preparing for what could be a major military operation, top Trump advisers tell Axios that the president still hasn't made up his mind.\n\nHe has been presented with military options that include killing Supreme Leader Ali Khamenei and his son.\nBut his team",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.545Z"
+    },
+    {
+      "id": "c62bb2c21dc3",
+      "title": "US arms sale to Taiwan clashes with Trump’s desire to strike trade deal with China",
+      "url": "https://thehill.com/policy/defense/5748538-taiwan-defense-deal-trump-xi/",
+      "source": "The Hill",
+      "published": "2026-02-22T11:00:00.000Z",
+      "description": "A U.S. arms sale to Taiwan is clashing with President Trump’s desire to strike a trade deal with China.  Chinese President Xi Jinping has voiced opposition to the new major arms sale to Taiwan, which China sees as its territory, and the president took note. The arms package’s delivery to Taiwan is now up in…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.562Z"
+    },
+    {
+      "id": "830d67ee3ebd",
+      "title": "GOP frets over competitive Texas Senate primary as early voting starts",
+      "url": "https://thehill.com/homenews/campaign/5748566-john-cornyn-ken-paxton-texas-gop-primary/",
+      "source": "The Hill",
+      "published": "2026-02-22T11:00:00.000Z",
+      "description": "Some Republicans are growing anxious that incumbent Sen. John Cornyn (R-Texas) could be ousted in the competitive Texas GOP primary for Senate, giving Democrats a rare opening in the red Lone Star State this fall.  As James Talarico gains steam in the Democratic primary against Rep. Jasmine Crockett (D-Texas), across the aisle, Cornyn and some national Republicans…",
+      "keywords": [
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.545Z"
+    },
+    {
+      "id": "3043d0cad4eb",
+      "title": "DHS tech buildout sparks backlash from Democrats",
+      "url": "https://thehill.com/policy/technology/5748365-dhs-tech-buildout-sparks-backlash-from-democrats/",
+      "source": "The Hill",
+      "published": "2026-02-22T11:00:00.000Z",
+      "description": "The Trump administration’s deployment of a wide range of technologies to support its sweeping deportation push and respond to those protesting immigration raids is sparking pushback among Democrats and civil liberties advocates, who fear it may be abusing its power as it launches new tools. The Department of Homeland Security (DHS) has used funding from…",
+      "keywords": [
+        "raid",
+        "immigration",
+        "deportation",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.542Z"
+    },
+    {
+      "id": "67f26a620b7d",
+      "title": "DHS suspending 2 travel programs amid shutdown",
+      "url": "https://thehill.com/policy/transportation/5749579-tsa-precheck-global-entry-pause/",
+      "source": "The Hill",
+      "published": "2026-02-22T04:05:09.000Z",
+      "description": "The Department of Homeland Security (DHS) will pause two of its programs meant to expedite the Transportation Security Administration’s (TSA) airport screening process starting Sunday as a shutdown of the agency stretches into a second week, according to The Washington Post. The Post reported that the TSA PreCheck and Global Entry programs would temporarily cease…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.560Z"
+    },
+    {
+      "id": "6e78bcd45c23",
+      "title": "Trump calls for Netflix to fire Susan Rice after she warned corporations for bending ‘a knee’",
+      "url": "https://thehill.com/media/5749551-trump-calls-for-netflix-to-fire-susan-rice-after-she-warned-corporations-for-bending-a-knee/",
+      "source": "The Hill",
+      "published": "2026-02-22T02:08:05.000Z",
+      "description": "President Trump on Saturday called on Netflix to fire former United Nations Ambassador Susan Rice from its board of directors after she warned about an “accountability agenda” if Democrats regain power in the upcoming elections. “Netflix should fire racist, Trump Deranged Susan Rice, IMMEDIATELY, or pay the consequences. She’s got no talent or skills –…",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.786Z"
+    },
+    {
+      "id": "6a754446cb07",
+      "title": "State of Texas: GOP AG hopefuls agree on policy but clash over records in Dallas debate",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5749507-state-of-texas-gop-ag-hopefuls-agree-on-policy-but-clash-over-records-in-dallas-debate/",
+      "source": "The Hill",
+      "published": "2026-02-22T01:29:38.000Z",
+      "description": "The four candidates vying for the Republican nomination for Texas Attorney General — State Sen. Mayes Middleton, R-Galveston, State Sen. Joan Huffman, R-Houston, former Assistant U.S. Attorney Aaron Reitz and U.S. Rep. Chip Roy, R-Texas — agree on almost everything. However, that didn't stop them from attacking each other on their records and experience during Tuesday night's Republican Attorneys General Association (RAGA) debate.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.646Z"
+    },
+    {
+      "id": "cc8062ce9714",
+      "title": "Schiff to boycott Trump’s State of the Union, speak at alternative event",
+      "url": "https://thehill.com/homenews/senate/5749515-schiff-boycott-trump-state-union/",
+      "source": "The Hill",
+      "published": "2026-02-22T00:27:08.000Z",
+      "description": "Sen. Adam Schiff (D-Calif.) is joining a growing group of Democrats who plan to boycott President Trump’s State of the Union address next Tuesday in favor of an alternative event, according to progressive media outlet MeidasTouch. The outlet reported that Schiff is set to speak at a counter rally on the National Mall, dubbed the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T12:03:36.635Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-22T00:09:22.863Z"
+  "lastFetch": "2026-02-22T12:03:36.786Z"
 }
