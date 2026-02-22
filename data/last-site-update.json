@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-02-22T12:12:16.572Z",
+  "articleCount": 103,
+  "updates": {
+    "statusChanges": [],
+    "newIncidents": [
+      {
+        "date": "Feb 09, 2025",
+        "severity": "crit",
+        "title": "DOJ moves to erase Bannon conviction for defying Jan. 6 congressional subpoena",
+        "description": "Justice Department seeks dismissal of Steve Bannon's criminal contempt conviction for refusing to comply with House Jan. 6 committee subpoena, undermining congressional oversight authority and accountability for defying legislative investigations. <a href=\"https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 10, 2025",
+        "severity": "crit",
+        "title": "Trump directs intelligence agencies to support 'Stop the Steal' lawyer's legal efforts",
+        "description": "President instructs spy agencies to provide intelligence to attorney involved in challenging 2020 election results, representing unprecedented politicization of intelligence community for partisan legal purposes. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 10, 2025",
+        "severity": "crit",
+        "title": "DNI office warns whistleblower attorney against sharing classified complaint with Congress",
+        "description": "Tulsi Gabbard's office attempts to prevent whistleblower's attorney from sharing classified complaint with congressional oversight committees, directly undermining statutory whistleblower protections and legislative oversight authority. <a href=\"https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 11, 2025",
+        "severity": "crit",
+        "title": "Trump administration moves to indict six Democratic lawmakers for protected speech",
+        "description": "Justice Department attempts to prosecute opposition members of Congress for statements made in official capacity, prompting legal action from targeted lawmakers and representing unprecedented weaponization against political opponents. <a href=\"https://www.pbs.org/newshour/show/rep-crow-signals-legal-action-after-administrations-effort-to-indict-6-democrats\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 12, 2025",
+        "severity": "crit",
+        "title": "White House immediately fires U.S. attorney selected by judges to replace Trump appointee",
+        "description": "Administration removes U.S. attorney within hours of judicial appointment panel selecting him, creating direct conflict between executive and judicial branches over prosecutorial independence. <a href=\"https://www.nbcnews.com/politics/justice-department/white-house-fires-us-attorney-donald-kinsella-judges-replace-trump-pic-rcna258833\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Feb 13, 2025",
+        "severity": "crit",
+        "title": "Trump vows to impose voter ID requirements 'whether approved by Congress or not'",
+        "description": "President explicitly states intent to unilaterally implement federal election requirements without congressional authorization, directly challenging separation of powers and statutory authority over elections. <a href=\"https://www.nbcnews.com/politics/elections/trump-vows-voter-id-requirements-midterms-rcna259018\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newCheckEvents": [
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "DOJ moves to dismiss Steve Bannon's criminal contempt conviction for defying congressional subpoena. <a href=\"https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "White House fires U.S. attorney hours after judicial appointment panel selected him for position. <a href=\"https://www.nbcnews.com/politics/justice-department/white-house-fires-us-attorney-donald-kinsella-judges-replace-trump-pic-rcna258833\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Feb 2025",
+        "text": "Attorney General allegedly accessed Democratic lawmaker's Epstein files search history, prompting congressional investigation. <a href=\"https://www.cbsnews.com/news/bondi-epstein-files-search-history-hearing-pramila-jayapal/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Intelligence Community",
+        "date": "Feb 2025",
+        "text": "Trump instructs spy agencies to provide intelligence to his 'Stop the Steal' lawyer for partisan legal efforts. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Intelligence Community",
+        "date": "Feb 2025",
+        "text": "DNI office warns whistleblower attorney against sharing classified complaint with Congress. <a href=\"https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Congressional Oversight",
+        "date": "Feb 2025",
+        "text": "DOJ seeks to erase Bannon conviction for contempt of Congress, undermining legislative subpoena power. <a href=\"https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Congressional Oversight",
+        "date": "Feb 2025",
+        "text": "DNI office attempts to block whistleblower's attorney from sharing classified complaint with oversight committees. <a href=\"https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Congressional Oversight",
+        "date": "Feb 2025",
+        "text": "Democrats launch investigation into alleged DOJ tracking of lawmakers' Epstein files searches. <a href=\"https://thehill.com/homenews/house/5738162-epstein-files-doj-bondi-house-democrats/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Political Retribution",
+        "date": "Feb 2025",
+        "text": "Trump administration moves to indict six Democratic lawmakers, prompting legal action from targeted members of Congress. <a href=\"https://www.pbs.org/newshour/show/rep-crow-signals-legal-action-after-administrations-effort-to-indict-6-democrats\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Press Freedom",
+        "date": "Feb 2025",
+        "text": "Don Lemon pleads not guilty to charges related to covering ICE protest at church. <a href=\"https://www.axios.com/2026/02/13/don-lemon-plea-not-guilty-minnesota-church-protest\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Election Infrastructure",
+        "date": "Feb 2025",
+        "text": "Trump vows to impose voter ID requirements for midterms 'whether approved by Congress or not.' <a href=\"https://www.nbcnews.com/politics/elections/trump-vows-voter-id-requirements-midterms-rcna259018\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Election Infrastructure",
+        "date": "Feb 2025",
+        "text": "FBI raid of Georgia election hub was driven by Trump appointee, court documents reveal. <a href=\"https://www.nbcnews.com/politics/elections/fbi-raided-georgia-election-hub-search-evidence-2020-voter-fraud-court-rcna258344\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Judicial Independence",
+        "date": "Feb 2025",
+        "text": "White House fires U.S. attorney immediately after judicial panel selected him, creating executive-judicial conflict. <a href=\"https://www.cbsnews.com/news/justice-department-fires-u-s-attorney-in-new-york-hours-after-judges-picked-him-for-the-job/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Civil Service Independence",
+        "date": "Feb 2025",
+        "text": "Trump administration seeks to block independent review when federal workers are laid off. <a href=\"https://thehill.com/homenews/administration/5730400-trump-admin-strips-mspb-power/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      }
+    ],
+    "newTickerItems": [
+      {
+        "label": "DOJ",
+        "text": "<strong>DOJ moves to erase Bannon conviction</strong> for defying Jan. 6 subpoena"
+      },
+      {
+        "label": "INTEL",
+        "text": "Trump directs <strong>spy agencies to aid 'Stop the Steal' lawyer</strong>"
+      },
+      {
+        "label": "CONGRESS",
+        "text": "<strong>Six Democratic lawmakers face indictment</strong> for protected speech"
+      },
+      {
+        "label": "ELECTIONS",
+        "text": "Trump vows voter ID <strong>'whether approved by Congress or not'</strong>"
+      }
+    ],
+    "statUpdates": [],
+    "bannerUpdate": null,
+    "summary": "Multiple critical developments show accelerating institutional breakdown: DOJ moves to erase Bannon's contempt of Congress conviction, Trump directs intelligence agencies to support partisan election lawyers, administration attempts to indict six Democratic lawmakers, and White House fires judicially-appointed U.S. attorney within hours. Trump explicitly threatens to impose election requirements without congressional authorization, while DNI office attempts to block whistleblower complaints from reaching Congress."
+  }
+}
