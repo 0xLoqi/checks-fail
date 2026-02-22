@@ -22332,8 +22332,520 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-21T12:04:07.066Z"
+    },
+    {
+      "id": "a501cca981a7",
+      "title": "Vietnam Veterans sue to block proposed 'Independence Arch' near Arlington National Cemetery",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5721786/vietnam-veterans-sue-trump-arch",
+      "source": "NPR Politics",
+      "published": "2026-02-21T19:27:56.000Z",
+      "description": "The lawsuit challenges President Trump's plans for \"Independence Arch,\" a 250-foot structure proposed for Memorial Circle.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.610Z"
+    },
+    {
+      "id": "cfacf9293bb2",
+      "title": "Trump to raise global tariffs to 15%",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5722111/trump-global-tariffs-15-percent",
+      "source": "NPR Politics",
+      "published": "2026-02-21T18:57:02.000Z",
+      "description": "President Trump previously said he would implement 10% global tariffs after the U.S. Supreme Court struck down his tariff policies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.677Z"
+    },
+    {
+      "id": "5465f85bbf6d",
+      "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5721761/us-military-airlifts-small-reactor",
+      "source": "NPR Politics",
+      "published": "2026-02-21T15:23:17.000Z",
+      "description": "The Pentagon and the Energy Department have airlifted a small nuclear reactor from California to Utah, demonstrating what they say is potential for the U.S. to quickly deploy nuclear power for military and civilian use.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.625Z"
+    },
+    {
+      "id": "ab4ecc80b484",
+      "title": "A look at the SCOTUS ruling on Trump's tariffs",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5721206/a-look-at-the-scotus-ruling-on-trumps-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-21T12:44:37.000Z",
+      "description": "We look at what yesterday's Supreme Court decision on President Trump's tariffs means for his economic policies and campaign promises.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.614Z"
+    },
+    {
+      "id": "40919175a42c",
+      "title": "Week in Politics: SCOTUS shuts down Trump's tariffs; U.S.-Iran update",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5718238/week-in-politics-scotus-shuts-down-trumps-tariffs-u-s-iran-update",
+      "source": "NPR Politics",
+      "published": "2026-02-21T12:44:19.000Z",
+      "description": "We look at the U.S. Supreme Court decision striking down many of President Trump's tariffs, as well as a look as the possibility of another military clash with Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.624Z"
+    },
+    {
+      "id": "d74663ed848d",
+      "title": "Fact-checking DHS Secretary Kristi Noem on her agency's role in elections",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-dhs-secretary-kristi-noem-on-her-agencys-role-in-elections",
+      "source": "PBS NewsHour",
+      "published": "2026-02-21T17:31:50.000Z",
+      "description": "Homeland Security Secretary Kristi Noem made comments that could lead people to misinterpret her agency's role in elections as she lobbied for legislation that would require photo ID to vote and documentary proof of citizenship for voter registration.",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.798Z"
+    },
+    {
+      "id": "98f459ec5286",
+      "title": "Trump says he will raise new global tariff to 15% after Supreme Court setback",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049",
+      "source": "NBC News",
+      "published": "2026-02-21T16:35:26.000Z",
+      "description": "President Donald Trump on Saturday said that he was hiking his newly announced global tariff to 15%, less than a day after announcing a 10% worldwide duty",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.821Z"
+    },
+    {
+      "id": "1ad67bd61a9c",
+      "title": "CIA retracts and revises reports for 'bias' after review by Trump-appointed board",
+      "url": "https://www.nbcnews.com/politics/national-security/cia-reports-bias-review-trump-appointed-board-rcna260037",
+      "source": "NBC News",
+      "published": "2026-02-21T18:50:45.000Z",
+      "description": "CIA Director John Ratcliffe on Friday said he was directing the agency to retract or substantively edit 19 intelligence reports that President Donald Trump's political appointees \"failed to be independent of political consideration.\"",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.822Z"
+    },
+    {
+      "id": "4a8000e20048",
+      "title": "Trump withdraws endorsement of Colorado Rep. Jeff Hurd, cites 'lack of support' on tariffs",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-withdraws-endorsement-colorado-rep-jeff-hurd-rcna260085",
+      "source": "NBC News",
+      "published": "2026-02-21T23:37:42.000Z",
+      "description": "President Donald Trump on Saturday withdrew his endorsement of Republican Rep.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.917Z"
+    },
+    {
+      "id": "f28ca125af57",
+      "title": "Records show ICE agent fatally shot U.S. citizen nearly a year ago in Texas",
+      "url": "https://www.cbsnews.com/news/ice-agent-fatally-shot-u-s-citizen-nearly-one-year-ago-texas-ruben-ray-martinez/",
+      "source": "CBS News",
+      "published": "2026-02-21T23:14:00.000Z",
+      "description": "Ruben Ray Martinez was fatally shot in South Padre Island, Texas, in March 2025. ICE's involvement in the shooting was not disclosed until more than 11 months after the shooting.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.907Z"
+    },
+    {
+      "id": "83f1c28afa9a",
+      "title": "Trump says he will raise global tariffs to 15% after Supreme Court decision",
+      "url": "https://www.cbsnews.com/news/trump-global-tariff-15-percent-supreme-court-decision/",
+      "source": "CBS News",
+      "published": "2026-02-21T21:16:30.000Z",
+      "description": "On Friday, President Trump signed a proclamation that would impose 10% tariffs on most foreign imports to the United States.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.896Z"
+    },
+    {
+      "id": "77d6fd078ea4",
+      "title": " White House dinner closes a turbulent week for governors in Washington",
+      "url": "https://abcnews.com/Politics/wireStory/white-house-dinner-closes-turbulent-week-governors-washington-130361715",
+      "source": "ABC News",
+      "published": "2026-02-21T13:40:42.000Z",
+      "description": "On Saturday, governors gather for the annual National Governors Association dinner after a tense week",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.931Z"
+    },
+    {
+      "id": "90fda8d625cd",
+      "title": "Trump opens the alien files: Why Americans lean into conspiracies",
+      "url": "https://www.axios.com/2026/02/21/alien-files-conspiracy-theories-usa",
+      "source": "Axios",
+      "published": "2026-02-21T21:00:05.000Z",
+      "description": "President Trump vowed this week to release the government's files on aliens and UFOs, the latest instance of declassifying records that have fueled Americans' fascination with conspiracies for decades.\nWhy it matters: Beliefs about extraterrestrials and suspicion of government secrecy run deep for some, and researchers tell Axios that conspiracy theories often signal entrenched political or social notions.\n\nDriving the news: Last year, Trump declassified files related to the killings of John F. ",
+      "keywords": [
+        "ICE",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:21.905Z"
+    },
+    {
+      "id": "d8c839f02c9f",
+      "title": "Trump raises global tariffs to 15% one day after Supreme Court decision",
+      "url": "https://www.axios.com/2026/02/21/trump-tariff-supreme-court-increase",
+      "source": "Axios",
+      "published": "2026-02-21T16:31:24.000Z",
+      "description": "President Trump said on Saturday that he would hike global tariffs to 15%, one day after the Supreme Court ruled a bulk of import taxes were illegal.\nWhy it matters: The administration moved swiftly to replace the tariffs scrapped by the nation's highest court. Now Trump is upping the ante by raising the tariffs to the highest limit allowed under a separate trade law.\n\nWhat they're saying: In a post on Truth Social, Trump said that he would be raising the 10% global tariff to the \"fully allowed,",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.064Z"
+    },
+    {
+      "id": "5cc01155bf59",
+      "title": "Why people are buying iPods again",
+      "url": "https://www.axios.com/2026/02/21/ipods-music-genz-nostalgia",
+      "source": "Axios",
+      "published": "2026-02-21T10:45:04.000Z",
+      "description": "Grab your corded headphones: People are snapping up Apple's retired MP3 players for nostalgia and a break from smartphones.\nThe big picture: For younger generations especially, the comeback is part of a broader return to offline devices and hobbies, driven by digital burnout.\n\nBy the numbers: Search interest for the original iPod and the iPod Nano spiked last year — even though Apple discontinued the product line in 2022, according to Google Trends data.\n\neBay searches jumped for the iPod Classi",
+      "keywords": [
+        "ICE",
+        "SNAP"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.020Z"
+    },
+    {
+      "id": "7ef7b3f26346",
+      "title": "Supreme Court blunts President Trump's energy weapon",
+      "url": "https://www.axios.com/2026/02/20/supreme-court-trump-energy-tariffs",
+      "source": "Axios",
+      "published": "2026-02-21T00:57:44.000Z",
+      "description": "The Supreme Court's decision striking down many of President Trump's tariffs curbs his power to use energy to pressure trading partners.\nWhy it matters: Trump has aggressively used tariffs — real and threatened — to gain economic and geopolitical leverage.\n\nMultiple trade deals have included pledges from partners to buy U.S. oil and liquefied natural gas. Trump has also threatened tariffs to pressure other countries not to buy Russian or Iranian oil. \n\nCatch up quick: The high court on Friday ru",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.015Z"
+    },
+    {
+      "id": "817f650e4e1f",
+      "title": "Noem swipes at Democrats over DHS shutdown after DC emergency declaration for Potomac spill",
+      "url": "https://thehill.com/homenews/administration/5749464-noem-criticizes-democrats-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-21T23:05:59.000Z",
+      "description": "Department of Homeland Security (DHS) Secretary Kristi Noem on Saturday targeted Democratic lawmakers over their continued refusal to back a funding package for the department in an update about the waste cleanup effort in the Potomac River. Earlier Saturday, President Trump approved Washington, D.C. Mayor Muriel Bowser’s (D) request for federal disaster assistance as the…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.312Z"
+    },
+    {
+      "id": "42e20cb4859b",
+      "title": "Sunday shows preview: Trump tariff setback looms large ahead of State of Union ",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5749454-trump-tariffs-supreme-court-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-21T22:54:35.000Z",
+      "description": "The Supreme Court’s ruling this week against President Trump’s tariffs was a major setback for the White House’s economic platform.  The Trump administration has made bold promises that these sweeping tariffs would help elevate the U.S.’s standing on the global stage by pressuring international partners into new trade agreements. However, on Friday, the court ruled…",
+      "keywords": [
+        "white house",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.012Z"
+    },
+    {
+      "id": "68fd8312cf45",
+      "title": "Trump pulls endorsement of Hurd over tariffs vote",
+      "url": "https://thehill.com/homenews/campaign/5749448-hurd-loses-trump-backing/",
+      "source": "The Hill",
+      "published": "2026-02-21T22:26:22.000Z",
+      "description": "President Trump withdrew his endorsement for Rep. Jeff Hurd (R-Colo.) on Saturday over what he called a “lack of support” for the president’s sweeping tariff agenda, saying he would endorse Hurd’s challenger in the upcoming GOP primary instead. “Based of a lack of support, in particular for the unbelievably successful TARIFFS imposed on Foreign Countries…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.392Z"
+    },
+    {
+      "id": "6cde24ec1433",
+      "title": "Education Department puts pressure on colleges ahead of upcoming student loan changes",
+      "url": "https://thehill.com/homenews/education/5748007-education-department-student-loan-borrowers-default/",
+      "source": "The Hill",
+      "published": "2026-02-21T22:00:00.000Z",
+      "description": "The Trump administration is turning up the pressure on schools to rein in student loan default rates ahead of changes the federal government is implementing this summer that advocates worry could hurt borrowers.   The Department of Education released guidance to universities this week to offer “best practices to reduce default rates” — and reminded schools…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.392Z"
+    },
+    {
+      "id": "2e3cf152dbb5",
+      "title": "Elon Musk’s X appeals $140M EU fine",
+      "url": "https://thehill.com/policy/technology/5749310-elon-musk-x-appeals-eu-fine/",
+      "source": "The Hill",
+      "published": "2026-02-21T20:09:53.000Z",
+      "description": "Billionaire Elon Musk’s social platform X has appealed a $140 million fine from the European Commission in a landmark case that could shape how online platforms are regulated across Europe. The company’s Global Government Affairs team said in a Friday post that it had filed an appeal with the General Court of the European Union…",
+      "keywords": [
+        "musk"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.395Z"
+    },
+    {
+      "id": "0a16ce6045ab",
+      "title": "DOJ moves quickly to boot judge-appointed Virginia US attorney",
+      "url": "https://thehill.com/homenews/administration/5749239-doj-fires-interim-us-attorney/",
+      "source": "The Hill",
+      "published": "2026-02-21T19:36:37.000Z",
+      "description": "The Department of Justice (DOJ) on Friday fired the top prosecutor leading the U.S. attorney for the Eastern District of Virginia office hours after he took on the role to replace former Trump lawyer Lindsey Halligan. U.S. District Judge M. Hannah Lauck administered the oath of office after longtime litigator James Hundley was unanimously appointed…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "prosecutor",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.407Z"
+    },
+    {
+      "id": "23096e7f715e",
+      "title": "Jeffries: Supreme Court tariff ruling a ‘crushing defeat for the wannabe King’",
+      "url": "https://thehill.com/homenews/house/5749254-jeffries-calls-trump-tariffs-defeat/",
+      "source": "The Hill",
+      "published": "2026-02-21T19:10:58.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) called the Supreme Court ruling against a majority of President Trump’s tariffs a “crushing defeat for the wannabe King.”  “The Supreme Court decision striking down the harmful Trump Tariffs is a big victory for the American people,” Jeffries posted on the social platform X on Friday morning.  “And another…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.492Z"
+    },
+    {
+      "id": "d67d00e05ae3",
+      "title": "There is a new bipartisan coalition in town — just not the one we wanted",
+      "url": "https://thehill.com/opinion/campaign/5747730-burn-it-down-coalition-emerges/",
+      "source": "The Hill",
+      "published": "2026-02-21T19:00:00.000Z",
+      "description": "The extreme left and right are forming a new coalition, the Burn-It-Down Coalition, which is pushing America towards antisemitism, hostility to free speech, and endless politicized retribution and persecution.",
+      "keywords": [
+        "retribution"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.596Z"
+    },
+    {
+      "id": "e2de10d7b10b",
+      "title": "Trump blasts ‘disloyal’ Republicans after Supreme Court sinks tariffs",
+      "url": "https://thehill.com/homenews/administration/5748863-donald-trump-republicans-justices-supreme-court-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-21T17:37:40.000Z",
+      "description": "President Trump late Friday blasted “disloyal” Republicans and Supreme Court justices after the high court struck down much of his tariff policy and as he ramps up efforts to sell his economic agenda ahead of the 2026 midterms. “Republicans are so disloyal to themselves!” he wrote on Truth Social. “Unite, stick together, and WIN!” Trump’s…",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.596Z"
+    },
+    {
+      "id": "1e46da9aa380",
+      "title": "Trump hikes global tariff to 15 percent after ‘ridiculous’ Supreme Court ruling",
+      "url": "https://thehill.com/homenews/administration/5749113-donald-trump-15-percent-global-tariffs-supreme-court/",
+      "source": "The Hill",
+      "published": "2026-02-21T17:04:56.000Z",
+      "description": "President Trump on Saturday announced he is raising a newly-imposed global tariff to 15 percent after reviewing the Supreme Court’s 6-3 decision to block him from using emergency powers to impose sweeping import taxes on foreign trading partners. “Based on a thorough, detailed, and complete review of the ridiculous, poorly written, and extraordinarily anti-American decision…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.680Z"
+    },
+    {
+      "id": "b2f6958b5ff3",
+      "title": "Trump elevates Maryland’s Moore by picking a fight with him",
+      "url": "https://thehill.com/policy/energy-environment/5748492-trump-governors-maryland-moore-potomac-sewage-spill-virginia/",
+      "source": "The Hill",
+      "published": "2026-02-21T17:00:00.000Z",
+      "description": "The massive wastewater spill in the Potomac River is escalating a feud between President Trump and Maryland Gov. Wes Moore (D) as Moore is increasingly seen as a potential 2028 presidential contender.  Trump has laid blame on Moore, Virginia Gov. Abigail Spanberger (D), and Washington, D.C. Mayor Muriel Bowser for the spill, which continues to…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.582Z"
+    },
+    {
+      "id": "0748af38cd63",
+      "title": "Bacon signals Trump’s new tariff order ‘will be defeated’ by Congress",
+      "url": "https://thehill.com/homenews/house/5749069-bacon-trump-new-tariffs-congress-response/",
+      "source": "The Hill",
+      "published": "2026-02-21T16:49:23.000Z",
+      "description": "President Trump’s decision to issue new import taxes across the globe following the Supreme Court’s rebuke of his sweeping tariffs on Friday is drawing broad criticism, including from several Republican lawmakers. Rep. Don Bacon (R-Neb.) told CNN’s Brianna Keilar on Friday that Congress is sure to challenge the new tariffs and signaled confidence that the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.583Z"
+    },
+    {
+      "id": "f92c0d0a82eb",
+      "title": "DHS looks to outfit Secret Service protective detail in tailored suits",
+      "url": "https://thehill.com/homenews/administration/5748965-dhs-secret-service-tailored-suits/",
+      "source": "The Hill",
+      "published": "2026-02-21T16:32:52.000Z",
+      "description": "The Trump administration will pay to outfit U.S. Secret Service (USSS) protective detail agents with two tailored suits, the Department of Homeland Security (DHS) confirmed to The Hill. The initiative, first reported by CNN on Friday and included in a public contract solicitation, emerged after DHS Secretary Kristi Noem said she did not like that…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.762Z"
+    },
+    {
+      "id": "67d56bdf1a0b",
+      "title": "Maher mocks ‘Karen’ Trump after Supreme Court tariff upset",
+      "url": "https://thehill.com/homenews/administration/5749015-bill-maher-donald-trump-supreme-court-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-21T16:03:30.000Z",
+      "description": "Comedian Bill Maher ridiculed President Trump over his response to the Supreme Court’s tariff ruling Friday, calling him a “Karen.” The high court ruled in a 6-3 decision that Trump unlawfully relied on the International Emergency Economic Powers Act (IEEPA) to impose sweeping tariffs on nearly all foreign trading partners. “Here they finally said, ‘You…",
+      "keywords": [
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.863Z"
+    },
+    {
+      "id": "28ea1e0a3cfb",
+      "title": "Why Medicaid has drifted from its mission — and how to fix It",
+      "url": "https://thehill.com/opinion/healthcare/5747016-medicaid-mission-creep-housing/",
+      "source": "The Hill",
+      "published": "2026-02-21T16:00:00.000Z",
+      "description": "The Trump administration is intensifying oversight of Medicaid spending to curb fraud, waste and abuse, and policymakers should address Medicaid's \"mission creep\" into housing by increasing transparency and shifting Medicaid financing to per-capita allotments.",
+      "keywords": [
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.762Z"
+    },
+    {
+      "id": "7abad3a9fa8d",
+      "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+      "url": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-21T18:49:29.000Z",
+      "description": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-22T00:09:22.769Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-21T12:04:07.066Z"
+  "lastFetch": "2026-02-22T00:09:22.863Z"
 }
