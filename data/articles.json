@@ -23024,8 +23024,518 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-22T12:03:36.635Z"
+    },
+    {
+      "id": "e6505e4d9841",
+      "title": "Politics chat: Trump says he'll raise tariffs despite Supreme Court ruling",
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5719174/politics-chat-trump-says-hell-raise-tariffs-despite-supreme-court-ruling",
+      "source": "NPR Politics",
+      "published": "2026-02-22T13:08:38.000Z",
+      "description": "President Trump says he will raise global tariffs by 15% days after the Supreme Court ruled he doesn't have the emergency power to raise tariffs. And the world waits to see if Trump will strike Iran.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.482Z"
+    },
+    {
+      "id": "f1404834340c",
+      "title": "Democrats and Republicans agree on one thing: regulating the use of AI",
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5712709/democrats-and-republicans-agree-on-one-thing-regulating-the-use-of-ai",
+      "source": "NPR Politics",
+      "published": "2026-02-22T13:08:26.000Z",
+      "description": "Republicans and Democrats in state capitols across the country agree on some things when it comes to regulating Artificial Intelligence and data centers.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.479Z"
+    },
+    {
+      "id": "19431f4d8fb8",
+      "title": "Bill of Rights put to the test over Trump's immigration crackdown in Minnesota",
+      "url": "https://www.nbcnews.com/politics/trump-administration/bill-rights-test-trump-immigration-crackdown-minnesota-rcna258102",
+      "source": "NBC News",
+      "published": "2026-02-22T12:00:42.000Z",
+      "description": "In and out of court, more than half of the amendments in the Bill of Rights are being fought over as a result of Trump’s immigration enforcement surge in Minnesota.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.486Z"
+    },
+    {
+      "id": "6a424a687edf",
+      "title": "Law enforcement shoots and kills man at Mar-a-Lago, Secret Service says ",
+      "url": "https://www.nbcnews.com/politics/donald-trump/law-enforcement-shoots-kills-man-mar-lago-secret-service-rcna260141",
+      "source": "NBC News",
+      "published": "2026-02-22T14:12:47.000Z",
+      "description": "Secret Service agents and a Palm Beach County deputy shot and killed a man who entered the secure perimeter at President Donald Trump’s Mar-a-Lago residence in Florida with “what appeared to be a shotgun and a fuel can,” the Secret Service announced in a statement on Sunday",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.803Z"
+    },
+    {
+      "id": "fb94e2878d3b",
+      "title": "France to summon U.S. ambassador over comments on activist's death",
+      "url": "https://www.cbsnews.com/news/france-summon-us-ambassador-charles-kushner-state-departments-comment-quentin-deranque/",
+      "source": "CBS News",
+      "published": "2026-02-23T05:00:01.000Z",
+      "description": "The U.S. State Department's Counterterrorism Bureau shared a post on X about Quentin Deranque, a far-right activist, who died of brain injuries after being beaten.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.700Z"
+    },
+    {
+      "id": "71d132b2f087",
+      "title": "Defense attorneys build mapping tool to track Justice Dept. \"weaponization\"",
+      "url": "https://www.cbsnews.com/news/defense-attorneys-mapping-tool-justice-dept-weaponization/",
+      "source": "CBS News",
+      "published": "2026-02-23T01:00:04.000Z",
+      "description": "A defense lawyers group has posted a tracking tool to enable users to check on the status of some of the controversial prosecutions attempted by DOJ in the first year of Trump's second term.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.765Z"
+    },
+    {
+      "id": "ce6d2d31182b",
+      "title": "Greer says White House expects to \"stand by\" trade deals after SCOTUS ruling",
+      "url": "https://www.cbsnews.com/news/us-trade-representative-jamieson-greer-trade-deals-tariff-decision/",
+      "source": "CBS News",
+      "published": "2026-02-22T17:40:36.000Z",
+      "description": "U.S. Trade Representative Jamieson Greer said  \"stand by\" the trade deal agreements it has signed with its partners despite the Supreme Court's tariff decision.",
+      "keywords": [
+        "white house",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.702Z"
+    },
+    {
+      "id": "e38d822a64fb",
+      "title": "Armed man shot and killed inside Mar-a-Lago perimeter, Secret Service says",
+      "url": "https://www.cbsnews.com/news/man-shot-mar-a-lago-uanauthorized-entry-perimeter-secret-service/",
+      "source": "CBS News",
+      "published": "2026-02-22T16:50:28.000Z",
+      "description": "An armed man was shot and killed early Sunday morning after \"unauthorized entry\" into the secure perimeter at President Trump's Mar-a-Lago estate, the U.S. Secret Service said.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.723Z"
+    },
+    {
+      "id": "710fd1b9bcda",
+      "title": " Never Trump Republicans are still issuing dire warnings. Is anyone listening?",
+      "url": "https://abcnews.com/Politics/wireStory/trump-republicans-issuing-dire-warnings-listening-130392750",
+      "source": "ABC News",
+      "published": "2026-02-22T21:09:29.000Z",
+      "description": "The Republicans and former Republicans who gathered in suburban Washington this weekend are warning that President Donald Trump and his allies in Congress are tearing at the very fabric of U.S. democracy",
+      "keywords": [
+        "trump",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.928Z"
+    },
+    {
+      "id": "a8c6e20dc70f",
+      "title": "Mexico killed \"El Mencho.\" Here's how and what we know about U.S. role in the operation",
+      "url": "https://www.axios.com/2026/02/23/mexico-cartel-leader-el-mencho-drug-lord-killed",
+      "source": "Axios",
+      "published": "2026-02-23T05:40:12.000Z",
+      "description": "Mexican security forces killed Nemesio Rubén Oseguera Cervantes, the country's most-wanted drug lord, following information from the U.S. that assisted in Sunday's operation, the Trump administration and Mexico's defense ministry said.\nWhy it matters: President Trump has for months pressed Mexican officials to target drug cartels and the U.S. offered a reward of up to $15 million for information leading to the arrest of Oseguera Cervantes, known as \"El Mencho,\" who led the Jalisco New Generation",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.926Z"
+    },
+    {
+      "id": "ab5f4bbba35f",
+      "title": "Armed man shot and killed by law enforcement outside Mar-a-Lago",
+      "url": "https://www.axios.com/2026/02/22/mar-a-lago-secret-service-shooting",
+      "source": "Axios",
+      "published": "2026-02-23T05:01:50.000Z",
+      "description": "Law enforcement shot and killed an armed man outside of President Trump's Mar-a-Lago resort Sunday, the Secret Service said.\nThe big picture: Trump was not at his Florida home when the shooting occurred, though he often travels to the Palm Beach resort for the weekend.\n\nThe latest: Authorities identified the suspect to multiple outlets as Austin Tucker Martin, 21, from North Carolina.\n \nScreenshot: Palm Beach County Sheriff's Office/X\nDriving the news: The suspect was spotted by the north gate o",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.949Z"
+    },
+    {
+      "id": "796e91ae3685",
+      "title": "MAGA embraces hockey gold medal with latest swipes at Canada",
+      "url": "https://www.axios.com/2026/02/22/maga-hockey-olympics-gold-medal-canada",
+      "source": "Axios",
+      "published": "2026-02-23T00:02:26.000Z",
+      "description": "America is celebrating its first U.S. men's hockey gold since the '80s, toppling Canada with a clutch overtime goal amid historically sharp tensions between the neighboring nations.\nThe big picture: The victory was extra sweet for the MAGA world, which swiftly seized the win as an opportunity to roast Ottawa — and uplift Team USA's star player Jack Hughes' patriotism after calling out other athletes for criticizing the current state of the country.\n\n\"We're USA. We're so proud to be Americans. To",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.919Z"
+    },
+    {
+      "id": "ca5f03765d19",
+      "title": "Scoop: DNC officials working on secret report found Gaza stance cost Harris votes",
+      "url": "https://www.axios.com/2026/02/22/dnc-2024-autopsy-harris-gaza",
+      "source": "Axios",
+      "published": "2026-02-22T22:09:28.000Z",
+      "description": "Top Democratic officials who worked on the party's still-secret autopsy of the 2024 election concluded that Kamala Harris lost significant support because of the Biden administration's approach to the war in Gaza, Axios has learned.\nWhy it matters: The Democratic National Committee's research on what went wrong in 2024 has been under lock and key since party leaders decided last year to hide it from the public — a reflection of how explosively it could resonate within the party and beyond.\n\nProg",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:44.912Z"
+    },
+    {
+      "id": "d5bb14c7ed1d",
+      "title": "Dems eyeing 2028 tap the brakes on AI data centers",
+      "url": "https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers",
+      "source": "Axios",
+      "published": "2026-02-22T21:59:00.000Z",
+      "description": "The AI backpedaling has begun: 2028 Democratic contenders who bet big on data centers are suddenly retreating amid a growing voter revolt.\nWhy it matters: The politics of AI are evolving almost as rapidly as the technology.\n\nJust a few months ago, potential 2028 presidential candidates — including Illinois Gov. JB Pritzker, Pennsylvania Gov. Josh Shapiro and Maryland Gov. Wes Moore — were bending over backwards to lure data centers, with offers of lavish tax breaks and other goodies.\nThe project",
+      "keywords": [
+        "election",
+        "voter",
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.139Z"
+    },
+    {
+      "id": "22c37ef16129",
+      "title": "U.S.-Iran talks expected Thursday to discuss nuclear proposal",
+      "url": "https://www.axios.com/2026/02/22/iran-us-talks-friday-nuclear-deal",
+      "source": "Axios",
+      "published": "2026-02-22T17:21:39.000Z",
+      "description": "U.S. and Iranian negotiators are expected to meet in Geneva on Thursday to discuss a detailed Iranian proposal for a nuclear deal. A senior U.S. official told Axios on Sunday morning the Trump administration expects to receive the proposal by Tuesday. \nWhy it matters: The current diplomatic push is likely the last chance President Trump will give Iran before launching a massive U.S.-Israeli military operation that could directly target Supreme Leader Ali Khamenei, U.S. officials say. \n\nState of ",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.270Z"
+    },
+    {
+      "id": "fae8887acd07",
+      "title": "DHS reverses on TSA PreCheck pause as snowstorm scatters travel",
+      "url": "https://www.axios.com/2026/02/22/tsa-precheck-air-travel-storm-shutdown",
+      "source": "Axios",
+      "published": "2026-02-22T16:58:14.000Z",
+      "description": "It's a perfect storm: As extreme winter weather triggers thousands of flight cancellations, the federal government created more travel questions.\n\nThe Department of Homeland Security announced Sunday it would suspend two popular travel programs, including TSA PreCheck, due to the ongoing partial government shutdown. But hours later, it seemingly reversed course, saying PreCheck remained operational.\n\nWhy it matters: Air travel has historically been a major pain point during government shutdowns,",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.067Z"
+    },
+    {
+      "id": "d1311d70a6ac",
+      "title": "JD or Marco? Trump asking advisers about 2028",
+      "url": "https://www.axios.com/2026/02/22/vance-rubio-2028-trump-question",
+      "source": "Axios",
+      "published": "2026-02-22T13:58:20.000Z",
+      "description": "President Trump has a new parlor game he's springing on advisers and confidants: JD Vance or Marco Rubio?\n\nThat is, do people favor the vice president or secretary of state to sit atop the GOP ticket to succeed him in 2028? Trump asks casually, but increasingly, several sources tell us. \n\nWhy it matters: Trump is focused on his legacy as his last midterm elections approach, and he believes there are no better standard bearers for it than Vance and Rubio.\n\nTrump favors Vance. It's why he chose hi",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.074Z"
+    },
+    {
+      "id": "d5163b5e8aba",
+      "title": "C-SPAN puts speculation on identity of caller to rest: ‘It was not the president’",
+      "url": "https://thehill.com/homenews/media/5750318-cspan-caller-not-trump/",
+      "source": "The Hill",
+      "published": "2026-02-23T03:21:35.000Z",
+      "description": "C-SPAN said Sunday that the man who called in to the network on Friday was not, in fact, President Trump.  “Because so many of you are talking about Friday’s C-SPAN caller who identified himself as ‘John Barron,’ we want to put this to rest: it was not the president,” the network wrote on the social…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.065Z"
+    },
+    {
+      "id": "d1b4b7248fa3",
+      "title": "Trump posts about Olympics on closing day of games",
+      "url": "https://thehill.com/homenews/administration/5750306-trump-posts-about-olympics-on-closing-day-of-games/",
+      "source": "The Hill",
+      "published": "2026-02-23T03:04:50.000Z",
+      "description": "President Trump praised Team USA as the Winter Olympics concluded Sunday. Just over 30 minutes after the U.S. men’s hockey team knocked off Canada in the gold medal game, the president wrote on his Truth Social platform, “LOTS OF WINNING!!!” Later Sunday afternoon, Trump touted the U.S. winning 12 gold medals, the most ever for…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.516Z"
+    },
+    {
+      "id": "80217cf7afdd",
+      "title": "Patel responds to Olympics backlash, says he was invited to locker room after hockey game",
+      "url": "https://thehill.com/homenews/administration/5750297-patel-joins-us-hockey-gold/",
+      "source": "The Hill",
+      "published": "2026-02-23T02:25:49.000Z",
+      "description": "FBI Director Kash Patel dismissed critics of his presence in the locker room during the U.S. men’s hockey team’s celebration of their gold medal game victory over Canada on Sunday. Patel, who was in attendance in Milan, Italy, was captured on camera in Team USA’s locker room on the final day of the Winter Olympics.…",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.425Z"
+    },
+    {
+      "id": "2a8d9021c367",
+      "title": "35 million people under blizzard warning as storm hits Northeast",
+      "url": "https://thehill.com/homenews/state-watch/5750249-winter-storm-mid-atlantic-northeast/",
+      "source": "The Hill",
+      "published": "2026-02-23T00:23:52.000Z",
+      "description": "A major winter storm is sweeping through the mid-Atlantic and Northeast on Sunday, with conditions expected to persist into Monday.  The National Weather Service (NWS) says that the system will produce heavy snow over the northern mid-Atlantic into the Northeast from Sunday evening into Monday. Snowfall rates of 2 to 3 inches per hour will…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.386Z"
+    },
+    {
+      "id": "01337bd80bdc",
+      "title": "Porter holds up ‘F— Trump’ message at California Democratic convention",
+      "url": "https://thehill.com/homenews/campaign/5750207-katie-porter-trump-protest/",
+      "source": "The Hill",
+      "published": "2026-02-22T23:22:54.000Z",
+      "description": "Former Rep. Katie Porter (D-Calif.), who has entered the California gubernatorial race, took a stand against the Trump administration on Saturday, carrying a large sign that read “F— Trump” on stage at the state Democratic convention.  The phrase has gained steam nationally ahead of midterm elections and the 2028 presidential race.  Earlier in the week,…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.489Z"
+    },
+    {
+      "id": "c97dfcc5503e",
+      "title": "US Embassy tells Americans to shelter in place after Mexican army kills cartel leader",
+      "url": "https://thehill.com/policy/international/5750142-state-dept-shelter-mexico-cartel-leader-killing/",
+      "source": "The Hill",
+      "published": "2026-02-22T21:24:00.000Z",
+      "description": "The State Department on Sunday issued a warning to U.S. citizens in certain parts of Mexico to shelter in place until further notice on account of “ongoing security operations and related road blockages and criminal activity.” The regions listed in the advisory include the Mexican states of Jalisco, Tamaulipas, Michoacán, Guerrero and Nuevo Leon. The warning came after…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.394Z"
+    },
+    {
+      "id": "978116e0a69e",
+      "title": "JPMorgan admits to closing Trump’s accounts after Jan. 6 Capitol attack",
+      "url": "https://thehill.com/homenews/5750115-jpmorgan-chase-trump-accounts/",
+      "source": "The Hill",
+      "published": "2026-02-22T21:09:53.000Z",
+      "description": "JPMorgan Chase this week acknowledged it closed President Trump’s bank accounts in the wake of the Jan. 6, 2021, attack on the Capitol, The Associated Press reported. In a court filing the bank submitted this week in Trump’s lawsuit against it, JPMorgan’s former chief administrative officer, Dan Wilkening, wrote, “In February 2021, JPMorgan informed Plaintiffs…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.639Z"
+    },
+    {
+      "id": "4a152ea6bc73",
+      "title": "European Central Bank chief says world needs ‘clarity’ on US trade relationships",
+      "url": "https://thehill.com/policy/international/5749854-europe-us-trade-relationship/",
+      "source": "The Hill",
+      "published": "2026-02-22T21:02:21.000Z",
+      "description": "European Central Bank President Christine Lagarde on Sunday said countries need “clarity” on the future of their trade relationships with the United States after the Trump administration’s tariffs were struck down by the Supreme Court. “I think it’s, it’s critically important that all people in the trade, both outside of the United States, but also…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.735Z"
+    },
+    {
+      "id": "18873dc3eab4",
+      "title": "US trade representative says GOP lawmakers who weren’t always in favor of tariffs have ‘now come around’",
+      "url": "https://thehill.com/policy/international/5750055-trump-tariffs-gop-support/",
+      "source": "The Hill",
+      "published": "2026-02-22T20:10:57.000Z",
+      "description": "U.S. Trade Representative Jamieson Greer on Sunday said GOP lawmakers who have not traditionally favored tariffs have “now come around” to the Trump administration’s levies on foreign partners. “I’ve heard from a lot of Republicans over the past year, ones who traditionally, you know, weren’t always in favor of tariffs, they’ve now come around. And…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.646Z"
+    },
+    {
+      "id": "c0022cc41245",
+      "title": "GOP governor: Trump’s push to end TPS for Haitians ‘is wrong’",
+      "url": "https://thehill.com/homenews/state-watch/5750059-dewine-defends-haitian-migrants/",
+      "source": "The Hill",
+      "published": "2026-02-22T19:55:47.000Z",
+      "description": "Ohio Gov. Mike DeWine (R) again defended Haitian migrants Sunday, as a legal challenge to the Trump administration’s attempts to revoke temporary protected status (TPS) for those from the Caribbean island plays out. “I think the policy to revoke that is wrong,” DeWine told host Margaret Brennan on CBS News’s “Face the Nation.” “I think…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.635Z"
+    },
+    {
+      "id": "90fb06996152",
+      "title": "Trump wages a war on truth, promoting fake history and fake science ",
+      "url": "https://thehill.com/opinion/white-house/5748755-truth-war-national-parks/",
+      "source": "The Hill",
+      "published": "2026-02-22T19:00:00.000Z",
+      "description": "President Trump is attempting to replace factual information about American history and the environment with false narratives, leading to censorship of displays and signage about slavery, Native American land seizures, and climate change in national parks and other federal sites.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.633Z"
+    },
+    {
+      "id": "c7bab61d5cf1",
+      "title": "Why Stephen A. Smith could be the next president ",
+      "url": "https://thehill.com/opinion/campaign/5748482-stephen-a-smith-presidential-run/",
+      "source": "The Hill",
+      "published": "2026-02-22T18:00:00.000Z",
+      "description": "Stephen A. Smith's potential presidential run could bring a much-needed authentic voice to the Democratic Party, offering a powerful story of overcoming poverty and a directness that could resonate with a disillusioned electorate.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.936Z"
+    },
+    {
+      "id": "c3203ee380e8",
+      "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+      "url": "https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-22T17:46:31.000Z",
+      "description": "Rice argued during a podcast last week that \"it is not going to end well\" for corporations, news organizations, and law firms that \"bent the knee\" to Trump.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.881Z"
+    },
+    {
+      "id": "8ad73d38d226",
+      "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+      "url": "https://www.cnbc.com/2026/02/22/trump-secret-service-shooting-mar-a-lago.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-22T21:27:42.000Z",
+      "description": "President Donald Trump, who narrowly avoided being assassinated in 2024, was not at Mar-a-Lago when the man was killed.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-23T06:20:45.868Z"
     }
   ],
   "lastDigest": "2026-02-16T14:19:38.256Z",
-  "lastFetch": "2026-02-22T12:03:36.786Z"
+  "lastFetch": "2026-02-23T06:20:45.936Z"
 }
