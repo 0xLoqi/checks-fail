@@ -23551,8 +23551,1067 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-23T06:20:45.868Z"
+    },
+    {
+      "id": "5c44a13938af",
+      "title": "U.S. Forest Service Stops Issuing Firefighter Pants That Contain PFAS, Following ProPublica’s Reporting",
+      "url": "https://www.propublica.org/article/pfas-firefighter-gear-forest-service",
+      "source": "ProPublica",
+      "published": "2026-02-23T10:00:00.000Z",
+      "description": "The post U.S. Forest Service Stops Issuing Firefighter Pants That Contain PFAS, Following ProPublica’s Reporting appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.653Z"
+    },
+    {
+      "id": "1f4425bfc03b",
+      "title": "The political implications of the Supreme Court's ruling on Trump's tariffs",
+      "url": "https://www.npr.org/2026/02/23/nx-s1-5722874/the-political-implications-of-the-supreme-courts-ruling-on-trumps-tariffs",
+      "source": "NPR Politics",
+      "published": "2026-02-23T11:40:45.000Z",
+      "description": "The Supreme Court has found some of President Trump's tariffs to be illegal. What are the political implications?",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.647Z"
+    },
+    {
+      "id": "230c00b4948d",
+      "title": "U.S. has a quarter fewer immigration judges than it did a year ago. Here's why",
+      "url": "https://www.npr.org/2026/02/23/g-s1-110911/trump-immigration-judges-dismissals-numbers",
+      "source": "NPR Politics",
+      "published": "2026-02-23T10:30:00.000Z",
+      "description": "The continued drain of personnel from the already strained immigration court system has contributed to depleted staff morale, mounting case backlogs — and floundering due process.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.691Z"
+    },
+    {
+      "id": "f4c625552b58",
+      "title": "Poll: Most say the state of the union is not strong and the U.S. is worse off",
+      "url": "https://www.npr.org/2026/02/23/nx-s1-5720975/poll-trump-state-of-the-union-sotu",
+      "source": "NPR Politics",
+      "published": "2026-02-23T10:00:00.000Z",
+      "description": "Ahead of the State of the Union address on Tuesday, evidence continues to mount that President Trump is facing political headwinds.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.698Z"
+    },
+    {
+      "id": "223733ed9510",
+      "title": "News Wrap: Judge blocks release of a report on Trump's handling of classified documents",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-release-of-a-report-on-trumps-handling-of-classified-documents",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T23:45:28.000Z",
+      "description": "In our news wrap Monday, a federal judge is permanently blocking the release of a report on President Trump's handling of classified documents after he left office in 2021, Trump is warning countries to stick with the tariff deals they agreed to and the Supreme Court will hear a bid by oil and gas companies to block lawsuits seeking to hold the industry liable for the effects of climate change.",
+      "keywords": [
+        "ICE",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.846Z"
+    },
+    {
+      "id": "68c7565cb375",
+      "title": "Olympics trip raises questions about Patel's use of taxpayer dollars",
+      "url": "https://www.pbs.org/newshour/show/olympics-trip-raises-questions-about-patels-use-of-taxpayer-dollars",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T23:40:32.000Z",
+      "description": "FBI Director Kash Patel is under fire after videos of him chugging a beer and celebrating with the men's U.S. hockey team in Italy were obtained by multiple news outlets. The FBI had previously argued Patel's trip to Italy was for official travel, but critics are now questioning that amid broader questions about his leadership of the bureau. Amna Nawaz discussed more with Asha Rangappa.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.002Z"
+    },
+    {
+      "id": "8c8f7098f4f2",
+      "title": "Most Americans say country worse off than a year ago, new poll shows",
+      "url": "https://www.pbs.org/newshour/show/most-americans-say-country-worse-off-than-a-year-ago-new-poll-shows",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T23:35:23.000Z",
+      "description": "As President Trump prepares to deliver the first State of the Union address of his second term, six in ten Americans say the country is in a worse place than a year ago. That's according to a new PBS News/NPR/Marist poll. Ahead of that speech, White House correspondent Liz Landers checks in with voters about how they see the direction of the country.",
+      "keywords": [
+        "voter",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.016Z"
+    },
+    {
+      "id": "23d32a1f2d9d",
+      "title": "Tamara Keith and Jasmine Wright on Trump losing support from independents",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-trump-losing-support-from-independents",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T23:30:51.000Z",
+      "description": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Geoff Bennett to discuss the latest political news, including what Americans are saying about the direction of the country ahead of President Trump's State of the Union address.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.015Z"
+    },
+    {
+      "id": "c97c1ff3ffee",
+      "title": "Patel's appearance at U.S. men's hockey celebration renews scrutiny of FBI director's travels",
+      "url": "https://www.pbs.org/newshour/politics/patels-appearance-at-u-s-mens-hockey-celebration-renews-scrutiny-of-fbi-directors-travels",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T23:03:45.000Z",
+      "description": "The episode deepened questions about Patel's personal travels, a persistent storyline from the first year of his tenure not only because of their frequency but also because he had chastised his predecessor, Chris Wray, for his use of the FBI plane.",
+      "keywords": [
+        "FBI",
+        "patel"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:02.997Z"
+    },
+    {
+      "id": "dec2135c36c7",
+      "title": "Federal court rejects GOP-led effort to block House map that helps Democrats in Utah",
+      "url": "https://www.pbs.org/newshour/politics/federal-court-rejects-gop-led-effot-to-block-house-map-that-helps-democrats-in-utah",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T19:41:33.000Z",
+      "description": "A federal court ruling means the new Utah voting districts that give Democrats an improved shot at winning a U.S. House seat can be used in this year's election.",
+      "keywords": [
+        "election",
+        "voting",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.020Z"
+    },
+    {
+      "id": "0067bbd48fdd",
+      "title": "British police arrest former ambassador to the U.S. Peter Mandelson in probe into Epstein ties",
+      "url": "https://www.pbs.org/newshour/world/british-police-arrest-former-ambassador-to-the-u-s-peter-mandelson-in-probe-into-epstein-ties",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T17:44:09.000Z",
+      "description": "Police are investigating Mandelson over documents suggesting he passed sensitive government information to Epstein a decade and a half ago.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.180Z"
+    },
+    {
+      "id": "f11006f25d25",
+      "title": "Judge permanently blocks release of special counsel Jack Smith's report on Trump classified documents case",
+      "url": "https://www.pbs.org/newshour/politics/judge-permanently-blocks-release-of-special-counsel-jack-smiths-report-on-trump-classified-documents-case",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T15:20:05.000Z",
+      "description": "U.S. District Judge Aileen Cannon said the release of the report would present a \"manifest injustice\" to Trump and his two co-defendants.",
+      "keywords": [
+        "ICE",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.277Z"
+    },
+    {
+      "id": "8aaeb2ae25dc",
+      "title": "WATCH: Trump honors 'angel families' at the White House, repeats false claims about the 2020 election",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-to-honor-angel-families-at-the-white-house",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T14:59:05.000Z",
+      "description": "\"Angel families\" is a term the Trump administration is using to refer to relatives of people killed by someone who was illegally in the U.S.",
+      "keywords": [
+        "election",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.172Z"
+    },
+    {
+      "id": "39a6e68882b4",
+      "title": "Checks and balances aren't working under Trump, growing majority says",
+      "url": "https://www.pbs.org/newshour/politics/checks-and-balances-arent-working-under-trump-growing-majority-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-23T10:00:38.000Z",
+      "description": "On the eve of President Donald Trump's State of the Union address, two-thirds of Americans say the system of checks and balances that divides power between the White House, Congress and the courts is not working well, according to the latest PBS News/NPR/Marist Poll.",
+      "keywords": [
+        "white house",
+        "trump",
+        "checks and balances"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.183Z"
+    },
+    {
+      "id": "f63461ef1429",
+      "title": "Trump's 'hammer': Stephen Miller's power extends far beyond immigration",
+      "url": "https://www.nbcnews.com/politics/white-house/stephen-miller-trump-white-house-immigration-woke-colleges-dc-rcna259413",
+      "source": "NBC News",
+      "published": "2026-02-23T19:18:46.000Z",
+      "description": "Stephen Miller is the face of Donald Trump’s immigration agenda, but he is also helping drive efforts to root out \"woke\" culture on college campuses.",
+      "keywords": [
+        "immigration",
+        "miller",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.563Z"
+    },
+    {
+      "id": "9e4e2a2c2fe5",
+      "title": "E.U. hits the brakes on U.S. trade deal after Trump threatens 15% global tariffs",
+      "url": "https://www.nbcnews.com/business/economy/europe-halts-trade-deal-trump-tariffs-rcna260231",
+      "source": "NBC News",
+      "published": "2026-02-23T14:46:42.000Z",
+      "description": "The European Parliament halted ratification of a trade deal with the U.S., the latest fallout from the Supreme Court's tariff ruling.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.423Z"
+    },
+    {
+      "id": "cea481e95859",
+      "title": "Jeanine Pirro's office shelves pursuit of Democrats over social video, sources say",
+      "url": "https://www.nbcnews.com/politics/justice-department/jeanine-pirros-office-shelves-pursuit-democrats-social-video-sources-s-rcna259783",
+      "source": "NBC News",
+      "published": "2026-02-23T23:25:51.000Z",
+      "description": "Jeanine Pirro has decided to stop pursuing the case against six Democratic lawmakers over a social media video, three people familiar with the matter told NBC News.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.617Z"
+    },
+    {
+      "id": "df994ec43f43",
+      "title": "House Democrats bringing Jeffrey Epstein survivors to Trump's State of the Union speech",
+      "url": "https://www.nbcnews.com/politics/congress/house-democrats-bringing-jeffrey-epstein-survivors-trumps-state-union-rcna260285",
+      "source": "NBC News",
+      "published": "2026-02-23T21:02:55.000Z",
+      "description": "At least half a dozen House Democrats have invited survivors of Jeffrey Epstein to be their guests at President Donald Trump's State of the Union address Tuesday night.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.591Z"
+    },
+    {
+      "id": "33cf98ac01e3",
+      "title": "Speaker Johnson says there’s a 'wide range of opinions' on Trump's tariff agenda with GOP",
+      "url": "https://www.nbcnews.com/meet-the-press/video/speaker-johnson-says-there-s-a-wide-range-of-opinions-on-trump-s-tariff-agenda-with-gop-258157125835",
+      "source": "NBC News",
+      "published": "2026-02-23T21:24:49.000Z",
+      "description": "President Trump threatens to raise global tariffs to 15% after the Supreme Court struck down a majority of his tariffs. NBC’s Monica Alba, Julie Tsirkin and Christine Romans join Meet the Press NOW to discuss the White House’s economic agenda ahead of tomorrow’s State of the Union address.",
+      "keywords": [
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.776Z"
+    },
+    {
+      "id": "73646fe84e75",
+      "title": "Trump Imposes 15% Global Tariff After Supreme Court Ruling",
+      "url": "https://www.today.com/video/what-happens-to-130b-raised-by-tariffs-now-deemed-illegal-258120261582",
+      "source": "NBC News",
+      "published": "2026-02-23T12:35:54.000Z",
+      "description": "President Donald Trump is responding to the Supreme Court’s ruling against his tariff program, lashing out at the justices including two of his own appointees and imposing a 15% blanket tariff on all imports. The administration also says it's waiting on guidance from courts on what to do with the $130 billion raised by the now-illegal tariffs. NBC’s Garrett Haake reports for TODAY.",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.815Z"
+    },
+    {
+      "id": "6c7b6e0eb1e7",
+      "title": "Stephen Miller's staying power: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/stephen-millers-staying-power-politics-desk-rcna260328",
+      "source": "NBC News",
+      "published": "2026-02-23T22:31:58.000Z",
+      "description": "In today’s edition, we have a deeply reported look at Stephen Miller’s wide-ranging influence at the White House.",
+      "keywords": [
+        "miller",
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.777Z"
+    },
+    {
+      "id": "46647fc4848c",
+      "title": "Federal court clears way for Utah's new congressional map to take effect",
+      "url": "https://www.nbcnews.com/politics/2026-election/federal-court-clears-way-utah-new-congressional-map-take-effect-rcna260304",
+      "source": "NBC News",
+      "published": "2026-02-23T19:26:59.000Z",
+      "description": "Republicans had sought to block the court-ordered map, which puts in Democrats in position to gain a House seat, from going into place before the midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.814Z"
+    },
+    {
+      "id": "aa71f1593db2",
+      "title": "U.S. women's hockey team declines Trump's invitation to the State of the Union",
+      "url": "https://www.nbcnews.com/politics/white-house/us-womens-hockey-team-declines-trumps-invitation-state-union-rcna260299",
+      "source": "NBC News",
+      "published": "2026-02-23T18:37:52.000Z",
+      "description": "The U.S. women's hockey team said it is declining President Donald Trump's invitation to attend his State of the Union address, a day after the president jokingly told the U.S. men's hockey team that he would be impeached if he didn't also invite the women's team.\"We are sincerely grateful for the invitation extended to our gold medal–winning U.S.",
+      "keywords": [
+        "impeach",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.755Z"
+    },
+    {
+      "id": "fe53e78e87d9",
+      "title": "Trump appointee Aileen Cannon blocks release of Jack Smith's report on classified documents probe",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-appointee-aileen-cannon-blocks-release-jack-smiths-report-classi-rcna260237",
+      "source": "NBC News",
+      "published": "2026-02-23T15:31:37.000Z",
+      "description": "U.S. District Judge Aileen Cannon blocked the public release of former special counsel Jack Smith's report on his investigation into whether President Donald Trump mishandled classified documents after his first term in the White House",
+      "keywords": [
+        "white house",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.962Z"
+    },
+    {
+      "id": "c49647de9259",
+      "title": "Ex-FBI official fired under Trump announces run for Congress in Maryland",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-fired-ex-fbi-official-david-sundberg-run-congress-steny-hoyer-rcna260228",
+      "source": "NBC News",
+      "published": "2026-02-23T15:27:25.000Z",
+      "description": "Former senior FBI official David Sundberg announced Monday that he plans to run for Congress this year in Maryland's 5th Congressional District.",
+      "keywords": [
+        "FBI",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.969Z"
+    },
+    {
+      "id": "3b377d52eccd",
+      "title": "Trump growing frustrated with limits of Iran military options, sources say",
+      "url": "https://www.cbsnews.com/news/trump-frustrated-iran-military-options/",
+      "source": "CBS News",
+      "published": "2026-02-24T00:07:52.000Z",
+      "description": "Military planners are advising President Trump that any strike on Tehran's assets would almost certainly not be a singular, decisive blow.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.952Z"
+    },
+    {
+      "id": "54abec966ac7",
+      "title": "Trump's Section 122 tariffs could spur new legal battle, experts say",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-section-122-legal-challenge/",
+      "source": "CBS News",
+      "published": "2026-02-23T22:55:02.000Z",
+      "description": "President Trump's novel use of a 1974 trade law to impose a global 15% tariff could be ripe for legal challenges, according to trade experts.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.973Z"
+    },
+    {
+      "id": "ff1710fc505c",
+      "title": "ICE whistleblower warns new recruits are receiving \"defective\" training",
+      "url": "https://www.cbsnews.com/news/ice-whistleblower-new-recruits-receiving-defective-training/",
+      "source": "CBS News",
+      "published": "2026-02-23T21:18:53.000Z",
+      "description": "Documents given to Congress appear to show courses involving use-of-force were eliminated from ICE officer training.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:03.951Z"
+    },
+    {
+      "id": "fcb6f64d1292",
+      "title": "Some U.S. Embassy staff in Beirut ordered to leave amid escalating tensions",
+      "url": "https://www.cbsnews.com/news/us-embassy-beirut-lebanon/",
+      "source": "CBS News",
+      "published": "2026-02-23T20:26:26.000Z",
+      "description": "The State Department has ordered some staff in the U.S. Embassy in Beirut to begin to leave Lebanon, multiple sources familiar with the matter said.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.142Z"
+    },
+    {
+      "id": "b5b370f176ba",
+      "title": "Judge permanently blocks release of Jack Smith's report on Trump documents case",
+      "url": "https://www.cbsnews.com/news/trump-classified-documents-case-judge-blocks-jack-smith-special-counsel-report/",
+      "source": "CBS News",
+      "published": "2026-02-23T20:16:51.000Z",
+      "description": "A federal judge on Monday permanently blocked the Justice Department from releasing former special counsel Jack Smith's report on the classified documents investigation.",
+      "keywords": [
+        "ICE",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.119Z"
+    },
+    {
+      "id": "00a4eb7ab389",
+      "title": "Why some Democratic women will wear white to Trump's State of the Union",
+      "url": "https://www.cbsnews.com/news/trump-state-of-the-union-democrats-wearing-white/",
+      "source": "CBS News",
+      "published": "2026-02-23T20:15:00.000Z",
+      "description": "The Democratic Women's Caucus wore pink to President Trump's address to Congress last year. This year, they're returning to white.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.150Z"
+    },
+    {
+      "id": "3355f4912b01",
+      "title": "2/23: Face the Nation",
+      "url": "https://www.cbsnews.com/video/223-face-the-nation/",
+      "source": "CBS News",
+      "published": "2026-02-23T19:30:53.000Z",
+      "description": "This week on \"Face the Nation with Margaret Brennan,\" the president's mission to shrink the federal workforce intensifies, and his foreign policy dealmaking reaches a critical juncture. We'll speak with President Trump's Middle East envoy Steve Witkoff, Gov. Kathy Hochul of New York and more.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.122Z"
+    },
+    {
+      "id": "41156d699d11",
+      "title": "Face the Nation: Curtis, Van Hollen, Gottlieb",
+      "url": "https://www.cbsnews.com/video/face-the-nation-curtis-van-hollen-gottlieb/",
+      "source": "CBS News",
+      "published": "2026-02-23T16:00:45.000Z",
+      "description": "Missed the second half of the show? The latest on...Republican Sen. John Curtis of Utah says Elon Musk needs to bring a \"dose of compassion\" to his treatment of federal workers who are being fired across the government, Democratic Sen. Chris Van Hollen of Maryland faulted President Trump for undermining Ukraine in any eventual peace talks with Russia, saying that taking several Ukrainian demands off the table is \"terrible negotiating\", and \"I think that this is going to get into the hundreds of ",
+      "keywords": [
+        "musk",
+        "federal workers",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.124Z"
+    },
+    {
+      "id": "077d2adbed9c",
+      "title": " How Trump will use his State of the Union address to sell skeptical midterm voters on his plans",
+      "url": "https://abcnews.com/Politics/wireStory/trump-state-union-address-sell-skeptical-midterm-voters-130400138",
+      "source": "ABC News",
+      "published": "2026-02-23T13:01:31.000Z",
+      "description": "President Donald Trump’s State of the Union address is likely to be a test run of the message that Republicans will give to voters in November’s elections for control of the House and the Senate",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.297Z"
+    },
+    {
+      "id": "23d22a7c828c",
+      "title": " A policy wonk who wants Nancy Pelosi's House seat is unafraid of a fight",
+      "url": "https://abcnews.com/Politics/wireStory/policy-wonk-nancy-pelosis-house-seat-unafraid-fight-130380362",
+      "source": "ABC News",
+      "published": "2026-02-22T19:41:37.000Z",
+      "description": "The state lawmaker favored to succeed Nancy Pelosi in the House is no stranger to the national spotlight",
+      "keywords": [
+        "raid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.314Z"
+    },
+    {
+      "id": "fdf4dbfd2713",
+      "title": "Musk's xAI and Pentagon reach deal to use Grok in classified systems",
+      "url": "https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok",
+      "source": "Axios",
+      "published": "2026-02-23T23:33:28.000Z",
+      "description": "Elon Musk's artificial intelligence company xAI has signed an agreement to allow the military to use its model, Grok, in classified systems, a Defense official confirmed to Axios.\nWhy it matters: Up to now, Anthropic's Claude has been the only model available in the systems on which the military's most sensitive intelligence work, weapons development and battlefield operations take place. But the Pentagon is threatening Anthropic in a dispute over safeguards and may soon need a replacement. \n\nAn",
+      "keywords": [
+        "raid",
+        "musk",
+        "intelligence",
+        "classified",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.300Z"
+    },
+    {
+      "id": "90ac16b9b505",
+      "title": "Rep. Tony Gonzales faces growing Republican calls to resign over alleged affair",
+      "url": "https://www.axios.com/2026/02/23/tony-gonzales-affair-staffer-gop-resignation-calls",
+      "source": "Axios",
+      "published": "2026-02-23T23:32:31.000Z",
+      "description": "Rep. Tony Gonzales (R-Texas) is facing mounting blowback from fellow House Republicans — including calls for his resignation — following allegations that he had an affair with a former staffer before she died by suicide.\n\nGonzales has denied having the affair.\n\nWhy it matters:  The backlash from conservative lawmakers could create headaches for Speaker Mike Johnson (R-La.) and President Trump, who have continued to back Gonzales ahead of a competitive primary next week.\n\nRep. Lauren Boebert (R-C",
+      "keywords": [
+        "election",
+        "ICE",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.294Z"
+    },
+    {
+      "id": "0a86c803ce6c",
+      "title": "Ex-U.K. ambassador to U.S. arrested amid Epstein probe",
+      "url": "https://www.axios.com/2026/02/23/peter-mandelson-ambassador-arrested-epstein-files",
+      "source": "Axios",
+      "published": "2026-02-23T18:09:48.000Z",
+      "description": "Peter Mandelson, the former British ambassador to the U.S., was arrested on suspicion of misconduct in public office on Monday amid an investigation sparked by the release of the Epstein files.  \nThe big picture: Mandelson is one of several prominent figures whose careers have been derailed amid the global reckoning for those tied to convicted sex offender Jeffrey Epstein.\n\nMandelson was removed from his post last September by U.K. Prime Minister Keir Starmer after the release of Epstein's so-ca",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.301Z"
+    },
+    {
+      "id": "886b75cf2b09",
+      "title": "Trump's top general warns of Iran strike risks",
+      "url": "https://www.axios.com/2026/02/23/iran-strike-trump-gen-dan-caine-vance-rubio",
+      "source": "Axios",
+      "published": "2026-02-23T17:52:32.000Z",
+      "description": "Joint Chiefs Chairman Gen. Dan Caine has been advising President Trump and top officials that a military campaign against Iran could carry significant risks, in particular the possibility of becoming entangled in a prolonged conflict, according to two sources with knowledge of those internal discussions.\nWhy it matters: There's an ongoing debate at the top levels of the Trump administration about how to handle the Iran standoff and what the consequences of each option would be. At the moment, se",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.474Z"
+    },
+    {
+      "id": "bc28e49eb1d8",
+      "title": "Blizzard warnings, travel bans in effect as brutal storm pounds Northeast",
+      "url": "https://www.axios.com/2026/02/23/blizzard-warning-travel-ban-new-york-jersey",
+      "source": "Axios",
+      "published": "2026-02-23T14:19:42.000Z",
+      "description": "Blizzard warnings blanket the Northeast Monday as a beastly winter storm is snarling travel and pounding millions with heavy snow.\nThreat level: In hard-hit areas, travel will be \"extremely treacherous,\" forecasters say, and some leaders are restricting it. Meanwhile, more than half a million customers in Massachusetts, New Jersey, Delaware, Rhode Island are without power.\n\nThe latest: The National Weather Service predicted Monday morning that heavy snowfall rates and gusty winds will keep batte",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.505Z"
+    },
+    {
+      "id": "caa4f0251a19",
+      "title": "Democrats look deep into Trump's territory for 2026 House pickups",
+      "url": "https://www.axios.com/2026/02/23/2026-house-election-democrat-targets-trump",
+      "source": "Axios",
+      "published": "2026-02-23T10:30:05.000Z",
+      "description": "Data: Dave's Redistricting Atlas, Cook Political Report, AP. (Virginia is in the process of redistricting.) Table: Axios Visuals\nDemocrats plan to invest in districts that went for President Trump in 2024 by as many as 18 percentage points in their efforts to retake the House by a decisive margin in November.\nWhy it matters: Partisan gerrymandering has resulted in a historically small number of highly competitive House seats — but that does not square with House Minority Leader Hakeem Jeffries' ",
+      "keywords": [
+        "election",
+        "voter",
+        "miller",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.451Z"
+    },
+    {
+      "id": "8fdd5bdfd0ad",
+      "title": "AI's \"centaur phase\" consumes Silicon Valley",
+      "url": "https://www.axios.com/2026/02/23/ai-agents-openclaw-openai-anthropic",
+      "source": "Axios",
+      "published": "2026-02-23T10:00:05.000Z",
+      "description": "A manic new phase of the AI boom is sweeping through Silicon Valley, powered by autonomous \"agents\" capable of liquefying weeks of manual labor into minutes.\nWhy it matters: For now, the frenzy is largely confined to software engineering. But inside that bubble, the shift feels seismic — deepening the gulf between AI builders and bystanders.\n\n\"I've followed tech for 25 years and I've never felt a larger gap between the ~1 million people using Codex/Claude and the rest of humanity,\" tweeted James",
+      "keywords": [
+        "voting",
+        "cybersecurity",
+        "SNAP"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.460Z"
+    },
+    {
+      "id": "ca4639724f1d",
+      "title": "Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment",
+      "url": "https://www.axios.com/2026/02/23/hegseth-dario-pentagon-meeting-antrhopic-claude",
+      "source": "Axios",
+      "published": "2026-02-23T10:00:04.000Z",
+      "description": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon on Tuesday morning for what sources say is likely to be a tense meeting over terms for military use of Anthropic's Claude.\n\n\"Anthropic knows this is not a get-to-know-you meeting,\" a senior Defense official told Axios. \"This is not a friendly meeting. This is a sh*t-or-get-off-the-pot meeting.\"\n\nWhy it matters: Claude is the only AI model available in the military's classified systems, and the most capable mod",
+      "keywords": [
+        "raid",
+        "intelligence",
+        "classified"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.470Z"
+    },
+    {
+      "id": "64b1614defda",
+      "title": "Park ranger fired for hanging trans pride flag sues Interior Department",
+      "url": "https://thehill.com/regulation/court-battles/5751543-ranger-sues-nps-trans-pride/",
+      "source": "The Hill",
+      "published": "2026-02-23T23:20:34.000Z",
+      "description": "A former National Park Service (NPS) ranger who was fired last year for hanging a transgender pride flag in Yosemite National Park sued multiple federal agencies Monday over their termination, arguing it violated their First Amendment rights.  The lawsuit, filed by Dr. Shannon “SJ” Joslin in the U.S. District Court for the District of Columbia,…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.805Z"
+    },
+    {
+      "id": "f4f53bdebf48",
+      "title": "Trump puts Iran’s leader in double bind: Capitulation or risk of war",
+      "url": "https://thehill.com/policy/international/5751634-khamenei-trump-nuclear-deal-war/",
+      "source": "The Hill",
+      "published": "2026-02-23T23:14:31.000Z",
+      "description": "Iran’s supreme leader is facing one of the most consequential decisions of his more than 30 years in power this week: strike a deal with President Trump to severely limit the country’s nuclear program or risk an all-out war with the United States and Israel.  Isolated and informed by decades of experience in waiting out…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.678Z"
+    },
+    {
+      "id": "eba021c80238",
+      "title": "Trump changes to Black history exhibits spark fears of self-censorship, loss of information",
+      "url": "https://thehill.com/homenews/education/5751135-black-history-month-trump-smithsonian-national-parks/",
+      "source": "The Hill",
+      "published": "2026-02-23T23:10:31.000Z",
+      "description": "The Trump administration is looking to change how Black history is presented at the park sites and museums under its influence.   President Trump, who has eyes on the nation’s 250th birthday this summer, says historical sites focus too much on the issue of slavery instead of the “success” of the country. His administration is accused of whitewashing the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.672Z"
+    },
+    {
+      "id": "c158a6d1af4f",
+      "title": "Peter Attia departs CBS News after communications with Epstein surface",
+      "url": "https://thehill.com/policy/healthcare/5751509-peter-attia-leaves-cbs-news/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:31:51.000Z",
+      "description": "Wellness and anti-aging doctor Peter Attia is leaving CBS News after communications he had with the late sex offender Jeffrey Epstein were brought to light, The Hill confirmed on Monday. Attia, who built a brand and made a name for himself in media working on longevity medicine, was announced as a contributor for CBS in…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.671Z"
+    },
+    {
+      "id": "6c61ffa198d1",
+      "title": "Trump refutes reports that top Gen. Dan Caine warned of Iran strike risks",
+      "url": "https://thehill.com/homenews/administration/5751562-general-caine-iran-military-action/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:31:02.000Z",
+      "description": "President Trump refuted reports Monday that Gen. Dan Caine, the chair of the Joint Chiefs of Staff, has advised the president and other top officials that military action in Iran could pose substantial risks and leave the U.S. entwined in a prolonged conflict in the Middle East.  “Numerous stories from the Fake News Media have…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.799Z"
+    },
+    {
+      "id": "98f7ee09350e",
+      "title": "Maryland sues DHS, Noem over ICE detention facility",
+      "url": "https://thehill.com/homenews/state-watch/5751540-maryland-challenges-ice-detention/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:23:49.000Z",
+      "description": "Maryland filed a lawsuit on Monday against the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE) and Homeland Security Secretary Kristi Noem over a new detention facility in the state. Attorney General Anthony G. Brown said the Trump administration “secretly” purchased an 825,000-square-foot warehouse in Washington County near Williamsport for the purpose of…",
+      "keywords": [
+        "attorney general",
+        "immigration",
+        "ICE",
+        "trump",
+        "EPA",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.999Z"
+    },
+    {
+      "id": "d2a39500b144",
+      "title": "Gorsuch takes aim at fellow Supreme Court justices in tariff decision",
+      "url": "https://thehill.com/homenews/5751497-gorsuch-criticizes-fellow-justices/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:15:10.000Z",
+      "description": "Beneath the surface of the Supreme Court’s tariff decision, Justice Neil Gorsuch had choice words for his colleagues.  In a solo opinion, Gorsuch called out his fellow justices for their inconsistent application of a controversial legal doctrine in decisions invalidating former President Obama’s environmental regulation to former President Biden’s student debt relief and now, President…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.002Z"
+    },
+    {
+      "id": "e84eec8f6d90",
+      "title": "Bhattacharya’s dual role draws anxieties ",
+      "url": "https://thehill.com/newsletters/health-care/5751511-jay-bhattacharya-cdc-nih-draws-anxieties/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:10:39.000Z",
+      "description": "Click in for more news from The Hill {beacon} Health Care   The Big Story  Bhattacharya’s dual role draws anxieties  National Institutes of Health (NIH) Director Jay Bhattacharya’s influence over public health has grown two-fold now that he’s assumed temporary control over the Centers for Disease Control and Prevention (CDC). And former staffers are raising…",
+      "keywords": [
+        "NIH"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.963Z"
+    },
+    {
+      "id": "bd40d5b69299",
+      "title": "Interior scales back environmental regulations for public lands",
+      "url": "https://thehill.com/homenews/5751513-nepa-interior-environmental-regs-burgum/",
+      "source": "The Hill",
+      "published": "2026-02-23T22:10:03.000Z",
+      "description": "The Interior Department, which is in charge of the nation’s public lands and waters, has completed a major scaling back of its environmental regulations. The department, which also oversees activities including drilling and mining on the nation’s lands and in its waters, has rescinded more than 80 percent of its previous environmental regulations under the…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.037Z"
+    },
+    {
+      "id": "a6b8dc518587",
+      "title": "Senate Democrat: Trump has ‘no intention of following’ Constitution on tariffs",
+      "url": "https://thehill.com/homenews/senate/5751482-merkley-trump-constitution-tariffs/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:59:02.000Z",
+      "description": "Sen. Jeff Merkley (D-Ore.) said President Trump has “no intention of following” the Constitution when it comes to tariffs, comments that came in the wake of a Supreme Court decision Friday that rejected the authority for many of Trump’s expansive tariffs. “He has no intention of following the spirit or the letter of the Constitution.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:04.998Z"
+    },
+    {
+      "id": "1f3bf9e76a1d",
+      "title": "ICE whistleblower accuses agency of ‘deficient, defective and broken’ training amid hiring surge",
+      "url": "https://thehill.com/homenews/administration/5751455-ice-officer-training-whistleblower/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:53:27.000Z",
+      "description": "A U.S. Immigration and Customs Enforcement (ICE) whistleblower accused the agency of lying about shortchanging its training, including legal training over whether they are permitted to use deadly force, amid a hiring surge of new officers. Ryan Schwank, a former lawyer for ICE, said training for new officers has been pared down to the point…",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.257Z"
+    },
+    {
+      "id": "0a85e9a73795",
+      "title": "Seven moments that stand out from Gavin Newsom’s new memoir",
+      "url": "https://thehill.com/homenews/campaign/5751440-gavin-newsom-young-man-hurry/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:27:02.000Z",
+      "description": "Gov. Gavin Newsom’s new book Young Man in a Hurry is out on Tuesday.  In the memoir — one of the most anticipated in the political cycle — Newsom, a frontrunner in the 2028 presidential race, seeks to introduce himself to voters and define himself before his opponents do. Here are seven things that stand out:  Struggles with…",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.260Z"
+    },
+    {
+      "id": "3b2740f688f6",
+      "title": "Most say US worse off compared to a year ago: Survey",
+      "url": "https://thehill.com/homenews/5751346-trump-state-of-union-poll/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:11:41.000Z",
+      "description": "Ahead of President Trump’s State of the Union address on Tuesday, a majority of respondents to a new NPR/PBS News/Marist poll said he is changing the country for the worse. The survey, released Monday, found that 55 percent of respondents believe he is moving the country in a negative direction. That is up from 51…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.185Z"
+    },
+    {
+      "id": "ca042aca3b7c",
+      "title": "Mounjaro ingredient cuts alcohol intake: Research",
+      "url": "https://thehill.com/policy/healthcare/5751372-tirzepatide-mounjaro-alcohol-study/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:06:36.000Z",
+      "description": "An ingredient in the prescription diabetes drug Mounjaro was found to reduce alcohol intake in rodents, according to a recent study. In the study, published in early January in the medical journal eBioMedicine, researchers in Sweden, South Carolina and Brazil looked at how the ingredient, tirzepatide, affected rodents. The researchers found that alcohol’s “rewarding properties”…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.176Z"
+    },
+    {
+      "id": "7adb5501a4d4",
+      "title": "Witkoff says Iran ‘a week away’ from nuclear bombmaking material",
+      "url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat/",
+      "source": "The Hill",
+      "published": "2026-02-23T21:03:12.000Z",
+      "description": "Special envoy Steve Witkoff says Iran is a “week away” from developing nuclear bombmaking material through uranium enrichment.  Witkoff said Iran’s enrichment level has reached “60 percent.”  “They’re probably a week away from having industrial-grade bombmaking material,” the special envoy said during a Saturday appearance on Fox News’s “My View with Lara Trump.”  Typically, uranium…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.191Z"
+    },
+    {
+      "id": "b8947a41e246",
+      "title": "Ousted senior FBI official running for Congress in Maryland ",
+      "url": "https://thehill.com/homenews/campaign/5751359-sundberg-fbi-running-congress-maryland/",
+      "source": "The Hill",
+      "published": "2026-02-23T20:41:21.000Z",
+      "description": "Dave Sundberg, who previously helmed the FBI’s Washington Field Office before he was ultimately pushed out after President Trump returned to office, announced on Monday that he’s running to succeed Rep. Steny Hoyer (D) in Maryland’s 5th Congressional District.  “I’m running for Congress because I believe in the rule of law, not the rule of one man,” Sundberg said in a statement announcing…",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.448Z"
+    },
+    {
+      "id": "5cd8e4c80628",
+      "title": "GOP members call on Tony Gonzales to resign over alleged affair",
+      "url": "https://thehill.com/homenews/house/5751305-lauren-boebert-tony-gonzales-resign-alleged-affair/",
+      "source": "The Hill",
+      "published": "2026-02-23T20:33:15.000Z",
+      "description": "Several GOP members are urging Rep. Tony Gonzales (R-Texas) to resign or end his reelection campaign over allegations that he had an affair with one of his congressional staffers. “@RepTonyGonzales, RESIGN!” Rep. Lauren Boebert (R-Colo.) wrote on the social media platform X. Rep. Nancy Mace (R-S.C.) echoed Boebert’s sentiment. “Tony Gonzales should resign immediately and…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.423Z"
+    },
+    {
+      "id": "d860a61da066",
+      "title": "FedEx sues for refund of Trump tariffs, days after Supreme Court ruling",
+      "url": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-24T00:07:20.000Z",
+      "description": "The Trump administration has warned that it could take years for refunds to be paid out for tariffs that the Supreme Court ruled are illegal.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.410Z"
+    },
+    {
+      "id": "3ee3c15138ae",
+      "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
+      "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-23T21:54:27.000Z",
+      "description": "Mandelson's arrest came days after police arrested Andrew Mountbatten-Windsor, brother of King Charles III, on suspicion of misconduct in public office.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.405Z"
+    },
+    {
+      "id": "d0df4e0c4d8e",
+      "title": "Judge blocks release of Trump documents case report by special counsel Jack Smith",
+      "url": "https://www.cnbc.com/2026/02/23/trump-report-jack-smith-judge-aileen-cannon-mar-a-lago.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-23T20:25:47.000Z",
+      "description": "Judge Aileen Cannon blasted former special counsel Jack Smith for compiling a report on his prosecution of President Donald Trump after she dismissed the case.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.443Z"
+    },
+    {
+      "id": "c63e57b6e965",
+      "title": "Democrats are pushing for refunds after Supreme Court blocks Trump tariffs",
+      "url": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-23T20:57:56.000Z",
+      "description": "A majority of President Donald Trump's tariffs were struck down by the Supreme Court on Friday, leading him to seek other legal mechanisms for the duties.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.602Z"
+    },
+    {
+      "id": "cf02e287a69f",
+      "title": "Trump at Event for Families of Dead Americans: ‘I Suffer for the Country’",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-event-angel-families-suffer-country-1235521326/",
+      "source": "Rolling Stone",
+      "published": "2026-02-23T22:41:41.000Z",
+      "description": "The president ranted at length about election fraud during a speech intended to honor \"Angel Families\" on Monday",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.818Z"
+    },
+    {
+      "id": "570f5ed3a181",
+      "title": "Trump Mocks Women’s Hockey Team While Congratulating Men on Gold",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-mocks-us-womens-hockey-team-gold-medal-1235521057/",
+      "source": "Rolling Stone",
+      "published": "2026-02-23T18:35:55.000Z",
+      "description": "The president complained to that he would also have to invite the women’s team to White House",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T00:11:05.638Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-23T06:20:45.936Z"
+  "lastFetch": "2026-02-24T00:11:05.818Z"
 }
