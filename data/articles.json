@@ -24610,8 +24610,628 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-24T00:11:05.638Z"
+    },
+    {
+      "id": "ac6716a91c81",
+      "title": "Democrats tap Spanberger and Padilla to respond to State of the Union",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5717047/democrats-tap-spanberger-and-padilla-to-respond-to-state-of-the-union",
+      "source": "NPR Politics",
+      "published": "2026-02-24T12:00:00.000Z",
+      "description": "Virginia Gov. Abigail Spanberger will deliver Democrats' response on Tuesday following President Trump's State of the Union address.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.258Z"
+    },
+    {
+      "id": "987cc569b02c",
+      "title": "Is the YIMBY movement doomed?",
+      "url": "https://www.npr.org/sections/planet-money/2026/02/24/g-s1-111204/is-the-yimby-movement-doomed",
+      "source": "NPR Politics",
+      "published": "2026-02-24T11:30:00.000Z",
+      "description": "For decades, rising home prices have been an engine for middle-class wealth. Now a growing movement wants to slow — or even reverse — that trend. Are the politics around new housing development inherently stacked against them?",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.310Z"
+    },
+    {
+      "id": "cfb3ed997918",
+      "title": "What you need to know about tonight's State of the Union address",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5717048/trump-congress-state-union",
+      "source": "NPR Politics",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "The primetime address is a chance for the president to tout his record ahead of this year's midterm elections. But it comes at a moment when Trump has seen his agenda complicated on multiple fronts.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.237Z"
+    },
+    {
+      "id": "9eb32263cceb",
+      "title": "Justice Department withheld and removed some Epstein files related to Trump",
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell",
+      "source": "NPR Politics",
+      "published": "2026-02-24T10:00:00.000Z",
+      "description": "An NPR investigation finds the public database of Epstein files is missing dozens of pages related to sexual abuse accusations against President Trump.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.252Z"
+    },
+    {
+      "id": "1b15d986ef44",
+      "title": "FBI director invites fresh scrutiny over travels with appearance at US men's hockey team celebration",
+      "url": "https://www.npr.org/2026/02/24/g-s1-111308/fbi-director-invites-fresh-scrutiny-over-travels-with-appearance-at-us-mens-hockey-team-celebration",
+      "source": "NPR Politics",
+      "published": "2026-02-24T07:10:46.000Z",
+      "description": "When the American men's hockey team retreated to their locker room to celebrate their Winter Olympics gold medal win, they were joined by a special guest from the United States: FBI Director Kash Patel.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.304Z"
+    },
+    {
+      "id": "f30549858d3f",
+      "title": "WATCH LIVE: Gov. Spanberger delivers Democratic response to Trump's State of the Union",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-gov-spanberger-delivers-democratic-response-to-trumps-state-of-the-union",
+      "source": "PBS NewsHour",
+      "published": "2026-02-24T01:36:44.000Z",
+      "description": "Virginia Gov. Abigail Spanberger will deliver the Democratic response to President Donald Trump's State of the Union address, just months after resoundingly winning an office previously held by a Republican.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.409Z"
+    },
+    {
+      "id": "c6bb0d13e647",
+      "title": "How Trump will use his State of the Union address to appeal to skeptical midterm voters",
+      "url": "https://www.pbs.org/newshour/politics/how-trump-will-use-his-state-of-the-union-address-to-appeal-to-skeptical-midterm-voters",
+      "source": "PBS NewsHour",
+      "published": "2026-02-24T01:10:06.000Z",
+      "description": "President Donald Trump's State of the Union address on Tuesday is likely to be a test run of the message Republicans will give to voters in November's elections for control of the House and the Senate.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.412Z"
+    },
+    {
+      "id": "8764ad6e211b",
+      "title": "Trump says he's kept all of his campaign promises. PolitiFact's MAGA-Meter shows otherwise",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-hes-kept-all-of-his-campaign-promises-politifacts-maga-meter-shows-otherwise",
+      "source": "PBS NewsHour",
+      "published": "2026-02-24T01:06:15.000Z",
+      "description": "President Donald Trump has said he already delivered on all he returned to office to do. The truth? Trump fulfilled a decent chunk of his domestic agenda in his first year, but many promises remain undelivered.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.417Z"
+    },
+    {
+      "id": "645e46da6de0",
+      "title": "Trump's big speech will be delivered to a changed nation and a Congress he has sidelined",
+      "url": "https://www.pbs.org/newshour/politics/trumps-big-speech-will-be-delivered-to-a-changed-nation-and-a-congress-he-has-sidelined",
+      "source": "PBS NewsHour",
+      "published": "2026-02-24T00:49:30.000Z",
+      "description": "One year back in office, Trump has emerged as a president defying conventional expectations. He has executed a head-spinning agenda, upending priorities at home, shattering alliances abroad and challenging the nation's foundational system of checks and balances.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "checks and balances"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.396Z"
+    },
+    {
+      "id": "257eb90baff7",
+      "title": "Trump heads into the State of the Union facing diminished voter trust on the economy",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-heads-state-union-facing-diminished-voter-trust-economy-rcna259972",
+      "source": "NBC News",
+      "published": "2026-02-24T10:00:00.000Z",
+      "description": "President Donald Trump has spoken before Congress plenty of times.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.530Z"
+    },
+    {
+      "id": "47b3f8eff983",
+      "title": "This South Texas region flipped for Trump. Now it's seeing red over his immigration policies.",
+      "url": "https://www.nbcnews.com/news/us-news/texas-trump-vote-immigration-raids-rio-grande-valley-workers-rcna259790",
+      "source": "NBC News",
+      "published": "2026-02-24T10:30:00.000Z",
+      "description": "More than a year since President Donald Trump flipped the traditionally Democratic Rio Grande Valley, his deportation agenda is running headlong into the region’s workforce.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.541Z"
+    },
+    {
+      "id": "47bc7f87b98d",
+      "title": "Trump's global tariff takes effect at 10%, despite announcement of 15%",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-global-tariff-start-10-percent-despite-announcement-15-percent-rcna260369",
+      "source": "NBC News",
+      "published": "2026-02-24T03:45:32.000Z",
+      "description": "The back-and-forth underscores the uncertainty of Trump's tariffs that is once again causing confusion with markets, trading partners, and businesses large and small.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.524Z"
+    },
+    {
+      "id": "18a82c37d874",
+      "title": "FedEx sues Trump administration to demand tariff refunds after Supreme Court ruling",
+      "url": "https://www.nbcnews.com/video/fedex-sues-trump-administration-to-demand-tariff-refunds-after-supreme-court-ruling-258167877534",
+      "source": "NBC News",
+      "published": "2026-02-24T01:20:10.000Z",
+      "description": "FedEx is suing the Trump administration, seeking a “full refund” of all tariffs it paid to the government under the overturned International Emergency Economic Powers Act. NBC News’ Gabe Gutierrez details what the lawsuit says.",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.525Z"
+    },
+    {
+      "id": "ce1e98a92987",
+      "title": "How the U.S. military is preparing for growing geopolitical tensions in the Arctic",
+      "url": "https://www.nbcnews.com/video/how-the-u-s-military-is-preparing-for-growing-geopolitical-tensions-in-the-arctic-258167877513",
+      "source": "NBC News",
+      "published": "2026-02-24T01:18:20.000Z",
+      "description": "Lawmakers from Alaska are pushing for Arctic military preparations as the changing landscape has triggered security concerns. NBC News’ Courtney Kube went to the Yukon Training Area in Alaska to see how troops are preparing in challenging conditions.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.624Z"
+    },
+    {
+      "id": "2ce0b824477f",
+      "title": "Who sits where for the State of the Union? See the seating chart for the 2026 address",
+      "url": "https://www.cbsnews.com/news/who-sits-where-state-of-the-union-2026/",
+      "source": "CBS News",
+      "published": "2026-02-24T12:00:18.000Z",
+      "description": "The highest-ranking officials in Washington will be present for President Trump's State of the Union address Tuesday night — here's what to know about where they're sitting.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.695Z"
+    },
+    {
+      "id": "05aef4164b16",
+      "title": "Ahead of State of the Union, hints of frustration with Trump emerge in House GOP",
+      "url": "https://www.cbsnews.com/news/trump-frustration-house-gop-tariffs-epstein-war-powers/",
+      "source": "CBS News",
+      "published": "2026-02-24T11:00:10.000Z",
+      "description": "Some House Republicans have rebuked Mr. Trump on tariffs, war powers and the Epstein files, and defections could grow as the midterms approach.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.655Z"
+    },
+    {
+      "id": "78132d80ef55",
+      "title": "Trump's 2026 State of the Union is tonight. Here's what to know and how to watch.",
+      "url": "https://www.cbsnews.com/news/how-to-watch-trump-state-of-the-union-2026/",
+      "source": "CBS News",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "President Trump will deliver the 2026 State of the Union address before a joint session of Congress tonight. Here's when it will take place, and how and where to watch.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.639Z"
+    },
+    {
+      "id": "347ccfd13194",
+      "title": "Newsom's office slams \"MAGA-manufactured outrage\" as conservatives accuse him of bigotry",
+      "url": "https://www.cbsnews.com/news/right-wing-newsom-bigotry-dyslexia-manufactured-outrage/",
+      "source": "CBS News",
+      "published": "2026-02-24T01:18:49.000Z",
+      "description": "Newsom's remarks about his 960 SAT score went viral as he told Atlanta Mayor Andre Dickens and a packed auditorium: \"I'm not trying to impress you, I'm just trying to impress upon you I'm like you, I'm not better than you.\"",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.629Z"
+    },
+    {
+      "id": "e4da3ec26664",
+      "title": "FedEx sues Trump administration for \"full refund\" of tariff payments",
+      "url": "https://www.cbsnews.com/news/fedex-sues-trump-administration-for-full-refund-of-tariff-payments/",
+      "source": "CBS News",
+      "published": "2026-02-24T00:40:00.000Z",
+      "description": "FedEx sued the Trump administration over its tariffs on Monday, asking for a \"full refund\" of all payments it made to the government under a set of tariff policies that were ruled illegal by the Supreme Court.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.877Z"
+    },
+    {
+      "id": "1634385717d2",
+      "title": " Trump's State of the Union will seek to calm voters' economic concerns ahead of midterm elections",
+      "url": "https://abcnews.com/Politics/wireStory/trumps-state-union-seek-calm-voters-economic-concerns-130435145",
+      "source": "ABC News",
+      "published": "2026-02-24T12:05:36.000Z",
+      "description": "President Donald Trump will use his State of the Union address to argue that his whirlwind first year back has made America stronger and that Republicans deserve to keep control of Congress after the midterms",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.791Z"
+    },
+    {
+      "id": "83cbf3086701",
+      "title": " SCOTUS ruling against tariffs is unlikely to mean an end to trade policy chaos",
+      "url": "https://abcnews.com/Politics/wireStory/supreme-court-ruling-trumps-tariffs-end-trade-policy-130434774",
+      "source": "ABC News",
+      "published": "2026-02-24T08:47:11.000Z",
+      "description": "The Supreme Court’s stunning rebuke of President Donald Trump’s most sweeping tariffs means he can’t conjure up new import taxes on a whim anymore",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.780Z"
+    },
+    {
+      "id": "8fb16a065a4f",
+      "title": "Behind the Curtain: AI's biggest threats",
+      "url": "https://www.axios.com/2026/02/24/ai-biggest-threats-2028-election",
+      "source": "Axios",
+      "published": "2026-02-24T10:36:46.000Z",
+      "description": "If AI were a politician, it'd be headed for a landslide defeat.\n\nDefeated by Democrats ... Republicans ... and independents.\n\nWhy it matters: In the Trump administration, Silicon Valley, and select AI-obsessed homes or businesses, people are euphoric about the fast rise of generative AI tools. These groups see a coming utopia.\n\nAlmost everywhere else, the vast majority are indifferent, pessimistic — even downright dystopian.\nThe politics are shifting so fast against AI that Democratic governors ",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.911Z"
+    },
+    {
+      "id": "b9c5deeef84d",
+      "title": "The AI doom-and-gloom scenario captivating Wall Street",
+      "url": "https://www.axios.com/2026/02/24/ai-stock-market-unemployment",
+      "source": "Axios",
+      "published": "2026-02-24T10:00:06.000Z",
+      "description": "The AI revolution may be upon us. But nobody knows for sure what it will mean for measures of overall economic well-being like GDP, unemployment, incomes and asset prices.\nThe big picture: Will super-intelligent computing unleash stunning growth in output — or will it be more like some previous big advances that created \"ghost GDP\" that didn't show up much in the economic statistics?\n\nWill it push millions of workers — especially white-collar professionals with high incomes — onto the unemployme",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.896Z"
+    },
+    {
+      "id": "f49e3660fa36",
+      "title": "The Big One: The cyberattack scenarios that keep officials up at night",
+      "url": "https://www.axios.com/2026/02/24/cyberattack-risk-scenarios-experts",
+      "source": "Axios",
+      "published": "2026-02-24T10:00:06.000Z",
+      "description": "As artificial intelligence accelerates, so does the prospect of a cyberattack powerful enough to shut down hospitals, black-out cities and disrupt core government systems.\nWhy it matters: Just by scaling and accelerating the cyberwarfare tools adversaries already have, AI can turn manageable intrusions into large-scale crises.\n\nAxios asked seven former senior cybersecurity officials and leading security experts what a major AI-enabled cyberattack would look like and what worries them the most ab",
+      "keywords": [
+        "intelligence",
+        "cybersecurity"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.030Z"
+    },
+    {
+      "id": "6a16ccc63920",
+      "title": "Why the global AI data center boom is stalling",
+      "url": "https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers",
+      "source": "Axios",
+      "published": "2026-02-24T10:00:06.000Z",
+      "description": "Data: Sightline Climate; Note: Includes 529 large data center projects announced since 2024 that have disclosed capacity; Chart: Kavya Beheraj/Axios\nAs many as half of the world's data center projects slated to come online this year could face delays, according to a report issued Tuesday.\nWhy it matters: It's a sign of mounting collisions in the AI race — from power constraints and grid equipment shortages to rising community opposition.\n\nThe big picture: As tech giants sprint to build AI infras",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.012Z"
+    },
+    {
+      "id": "a44c404de40b",
+      "title": "Inside Trump's purge of U.S. immigration courts",
+      "url": "https://www.axios.com/2026/02/24/trump-deportation-judges-margolin",
+      "source": "Axios",
+      "published": "2026-02-24T10:00:05.000Z",
+      "description": "The next big phase of President Trump's mass deportations is set to begin as \"deportation judges\" turn to 3.6 million backlogged cases.\nWhy it matters: Speeding up immigration court rulings could allow ICE to carry out more deportations, as most cases end in final removal orders.\n\nTrump spent much of 2025 purging the beleaguered immigration courts. 55 immigration judges were fired, and another 80 retired.\nHe then went to MAGA central casting to appoint America's new top immigration judge, retire",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.009Z"
+    },
+    {
+      "id": "4dde2b3ed744",
+      "title": "Anthropic's new code security tool causes market panic",
+      "url": "https://www.axios.com/2026/02/23/cyber-stocks-anthropic-sell-off",
+      "source": "Axios",
+      "published": "2026-02-23T20:55:55.000Z",
+      "description": "Cybersecurity companies aren't likely to face the same dramatic, AI-induced apocalypse that's hit the software industry over the last month, analysts say.\nWhy it matters: Investors are panicking and security executives are now on the defensive. But insiders don't see this as a total identity crisis for the industry. \n\nDriving the news: Anthropic on Friday announced its new Claude Code Security product, which can automatically scan codebases for vulnerabilities and suggest patches. The news cause",
+      "keywords": [
+        "cybersecurity"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:16.999Z"
+    },
+    {
+      "id": "a11d32081fae",
+      "title": "Trump heads to State of the Union with mixed bag of wins, losses",
+      "url": "https://thehill.com/homenews/administration/5751474-trump-state-of-the-union/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "President Trump heads into his State of the Union address on Tuesday on the heels of a major blow to his tariff agenda by the Supreme Court, lower poll numbers and threatening Iran with a U.S. military attack. There stands to be an awkward moment when Trump is face-to-face with the justices who ruled his…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.010Z"
+    },
+    {
+      "id": "e038ed8d3791",
+      "title": "Trump’s State of the Union: 5 things to watch",
+      "url": "https://thehill.com/homenews/administration/5751601-iran-tariffs-trump-congress/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "President Trump will step into the House chamber on Tuesday night to deliver the first State of the Union address of his second term.  Trump, like most newly elected presidents, addressed a joint session of Congress last year, but it was not an official State of the Union. The president will give the key speech…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.130Z"
+    },
+    {
+      "id": "15ba92ac3d84",
+      "title": "GOP set for internal battle over Supreme Court tariff ruling",
+      "url": "https://thehill.com/homenews/senate/5751639-trump-tariffs-supreme-court-ruling/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "The Supreme Court’s 6-3 ruling that President Trump exceeded his authority when he imposed sweeping global tariffs last year has set the stage for a bitter internal Republican battle over how to respond to the landmark ruling. Trump’s staunchest allies, led by Sen. Bernie Moreno (R-Ohio), are already pushing a plan to move legislation under…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.138Z"
+    },
+    {
+      "id": "3f3174e53af4",
+      "title": "Here’s how Trump’s polling has changed since last year",
+      "url": "https://thehill.com/homenews/administration/5751721-trump-approval-ratings-state-of-union/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "President Trump on Tuesday will address a joint session of Congress, where he will reflect on the first year of his second term in the White House, report on the state of the union and lay out his vision for what’s ahead.  The president closed out the year with significant policy achievements under his belt, but his…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.124Z"
+    },
+    {
+      "id": "091c5cdfbe6e",
+      "title": "Democrats prepare to protest Trump State of the Union: What to know",
+      "url": "https://thehill.com/homenews/house/5751650-democrats-protest-trump-state-of-the-union/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "Democrats are preparing a show of defiance during President Trump’s State of the Union address on Tuesday, with some skipping the speech entirely, others attending counter-events and many bringing guests to highlight the real-world impact of the administration’s policies. House Minority Leader Hakeem Jeffries (D-N.Y.) has strictly advised his caucus to either attend the address…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.161Z"
+    },
+    {
+      "id": "42882998332a",
+      "title": "Key things to watch for in Pennsylvania, Maine special elections  ",
+      "url": "https://thehill.com/homenews/campaign/5750931-pennsylvania-maine-special-election-key-races/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "Voters in pockets of Pennsylvania and Maine will head to the polls on Tuesday to weigh in on a handful of state House special elections that could offer clues on how Democrats will fare in the 2026 midterms. Allegheny and Lehigh counties in Pennsylvania will hold two special elections, while voters in a Maine district…",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.117Z"
+    },
+    {
+      "id": "fac0a5467c59",
+      "title": "White House plays hardball with Democrats over DHS shutdown",
+      "url": "https://thehill.com/homenews/senate/5751577-white-house-dhs-shutdown-tsa-precheck-global-entry/",
+      "source": "The Hill",
+      "published": "2026-02-24T11:00:00.000Z",
+      "description": "The White House is playing hardball in the battle over funding the Department of Homeland Security (DHS), suspending the Global Entry program for international travelers and threatening to do the same for TSA PreCheck. That has infuriated Democrats, who are accusing the administration of inflicting unnecessary pain on the American public as a negotiating tactic.…",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.537Z"
+    },
+    {
+      "id": "e42f9b9dff82",
+      "title": "State Department receives hundreds of calls on 24/7 crisis hotline for US citizens in Mexico",
+      "url": "https://thehill.com/policy/international/5751937-state-dept-hotline-mexico-us-citizens/",
+      "source": "The Hill",
+      "published": "2026-02-24T04:12:49.000Z",
+      "description": "The State Department said it received hundreds of calls from U.S. citizens in Mexico to its 24/7 crisis hotline after the government killed a cartel leader known as “El Mencho,” CNN reported Monday. Nemesio Oseguera Cervantes, the leader of the Jalisco New Generation Cartel, was killed on Sunday by Mexican authorities. Violent clashes erupted in…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.258Z"
+    },
+    {
+      "id": "59dba6625ec6",
+      "title": "Jillian Michaels on Trump, RFK Jr. defense of pesticide: ‘Devastating’",
+      "url": "https://thehill.com/homenews/administration/5751917-jillian-michaels-trump-glyphosate-executive-order/",
+      "source": "The Hill",
+      "published": "2026-02-24T03:32:56.000Z",
+      "description": "Health and wellness expert Jillian Michaels on Monday rebuked President Trump’s executive order approving the use of a controversial pesticide, describing the move as “devastating.” “This is actually devastating; it is not a conspiracy theory that glyphosate is linked to cancer. There are hundreds of studies that have illustrated now it increases risk significantly for…",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.260Z"
+    },
+    {
+      "id": "b71b202820a7",
+      "title": "Maher on Trump’s account of dinner together: ‘Bulls—‘",
+      "url": "https://thehill.com/homenews/administration/5751699-comedian-bill-maher-trump-dinner/",
+      "source": "The Hill",
+      "published": "2026-02-24T00:12:06.000Z",
+      "description": "Comedian Bill Maher on Friday responded to a post from President Trump criticizing him after their dinner in the Oval Office last year. Trump diagnosed Maher with “Trump Derangement Syndrome” and described the comedian as someone who was “extremely nervous” and “had ZERO confidence” in himself in a Truth Social post. The president added that…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.256Z"
+    },
+    {
+      "id": "b816c330c7e8",
+      "title": "Democrats counter Trump's proposal to limit institutional housing investors",
+      "url": "https://www.cnbc.com/2026/02/24/warren-trump-housing-investment-ban-affordability.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-24T09:30:02.000Z",
+      "description": "A new bill from Sen. Elizabeth Warren targets investors who own 50-plus single-family homes, and breaks with a White House proposal.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-24T12:10:17.322Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-24T00:11:05.818Z"
+  "lastFetch": "2026-02-24T12:10:17.537Z"
 }
