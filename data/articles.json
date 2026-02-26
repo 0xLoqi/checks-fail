@@ -26439,8 +26439,1752 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-25T00:12:20.927Z"
+    },
+    {
+      "id": "376d775da956",
+      "title": "Seized Art, Eavesdropping Guards: Parents Describe a Clampdown at Dilley Detention Center as Kids Shared Their Stories",
+      "url": "https://www.propublica.org/article/dilley-detention-center-kids-art-removal",
+      "source": "ProPublica",
+      "published": "2026-02-26T10:30:00.000Z",
+      "description": "The post Seized Art, Eavesdropping Guards: Parents Describe a Clampdown at Dilley Detention Center as Kids Shared Their Stories appeared first on ProPublica.",
+      "keywords": [
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.787Z"
+    },
+    {
+      "id": "4508eedbe53d",
+      "title": "Senate Leaders Warn Defense Department About Procuring Generic Drugs Overseas",
+      "url": "https://www.propublica.org/article/senators-warn-hegseth-foreign-drug-manufacturers",
+      "source": "ProPublica",
+      "published": "2026-02-26T10:00:00.000Z",
+      "description": "The post Senate Leaders Warn Defense Department About Procuring Generic Drugs Overseas appeared first on ProPublica.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.867Z"
+    },
+    {
+      "id": "847072f8075d",
+      "title": "Democrats Demand Answers for Federal Prison Staffing Shortage After Corrections Officers Flee for ICE Jobs",
+      "url": "https://www.propublica.org/article/bop-prison-staffing-shortages-ice-democrats-william-marshall",
+      "source": "ProPublica",
+      "published": "2026-02-25T17:35:00.000Z",
+      "description": "The post Democrats Demand Answers for Federal Prison Staffing Shortage After Corrections Officers Flee for ICE Jobs appeared first on ProPublica.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.847Z"
+    },
+    {
+      "id": "1c95fb1ab041",
+      "title": "Trump Administration Moves to Allow Intelligence Agencies Easier Access to Law Enforcement Files",
+      "url": "https://www.propublica.org/article/trump-cia-law-enforcement-records-privacy-intelligence-community",
+      "source": "ProPublica",
+      "published": "2026-02-25T10:00:00.000Z",
+      "description": "The post Trump Administration Moves to Allow Intelligence Agencies Easier Access to Law Enforcement Files appeared first on ProPublica.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.896Z"
+    },
+    {
+      "id": "e40a0ffb3e18",
+      "title": "U.S. and Iran to hold third round of nuclear talks",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726343/u-s-and-iran-to-hold-third-round-of-nuclear-talks",
+      "source": "NPR Politics",
+      "published": "2026-02-26T11:43:04.000Z",
+      "description": "U.S. and Iranian officials will meet Thursday for a third round of talks after President Trump warned of an alleged Iranian threat during his State of the Union address.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.797Z"
+    },
+    {
+      "id": "c81074f530e2",
+      "title": "'Get back to integrity': Oklahoma's Kevin Stitt on Republicans after Trump",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5719201/kevin-stitt-republican-party-immigration-trump",
+      "source": "NPR Politics",
+      "published": "2026-02-26T10:00:00.000Z",
+      "description": "NPR's Steve Inskeep asks Oklahoma Gov. Kevin Stitt about his spat with President Trump, immigration and the future of the Republican Party.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.021Z"
+    },
+    {
+      "id": "a03f5b539631",
+      "title": "Trump's surgeon general nominee makes her case in confirmation hearing",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726265/trumps-surgeon-general-nominee-makes-her-case-in-confirmation-hearing",
+      "source": "NPR Politics",
+      "published": "2026-02-26T09:41:48.000Z",
+      "description": "President Trump's pick for surgeon general, Dr. Casey Means, is a wellness influencer who is aligned with Health Secretary Robert F. Kennedy Jr. She made her case before a Senate committee Wednesday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.176Z"
+    },
+    {
+      "id": "5dd576ca9354",
+      "title": "Trump administration cuts some Medicaid funding to Minnesota alleging fraud",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726440/trump-administration-cuts-some-medicaid-funding-to-minnesota-alleging-fraud",
+      "source": "NPR Politics",
+      "published": "2026-02-26T09:41:06.000Z",
+      "description": "President Trump says Vice President Vance will lead a \"war on fraud\" to root out corruption in places like Minnesota. Vance announced cuts to some Medicaid funding to the state Wednesday.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "corruption",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.013Z"
+    },
+    {
+      "id": "9c653d1e26c1",
+      "title": "Crowded Democratic field could give GOP an opening in California governor's race",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5720925/crowded-democratic-field-could-give-gop-an-opening-in-california-governors-race",
+      "source": "NPR Politics",
+      "published": "2026-02-26T09:40:57.000Z",
+      "description": "In California, the two candidates with the most votes in the primary advance to the general election, regardless of party. That's an issue for Democrats who have nine major candidates for governor.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.008Z"
+    },
+    {
+      "id": "43c357789b49",
+      "title": "What to know about Sen. Katie Britt, who's negotiating changes to how ICE operates",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5718189/what-to-know-about-sen-katie-britt-whos-negotiating-changes-to-how-ice-operates",
+      "source": "NPR Politics",
+      "published": "2026-02-25T23:22:28.000Z",
+      "description": "Alabama Sen. Katie Britt came to national prominence in 2024 with an image as a firebrand on the right but has developed a reputation as a bipartisan deal maker in the Senate.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:12.997Z"
+    },
+    {
+      "id": "e0ef42357404",
+      "title": "Top House Dem wants Justice Department to explain missing Trump-related Epstein files",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726780/democrats-doj-epstein-files-trump-missing-pages",
+      "source": "NPR Politics",
+      "published": "2026-02-25T22:00:09.000Z",
+      "description": "After NPR reporting revealed dozens of pages of Epstein files related to President Trump appear to be missing from the public record, a top House Democrat wants to know why.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.272Z"
+    },
+    {
+      "id": "2cc868c3c5b9",
+      "title": "ICE won't be at polling places this year, a Trump DHS official promises",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726768/ice-agents-midterm-elections",
+      "source": "NPR Politics",
+      "published": "2026-02-25T21:38:46.000Z",
+      "description": "In a call with top state voting officials, a Department of Homeland Security official stated unequivocally that immigration agents would not be patrolling polling places during this year's midterms.",
+      "keywords": [
+        "voting",
+        "midterm",
+        "immigration",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.275Z"
+    },
+    {
+      "id": "83dfbad7bede",
+      "title": "What Trump's State of the Union address tells us about the midterm elections",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726291/what-trumps-state-of-the-union-address-tells-us-about-the-midterm-elections",
+      "source": "NPR Politics",
+      "published": "2026-02-25T21:17:56.000Z",
+      "description": "President Trump gave his State of the Union address Tuesday night — and blamed Democrats for the affordability issues facing many Americans. The address was also surprisingly short on new ideas.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.341Z"
+    },
+    {
+      "id": "61a8f9aecc33",
+      "title": "Tipped workers expect tax boon this year, but not a long-term fix",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5684227/trump-tax-tips-state-union",
+      "source": "NPR Politics",
+      "published": "2026-02-25T19:30:48.000Z",
+      "description": "In his State of the Union address on Tuesday night, President Trump once again touted new tax benefits for tipped workers, who like many Americans are feeling the pinch of higher prices.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.280Z"
+    },
+    {
+      "id": "10664abc54d8",
+      "title": "Fact-checking Trump's claims in his State of the Union address",
+      "url": "https://www.pbs.org/newshour/show/fact-checking-trumps-claims-in-his-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T23:55:11.000Z",
+      "description": "President Trump touted the economy and his immigration policies in a record-long State of the Union address, and he'll soon take those messages on the road. The White House is hoping Trump can convince Americans to stay the course, as Democrats slammed the speech for being too partisan, divisive and out of touch. Liz Landers recaps and fact-checks the president's speech.",
+      "keywords": [
+        "immigration",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.273Z"
+    },
+    {
+      "id": "9c58c4aa34c9",
+      "title": "Andy Beshear on how Democrats can appeal to voters across party lines",
+      "url": "https://www.pbs.org/newshour/show/andy-beshear-on-how-democrats-can-appeal-to-voters-across-party-lines",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T23:40:51.000Z",
+      "description": "Kentucky Gov. Andy Beshear has become one of the most closely watched Democrats in the country. A two-term governor in a deeply red state, Beshear has won statewide office twice, even as President Trump carried Kentucky by wide margins. As Democrats search for a message that can resonate beyond blue states, Geoff Bennett sat down with Beshear to discuss how his approach is drawing attention.",
+      "keywords": [
+        "voter",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.418Z"
+    },
+    {
+      "id": "48a56d75eaa6",
+      "title": "Border Patrol union chief defends immigration crackdown and agents' tactics",
+      "url": "https://www.pbs.org/newshour/show/border-patrol-union-chief-defends-immigration-crackdown-and-agents-tactics",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T23:35:05.000Z",
+      "description": "President Trump's defense of his immigration agenda during his State of the Union address comes as public support is falling. In an NBC News poll this month, 49% of people said they strongly disapprove of how Trump has handled border security and immigration, a 15-point jump since last April. Amna Nawaz discussed more with National Border Patrol Council President Paul Perez.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.481Z"
+    },
+    {
+      "id": "7017c46e846b",
+      "title": "WATCH: Vance says administration is pausing some Medicaid funding to Minnesota over fraud concerns",
+      "url": "https://www.pbs.org/newshour/politics/watch-vance-says-administration-is-pausing-some-medicaid-funding-to-minnesota-over-fraud-concerns",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T22:40:51.000Z",
+      "description": "Vice President JD Vance said the administration was taking the action \"in order to ensure that the state of Minnesota takes its obligations seriously to be good stewards of the American people's tax money.\"",
+      "keywords": [
+        "ICE",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.440Z"
+    },
+    {
+      "id": "ed004e9a49b0",
+      "title": "WATCH: Markey asks Dr. Means if Trump's order promoting glyphosate production puts health at risk",
+      "url": "https://www.pbs.org/newshour/politics/watch-markey-asks-dr-means-if-trumps-order-promoting-glyphosate-production-puts-health-at-risk",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T22:22:04.000Z",
+      "description": "President Donald Trump's nominee for surgeon general, Dr. Casey Means, faced questions on Wednesday about the president's recent executive order promoting more domestic production of glyphosate, an ingredient in weedkiller, and how that might conflict with her own beliefs about the potential effects of the chemical.",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.460Z"
+    },
+    {
+      "id": "fcdd170abf23",
+      "title": "Trump's pick to lead new Justice Department unit scrutinized as president declares 'war on fraud'",
+      "url": "https://www.pbs.org/newshour/politics/trumps-pick-to-lead-new-justice-department-unit-scrutinized-as-president-declares-war-on-fraud",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T21:33:21.000Z",
+      "description": "President Donald Trump's pick to lead a new Justice Department division dedicated to rooting out fraud said Wednesday he would pursue prosecutions \"without fear or favor\" as questions grow about how the new unit will operate free of political influence.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.435Z"
+    },
+    {
+      "id": "f423dff05a3c",
+      "title": "Trump's portrayal of 'golden age' is out of sync with how Americans see economy",
+      "url": "https://www.pbs.org/newshour/politics/trumps-portrayal-of-golden-age-is-out-of-sync-with-how-americans-see-economy",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T21:01:15.000Z",
+      "description": "President Donald Trump sought in his first State of the Union address to sell Americans on the idea of a booming economy, falling prices, and soaring jobs, yet he faces a skeptical public with a much gloomier view.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.601Z"
+    },
+    {
+      "id": "1aa5cda4ebb9",
+      "title": "Supreme Court rules against private prison firm alleged to have forced immigrant detainees to work for $1 a day",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-rules-against-private-prison-firm-alleged-to-have-forced-immigrant-detainees-to-work-for-1-a-day",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T19:43:44.000Z",
+      "description": "The unanimous ruling is a procedural defeat for the GEO Group, but it's not a final decision.",
+      "keywords": [
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.571Z"
+    },
+    {
+      "id": "071a07a5389d",
+      "title": "Trump's post-State of the Union sales job begins now",
+      "url": "https://www.pbs.org/newshour/politics/trumps-post-state-of-the-union-sales-job-begins-now",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T19:26:31.000Z",
+      "description": "His address Tuesday was a declaration of pride in the achievements of his still-young second term, as he boasted of an economic renaissance at home while he's imposed a new world order abroad. Trump is getting his first opportunity to test drive that midterm year message later this week.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.588Z"
+    },
+    {
+      "id": "13fcb3da6dcb",
+      "title": "Fact-checking Democrats' responses to Trump's 2026 State of the Union address",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-democrats-responses-to-trumps-2026-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T17:53:16.000Z",
+      "description": "In a move that reflected the party's divisions, Democrats offered a range of responses to President Donald Trump's Feb. 24 State of the Union address. PolitiFact fact-checked some of those remarks.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.680Z"
+    },
+    {
+      "id": "3be51fc48733",
+      "title": "Fact-checking Trump's State of the Union claims on the economy, immigration and crime",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-state-of-the-union-claims-on-the-economy-immigration-and-crime",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T17:13:48.000Z",
+      "description": "In a combative State of the Union speech — the longest in modern history at about 108 minutes — President Donald Trump defended his administration's economic performance and hardline immigration agenda amid sagging poll numbers ahead of the midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.640Z"
+    },
+    {
+      "id": "b4a5eac9d635",
+      "title": "Read Trump's full 2026 State of the Union address",
+      "url": "https://www.pbs.org/newshour/politics/read-trumps-full-2026-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T14:45:16.000Z",
+      "description": "Here's President Donald Trump's 2026 State of the Union address, as transcribed by The Associated Press.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.778Z"
+    },
+    {
+      "id": "a26082296201",
+      "title": "WATCH: Dr. Casey Means testifies at Senate confirmation hearing for surgeon general",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-casey-means-testifies-at-senate-confirmation-hearing-for-surgeon-general",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T14:34:18.000Z",
+      "description": "Means, a close ally to Health Secretary Robert F. Kennedy Jr. and his Make America Healthy Again movement, is sharing a vision that dovetails with that of the nation's health department, which has shifted its focus away from its controversial vaccine policy changes and toward healthy eating as the midterm elections approach.",
+      "keywords": [
+        "election",
+        "midterm",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.791Z"
+    },
+    {
+      "id": "1831fc500670",
+      "title": "8 takeaways from Trump's 2026 State of the Union address",
+      "url": "https://www.pbs.org/newshour/politics/8-takeaways-from-trumps-2026-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T04:59:41.000Z",
+      "description": "President Donald Trump started in sales mode, using his State of the Union address to deliver an upbeat vision of the U.S. economy. But that portrayal collides with the sentiment of Americans who remain anxious about their finances and feel they haven't benefited from Trump's policies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.869Z"
+    },
+    {
+      "id": "d84e2b6c82df",
+      "title": "WATCH: 'We all know' Trump is not making your life more affordable, Spanberger says",
+      "url": "https://www.pbs.org/newshour/politics/watch-we-all-know-trump-is-not-making-your-life-more-affordable-spanberger-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T04:57:16.000Z",
+      "description": "In the official Democratic response to the president's speech, Spanberger stressed how Trump's policies on a host of daily issues, from health care to housing, hasn't made life more affordable.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.820Z"
+    },
+    {
+      "id": "6cb6b7bb069a",
+      "title": "Analysis of Trump's 2026 State of the Union address",
+      "url": "https://www.pbs.org/newshour/show/analysis-of-trumps-2026-state-of-the-union-address",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T04:49:19.000Z",
+      "description": "President Trump delivered his State of the Union address on Tuesday. For analysis, Amna Nawaz and Geoff Bennett were joined by Lisa Desjardins, Liz Landers, Nick Schifrin, Amy Walter of The Cook Political Report, Republican strategist Kevin Madden, Democratic strategist Faiz Shakir and Tiffany Smiley, a former Republican Senate candidate in Washington state.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.853Z"
+    },
+    {
+      "id": "8cf100c419ca",
+      "title": "WATCH: 'Can't let' Iran have a nuclear weapon, Trump says",
+      "url": "https://www.pbs.org/newshour/politics/watch-cant-let-iran-have-a-nuclear-weapon-trump-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-25T04:30:40.000Z",
+      "description": "The U.S. has been building up its largest military presence of American warships and aircraft in decades in the Middle East, as the Trump administration plans to restart talks with Iran over its nuclear program.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.979Z"
+    },
+    {
+      "id": "674f9d2e14e2",
+      "title": "Minneapolis woman who Ilhan Omar took to State of the Union needed medical care after arrest",
+      "url": "https://www.nbcnews.com/politics/congress/minneapolis-woman-ilhan-omar-brought-state-union-needed-medical-care-a-rcna260752",
+      "source": "NBC News",
+      "published": "2026-02-26T04:45:31.000Z",
+      "description": "Omar said Capitol Police \"aggressively handled\" her guest, Aliyah Rahman of Minneapolis, forcing her to seek medical care at a hospital.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:14.161Z"
+    },
+    {
+      "id": "4042cb7b78de",
+      "title": "U.S. and Iran hold new talks as Trump raises pressure for nuclear deal",
+      "url": "https://www.nbcnews.com/world/iran/us-iran-nuclear-talks-trump-military-buildup-attack-missiles-rcna260764",
+      "source": "NBC News",
+      "published": "2026-02-26T10:46:38.000Z",
+      "description": "The United States and Iran were meeting in Geneva on Thursday for talks aimed at a diplomatic resolution to their long-running nuclear dispute, as President Donald Trump pressures Tehran with the threat of military action",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:13.976Z"
+    },
+    {
+      "id": "90c2a42e981b",
+      "title": "Vance announces suspension of Medicaid payments to Minnesota",
+      "url": "https://www.nbcnews.com/video/vance-announces-suspension-of-medicaid-payments-to-minnesota-258306117885",
+      "source": "NBC News",
+      "published": "2026-02-25T23:50:04.000Z",
+      "description": "After being chosen to lead President Trump's \"war on fraud,\" Vice President JD Vance announced that there would be a pause for federal Medicaid reimbursements in Minnesota amid a probe over alleged misuse of funds in the state.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:14.877Z"
+    },
+    {
+      "id": "16e70de7d9a1",
+      "title": "Chicago mayor: Trump used State of the Union speech 'to divide people'",
+      "url": "https://www.nbcnews.com/meet-the-press/video/chicago-mayor-trump-used-state-of-the-union-speech-to-divide-people-258298437929",
+      "source": "NBC News",
+      "published": "2026-02-25T22:03:01.000Z",
+      "description": "Chicago Mayor Brandon Johnson (D) joins Meet the Press NOW to respond to President Donald Trump’s position on immigration enforcement outlined in his State of the Union address and outlines how he is taking on the affordability crisis in Chicago.",
+      "keywords": [
+        "immigration",
+        "johnson",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.115Z"
+    },
+    {
+      "id": "d2cade491b49",
+      "title": "GOP congressman praises 'vision from President Trump' in State of the Union speech",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-congressman-praises-vision-from-president-trump-in-state-of-the-union-speech-258299973995",
+      "source": "NBC News",
+      "published": "2026-02-25T21:49:16.000Z",
+      "description": "Rep. Mike Kennedy (R-Utah) joins Meet the Press NOW to defend President Trump’s economic agenda after the president delivers the State of the Union address. NBC News’ Gabe Gutierrez, Sahil Kapur and Aaron Gilchrist report on the nation’s reaction to the president’s speech.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:14.889Z"
+    },
+    {
+      "id": "3744f7d09d47",
+      "title": "Redistricting pits Democratic colleagues and allies against each other in Texas",
+      "url": "https://www.nbcnews.com/politics/2026-election/redistricting-pits-democratic-colleagues-allies-texas-rcna258971",
+      "source": "NBC News",
+      "published": "2026-02-26T10:00:41.000Z",
+      "description": "The new Texas congressional map that kicked off a nationwide redistricting fight last year was designed to boost Republicans in the midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:14.878Z"
+    },
+    {
+      "id": "1ace076d04ee",
+      "title": "Trump said Iran will 'soon' have missiles able to hit the U.S. A 2025 intel report said it will take 10 years.",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-said-iran-will-soon-missiles-able-hit-us-2025-intel-report-said-rcna260702",
+      "source": "NBC News",
+      "published": "2026-02-26T03:33:49.000Z",
+      "description": "President Trump said Iran is working to build missiles that could \"soon\" strike America. U.S. intelligence reports have offered a more cautious view.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:14.882Z"
+    },
+    {
+      "id": "bf3f917554aa",
+      "title": "Kash Patel fires at least six FBI agents tied to 2022 Mar-a-Lago search",
+      "url": "https://www.nbcnews.com/politics/justice-department/kash-patel-fires-fbi-agents-tied-mar-lago-search-trump-documents-rcna260743",
+      "source": "NBC News",
+      "published": "2026-02-26T01:48:13.000Z",
+      "description": "The dismissals come as the FBI director said his phone records were obtained by authorities during the Biden administration in connection with Trump probes.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.261Z"
+    },
+    {
+      "id": "043f34b89884",
+      "title": "Amid DHS shutdown, Noem meets with Democrat who called for her impeachment",
+      "url": "https://www.nbcnews.com/politics/congress/dhs-shutdown-noem-meets-democrat-called-impeachment-rcna260683",
+      "source": "NBC News",
+      "published": "2026-02-25T20:14:07.000Z",
+      "description": "In a rare meeting amid a partial government shutdown affecting her agency, Homeland Security Secretary Kristi Noem met with Rep. Delia Ramirez, D-Ill., on Wednesday afternoon as the Chicago congresswoman pushed for a shift in tactics from immigration agents, according to Ramirez’s office.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "impeach"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.218Z"
+    },
+    {
+      "id": "322804c44f9f",
+      "title": "DOJ hasn't released some Epstein files related to a woman who made an allegation against Trump",
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-not-released-epstein-files-related-woman-made-allegation-trump-rcna260672",
+      "source": "NBC News",
+      "published": "2026-02-25T21:54:05.000Z",
+      "description": "The files don't include records from FBI interviews with a woman who said Epstein abused her and who also made sexual abuse allegations against President Trump, according to an NBC News analysis.",
+      "keywords": [
+        "DOJ",
+        "FBI",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.217Z"
+    },
+    {
+      "id": "153c5fbfeaa6",
+      "title": "Vance suspends Medicaid payments to Minnesota as he launches Trump's 'war on fraud'",
+      "url": "https://www.nbcnews.com/politics/jd-vance/vance-trump-war-fraud-suspending-medicaid-payments-minnesota-rcna260655",
+      "source": "NBC News",
+      "published": "2026-02-25T23:27:23.000Z",
+      "description": "Vice President JD Vance received a new assignment Tuesday night: fighting a “war on fraud” that President Donald Trump declared in his State of the Union address.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.211Z"
+    },
+    {
+      "id": "ea4ef3cbb002",
+      "title": "Democrats are spoiling for a fight in Texas: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-are-spoiling-fight-texas-politics-desk-rcna260699",
+      "source": "NBC News",
+      "published": "2026-02-25T22:34:10.000Z",
+      "description": "This is the online version of From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.235Z"
+    },
+    {
+      "id": "a1b95975bbec",
+      "title": "Epstein files fallout: Tracking the resignations, firings and investigations",
+      "url": "https://www.nbcnews.com/politics/justice-department/epstein-files-fallout-resignations-firings-investigations-rcna259702",
+      "source": "NBC News",
+      "published": "2026-02-23T10:00:40.000Z",
+      "description": "The Justice Department’s release of millions of files relating to its investigation into the late sex offender Jeffrey Epstein has shaken the upper echelons of power across the globe, resulting in high-profile firings and resignations in the U.S. and abroad and a number of active criminal investigations overseas",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.387Z"
+    },
+    {
+      "id": "e160a4478c06",
+      "title": "Can the U.S. and Iran reach a nuclear deal to avert a war?",
+      "url": "https://www.cbsnews.com/news/trump-us-iran-nuclear-deal-to-avert-war-prospects-for-geneva-talks/",
+      "source": "CBS News",
+      "published": "2026-02-26T11:27:41.000Z",
+      "description": "Trump says he won't let Iran to build a nuclear weapon, and Iran says it doesn't intend to, but as talks resume, experts see war as more likely than a deal.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.375Z"
+    },
+    {
+      "id": "48104b483d22",
+      "title": "Bipartisan bill aims to block big investors from buying single-family homes",
+      "url": "https://www.cbsnews.com/news/bipartisan-bill-aims-to-block-big-investors-from-buying-single-family-homes/",
+      "source": "CBS News",
+      "published": "2026-02-26T10:00:01.000Z",
+      "description": "A bipartisan Senate duo is teaming up on legislation that would ban large investment firms from snapping up single-family homes, a measure they say is aimed at the country's housing affordability crunch.",
+      "keywords": [
+        "SNAP"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.407Z"
+    },
+    {
+      "id": "47a879294ae4",
+      "title": "2/24: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/022426-cbs-evening-news/",
+      "source": "CBS News",
+      "published": "2026-02-26T04:02:27.000Z",
+      "description": "What to expect in Trump's State of the Union address; Russian strikes on power grid have turned winter into weapon against Ukraine.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.439Z"
+    },
+    {
+      "id": "f1f4d68aa672",
+      "title": "President Trump's 2026 State of the Union Address and the Democratic response",
+      "url": "https://www.cbsnews.com/video/2026-state-of-the-union/",
+      "source": "CBS News",
+      "published": "2026-02-26T03:00:19.000Z",
+      "description": "President Trump delivers the longest State of the Union address in recent history, followed by the Democratic response from Virginia Governor Abigail Spanberger.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.373Z"
+    },
+    {
+      "id": "2813a258094e",
+      "title": "At least 10 FBI staffers who worked on Mar-a-Lago case are fired, sources say",
+      "url": "https://www.cbsnews.com/news/at-least-10-fbi-staffers-who-worked-on-mar-a-lago-documents-case-are-fired-sources-say/",
+      "source": "CBS News",
+      "published": "2026-02-26T03:00:00.000Z",
+      "description": "At least 10 FBI employees who worked on former Special Counsel Jack Smith's investigation into President Trump's retention of classified records were fired Wednesday, multiple sources said.",
+      "keywords": [
+        "FBI",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.557Z"
+    },
+    {
+      "id": "23a7cd88c18e",
+      "title": "Mayor touts Baltimore as a changed city despite Trump's criticisms",
+      "url": "https://www.cbsnews.com/news/mayor-touts-baltimore-as-changed-city-despite-trump-criticisms/",
+      "source": "CBS News",
+      "published": "2026-02-26T01:48:19.000Z",
+      "description": "Since 2019, when Baltimore's murder rate hit an all-time high, something has changed, and data points to the city showing major improvement.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.566Z"
+    },
+    {
+      "id": "5c1edabb0b0b",
+      "title": "Judge rules Trump policy for \"third-country\" deportations is unlawful",
+      "url": "https://www.cbsnews.com/news/judge-third-country-deportations-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-02-26T00:45:30.000Z",
+      "description": "U.S. District Judge Brian Murphy ruled that the Trump administration's policy for swiftly deporting migrants to third countries violates federal immigration law and the Constitution.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.546Z"
+    },
+    {
+      "id": "088934a5961d",
+      "title": "ICE arrested 261 DACA recipients over 10 months last year, document shows",
+      "url": "https://www.cbsnews.com/news/daca-recipients-ice-arrested-2025-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-02-26T00:27:00.000Z",
+      "description": "Federal immigration agents arrested 261 DACA recipients during the first 10 months of the second Trump administration, according to statistics shared with Congress.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.600Z"
+    },
+    {
+      "id": "c1f422531e25",
+      "title": "Major moments from Trump's State of the Union address",
+      "url": "https://www.cbsnews.com/video/major-moments-from-trumps-state-of-the-union-address/",
+      "source": "CBS News",
+      "published": "2026-02-26T00:18:00.000Z",
+      "description": "The White House is claiming a big win after President Trump's State of the Union address. Weijia Jiang has details about the major moments.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.630Z"
+    },
+    {
+      "id": "3f6cad0dcd72",
+      "title": "FBI's head of congressional affairs stepping down, sources say",
+      "url": "https://www.cbsnews.com/news/fbis-head-of-congressional-affairs-stepping-down/",
+      "source": "CBS News",
+      "published": "2026-02-25T23:16:13.000Z",
+      "description": "Marshall Yates also served on a \"weaponization\" working group tasked with carrying out Trump's quest for retribution.",
+      "keywords": [
+        "FBI",
+        "trump",
+        "retribution"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.740Z"
+    },
+    {
+      "id": "6836dcf13161",
+      "title": "Casey Means, Trump surgeon general nominee, grilled on vaccines",
+      "url": "https://www.cbsnews.com/live-updates/casey-means-surgeon-general-nominee-confirmation-hearing/",
+      "source": "CBS News",
+      "published": "2026-02-25T17:55:42.000Z",
+      "description": "Casey Means is an ally of Health and Human Services Secretary Robert F. Kennedy Jr. and an advocate for his \"Make America Healthy Again\" agenda.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.738Z"
+    },
+    {
+      "id": "01d29cf649f6",
+      "title": "Fact checking Trump's 2026 State of the Union address and Democratic response",
+      "url": "https://www.cbsnews.com/news/fact-check-state-of-the-union-2026/",
+      "source": "CBS News",
+      "published": "2026-02-25T15:08:00.000Z",
+      "description": "CBS News fact checked President Trump's 2026 State of the Union address, and Virginia Gov. Abigail Spanberger's Democratic response.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.747Z"
+    },
+    {
+      "id": "d498928276c6",
+      "title": " DHS official promises that federal immigration agents won't be at polling places during the midterms",
+      "url": "https://abcnews.com/Politics/wireStory/dhs-official-promises-federal-immigration-agents-polling-places-130511883",
+      "source": "ABC News",
+      "published": "2026-02-26T01:41:33.000Z",
+      "description": "A DHS official is promising top state election administrators that immigration agents will not be at polling places during November's midterm election",
+      "keywords": [
+        "election",
+        "midterm",
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.758Z"
+    },
+    {
+      "id": "c0e719492d40",
+      "title": " Trump plans to take his State of the Union message on the road — eventually",
+      "url": "https://abcnews.com/Politics/wireStory/trump-plans-state-union-message-road-eventually-130486447",
+      "source": "ABC News",
+      "published": "2026-02-25T14:13:57.000Z",
+      "description": "President Donald Trump has a midterm year message to sell",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.752Z"
+    },
+    {
+      "id": "2404369ac2c9",
+      "title": " Group accused of antifa links in immigration detention center shooting at trial",
+      "url": "https://abcnews.com/Politics/wireStory/trial-begins-group-accused-antifa-links-shooting-texas-130478334",
+      "source": "ABC News",
+      "published": "2026-02-25T03:54:46.000Z",
+      "description": "Federal prosecutors are describing those who participated in a July 4 gathering outside a Texas immigration detention center that left a police officer wounded as antifa members intent on a “violent campaign” to influence U.S. policy",
+      "keywords": [
+        "prosecutor",
+        "immigration",
+        "ICE",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.874Z"
+    },
+    {
+      "id": "2da2843db7e9",
+      "title": " Trump makes the case for his foreign policy approach at State of the Union",
+      "url": "https://abcnews.com/Politics/wireStory/trump-makes-case-foreign-policy-approach-state-union-130435011",
+      "source": "ABC News",
+      "published": "2026-02-25T06:53:34.000Z",
+      "description": "President Donald Trump has made the case for his foreign policy efforts to Americans who are increasingly demonstrating uneasiness about his priorities",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.867Z"
+    },
+    {
+      "id": "ad14b73e7462",
+      "title": "Wiles \"in shock\" over FBI phone-record subpoena",
+      "url": "https://www.axios.com/2026/02/26/fbi-patel-wiles-phone-records-biden",
+      "source": "Axios",
+      "published": "2026-02-26T12:02:47.000Z",
+      "description": "FBI Director Kash Patel says the FBI under President Biden subpoenaed his phone records and those of Susie Wiles, who ran President Trump's campaign and is now White House chief of staff, when they were private citizens.\nThe big picture: Trump officials familiar with the investigation tell Axios the revelations might be \"the tip of the iceberg,\" and that the FBI may have probed more Trumpworld figures.\n\nWiles told associates: \"I am in shock.\"\n\nWhat they're saying: Patel said in a statement to Ax",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "FBI",
+        "patel",
+        "kash",
+        "ICE",
+        "subpoena",
+        "white house",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.862Z"
+    },
+    {
+      "id": "407f36559bbd",
+      "title": "Trump didn't endorse them, but they're acting like he did",
+      "url": "https://www.axios.com/2026/02/26/trump-implied-endorsements-2026-midterms",
+      "source": "Axios",
+      "published": "2026-02-26T10:26:22.000Z",
+      "description": "Republican candidates snubbed by President Trump for primary endorsements have found a workaround: Act like he endorsed them anyway.\nWhy it matters: Trump's approval numbers are sagging but he still dominates the GOP, using endorsements to reward allies, punish detractors and reinforce his vise-like grip on the party.\n\nZoom in: It's a dynamic that has led Republicans in races nationwide to covet Trump's blessing, tout his endorsement — and appear a bit misleading when they don't get it.\n\nIt's re",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "fulton county",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.855Z"
+    },
+    {
+      "id": "b8dc3ec093e5",
+      "title": "How Claude conquered Washington, Wall Street and Silicon Valley",
+      "url": "https://www.axios.com/2026/02/26/the-race-to-catch-claude",
+      "source": "Axios",
+      "published": "2026-02-26T10:00:06.000Z",
+      "description": "Supremacy can be fleeting in the highly competitive AI race. But two months into 2026, Anthropic's Claude is upending U.S. national security, roiling financial markets and redefining how startups are built.\nWhy it matters: The company is in the middle of the most important fight of the era — how much power to give AI in the face of threats, real and virtual.\n\nAnthropic said this week it would soften the central commitment of its flagship safety framework, acknowledging that unilateral safety ple",
+      "keywords": [
+        "cybersecurity",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:15.931Z"
+    },
+    {
+      "id": "f852e59282a5",
+      "title": "U.S. launches investigation after Cuba kills 4 on Florida boat",
+      "url": "https://www.axios.com/2026/02/25/us-trump-4-americans-killed-cuba-florida-boat-republican",
+      "source": "Axios",
+      "published": "2026-02-26T03:43:35.000Z",
+      "description": "U.S. officials are looking into an announcement by Cuba's government that it killed four people aboard a Florida-tagged boat near the Villa Clara coast on Wednesday, Secretary of State Marco Rubio said.\nWhy it matters: The Trump administration has already signaled an openness to regime change in Cuba, and the incident that Cuban officials claim was \"intended to carry out an infiltration for terrorist purposes\" risks another escalation between Washington and Havana.\n\nThe latest: Rubio told report",
+      "keywords": [
+        "attorney general",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.418Z"
+    },
+    {
+      "id": "0ecbe985d0bb",
+      "title": "Republicans hesitant to censure Rep. Al Green again",
+      "url": "https://www.axios.com/2026/02/26/al-green-censure-state-of-the-union-protest",
+      "source": "Axios",
+      "published": "2026-02-26T00:25:20.000Z",
+      "description": "Rep. Al Green's (D-Texas) latest protest during President Trump's State of the Union has triggered a fresh Republican push to censure him. But not every Republican thinks it's worth the fight.\nWhy it matters: GOP leaders and some rank-and-file members aren't sold on censuring Green, arguing the once-rare punishment has become too routine.\n\nA vote to censure Green could reopen a tit-for-tat cycle that lawmakers in both parties have said is diminishing the punishment's weight.\n\nDriving the news: R",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.033Z"
+    },
+    {
+      "id": "647b28399313",
+      "title": "Trump admin cites fraud in freezing Minnesota Medicaid funds",
+      "url": "https://www.axios.com/2026/02/25/minnesota-medicaid-funds-frozen-fraud",
+      "source": "Axios",
+      "published": "2026-02-25T23:28:28.000Z",
+      "description": "The Trump administration is halting $259 million in Medicaid funding to Minnesota until the state takes steps to root out fraud in the program, Vice President JD Vance and Centers for Medicare and Medicaid Services administrator Mehmet Oz announced Wednesday. \nWhy it matters: CMS served notice that it plans similar freezes to other states' funding as part of the administration's crackdown on fraud. \n\nIt also keeps a focus on Minnesota's safety net funding after the administration used the state'",
+      "keywords": [
+        "voter",
+        "DOJ",
+        "attorney general",
+        "immigration",
+        "ICE",
+        "trump",
+        "medicaid",
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.042Z"
+    },
+    {
+      "id": "d06c4a868a64",
+      "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
+      "url": "https://www.axios.com/2026/02/25/anthropic-pentagon-blacklist-claude",
+      "source": "Axios",
+      "published": "2026-02-25T23:13:32.000Z",
+      "description": "The Pentagon asked two major defense contractors on Wednesday to provide an assessment of their reliance on Anthropic's AI model, Claude — a first step toward a potential designation of Anthropic as a \"supply chain risk,\" Axios has learned.\nWhy it matters: That penalty is usually reserved for companies from adversarial countries, such as Chinese tech giant Huawei.\n\nUsing it to punish a leading American tech firm, particularly one on which the military itself is currently reliant, would be unprec",
+      "keywords": [
+        "musk",
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.048Z"
+    },
+    {
+      "id": "8aa4b645907c",
+      "title": "Trump told Zelensky he wants to end war ASAP in call",
+      "url": "https://www.axios.com/2026/02/25/trump-zelensky-call-end-war-ukraine",
+      "source": "Axios",
+      "published": "2026-02-25T22:32:52.000Z",
+      "description": "President Trump told Ukrainian President Volodymyr Zelensky he wants to push for an end of the war with Russia as soon as possible, according to a Ukrainian official and two other sources with knowledge of the call. \nWhy it matters: Trump wants a peace deal by the summer, but there are still significant gaps between Ukraine and Russia, particularly on the issue of territorial control in eastern Ukraine.\n\nDriving the news: The 30-minute call was the first conversation between Trump and Zelensky s",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.022Z"
+    },
+    {
+      "id": "3d26c1f965e4",
+      "title": "Jeffries defends Democratic outbursts at State of the Union",
+      "url": "https://www.axios.com/2026/02/25/state-of-the-union-democrats-jeffries-trump",
+      "source": "Axios",
+      "published": "2026-02-25T21:27:47.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Wednesday went to bat for his members who protested and heckled President Trump from inside the House chamber during the State of the Union.\nWhy it matters: It's a marked departure from last year, when Jeffries privately chewed out the House Democrats who disrupted Trump's speech to Congress, held up signs and walked out in protest.\n\nOne big difference is that, this time, there has been minimal internal fallout among House Democrats towards the d",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.522Z"
+    },
+    {
+      "id": "b3c2718b1684",
+      "title": "Trump teases AI electricity pledge. Here's when tech giants will sign it",
+      "url": "https://www.axios.com/2026/02/25/trump-data-center-electricity-ratepayer-protection-pledge",
+      "source": "Axios",
+      "published": "2026-02-25T20:07:14.000Z",
+      "description": "Tech giants are expected to join President Trump at the White House next week to sign a pledge that they will build or buy their own electricity supplies for data centers.\nWhy it matters: It's the Trump administration's latest response to election-year voter angst over data centers' AI-driven electricity demands and their potential effects on rates. \n\nA number of the biggest tech companies have already made pledges that they say will prevent consumers from getting stuck with the energy bills for",
+      "keywords": [
+        "election",
+        "voter",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.524Z"
+    },
+    {
+      "id": "23b82e10e799",
+      "title": "Scoop: Witkoff says any Iran nuclear deal should last indefinitely",
+      "url": "https://www.axios.com/2026/02/25/witkoff-iran-deal-indefinite-geneva-talks",
+      "source": "Axios",
+      "published": "2026-02-25T17:58:30.000Z",
+      "description": "White House envoy Steve Witkoff told a private gathering on Tuesday that the Trump administration is demanding that Iran agree any future nuclear deal will remain in effect indefinitely, according to a U.S. official and two other sources with knowledge of his remarks. \nWhy it matters: President Trump and other critics of the 2015 Iran nuclear deal negotiated by the Obama administration seized on the \"sunset provisions\" as one of its main flaws. \n\nWitkoff made the comments two days before the nex",
+      "keywords": [
+        "ICE",
+        "white house",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.704Z"
+    },
+    {
+      "id": "25846d207954",
+      "title": "Summers leaves Harvard as Epstein reckoning rocks academia",
+      "url": "https://www.axios.com/2026/02/25/epstein-files-colleges-universities-resignations-investigations-larry-summers",
+      "source": "Axios",
+      "published": "2026-02-25T17:35:47.000Z",
+      "description": "Former Harvard president Larry Summers announced Wednesday he will resign his positions at the university following backlash to his relationship with convicted sex offender Jeffrey Epstein.\nWhy it matters: Epstein had deep ties to several donors and academics, prompting U.S. colleges and universities to reckon with revelations from recently released documents about investigations into his activities.\n\nThe Epstein files have effectively ended the careers of some of the world's most powerful figur",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.662Z"
+    },
+    {
+      "id": "0eb4222f9150",
+      "title": "Surgeon general nominee won't say she urges vaccination",
+      "url": "https://www.axios.com/2026/02/25/surgeon-general-casey-means-hearing-kennedy",
+      "source": "Axios",
+      "published": "2026-02-25T16:08:44.000Z",
+      "description": "Surgeon general nominee Casey Means said during a confirmation hearing Wednesday that she believes vaccines save lives but did not unequivocally urge people to get vaccinated.\nWhy it matters: The nutrition influencer and ally of Health Secretary Robert F. Kennedy Jr. would have a key role in vaccine messaging as the nation's top doctor and at times tried to avoid being pinned down by senators over how she would handle that responsibility. \n\nPressed by Senate health committee Chair Bill Cassidy (",
+      "keywords": [
+        "election",
+        "midterm",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.520Z"
+    },
+    {
+      "id": "e8315d97d1ab",
+      "title": "Trump announces new retirement plan at State of the Union",
+      "url": "https://www.axios.com/2026/02/25/trump-state-of-union-retirement-plan",
+      "source": "Axios",
+      "published": "2026-02-25T12:35:34.000Z",
+      "description": "President Trump during his State of the Union address announced plans to offer Americans access to a retirement account similar to those available to federal workers.\nWhy it matters: There are roughly 50 million Americans without employer-sponsored retirement plans, like 401(k)s, and there's been growing bipartisan interest in expanding access.\n\nWhat he's saying:  Trump said he would offer Americans who don't have 401(k)s or other employer-based retirement accounts \"access to the same type of re",
+      "keywords": [
+        "federal workers",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.827Z"
+    },
+    {
+      "id": "bf61a5f234bd",
+      "title": "Exclusive: U.S. must overhaul military readiness and tech metrics, report urges",
+      "url": "https://www.axios.com/2026/02/25/military-readiness-general-catalyst-clifford",
+      "source": "Axios",
+      "published": "2026-02-25T11:20:05.000Z",
+      "description": "Today's metrics don't give the U.S. military an accurate sense of its own readiness, as the Pentagon battles outdated procurement procedures and other countries quickly up-gun their troops, according to a General Catalyst Institute report first shared with Axios.\nWhy it matters: Misunderstandings about what works where and who is available when can be deadly. The report warns, for example, that flying a jet off Virginia is different than over a far-flung battlefield.\n\n\"We need, in order to be su",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.840Z"
+    },
+    {
+      "id": "2e7cf7d45c4a",
+      "title": "Trump's night of heroes: Takeaways from the 2026 State of the Union",
+      "url": "https://www.axios.com/2026/02/25/trump-sotu-speech-takeaways",
+      "source": "Axios",
+      "published": "2026-02-25T11:04:02.000Z",
+      "description": "President Trump staged a rose-colored spectacle at Tuesday night's State of the Union — the longest-ever address to Congress, from a president facing his lowest-ever approval ratings.\nWhy it matters: A defiant Trump bragged, weaved, smiled and sparred his way through 108 minutes of prime-time television, projecting his vision of a \"Golden Age\" for a country that — according to recent polls — mostly isn't buying it.\n\n4 takeaways\n1. A night of heroes\n\nTrump shrewdly filled the chamber with people ",
+      "keywords": [
+        "voter",
+        "midterm",
+        "ICE",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.809Z"
+    },
+    {
+      "id": "48b45a17e269",
+      "title": "Canada, like Europe, seeks to break U.S. defense dependency",
+      "url": "https://www.axios.com/2026/02/25/canada-defense-strategy-carney-trump",
+      "source": "Axios",
+      "published": "2026-02-25T10:10:05.000Z",
+      "description": "Canada's first-ever defense-industrial strategy, published this month, suggests it, like Europe, can no longer count on the U.S. to be a security backstop, economically or militarily.\n\n\"Long-held assumptions have been upended — about the end of imperial conquest, the durability of peace in Europe, and the resilience of old alliances,\" the plan reads.\n\"In this uncertain world, it is more important than ever that Canada possess the capacity to sustain its own defense and safeguard its own sovereig",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.808Z"
+    },
+    {
+      "id": "3bc2ee3364a4",
+      "title": "The biggest takeaways from Trump's record-breaking State of the Union address",
+      "url": "https://www.axios.com/2026/02/25/2026-state-of-the-union-trump-key-moments",
+      "source": "Axios",
+      "published": "2026-02-25T05:10:45.000Z",
+      "description": "President Trump's remarks during Tuesday's State of the Union address focused on the stark contrast between the GOP and Democratic opposition, underscoring culture-war flashpoints and carefully acknowledging guests to reflect his political messaging.\nThe big picture: The speech took place with quite a few members of Congress missing — though that didn't stop several Democrats from shouting their objections or heckling the president during his 108-minute-long speech. \n\nHere are the top 5 most not",
+      "keywords": [
+        "ICE",
+        "impeach",
+        "white house",
+        "house majority",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.801Z"
+    },
+    {
+      "id": "ae0c2026e7f5",
+      "title": "Trump says he prefers diplomacy, but lays the case for war with Iran",
+      "url": "https://www.axios.com/2026/02/25/trump-iran-us-war-diplomacy-state-of-the-union",
+      "source": "Axios",
+      "published": "2026-02-25T05:06:17.000Z",
+      "description": "President Trump said in his State of the Union speech on Tuesday that he prefers a diplomatic solution to the crisis with Iran, but at the same time laid out a case for a potential war against the Islamic Republic. \nWhy it matters: Trump's remarks about Iran were relatively short and were not the center part of his speech, but it was the first time he detailed the reasons that led him to consider launching a military campaign. \n\nTrump's speech may mark the launch of an effort to prepare U.S. pub",
+      "keywords": [
+        "intelligence",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.999Z"
+    },
+    {
+      "id": "e21a006fd32f",
+      "title": "Trump keeps world guessing on Iran",
+      "url": "https://thehill.com/newsletters/morning-report/5756107-trump-iran-geneva-talks/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:43:05.000Z",
+      "description": "President Trump is pushing for a diplomatic solution with Iran while also warning of potential military action, as high-stakes talks take place in Geneva with the clock ticking on a potential deal.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.011Z"
+    },
+    {
+      "id": "9642180e068f",
+      "title": "Slater’s departure at DOJ signals new era for antitrust under Trump  ",
+      "url": "https://thehill.com/policy/technology/5754590-trump-doj-antitrust-mergers-gail-slater/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "The abrupt departure of the Department of Justice’s (DOJ) top antitrust enforcer is raising questions about the Trump administration’s approach to major anti-monopoly cases and controversial mergers. Gail Slater announced her plans to resign earlier this month after less than a year leading the DOJ’s antitrust division, marking an abrupt end to a tenure that was repeatedly plagued by tensions…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:16.960Z"
+    },
+    {
+      "id": "4a67aeb900f6",
+      "title": "Where redistricting battles stand in key states as midterms ramp up",
+      "url": "https://thehill.com/homenews/campaign/5754758-virginia-maryland-utah-florida-redistricting-update/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "Several court challenges, roadblocks in Maryland’s upper chamber and a late special legislative session in Florida are injecting uncertainty into a handful of states looking to pass new congressional maps ahead of November’s midterms, as both Democrats and Republicans look to clinch the House majority. Democrats took major hits in Virginia and Maryland in recent…",
+      "keywords": [
+        "midterm",
+        "house majority"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.004Z"
+    },
+    {
+      "id": "b4125aee8a2c",
+      "title": "Democrats conflicted over Trump’s Iran push",
+      "url": "https://thehill.com/homenews/senate/5755623-democrats-divided-over-iran-response/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "Democrats in both chambers of Congress are conflicted over how to respond to President Trump’s deployment of military forces against Iran, with some open to launching limited strikes against the regime and others worried about triggering another war in the Middle East. Pro-Israel Democrats in particular see reasons for the administration to threaten military force…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.066Z"
+    },
+    {
+      "id": "d9dbc26e1b10",
+      "title": "High school walkouts over ICE stir debates among parents, officials",
+      "url": "https://thehill.com/homenews/education/5754978-anti-ice-out-student-protests-virginia-texas-florida/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "Parents and some elected officials are cheering on high school students participating in anti-immigration enforcement walkouts over the past two months, while others have safety concerns about so many teenagers leaving school grounds.   Virginia Gov. Abigail Spanberger (D), whose state has seen hundreds of students suspended for “ICE out” protests, gave a shoutout to the young demonstrators in her…",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.254Z"
+    },
+    {
+      "id": "2873738616d8",
+      "title": "‘El Mencho’ killing signals volatile new chapter in Mexico’s drug war",
+      "url": "https://thehill.com/policy/defense/5755412-mexico-drug-kingpin-killing/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "The killing of one of Mexico’s most notorious drug kingpins over the weekend signals the start of a more forceful chapter in the country’s war against drug cartels, as President Trump has pressured Mexican President Claudia Sheinbaum to take the fight to powerful criminal syndicates. The high-stakes operation to capture Nemesio Oseguera Cervantes, known as…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.191Z"
+    },
+    {
+      "id": "40474b8d0641",
+      "title": "Trump adds pressure on Thune to pass voting bill despite ‘talking filibuster’ misgivings",
+      "url": "https://thehill.com/homenews/senate/5755667-trump-thune-voting-bill-talking-filibuster/",
+      "source": "The Hill",
+      "published": "2026-02-26T11:00:00.000Z",
+      "description": "Senate Majority Leader John Thune (R-S.D.) is coming under fresh pressure to act on the GOP’s voter ID legislation after President Trump prodded him to pass the bill during the State of the Union address Tuesday. The GOP leader has been the focus of sustained calls from House Republicans and conservative circles to pass the…",
+      "keywords": [
+        "voting",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.209Z"
+    },
+    {
+      "id": "755c739cc472",
+      "title": "Whitmer defends trans rights after Trump SOTU: ‘No matter who comes after you, I’ll stand in the way’",
+      "url": "https://thehill.com/homenews/lgbtq/5755981-whitmer-transgender-rights-state-of-the-state/",
+      "source": "The Hill",
+      "published": "2026-02-26T04:01:20.000Z",
+      "description": "Michigan Gov. Gretchen Whitmer (D) on Wednesday defended transgender rights in her State of the State address, a day after President Trump criticized gender transition in his State of the Union address. “In Michigan, everyone deserves to be who they are and love who they love. I want to take a moment and speak directly…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.191Z"
+    },
+    {
+      "id": "7dcf784a0386",
+      "title": "Whitmer says US-Canada bridge Trump threatened to block ‘will open’",
+      "url": "https://thehill.com/homenews/state-watch/5755938-michigan-canada-bridge-trump-threat/",
+      "source": "The Hill",
+      "published": "2026-02-26T01:51:17.000Z",
+      "description": "Michigan Gov. Gretchen Whitmer (D) said Wednesday that a bridge between the U.S. and Canada that President Trump previously threatened to block from opening is set to go ahead. “For the first time in over a century, a new bridge connecting Michigan to Canada, the Gordie Howe International Bridge, will open,” the governor declared during…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.181Z"
+    },
+    {
+      "id": "62577cd3269d",
+      "title": "On eve of nuclear talks, Trump hits Iran with new sanctions ",
+      "url": "https://thehill.com/newsletters/defense-national-security/5755848-on-eve-of-nuclear-talks-trump-hits-iran-with-new-sanctions/",
+      "source": "The Hill",
+      "published": "2026-02-26T00:31:55.000Z",
+      "description": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security   The Big Story  On eve of nuclear talks, Trump hits Iran with new sanctions  The U.S. is imposing new sanctions on Iranian individuals, companies and ships accused of enabling the country’s illicit oil sales and ballistic missile programs as…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.356Z"
+    },
+    {
+      "id": "9b0c7460b58e",
+      "title": "Former Air Force pilot who provided ‘defense services’ to Chinese military arrested: DOJ",
+      "url": "https://thehill.com/policy/defense/5755831-former-air-force-pilot-arrested/",
+      "source": "The Hill",
+      "published": "2026-02-26T00:21:29.000Z",
+      "description": "The Department of Justice (DOJ) said Wednesday that a former Air Force pilot was arrested because he provided “defense services” to Chinese military forces. In a press release Wednesday, the DOJ said 65-year-old Gerald Eddie Brown Jr. had been arrested in Jeffersonville, Ind., that day. The department said Brown, a former Air Force officer and…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.434Z"
+    },
+    {
+      "id": "f75d84cfffd3",
+      "title": "Harris: Trump’s State of the Union speech ‘full of lies,’ reminded her of ‘show-and-tell’",
+      "url": "https://thehill.com/homenews/campaign/5755769-harris-criticizes-trump-state-union/",
+      "source": "The Hill",
+      "published": "2026-02-25T23:41:10.000Z",
+      "description": "Former Vice President Kamala Harris on Wednesday slammed her 2024 presidential election opponent President Trump over his Tuesday State of the Union address. “I watched it. It was full of lies. And, you know, when he wasn’t lying, he was — it reminded me of our kids going to show-and-tell at school. It was like…",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.367Z"
+    },
+    {
+      "id": "e43d143b9670",
+      "title": "Trump builds case for war with Iran ahead of pivotal talks",
+      "url": "https://thehill.com/policy/international/5755742-trump-iran-nuclear-threat/",
+      "source": "The Hill",
+      "published": "2026-02-25T23:37:37.000Z",
+      "description": "President Trump used Tuesday’s State of the Union address to touch on the myriad reasons why an attack on Iran might be justified, from the regime’s history of attacks on Americans to its violent suppression at home, alleged nuclear ambitions and plans to build a missile that could reach America.  The speech amplified warnings coming…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.376Z"
+    },
+    {
+      "id": "42d94af6153c",
+      "title": "Trump State of the Union piles pressure on Johnson for second reconciliation push",
+      "url": "https://thehill.com/homenews/house/5755712-trump-state-of-the-union-johnson-reconciliation/",
+      "source": "The Hill",
+      "published": "2026-02-25T23:35:49.000Z",
+      "description": "President Trump used much of his State of the Union address Tuesday night to promote GOP legislation likely to hit a wall with Democrats, turning up the heat on Speaker Mike Johnson (R-La.) to pursue a complicated avenue to pass it with only Republican votes. Johnson may have only a narrow window to push much…",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.392Z"
+    },
+    {
+      "id": "9cdfec034824",
+      "title": "Trump’s atypical surgeon general pick faces Senate scrutiny: Key takeaways",
+      "url": "https://thehill.com/policy/healthcare/5755656-casey-means-senate-confirmation-hearing-takeaways/",
+      "source": "The Hill",
+      "published": "2026-02-25T23:04:17.000Z",
+      "description": "After months of delay, President Trump’s nominee for U.S. surgeon general, Casey Means, appeared before the Senate, facing intense questions over her qualifications, personal health care practices and career as a social media influencer.  Means appeared before the Senate Committee on Health, Education, Labor and Pensions (HELP) on Wednesday, about four months after her initial…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.551Z"
+    },
+    {
+      "id": "28e5785e3c87",
+      "title": "Omar says her State of the Union guest was arrested for standing during Trump’s speech",
+      "url": "https://thehill.com/homenews/house/5755666-ilhan-omar-guest-arrest/",
+      "source": "The Hill",
+      "published": "2026-02-25T22:50:51.000Z",
+      "description": "Rep. Ilhan Omar (D-Minn.) said her guest for the State of the Union was arrested by U.S. Capitol Police on “Unlawful Conduct” charges on Tuesday evening for standing during President Trump’s address.  In a post on the social media platform X, Omar said her constituent Aliya Rahman was “forcibly removed” from the House chamber after…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.547Z"
+    },
+    {
+      "id": "dc701f38edff",
+      "title": "Trump’s surgeon general nominee weaves through contentious Senate hearing ",
+      "url": "https://thehill.com/newsletters/health-care/5755582-trump-surgeon-general-casey-means-senate-hearing/",
+      "source": "The Hill",
+      "published": "2026-02-25T22:45:51.000Z",
+      "description": "Click in for more news from The Hill {beacon} Health Care   The Big Story  Trump’s surgeon general nominee weaves through contentious Senate hearing  Casey Means, President Trump’s second nominee to be U.S. surgeon general, finally appeared before the Senate for her confirmation hearing more than half a year after she was nominated. Her highly…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.561Z"
+    },
+    {
+      "id": "cc25ccd513a7",
+      "title": "Wicker appoints retired Army General to National Defense Strategy commission ",
+      "url": "https://thehill.com/homenews/senate/5755647-wickers-appointment-keane-nds/",
+      "source": "The Hill",
+      "published": "2026-02-25T22:45:28.000Z",
+      "description": "Sen. Roger Wicker (R-Miss.), the chairman of the Senate Armed Services Committee (SASC), told The Hill on Wednesday that he has appointed retired four-star U.S. Army Gen. Jack Keane to serve on the Commission on the National Defense Strategy (NDS).  “General Keane has faithfully served our country since the era of the Vietnam War. Few…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.535Z"
+    },
+    {
+      "id": "9b3a6caf2a80",
+      "title": "Vance, Oz announce pause in Medicaid funds to Minnesota amid fraud probe",
+      "url": "https://thehill.com/policy/healthcare/5755651-vance-oz-minnesota-medicaid-funds-fraud/",
+      "source": "The Hill",
+      "published": "2026-02-25T22:38:12.000Z",
+      "description": "Vice President JD Vance and Centers for Medicare & Medicaid Services Administrator Mehmet Oz announced on Wednesday the Trump administration will halt certain Medicaid funds to Minnesota as a part of the effort to crack down on fraud in the state. “We have decided to temporarily halt certain amounts of Medicaid funding that are going…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.771Z"
+    },
+    {
+      "id": "bb7078dfed3d",
+      "title": "House Dems project midterm optimism at annual policy retreat following State of the Union",
+      "url": "https://www.cnbc.com/2026/02/25/state-of-the-union-house-democrats-midterms-retreat.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T22:33:52.000Z",
+      "description": "House Democrats hammered home economic concerns ahead of 2026 elections at their annual policy conference, the day after President Trump's State of the Union.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.891Z"
+    },
+    {
+      "id": "3fe6eefb537c",
+      "title": "Netflix CEO Ted Sarandos to visit White House for talks on WBD deal, report says",
+      "url": "https://www.cnbc.com/2026/02/25/netflix-sarandos-white-house-wbd-paramount-deal-trump-rice.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T20:38:38.000Z",
+      "description": "The reported visit is scheduled just days after President Donald Trump demanded that Netflix immediately fire one of its board members, Susan Rice.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.944Z"
+    },
+    {
+      "id": "9608b4a81258",
+      "title": "Epstein files: Nobel winner Axel quits Columbia U. brain institute over friendship with predator",
+      "url": "https://www.cnbc.com/2026/02/25/epstein-files-richard-axel-quits-columbia-university-brain-institute.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T17:36:28.000Z",
+      "description": "Dr. Richard Axel, a longtime Columbia University professor, is mentioned repeatedly in the Jeffrey Epstein files released by the Department of Justice.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.882Z"
+    },
+    {
+      "id": "5325282b2c18",
+      "title": "What to expect from the next round of U.S.-Iran talks as Trump threatens Tehran",
+      "url": "https://www.cnbc.com/2026/02/25/us-iran-talks-nuclear-trump-oil-prices-war-conflict.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T10:23:07.000Z",
+      "description": "The upcoming talks come as the U.S. continues to build up military forces in the region and as Trump warns of \"bad things\" if Iran doesn't agree to a deal.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.880Z"
+    },
+    {
+      "id": "a26a5c7ceec2",
+      "title": "5 takeaways from Trump's State of the Union address",
+      "url": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T17:55:46.000Z",
+      "description": "Democrats are nipping at the heels of the incumbent Republicans for control of Congress in the 2026 midterms.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:17.870Z"
+    },
+    {
+      "id": "ae20305de7a6",
+      "title": "Trump says Iran wants a deal more than the U.S. as American forces build up in oil-rich Middle East",
+      "url": "https://www.cnbc.com/2026/02/25/trump-says-iran-wants-a-deal-more-than-the-us-ahead-of-next-round-of-negotiations-in-geneva.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-25T05:08:57.000Z",
+      "description": "Iran wants to make a \"deal\" more than the U.S., President Donald Trump said Tuesday, ahead of a third round of bilateral talks in Switzerland later this week.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:18.073Z"
+    },
+    {
+      "id": "306bce15bf74",
+      "title": "Trump’s State of the Union: Medals, Fearmongering, and Arguing With Dems",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-state-of-the-union-medals-fearmongering-immigrants-1235521942/",
+      "source": "Rolling Stone",
+      "published": "2026-02-25T05:57:25.000Z",
+      "description": "The president broke his own record for the longest address ever delivered to Congress",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:18.052Z"
+    },
+    {
+      "id": "8bb1087fd072",
+      "title": "Thomas Massie Calls Out DOJ for No ‘Charges, Arrests or Investigations’ Over Epstein Files",
+      "url": "https://www.rollingstone.com/politics/politics-news/epstein-files-thomas-massie-calls-out-doj-1235521879/",
+      "source": "Rolling Stone",
+      "published": "2026-02-25T00:57:09.000Z",
+      "description": "The lawmaker named Leon Black, Jes Staley, and Les Wexner from the Epstein files and urged Trump’s Department of Justice to hold them accountable",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-26T12:10:18.069Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-25T00:12:20.927Z"
+  "lastFetch": "2026-02-26T12:10:18.073Z"
 }
