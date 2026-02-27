@@ -29363,8 +29363,190 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-27T06:14:45.200Z"
+    },
+    {
+      "id": "f2ce89764165",
+      "title": "SNL mocked her as a 'scary mom.' In the Senate, Katie Britt is an emerging dealmaker",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5727795/katie-britt-senate-trump-immigration",
+      "source": "NPR Politics",
+      "published": "2026-02-27T10:00:00.000Z",
+      "description": "Sen. Katie Britt, Republican of Alabama, is a budding bipartisan dealmaker. Her latest assignment: helping negotiate changes to immigration enforcement tactics.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.101Z"
+    },
+    {
+      "id": "3c64b1560318",
+      "title": "Democrats strategizing on how to take back the House in upcoming midterm elections",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5727627/democrats-strategizing-on-how-to-take-back-the-house-in-upcoming-midterm-elections",
+      "source": "NPR Politics",
+      "published": "2026-02-27T09:43:24.000Z",
+      "description": "Democrats are meeting this week to discuss their strategy to regain control of the House in the upcoming midterm elections.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.082Z"
+    },
+    {
+      "id": "3881411e0ad2",
+      "title": "Trump's takeover of the GOP upends Texas Senate race",
+      "url": "https://www.nbcnews.com/politics/2026-election/trumps-takeover-gop-upends-texas-senate-race-cornyn-paxton-hunt-rcna260621",
+      "source": "NBC News",
+      "published": "2026-02-27T10:00:00.000Z",
+      "description": "Sen. John Cornyn is in the fight of his political career in Texas, as Trump's Republican Party decides whether the longtime senator is MAGA enough.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.103Z"
+    },
+    {
+      "id": "6e9028a29292",
+      "title": "Federal panel behind cancer screening recommendations hasn't met in nearly a year",
+      "url": "https://www.nbcnews.com/health/health-news/federal-panel-cancer-screening-recommendations-hasnt-met-nearly-year-rcna221824",
+      "source": "NBC News",
+      "published": "2026-02-27T11:00:00.000Z",
+      "description": "The federal task force that shapes recommendations for cancer screenings, heart disease prevention and other preventive services has not convened in almost a year — and it’s unclear whether the panel will convene again.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.185Z"
+    },
+    {
+      "id": "88773b653a77",
+      "title": "Left-wing plumber helps Greens sink ruling Labour and far-right in surprise U.K. election win",
+      "url": "https://www.nbcnews.com/world/united-kingdom/uk-starmer-epstein-scandal-election-defeat-green-party-farage-reform-rcna260921",
+      "source": "NBC News",
+      "published": "2026-02-27T10:22:49.000Z",
+      "description": "The Green Party delivered a stunning blow to Prime Minister Keir Starmer with a victory in a special election which also saw them beat Nigel Farage's Reform UK.",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.177Z"
+    },
+    {
+      "id": "d641e7794aa5",
+      "title": "Democrats are demanding $1,700 in tariff refunds for Americans",
+      "url": "https://www.axios.com/2026/02/27/trump-tariffs-refund-supreme-court-hochul",
+      "source": "Axios",
+      "published": "2026-02-27T10:30:06.000Z",
+      "description": "Following the Supreme Court's blow to President Trump's sweeping tariffs agenda, the prospect of compensation for Americans remains an open question. \nThe big picture: A growing number of Democrats, however, are declaring that Americans are owed billions in compensation, which amounts to about $1,700 per household.\n\nDriving the news: That includes New York Gov. Kathy Hochul sent a letter to U.S. Treasury Secretary Scott Bessent on Thursday calling for the federal government to \"refund all tariff",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.238Z"
+    },
+    {
+      "id": "8fdc898537ee",
+      "title": "Trump-MAHA split complicates midterm agenda",
+      "url": "https://www.axios.com/2026/02/27/trump-maha-kennedy-vaccine-agenda",
+      "source": "Axios",
+      "published": "2026-02-27T10:30:05.000Z",
+      "description": "The Trump administration's 2026 health care agenda is shaping up to look pretty different from last year's — and that's not going over very well with some of the \"Make America Healthy Again\" faithful.\nWhy it matters: Vaccine politics is becoming a trip wire in administration efforts to overhaul America's public health system before the midterm elections.\n\nBut there's still plenty of unfinished business in the eyes of vaccine critics, many of whom have close ties to the administration.\nAnd some a",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.169Z"
+    },
+    {
+      "id": "89ba592b4a15",
+      "title": "Hollywood's mega-merger battle ends with Warner Bros. as the real winner",
+      "url": "https://www.axios.com/2026/02/27/warner-bros-paramount-netflix",
+      "source": "Axios",
+      "published": "2026-02-27T10:00:05.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nIn repeatedly rebuffing takeover offers from Paramount Skydance, Warner Bros. Discovery's board managed to create one of Hollywood's most dramatic and lucrative bidding wars, ultimately elevating the company's stock price and leading to a $31-a-share deal with Paramount. \nWhy it matters: If the deal ultimately gets approved by regulators and goes through, Warner Bros. Discovery CEO David Zaslav will have cemented his legacy as one of the savvie",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.189Z"
+    },
+    {
+      "id": "8dedd44952b4",
+      "title": "Trump looms large in Texas as GOP gears up for Senate primary",
+      "url": "https://thehill.com/homenews/campaign/5757641-trump-texas-senate-gop-primary/",
+      "source": "The Hill",
+      "published": "2026-02-27T11:00:00.000Z",
+      "description": "President Trump is looming large over Texas as the Lone Star State’s GOP gears up for competitive primaries next week.  The president is set to stop in Corpus Christi on Friday, just days after his State of the Union address and as Texas voters cast their ballots in a high-stakes, three-way Republican primary race for Sen. John Cornyn’s (R-Texas) seat in the…",
+      "keywords": [
+        "ballot",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.312Z"
+    },
+    {
+      "id": "fb4a91bd7601",
+      "title": "The big new controversy over the Epstein files, explained",
+      "url": "https://thehill.com/homenews/administration/5757970-epstein-files-missing-interviews/",
+      "source": "The Hill",
+      "published": "2026-02-27T11:00:00.000Z",
+      "description": "When the Department of Justice released more than 3 million pages of documents relating to the convicted sexual predator Jeffrey Epstein on Jan. 30, the sheer volume of the material was dizzying. It always seemed plausible that important elements of the release would take time to emerge as reporters and researchers dug into the massive…",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.312Z"
+    },
+    {
+      "id": "05f1809a8e2d",
+      "title": "Some Republicans increasingly frustrated stock trading ban touted by Trump is stalled",
+      "url": "https://thehill.com/homenews/house/5758046-republicans-stock-trading-ban-trump-state-of-the-union/",
+      "source": "The Hill",
+      "published": "2026-02-27T11:00:00.000Z",
+      "description": "Some House Republicans are growing increasingly frustrated with leadership for not moving the ball quickly enough on a stock trading ban, an issue that has vexed Congress for years despite repeated bipartisan calls for reform. Last month, the House Administration Committee advanced a bill by Chairman Bryan Steil (R-Wis.) that would allow members of Congress,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T12:06:32.314Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-27T06:14:45.205Z"
+  "lastFetch": "2026-02-27T12:06:32.314Z"
 }
