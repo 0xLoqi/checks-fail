@@ -29545,8 +29545,500 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-27T12:06:32.314Z"
+    },
+    {
+      "id": "f989ee47eb69",
+      "title": "After taking aim at both parties, this Republican faces a critical decision",
+      "url": "https://www.pbs.org/newshour/politics/after-taking-aim-at-both-parties-this-republican-faces-a-critical-decision",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T17:28:53.000Z",
+      "description": "The boundaries of Kiley's California district have been upended by the nation's partisan redistricting war, clouding his path to reelection.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.091Z"
+    },
+    {
+      "id": "78395480f741",
+      "title": "WATCH LIVE: Trump talks about energy in Texas ahead of high-profile primary election",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-talks-about-energy-in-texas-ahead-of-high-profile-primary-election",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T16:13:41.000Z",
+      "description": "President Donald Trump will be seeking to ride the message of his State of the Union address from Tuesday, where he declared a return to economic prosperity and a more secure America — two centerpiece arguments for Republicans as they campaign to keep their congressional majorities this fall.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.055Z"
+    },
+    {
+      "id": "ba2818b369b2",
+      "title": "AIPAC faces test of its power in Illinois primary as Democrats debate future of Israel relationship",
+      "url": "https://www.pbs.org/newshour/politics/aipac-faces-test-of-its-power-in-illinois-primary-as-democrats-debate-future-of-israel-relationship",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T15:22:53.000Z",
+      "description": "The aggressive spending comes after AIPAC put $2 million into a recent Democratic primary for a special election in New Jersey, an effort that's widely considered to have backfired.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.062Z"
+    },
+    {
+      "id": "8c233cb16893",
+      "title": "U.S. tells embassy staff in Israel to leave now if they want as Trump threatens to attack Iran",
+      "url": "https://www.nbcnews.com/world/iran/us-allows-embassy-staff-leave-israel-citing-safety-risks-iran-threats-rcna260929",
+      "source": "NBC News",
+      "published": "2026-02-27T10:13:56.000Z",
+      "description": "The United States on Friday told some embassy staff that they could leave Israel — and that those who want to must do so quickly — as fears of an American attack on Iran fueled alarm throughout the region.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.235Z"
+    },
+    {
+      "id": "bcfe0de32d97",
+      "title": "Ads funded by AI industry are flooding the 2026 election. They're about everything except AI.",
+      "url": "https://www.nbcnews.com/politics/2026-election/ads-ai-industry-are-flooding-2026-election-artificial-intelligence-rcna260782",
+      "source": "NBC News",
+      "published": "2026-02-27T17:37:42.000Z",
+      "description": "Competing super PACs backed by the AI industry, flush with tens of millions of dollars, are already pouring money into the 2026 midterms, starting with the year’s first primaries in Texas and North Carolina.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.322Z"
+    },
+    {
+      "id": "ec35e834171e",
+      "title": "Texas' Big Bend braces for border wall in national park, worrying local Republicans and Democrats",
+      "url": "https://www.nbcnews.com/politics/immigration/texas-big-bend-braces-border-wall-national-park-worrying-local-republi-rcna260942",
+      "source": "NBC News",
+      "published": "2026-02-27T15:55:16.000Z",
+      "description": "Locals and elected leaders from both parties across far West Texas are condemning the Department of Homeland Security’s newly revealed plans to build a border wall through Big Bend National Park and its neighboring state park.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.388Z"
+    },
+    {
+      "id": "726fd45cb257",
+      "title": "Columbia Says ICE Agents Lied to Gain Access to the University",
+      "url": "https://www.today.com/video/columbia-says-ice-agents-lied-to-access-dorm-detain-student-258411077587",
+      "source": "NBC News",
+      "published": "2026-02-27T13:40:36.000Z",
+      "description": "Columbia University’s president Claire Shipman says federal agents, who detained a student from Azerbaijan, misrepresented themselves to gain access to a residential building by claiming they were looking for a missing child. Federal officials say the apartment’s building manager let officers into the building and that all agents identified themselves. The detained student has since been released.",
+      "keywords": [
+        "ICE",
+        "detained"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.200Z"
+    },
+    {
+      "id": "255dd4f2622f",
+      "title": "Scouting America to alter policies to maintain military support, Hegseth says",
+      "url": "https://www.cbsnews.com/news/scouting-america-change-policies-us-military-support-pentagon/",
+      "source": "CBS News",
+      "published": "2026-02-27T15:49:49.000Z",
+      "description": "Some of the changes mirror Scoutig America's suggestions to the Department of Justice, including discontinuing its Citizenship in Society merit badge and introducing a Military Service merit badge.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.204Z"
+    },
+    {
+      "id": "cfadf4e5ec4c",
+      "title": " He's blasted Speaker Johnson and Democrats alike. Now this Republican faces a critical decision",
+      "url": "https://abcnews.com/Politics/wireStory/blasted-speaker-johnson-democrats-alike-now-republican-faces-130558587",
+      "source": "ABC News",
+      "published": "2026-02-27T12:37:50.000Z",
+      "description": "Republican congressman Kevin Kiley has seen the political ground shift beneath him this past year",
+      "keywords": [
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.573Z"
+    },
+    {
+      "id": "705563211def",
+      "title": "Amazon strikes $50B OpenAI deal",
+      "url": "https://www.axios.com/2026/02/27/amazon-openai-stateful-ai-deal",
+      "source": "Axios",
+      "published": "2026-02-27T17:55:50.000Z",
+      "description": "A deal with OpenAI could put Amazon first to market with a new type of AI service for developers — but the two companies will have to tread carefully to avoid running afoul of OpenAI's deal with Microsoft.\n\nWhy it matters: If successful, Amazon Web Services could land in the more enviable position at the leading edge of generative AI rather than being forced to compete mainly by delivering models more cheaply than rival clouds.\n\nDriving the news: Amazon and OpenAI on Friday announced a multi-pro",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.476Z"
+    },
+    {
+      "id": "4cba49d5b485",
+      "title": "Bill Clinton plunges into historic Epstein deposition",
+      "url": "https://www.axios.com/2026/02/27/bill-clinton-deposition-jeffrey-epstein",
+      "source": "Axios",
+      "published": "2026-02-27T17:06:52.000Z",
+      "description": "Former President Bill Clinton testified under oath that he had no knowledge of Jeffrey Epstein's crimes and \"did nothing wrong\" during a deposition before the House Oversight Committee on Friday. \nWhy it matters: Clinton's testimony marks the first time that a former president has been compelled to testify before a congressional committee under subpoena.\n\nThe top Democrat on the panel, Rep. Robert Garcia (R-Calif.) said Clinton's deposition sets a precedent for the committee to depose President ",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "subpoena",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.483Z"
+    },
+    {
+      "id": "c488037ec2d1",
+      "title": "Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight",
+      "url": "https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon",
+      "source": "Axios",
+      "published": "2026-02-27T14:59:41.000Z",
+      "description": "OpenAI CEO Sam Altman wrote in a memo to staff that he will draw the same red lines that sparked a high-stakes fight between rival Anthropic and the Pentagon: no AI for mass surveillance or autonomous lethal weapons. \nWhy it matters: If other leading firms like Google follow suit, this could massively complicate the Pentagon's efforts to replace Anthropic's Claude, which was the first model integrated into the military's most sensitive work.\n\nIt would also be the first time the nation's top AI l",
+      "keywords": [
+        "musk",
+        "ICE",
+        "classified"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.520Z"
+    },
+    {
+      "id": "713cb2aa8eef",
+      "title": "U.S. evacuates Israel embassy staff as Trump's Iran decision looms",
+      "url": "https://www.axios.com/2026/02/27/trump-iran-war-decision-israel-embassy-evacuation",
+      "source": "Axios",
+      "published": "2026-02-27T12:15:50.000Z",
+      "description": "The U.S. State Department announced on Friday that it started evacuating \"non-emergency\" government personnel from the embassy in Israel and their family members, citing \"safety risks\" amid growing tensions with Iran.\nWhy it matters: The decision signals that a joint U.S.-Israeli military campaign against Iran could be imminent. In such a case, Iran could launch ballistic missiles toward Israel and U.S. targets in the region.\n\nEarlier this week the U.S. evacuated all non-essential staff and thei",
+      "keywords": [
+        "raid",
+        "ICE",
+        "intelligence",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.536Z"
+    },
+    {
+      "id": "ace59fc2ffff",
+      "title": "The AI influence network's power players",
+      "url": "https://www.axios.com/2026/02/27/ai-influence-power-players",
+      "source": "Axios",
+      "published": "2026-02-27T10:00:06.000Z",
+      "description": "Data: Axios research; Table: Kavya Beheraj/Axios\nMillions of dollars are pouring into state and federal races specifically around AI, targeting and supporting lawmakers in both parties.\nWhy it matters: Tech money in elections is nothing new. But AI is now a potent campaign issue, driving big spending from rival camps.\n\nThe big picture: Pro-AI billionaires funding PACs argue that they're trying to keep the U.S. from losing out to China in the AI race. AI safety and transparency groups are calling",
+      "keywords": [
+        "election",
+        "midterm",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.688Z"
+    },
+    {
+      "id": "f46a46967e92",
+      "title": "House Democrat: ‘Good for Anthropic’ in rejecting Pentagon demands",
+      "url": "https://thehill.com/policy/technology/5759007-ro-khanna-anthropic-pentagon-ai/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:50:05.000Z",
+      "description": "Rep. Ro Khanna (D-Calif.) praised the artificial intelligence company Anthropic for rejecting the Pentagon’s demands in how its AI technology is used by Friday evening.  The company and the U.S. government have been in battle for weeks over Anthropic’s AI policy, which blocks its AI model Claude from being used to conduct mass surveillance or…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.475Z"
+    },
+    {
+      "id": "9fe9032cc391",
+      "title": "Trump eyeing mail-in ballot, voting machine ban ahead of midterms?  ",
+      "url": "https://thehill.com/opinion/lindseys-lens/5759016-executive-overreach-election-rules/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:41:31.000Z",
+      "description": "This is not election security. This is executive overreach.",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "midterm",
+        "election security",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.669Z"
+    },
+    {
+      "id": "48b44d1d4132",
+      "title": "The 22nd Amendment at age 75: is it seriously under challenge?",
+      "url": "https://thehill.com/opinion/white-house/5758358-75th-anniversary-22nd-amendment/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:30:00.000Z",
+      "description": "The 22nd Amendment to the Constitution, ratified 75 years ago, limits presidents to two terms in office, but its limitations have been questioned by President Trump's supporters, who have suggested various ways to circumvent it.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.706Z"
+    },
+    {
+      "id": "840385cf6e80",
+      "title": "Atlantic reporter says Crockett campaign ejected her from event ",
+      "url": "https://thehill.com/homenews/campaign/5758945-atlantic-journalist-removed-campaign-rally/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:06:54.000Z",
+      "description": "Atlantic journalist Elaine Godfrey reported in a piece published Friday that she had been ejected from a campaign event for Rep. Jasmine Crockett (D-Texas) — one of the two Democrats vying for Texas Senate this year — a claim Crockett’s campaign has denied.   In the piece, Godfrey said a woman with a “badge” had…",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:54.683Z"
+    },
+    {
+      "id": "6836cd7cc72f",
+      "title": "Altman says OpenAI agrees with Anthropic’s red lines in Pentagon dispute",
+      "url": "https://thehill.com/policy/technology/5758898-altman-backs-anthropic-pentagon-stand/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:02:43.000Z",
+      "description": "OpenAI CEO Sam Altman said Friday that he agrees with Anthropic’s red lines in its increasingly contentious negotiations with the Pentagon over the terms of use for the company’s AI models. As the feud between Anthropic and the Department of Defense (DOD) has reached a boiling point, the AI firm has refused to budge on…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.558Z"
+    },
+    {
+      "id": "24d5d44aaf1e",
+      "title": "Republicans have the playbook for energy prices",
+      "url": "https://thehill.com/opinion/energy-environment/5757313-republican-energy-policy-wins/",
+      "source": "The Hill",
+      "published": "2026-02-27T17:00:00.000Z",
+      "description": "The House has passed legislation to lower energy costs and promote American energy dominance, including the Working Families Tax Cuts, permitting modernization, and the Energy Threat Analysis Center Act, while also passing the SPEED Act to streamline the permitting process for energy projects.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.575Z"
+    },
+    {
+      "id": "ebb429fc0ba9",
+      "title": "Boebert on Hillary Clinton deposition photo leak: ‘The Democrats were breaking the rules, too’",
+      "url": "https://thehill.com/homenews/house/5758890-boebert-on-hillary-clinton-deposition-photo-leak-the-democrats-were-breaking-the-rules-too/",
+      "source": "The Hill",
+      "published": "2026-02-27T16:50:27.000Z",
+      "description": "Rep. Lauren Boebert (R-Colo.) is defending her decision Thursday to share a picture of former Secretary of State Hillary Clinton during her closed-door deposition before the House Oversight and Government Reform Committee.  Boebert said she shared the image, which was taken before the hearing began, with right-wing podcaster Benny Johnson after receiving permission from the…",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.630Z"
+    },
+    {
+      "id": "e4aced6c84dc",
+      "title": "FedEx says it will return any refunds it gets from Trump tariffs to customers ",
+      "url": "https://thehill.com/business/5758747-fedex-trump-tariffs-reimburse-customers/",
+      "source": "The Hill",
+      "published": "2026-02-27T16:20:25.000Z",
+      "description": "Delivery giant FedEx said it will return to customers any refunds it gets from President Trump’s tariffs after the Supreme Court ruled them unlawful last week.  FedEx is among more than 1,000 companies that have filed lawsuits with the U.S. Court of International Trade to recoup the costs of Trump’s tariffs, mostly filed before the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.549Z"
+    },
+    {
+      "id": "045f0e850e69",
+      "title": "Senate Democrats demand tariff refunds begin ‘immediately’",
+      "url": "https://thehill.com/homenews/senate/5758819-senate-democrats-tariff-refunds-trump-administration/",
+      "source": "The Hill",
+      "published": "2026-02-27T16:18:02.000Z",
+      "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) and other Democrats are demanding refunds for their constituents after the Supreme Court struck down the bulk of President Trump’s tariff agenda last week. Their request came in a Friday letter addressed to Treasury Secretary Scott Bessent. The group of senators referenced Bessent’s previous assurance in January that refunds…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.583Z"
+    },
+    {
+      "id": "ec18fdab3d6f",
+      "title": "Does RFK Jr. care that babies will needlessly die under his vaccination policies?",
+      "url": "https://thehill.com/opinion/healthcare/5755533-measles-epidemic-2025-us-outbreak/",
+      "source": "The Hill",
+      "published": "2026-02-27T16:00:00.000Z",
+      "description": "Federal employees, Kennedy said, were promoting the “mass poisoning” of the American public. Then, in 2025, measles exploded, with more than 2,200 cases across 45 states.",
+      "keywords": [
+        "federal employees"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.762Z"
+    },
+    {
+      "id": "14ea56ea2b3b",
+      "title": "Pentagon official: Anthropic CEO ‘has a God-complex’",
+      "url": "https://thehill.com/policy/defense/5758772-pentagon-emil-michael-anthropic-dario-amodei-criticism/",
+      "source": "The Hill",
+      "published": "2026-02-27T15:58:14.000Z",
+      "description": "A top Pentagon official accused Anthropic CEO Dario Amodei on Thursday of having a “God-complex,” as the Department of Defense (DOD) and the company face off over the terms of use for its AI models. “It’s a shame that @DarioAmodei is a liar and has a God-complex,” Emil Michael, under secretary of Defense for research…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:56.024Z"
+    },
+    {
+      "id": "ffb9aa5a16c7",
+      "title": "Synthetic blood and instant runways: How biotech can benefit the warfighter",
+      "url": "https://thehill.com/opinion/national-security/5756370-synthetic-blood-and-instant-runways-how-biotech-can-benefit-the-warfighter/",
+      "source": "The Hill",
+      "published": "2026-02-27T15:30:00.000Z",
+      "description": "The War Department is planning a series of what it terms “technology sprints.”",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.754Z"
+    },
+    {
+      "id": "2b017438f429",
+      "title": "All 3 Texas GOP Senate candidates invited to join Trump in Corpus Christi",
+      "url": "https://thehill.com/homenews/campaign/5758707-cornyn-paxton-hunt-texas-senate-trump-event/",
+      "source": "The Hill",
+      "published": "2026-02-27T15:25:54.000Z",
+      "description": "The three leading candidates in the competitive Texas Senate Republican primary have all been invited to join President Trump’s Friday stop in Corpus Christi, just days ahead of the Lone Star State’s Tuesday primaries.  Although Trump is visiting the state in an official capacity, observers are eager to see if the president will address the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.732Z"
+    },
+    {
+      "id": "e46e64562200",
+      "title": "US hockey player knocks White House TikTok: ‘Clearly fake’",
+      "url": "https://thehill.com/homenews/administration/5758671-us-hockey-brady-tkachuk-donald-trump-white-house-tiktok/",
+      "source": "The Hill",
+      "published": "2026-02-27T15:22:20.000Z",
+      "description": "Brady Tkachuk said Thursday a video posted on the White House’s official TikTok page after the U.S. won gold during the Winter Olympics that appeared to show the American hockey player speaking ill of Canadians was “clearly fake.” The video, which provides a disclaimer that it contains “AI-generated media,” used dubbed audio over a real…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:55.711Z"
+    },
+    {
+      "id": "67a73656e671",
+      "title": "Bill Clinton on Jeffrey Epstein: 'I saw nothing, and I did nothing wrong'",
+      "url": "https://www.cnbc.com/2026/02/27/bill-clinton-jeffrey-epstein-oversight-committee.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T17:23:58.000Z",
+      "description": "The House Oversight forced Bill and Hillary Clinton to testify about Jeffrey Epstein. It has not called for testimony from President Donald Trump.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:56.107Z"
+    },
+    {
+      "id": "09c8255abb6f",
+      "title": "Epstein files: Rep. Mace says she'll call Trump Commerce chief Lutnick to testify",
+      "url": "https://www.cnbc.com/2026/02/27/epstein-trump-lutnick-mace-clinton.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T17:40:16.000Z",
+      "description": "Rep. Nancy Mace's comments came before the House Oversight Committe was to question ex-President Bill Clinton about his connections to Jeffrey Epstein.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:56.332Z"
+    },
+    {
+      "id": "519100fed6bf",
+      "title": "Trump angering MAHA with glyphosate order gives Democrats an opening",
+      "url": "https://www.cnbc.com/2026/02/27/trump-maha-glyphosate-order-democrats-rfk-jr.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T16:16:51.000Z",
+      "description": "Democrats once counted many of the health-conscious followers of Robert F. Kennedy Jr. among their own ranks.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T18:08:56.110Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-27T12:06:32.314Z"
+  "lastFetch": "2026-02-27T18:08:56.332Z"
 }
