@@ -28183,8 +28183,1188 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-26T12:10:18.069Z"
+    },
+    {
+      "id": "899d98085fd2",
+      "title": "Crowded Democratic field could give GOP an opening in California governor's race",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5720925-e1/crowded-democratic-field-could-give-gop-an-opening-in-california-governors-race",
+      "source": "NPR Politics",
+      "published": "2026-02-26T22:01:29.000Z",
+      "description": "In California, the two candidates with the most votes in the primary advance to the general election, regardless of party. That's an issue for Democrats who have nine major candidates for governor.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.188Z"
+    },
+    {
+      "id": "f7922e5d698a",
+      "title": "Trump's ballroom project can continue for now, court says",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5727859/trumps-ballroom-project-can-continue-for-now-court-says",
+      "source": "NPR Politics",
+      "published": "2026-02-26T21:51:21.000Z",
+      "description": "A US District Judge denied a preservation group's effort to put a pause on construction",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.163Z"
+    },
+    {
+      "id": "6a46e89f1340",
+      "title": "Sen. Tim Kaine on why he's pursuing a war powers resolution — again",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726769/sen-tim-kaine-on-why-hes-pursuing-a-war-powers-resolution-again",
+      "source": "NPR Politics",
+      "published": "2026-02-26T21:17:32.000Z",
+      "description": "NPR's Ailsa Chang speaks with Sen. Tim Kaine, Democrat of Virginia, about his continued efforts to limit President Trump's ability to use military force through war powers resolutions.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.154Z"
+    },
+    {
+      "id": "21781b876297",
+      "title": "These major issues have brought together Democrats and Republicans in states",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726431/data-centers-ai-trump-housing-states",
+      "source": "NPR Politics",
+      "published": "2026-02-26T19:22:21.000Z",
+      "description": "Across the country, Republicans and Democrats have found bipartisan agreement on regulating artificial intelligence and data centers. But it's not just big tech aligning the two parties.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.148Z"
+    },
+    {
+      "id": "ed5165d49b99",
+      "title": "Secretly rewritten nuclear safety rules are made public",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5727510/secret-rules-experimental-nuclear-reactors-now-public",
+      "source": "NPR Politics",
+      "published": "2026-02-26T18:32:04.000Z",
+      "description": "The Energy Department made the rules public a month after NPR reported about their existence. The rules slash requirements for security and environmental protections.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.193Z"
+    },
+    {
+      "id": "c4c960a71ce3",
+      "title": "What happened during Hillary Clinton's closed-door deposition on Jeffrey Epstein",
+      "url": "https://www.pbs.org/newshour/show/what-happened-during-hillary-clintons-closed-door-deposition-on-jeffrey-epstein",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T23:55:53.000Z",
+      "description": "Hillary Clinton testified to lawmakers that she had no knowledge of crimes committed by Jeffrey Epstein or Ghislaine Maxwell. During a closed-door session, Clinton said she also did not recall ever meeting Epstein. It was the first of two days of closed-door depositions from the House Oversight Committee. Justice correspondent Ali Rogin reports.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.300Z"
+    },
+    {
+      "id": "32be60620271",
+      "title": "Whistleblower warns ICE has slashed training for recruits",
+      "url": "https://www.pbs.org/newshour/show/whistleblower-warns-ice-has-slashed-training-for-recruits",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T23:30:17.000Z",
+      "description": "A former ICE lawyer is warning that the agency has scaled back training hours for recruits and is instructing them to violate the Constitution. Ryan Schwank says the academy where he trained cadets is \"deficient, defective and broken.\" He says it's part of the administration's effort to churn out new officers and increase arrests. Geoff Bennett spoke with Schwank and his attorney, David Kligerman.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.416Z"
+    },
+    {
+      "id": "8bcaaa31e58d",
+      "title": "Mamdani pitches Trump on housing investments by mocking up newspaper with his name in the headline",
+      "url": "https://www.pbs.org/newshour/politics/mamdani-pitches-trump-on-housing-investments-by-with-mocking-up-newspaper-with-his-name-in-the-headline",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T22:23:19.000Z",
+      "description": "It's a tactic designed to appeal to Trump, who is keenly aware of his media coverage and, aside from being an avid viewer of cable news, is known to voraciously consume coverage in the local New York City publications.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.307Z"
+    },
+    {
+      "id": "69f253a614fc",
+      "title": "Mamdani says Trump agreed to immediately release Columbia student detained by ICE",
+      "url": "https://www.pbs.org/newshour/politics/mamdani-says-trump-agreed-to-immediately-release-columbia-student-detained-by-ice",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T21:37:06.000Z",
+      "description": "A Columbia University student was arrested Thursday by federal immigration agents who claimed to be searching for a \"missing person\" in order to gain access to a campus apartment, according to her attorneys and the school's president.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.308Z"
+    },
+    {
+      "id": "289d671c2640",
+      "title": "WATCH: Rep. Garcia says House Democrats want Trump to sit for deposition on Epstein ties",
+      "url": "https://www.pbs.org/newshour/politics/watch-rep-garcia-says-house-democrats-want-trump-to-sit-for-deposition-on-epstein-ties",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T21:01:04.000Z",
+      "description": "\"Let's get President Trump in front of our committee to answer the questions that are being asked across this country from survivors,\" said Rep. Robert Garcia, the top Democrat on the Oversight panel.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.440Z"
+    },
+    {
+      "id": "d72a0db48784",
+      "title": "WATCH: Vance touts Trump economic agenda at Wisconsin machining facility",
+      "url": "https://www.pbs.org/newshour/politics/watch-vance-touts-trump-economic-agenda-at-wisconsin-machining-facility",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T20:48:12.000Z",
+      "description": "Vice President JD Vance spoke on Thursday in Plover, Wisconsin, about affordability and reducing fraud, making the case for Republicans in the 2026 midterms.",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.679Z"
+    },
+    {
+      "id": "45b72f15d074",
+      "title": "AP report: FBI fires agents who worked on Trump classified document investigation",
+      "url": "https://www.pbs.org/newshour/politics/ap-report-fbi-fires-agents-who-worked-on-trump-classified-document-investigation",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T18:26:48.000Z",
+      "description": "The FBI has fired additional agents who worked on an investigation into President Donald Trump, this time terminating employees who participated in the probe into the Republican's hoarding of classified documents, people familiar with the matter said Wednesday.",
+      "keywords": [
+        "FBI",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.555Z"
+    },
+    {
+      "id": "7f4c33877fab",
+      "title": "WATCH: Schumer holds briefing after reports DOJ withheld Epstein files with Trump allegations",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-schumer-holds-briefing-after-reports-doj-withheld-epstein-files-with-trump-allegations",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T17:02:59.000Z",
+      "description": "The Justice Department said Wednesday that it was looking into whether it had improperly withheld documents from the Jeffrey Epstein files after several news organizations reported that some records involving uncorroborated accusations made by a woman against President Donald Trump were not among those released to the public.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.528Z"
+    },
+    {
+      "id": "66989845ede0",
+      "title": "Kilmar Abrego Garcia asks U.S. judge to dismiss criminal charges, saying Trump administration's case is vindictive",
+      "url": "https://www.pbs.org/newshour/politics/kilmar-abrego-garcia-asks-u-s-judge-to-dismiss-criminal-charges-saying-trump-administrations-case-is-vindictive",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T15:57:00.000Z",
+      "description": "Abrego Garcia, whose mistaken deportation has galvanized both sides of the immigration debate, claims that the criminal prosecution is vindictive, pushed by officials from President Donald Trump's administration to punish him after they were forced to bring him back to the United States.",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.569Z"
+    },
+    {
+      "id": "a6eebfb0b86b",
+      "title": "WATCH: Rev. Jesse Jackson lies in repose at Rainbow PUSH Coalition headquarters in Chicago",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-rev-jesse-jackson-lies-in-repose-at-rainbow-push-coalition-headquarters-in-chicago",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T15:45:06.000Z",
+      "description": "Cross-country memorial services for the Rev. Jesse Jackson Sr. are set to begin Thursday in Chicago, the city the late civil rights leader called home.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.552Z"
+    },
+    {
+      "id": "124111573f39",
+      "title": "DHS official promises that federal immigration agents won't be at polling places during midterm elections",
+      "url": "https://www.pbs.org/newshour/politics/dhs-official-promises-that-federal-immigration-agents-wont-be-at-polling-places-during-midterm-elections",
+      "source": "PBS NewsHour",
+      "published": "2026-02-26T15:29:34.000Z",
+      "description": "A Department of Homeland Security official on Wednesday told state election administrators that immigration agents will not be stationed at the polls during November's midterm elections, trying to swat down one of Democrats' greatest fears about possible election interference from the Trump administration.",
+      "keywords": [
+        "election",
+        "midterm",
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.770Z"
+    },
+    {
+      "id": "ed7488691302",
+      "title": "NYC Mayor Zohran Mamdani makes housing pitch to Trump in second White House visit",
+      "url": "https://www.nbcnews.com/politics/white-house/nyc-mayor-zohran-mamdani-meeting-trump-washington-rcna260831",
+      "source": "NBC News",
+      "published": "2026-02-26T18:25:25.000Z",
+      "description": "New York is seeking to secure $21 billion in federal grants for a project that would lead to the construction of 12,000 affordable homes in the city, the mayor's office said.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.796Z"
+    },
+    {
+      "id": "0fc59c8b2557",
+      "title": "Pentagon gives Anthropic an ultimatum amid fight over military AI guardrails",
+      "url": "https://www.nbcnews.com/meet-the-press/video/pentagon-gives-anthropic-an-ultimatum-amid-fight-over-military-ai-guardrails-258370117539",
+      "source": "NBC News",
+      "published": "2026-02-26T22:02:44.000Z",
+      "description": "Technology journalist Jacob Ward, host of “The Rip Current,” joins Meet the Press NOW to discuss tensions between the Department of Defense and AI giant Anthropic, as the Pentagon issues an ultimatum the company’s demand for guardrails. Matt Dixon reports on Florida Republican Gov. Ron DeSantis’ concerns regarding the rapid expansion of artificial intelligence.",
+      "keywords": [
+        "intelligence",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.817Z"
+    },
+    {
+      "id": "ed804ec42f79",
+      "title": "Amid Trump's touting of a 'golden age of America,' gory details abound",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-state-of-the-union-golden-age-america-gory-details-rcna260571",
+      "source": "NBC News",
+      "published": "2026-02-26T20:03:00.000Z",
+      "description": "The state of the union is strong, in President Donald Trump's telling, but also predatory and dangerous",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.949Z"
+    },
+    {
+      "id": "f4934003ec30",
+      "title": "Pilot who helped capture Maduro honored by Trump in camera-ready moment",
+      "url": "https://www.nbcnews.com/politics/white-house/pilot-helped-capture-maduro-honored-trump-camera-ready-moment-rcna260669",
+      "source": "NBC News",
+      "published": "2026-02-26T18:05:31.000Z",
+      "description": "A member of the U.S. special forces whose identity prepared for a high-stakes raid to capture Nicolas Maduro. Now he has the Medal of Honor.",
+      "keywords": [
+        "raid",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.002Z"
+    },
+    {
+      "id": "7234348d97a3",
+      "title": "What the polls say about how Americans are using AI",
+      "url": "https://www.nbcnews.com/politics/politics-news/polls-say-americans-are-using-ai-more-work-personal-rcna260422",
+      "source": "NBC News",
+      "published": "2026-02-26T17:37:38.000Z",
+      "description": "Americans are increasingly encountering and using artificial intelligence technologies like Anthropic’s Claude, OpenAI’s ChatGPT and Google’s Gemini.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.035Z"
+    },
+    {
+      "id": "3151da354784",
+      "title": "Photo of Lutnick on Epstein's island removed from DOJ files now restored",
+      "url": "https://www.cbsnews.com/news/photo-of-howard-lutnick-on-epsteins-island-was-removed-from-justice-department-files/",
+      "source": "CBS News",
+      "published": "2026-02-27T05:19:35.000Z",
+      "description": "A photo released last month as part of the Epstein files that showed Commerce Secretary Howard Lutnick with convicted sex offender Jeffrey Epstein on Epstein's island was removed from the DOJ's website before being restored Thursday night.",
+      "keywords": [
+        "DOJ"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.940Z"
+    },
+    {
+      "id": "c5d3d9d099ce",
+      "title": "Pentagon shoots down Customs and Border Protection drone in Texas, officials say",
+      "url": "https://www.cbsnews.com/news/pentagon-shoots-down-customs-and-border-protection-drone-texas/",
+      "source": "CBS News",
+      "published": "2026-02-27T05:07:00.000Z",
+      "description": "The Defense Department on Wednesday shot down a U.S. Customs and Border Protection drone in southwest Texas, federal officials confirmed to CBS News.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:42.932Z"
+    },
+    {
+      "id": "a846d517bdc6",
+      "title": "Columbia student released after being detained by DHS agents",
+      "url": "https://www.cbsnews.com/news/columbia-university-student-detained-by-federal-agents/",
+      "source": "CBS News",
+      "published": "2026-02-27T04:26:50.000Z",
+      "description": "The Department of Homeland Security said ICE agents detained Elmina \"Ellie\" Aghayeva at Columbia University Thursday, saying her student visa was revoked in 2016. She was later released.",
+      "keywords": [
+        "ICE",
+        "detained",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.160Z"
+    },
+    {
+      "id": "66b184fce3ef",
+      "title": "Federal Reserve seeking to quash subpoenas in DOJ investigation, source says",
+      "url": "https://www.cbsnews.com/news/federal-reserve-seeking-to-quash-subpoenas-in-doj-investigation-source-says/",
+      "source": "CBS News",
+      "published": "2026-02-27T02:34:21.000Z",
+      "description": "The Federal Reserve has been mounting a closed-door effort to block the Justice Department's subpoenas for chairman Jerome Powell, CBS News has learned.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.143Z"
+    },
+    {
+      "id": "2c324ff21f74",
+      "title": "Prosecutor defends human smuggling charges against Kilmar Abrego Garcia",
+      "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
+      "source": "CBS News",
+      "published": "2026-02-27T01:26:00.000Z",
+      "description": "A federal judge is weighing whether to dismiss the criminal case against Kilmar Abrego Garcia on the grounds the prosecution is vindictive.",
+      "keywords": [
+        "prosecutor"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.139Z"
+    },
+    {
+      "id": "694f4d3eb5f4",
+      "title": "Pentagon locked in standoff with Anthropic over AI guardrails",
+      "url": "https://www.cbsnews.com/video/pentagon-locked-in-standoff-with-anthropic-over-ai-guardrails/",
+      "source": "CBS News",
+      "published": "2026-02-27T00:53:00.000Z",
+      "description": "With less than 24 hours left, Anthropic and the Pentagon are locked in a standoff over access to the company's powerful artificial intelligence. Jo Ling Kent reports.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.247Z"
+    },
+    {
+      "id": "d33d43e35491",
+      "title": "About a dozen FBI staff who worked on Trump documents case fired, sources say",
+      "url": "https://www.cbsnews.com/news/about-a-dozen-fbi-staff-who-worked-on-trump-documents-case-fired-over-two-days-sources-say/",
+      "source": "CBS News",
+      "published": "2026-02-27T00:44:00.000Z",
+      "description": "At least 10 FBI employees were fired Wednesday, after FBI Director Kash Patel alleged former special counsel Jack Smith had subpoenaed his phone records.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "subpoena",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.142Z"
+    },
+    {
+      "id": "62e1097917b7",
+      "title": "American among those killed on speedboat in Cuban waters, White House confirms",
+      "url": "https://www.cbsnews.com/news/american-among-those-killed-speedboat-cuban-waters-white-house-confirms/",
+      "source": "CBS News",
+      "published": "2026-02-27T00:29:54.000Z",
+      "description": "At least one U.S. citizen was also among the six who were wounded and arrested by Cuban authorities, a U.S. official said.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.361Z"
+    },
+    {
+      "id": "2c2ac37a9af0",
+      "title": "NYC Mayor Zohran Mamdani meets with President Trump to talk housing",
+      "url": "https://www.cbsnews.com/news/zohran-mamdani-president-trump-white-house-meeting/",
+      "source": "CBS News",
+      "published": "2026-02-26T23:28:59.000Z",
+      "description": "New York City Mayor Zohran Mamdani traveled to Washington, D.C., Thursday to meet with President Trump.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.371Z"
+    },
+    {
+      "id": "8047bfa54ce2",
+      "title": "Judge rules construction of Trump's White House ballroom can continue for now",
+      "url": "https://www.cbsnews.com/news/white-house-ballroom-construction-preservationist-group-lawsuit/",
+      "source": "CBS News",
+      "published": "2026-02-26T18:11:00.000Z",
+      "description": "U.S. District Judge Richard Leon ruled Thursday that the legal challenge brought by a preservationist group failed because the White House is not a government agency.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.349Z"
+    },
+    {
+      "id": "b274b8f5dced",
+      "title": "Trump administration asks Supreme Court to allow end of TPS for Syrians",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-syria-temporary-protected-status-tps/",
+      "source": "CBS News",
+      "published": "2026-02-26T15:36:21.000Z",
+      "description": "The Trump administration asked the Supreme Court on Thursday to allow it to end temporary deportation protections for thousands of Syrian immigrants living in the U.S.",
+      "keywords": [
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.399Z"
+    },
+    {
+      "id": "2152b264551a",
+      "title": "Russia says \"no deadlines\" for Ukraine ceasefire as Trump pushes for deal",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-no-rush-for-peace-moscow-says-despite-trump-push/",
+      "source": "CBS News",
+      "published": "2026-02-26T14:54:22.000Z",
+      "description": "As U.S. and Ukrainian officials meet to talk peace, Russia launches drones and missiles and makes it clear there's no rush in Moscow for a ceasefire.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.356Z"
+    },
+    {
+      "id": "e5db0b2c2069",
+      "title": " Trump heads to Texas, where 3 friends are battling it out in the Senate Republican primary",
+      "url": "https://abcnews.com/Politics/wireStory/trump-heads-texas-3-friends-battling-senate-republican-130554953",
+      "source": "ABC News",
+      "published": "2026-02-27T05:49:27.000Z",
+      "description": "President Donald Trump heads to Texas on Friday, his first trip after his State of the Union address",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.497Z"
+    },
+    {
+      "id": "332b10d35934",
+      "title": " Republican voter ID bill stalls in Senate despite Trump demands",
+      "url": "https://abcnews.com/Politics/wireStory/republican-voter-id-bill-stalls-senate-despite-trump-130546216",
+      "source": "ABC News",
+      "published": "2026-02-27T00:23:54.000Z",
+      "description": "Election-year legislation to impose strict new proof-of-citizenship requirements on voting appears stalled in the Senate, for now, despite President Donald Trump’s call in his State of the Union speech that Republicans in Congress pass the bill “before...",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.507Z"
+    },
+    {
+      "id": "bbd90da73bd8",
+      "title": " Los Angeles Board of Education to discuss school superintendent after FBI searched his home",
+      "url": "https://abcnews.com/Politics/wireStory/los-angeles-board-education-discuss-school-superintendent-after-130536049",
+      "source": "ABC News",
+      "published": "2026-02-27T04:05:30.000Z",
+      "description": "The governing board of the Los Angeles Unified School District will meet in a closed session a day after the FBI served search warrants at the district’s headquarters and the home of its superintendent",
+      "keywords": [
+        "FBI",
+        "search warrant"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.499Z"
+    },
+    {
+      "id": "790eaabbf59b",
+      "title": "Texas airspace shut after Pentagon shoots down border patrol drone",
+      "url": "https://www.axios.com/2026/02/27/texas-airspace-closed-drone-laser-pentagon-us-border-mexico",
+      "source": "Axios",
+      "published": "2026-02-27T06:06:00.000Z",
+      "description": "The Federal Aviation Administration prohibited flights in a Texas region near the border with Mexico after the Defense Department accidentally shot down a border patrol drone on Thursday, an administration official told Axios.\nThe big picture: Per an FAA notice, the agency issued airspace restrictions \"for Special Security Reasons\" after the Pentagon shot down the drone in the area around Fort Hancock, just over 50 miles southeast of El Paso — the scene of a similar airspace closure earlier this",
+      "keywords": [
+        "ICE",
+        "white house",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.516Z"
+    },
+    {
+      "id": "835da9efa757",
+      "title": "\"Absolutely infuriating\": House Democrats' campaign arm faces revolt from candidates",
+      "url": "https://www.axios.com/2026/02/26/democrat-primary-dccc-party-leadership-candidates",
+      "source": "Axios",
+      "published": "2026-02-27T01:05:05.000Z",
+      "description": "The Democratic Congressional Campaign Committee is coming under fire from an unlikely adversary: Outsider Democratic congressional candidates.\nWhy it matters: It's a rare moment of internal party infighting spilling out into public view, with candidates raging that the House Democratic campaign arm picked favorites by endorsing a dozen candidates earlier this week.\n\n\"We are six months out from a primary ... it is absolutely infuriating,\" said Jason Knapp, a candidate in Virginia's 1st Congressio",
+      "keywords": [
+        "election",
+        "ballot",
+        "ICE",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.498Z"
+    },
+    {
+      "id": "acd921d11cba",
+      "title": "Top U.S. commander in the Middle East briefs Trump on Iran options",
+      "url": "https://www.axios.com/2026/02/27/trump-iran-middle-east-military-options",
+      "source": "Axios",
+      "published": "2026-02-27T01:02:26.000Z",
+      "description": "The top U.S. military commander in the Middle East briefed President Trump on Thursday about the options for military action against Iran, according to a U.S. official and a source with knowledge of the meeting. \nWhy it matters: This was the first time the commander of the U.S. military Central Command Adm. Brad Cooper briefed Trump since the beginning of the crisis with Iran last December. \n\nTrump has order a massive U.S. military build up in the Middle East and he is considering ordering a mil",
+      "keywords": [
+        "white house",
+        "USAID",
+        "trump",
+        "USAID"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.624Z"
+    },
+    {
+      "id": "f74734ecde0e",
+      "title": "Netflix says it won't raise bid for Warner Bros.",
+      "url": "https://www.axios.com/2026/02/26/paramount-skydance-superior-offer-wbd",
+      "source": "Axios",
+      "published": "2026-02-27T00:56:20.000Z",
+      "description": "Netflix said Thursday that it won't raise its bid for Warner Bros. Discovery's streaming and studio assets, allowing Paramount Skydance to emerge as the winning bidder. \nWhy it matters: The statement came shortly after WBD's board announced that Paramount's revised bid of $31 per share was superior to its deal with Netflix.\n\nWhat they're saying: Netflix co-CEOs Ted Sarandos and Greg Peters said in a statement that their deal \"would have created shareholder value with a clear path to regulatory a",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.653Z"
+    },
+    {
+      "id": "f2c1f0d73287",
+      "title": "Hillary Clinton testifies she never met Epstein, accuses GOP of \"cover-up\"",
+      "url": "https://www.axios.com/2026/02/26/hillary-clinton-deposition-epstein-investigation-house-oversight",
+      "source": "Axios",
+      "published": "2026-02-26T23:29:43.000Z",
+      "description": "Former Secretary of State Hillary Clinton testified that she has no new information regarding Jeffrey Epstein's criminal activities during a deposition before the House Oversight Committee on Thursday. \nWhy it matters: Bill and Hillary Clinton's depositions on Thursday and Friday mark the first time a former first couple has appeared before a congressional panel under subpoena. \n\n\"I don't know how many times I had say I did not know Jeffrey Epstein. I never went to his island. I never went to hi",
+      "keywords": [
+        "ICE",
+        "subpoena",
+        "johnson",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.629Z"
+    },
+    {
+      "id": "529774713e8e",
+      "title": "Anthropic says Pentagon's \"final offer\" is unacceptable",
+      "url": "https://www.axios.com/2026/02/26/anthropic-rejects-pentagon-ai-terms",
+      "source": "Axios",
+      "published": "2026-02-26T23:20:27.000Z",
+      "description": "Anthropic on Thursday said there has been \"virtually no progress\" on negotiations with the Pentagon, as CEO Dario Amodei said it could not accept what defense officials had labeled their final offer on AI safeguards.\nWhy it matters: A deadline of Friday at 5:01pm is fast approaching for Anthropic to let the Pentagon use its model Claude as it sees fit or potentially face severe consequences. \n\nWhat they're saying: \"The contract language we received overnight from the Department of War made virtu",
+      "keywords": [
+        "classified",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.618Z"
+    },
+    {
+      "id": "1ca916c4d478",
+      "title": "Mamdani charms Trump, pushes housing and gets ICE detainee released",
+      "url": "https://www.axios.com/2026/02/26/mamdani-trump-housing-ice-detainee",
+      "source": "Axios",
+      "published": "2026-02-26T22:51:58.000Z",
+      "description": "New York City Mayor Zohran Mamdani had what he called a \"productive\" meeting with President Trump on Thursday, charming the president with a mocked-up tabloid newspaper featuring his likeness.\nWhy it matters: Mamdani and Trump have developed an unexpected, made-for-TV relationship despite their vast political differences.\n\nThe democratic socialist mayor and the Republican president had a shockingly cordial White House meeting in November, and have even texted back and forth since then. \nNow Mamd",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.894Z"
+    },
+    {
+      "id": "db407806c55d",
+      "title": "U.S.-Iran nuclear talks were \"positive,\" senior U.S. official says",
+      "url": "https://www.axios.com/2026/02/26/iran-nuclear-talks-geneva",
+      "source": "Axios",
+      "published": "2026-02-26T20:29:59.000Z",
+      "description": "Thursday's nuclear negotiations between the U.S. and Iran in Geneva led to understandings on some issues and left gaps on others, with another round set for next week, Iran's foreign minister said at the conclusion of the talks.\n\nA senior U.S. official told Axios the talks were \"positive\" but did not immediately provide additional details.\n\nWhy it matters: The meeting was seen by many in the Trump administration as a last chance for diplomacy before President Trump decides whether to launch a wa",
+      "keywords": [
+        "USAID",
+        "trump",
+        "USAID"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.012Z"
+    },
+    {
+      "id": "beb5db99ed52",
+      "title": "Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard",
+      "url": "https://www.axios.com/2026/02/26/us-americans-cuba-boat-shooting-rubio",
+      "source": "Axios",
+      "published": "2026-02-26T20:02:10.000Z",
+      "description": "The 24-foot boat involved in a deadly clash with Cuba's coast guard was stolen in the Florida Keys and had American citizens aboard, U.S. officials tell Axios.\nWhy it matters: Four people were killed and six injured in the incident Wednesday, the latest source of tension between the U.S. and Cuba as the Trump administration increases pressure on the island's communist regime to change.\n\nSecretary of State Marco Rubio said the U.S. is investigating the incident and has officially asked Cuba for a",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.050Z"
+    },
+    {
+      "id": "4e5a8de045fa",
+      "title": "Leaked photo briefly derails Hillary Clinton deposition",
+      "url": "https://www.axios.com/2026/02/26/hillary-clinton-epstein-deposition-leaked-photo",
+      "source": "Axios",
+      "published": "2026-02-26T18:24:57.000Z",
+      "description": "Former Secretary of State Hillary Clinton's deposition before the House Oversight Committee was paused Thursday afternoon after Rep. Lauren Boebert (R-Colo.) took an unauthorized photo of Clinton and sent it to conservative influencer Benny Johnson. \nWhy it matters: Taking a photo during an ongoing deposition and sharing it on social media is a violation of House rules. \n\nJohnson posted the image of the closed-door proceeding on X, writing that Boebert shared the photo with him. \nHillary Clinton",
+      "keywords": [
+        "subpoena",
+        "johnson"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.995Z"
+    },
+    {
+      "id": "f9dffba531a8",
+      "title": "Americans fear Iran but question Trump's judgment: poll",
+      "url": "https://www.axios.com/2026/02/26/iran-trump-nuclear-talks-trust-poll-ap-norc",
+      "source": "Axios",
+      "published": "2026-02-26T18:17:02.000Z",
+      "description": "Data: AP-NORC; Chart: Kavya Beheraj/Axios\nMost U.S. adults are concerned about the threat Iran poses to the U.S., but a majority say they don't trust President Trump's handling of foreign affairs, according to a new AP-NORC poll. \nWhy it matters: Thursday's nuclear talks between the Trump administration and Iran could be the last chance for a diplomatic solution before the president opts for military action.\n\n\"The President has been clear that his preference is to solve this problem through dipl",
+      "keywords": [
+        "raid",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.159Z"
+    },
+    {
+      "id": "e09f5635df30",
+      "title": "House Democratic leaders to force vote on reining in Trump's Iran war powers",
+      "url": "https://www.axios.com/2026/02/26/democrats-iran-war-powers-vote-trump",
+      "source": "Axios",
+      "published": "2026-02-26T18:04:52.000Z",
+      "description": "House Democratic leadership on Thursday announced plans to force a vote next week on a resolution that would require President Trump to seek congressional authorization to use military force in Iran.\nWhy it matters: The vote has a chance to pass in the House, with even some House Republicans expressing opposition as the White House inches closer to a potential major war in the Middle East.\n\nRep. Thomas Massie (R-Ky.), a staunch anti-interventionist, is leading the war powers effort with progress",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "unconstitutional",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:43.996Z"
+    },
+    {
+      "id": "03685f3d0e59",
+      "title": "Mortgage rate dips below 6% for the first time since 2022",
+      "url": "https://www.axios.com/2026/02/26/mortgage-rate-6-percent",
+      "source": "Axios",
+      "published": "2026-02-26T17:24:35.000Z",
+      "description": "Data: Freddie Mac via Fred; Chart: Axios Visuals\nThe average rate on the 30-year mortgage dipped below 6% for the first time since 2022, per closely watched Freddie Mac data released Thursday.\nWhy it matters:  Lower home loan rates may help juice the housing market, which has been in the dumps since interest rates first spiked four years ago.\n\nBetween the lines: It's also a boost for President Trump, who boasted about mortgage rates coming down in his State of the Union's address Tuesday.\nYes, b",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.277Z"
+    },
+    {
+      "id": "f8357cda5b45",
+      "title": "AI \"hot takes\" are becoming a market risk",
+      "url": "https://www.axios.com/2026/02/26/ai-blog-posts-market-citrini",
+      "source": "Axios",
+      "published": "2026-02-26T16:58:29.000Z",
+      "description": "Companies across sectors are confronting an increasingly unavoidable narrative: AI can replicate your business. \nWhy it matters: Narrative volatility is a new risk category that communications teams must prepare for in the age of AI.\n\nAll it takes is one widely read doomsday essay, research paper or X thread to knock billions off a company's market cap.\n\nCase in point: A viral 7,000-word memo that warned of a hypothetical AI future — in which companies rush to replace human workers with AI tools",
+      "keywords": [
+        "ICE",
+        "cybersecurity",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.276Z"
+    },
+    {
+      "id": "4bf634534828",
+      "title": "Economists are questioning the K-shaped economy narrative",
+      "url": "https://www.axios.com/2026/02/26/us-economy-stock-market",
+      "source": "Axios",
+      "published": "2026-02-26T16:55:11.000Z",
+      "description": "The K-shaped economy — wealthy Americans propping up consumer spending while poorer consumers increasingly pull back — has become the economic consensus. \n\nOne big problem: Some economists warn that the narrative has outrun the data supporting it.\n\nWhy it matters: The narrative has seeped into how CEOs explain spending patterns and how economic policymakers think about risk. Getting this wrong may make the economy look more resilient than it is, with less of a shock absorber than previously beli",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.252Z"
+    },
+    {
+      "id": "4358e3cab240",
+      "title": "The Epstein files keep toppling the powerful. The latest: the man who runs Davos.",
+      "url": "https://www.axios.com/2026/02/26/wef-ceo-resigns-epstein-files-fallout-brende",
+      "source": "Axios",
+      "published": "2026-02-26T14:50:36.000Z",
+      "description": "World Economic Forum leader Børge Brende announced his resignation Thursday, the latest casualty of the Epstein files fallout rocking business, politics and academia.\nThe big picture: The files have captured some of the world's most powerful people in a far-reaching shadow of shame, effectively ending the careers of captains of industry, academic big shots and prominent politicians. And the dominoes keep falling.\n\nThe latest: Brende resigned as CEO and president of the WEF, roughly a month after",
+      "keywords": [
+        "ICE",
+        "white house",
+        "corruption"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.342Z"
+    },
+    {
+      "id": "423e877edcf9",
+      "title": "Tech ratepayer pledge may be more bark than bite — but still matters",
+      "url": "https://www.axios.com/2026/02/26/big-tech-ratepayer-pledge-trump",
+      "source": "Axios",
+      "published": "2026-02-26T13:42:25.000Z",
+      "description": "Big Tech's coming vow to pay for its own power amid the data center boom may be light on policy specifics. But it could still pack a political punch.\nWhy it matters: Electricity markets are largely regulated at the state and regional levels, limiting Washington's direct sway.\n\nEven so, the White House-tech initiative \"is a big bully pulpit that could influence state economic regulators around the country even if it lacks an implementation plan or regulatory teeth,\" said Rob Gramlich, founder of ",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.270Z"
+    },
+    {
+      "id": "5ce3fb9b809c",
+      "title": "Republican revolt derails ICE detention facility plans",
+      "url": "https://www.axios.com/2026/02/26/ice-detention-center-republican-gop-nimby",
+      "source": "Axios",
+      "published": "2026-02-26T13:37:02.000Z",
+      "description": "ICE is on a multi-billion-dollar quest for new immigration detention facilities, but they're increasingly facing pushback from an unlikely foe: Republicans.\nWhy it matters: The Trump administration has prioritized investing tens of billions of dollars to increase how many people it can hold in immigration detention, and ICE has a limited amount of time to spend it.\n\nWhile Republicans may back the president's immigration blitz on a national level, they've been leading voices of local pushback aga",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "trump",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.431Z"
+    },
+    {
+      "id": "9b407bed8136",
+      "title": "Wesley Hunt points to Vance, Scott in defending missed votes",
+      "url": "https://thehill.com/homenews/campaign/5758334-wesley-hunt-defends-missed-votes/",
+      "source": "The Hill",
+      "published": "2026-02-27T04:07:02.000Z",
+      "description": "Rep. Wesley Hunt (R-Texas) on Thursday defended his missed votes in the House by pointing to Senate votes missed by Sen. Tim Scott (R-S.C.) and Vice President Vance when he represented Ohio. Hunt was questioned about his voting record in an appearance on “The Will Cain Show” on Fox News. Host Will Cain said Hunt…",
+      "keywords": [
+        "voting",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.449Z"
+    },
+    {
+      "id": "7385957a0b2e",
+      "title": "Vance: ‘No chance’ any Iran strikes would lead to long war in Middle East",
+      "url": "https://thehill.com/homenews/administration/5758310-vance-defends-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-27T03:33:53.000Z",
+      "description": "Vice President Vance on Thursday defended the U.S. potentially launching military strikes on Iran, saying there was “no chance” that it would lead to a longer war in the Middle East. Vance said in an interview with The Washington Post that the strikes would be a deterrent to prevent Iran from developing a nuclear weapon…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.557Z"
+    },
+    {
+      "id": "22afdb72f8f3",
+      "title": "Denver mayor bans federal immigration agents from city property",
+      "url": "https://thehill.com/homenews/state-watch/5758220-denver-mayor-bans-ice/",
+      "source": "The Hill",
+      "published": "2026-02-27T01:43:41.000Z",
+      "description": "Denver Mayor Mike Johnston (D) on Thursday announced that federal immigration agents are banned from city property while also mandating Denver law enforcement to protect protesters. Johnston issued the ban via an executive order. The order mandates that Denver police and sheriff’s deputies document federal immigration officers with body cameras, give life-saving aid to someone…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "executive order"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.438Z"
+    },
+    {
+      "id": "764c8ee9fc40",
+      "title": "ICE, Maryland sheriffs slam new state law prohibiting cooperation agreements",
+      "url": "https://thehill.com/homenews/state-watch/5758182-ice-maryland-sheriffs-law-enforcement/",
+      "source": "The Hill",
+      "published": "2026-02-27T01:00:22.000Z",
+      "description": "Immigration and Customs Enforcement (ICE) and Maryland sheriffs on Thursday slammed a new state law that bars cooperation agreements between federal immigration officers and local authorities. ICE accused Maryland lawmakers of allowing Americans to become “hurt or, worse, killed by criminal aliens,” the agency posted on the social platform X. The post included a video…",
+      "keywords": [
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.456Z"
+    },
+    {
+      "id": "a31755938011",
+      "title": "Anthropic says ‘virtually no progress’ on Pentagon AI talks as deadline looms",
+      "url": "https://thehill.com/policy/technology/5758006-anthropic-pentagon-ai-talks-stall/",
+      "source": "The Hill",
+      "published": "2026-02-26T23:26:44.000Z",
+      "description": "Anthropic said Thursday that “virtually no progress” had been made in the company’s talks with the Pentagon over the terms of use for its AI models ahead of a Friday afternoon deadline. The Department of Defense (DOD) delivered its last and final offer to the company on Wednesday night, asking the firm to allow the…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.676Z"
+    },
+    {
+      "id": "9634d11aa233",
+      "title": "More than 32M watched Trump’s 2026 State of the Union Address",
+      "url": "https://thehill.com/homenews/media/5757865-trump-state-union-address-viewership/",
+      "source": "The Hill",
+      "published": "2026-02-26T23:09:12.000Z",
+      "description": "More than 32 million people tuned in to watch President Trump’s annual State of the Union Address on Tuesday night, according to Nielsen Media Research. The 32.6 million figure is down from the 36 million who watched the president’s first address to Congress of his second term last year, but it ranks slightly higher than…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.669Z"
+    },
+    {
+      "id": "1a3b00862f17",
+      "title": "Paxton’s daughter defends him against Cornyn’s attacks",
+      "url": "https://thehill.com/homenews/campaign/5757926-paxton-daughter-defends-father/",
+      "source": "The Hill",
+      "published": "2026-02-26T23:01:56.000Z",
+      "description": "The daughter of Texas Attorney General Ken Paxton (R) is coming to her father’s defense amid political ad attacks targeting his U.S. Senate campaign.  Paxton is running to unseat Sen. John Cornyn (R-Texas) and will face off against the senator and Rep. Wesley Hunt (R-Texas) in the March 3 primary.  The attorney general has been…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.686Z"
+    },
+    {
+      "id": "5740f81985b0",
+      "title": "GOP senators warn Justice Department to release all Epstein files mentioning Trump",
+      "url": "https://thehill.com/homenews/senate/5757945-trump-epstein-files-release/",
+      "source": "The Hill",
+      "published": "2026-02-26T22:58:30.000Z",
+      "description": "Republican senators are putting pressure on Attorney General Pam Bondi and the Justice Department to release all files related to convicted sex offender Jeffrey Epstein that mention President Trump’s name, warning the issue won’t go away until there is full transparency. GOP senators are urging the Justice Department to fully comply with the Epstein Files…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.875Z"
+    },
+    {
+      "id": "583ad100674c",
+      "title": "Mamdani touts productive meeting with Trump on housing",
+      "url": "https://thehill.com/homenews/administration/5757893-mamdani-trump-meet-housing-plans/",
+      "source": "The Hill",
+      "published": "2026-02-26T22:56:37.000Z",
+      "description": "New York City Mayor Zohran Mamdani on Thursday touted his “productive” meeting with President Trump at the White House, during which the mayor said they discussed the prospect of building more housing in their shared hometown. “I had a productive meeting with President Trump this afternoon,” Mamdani wrote in a post on the social platform…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.680Z"
+    },
+    {
+      "id": "4bfb997efca6",
+      "title": "Power plant pollution rose last year, green group analysis finds",
+      "url": "https://thehill.com/policy/energy-environment/5757847-trump-epa-power-plant-pollution/",
+      "source": "The Hill",
+      "published": "2026-02-26T22:23:40.000Z",
+      "description": "U.S. power plant pollution rose last year, according to a green group’s analysis of Environmental Protection Agency (EPA) data. Emissions of sulfur dioxide increased by 18 percent in 2025, according to an analysis of the EPA data by the Natural Resources Defense Council, an environmental advocacy group. The group found that plants’ nitrogen oxide emissions increased…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.969Z"
+    },
+    {
+      "id": "1e2900166d88",
+      "title": "US threatens to cut off Swiss bank from financial system over alleged Iran, Russia ties",
+      "url": "https://thehill.com/homenews/administration/5757763-treasury-threatens-mbaer-swiss-bank/",
+      "source": "The Hill",
+      "published": "2026-02-26T22:18:57.000Z",
+      "description": "The Treasury Department on Thursday threatened to cut off MBaer Merchant Bank AG’s access to U.S. financial institutions over the Swiss bank’s alleged ties to sanctioned Iranian and Russian actors. The Treasury Department accused MBaer and its employees of enabling corruption linked to Russian money laundering, as well as money laundering and terrorist financing on…",
+      "keywords": [
+        "corruption",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:45.011Z"
+    },
+    {
+      "id": "b05cf0aeec71",
+      "title": "Columbia student released from ICE custody hours after arrest",
+      "url": "https://thehill.com/homenews/education/5757727-columbia-student-aghayeva-trump-ice-dhs/",
+      "source": "The Hill",
+      "published": "2026-02-26T22:06:51.000Z",
+      "description": "Columbia University student Ellie Aghayeva was released by immigration enforcement Thursday afternoon after she was detained at a school residential building early in the morning.   Aghayeva said in an Instagram post she is on her way home and in “complete shock” over the incident.   The Hill has reached out to Columbia and the Department of Homeland Security (DHS) for comment.   Columbia had…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.992Z"
+    },
+    {
+      "id": "02c3e9eac3a6",
+      "title": "Trump administration faces first big tariff refund court deadline on Friday ",
+      "url": "https://www.cnbc.com/2026/02/26/trump-tariff-refunds-doj-court-deadline.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-26T22:34:35.000Z",
+      "description": "Trump's DOJ has until Friday to decide on moving a tariff refund case to the Court of International Trade, the first deadline since the Supreme Court decision.",
+      "keywords": [
+        "DOJ",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.979Z"
+    },
+    {
+      "id": "1b883291fe84",
+      "title": "Netflix CEO Sarandos visited White House right before streamer said WBD deal is off",
+      "url": "https://www.cnbc.com/2026/02/26/netflix-sarandos-trump-white-house-wbd-paramount.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T01:02:51.000Z",
+      "description": "President Donald Trump last weekend demanded that Netflix fire former Obama administration official Susan Rice from its board or else “pay the consequences.”",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:44.970Z"
+    },
+    {
+      "id": "19326ffcde5e",
+      "title": "Columbia U. student Elmina Aghayeva released from ICE custody after Trump, NY mayor meeting ",
+      "url": "https://www.cnbc.com/2026/02/26/columbia-ice-dhs-immigration-detainment.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T03:28:36.000Z",
+      "description": "Elmina Aghayev was taken into custody by ICE agents from a student residential building owned by Columbia University.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:45.205Z"
+    },
+    {
+      "id": "93fa0307fae3",
+      "title": "Congress takes on Nvidia, White House as it pushes for chip export limits",
+      "url": "https://www.cnbc.com/2026/02/26/congress-pushes-back-on-nvidia-white-house-with-chip-export-limits.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-26T17:41:11.000Z",
+      "description": "A bipartisan group of lawmakers in both chambers is working to limit advanced chip exports to China.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:45.139Z"
+    },
+    {
+      "id": "de83e5aead5f",
+      "title": "Warren calls Trump’s bluff on affordability after State of the Union",
+      "url": "https://www.cnbc.com/2026/02/26/warren-calls-trumps-bluff-on-affordability-after-state-of-the-union.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-26T17:56:40.000Z",
+      "description": "Trump laid blame on Democrats for affordability and argued his administration has solved the problem, as polls consistently show increased concern from voters.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:45.127Z"
+    },
+    {
+      "id": "de6cd61354db",
+      "title": "The ‘Cataclysmic’ Reality Behind Trump and the GOP’s Voter ID Bill",
+      "url": "https://www.rollingstone.com/politics/politics-features/save-act-trump-voter-id-bill-disastrous-elections-1235522340/",
+      "source": "Rolling Stone",
+      "published": "2026-02-26T17:15:00.000Z",
+      "description": "The president and Republicans in Congress are doing all they can to stifle registration ahead of the midterms",
+      "keywords": [
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-27T06:14:45.200Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-26T12:10:18.073Z"
+  "lastFetch": "2026-02-27T06:14:45.205Z"
 }
