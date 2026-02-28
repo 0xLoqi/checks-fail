@@ -31345,8 +31345,534 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-28T12:03:55.517Z"
+    },
+    {
+      "id": "9a0aac90d816",
+      "title": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction",
+      "source": "NPR Politics",
+      "published": "2026-02-28T12:56:10.000Z",
+      "description": "Top lawmakers were notified about the operation shortly before it was launched, but the White House did not seek authorization from Congress to carry out the strikes.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.756Z"
+    },
+    {
+      "id": "df1f07ccb87f",
+      "title": "Week in Politics: Does Trump have political support for his actions in Iran?",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5725402/week-in-politics-does-trump-have-political-support-for-his-actions-in-iran",
+      "source": "NPR Politics",
+      "published": "2026-02-28T12:56:00.000Z",
+      "description": "We look at what President Trump's decision to attack Iran means, what kind of support he has in Iran and what this moment means for his administration.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.722Z"
+    },
+    {
+      "id": "f012e6ab83a5",
+      "title": "North Carolina Democrats latest to chart future of the party in congressional primary",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam",
+      "source": "NPR Politics",
+      "published": "2026-02-28T12:00:00.000Z",
+      "description": "In a safe Democratic seat in North Carolina, a match-up between a two-term Congresswoman and a progressive local official show how Democrats are charting the future of their party in the age of Trump.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.764Z"
+    },
+    {
+      "id": "6a5bc6a4690b",
+      "title": "Live Updates: U.S. and Israel attack Iran",
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-02-28T14:15:02.000Z",
+      "description": "The United States and Israel launched an attack Saturday on Iran, with the first apparent strike happening near the offices of Supreme Leader Ayatollah Ali Khamenei.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.763Z"
+    },
+    {
+      "id": "188d9a19c150",
+      "title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
+      "url": "https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055",
+      "source": "NBC News",
+      "published": "2026-02-27T21:30:15.000Z",
+      "description": "President Donald Trump said Friday that he was banning federal agencies from using the services of AI company Anthropic",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.877Z"
+    },
+    {
+      "id": "98d74eb3be49",
+      "title": "Iranian foreign minister: Iran's supreme leader is still alive 'as far as I know’",
+      "url": "https://www.nbcnews.com/video/iran-s-foreign-minister-says-supreme-leader-is-still-alive-as-far-as-i-know-258484293659",
+      "source": "NBC News",
+      "published": "2026-02-28T15:09:05.000Z",
+      "description": "Iran’s supreme leader, Ayatollah Ali Khamenei, is still alive \"as far as I know,\" the country's foreign minister has said in an exclusive interview with NBC News. Speaking live from Tehran after the joint strikes by the U.S. and Israel, Abbas Araghchi said two commanders had died but senior officials in the regime had survived including the head of the judiciary and the parliament speaker.",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.882Z"
+    },
+    {
+      "id": "16bb12f35a6d",
+      "title": "How both sides of Congress are reacting to the strikes in Iran",
+      "url": "https://www.nbcnews.com/video/how-both-sides-of-congress-are-reacting-to-the-strikes-in-iran-258481733829",
+      "source": "NBC News",
+      "published": "2026-02-28T14:42:39.000Z",
+      "description": "Members of Congress are reacting to the strikes in Iran carried out by the U.S. and Israel with Democrats calling for oversight and a vote on whether to sustain the military operation. NBC News' Kristen Welker reports on how President Donald Trump's allies are reacting to his administration's action.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.885Z"
+    },
+    {
+      "id": "0588c40d1ed5",
+      "title": "U.S. lawmakers react after Trump launches military operation against Iran",
+      "url": "https://www.cbsnews.com/news/iran-strikes-trump-administration-united-states-lawmakers/",
+      "source": "CBS News",
+      "published": "2026-02-28T15:38:54.000Z",
+      "description": "Trump ally Sen. Lindsey Graham said the operation would be \"violent, extensive and I believe, at the end of the day, successful.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.883Z"
+    },
+    {
+      "id": "c4b727e32761",
+      "title": "How world leaders are reacting to U.S.-Israel strikes on Iran",
+      "url": "https://www.axios.com/2026/02/28/iran-strike-us-israel-eu-world-leaders",
+      "source": "Axios",
+      "published": "2026-02-28T16:57:29.000Z",
+      "description": "The joint U.S.–Israel strikes on Iran Saturday drew mixed reactions from around the globe.  \nThe big picture: European leaders largely called for restraint and diplomacy to avoid further escalation, while U.S. adversaries condemned President Trump's decision to pursue military action. \n\nWhat they're saying: United Nations Secretary-General António Guterres condemned the U.S. and Israel's military escalation on X.\n\n\"I call for an immediate cessation of hostilities & de-escalation,\" he said.\n\nUrsu",
+      "keywords": [
+        "ICE",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.986Z"
+    },
+    {
+      "id": "54e6c0b33615",
+      "title": "Democratic divides erupt after Trump strikes Iran",
+      "url": "https://www.axios.com/2026/02/28/iran-trump-strikes-congress-democrats-israel",
+      "source": "Axios",
+      "published": "2026-02-28T16:28:31.000Z",
+      "description": "Democratic divisions on Middle East policy roared back to the surface on Saturday after the U.S. and Israel launched what President Trump described as \"major combat operations\" in Iran.\nWhy it matters: There may be enough defections from hawkish Democrats to doom a measure Democratic leadership plans to force to a vote next week reining in Trump's war powers.\n\n\"I don't support the resolution, which would require us to completely abandon our allies,\" Rep. Greg Landsman (D-Ohio) told Axios. \n\"The ",
+      "keywords": [
+        "ICE",
+        "trump",
+        "NIH"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.059Z"
+    },
+    {
+      "id": "b98b71a8c571",
+      "title": "How the U.S. attack on Iran could shake oil prices",
+      "url": "https://www.axios.com/2026/02/28/us-iran-attack-energy-oil-prices",
+      "source": "Axios",
+      "published": "2026-02-28T14:45:29.000Z",
+      "description": "The overnight military strikes on Iran will likely push up oil prices by creating new risks to supplies from the region that's home to a large chunk of global output and transit.\nWhy it matters: Americans are about to feel the impact of the joint military operation by the U.S. and Israel.\n\nState of play: Concrete signs of the market fallout will arrive when trading on Asian exchanges opens Sunday evening.\n\nBut even as the conflict's scope and impact remains unknown, here are some possibilities a",
+      "keywords": [
+        "ICE",
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.990Z"
+    },
+    {
+      "id": "ae24519d2bf1",
+      "title": "Democrats demand war powers vote after U.S. strikes Iran",
+      "url": "https://www.axios.com/2026/02/28/trump-iran-congress-war-powers-vote",
+      "source": "Axios",
+      "published": "2026-02-28T14:09:50.000Z",
+      "description": "Democrats called Saturday for Congress to act fast on war powers resolution votes after the Trump administration launched overnight strikes on Iran. \nWhy it matters: President Trump launched the strikes without approval from Congress, triggering backlash from Democrats and one Republican. \n\nThe U.S. and Israel began \"major combat operations\" in Iran overnight with the aim of destroying the country's military capabilities and fostering regime change, Trump announced in a video statement.\n\nWhat th",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.009Z"
+    },
+    {
+      "id": "f0d5fb475861",
+      "title": "Trump strikes Iran again. Why presidents skip Congress to use military force",
+      "url": "https://www.axios.com/2026/02/28/trump-strikes-iran-congress-war-powers",
+      "source": "Axios",
+      "published": "2026-02-28T13:19:19.000Z",
+      "description": "The U.S. struck Iran overnight in the latest example of a president bypassing Congress to order military action.\nWhy it matters: The Constitution says only Congress can declare war — but Democratic and Republican presidents alike have ordered military force without authorization for more than 75 years. \n\nDriving the news: The U.S. and Israel launched strikes on Iranian senior commanders and political leaders, including Supreme Leader Ali Khamenei, in an effort to destabilize the regime\n\n\"We're g",
+      "keywords": [
+        "raid",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:50.986Z"
+    },
+    {
+      "id": "286d61264786",
+      "title": "What to know about Reza Pahlavi, a potential successor to lead Iran",
+      "url": "https://www.axios.com/2026/02/28/us-iran-leader-crown-prince-reza-pahlavi",
+      "source": "Axios",
+      "published": "2026-02-28T11:22:01.000Z",
+      "description": "Reza Pahlavi, the exiled former crown prince of Iran, is positioning himself as the \"transitional\" leader if the Islamic Republic collapses. \nThe big picture: Pahlavi has voiced confidence in President Trump and previously met with administration officials to address unrest inside Iran — relationships that could bolster his standing after the U.S.-Israel strike on Iran on Saturday. \n\n\"The assistance that the President of the United States had promised to the brave people of Iran has now arrived,",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump",
+        "authoritarian",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.157Z"
+    },
+    {
+      "id": "71c08f90a785",
+      "title": "What to know about Ali Khamenei, Iran's supreme leader",
+      "url": "https://www.axios.com/2026/02/28/iran-leader-ali-khamenei-what-to-know",
+      "source": "Axios",
+      "published": "2026-02-28T08:35:21.000Z",
+      "description": "Iranian Supreme Leader Ali Khamenei is the Middle East's longest-serving autocrat, consolidating near-absolute control in his roughly 37-year reign.\nWhy it matters: President Trump opted for military strikes in Iran after failing to reach a nuclear deal with Tehran, raising the risk that the administration will push for regime change. The first strike landed near Khamenei's office, per AP.\n\nHere's what to know about Iran's supreme leader:\nHow long has Khamenei been in power?\nKhamenei has wielded",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.148Z"
+    },
+    {
+      "id": "11d8a7af7522",
+      "title": "Canada’s Carney backs Trump on Iran",
+      "url": "https://thehill.com/policy/international/5760593-carney-supports-trump-iran-action/",
+      "source": "The Hill",
+      "published": "2026-02-28T17:37:03.000Z",
+      "description": "Canadian Prime Minister Mark Carney on Saturday backed President Trump’s strikes on Iran aimed at preventing the country from obtaining a nuclear weapon and pushed to further curb the regime’s actions. “Canada supports the United States acting to prevent Iran from obtaining a nuclear weapon and to prevent its regime from further threatening international peace…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.142Z"
+    },
+    {
+      "id": "229c623a0d09",
+      "title": "Bolton says US strikes on Iran ‘justifiable and necessary’",
+      "url": "https://thehill.com/policy/international/5760552-john-bolton-donald-trump-us-israel-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T17:09:36.000Z",
+      "description": "Former national security adviser John Bolton defended the Trump administration’s decision to launch preemptive strikes on Iran over its continued nuclear program. “Trump has every right to eliminate threats from the ayatollahs, the IRGC, and Iran’s nuclear-weapons program,” Bolton wrote Saturday in a post on social platform X. “This mission is completely justifiable and necessary,”…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.150Z"
+    },
+    {
+      "id": "73c2abdbbd1f",
+      "title": "Gulf countries coming under attack from Iran warn of retaliation ",
+      "url": "https://thehill.com/policy/international/5760555-gulf-unity-pushing-back-iran/",
+      "source": "The Hill",
+      "published": "2026-02-28T17:06:59.000Z",
+      "description": "Gulf countries expressed outrage on Saturday in the face of military attacks from the Islamic Republic of Iran, a rare show of unity in pushing back against Tehran in the wake of U.S. and Israeli strikes against the country.  Iran is retaliating in the face of President Trump’s early Saturday decision to launch a major…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.155Z"
+    },
+    {
+      "id": "37640237bacb",
+      "title": "Why the Mamdani-Trump ‘bromance’ makes sense right now",
+      "url": "https://thehill.com/homenews/administration/5759473-mayor-mamdani-trump-relationship/",
+      "source": "The Hill",
+      "published": "2026-02-28T17:00:00.000Z",
+      "description": "NEW YORK — When he was campaigning to be mayor of the nation’s largest city, Zohran  Mamdani liked to say he was President Trump’s “worst nightmare.”  In his victory speech in November, Mamdani took it a step further — calling Trump a “despot” and declaring that if anyone could show how to defeat him, “it’s…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.248Z"
+    },
+    {
+      "id": "9103a59d51b0",
+      "title": "Pentagon reaches deal with OpenAI amid Anthropic beef",
+      "url": "https://thehill.com/policy/technology/5760495-pentagon-deal-openai-trump-hegseth-anthropic/",
+      "source": "The Hill",
+      "published": "2026-02-28T16:51:34.000Z",
+      "description": "The Pentagon has reached a deal with OpenAI to use its AI models on the military’s classified network, after the Trump administration ordered all agencies to stop using Anthropic’s artificial intelligence tools. OpenAI CEO Sam Altman said late Friday that the Defense Department (DOD) agreed to prohibitions on using its AI for domestic mass surveillance…",
+      "keywords": [
+        "intelligence",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.382Z"
+    },
+    {
+      "id": "37c8578f1278",
+      "title": "Iranian president, supreme leader believed to be alive after US attack",
+      "url": "https://thehill.com/policy/international/5760492-araghchi-officials-alive-iran/",
+      "source": "The Hill",
+      "published": "2026-02-28T16:22:52.000Z",
+      "description": "Iran’s Foreign Minister Abbas Araghchi said Saturday that the country’s president and supreme leader were alive “as far as I know” after overnight U.S.-Israeli strikes included targets near government compounds. “As far as I know, yes they are alive and the head of judiciary as well, the speaker of parliament as well. All high-ranking officials…",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.262Z"
+    },
+    {
+      "id": "96e14d705309",
+      "title": "Democrats say Trump hasn’t learned lessons of history, has no strategic endgame with Iran strikes",
+      "url": "https://thehill.com/homenews/senate/5760308-congress-demands-answers-on-iran-strike/",
+      "source": "The Hill",
+      "published": "2026-02-28T16:15:00.000Z",
+      "description": "Democrats reacting to U.S. strikes early Saturday morning on Iran criticized President Trump, saying he has failed to learn from multiple failed U.S. interventions in the Middle East and accusing the president of sidestepping Congress in launching the attacks. Sen. Mark Warner (D-Va.), the ranking Democrat on the Senate Intelligence Committee, questioned the need for the attack…",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.250Z"
+    },
+    {
+      "id": "eaafe25369b7",
+      "title": "Former Trump AI adviser calls Anthropic decision ‘attempted corporate murder’",
+      "url": "https://thehill.com/policy/technology/5760441-dean-ball-trump-hegseth-ai-anthropic-feud/",
+      "source": "The Hill",
+      "published": "2026-02-28T16:10:35.000Z",
+      "description": "One of President Trump’s former senior artificial intelligence advisers is sharply criticizing the Defense Department’s ongoing feud with AI company Anthropic.  In a post on social media platform X, Dean Ball said companies like Nvidia, Amazon and Google “will have to divest from Anthropic” if Defense Secretary Pete Hegseth “gets his way.” “This is simply…",
+      "keywords": [
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.248Z"
+    },
+    {
+      "id": "f3ad34960fbd",
+      "title": "Marjorie Taylor Greene blasts Trump’s Iran strikes",
+      "url": "https://thehill.com/homenews/administration/5760448-marjorie-taylor-greene-slams-trump/",
+      "source": "The Hill",
+      "published": "2026-02-28T15:33:53.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) slammed President Trump’s decision to launch major strikes on Iran in a push to dismantle its nuclear efforts and push for regime change. Greene posted a broadside against Trump’s Iran strikes on social media platform X, dismissing the administration’s rationale and accusing the president of betraying his supporters who backed…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.430Z"
+    },
+    {
+      "id": "6af76e6ac755",
+      "title": "Kaine: Trump ‘too mentally incapacitated’ to understand he set stage for Iran nuclear development",
+      "url": "https://thehill.com/homenews/senate/5760434-kaine-trump-us-iran-strikes-nuclear/",
+      "source": "The Hill",
+      "published": "2026-02-28T15:22:00.000Z",
+      "description": "Sen. Tim Kaine (D-Va.) asked whether President Trump was “too mentally incapacitated” to realize he set the stage for the growth of Iran’s nuclear program during his first term. “Has President Trump learned nothing from decades of U.S. meddling in Iran and forever wars in the Middle East?” Kaine asked. “Is he too mentally incapacitated…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.475Z"
+    },
+    {
+      "id": "99cc1490929d",
+      "title": "UK, France, Germany urge return to negotiations after US strikes Iran",
+      "url": "https://thehill.com/policy/international/5760393-uk-france-germany-iran-strikes-negotiations/",
+      "source": "The Hill",
+      "published": "2026-02-28T15:05:57.000Z",
+      "description": "Following joint U.S.-Israeli strikes on Iran early Saturday, the leaders of Germany, France and the United Kingdom pressed the Trump administration to return to the negotiating table with Tehran. “France, Germany and the United Kingdom have consistently urged the Iranian regime to end Iran’s nuclear program, curb its ballistic missile program, refrain from its destabilizing…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.479Z"
+    },
+    {
+      "id": "a34bbfed481b",
+      "title": "Jeffries: Democrats ‘committed’ to forcing Iran war powers vote in wake of US strikes",
+      "url": "https://thehill.com/homenews/house/5760412-jeffries-criticizes-trump-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T15:01:08.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) pledged that House Democrats will force a vote on limiting President Trump’s war powers in Iran as he criticized the president for striking the country without explicit congressional authorization. “The framers of the United States Constitution gave Congress the sole power to declare war as the branch of government…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.557Z"
+    },
+    {
+      "id": "99d579a8a7a2",
+      "title": "White House calls reports Trump will address nation on Iran strikes ‘inaccurate’",
+      "url": "https://thehill.com/homenews/administration/5760384-white-house-no-trump-address-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T14:30:31.000Z",
+      "description": "The White House called reports that President Trump will address the nation on Saturday following the U.S. strikes on Iran “inaccurate.” “This reporting was inaccurate, the White House has not given any guidance on an address or remarks today,” the White House said in a statement to the press pool traveling with Trump. The push…",
+      "keywords": [
+        "white house",
+        "trump",
+        "press pool"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.471Z"
+    },
+    {
+      "id": "14db6e495910",
+      "title": "Live updates: Trump seeks regime change after strike on Iran; Democrats voice fear of wider war",
+      "url": "https://thehill.com/policy/international/5760207-trump-urges-iran-regime-change/",
+      "source": "The Hill",
+      "published": "2026-02-28T14:03:10.000Z",
+      "description": "The U.S. and Israel early Saturday morning launched strikes against Iran, while President Trump called on the Iranian people to seize the chance to topple their government. “A short time ago, the United States military began major combat operations in Iran,” he said in a video posted to Truth Social at 2:30 a.m. EST. “Our objective is…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.669Z"
+    },
+    {
+      "id": "4f08545e11cc",
+      "title": "GOP lawmakers rally behind Trump after Iran strikes",
+      "url": "https://thehill.com/policy/international/5760326-republican-reaction-us-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T14:01:28.000Z",
+      "description": "Republicans on Capitol Hill were quick to rally behind President Trump after he announced the U.S. military and Israeli forces launched joint strikes on Iran early Saturday morning.  Trump long threatened “unfortunate” consequences for Iran if the country did not agree to a new nuclear deal with the U.S. The latest attack comes after the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.683Z"
+    },
+    {
+      "id": "8f4bac77dc33",
+      "title": "MAGA Reacts to Trump’s Strikes on Iran: ‘Absolutely Disgusting and Evil’ ",
+      "url": "https://www.rollingstone.com/politics/politics-news/maga-reacts-iran-strikes-trump-mtg-carlson-1235523317/",
+      "source": "Rolling Stone",
+      "published": "2026-02-28T16:38:41.000Z",
+      "description": "“We voted for America First and ZERO wars,” former GOP Rep. Marjorie Taylor Greene wrote on X, calling the administration “a bunch of sick fucking liars”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.644Z"
+    },
+    {
+      "id": "e91733ffe27a",
+      "title": "U.S. and Israel Launch ‘Operation Epic Fury’ Military Campaign Against Iran",
+      "url": "https://www.rollingstone.com/politics/politics-news/us-israel-launch-operation-epic-fury-military-campaign-iran-1235523304/",
+      "source": "Rolling Stone",
+      "published": "2026-02-28T15:40:18.000Z",
+      "description": "Trump said American lives may be lost in what he described as a \"massive and ongoing operation\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.664Z"
+    },
+    {
+      "id": "cbcc5c11cb6f",
+      "title": "Wall Street Is Driving Up Home Prices. Elizabeth Warren Has a Plan to Stop It",
+      "url": "https://www.rollingstone.com/politics/politics-features/elizabeth-warren-homeownership-act-wall-street-1235523134/",
+      "source": "Rolling Stone",
+      "published": "2026-02-28T15:17:11.000Z",
+      "description": "The senator from Massachusetts introduced a bill to kick corporate investors out of residential housing, and she's found an unlikely ally: President Trump",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T18:02:51.773Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-28T12:03:55.517Z"
+  "lastFetch": "2026-02-28T18:02:51.773Z"
 }
