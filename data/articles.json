@@ -30037,8 +30037,819 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-27T18:08:56.110Z"
+    },
+    {
+      "id": "e894e9368031",
+      "title": "Amid fraud concerns, Trump is rolling back a Biden rule aimed at stabilizing child care",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5704743/amid-fraud-concerns-trump-is-rolling-back-a-biden-rule-aimed-at-stabilizing-child-care",
+      "source": "NPR Politics",
+      "published": "2026-02-27T22:03:35.000Z",
+      "description": "In an effort to stabilize child care in America, the Biden administration changed how child care subsidies are paid. The Trump administration says the change invited fraud and is preparing a reversal.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.392Z"
+    },
+    {
+      "id": "28fe9a8d6e04",
+      "title": "Loyalty to Trump matters in GOP Senate primary in North Carolina",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5725395/loyalty-to-trump-matters-in-gop-senate-primary-in-north-carolina",
+      "source": "NPR Politics",
+      "published": "2026-02-27T21:31:10.000Z",
+      "description": "Many GOP primary voters in North Carolina say they want a candidate who will support the president after Sen. Thom Tillis chose not to seek reelection following disagreements with President Trump.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.397Z"
+    },
+    {
+      "id": "87dfe89885ff",
+      "title": "Why is MAHA mad at Trump?",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5726422/why-is-maha-mad-at-trump",
+      "source": "NPR Politics",
+      "published": "2026-02-27T21:26:54.000Z",
+      "description": "NPR's Juana Summers speaks with Helena Bottemiller Evich, founder and editor in chief of Food Fix, about tensions between the MAHA movement and President Trump over glyphosate.",
+      "keywords": [
+        "miller",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.332Z"
+    },
+    {
+      "id": "4758c8242e3d",
+      "title": "ICE spending billions to turn warehouses into migrant detention facilities",
+      "url": "https://www.pbs.org/newshour/show/ice-spending-billions-to-turn-warehouses-into-migrant-detention-facilities",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T23:35:42.000Z",
+      "description": "For months, ICE has been quietly buying industrial warehouses around the country, reportedly with plans to turn them into a network of immigration detention and processing centers to hold tens of thousands of detainees. White House correspondent Liz Landers reports on how the controversy is playing out in one small Maryland community.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.318Z"
+    },
+    {
+      "id": "cc8976ea621c",
+      "title": "Brooks and Capehart on the Senate primaries in Texas",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-the-senate-primaries-in-texas",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T23:25:32.000Z",
+      "description": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including the Republican and Democratic Senate primaries in Texas, the reaction to President Trump's State of the Union and the Paramount buyout of Warner Bros.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.426Z"
+    },
+    {
+      "id": "dec8f57e0bc1",
+      "title": "30 more people indicted over anti-ICE protest at Minnesota church, Bondi says",
+      "url": "https://www.pbs.org/newshour/politics/30-more-people-indicted-over-anti-ice-protest-at-minnesota-church-bondi-says",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T22:54:08.000Z",
+      "description": "Attorney General Pam Bondi announced federal charges Friday against 30 more people who are accused of civil rights violations in a January protest inside a Minnesota church where a pastor works for Immigration and Customs Enforcement.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "immigration",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.515Z"
+    },
+    {
+      "id": "3e5a219d30c2",
+      "title": "Democratic lawmakers say they are 'closely' reviewing new White House offer on DHS",
+      "url": "https://www.pbs.org/newshour/politics/democratic-lawmakers-say-they-are-closely-reviewing-new-white-house-offer-on-dhs",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T22:28:06.000Z",
+      "description": "As the Department of Homeland Security remains shut down, the White House and Democratic leaders are continuing to exchange proposals to end the impasse.",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.545Z"
+    },
+    {
+      "id": "412712267fe4",
+      "title": "Trump says he's not mulling a draft executive order to seize control over elections. Here's what we know",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-hes-not-mulling-a-draft-executive-order-to-seize-control-over-elections-heres-what-we-know",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T21:59:52.000Z",
+      "description": "The 17-page proposal, a working document reviewed in full by PBS News, would give him extraordinary power over the 2026 midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.524Z"
+    },
+    {
+      "id": "a0dc0f02ebad",
+      "title": "Congress prepares for war powers resolution vote to block U.S. strikes on Iran",
+      "url": "https://www.pbs.org/newshour/politics/congress-prepares-for-war-powers-resolution-vote-to-block-u-s-strikes-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T21:57:24.000Z",
+      "description": "House Democratic Leader Hakeem Jeffries said Friday a bipartisan coalition is working to force a vote as soon as next week on a war powers resolution that would attempt to prevent any U.S. action against Iran without approval from Congress.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.524Z"
+    },
+    {
+      "id": "b0f0641baaa7",
+      "title": "Trump suggests U.S. could have 'friendly takeover of Cuba'",
+      "url": "https://www.pbs.org/newshour/politics/trump-suggests-u-s-could-have-friendly-takeover-of-cuba",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T20:29:57.000Z",
+      "description": "President Donald Trump said Friday that Secretary of State Marco Rubio was negotiating at a high level with the Cuban government.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.523Z"
+    },
+    {
+      "id": "06f2f689d936",
+      "title": "Trump says he's 'not happy' with Iran talks but will wait to see what happens in further rounds",
+      "url": "https://www.pbs.org/newshour/world/trump-says-hes-not-happy-with-iran-talks-but-will-wait-to-see-what-happens-in-further-rounds",
+      "source": "PBS NewsHour",
+      "published": "2026-02-27T19:06:13.000Z",
+      "description": "\"I'm not happy with the fact that they're not willing to give us what we have to have. I'm not thrilled with that. We'll see what happens. We're talking later,\" Trump told reporters as he left the White House on Friday. \"We're not exactly happy with the way they're negotiating. They cannot have nuclear weapons,\" Trump said.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.643Z"
+    },
+    {
+      "id": "da17aa5e6d79",
+      "title": "Trump told FBI Director Kash Patel he didn't like his Olympics hijinks",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-fbi-director-kash-patel-olympics-hijinks-rcna260835",
+      "source": "NBC News",
+      "published": "2026-02-27T22:39:52.000Z",
+      "description": "Trump was disappointed in FBI Director Kash Patel’s behavior at the Milan-Cortina Winter Olympics and conveyed his displeasure in a conversation with him, according to a person familiar with the matter.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.647Z"
+    },
+    {
+      "id": "82da353d6f4c",
+      "title": "Kamala Harris jumps into the Texas Senate race, endorsing Jasmine Crockett",
+      "url": "https://www.nbcnews.com/politics/2026-election/kamala-harris-jumps-texas-senate-race-endorsing-jasmine-crockett-rcna261057",
+      "source": "NBC News",
+      "published": "2026-02-27T22:00:07.000Z",
+      "description": "Former Vice President Kamala Harris has made her first major return to campaign politics since her 2024 presidential run, endorsing Democratic Rep.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.636Z"
+    },
+    {
+      "id": "fdb50fef94c6",
+      "title": "Why ads funded by AI groups aren't about AI: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/ads-funded-ai-groups-arent-ai-politics-desk-rcna261041",
+      "source": "NBC News",
+      "published": "2026-02-27T22:32:25.000Z",
+      "description": "In today’s edition, Ben Kamisar digs into how AI super PACs are getting involved in the midterms with tens of millions of dollars at their disposal.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.798Z"
+    },
+    {
+      "id": "7aa3a7ea7c01",
+      "title": "North Carolina Democrat running in GOP primary to protest gerrymandering",
+      "url": "https://www.nbcnews.com/meet-the-press/video/north-carolina-democrat-running-in-gop-primary-to-protest-gerrymandering-258452549816",
+      "source": "NBC News",
+      "published": "2026-02-27T22:59:52.000Z",
+      "description": "Kate Barr knowingly ran an unwinnable race as a Democrat for North Carolina’s state Senate in 2023. She’s back on the ballot again this year, now as a Republican, challenging Rep. Tim Moore (R-N.C.). NBC News Legal Affairs reporter Gary Grumbach reports on Barr’s long shot campaign to shed light on partisan gerrymandering.",
+      "keywords": [
+        "ballot"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.793Z"
+    },
+    {
+      "id": "a21c3eca934a",
+      "title": "Transgender Kansans sue state over law that canceled their driver's licenses",
+      "url": "https://www.nbcnews.com/video/transgender-kansans-sue-state-over-law-that-canceled-their-driver-s-licenses-258454085528",
+      "source": "NBC News",
+      "published": "2026-02-27T22:54:04.000Z",
+      "description": "Two transgender people in Kansas have filed a lawsuit to block a new state law that invalidated hundreds of residents' driver's licenses by requiring they reflect the holders' biological sex rather than their gender identities. The law allows those in violation to \"surrender\" their licenses in exchange for new ones that match their biological sex.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.816Z"
+    },
+    {
+      "id": "0a3532fd5915",
+      "title": "Trump tells government to stop using Anthropic's AI systems",
+      "url": "https://www.nbcnews.com/video/trump-tells-government-to-stop-using-anthropic-s-ai-systems-258447429926",
+      "source": "NBC News",
+      "published": "2026-02-27T22:27:40.000Z",
+      "description": "President Donald Trump said that he was banning federal agencies from using the services of AI company Anthropic. The declaration comes after months of increasingly heated rhetoric between the Defense Department and Anthropic over the military’s use of the company's systems.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.792Z"
+    },
+    {
+      "id": "4afe5b2375ed",
+      "title": "Transgender Kansans sue over new law invalidating their driver's licenses",
+      "url": "https://www.nbcnews.com/politics/politics-news/transgender-drivers-license-birth-certificate-biological-sex-kansas-rcna261007",
+      "source": "NBC News",
+      "published": "2026-02-27T19:56:56.000Z",
+      "description": "Two transgender Kansans are suing to block a  state law that requires drivers' licenses align with the holders' biological sex rather than their gender identities.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.800Z"
+    },
+    {
+      "id": "653a3285ff8c",
+      "title": "Radiohead tells Trump's ICE to take down a video using their song",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/radiohead-tells-trumps-ice-take-video-using-song-rcna261010",
+      "source": "NBC News",
+      "published": "2026-02-27T19:47:48.000Z",
+      "description": "The British rock band Radiohead is demanding that the Trump administration take down a promotional video for Immigration and Customs Enforcement that uses one of their songs",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.916Z"
+    },
+    {
+      "id": "21e561ca5cb0",
+      "title": "Hegseth declares Anthropic a \"supply chain risk to national security\"",
+      "url": "https://www.cbsnews.com/news/hegseth-declares-anthropic-supply-chain-risk/",
+      "source": "CBS News",
+      "published": "2026-02-28T00:03:11.000Z",
+      "description": "Defense Secretary Pete Hegseth deemed artificial intelligence firm Anthropic a supply chain risk on Friday, following days of increasingly heated public conflict with the AI company.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.916Z"
+    },
+    {
+      "id": "a145847b3990",
+      "title": "Trump orders federal agencies to stop using Anthropic's AI technology",
+      "url": "https://www.cbsnews.com/news/trump-anthropic-ai-order-federal-agencies/",
+      "source": "CBS News",
+      "published": "2026-02-27T22:44:45.000Z",
+      "description": "President Trump said he will give federal agencies six months to phase out their use of Anthropic's AI products.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.910Z"
+    },
+    {
+      "id": "ca4f36265e05",
+      "title": "U.S.-Iran deal is \"within our reach,\" Omani mediator says",
+      "url": "https://www.cbsnews.com/news/us-iran-deal-within-our-reach-oman-mediator-says/",
+      "source": "CBS News",
+      "published": "2026-02-27T22:39:00.000Z",
+      "description": "Negotiators from the U.S. and Iran have made \"substantial progress\" toward a deal to curb Iran's nuclear program, Omani Foreign Minister Badr Albusaidi told CBS News on Friday.",
+      "keywords": [
+        "USAID",
+        "USAID"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.909Z"
+    },
+    {
+      "id": "3cb10e523f7c",
+      "title": "DOJ charging 30 more people for roles in anti-ICE protest at Minnesota church",
+      "url": "https://www.cbsnews.com/news/doj-30-more-defendants-charged-anti-ice-protest-at-minnesota-church/",
+      "source": "CBS News",
+      "published": "2026-02-27T21:27:08.000Z",
+      "description": "The criminal civil rights case has also ensnared journalist Don Lemon.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "journalist"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.909Z"
+    },
+    {
+      "id": "c4d100f3aebb",
+      "title": "Trump administration labels Iran state sponsor of wrongful detention",
+      "url": "https://www.cbsnews.com/news/trump-iran-state-sponsor-of-wrongful-detention/",
+      "source": "CBS News",
+      "published": "2026-02-27T21:19:13.000Z",
+      "description": "The designation enables the U.S. to punish Iran for detaining Americans for political leverage",
+      "keywords": [
+        "trump",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.011Z"
+    },
+    {
+      "id": "0b3e7cdbe9ba",
+      "title": "Trump says he's \"not happy\" with progress in Iran negotiations",
+      "url": "https://www.cbsnews.com/news/trump-iran-negotiations-not-happy/",
+      "source": "CBS News",
+      "published": "2026-02-27T18:50:42.000Z",
+      "description": "President Trump said Friday that he is \"not happy\" with the pace of progress in negotiations with Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.023Z"
+    },
+    {
+      "id": "30f8c2e513a3",
+      "title": " Kamala Harris endorses Jasmine Crockett in Texas Democratic Senate primary",
+      "url": "https://abcnews.com/Politics/wireStory/kamala-harris-endorses-jasmine-crockett-texas-democratic-senate-130579219",
+      "source": "ABC News",
+      "published": "2026-02-27T23:08:27.000Z",
+      "description": "Former Vice President Kamala Harris has endorsed Congresswoman Jasmine Crockett in Texas’ Democratic Senate primary, giving Crockett a big boost as she faces concerns about electability",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.005Z"
+    },
+    {
+      "id": "d4d3c2d2819f",
+      "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic",
+      "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
+      "source": "Axios",
+      "published": "2026-02-27T23:45:53.000Z",
+      "description": "The Pentagon has agreed to OpenAI's rules for deploying its technology safely in classified settings, though no contract has been signed, a source familiar with the talks tells Axios. \nWhy it matters: The Pentagon has blasted OpenAI rival Anthropic for days, contending its red lines for AI use in the military -- mass surveillance and autonomous weapons -- are philosophical and \"woke.\" \n\nNow, the department, which did not immediately respond to a request for comment, appears to have accepted Open",
+      "keywords": [
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.015Z"
+    },
+    {
+      "id": "521cafbb6e56",
+      "title": "Trump moves to blacklist Anthropic AI from all government work",
+      "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude",
+      "source": "Axios",
+      "published": "2026-02-27T22:42:04.000Z",
+      "description": "President Trump announced Friday the U.S. government would blacklist Anthropic, in the most consequential and controversial policy decision to date at the intersection of artificial intelligence and national security.\nThe latest: Defense Secretary Pete Hegseth followed up by confirming the Pentagon will also declare Anthropic a \"supply chain risk,\" a penalty usually reserved for companies from adversarial countries, such as Chinese tech giant Huawei.\n\n\"In conjunction with the President's directi",
+      "keywords": [
+        "musk",
+        "ICE",
+        "intelligence",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:34.998Z"
+    },
+    {
+      "id": "9a4ac62b1e7c",
+      "title": "These federal agencies may have a Claude problem now",
+      "url": "https://www.axios.com/2026/02/27/claude-anthropic-trump-government-agencies",
+      "source": "Axios",
+      "published": "2026-02-27T22:15:04.000Z",
+      "description": "Federal agencies may now have a Claude problem after President Trump's order to blacklist Anthropic from all government work amid a dispute over how the Pentagon can deploy its AI.\nWhy it matters: If Trump's demands hold, Anthropic's federal business could stall overnight — and leave agencies scrambling to unwind major AI projects and pilots.\n\nDriving the news: Besides the Pentagon, public reports show that Claude is being used or piloted at:\n\nThe Department of Health and Human Services: Staff c",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.125Z"
+    },
+    {
+      "id": "ed0a546a9e9e",
+      "title": "Scoop: Top Senate defense leaders intervene in Pentagon-Anthropic AI dispute",
+      "url": "https://www.axios.com/2026/02/27/senate-defense-anthropic-pentagon-ai",
+      "source": "Axios",
+      "published": "2026-02-27T18:08:26.000Z",
+      "description": "Key Senate defense leaders on Friday are privately pressing Anthropic and the Pentagon to resolve their dispute, a source familiar with the matter told Axios.\nWhy it matters: Pressure has been building on Congress to step in as the Pentagon and Anthropic engage in a prolonged public battle over the limits of the use of Anthropic's Claude AI in classified settings. \n\nDriving the news: Senate Armed Services Committee Chair Roger Wicker (R-Miss.) and Ranking Member Jack Reed (D-R.I.), along with De",
+      "keywords": [
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.112Z"
+    },
+    {
+      "id": "be97073a6a0b",
+      "title": "Stephen A. Smith on White House bid: ‘Come up with a way for me to keep my money’",
+      "url": "https://thehill.com/blogs/in-the-know/5759573-smith-money-presidential-bid/",
+      "source": "The Hill",
+      "published": "2026-02-27T23:14:46.000Z",
+      "description": "Sports commentator Stephen A. Smith on Thursday addressed rumors that he could launch a bid to run for president in 2028 but said he needs to think up of a way for him to keep his money. “I’m telling you, if there was a way for me to be on that big debate stage and…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.114Z"
+    },
+    {
+      "id": "dada86cb0a33",
+      "title": "Trump calls out to Texas GOP Senate candidates, stops short of endorsement",
+      "url": "https://thehill.com/homenews/administration/5759646-texas-senate-primary-trump/",
+      "source": "The Hill",
+      "published": "2026-02-27T22:44:48.000Z",
+      "description": "President Trump gave shoutouts to the three Republicans running the Texas Senate primary race during a speech in which they were all in attendance in Corpus Christi on Friday, but he stopped short of endorsing in the race.  “We have a great Attorney General Ken Paxton. Where’s Ken? Hi, Ken,” Trump said during his remarks.…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.121Z"
+    },
+    {
+      "id": "49ec6d70edb5",
+      "title": "Hegseth says Pentagon designating Anthropic as supply chain risk after Trump bans AI firm ",
+      "url": "https://thehill.com/policy/defense/5759630-pentagon-designates-anthropic-risk/",
+      "source": "The Hill",
+      "published": "2026-02-27T22:35:58.000Z",
+      "description": "Defense Secretary Pete Hegseth said the Pentagon is designating Anthropic as a supply chain risk shortly after President Trump directed all federal agencies to cease using the company’s technology amid an ongoing feud with the Department of Defense (DOD).   “Effective immediately, no contractor, supplier, or partner that does business with the United States military may…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.184Z"
+    },
+    {
+      "id": "26238432b478",
+      "title": "Iran agreed to ‘zero stockpiling’ of nuclear material in US talks: Omani foreign minister",
+      "url": "https://thehill.com/policy/international/5759623-iran-nuclear-deal-stockpiling/",
+      "source": "The Hill",
+      "published": "2026-02-27T22:35:21.000Z",
+      "description": "Oman’s foreign minister said Friday that Iran is offering to give up stockpiling enriched uranium as part of a deal with the U.S. related to its nuclear program. Foreign Minister Badr al-Busaidi is serving as the mediator between U.S. and Iranian officials in Geneva.  “Now we are talking about zero stockpiling and that is very,…",
+      "keywords": [
+        "USAID",
+        "USAID"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.322Z"
+    },
+    {
+      "id": "363a2189c3c8",
+      "title": "Harris backs Crockett in Texas Senate primary",
+      "url": "https://thehill.com/homenews/campaign/5759461-harris-crockett-texas-senate-democratic-primary-talarico/",
+      "source": "The Hill",
+      "published": "2026-02-27T22:32:00.000Z",
+      "description": "Former Vice President Kamala Harris is endorsing Rep. Jasmine Crockett (D-Texas) ahead of her high-profile Senate primary Tuesday. Harris lent her voice for a robocall urging Democrats to vote for Crockett, who is running against state Rep. James Talarico for the Democratic nomination to take Sen. John Cornyn’s (R-Texas) seat. “Texas has the chance to…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.293Z"
+    },
+    {
+      "id": "8d8e3cfbdca2",
+      "title": "FEMA releasing billions in disaster assistance, while further funds await approval",
+      "url": "https://thehill.com/policy/energy-environment/5759529-billions-in-fema-funds-awarded/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:57:33.000Z",
+      "description": "The Trump administration is releasing billions of dollars in disaster aid that was previously awaiting approval from Homeland Security Secretary Kristi Noem. A source familiar with the situation told The Hill that billions in combined public assistance and hazard mitigation funds are being awarded from the Federal Emergency Management Agency (FEMA) and that the funds were previously…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.265Z"
+    },
+    {
+      "id": "b9532e99a127",
+      "title": "DOJ charges 30 more people in Minnesota church protest: Bondi",
+      "url": "https://thehill.com/regulation/court-battles/5759434-ice-protest-minnesota-charge-religious-freedom-pam-bondi/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:37:50.000Z",
+      "description": "Attorney General Pam Bondi said 30 more people have been charged in connection with an anti-ICE protest in Minnesota that interrupted a church service. Bondi added that 25 of the 30 indicted people have already been arrested. On Jan. 18, protesters interrupted a service at Cities Church in St. Paul, Minn., because the demonstrators believed…",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.277Z"
+    },
+    {
+      "id": "bef8c2085125",
+      "title": "RFK Jr. suggests buying liver or ‘cheap cuts’ instead of steak",
+      "url": "https://thehill.com/policy/healthcare/5759419-kennedy-suggests-cheap-cuts/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:36:22.000Z",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. on Friday suggested people eat liver or “cheap cuts” in response to the high cost of beef. “This is true all over the country. There’s a lot of good food in grocery stores that goes away. Most of the cheap cuts of meat are very inexpensive,”…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.276Z"
+    },
+    {
+      "id": "c6770041214f",
+      "title": "Hegseth cancels troop attendance at top-ranked schools",
+      "url": "https://thehill.com/policy/defense/5759402-pentagon-cancels-attendance-ivy-league/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:08:04.000Z",
+      "description": "Defense Secretary Pete Hegseth ordered the cancellation of members of the military attending some of the country’s top-ranked colleges and universities on Friday, beginning academic year 2026-27, arguing the schools are teaching the “enemy’s wicked ideologies” to service members.  Hegseth, who attended Harvard University for postgraduate studies, said the move would affect institutions like Princeton University,…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.412Z"
+    },
+    {
+      "id": "545f00ddff33",
+      "title": "Trump orders federal agencies to ‘immediately cease’ using Anthropic technology",
+      "url": "https://thehill.com/policy/technology/5759399-trump-bans-anthropic-tech/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:04:13.000Z",
+      "description": "President Trump on Friday directed federal agencies to “immediately cease” using Anthropic technology amid an escalating feud between the AI company and the Pentagon. “THE UNITED STATES OF AMERICA WILL NEVER ALLOW A RADICAL LEFT, WOKE COMPANY TO DICTATE HOW OUR GREAT MILITARY FIGHTS AND WINS WARS! That decision belongs to YOUR COMMANDER-IN-CHIEF, and the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.519Z"
+    },
+    {
+      "id": "8eefe3b60f13",
+      "title": "Schumer, Jeffries review White House proposal to end DHS shutdown",
+      "url": "https://thehill.com/homenews/senate/5759394-schumer-jeffries-white-house-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-02-27T21:01:40.000Z",
+      "description": "Senate Democratic Leader Chuck Schumer (N.Y.) and House Democratic Leader Hakeem Jeffries (N.Y.) announced Friday that they are reviewing a counteroffer from the White House on how to end the shutdown of the Department of Homeland Security (DHS), which is about to stretch into its third week. “We have received the White House’s counteroffer and…",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.539Z"
+    },
+    {
+      "id": "cd92c168a56b",
+      "title": "Megan Rapinoe: I would have never allowed Kash Patel in locker room",
+      "url": "https://thehill.com/blogs/in-the-know/5759319-megan-rapinoe-trump-womens-hockey-olympics/",
+      "source": "The Hill",
+      "published": "2026-02-27T20:26:30.000Z",
+      "description": "U.S. Women’s National Team former captain Megan Rapinoe spoke out against President Trump’s recent comments on the Olympic U.S. women’s hockey team.  The president made the remarks after the men’s hockey team’s recent win in the gold medal Olympic game against Canada. FBI Director Kash Patel joined the athletes in the locker room after the…",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.425Z"
+    },
+    {
+      "id": "a8bb491de843",
+      "title": "Iran: US must drop ‘excessive demands’ in nuclear talks",
+      "url": "https://thehill.com/policy/international/5759214-iran-us-nuclear-talks/",
+      "source": "The Hill",
+      "published": "2026-02-27T20:13:09.000Z",
+      "description": "Iranian Foreign Minister Abbas Araghchi said Friday the U.S. needs to drop its “excessive demands” while the two countries hold talks regarding Iran’s nuclear program, as President Trump considers military action if a deal is not reached. Araghchi made the remark during a phone conversation with his Egyptian counterpart Badr Abdelatty, the Iranian Students’ News…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.489Z"
+    },
+    {
+      "id": "4ccbcbaf226f",
+      "title": "Watch: Trump delivers remarks on energy policy in Texas ahead of primaries",
+      "url": "https://thehill.com/video-clips/5758451-watch-live-donald-trump-texas-energy-economy/",
+      "source": "The Hill",
+      "published": "2026-02-27T20:00:00.000Z",
+      "description": "President Trump gave remarks on energy and the economy Friday afternoon from Corpus Christi, Texas, just days before voters in the Lone Star State hit the polls in one of the nation’s first 2026 midterm primary elections. While Trump is visiting the state in an official capacity, observers are eagerly waiting to see if he issues an…",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.639Z"
+    },
+    {
+      "id": "6abf0f7e33d9",
+      "title": "O’Reilly calls on DOJ to ‘make an example’ of De Niro",
+      "url": "https://thehill.com/homenews/5759228-de-niro-trump-oreilly-response/",
+      "source": "The Hill",
+      "published": "2026-02-27T19:38:22.000Z",
+      "description": "Conservative pundit Bill O’Reilly called on the Department of Justice (DOJ) to “make an example” of actor Robert De Niro by investigating and possibly jailing him for his recent commentary against President Trump. In an interview with Nicolle Wallace, the host of MS NOW’s “The Best People” podcast, released Monday, De Niro, an Oscar-winning actor…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.627Z"
+    },
+    {
+      "id": "bd130b3962cb",
+      "title": "Trump says he’s ‘not happy’ to see Bill Clinton deposed over Epstein files",
+      "url": "https://thehill.com/homenews/5759183-trump-says-hes-not-happy-to-see-bill-clinton-deposed-over-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-02-27T19:32:45.000Z",
+      "description": "President Trump told reporters on Friday that he was “not happy” to see former President Clinton deposed as the former president was testifying behind closed doors to the House Oversight and Government Reform Committee as apart of the panel’s investigation into files linked to convicted sex offender Jeffrey Epstein. “I don’t like seeing him deposed,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.676Z"
+    },
+    {
+      "id": "26cfe9f43ed9",
+      "title": "White House gives Democrats new DHS funding offer as partial government shutdown drags on",
+      "url": "https://www.cnbc.com/2026/02/27/white-house-dhs-ice-government-shutdown-democrats.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T22:46:33.000Z",
+      "description": "The Department of Homeland Security has been shut down since Feb. 14 as immigration enforcement negotiations drag on.",
+      "keywords": [
+        "immigration",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.626Z"
+    },
+    {
+      "id": "db986817eb54",
+      "title": "Trump admin blacklists Anthropic as AI firm refuses Pentagon demands",
+      "url": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T23:55:22.000Z",
+      "description": "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,\" Trump wrote in a Truth Social post.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.633Z"
+    },
+    {
+      "id": "56233212b8dc",
+      "title": "House Democrats grapple with Trump’s threats to U.S. elections: 'This is a five-alarm fire'",
+      "url": "https://www.cnbc.com/2026/02/27/trumps-election-threats-democrats-save-act.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T22:33:56.000Z",
+      "description": "President Donald Trump recently called to \"nationalize\" federal elections, ban mail voting and impose voter-ID requirements ahead of the 2026 midterms.",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.789Z"
+    },
+    {
+      "id": "283c8e662abf",
+      "title": "Trump says he'd 'love not to' attack Iran, 'but sometimes you have to'",
+      "url": "https://www.cnbc.com/2026/02/27/trump-iran-war.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-27T23:04:52.000Z",
+      "description": "President Donald Trump expressed frustration at Iran's refusal to comply with American demands to curb its nuclear program.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T00:08:35.789Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-27T18:08:56.332Z"
+  "lastFetch": "2026-02-28T00:08:35.790Z"
 }
