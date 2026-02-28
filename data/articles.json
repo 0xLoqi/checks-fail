@@ -30848,8 +30848,505 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-28T00:08:35.789Z"
+    },
+    {
+      "id": "c485452fd3dd",
+      "title": "Trump Officials Attended a Summit of Election Deniers Who Want the President to Take Over the Midterms",
+      "url": "https://www.propublica.org/article/election-denier-summit-trump-midterms",
+      "source": "ProPublica",
+      "published": "2026-02-28T10:30:00.000Z",
+      "description": "The post Trump Officials Attended a Summit of Election Deniers Who Want the President to Take Over the Midterms appeared first on ProPublica.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.248Z"
+    },
+    {
+      "id": "8f577b4b0a31",
+      "title": "Trump says he is 'not happy' with the Iran nuclear talks but indicates he'll give them more time",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730151/trump-iran-nuclear-talks",
+      "source": "NPR Politics",
+      "published": "2026-02-28T06:06:51.000Z",
+      "description": "U.S. President Donald Trump said Friday he's \"not happy\" with the latest talks over Iran's nuclear program but indicated he would give negotiators more time to reach a deal to avert another war in the Middle East.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.242Z"
+    },
+    {
+      "id": "8c0bef376887",
+      "title": "Trump orders federal agencies to stop using Anthropic tech over AI safety dispute",
+      "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-agencies-to-stop-using-anthropic-tech-over-ai-safety-dispute",
+      "source": "PBS NewsHour",
+      "published": "2026-02-28T00:10:15.000Z",
+      "description": "Defense Secretary Pete Hegseth said he was designating Anthropic as a supply chain risk, a move that could prevent U.S. military vendors from working with the company.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.252Z"
+    },
+    {
+      "id": "929ee89437ac",
+      "title": "After CDC vaccine changes, states push to keep childhood shots free, accessible",
+      "url": "https://www.nbcnews.com/health/kids-health/cdc-vaccine-changes-states-childhood-shots-accessible-rfk-jr-rcna260478",
+      "source": "NBC News",
+      "published": "2026-02-28T11:00:40.000Z",
+      "description": "As the Trump administration shakes up recommendations for childhood vaccines, some states are moving to ensure vaccines remain free and health care workers are protected from lawsuits.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.449Z"
+    },
+    {
+      "id": "d38b8f17a575",
+      "title": "Trump touted support for gun rights but has defended restrictions in court",
+      "url": "https://www.nbcnews.com/politics/supreme-court/trump-touted-support-gun-rights-defended-restrictions-court-rcna260673",
+      "source": "NBC News",
+      "published": "2026-02-28T10:00:00.000Z",
+      "description": "President Donald Trump proclaimed his steadfast support for gun rights, but a year later, advocates say the administration has failed to live up to his promises.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.484Z"
+    },
+    {
+      "id": "dbec8b28d54c",
+      "title": "Trump critical of FBI Director Patel partying at Olympics",
+      "url": "https://www.nbcnews.com/video/trump-critical-of-fbi-director-patel-partying-at-olympics-258467909746",
+      "source": "NBC News",
+      "published": "2026-02-28T03:36:35.000Z",
+      "description": "President Donald Trump was disappointed in FBI Director Kash Patel’s behavior at the Milan-Cortina Winter Olympics and conveyed his displeasure in a conversation with him, according to a person familiar with the matter.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.390Z"
+    },
+    {
+      "id": "a2cebcf92e3a",
+      "title": "Biden seizes on Trump's sinking favorability in a combative speech in South Carolina",
+      "url": "https://www.nbcnews.com/politics/joe-biden/biden-trump-favorability-combative-speech-south-carolina-rcna261085",
+      "source": "NBC News",
+      "published": "2026-02-28T03:30:31.000Z",
+      "description": "Former President Joe Biden stood before a South Carolina crowd on Friday and took aim at President Donald Trump's State of the Union address.\"Is he still talking?\" Biden asked, to laughter",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.387Z"
+    },
+    {
+      "id": "7a7bb9371e53",
+      "title": "Trump confirms \"major combat operations\" as U.S. and Israel attack Iran",
+      "url": "https://www.cbsnews.com/live-updates/israel-us-attack-iran-trump-says-major-combat-operations/",
+      "source": "CBS News",
+      "published": "2026-02-28T11:48:43.000Z",
+      "description": "The U.S. and Israel are attacking Iran, which is responding with attacks on U.S. bases in the region, as President Trump confirms \"major combat operations.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.392Z"
+    },
+    {
+      "id": "64e001ba8da5",
+      "title": "Anthropic CEO says he's sticking to AI \"red lines\" despite clash with Pentagon",
+      "url": "https://www.cbsnews.com/news/pentagon-anthropic-dario-amodei-cbs-news-interview-exclusive/",
+      "source": "CBS News",
+      "published": "2026-02-28T11:00:00.000Z",
+      "description": "After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.621Z"
+    },
+    {
+      "id": "e5f095515f6f",
+      "title": "See Trump's full statement on U.S. \"major combat operations\" in Iran",
+      "url": "https://www.cbsnews.com/news/trump-full-statement-on-us-iran-attack-major-combat-operations/",
+      "source": "CBS News",
+      "published": "2026-02-28T10:55:33.000Z",
+      "description": "President Trump says his objective in attacking Iran \"is to defend the American people by eliminating imminent threats\" from the regime in Tehran. Read his full statement and watch the video here.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.664Z"
+    },
+    {
+      "id": "32ed42571462",
+      "title": "Anthropic CEO Dario Amodei calls White House's actions \"retaliatory and punitive\"",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-white-house-actions-retaliatory-and-punitive/",
+      "source": "CBS News",
+      "published": "2026-02-28T05:46:00.000Z",
+      "description": "Hours before Anthropic CEO Dario Amodei's interview, Defense Secretary Pete Hegseth deemed the AI company a \"supply chain risk to national security,\" which restricts military contractors from doing business with Anthropic.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.624Z"
+    },
+    {
+      "id": "46365bc50400",
+      "title": "What's at stake in the Pentagon-Anthropic dispute over AI guardrails",
+      "url": "https://www.cbsnews.com/video/whats-at-stake-in-the-pentagon-anthropic-dispute-over-ai-guardrails/",
+      "source": "CBS News",
+      "published": "2026-02-28T00:50:00.000Z",
+      "description": "For days, one of America's leading artificial intelligence companies and the Pentagon have been in a standoff over this question: who gets ultimate control over the use of that powerful technology? Jo Ling Kent explains what's at stake.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.638Z"
+    },
+    {
+      "id": "bbb28af340fd",
+      "title": " In their own words: Texans vote under redrawn maps ordered by Trump",
+      "url": "https://abcnews.com/Politics/wireStory/words-texans-vote-redrawn-maps-ordered-trump-130587293",
+      "source": "ABC News",
+      "published": "2026-02-28T05:17:30.000Z",
+      "description": "Millions of Texas voters are casting ballots under redrawn U.S. House maps that were engineered to boost Republicans in the 2026 elections",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.627Z"
+    },
+    {
+      "id": "2d740003e638",
+      "title": "U.S. AND ISRAEL BEGIN \"MAJOR COMBAT OPERATIONS\" IN IRAN",
+      "url": "https://www.axios.com/2026/02/28/iran-attack-trump-us-israel-strikes",
+      "source": "Axios",
+      "published": "2026-02-28T11:41:47.000Z",
+      "description": "The U.S. and Israel began \"major combat operations\" in Iran overnight with the aim of destroying the country's military capabilities and fostering regime change, President Trump announced in an overnight video statement.\nThe latest: Israel's Air Force conducted strikes against Iranian senior commanders and political leaders, including Supreme Leader Ali Khamenei, in an effort to destabilize the regime, according to U.S. and Israeli officials.\n\nIranian media reported strikes nationwide. Smoke cou",
+      "keywords": [
+        "trump",
+        "NIH"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.887Z"
+    },
+    {
+      "id": "62097d17986b",
+      "title": "Israel targets Khamenei, top leaders in bid to bring down Iran's regime",
+      "url": "https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei",
+      "source": "Axios",
+      "published": "2026-02-28T11:31:29.000Z",
+      "description": "The Israeli Air Force conducted numerous strikes across Iran Saturday morning in an attempt to assassinate Supreme Leader Ali Khamenei and other senior political and military leaders, Israeli and U.S. officials told Axios.\nWhy it matters: The U.S. and Iran have launched a massive joint military operation in an effort to destabilize the Iranian regime, which has been in power since the 1979 Islamic Revolution.\n\n\"The goal is to create all the conditions for the downfall of the Iranian regime, but ",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.792Z"
+    },
+    {
+      "id": "f87688bd993c",
+      "title": "Trump says he \"ended DEI.\" Courts disagree",
+      "url": "https://www.axios.com/2026/02/28/trump-says-he-ended-dei-courts-disagree",
+      "source": "Axios",
+      "published": "2026-02-28T11:06:29.000Z",
+      "description": "President Trump touted to raucous Republican applause during his State of the Union address this week that \"We ended DEI in America.\" \n\nA year into  Trump's crusade to eradicate \"anti-white racism,\" some of the administration's most ambitious diversity, equity and inclusion rollbacks are stalled in court.\n\nWhy it matters: With Congress aligned with the White House, the judiciary has become the primary check for civil rights advocates who argue the administration is distorting long-standing equit",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "white house",
+        "executive order",
+        "court order",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.830Z"
+    },
+    {
+      "id": "831a95e4fe23",
+      "title": "Scoop: Noem burning deportation cash on luxury jets",
+      "url": "https://www.axios.com/2026/02/28/noem-luxury-jets-dhs-deportations",
+      "source": "Axios",
+      "published": "2026-02-28T11:00:05.000Z",
+      "description": "Homeland Security Secretary Kristi Noem's plan to use border funds for an almost $300 million luxury jet fleet has horrified top Trump officials, Axios has learned.\nWhy it matters: Until last year, DHS owned zero luxury jets. Soon it could have three.\n\n\"This is the world's worst deal to buy an aircraft,\" a senior administration official told Axios when granted anonymity to discuss internal matters.\n\"This is an abuse,\" the official said, calling it a misuse of federal money.\nRuss Vought, who runs",
+      "keywords": [
+        "ICE",
+        "deportation",
+        "white house",
+        "trump",
+        "vought",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.814Z"
+    },
+    {
+      "id": "5c3d0640a9f8",
+      "title": "Why Gen Z wants more office work",
+      "url": "https://www.axios.com/2026/02/28/genz-remote-work-office-job",
+      "source": "Axios",
+      "published": "2026-02-28T10:45:05.000Z",
+      "description": "Gen Z workers are chasing more time in the office.\nWhy it matters: The generation with a reputation for preferring fully remote work is actually the least likely to want it — reflecting deeper worries about connection and growth, recent Gallup polling shows.\n\nBy the numbers: Fewer than a quarter (23%) of remote-capable Gen Z employees say they'd prefer fully remote work, compared with 35% among each older generation, according to Gallup's 2025 survey.\n\nAnd Gen Z is the most likely to want employ",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:54.792Z"
+    },
+    {
+      "id": "ff59a8a10f61",
+      "title": "Anthropic to take Trump's Pentagon to court over AI dispute",
+      "url": "https://www.axios.com/2026/02/28/anthropic-trump-pentagon-lawsuit-ai-dispute",
+      "source": "Axios",
+      "published": "2026-02-28T02:29:42.000Z",
+      "description": "Anthropic vowed  to challenge the Pentagon in court over its blacklisting of the company for refusing to lift all safeguards on the military's use of its model, Claude — adding it's \"deeply saddened\" by the escalating dispute.\nWhy it matters: The frontier AI company is doing what few other companies have done since Trump's second term began — directly and publicly challenging the administration.\n\nPresident Trump and Defense Secretary Pete Hegseth threatened earlier Friday to cut off Anthropic fr",
+      "keywords": [
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.127Z"
+    },
+    {
+      "id": "e2e446bd2532",
+      "title": "DHS funding impasse deepens as lawmakers blow by first payday",
+      "url": "https://thehill.com/homenews/senate/5759555-dhs-funding-shutdown-paychecks/",
+      "source": "The Hill",
+      "published": "2026-02-28T11:00:00.000Z",
+      "description": "The impasse over funding the Department of Homeland Security (DHS) is showing no signs of easing as lawmakers barreled past the first reduced paychecks for agency employees on Friday and the shutdown of the agency hits the two-week mark. Lawmakers have spun their wheels for a full month over how to fund DHS for the…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.017Z"
+    },
+    {
+      "id": "0c7a3a8011c4",
+      "title": "Democrats seek a campaign message that goes beyond anti-Trump",
+      "url": "https://thehill.com/homenews/house/5759741-democrats-campaign-message-trump-affordability/",
+      "source": "The Hill",
+      "published": "2026-02-28T11:00:00.000Z",
+      "description": "LEESBURG, VA — House Democrats promising to flip the chamber in this year’s midterms are fighting to avoid a pitfall they see as hazardous to their goal. The message, they say, can’t just be anti-Trump. While the president’s approval ratings are well under water — and polls indicate that key constituencies have soured on him after a tumultuous first…",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.042Z"
+    },
+    {
+      "id": "5d263d1fc3c7",
+      "title": "Cuba faces ‘zero hour’ as Trump, Rubio put squeeze on regime",
+      "url": "https://thehill.com/policy/international/5759671-trump-cuba-regime-change-zero-hour/",
+      "source": "The Hill",
+      "published": "2026-02-28T11:00:00.000Z",
+      "description": "Cuba’s communist government is facing a breaking point in its battle for survival under pressure from President Trump, whose energy quarantine against the country is aimed at collapsing the regime. The consequences are hitting the population of 10 million people hard, with the U.S. fuel blockade exacerbating a decades-long economic crisis, disrupting access to water…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.062Z"
+    },
+    {
+      "id": "92d317566092",
+      "title": "US begins ‘major combat operations’ in Iran; Trump urges regime change",
+      "url": "https://thehill.com/policy/defense/5760058-us-israel-launch-strikes-on-iran/",
+      "source": "The Hill",
+      "published": "2026-02-28T07:40:04.000Z",
+      "description": "The United States and Israel on Saturday launched strikes on Iran after weeks of threats from President Trump, who called for regime change in Tehran and warned of American casualties in a video posted online shortly after the attacks began. “A short time ago, the United States military began major combat operations in Iran,” Trump…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.019Z"
+    },
+    {
+      "id": "096a31d3996c",
+      "title": "Biden knocks Trump’s State of the Union speech: ‘Is he still talking?’",
+      "url": "https://thehill.com/homenews/administration/5759982-biden-criticizes-trump-sotu/",
+      "source": "The Hill",
+      "published": "2026-02-28T04:03:42.000Z",
+      "description": "Former President Biden on Friday knocked President Trump for his record-length State of the Union address, asking if his successor is “still talking.” Biden gave a critique about Trump and his record while celebrating six years since the former president won the 2020 South Carolina Democratic primary at a party held by the South Carolina…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.322Z"
+    },
+    {
+      "id": "f72b52c43bb5",
+      "title": "US designates Iran as ‘state sponsor of wrongful detention’",
+      "url": "https://thehill.com/homenews/administration/5759963-us-designates-iran-hostages/",
+      "source": "The Hill",
+      "published": "2026-02-28T03:27:18.000Z",
+      "description": "The U.S. on Friday designated Iran as a “state sponsor of wrongful detention” and demanded that the country release any Americans in its detention. Secretary of State Marco Rubio issued the designation amid escalating tensions between the two countries and as President Trump considers launching strikes on Iran. Rubio cited Iran’s consolidation of power following…",
+      "keywords": [
+        "trump",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.254Z"
+    },
+    {
+      "id": "7392827722a9",
+      "title": "President Trump touts oil and gas production in Texas visit",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5759842-president-trump-touts-oil-and-gas-production-in-texas-visit/",
+      "source": "The Hill",
+      "published": "2026-02-28T02:56:29.000Z",
+      "description": "President Donald Trump touched down on Texas soil for the second time since returning to the White House.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.257Z"
+    },
+    {
+      "id": "aa1b8592aa9a",
+      "title": "Warren accuses Trump, Hegseth of trying ‘extort’ Anthropic into removing AI guardrails",
+      "url": "https://thehill.com/homenews/senate/5759942-warren-accuses-trump-extortion-anthropic/",
+      "source": "The Hill",
+      "published": "2026-02-28T02:48:01.000Z",
+      "description": "Sen. Elizabeth Warren (D-Mass.) on Friday accused President Trump and Secretary of Defense Pete Hegseth of attempting to “extort” the company Anthropic into removing guardrails for its AI programs. Warren, the ranking member of the Senate Banking, Housing and Urban Affairs Committee, said in a statement that the attempt would remove “common sense guardrails that…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.274Z"
+    },
+    {
+      "id": "c584fc13a10e",
+      "title": "Trump told Patel he wasn’t pleased with FBI director’s Olympic partying: Report",
+      "url": "https://thehill.com/homenews/administration/5759831-patel-trump-locker-room-party/",
+      "source": "The Hill",
+      "published": "2026-02-28T00:58:18.000Z",
+      "description": "President Trump told FBI Director Kash Patel that he was disappointed by Patel’s behavior while partying with the U.S. men’s hockey team during the Winter Olympics in Milan, Italy, NBC News reported Friday. The team had won the gold medal after defeating Canada 2-1 in overtime. Patel, a hockey fan, was seen yelling, banging on a…",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.269Z"
+    },
+    {
+      "id": "5122e996af36",
+      "title": "Duffy’s wife knocks Trump’s Venezuela policy: ‘We’re getting a little too cozy’",
+      "url": "https://thehill.com/policy/international/5759771-campos-duffy-venezuela-trump/",
+      "source": "The Hill",
+      "published": "2026-02-27T23:44:39.000Z",
+      "description": "Fox News host Rachel Campos-Duffy, who is also the wife of Transportation Secretary Sean Duffy, criticized President Trump for getting “too cozy” with acting Venezuelan President Delcy Rodríguez, calling the leader a “communist.”   “We’re getting a little too cozy with Delcy Rodríguez. This is a hardcore communist. She can never be trusted,” Campos-Duffy said Friday…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.465Z"
+    },
+    {
+      "id": "bee7c1c3ca0c",
+      "title": "RFK Jr. tells Joe Rogan he was not ‘particularly happy’ with Trump’s glyphosate order",
+      "url": "https://thehill.com/policy/energy-environment/5759772-rfk-jr-joe-rogan-trump-glyphosate-order-maha/",
+      "source": "The Hill",
+      "published": "2026-02-27T23:36:34.000Z",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. said in an interview that aired Friday that President Trump’s order bolstering the controversial herbicide glyphosate was “not something that I was particularly happy with.” Kennedy’s remarks to podcaster Joe Rogan departed somewhat from his previous defense of Trump’s move — though the Health secretary also expressed…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.506Z"
+    },
+    {
+      "id": "b6d119efd723",
+      "title": "U.S.-Israel launch massive attack on Iran; 4 U.S. military bases hit in retaliation",
+      "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+      "source": "CNBC Politics",
+      "published": "2026-02-28T11:47:09.000Z",
+      "description": "U.S. President Donald Trump said Iran has continued to pursue nuclear weapons despite ongoing negotiations to end its program.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-02-28T12:03:55.517Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-28T00:08:35.790Z"
+  "lastFetch": "2026-02-28T12:03:55.517Z"
 }
