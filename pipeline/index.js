@@ -328,3 +328,5 @@ if (mode === 'fetch') {
   console.error(`Unknown mode: "${mode}". Use 'fetch' or 'digest'.`);
   process.exit(1);
 }
+
+process.exit(0);
