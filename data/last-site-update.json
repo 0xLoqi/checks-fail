@@ -1,107 +1,35 @@
 {
-  "timestamp": "2026-03-01T12:12:09.937Z",
-  "articleCount": 103,
+  "timestamp": "2026-03-01T20:46:14.785Z",
+  "articleCount": 1,
   "updates": {
     "statusChanges": [],
     "newIncidents": [
       {
-        "date": "Feb 13, 2025",
+        "date": "Mar 01, 2025",
         "severity": "crit",
-        "title": "Trump vows to implement voter ID \"whether approved by Congress or not\"",
-        "description": "President Trump explicitly stated intent to unilaterally impose voter ID requirements for midterm elections without congressional authorization, directly challenging separation of powers and statutory election law. <a href=\"https://www.nbcnews.com/politics/elections/trump-vows-voter-id-requirements-midterms-rcna259018\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "date": "Feb 13, 2025",
-        "severity": "crit",
-        "title": "Journalist Don Lemon charged for covering ICE protest at church",
-        "description": "DOJ prosecuted journalist Don Lemon for First Amendment-protected reporting on an immigration enforcement operation, representing unprecedented criminalization of press coverage. <a href=\"https://www.axios.com/2025/02/13/don-lemon-plea-not-guilty-minnesota-church-protest\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "date": "Feb 12, 2025",
-        "severity": "crit",
-        "title": "White House fires U.S. attorney immediately after judicial appointment",
-        "description": "Administration immediately removed U.S. attorney selected by judges through established appointment process, representing unprecedented circumvention of DOJ independence protocols and judicial authority. <a href=\"https://www.nbcnews.com/politics/justice-department/white-house-fires-us-attorney-donald-kinsella-judges-replace-trump-pic-rcna258833\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "date": "Feb 12, 2025",
-        "severity": "crit",
-        "title": "DOJ allegedly tracked lawmakers' searches of Epstein files",
-        "description": "Attorney General reportedly possessed records of congressional members' search histories while accessing classified Epstein documents, raising unprecedented concerns about executive surveillance of legislative branch activities. <a href=\"https://www.nbcnews.com/politics/congress/lawmakers-demand-doj-stop-tracking-lawmakers-epstein-files-searches-rcna258721\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "date": "Feb 10, 2025",
-        "severity": "crit",
-        "title": "Trump directs intelligence agencies to support \"Stop the Steal\" lawyer",
-        "description": "President instructed spy agencies to provide intelligence support to his attorney advancing election fraud claims, representing unprecedented politicization of intelligence community for partisan legal efforts. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "U.S. launches sustained military campaign against Iran",
+        "description": "CBS News reports U.S. military action against Iran including assassination of foreign leader and ongoing bombing campaign, raising constitutional questions about war powers and congressional authorization. <a href=\"https://www.cbsnews.com/video/war-with-iran-cbs-news-special/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newCheckEvents": [
       {
-        "check": "DOJ Independence",
-        "date": "Feb 2025",
-        "text": "DOJ moved to dismiss Steve Bannon's criminal conviction for defying Jan. 6 congressional subpoena. <a href=\"https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "DOJ Independence",
-        "date": "Feb 2025",
-        "text": "White House immediately fired U.S. attorney hours after judges selected him to replace Trump's pick. <a href=\"https://www.cbsnews.com/news/justice-department-fires-u-s-attorney-in-new-york-hours-after-judges-picked-him-for-the-job/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
         "check": "Congressional Oversight",
-        "date": "Feb 2025",
-        "text": "Attorney General reportedly tracked lawmakers' search histories while accessing classified Epstein documents. <a href=\"https://www.cbsnews.com/news/bondi-epstein-files-search-history-hearing-pramila-jayapal/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Intelligence Community",
-        "date": "Feb 2025",
-        "text": "Trump instructed intelligence agencies to provide support to his \"Stop the Steal\" lawyer. <a href=\"https://www.nbcnews.com/politics/white-house/trump-instructs-spy-agencies-provide-intelligence-stop-steal-lawyer-rcna258406\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Intelligence Community",
-        "date": "Feb 2025",
-        "text": "Gabbard's office warned whistleblower attorney against sharing classified complaint with Congress. <a href=\"https://thehill.com/homenews/administration/5731671-tulsi-gabbard-whistleblower-warning/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Political Retribution",
-        "date": "Feb 2025",
-        "text": "Administration attempted to indict six Democratic lawmakers for protected speech, prompting legal action threats. <a href=\"https://www.pbs.org/newshour/show/rep-crow-signals-legal-action-after-administrations-effort-to-indict-6-democrats\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Press Freedom",
-        "date": "Feb 2025",
-        "text": "Journalist Don Lemon charged with crimes related to covering ICE protest at Minnesota church. <a href=\"https://www.axios.com/2025/02/13/don-lemon-plea-not-guilty-minnesota-church-protest\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Election Infrastructure",
-        "date": "Feb 2025",
-        "text": "Trump vowed to require voter ID in midterms \"whether approved by Congress or not.\" <a href=\"https://www.cbsnews.com/news/trump-vows-to-require-voter-id-in-midterms-whether-approved-by-congress-or-not/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Civil Service Independence",
-        "date": "Feb 2025",
-        "text": "Administration seeks to eliminate independent review and judicial recourse when federal workers are laid off. <a href=\"https://thehill.com/homenews/administration/5730400-trump-admin-strips-mspb-power/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "date": "Mar 2025",
+        "text": "Military operations against Iran launched without clear evidence of congressional war powers authorization. <a href=\"https://www.cbsnews.com/video/war-with-iran-cbs-news-special/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newTickerItems": [
       {
-        "label": "ELECTIONS",
-        "text": "Trump vows <strong>voter ID mandate</strong> for midterms \"whether approved by Congress or not\""
-      },
-      {
-        "label": "PRESS",
-        "text": "Journalist <strong>Don Lemon charged</strong> for covering ICE operation at church"
-      },
-      {
-        "label": "DOJ",
-        "text": "White House <strong>fires U.S. attorney hours</strong> after judicial appointment"
+        "label": "WAR POWERS",
+        "text": "U.S. launches <strong>sustained military campaign against Iran</strong>"
       },
       {
         "label": "CONGRESS",
-        "text": "DOJ allegedly <strong>tracked lawmakers' searches</strong> of classified Epstein files"
+        "text": "Military action raises <strong>constitutional war powers questions</strong>"
       }
     ],
     "statUpdates": [],
     "bannerUpdate": null,
-    "summary": "Multiple critical incidents this period include Trump's explicit threat to impose voter ID requirements without congressional approval, DOJ prosecution of journalist Don Lemon for covering an ICE protest, immediate firing of a judicially-appointed U.S. attorney, alleged DOJ surveillance of lawmakers' document searches, and Trump directing intelligence agencies to support his \"Stop the Steal\" lawyer. These developments represent escalating challenges to election infrastructure, press freedom, judicial independence, congressional oversight, and intelligence community integrity."
+    "summary": "Added critical incident tracking U.S. military operations against Iran launched March 2025, including assassination and bombing campaign. Updated Congressional Oversight check events to reflect war powers concerns. Added ticker items highlighting the military action and constitutional questions raised."
   }
 }
