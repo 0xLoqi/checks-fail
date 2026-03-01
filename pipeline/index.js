@@ -134,8 +134,7 @@ Summary: ${article.description}
 
 Respond ONLY with valid JSON: {"score": N, "reason": "one sentence", "categories": ["check-name"]}`
             }],
-            signal: controller.signal,
-          });
+          }, { signal: controller.signal });
         } finally {
           clearTimeout(timeoutId);
         }
