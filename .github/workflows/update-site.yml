@@ -33,4 +33,5 @@ jobs:
           git config user.email "bot@checks.fail"
           git add index.html data/last-site-update.json
           git commit -m "update: dashboard $(date -u +%Y-%m-%d)"
+          git pull --rebase
           git push
