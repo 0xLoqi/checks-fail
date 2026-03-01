@@ -109,26 +109,6 @@
       "scoredAt": "2026-02-09T17:49:34.016Z"
     },
     {
-      "id": "6b5c0e071904",
-      "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
-      "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter",
-      "source": "ProPublica",
-      "published": "2026-01-29T21:30:00.000Z",
-      "description": "The post Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation appeared first on ProPublica.",
-      "keywords": [
-        "attorney general",
-        "crypto"
-      ],
-      "significance": 6,
-      "reason": "A conflict-of-interest allegation against a senior DOJ official raises institutional concerns, but the situation remains within normal oversight mechanisms without evidence of systemic erosion.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:49:34.317Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -31871,8 +31851,405 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-02-28T18:02:51.773Z"
+    },
+    {
+      "id": "16def44d2768",
+      "title": "Retired Vice Admiral gives military perspective on US-Israel attacks on Iran",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730296/retired-vice-admiral-gives-military-perspective-on-us-israel-attacks-on-iran",
+      "source": "NPR Politics",
+      "published": "2026-02-28T22:34:54.000Z",
+      "description": "Robert Harward is a former U.S. Navy Seal who grew up in Iran and led operations in the region. He speaks with host Mary Louise Kelly about this moment and what it means.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.520Z"
+    },
+    {
+      "id": "10eaf1c21aab",
+      "title": "'One year of failure.' The Lancet slams RFK Jr.'s first year as health chief",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730372/one-year-of-failure-the-lancet-slams-rfk-jr-s-first-year-as-health-chief",
+      "source": "NPR Politics",
+      "published": "2026-02-28T19:16:25.000Z",
+      "description": "In a scathing review, the top US medical journal's editorial board warned that the \"destruction that Kennedy has wrought in 1 in office might take generations to repair.\"",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.519Z"
+    },
+    {
+      "id": "549bdc8d07f8",
+      "title": "Trump says 'a large amount' of Iran's leadership is gone",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-responds-reports-ayatollah-death-rcna261149",
+      "source": "NBC News",
+      "published": "2026-02-28T20:48:28.000Z",
+      "description": "President Donald Trump on Saturday said that U.S. and Israeli strikes on Iran killed Ayatollah Ali Khamenei and other top leaders.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.611Z"
+    },
+    {
+      "id": "104e094cd32a",
+      "title": "Democrats and a few Republicans say they'll force a vote to limit Trump in Iran",
+      "url": "https://www.nbcnews.com/politics/congress/democrats-force-vote-limit-trump-iran-strikes-republicans-rcna261120",
+      "source": "NBC News",
+      "published": "2026-02-28T17:52:10.000Z",
+      "description": "Most Republicans in Congress praised the U.S. and Israeli attack on Iran, arguing that war was President Donald Trump’s last resort to end its nuclear ambitions.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.727Z"
+    },
+    {
+      "id": "3f7cbc14d690",
+      "title": "Did Trump start a regional war in the Middle East?",
+      "url": "https://www.cbsnews.com/video/did-trump-start-regional-war-middle-east/",
+      "source": "CBS News",
+      "published": "2026-03-01T00:07:02.000Z",
+      "description": "The U.S. and Israel conducted joint strikes in Iran on Saturday and President Trump later announced that Supreme Leader Ayatollah Ali Khamenei had been killed. Margaret Brennan explains what this could mean for the region and the world.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.727Z"
+    },
+    {
+      "id": "e8e793894be2",
+      "title": "Trump officials say Iran likely intended to use missiles against U.S., allies before strikes",
+      "url": "https://www.cbsnews.com/video/trump-officials-say-iran-likely-intended-use-missiles-against-us-allies-before-strikes/",
+      "source": "CBS News",
+      "published": "2026-02-28T23:57:00.000Z",
+      "description": "Senior Trump administration officials said Saturday that there were indicators that Iran intended to use conventional missiles against the U.S. and allies in the region while President Trump weighed a strike. Weijia Jiang reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.722Z"
+    },
+    {
+      "id": "84fe0bbbd018",
+      "title": "Trump says Iran's supreme leader killed in joint strikes by U.S., Israel",
+      "url": "https://www.cbsnews.com/video/trump-says-irans-supreme-leader-killed-joint-strikes-us-israel/",
+      "source": "CBS News",
+      "published": "2026-02-28T23:50:00.000Z",
+      "description": "Weeks of failed diplomacy between the U.S. and Iran exploded into a full-blown attack on Saturday by Israel and the U.S. President Trump's goal is now obvious- an end to the Iranian regime. Mr. Trump announced Saturday that Iran's Supreme Leader Ayatollah Ali Khamenei was killed in the strikes. Charlie D'Agata reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.738Z"
+    },
+    {
+      "id": "d370d5b8099e",
+      "title": "Iran's Khamenei killed in U.S.-Israeli strikes after nearly 40-year reign",
+      "url": "https://www.cbsnews.com/news/ayatollah-khamenei-dead-iranian-supreme-leader-us-israel-military-mission/",
+      "source": "CBS News",
+      "published": "2026-02-28T21:50:00.000Z",
+      "description": "President Trump posted on social media that Iranian Supreme Leader Ayatollah Ali Khamenei had been killed after a massive U.S. and Israeli military operation​ Saturday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.722Z"
+    },
+    {
+      "id": "2a0d2572b9e4",
+      "title": "U.S. and Israel say Iran supreme leader Khamenei is dead",
+      "url": "https://www.axios.com/2026/02/28/iran-khamenei-killed-israel",
+      "source": "Axios",
+      "published": "2026-02-28T21:43:29.000Z",
+      "description": "Iranian Supreme Leader Ali Khamenei was killed in an Israeli strike Saturday as part of a massive joint military operation between the U.S. and Israel, President Trump said Saturday.\nThe latest: Trump celebrated Khamenei's death in a post on Truth Social, calling him \"one of the most evil people in History\" and saying his killing was \"justice\" for Americans and others killed by Iran over the decades.\n\nTrump appeared to confirm that U.S. intelligence played a direct role in tracking and targeting",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "speaker",
+        "trump",
+        "authoritarian"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.850Z"
+    },
+    {
+      "id": "1813c119f07f",
+      "title": "How Trump's Iran gamble is different than past regime overthrows",
+      "url": "https://www.axios.com/2026/02/28/trump-iran-war-iraq-venezuela",
+      "source": "Axios",
+      "published": "2026-02-28T21:37:52.000Z",
+      "description": "President Trump's bid to topple Iran's regime marks a sharp break from two decades of U.S. intervention playbooks across multiple presidencies.\nThe big picture: Trump's weekend strikes on Iran — and his explicit call for an uprising — diverge from how the U.S. approached regime pressure in Iraq and Venezuela, historians tell Axios. The gamble signals a more unpredictable stretch of his foreign policy ahead as he openly threatens force elsewhere.\n\nThe U.S. and Israel announced Saturday that Ayato",
+      "keywords": [
+        "election",
+        "raid",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.858Z"
+    },
+    {
+      "id": "3621d77d39b3",
+      "title": "Iran retaliates after U.S.–Israel strikes, triggering regional fallout across Middle East",
+      "url": "https://www.axios.com/2026/02/28/us-israel-strikes-iran-middle-east-dubai-airports",
+      "source": "Axios",
+      "published": "2026-02-28T20:31:07.000Z",
+      "description": "Data: Media reports and government statements; Map: Axios Visuals\nThe U.S.–Israel military operation against Iran Saturday shook the wider Middle East, driving Iranian retaliation and wayward intercepts into Arab cities, airports and oil corridors, from Dubai to Kuwait City.\nThe big picture: Iran's retaliation campaign has included aiming ballistic missiles and drones at U.S. bases and Israel — and is spilling into neighboring Arab states that host American forces or sit under flight paths.\n\nTho",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.866Z"
+    },
+    {
+      "id": "7da56d97bd93",
+      "title": "Reluctant MAGA demands swift results from Trump in Iran",
+      "url": "https://www.axios.com/2026/02/28/maga-iran-strikes-reaction-trump",
+      "source": "Axios",
+      "published": "2026-02-28T19:29:40.000Z",
+      "description": "The America First wing of the MAGA coalition wants swift results from Saturday's Iran strikes, often invoking the late Charlie Kirk's opposition to foreign wars.\nThe big picture: President Trump's invasion of Venezuela to capture Nicolás Maduro exposed a rift with some in his base, and a prolonged skirmish in the Middle East could exacerbate those tensions ahead of a difficult midterm election for Republicans.\n\nMany in the MAGA sphere said Trump had campaigned on no new wars. but they signaled a",
+      "keywords": [
+        "election",
+        "midterm",
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.848Z"
+    },
+    {
+      "id": "590f42e9208b",
+      "title": "Exclusive: Trump floats \"off ramps\" after attacking Iran",
+      "url": "https://www.axios.com/2026/02/28/trump-iran-war-israel-off-ramps",
+      "source": "Axios",
+      "published": "2026-02-28T19:21:48.000Z",
+      "description": "President Trump told Axios on Saturday that he has several \"off ramps\" from Operation Epic Fury, the extraordinary U.S. military campaign against Iran that he launched early Saturday morning.\nWhat they're saying: \"I can go long and take over the whole thing, or end it in two or three days and tell the Iranians: 'See you again in a few years if you start rebuilding [your nuclear and missile programs],\" Trump said in a five-minute phone interview from Mar-a-Lago.\n\n\"In any case, it will take them s",
+      "keywords": [
+        "DNI",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.846Z"
+    },
+    {
+      "id": "f2bf8d230b6d",
+      "title": "Trump offering immunity to IRGC, Iranian military and police forces",
+      "url": "https://thehill.com/homenews/administration/5760902-trump-offers-immunity-iran-forces/",
+      "source": "The Hill",
+      "published": "2026-02-28T23:22:13.000Z",
+      "description": "President Trump on Saturday said he will offer immunity to members of Iran’s Islamic Revolutionary Guard Corps (IRGC), along with its military and police forces, after the U.S. and Israel attacked the country earlier in the day. “We are hearing that many of their IRGC, Military, and other Security and Police Forces, no longer want…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.980Z"
+    },
+    {
+      "id": "28ae8b4481d8",
+      "title": "Trump says Iranian bombing campaign could last a week or as long as ‘necessary’",
+      "url": "https://thehill.com/homenews/administration/5760879-operation-epic-fury-iran/",
+      "source": "The Hill",
+      "published": "2026-02-28T22:29:35.000Z",
+      "description": "President Trump on Saturday said the U.S. bombing campaign in Iran could stretch over the course of the next week or last as long as “necessary.” “The heavy and pinpoint bombing, however, will continue, uninterrupted throughout the week or, as long as necessary to achieve our objective of PEACE THROUGHOUT THE MIDDLE EAST AND, INDEED,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:55.009Z"
+    },
+    {
+      "id": "1499478c7808",
+      "title": "Why young voters are moving away from Trump",
+      "url": "https://thehill.com/homenews/campaign/5759759-young-voters-trump-approval-rating-economy/",
+      "source": "The Hill",
+      "published": "2026-02-28T22:00:00.000Z",
+      "description": "Young voters are turning away from President Trump more sharply than any other major voting bloc.  In 2024, Trump narrowed Democrats’ longstanding advantage with voters under 30, outperforming recent Republican presidential nominees and prompting talk of a generational shift for the GOP. But that same group now appears to be pulling back, with some questioning whether…",
+      "keywords": [
+        "voting",
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:54.968Z"
+    },
+    {
+      "id": "536e8e581a8d",
+      "title": "Trump says Iran supreme leader Khamenei is dead ",
+      "url": "https://thehill.com/policy/international/5760795-us-israel-strike-iran-khamenei/",
+      "source": "The Hill",
+      "published": "2026-02-28T21:52:00.000Z",
+      "description": "President Trump on Saturday afternoon said Iranian Supreme Leader Ayatollah Ali Khamenei is dead following U.S. and Israeli strikes on Iran that the White House intended to lead to regime change for Tehran. Trump said the longtime U.S. enemy was dead about an hour after multiple news outlets reported that U.S. and Israel believed he…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.684Z"
+    },
+    {
+      "id": "16ac5c282881",
+      "title": "Lawler rips Massie, Democrats over war powers push after US strikes in Iran",
+      "url": "https://thehill.com/homenews/house/5760786-lawler-rips-massie-war-powers/",
+      "source": "The Hill",
+      "published": "2026-02-28T21:37:05.000Z",
+      "description": "Rep. Mike Lawler (R-N.Y.) on Saturday ripped into Rep. Thomas Massie (R-Ky.) and Democratic lawmakers pushing for a war powers resolution to rein in President Trump after the U.S. and Israel carried out joint strikes on Iran. Lawler said the president must notify Congress within 48 hours of deploying troops or carrying out an attack,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:10:55.000Z"
+    },
+    {
+      "id": "297fd49a1421",
+      "title": "Sunday shows preview: Lawmakers divided over US strikes on Iran as global fallout builds",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5760815-us-israel-strikes-iran/",
+      "source": "The Hill",
+      "published": "2026-02-28T21:32:07.000Z",
+      "description": "The launch of strikes on Iran early Saturday morning sent shockwaves across the globe. The joint operation from the U.S. and Israel follows weeks of negotiations between Iranian and American officials over the terms of a new nuclear deal.  President Trump issued a stark warning to the Iranian regime in a video posted on Truth…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.808Z"
+    },
+    {
+      "id": "9a446f990c9c",
+      "title": "Harris opposed to ‘regime change’ war in Iran",
+      "url": "https://thehill.com/homenews/administration/5760764-kamala-harris-opposes-iran-war/",
+      "source": "The Hill",
+      "published": "2026-02-28T20:27:26.000Z",
+      "description": "Former Vice President Kamala Harris on Saturday said she is against “regime change” in Iran and accused President Trump of “dragging the United States into a war the American people don’t want.” “Let me be clear,” Harris wrote in a statement shared on the social platform X. “I am opposed to a regime-change war in…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.842Z"
+    },
+    {
+      "id": "614625f386b1",
+      "title": "Five takeaways as Trump wages war on Iran",
+      "url": "https://thehill.com/policy/defense/5760747-trump-iran-regime-change/",
+      "source": "The Hill",
+      "published": "2026-02-28T20:01:16.000Z",
+      "description": "The United States and Israel launched waves of strikes Saturday morning against Iran after weeks of tensions between Washington and Tehran.  Iran swiftly retaliated, firing drones and ballistic missiles at Israel, along with attacking targets in Gulf countries, including Saudi Arabia, Qatar, the United Arab Emirates and Bahrain.  The joint mission, dubbed “Operation Epic Fury,” began shortly…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.824Z"
+    },
+    {
+      "id": "915d1a136d0a",
+      "title": "Protests opposing the US-led strikes in Iran planned in multiple cities",
+      "url": "https://thehill.com/homenews/state-watch/5760719-protests-us-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T19:59:22.000Z",
+      "description": "A coalition of organizations on Saturday have planned protests opposing the U.S. and Israeli strikes on Iran earlier in the day, with demonstrations planned across multiple cities. “Trump’s unprovoked, illegal attack on Iran is an act of war that threatens to cause unthinkable death and destruction. But the people of this country reject another endless…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.950Z"
+    },
+    {
+      "id": "470078804986",
+      "title": "Congress was just a backdrop at the State of the Union",
+      "url": "https://thehill.com/opinion/white-house/5759499-trump-congress-state-union/",
+      "source": "The Hill",
+      "published": "2026-02-28T19:00:00.000Z",
+      "description": "President Trump's State of the Union address was criticized for reducing Congress to a backdrop and ignoring key issues such as national security and health care, while the next Congress has the opportunity to reassert its authority and push back against executive overreach.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:55.830Z"
+    },
+    {
+      "id": "3962cddbf0b5",
+      "title": "Graham says European allies have ‘gone pathetically soft’ over Iran response",
+      "url": "https://thehill.com/homenews/senate/5760619-lindsey-graham-europe-reaction-trump-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-02-28T18:23:23.000Z",
+      "description": "Sen. Lindsey Graham (R-S.C.) slammed three European heads of state over their response to the latest strikes against Iran, calling the reaction “so sad.” The U.S. military launched the joint military operation, dubbed “Operation Epic Fury,” with Israeli forces early Saturday morning. President Trump announced the attack in a video posted to Truth Social overnight,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:56.067Z"
+    },
+    {
+      "id": "a0568e08141a",
+      "title": "Key pro-Israel Democrat to back war powers vote after Trump’s Iran strikes",
+      "url": "https://thehill.com/homenews/house/5760620-schneider-supports-war-powers-resolution/",
+      "source": "The Hill",
+      "published": "2026-02-28T18:00:33.000Z",
+      "description": "Rep. Brad Schneider (D-Ill.), one of Capitol Hill’s staunchest allies of Israel, will support a war powers resolution limiting President Trump’s use of force in Iran. Schneider, a senior member of the Foreign Affairs Committee, has in recent days declined to say how he’d vote on the war powers resolution, which Democrats plan to force…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Scoring failed",
+      "categories": [],
+      "scoredAt": "2026-03-01T00:20:56.059Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-02-28T18:02:51.773Z"
+  "lastFetch": "2026-03-01T00:20:56.067Z"
 }
