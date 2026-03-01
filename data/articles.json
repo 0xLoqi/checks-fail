@@ -94,21 +94,6 @@
       "scoredAt": "2026-02-09T17:49:33.160Z"
     },
     {
-      "id": "fee6bdcd0bdc",
-      "title": "She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad.",
-      "url": "https://www.propublica.org/article/nike-factory-worker-rights-indonesia-advocate",
-      "source": "ProPublica",
-      "published": "2026-01-30T10:25:00.000Z",
-      "description": "The post She Was a Key Voice of the 1990s Labor Movement in Nike’s Indonesia Factories. Today She Relies on Donations From Abroad. appeared first on ProPublica.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This article focuses on labor activism and corporate accountability in Indonesia rather than U.S. democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:34.016Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -32248,8 +32233,586 @@
       "reason": "Scoring failed",
       "categories": [],
       "scoredAt": "2026-03-01T00:20:56.059Z"
+    },
+    {
+      "id": "81aec26dd221",
+      "title": "Rep. Jim Himes, member on the House Intelligence Committee, discusses U.S. strikes",
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5730644/rep-jim-himes-member-on-the-house-intelligence-committee-discusses-u-s-strikes",
+      "source": "NPR Politics",
+      "published": "2026-03-01T13:08:06.000Z",
+      "description": "NPR's Ayesha Rascoe asks Rep. Jim Himes, D-Conn., about Congressional authorization for the U.S. strikes on Iran.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 3,
+      "reason": "This is routine news coverage of a congressional member discussing foreign policy strikes, without evidence of institutional conflict or democratic check erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:25.722Z"
+    },
+    {
+      "id": "d2d6acc444b2",
+      "title": "Politics chat: Trump delivers on threat to strike Iran, calls for regime change",
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5727699/politics-chat-trump-delivers-on-threat-to-strike-iran-calls-for-regime-change",
+      "source": "NPR Politics",
+      "published": "2026-03-01T13:07:56.000Z",
+      "description": "President Trump delivered on his threat to strike Iran and announced a military campaign there on Saturday assisted by Israel. He also called for regime change.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign military and diplomatic policy decisions, which fall within executive authority and do not directly implicate domestic democratic checks and balances institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:26.027Z"
+    },
+    {
+      "id": "4e758e5c6bbb",
+      "title": "Fact-checking statements made by Trump to justify U.S. strikes on Iran",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-statements-made-by-trump-to-justify-u-s-strikes-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-01T00:19:08.000Z",
+      "description": "President Donald Trump's accusation that Iran is building nuclear weapons that could \"soon\" reach the U.S. is contradicted by a 2025 federal government assessment that said Iran is years away from the ability to produce long-range missiles.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is fact-checking commentary on foreign policy justifications rather than reporting on institutional changes to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:25.339Z"
+    },
+    {
+      "id": "851d82081ea1",
+      "title": "China emerges as big winner from Supreme Court's tariff ruling",
+      "url": "https://www.nbcnews.com/world/asia/china-emerges-big-winner-supreme-courts-tariff-ruling-rcna260382",
+      "source": "NBC News",
+      "published": "2026-03-01T11:00:00.000Z",
+      "description": "HONG KONG — Global trade has been upended again after the Supreme Court struck down President Donald Trump’s “reciprocal” tariffs, with U.S. trading partners and businesses around the world grasping to understand the system that replaces them",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article addresses trade policy and tariff authority but does not substantively concern democratic checks and balances, institutional independence, or erosion of constitutional safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:26.903Z"
+    },
+    {
+      "id": "506acc741ef5",
+      "title": "Ro Khanna calls on Trump and Commerce Secretary Howard Lutnick to testify on Epstein relationships",
+      "url": "https://www.nbcnews.com/politics/congress/ro-khanna-trump-howard-lutnick-testify-epstein-subpoena-rcna261199",
+      "source": "NBC News",
+      "published": "2026-03-01T20:25:34.000Z",
+      "description": "Rep. Ro Khanna called on Trump to testify about his relationship with Jeffery Epstein and said that he's working alongside a Republican lawmaker to subpoena Commerce Secretary Howard Lutnick to compel him to testify following new revelations about his ties to the disgraced financier.",
+      "keywords": [
+        "subpoena",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A congressional call for testimony on personal misconduct represents notable oversight activity, but lacks the institutional weight or precedent-setting significance of major checks-and-balances actions.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:27.084Z"
+    },
+    {
+      "id": "bb33715ef85a",
+      "title": "Trump says 'we expect casualties' after Iran strikes but 'in the end it's going to be a great deal for the world'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-casualties-us-military-operation-iran-khamenei-rcna261212",
+      "source": "NBC News",
+      "published": "2026-03-01T19:02:30.000Z",
+      "description": "Hours after the U.S. military announced that three U.S. service members were killed during military strikes against Iran, President Donald Trump told NBC News, “We expect casualties with something like this.”Trump added in a phone interview, “We have three, but we expect casualties, but in the end it’s going to be a great deal for the world.”U.S.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report of presidential statements about military casualties and foreign policy, with no direct bearing on domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:27.366Z"
+    },
+    {
+      "id": "3f09c0902405",
+      "title": "Trump says strikes on Iran are 'ahead of schedule'",
+      "url": "https://www.nbcnews.com/now/video/trump-says-strikes-on-iran-are-ahead-of-schedule-258511429642",
+      "source": "NBC News",
+      "published": "2026-03-01T18:56:55.000Z",
+      "description": "President Donald Trump said the U.S. strikes on Iran are “ahead of schedule” and suggested one possible outcome from the attacks is \"decapitating\" Iran's leadership. NBC News’ Julie Tsirkin details the outcome Trump said he wants to see and his reaction to the death of three U.S. service members.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on presidential statements about military operations with no direct implications for democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:27.136Z"
+    },
+    {
+      "id": "5d1b7084a79b",
+      "title": "Ro Khanna urges Trump to testify ‘voluntarily’ in Epstein probe after Bill Clinton did",
+      "url": "https://www.nbcnews.com/meet-the-press/video/ro-khanna-urges-trump-to-testify-voluntarily-in-epstein-probe-after-bill-clinton-did-258504773629",
+      "source": "NBC News",
+      "published": "2026-03-01T14:51:53.000Z",
+      "description": "After the Clintons testified to the House Oversight Committee over alleged involvement with Jeffrey Epstein, Rep. Ro Khanna (D-Calif.) tells Meet the Press that a “precedent” has been set for President Trump and Commerce Secretary Howard Lutnick to be subpoenaed over their relationship to Epstein.",
+      "keywords": [
+        "subpoena",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary about a congressman's call for voluntary testimony, lacking institutional action or policy changes affecting democratic structures.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:26.864Z"
+    },
+    {
+      "id": "448d2f522784",
+      "title": "Trump signals willingness to talk to new Iranian leadership as strikes continue",
+      "url": "https://www.cbsnews.com/news/trump-iran-strikes-talks/",
+      "source": "CBS News",
+      "published": "2026-03-01T20:18:49.000Z",
+      "description": "President Trump said Sunday that he is willing to speak with the new leadership in Iran following the death of Supreme Leader Ayatollah Ali Khamenei.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy diplomacy and does not directly address domestic democratic institutions, checks and balances, or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:28.053Z"
+    },
+    {
+      "id": "4fe46a1a9503",
+      "title": "Lawmakers stress new urgency around war powers votes after Iran strikes",
+      "url": "https://www.cbsnews.com/news/congress-war-powers-votes-iran-strikes/",
+      "source": "CBS News",
+      "published": "2026-03-01T20:18:38.000Z",
+      "description": "Efforts in Congress to block President Trump from using further military force against Iran without support from lawmakers have intensified after the U.S. and Israel launched a massive military operation.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional efforts to reassert war powers authority represent notable institutional checks on executive power, but lack concrete legislative action or immediate enforcement mechanism.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:28.423Z"
+    },
+    {
+      "id": "06996a9f6542",
+      "title": "3 U.S. service members killed in military operation against Iran, CENTCOM says",
+      "url": "https://www.cbsnews.com/news/iran-military-operation-american-service-members-killed-centcom/",
+      "source": "CBS News",
+      "published": "2026-03-01T18:36:25.000Z",
+      "description": "U.S. Central Command said Sunday that three American service members were killed and five others were seriously wounded as part of the military operation in Iran.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine military incident report with no direct implications for democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:28.213Z"
+    },
+    {
+      "id": "28586165bf47",
+      "title": "Extended interview: Jack Schlossberg",
+      "url": "https://www.cbsnews.com/video/extended-interview-jack-schlossberg/",
+      "source": "CBS News",
+      "published": "2026-03-01T16:10:00.000Z",
+      "description": "Jack Schlossberg, the 33-year-old grandson of President John F. Kennedy, is running for Congress in New York's 12th District. In this extended interview, he talks with correspondent Mo Rocca about his family; the skepticism and apathy of many voters for politics today; and why he is pursuing public office.",
+      "keywords": [
+        "voter",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a biographical interview about a political candidate with no direct relevance to institutional checks and balances, democratic erosion, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:29.358Z"
+    },
+    {
+      "id": "107612a3ca55",
+      "title": "Extended interview: Jack Schlossberg at home",
+      "url": "https://www.cbsnews.com/video/extended-interview-jack-schlossberg-at-home/",
+      "source": "CBS News",
+      "published": "2026-03-01T14:47:00.000Z",
+      "description": "Jack Schlossberg, the 33-year-old grandson of President John F. Kennedy, is running for Congress in New York's 12th District. In this extended interview, he talks with correspondent Mo Rocca about his family's support for his campaign; addressing the Trump administration's attacks on his grandfather's legacy; and about his recovery from a serious back injury.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a personal profile interview with a congressional candidate covering family support, legacy, and health recovery, with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:28.347Z"
+    },
+    {
+      "id": "742738353baa",
+      "title": "War with Iran | CBS News Special",
+      "url": "https://www.cbsnews.com/video/war-with-iran-cbs-news-special/",
+      "source": "CBS News",
+      "published": "2026-03-01T04:56:00.000Z",
+      "description": "Tony Dokoupil anchors special coverage of the large-scale military operation launched by the U.S. and Israel on Iran, killing Supreme Leader Ayatollah Ali Khamenei, who ruled for nearly 40 years. President Trump said the U.S. would continue \"heavy and pinpoint bombing\" throughout the week or \"as long as necessary.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "Military action of this magnitude involving killing a foreign leader and sustained bombing campaign raises critical questions about congressional war powers authority, executive overreach, and adherence to constitutional checks on military decisions.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-01T20:44:30.524Z"
+    },
+    {
+      "id": "7f3197ad8e5d",
+      "title": "\"I have been singing, screaming, celebrating with my people,\" Iranian-American journalist says",
+      "url": "https://www.cbsnews.com/video/i-have-been-singing-screaming-celebrating-with-my-people-iranian-american-journalist-says/",
+      "source": "CBS News",
+      "published": "2026-03-01T04:31:00.000Z",
+      "description": "Iranian Supreme Leader Ayatollah Ali Khamenei was killed in strikes by the U.S. and Israel on Saturday. CBS News contributor Masih Alinejad, who has survived three plots by Iran's regime to kill or kidnap her, discusses the crippling of the Iranian regime.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 1,
+      "reason": "This is a news report about international military events and a journalist's personal reaction, with no direct relevance to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:30.357Z"
+    },
+    {
+      "id": "c0942007fa07",
+      "title": " US Senate candidates in Texas make final pitches to voters ahead of Tuesday's primary",
+      "url": "https://abcnews.com/Politics/wireStory/us-senate-candidates-texas-make-final-pitches-voters-130644974",
+      "source": "ABC News",
+      "published": "2026-03-01T05:15:00.000Z",
+      "description": "A heated U.S. Senate race in Texas is entering its final stretch before voters decide Tuesday who will be their party's nominee in November",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "Routine campaign coverage of a primary election with no indication of institutional changes, democratic erosion, or checks and balances concerns.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:30.386Z"
+    },
+    {
+      "id": "95c06b40a940",
+      "title": "FBI investigating Austin mass shooting as potential terrorism",
+      "url": "https://www.axios.com/local/austin/2026/03/01/austin-mass-shooting-west-sixth-street",
+      "source": "Axios",
+      "published": "2026-03-01T19:33:42.000Z",
+      "description": "The FBI is investigating a deadly mass shooting in Austin as a potential act of terrorism.\nThe latest: Texas Gov. Greg Abbott drew a link to the Middle East conflict in a Monday statement, though FBI and local officials haven't confirmed any such connection.\n\n\"To anyone who thinks about using the current conflict in the Middle East to threaten Texans or our critical infrastructure, understand this clearly: Texas will respond with decisive and overwhelming force to protect our state,\" he said.\n\nC",
+      "keywords": [
+        "FBI",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine news reporting on a criminal investigation with no indication of institutional dysfunction, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:30.472Z"
+    },
+    {
+      "id": "d0546854aa4b",
+      "title": "The U.S. is destroying Iran's navy after it tried to shut down global oil flows",
+      "url": "https://www.axios.com/2026/03/01/trump-us-sinks-9-iran-warships-strait-of-hormuz",
+      "source": "Axios",
+      "published": "2026-03-01T18:02:10.000Z",
+      "description": "President Trump said Sunday the U.S. military destroyed nine Iranian warships and is in the process of destroying the rest of Iran's navy. \nWhy it matters: The U.S. strikes target Iran's ability to close the strategic Strait of Hormuz, the narrow waterway through which roughly a fifth of the world's oil supply flows.\n\nWhat he's saying: \"I have just been informed that we have destroyed and sunk 9 Iranian Naval Ships, some of them relatively large and important. We are going after the rest. They w",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article concerns military/foreign policy operations against Iran and does not directly implicate any of the 12 tracked domestic democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:30.206Z"
+    },
+    {
+      "id": "293b3f5a2ca3",
+      "title": "Oil prices fallout: OPEC producers boost output after Iran strikes",
+      "url": "https://www.axios.com/2026/03/01/iran-strikes-oil-prices-opec",
+      "source": "Axios",
+      "published": "2026-03-01T16:13:42.000Z",
+      "description": "A coalition of OPEC, Russia and allied oil-producing nations agreed Sunday to boost output by a larger-than-expected amount in a move that could help offset any shortfall from Iran amid this weekend's strikes.\nWhy it matters: The OPEC+ boost of 206,000 barrels per day is an early sign of how producers and companies will respond to U.S. and Israeli strikes on Iran as the world ponders the effect on oil prices.\n\nProducers and companies also are anxiously watching the situation in the Strait of Hor",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns international energy markets and OPEC production decisions, which has no direct relevance to U.S. domestic democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:31.441Z"
+    },
+    {
+      "id": "82c219e6e96e",
+      "title": "3 U.S. service members killed in Iran conflict",
+      "url": "https://www.axios.com/2026/03/01/us-troops-killed-iran-operation-epic-fury",
+      "source": "Axios",
+      "published": "2026-03-01T15:13:26.000Z",
+      "description": "Three U.S. service members were killed in action and five more seriously wounded as part of the American and Israeli strikes on Iran, U.S. Central Command announced Sunday morning.\nThe big picture: The casualties are the first confirmed American combat deaths since the U.S. and Israel launched strikes on Iran Saturday. The confirmation comes as Iran retaliates with ballistic missiles and drones against U.S. bases and allies across the Middle East.\n\nState of play: Several other troops sustained m",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine military casualty report with no connection to domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:31.364Z"
+    },
+    {
+      "id": "225177da477e",
+      "title": "Pope Leo condemns \"spiral of violence\" in U.S., Israel strikes on Iran",
+      "url": "https://www.axios.com/2026/03/01/iran-us-trump-israel-strikes-pope-leo",
+      "source": "Axios",
+      "published": "2026-03-01T14:11:51.000Z",
+      "description": "Pope Leo XIV condemned the escalating violence in the Middle East and Iran Sunday, warning that the \"spiral of violence\" risks becoming \"an unbridgeable chasm.\"\nThe big picture: The first American pontiff has been a vocal critic of the Trump administration's policies since becoming pope last May, previously condemning the president's \"zeal for war\" following U.S. military operations in the Caribbean and the capture of Venezuelan leader Nicolás Maduro.\n\nWhat he's saying: \"Stability and peace are ",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article reports foreign commentary on international military conflicts with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:31.571Z"
+    },
+    {
+      "id": "9265fbb6a455",
+      "title": "Two months, two tracks: How Trump chose war with Iran",
+      "url": "https://www.axios.com/2026/03/01/trump-iran-war-attack-behind-scenes",
+      "source": "Axios",
+      "published": "2026-03-01T04:11:26.000Z",
+      "description": "As Israeli bombs fell on the supreme leader's compound in Tehran on Saturday morning, Ayatollah Ali Khamenei was meeting above ground with several of his top advisers.\n\nHe never saw it coming.\n\nWhy it matters: The joint U.S.-Israeli operation that killed Khamenei was the culmination of two months in which President Trump pursued both diplomacy and war — on parallel tracks. On Friday, he chose war.\n\nThe crisis, which began with the public uprising in Iran in late December, was vintage Trump — ful",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "DNI",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy and military operations with no direct bearing on domestic democratic institutions, checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:33.250Z"
+    },
+    {
+      "id": "02fe52ab399f",
+      "title": "Kaine: Trump strikes on Iran an ‘illegal war’",
+      "url": "https://thehill.com/homenews/senate/5761879-kaine-challenges-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-01T19:37:59.000Z",
+      "description": "Sen. Tim Kaine (D-Va.) on Sunday said the Trump administration launched an “illegal war” with strikes on Iran.  Kaine is sponsoring a war powers resolution vote seeking to block further attacks against Iran. “This is an illegal war. I have a war powers resolution queued up for vote this week, and I’m encouraging my colleagues…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight assertion through war powers resolution is institutionally significant but represents routine legislative pushback rather than unprecedented democratic erosion or major institutional action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:31.617Z"
+    },
+    {
+      "id": "6050979b88bd",
+      "title": "The attorney general needs to be independent",
+      "url": "https://thehill.com/opinion/white-house/5760009-reform-needed-attorney-general/",
+      "source": "The Hill",
+      "published": "2026-03-01T19:00:00.000Z",
+      "description": "The recent performance of U.S. Attorney General Pam Bondi before congressional committees has raised concerns about the independence of the Department of Justice, and reforms are needed to ensure that the office is respected and acts impartially.",
+      "keywords": [
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "An opinion piece advocating for DOJ independence reforms is notable but lacks concrete institutional actions or unprecedented developments to warrant higher urgency.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:34.300Z"
+    },
+    {
+      "id": "b8ead05ef8e1",
+      "title": "Live updates: Trump warns Iran against retaliation; 3 US servicemembers killed",
+      "url": "https://thehill.com/homenews/administration/5760945-live-updates-trump-iran-strikes-regime-change/",
+      "source": "The Hill",
+      "published": "2026-03-01T18:24:14.000Z",
+      "description": "President Trump is urging for regime change in Iran and warning against retaliation, with Israel launching another round of strikes in the Middle Eastern country Sunday. Overnight, the president threatened to strike Iran “with a force that has never been seen before” if Tehran retaliates “very hard” against the U.S. Here’s what you need to…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy and military matters rather than domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:34.192Z"
+    },
+    {
+      "id": "8a44e368b5b6",
+      "title": "Trump agrees to speak to Iran’s interim leadership: The Atlantic",
+      "url": "https://thehill.com/homenews/administration/5761644-trump-iran-interim-leadership/",
+      "source": "The Hill",
+      "published": "2026-03-01T17:21:45.000Z",
+      "description": "President Trump on Sunday reportedly said he has agreed to speak to Iran’s new leadership after the U.S. and Israel’s joint strikes killed Ayatollah Ali Khamenei, the country’s supreme leader, on Saturday. “They want to talk, and I have agreed to talk, so I will be talking to them. They should have done it sooner.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy news reporting on diplomatic communications with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:34.359Z"
+    },
+    {
+      "id": "8d5d02bbf251",
+      "title": "America’s cost-of-living crisis is entering its most brutal phase",
+      "url": "https://thehill.com/opinion/finance/5759860-cost-of-living-crisis-deepens/",
+      "source": "The Hill",
+      "published": "2026-03-01T17:00:00.000Z",
+      "description": "Americans are struggling to make ends meet as prices rise and job security decreases, leading to a shift in expectations and a feeling of hopelessness.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article addresses economic conditions and public sentiment but does not directly relate to institutional checks and balances, democratic safeguards, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:34.138Z"
+    },
+    {
+      "id": "8ca9024e7517",
+      "title": "5 things to watch in Tuesday’s Texas primaries",
+      "url": "https://thehill.com/homenews/campaign/5759788-texas-senate-primary-what-to-know/",
+      "source": "The Hill",
+      "published": "2026-03-01T17:00:00.000Z",
+      "description": "The first major test of the 2026 midterms looms next week in Texas.  The Lone Star State’s Senate primaries are in the national spotlight as some party leaders warn their seat in the red stronghold could flip into Democratic hands this fall.   Across the aisle, Democrats have seen a surge of early voting turnout as…",
+      "keywords": [
+        "voting",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news coverage of primary elections with no direct implications for institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-01T20:44:34.176Z"
+    },
+    {
+      "id": "3623320940d7",
+      "title": "‘Indicators’ of possible terrorism in deadly Austin mass shooting: FBI",
+      "url": "https://thehill.com/homenews/state-watch/5761479-3-dead-including-the-suspect-and-several-injured-in-downtown-austin-mass-shooting/",
+      "source": "The Hill",
+      "published": "2026-03-01T16:14:19.000Z",
+      "description": "Two people are dead and 14 more are injured after the early morning shooting. The alleged gunman was fatally shot by officers, according to authorities.",
+      "keywords": [
+        "FBI",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine news reporting on a criminal incident with standard law enforcement response; does not indicate systemic threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:35.319Z"
+    },
+    {
+      "id": "252b03939626",
+      "title": "Kelly says it’s ‘unlikely’ he backs war powers vote",
+      "url": "https://thehill.com/homenews/senate/5761578-kelly-unlikely-backs-war-powers-resolution/",
+      "source": "The Hill",
+      "published": "2026-03-01T16:12:31.000Z",
+      "description": "Sen. Mark Kelly (D-Ariz.) on Sunday said it was “unlikely” that he would vote in favor of a war powers vote after the U.S. and Israel launched strikes on Iran. “I’m going to have to take a close look at it. I want to hear from the White House what their strategy is going forward.…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "A single senator's preliminary stance on a potential war powers vote is routine political commentary without evidence of institutional action or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-01T20:44:35.208Z"
+    },
+    {
+      "id": "48c40209741a",
+      "title": "Political questions: Not every issue can be resolved in federal court",
+      "url": "https://thehill.com/opinion/judiciary/5759149-pq-doctrine-judicial-restraint/",
+      "source": "The Hill",
+      "published": "2026-03-01T16:00:00.000Z",
+      "description": "Political question doctrine is best understood as one of jurisdiction and judicial restraint.",
+      "keywords": [
+        "judicial"
+      ],
+      "significance": 5,
+      "reason": "A clarification of political question doctrine is notable for understanding judicial boundaries, but represents routine legal commentary rather than a significant institutional action or policy change.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-01T20:44:35.315Z"
+    },
+    {
+      "id": "f02810e39674",
+      "title": "Democratic senator: No end to Iran conflict in sight",
+      "url": "https://thehill.com/homenews/senate/5761572-warner-warns-iran-retaliation/",
+      "source": "The Hill",
+      "published": "2026-03-01T15:52:52.000Z",
+      "description": "Sen. Mark Warner (D-Va.), the vice chair of the Senate Intelligence Committee, warned on Sunday that there’s no end in sight to the escalating military conflict with Iran, which spread to Israel and at least eight Arab countries over the weekend. Warner said the elimination of Iranian Supreme Leader Ayatollah Ali Khamenei and other senior…",
+      "keywords": [
+        "ICE",
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary from a senator on an ongoing international conflict, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:35.216Z"
+    },
+    {
+      "id": "4086cd05f9ac",
+      "title": "Cotton: US strikes will focus on ‘thousands’ of Iranian missiles",
+      "url": "https://thehill.com/homenews/senate/5761535-cotton-iran-missiles-us-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-01T15:17:24.000Z",
+      "description": "Senate Intelligence Committee Chair Tom Cotton (R-Ark.) said that U.S. military strikes over the next week and beyond will focus on Iran’s cache of “thousands” of missiles, including sites where those projectiles are deployed and manufactured. “We’ve always said Iran can never have a nuclear weapon. They also can’t be allowed to have a vast…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on military strategy statements by a senator with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-01T20:44:35.412Z"
+    },
+    {
+      "id": "e7cc2932a3b8",
+      "title": "Louisiana’s 10 Commandments Law Marks a Critical Step Toward Christian Nationalism",
+      "url": "https://www.rollingstone.com/politics/politics-features/10-commandments-louisiana-christian-nationalism-1235523171/",
+      "source": "Rolling Stone",
+      "published": "2026-03-01T15:30:00.000Z",
+      "description": "Experts on the Christian right talk about the rise of the movement in the U.S., and how a state law could further erode the separation of church and state",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "The law represents a notable institutional action affecting judicial independence and separation of powers through potential constitutional challenges, but lacks the immediacy of direct democratic erosion.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-01T20:44:36.334Z"
+    },
+    {
+      "id": "e388190f7707",
+      "title": "War Is Peace: Trump’s Regime-Change Reversal",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-regime-change-attack-on-iran-1235523388/",
+      "source": "Rolling Stone",
+      "published": "2026-03-01T00:59:18.000Z",
+      "description": "If the United States is now kidnapping and killing dictators without direct provocation, it will come back to bite us after demolishing our moral authority in the world",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Opinion piece criticizing foreign policy decisions with potential long-term reputational implications, but lacking concrete institutional or domestic democratic mechanism impacts.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-01T20:44:36.304Z"
     }
   ],
   "lastDigest": "2026-02-23T14:21:15.979Z",
-  "lastFetch": "2026-03-01T00:20:56.067Z"
+  "lastFetch": "2026-03-01T20:44:36.334Z"
 }
