@@ -32459,7 +32459,8 @@
         "congressional oversight",
         "judicial independence"
       ],
-      "scoredAt": "2026-03-01T20:44:30.524Z"
+      "scoredAt": "2026-03-01T20:44:30.524Z",
+      "digestedAt": "2026-03-01T20:44:58.764Z"
     },
     {
       "id": "7f3197ad8e5d",
@@ -32813,6 +32814,6 @@
       "scoredAt": "2026-03-01T20:44:36.304Z"
     }
   ],
-  "lastDigest": "2026-02-23T14:21:15.979Z",
+  "lastDigest": "2026-03-01T20:44:58.764Z",
   "lastFetch": "2026-03-01T20:44:36.334Z"
 }
