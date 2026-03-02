@@ -33058,8 +33058,125 @@
       "reason": "This is congressional commentary on foreign policy rather than reporting on actions affecting domestic democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-02T00:10:08.358Z"
+    },
+    {
+      "id": "293289e48af4",
+      "title": "How Trump decided to strike Iran",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-decided-strike-iran-rcna261205",
+      "source": "NBC News",
+      "published": "2026-03-02T02:17:29.000Z",
+      "description": "A last chance to avert war with Iran played out Thursday in Geneva, where Trump's U.S. negotiators told Iran they must not take steps to build a nuclear bomb.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine foreign policy negotiation and does not address domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T06:15:24.298Z"
+    },
+    {
+      "id": "dd4e49cff607",
+      "title": "Trump says war with Iran will continue until all \"objectives are achieved\"",
+      "url": "https://www.cbsnews.com/video/trump-says-war-with-iran-will-continue-until-all-objectives-are-achieved/",
+      "source": "CBS News",
+      "published": "2026-03-02T01:15:00.000Z",
+      "description": "President Trump released a new statement on Iran Sunday, saying, \"Combat operations continue at this time in full force, and they will continue until all of our objectives are achieved.\" Willie James Inman reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A presidential statement about military operations reflects executive war powers that warrant congressional oversight but lacks specific institutional erosion or unprecedented democratic checks violations in this isolated statement.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T06:15:24.505Z"
+    },
+    {
+      "id": "1bc0f4f788ca",
+      "title": "Hezbollah launches missiles at Israel from Lebanon, Israeli military says",
+      "url": "https://www.axios.com/2026/03/02/iran-war-israel-hezbollah-lebanon",
+      "source": "Axios",
+      "published": "2026-03-02T01:46:52.000Z",
+      "description": "Hezbollah fired several missiles from Lebanon towards Israel on Sunday, two days after the U.S. and Israel launched strikes on Iran, the Tehran-backed militant group and the IDF said. \nWhy it matters: This would expand the current conflict to another country in the region and threatens to seriously destabilize Lebanon. \n\nWhile seriously degraded by almost daily Israeli strikes over the past year, Hezbollah remains Iran's strongest and most important proxy in the region.  \n\nThe latest: Israel Def",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is foreign policy/military news regarding Israel-Hezbollah conflict with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T06:15:24.545Z"
+    },
+    {
+      "id": "c35e89328486",
+      "title": "U.S. and Israel delayed original Iran strike by a week, officials say",
+      "url": "https://www.axios.com/2026/03/02/iran-war-strike-israel-delay-trump",
+      "source": "Axios",
+      "published": "2026-03-02T01:35:24.000Z",
+      "description": "The U.S. and Israel originally planned to attack Iran a week earlier than they did, but the opening strike was delayed for operational and intelligence reasons, according to senior U.S. and Israeli officials.\nWhy it matters: The delay gave President Trump another week to choose between the two parallel tracks — diplomacy and war — he had been walking for nearly two months.\n\nIt also made the final round of nuclear talks in Geneva far more consequential, giving Iran one last chance to make a deal.",
+      "keywords": [
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy/military operations reporting with no direct bearing on domestic democratic institutions, checks and balances, or their erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-02T06:15:25.603Z"
+    },
+    {
+      "id": "ac09d3a717db",
+      "title": "Dem rep: Trump not responding to questions on servicemembers killed is ‘pathetic’",
+      "url": "https://thehill.com/homenews/house/5762364-ryan-criticizes-trump-operation/",
+      "source": "The Hill",
+      "published": "2026-03-02T03:35:27.000Z",
+      "description": "Democratic Rep. Pat Ryan (N.Y.), an Army veteran, accused President Trump on Sunday of not looking out for U.S. troops, as three American service members have so been far been killed during the operation against Iran.  Speaking to Kaitlan Collins on CNN, Ryan said Trump not answering questions from reporters at the White House on…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is partisan commentary on Trump's media responsiveness regarding military casualties, lacking substantive information about institutional mechanisms, policy changes, or democratic processes.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-02T06:15:25.561Z"
+    },
+    {
+      "id": "2051feba48b5",
+      "title": "Poll: Talarico, Paxton hold slim edge heading into Tuesday primary",
+      "url": "https://thehill.com/homenews/campaign/5762317-texas-senate-primary-poll/",
+      "source": "The Hill",
+      "published": "2026-03-02T02:50:53.000Z",
+      "description": "A new poll from Emerson College shows that Texas state Rep. James Talarico (D) and state Attorney General Ken Paxton (R) have single-digit leads in their respective Texas Senate primary races. The survey, released Sunday, found that 52 percent of likely Democratic primary voters backed Talarico, while 47 percent backed Rep. Jasmine Crockett (D). Paxton,…",
+      "keywords": [
+        "voter",
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine election polling coverage with no bearing on institutional checks and balances or democratic integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-02T06:15:25.481Z"
+    },
+    {
+      "id": "ec88ca51e4c7",
+      "title": "Trump administration to give briefing on Iran to Congress on Tuesday",
+      "url": "https://thehill.com/homenews/administration/5762301-trump-administration-briefs-congress-iran/",
+      "source": "The Hill",
+      "published": "2026-03-02T02:00:42.000Z",
+      "description": "Top Trump administration officials will brief both chambers of Congress on Tuesday regarding ongoing U.S. strikes on Iran, amid widespread Democratic opposition to the operation and broad Republican support. Assistant Secretary of State for Global Public Affairs Dylan Johnson told The Hill that Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth, CIA Director…",
+      "keywords": [
+        "johnson",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A routine congressional briefing on military operations represents standard executive-legislative communication, though the partisan divide and lack of detail about briefing substance limit assessment of oversight effectiveness.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T06:15:25.595Z"
     }
   ],
   "lastDigest": "2026-03-01T20:44:58.764Z",
-  "lastFetch": "2026-03-02T00:10:08.358Z"
+  "lastFetch": "2026-03-02T06:15:25.603Z"
 }
