@@ -32812,8 +32812,254 @@
         "press freedom"
       ],
       "scoredAt": "2026-03-01T20:44:36.304Z"
+    },
+    {
+      "id": "c021caf61704",
+      "title": "Republicans praise U.S. strikes on Iran as Democrats question the administration's strategy",
+      "url": "https://www.nbcnews.com/politics/congress/iran-congress-government-khamenei-strikes-israel-war-powers-resolution-rcna261193",
+      "source": "NBC News",
+      "published": "2026-03-01T15:13:12.000Z",
+      "description": "Members of Congress split largely along party lines in their assessments of the U.S. and Israeli military strikes on Iran, with Republicans mostly backing the operation and Democrats urging the administration to seek congressional approval and questioning President Donald Trump's strategy.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This represents routine partisan disagreement over foreign military operations rather than a structural threat to democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T00:10:04.595Z"
+    },
+    {
+      "id": "3dd6a3a8bfea",
+      "title": "Trump says operations will \"continue until all of our objectives are achieved\"",
+      "url": "https://www.cbsnews.com/news/trump-video-address-iran-israel-combat-operations-continue-until-objectives-achieved/",
+      "source": "CBS News",
+      "published": "2026-03-01T22:44:19.000Z",
+      "description": "\"Sadly, there will likely be more before it ends. That's the way it is. Likely be more,\" President Trump said after mentioning the three U.S. service members killed in the operation.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Vague statement about ongoing military operations lacks specific institutional implications for U.S. democratic checks and balances, though the context of operational continuity warrants monitoring.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-02T00:10:04.582Z"
+    },
+    {
+      "id": "3d1e1e3f3bea",
+      "title": "U.S. cities step up security measures amid Iran tensions",
+      "url": "https://www.axios.com/2026/03/02/iran-us-cities-security-fbi-heightened-alert-attacks",
+      "source": "Axios",
+      "published": "2026-03-02T00:03:29.000Z",
+      "description": "U.S. counterterrorism and intelligence teams are on high alert and law enforcement in major cities have bolstered security in the wake of this weekend's strikes on Iran.\nThe big picture: FBI director Kash Patel instructed federal counterterrorism and intelligence to \"mobilize all assisting security assets needed\" after placing them on high alert Saturday, per a post to X, while law enforcement in D.C., New York City and Los Angeles are among those to take additional steps.\n\nThe announcements com",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "ICE",
+        "intelligence",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine security response to international tensions that involves standard law enforcement coordination without evidence of institutional erosion or check-and-balance concerns.",
+      "categories": [
+        "FBI independence",
+        "intelligence community integrity"
+      ],
+      "scoredAt": "2026-03-02T00:10:04.593Z"
+    },
+    {
+      "id": "3ec30e12b3fa",
+      "title": "Centrist Dems launch '28 mission: Stop AOC",
+      "url": "https://www.axios.com/2026/03/01/centrist-democrats-liberals-aoc",
+      "source": "Axios",
+      "published": "2026-03-01T23:50:53.000Z",
+      "description": "CHARLESTON, S.C. — Moderate Democrats are on a mission to stop the next Bernie Sanders, starting with New York Rep. Alexandria Ocasio-Cortez.\n\nThird Way, an influential center-left group, is bringing together hundreds of elected officials, party leaders and operatives here this weekend to build a case for nominating a middle-of-the-road Democrat — not a liberal — for president in 2028.\n\nWhy it matters: Centrist Democrats' efforts to shape the next election have taken on a new urgency as liberals",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "speaker",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political strategy coverage about intra-party positioning for a future election, involving no institutional actions, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:05.630Z"
+    },
+    {
+      "id": "b1cd5b8e785b",
+      "title": "It's AOC or bust for far-left Democrats in 2028",
+      "url": "https://www.axios.com/2026/03/01/aoc-liberal-democrats-2028",
+      "source": "Axios",
+      "published": "2026-03-01T23:45:27.000Z",
+      "description": "For many far-left Democrats, it's AOC or bust in 2028.\n\nLeft-wing Democrats are quietly escalating efforts to persuade New York Rep. Alexandria Ocasio-Cortez to run for president. One big reason: They see no clear alternative. Bernie Sanders (84) is too old — and no other Sanders-like pol with national punch is emerging.\n\nDriving the news: Allies tell Axios the pitch to Ocasio-Cortez and her team is essentially this:\n\nShe'd enter the race polling in the top five of potential Democratic contender",
+      "keywords": [
+        "voter",
+        "midterm",
+        "immigration",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about intra-party candidate recruitment with no direct implications for democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:05.460Z"
+    },
+    {
+      "id": "41814e37a076",
+      "title": "Iran conflict spurs early oil price surge",
+      "url": "https://www.axios.com/2026/03/01/iran-oil-price-surge-us-israel-strikes",
+      "source": "Axios",
+      "published": "2026-03-01T23:45:16.000Z",
+      "description": "Crude oil prices spiked by over $6 per barrel — their highest level in slightly over a year — in initial trading on Sunday.\nWhy it matters: The surge from the Asia markets' opening is the first major evidence of how markets are digesting the potential for supply disruptions from the strikes against Iran.\n\nIt will push up U.S. gasoline prices, though the impact will depend on the evolving market response as well as the scope and duration of the conflict.\n\nDriving the news: The global benchmark Br",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on commodity market reactions to geopolitical events and has no bearing on U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:05.446Z"
+    },
+    {
+      "id": "f2b04a2eeec0",
+      "title": "Trump warns more U.S. troops will \"likely\" die in Iran attacks",
+      "url": "https://www.axios.com/2026/03/01/trump-speech-iran-war-us-combat-deaths",
+      "source": "Axios",
+      "published": "2026-03-01T22:16:37.000Z",
+      "description": "President Trump presented on Sunday his case for going to war with Iran and toppling the current regime — and warned more U.S. soldiers will likely die before the operation ends.\nWhy it matters: Trump is publicly bracing the country for a sustained, costly military campaign, a sign America has entered an open-ended war with a rising human cost.\n\nTrump touted the elimination of Iran's supreme leader, Ayatollah Ali Khamenei, and framed the war as the only way to prevent Iran from becoming a nuclea",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While war powers and military decisions involve congressional oversight checks, this article primarily reports on presidential rhetoric about military strategy rather than documenting an actual institutional challenge to democratic processes or checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T00:10:05.818Z"
+    },
+    {
+      "id": "8535a0a94158",
+      "title": "This week on The Hill: Lawmakers grapple with Iran conflict",
+      "url": "https://thehill.com/homenews/house/5759674-iran-war-powers-dhs-shutdown-housing/",
+      "source": "The Hill",
+      "published": "2026-03-01T23:18:36.000Z",
+      "description": "Lawmakers are grappling with President Trump’s decision to launch strikes against Iran over the weekend, setting off a widening conflict that is set to dominate Washington’s attention this week. The joint strikes with Israel killed Iran’s Supreme Leader Ayatollah Ali Khamenei, and the conflict has spread as Iran launched retaliatory strikes against Israel and eight…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While military action raises important questions about congressional war powers oversight, the article focuses on diplomatic/military developments rather than systemic threats to democratic institutions.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T00:10:05.438Z"
+    },
+    {
+      "id": "5e4f99b53ea5",
+      "title": "Trump says there will ‘likely be more’ American deaths in Iran before conflict ends",
+      "url": "https://thehill.com/homenews/administration/5762120-trump-iran-operation-epic-fury/",
+      "source": "The Hill",
+      "published": "2026-03-01T23:00:00.000Z",
+      "description": "President Trump spoke about the ongoing U.S. operation against Iran on Sunday afternoon and acknowledged it is “likely” that more U.S. service members will die. Earlier Sunday, U.S. Central Command (Centcom) said that as of 9:30 a.m. EST, three American service members have been killed in action, while five were injured and “several” others sustained…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A statement about military casualties in an ongoing conflict is routine news commentary without direct implications for democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:07.048Z"
+    },
+    {
+      "id": "6c883c6bfc2b",
+      "title": "Education Department hangs banner of Charlie Kirk",
+      "url": "https://thehill.com/homenews/administration/5762093-ed-department-hangs-banner-of-charlie-kirk/",
+      "source": "The Hill",
+      "published": "2026-03-01T22:46:16.000Z",
+      "description": "The Department of Education hung a banner of the late conservative activist Charlie Kirk outside its headquarters as the country prepares to celebrate its 250th birthday. Kirk was publicly assassinated on the campus of Utah Valley University last year by 22-year-old Tyler Robinson, who was charged with multiple crimes, including aggravated murder, obstruction of justice and…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This appears to be a fictional or fabricated scenario involving a false death claim about a real public figure, making it unsuitable for evaluation as genuine democratic accountability news.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:06.900Z"
+    },
+    {
+      "id": "8cf41b6d2c2f",
+      "title": "Vance’s war on Medicaid fraud risks blowback for GOP ",
+      "url": "https://thehill.com/homenews/administration/5759534-vance-fraud-war-risks/",
+      "source": "The Hill",
+      "published": "2026-03-01T22:00:00.000Z",
+      "description": "Vice President Vance began his new role leading the Trump administration’s war on fraud with a bang this week by announcing a nearly $260 million moratorium on Medicaid funding for Minnesota.    Strategists on both sides of the political spectrum say the campaign carries risks for the administration as it seeks to move on from the…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "A significant policy action affecting federal programs with potential institutional implications, but lacking the hallmarks of systemic democratic erosion or unprecedented constitutional challenge.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-02T00:10:07.235Z"
+    },
+    {
+      "id": "218ace9289ad",
+      "title": "Marjorie Taylor Greene calls US service members’ deaths in Iran ‘unnecessary’ and ‘unacceptable’",
+      "url": "https://thehill.com/homenews/house/5762004-greene-criticizes-iran-operation/",
+      "source": "The Hill",
+      "published": "2026-03-01T21:47:57.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) on Sunday mourned the loss of three U.S. service members as part of what she called an “absolutely unnecessary” operation against Iran.  U.S. Central Command said that as of 9:30 a.m. EST Sunday, three American service members have been killed in action, while five have been seriously wounded and…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary and opinion on a military operation, not an action affecting institutional checks and balances or democratic structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:06.590Z"
+    },
+    {
+      "id": "8bdd73e79b4b",
+      "title": "Schiff: US had ‘simply no basis’ to launch Iran attack",
+      "url": "https://thehill.com/homenews/senate/5761959-schiff-warns-iran-conflict-risk/",
+      "source": "The Hill",
+      "published": "2026-03-01T20:51:06.000Z",
+      "description": "Sen. Adam Schiff (D-Calif.) on Sunday sharply criticized President Trump for authorizing strikes against Iran, warning that it risks dragging the U.S. into yet another conflict in the Middle East. “There was simply no basis to go in with this massive military campaign, with the goal of regime change. And the concern here is that…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This is a congressional criticism of executive military action, which relates to checks and balances, but represents routine partisan commentary rather than a structural institutional action or ruling.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T00:10:06.836Z"
+    },
+    {
+      "id": "4c3f97655890",
+      "title": "Murphy: ‘We’re not going to get a democracy’ out of Iran conflict",
+      "url": "https://thehill.com/homenews/senate/5761968-murphy-democracy-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-01T20:34:20.000Z",
+      "description": "Sen. Chris Murphy (D-Conn.) said Sunday that a democracy will not arise from the conflict in Iran, adding that “an even worse Iranian leadership” is going to come out of the fighting. “Now, the president has said that the goal is regime change, and the goal is to eliminate Iran’s missile program and their nuclear…",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is congressional commentary on foreign policy rather than reporting on actions affecting domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T00:10:08.358Z"
     }
   ],
   "lastDigest": "2026-03-01T20:44:58.764Z",
-  "lastFetch": "2026-03-01T20:44:36.334Z"
+  "lastFetch": "2026-03-02T00:10:08.358Z"
 }
