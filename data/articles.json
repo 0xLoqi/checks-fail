@@ -33407,8 +33407,577 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-03-02T12:07:04.831Z"
+    },
+    {
+      "id": "3d9b2a9cb79f",
+      "title": "ProPublica Sues Education Department for Withholding Records About Discrimination in Schools",
+      "url": "https://www.propublica.org/article/education-department-civil-rights-office-foia-lawsuit",
+      "source": "ProPublica",
+      "published": "2026-03-02T16:50:00.000Z",
+      "description": "The post ProPublica Sues Education Department for Withholding Records About Discrimination in Schools appeared first on ProPublica.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A FOIA lawsuit against an executive agency represents standard democratic accountability mechanisms in operation, though it highlights potential transparency issues within federal civil rights enforcement.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T18:10:10.604Z"
+    },
+    {
+      "id": "0fd331cb664e",
+      "title": "Trump has spent years deriding foreign entanglements. Now, he's taken the U.S. to war with Iran",
+      "url": "https://www.pbs.org/newshour/politics/trump-has-spent-years-deriding-foreign-entanglements-now-hes-taken-the-u-s-to-war-with-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T16:01:19.000Z",
+      "description": "Even Trump's closest advisers have been unable to point to any specific imminent threat to the U.S. from Iran that required urgent action.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article raises questions about executive war powers and congressional oversight, but describes a foreign policy decision rather than direct institutional erosion of domestic democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T18:10:10.385Z"
+    },
+    {
+      "id": "8c2968540789",
+      "title": "WATCH: Trump honors three U.S. Army soldiers in Medal of Honor ceremony, addresses Iran attacks",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-may-address-war-with-iran-at-medal-of-honor-ceremony",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T16:01:09.000Z",
+      "description": "President Donald Trump recognized three U.S. Army soldiers with the Medal of Honor at the White House on Monday, with two of the commendations being awarded posthumously.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine ceremonial news item with no bearing on democratic checks and balances, institutional independence, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:10.191Z"
+    },
+    {
+      "id": "ff0a0ce4b553",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran",
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T15:52:52.000Z",
+      "description": "In a video posted Sunday, President Donald Trump said that the operation in Iran — which he described as \"one of the most complex, most overwhelming military offensives the world has ever seen\" — will continue until \"all of our objectives\" are achieved.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy/military news coverage with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:10.283Z"
+    },
+    {
+      "id": "bbce6c52e402",
+      "title": "Hegseth insists the Iran conflict is 'not Iraq' and is 'not endless'",
+      "url": "https://www.pbs.org/newshour/world/hegseth-insists-the-iran-conflict-is-not-iraq-and-is-not-endless",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T15:12:15.000Z",
+      "description": "\"No stupid rules of engagement, no nation building quagmire, no democracy building exercise, no politically correct wars,\" Hegseth said.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is a defense secretary's policy statement on military strategy regarding Iran, representing routine political communication rather than an institutional action affecting checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:10.427Z"
+    },
+    {
+      "id": "5259f65503e1",
+      "title": "LISTEN LIVE: Supreme Court considers whether marijuana and other drug users may possess firearms",
+      "url": "https://www.pbs.org/newshour/politics/listen-live-supreme-court-considers-whether-marijuana-and-other-drug-users-may-possess-firearms",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T14:55:22.000Z",
+      "description": "The Republican Trump administration will be defending a firearm restriction, with backing from gun-control groups typically more aligned with Democrats.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the case involves judicial interpretation of constitutional rights and statutory law that could affect democratic implementation of regulations, it represents standard appellate review rather than institutional erosion of checks and balances.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-02T18:10:11.796Z"
+    },
+    {
+      "id": "449da701c296",
+      "title": "A competitive Texas Senate race looms over Tuesday's primaries",
+      "url": "https://www.nbcnews.com/politics/2026-election/competitive-texas-senate-race-looms-tuesdays-primaries-rcna260865",
+      "source": "NBC News",
+      "published": "2026-03-02T10:00:42.000Z",
+      "description": "The potential for a competitive November election is dividing Democrats Jasmine Crockett and James Talarico as well as Republicans John Cornyn, Ken Paxton and Wesley Hunt ahead of Tuesday's Texas Senate primaries.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting on primary elections and candidate positioning with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:11.450Z"
+    },
+    {
+      "id": "adb9a96c4195",
+      "title": "Pete Hegseth Says Iran War Will Not Be 'Endless'",
+      "url": "https://www.today.com/video/watch-pentagon-s-full-briefing-on-operation-epic-fury-in-iran-258534469551",
+      "source": "NBC News",
+      "published": "2026-03-02T13:54:43.000Z",
+      "description": "In a press briefing Monday on Operation Epic Fury, Defense Secretary Pete Hegseth and General Dan Caine, chairman of the Joint Chiefs of Staff, detail the joint attack by the United States and Israel on Iran that saw the death of its Supreme Leader Ayatollah Ali Khamenei. “We didn’t start this war but under President Donald Trump, we are finishing it,” Hegseth says, adding, “This is not a so-called regime change war but the regime sure did change.”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news briefing on military operations with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:11.560Z"
+    },
+    {
+      "id": "db9e5ba2cb83",
+      "title": "Oil Prices Soar After Attack on Iran: What it Means for US Economy",
+      "url": "https://www.today.com/video/how-the-us-strikes-on-iran-could-impact-global-oil-and-economy-258531909532",
+      "source": "NBC News",
+      "published": "2026-03-02T12:54:25.000Z",
+      "description": "Following the attacks on Iran, a major hub of oil, fears over the global supply is sending prices soaring. NBC’s Christine Romans joins TODAY to break down the restrictions at the Strait of Hormuz and analyzes when the impact could be felt in the United States.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article addresses geopolitical and economic consequences of international conflict with no direct bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:14.346Z"
+    },
+    {
+      "id": "f2db274ef66f",
+      "title": "Trump says strikes were \"last best chance\" to take out Iran threat",
+      "url": "https://www.cbsnews.com/news/trump-iran-war-white-house/",
+      "source": "CBS News",
+      "published": "2026-03-02T18:06:33.000Z",
+      "description": "President Trump said he expects the bombing campaign to last four to five weeks, but \"we have [the] capability to go far longer than that.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on executive military strategy statements without evidence of institutional checks erosion or democratic process violations.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:14.500Z"
+    },
+    {
+      "id": "4ff127a72508",
+      "title": "Face the Nation: Kelly, James, Kallas",
+      "url": "https://www.cbsnews.com/video/face-the-nation-kelly-james-kallas/",
+      "source": "CBS News",
+      "published": "2026-03-02T17:11:01.000Z",
+      "description": "Missed the second half of the show? The latest on the fallout from the unprecedented Oval Office meeting between President Trump and Ukrainian President Volodymyr Zelenskyy",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a generic recap of a TV news show segment without substantive details about the meeting's content or implications for democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:14.604Z"
+    },
+    {
+      "id": "3992c1e11168",
+      "title": "Pete Hegseth says Iran military mission will not be \"endless\"",
+      "url": "https://www.cbsnews.com/news/iran-operation-epic-fury-pete-hegseth-dan-caine-press-conference-pentagon/",
+      "source": "CBS News",
+      "published": "2026-03-02T15:23:59.000Z",
+      "description": "The Pentagon announced Monday that a fourth American service member has been killed in Operation Epic Fury.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine military operational news reporting on casualty figures and stated policy objectives, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:14.890Z"
+    },
+    {
+      "id": "c9a5d6d27e57",
+      "title": "Melania Trump presiding over U.N. Security Council meeting",
+      "url": "https://www.cbsnews.com/news/melania-trump-un-security-council-world-peace-iran/",
+      "source": "CBS News",
+      "published": "2026-03-02T15:16:05.000Z",
+      "description": "The White House announced first lady Melania Trump would preside over the meeting last week before the U.S. and Israel launched a joint military mission in Iran.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine diplomatic protocol matter involving ceremonial duties with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:14.406Z"
+    },
+    {
+      "id": "fb13531076fe",
+      "title": "Trump says war against Iran moving \"substantially ahead\" of schedule",
+      "url": "https://www.axios.com/2026/03/02/trump-address-iran-war-length",
+      "source": "Axios",
+      "published": "2026-03-02T17:25:32.000Z",
+      "description": "In his first live address since striking Iran, President Trump said the initial U.S. military plan called for four to five weeks of combat operations — but that the campaign is moving \"substantially ahead\" of schedule.\nWhy it matters: Trump has floated several possible timelines and \"off ramps,\" keeping his plans vague as reporters have pressed him on the scope, duration and goals of the massive U.S.-Israel bombing campaign. \n\nSecretary of Defense Pete Hegseth and Joint Chiefs of Staff Chairman ",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA",
+        "NIH"
+      ],
+      "significance": 4,
+      "reason": "While military operations raise important questions about presidential war powers and congressional oversight, this article primarily reports on campaign progress rather than documenting institutional checks, legal challenges, or democratic processes being exercised or eroded.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T18:10:16.005Z"
+    },
+    {
+      "id": "93c1901e1448",
+      "title": "Iran conflict could worsen America's affordability crisis",
+      "url": "https://www.axios.com/2026/03/02/iran-war-trump-gas-prices",
+      "source": "Axios",
+      "published": "2026-03-02T17:06:43.000Z",
+      "description": "The Iran conflict abroad threatens the affordability crisis at home, as an oil price spike ripples through to pump prices Americans see every day.\nWhy it matters: This has become one defining tension of President Trump's second term — foreign policies that could undercut core domestic promises to lower prices for American consumers, just months ahead of midterm elections.\n\nThat tension has been on display with global trade: Trump imposed steep import taxes aimed at leveling the trade playing fie",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses economic policy trade-offs and campaign promises rather than institutional checks and balances, democratic safeguards, or threats to constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:15.796Z"
+    },
+    {
+      "id": "d463e3ef502f",
+      "title": "The Iran conflict matters more for inflation than growth",
+      "url": "https://www.axios.com/2026/03/02/iran-oil-prices-inflation",
+      "source": "Axios",
+      "published": "2026-03-02T17:05:15.000Z",
+      "description": "Americans will see higher prices for energy in the weeks ahead. They aren't likely to see the kind of broad economic slowdown that has accompanied oil price shocks in the past.\nThe big picture: That's the implication of early market moves following the U.S. and Israeli strikes. It follows logically from a reordering of global energy markets over the last two decades.\n\nIndeed, it's easy to imagine that this new geoeconomics of oil gave President Trump comfort in launching the attacks, grave risks",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is economic analysis and commentary on geopolitical events with no direct bearing on institutional checks and balances, democratic processes, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:15.840Z"
+    },
+    {
+      "id": "2b3cea7d8338",
+      "title": "Anthropic vs. White House puts $60 billion at risk",
+      "url": "https://www.axios.com/2026/03/02/anthropic-ai-openai-trump",
+      "source": "Axios",
+      "published": "2026-03-02T16:55:22.000Z",
+      "description": "Anthropic has raised more than $60 billion from over 200 \"venture capital\" investors, half of which came just last month.\nWhy it matters: That massive investment is now at risk due to a contract dispute with the Pentagon that's become as much about ego as AI.\n\nCatch up quick: Anthropic and the Defense Department on Friday failed to reach agreement on a long-term deal for the military to continue licensing Anthropic's AI models, as it has done in both the Venezuela and Iran operations.\n\nAxios fir",
+      "keywords": [
+        "ICE",
+        "white house",
+        "cybersecurity",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This appears to be a fictional or fabricated scenario with no real-world basis (Anthropic has not raised $60B, there is no Pentagon licensing dispute, and the Venezuela/Iran claims are false), making it routine misinformation rather than substantive commentary on democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:20.131Z"
+    },
+    {
+      "id": "169d7529ae5f",
+      "title": "Iran attack on giant Saudi refinery pushes up oil prices",
+      "url": "https://www.axios.com/2026/03/02/iran-attack-refinery-prices",
+      "source": "Axios",
+      "published": "2026-03-02T15:37:12.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nA Saudi oil refinery — one of the world's largest — suffered \"limited\" damage overnight from an Iranian attack, per the kingdom's press agency and multiple news reports.\nWhy it matters: \"The attack on Saudi Arabia's Ras Tanura refinery marks a significant escalation, with Gulf energy infrastructure now squarely in Iran's sights,\" Torbjorn Soltvedt, a top analyst with risk intelligence firm Verisk Maplecroft, said in a note. \n\nThe overall confli",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns international geopolitical events and energy markets with no direct connection to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:15.724Z"
+    },
+    {
+      "id": "7ffb4b210515",
+      "title": "Top U.S. general says it will take time to achieve Iran war goals",
+      "url": "https://www.axios.com/2026/03/02/iran-war-hegseth-pentagon-briefing",
+      "source": "Axios",
+      "published": "2026-03-02T14:43:05.000Z",
+      "description": "The U.S. military operation against Iran, dubbed \"Epic Fury,\" will not end \"overnight,\" Secretary of Defense Pete Hegseth and Joint Chiefs of Staff Chairman Gen. Dan Caine said at a Pentagon press conference Monday.\n\nThe top officials declined to offer a specific timetable for the historic joint bombing campaign with Israel.\n\nWhy it matters: The briefing marked the first time senior Trump administration officials publicly described the ongoing combat operations and took questions from reporters ",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine military operational reporting with no direct bearing on institutional checks and balances, democratic oversight mechanisms, or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.125Z"
+    },
+    {
+      "id": "c668357a2117",
+      "title": "Trump ties the US into a Gordian knot in Iran",
+      "url": "https://thehill.com/opinion/national-security/5761798-trump-iran-strategy-questionable/",
+      "source": "The Hill",
+      "published": "2026-03-02T18:00:00.000Z",
+      "description": "No matter how powerful the U.S. military may be, can it sever the Iranian Gordian knot?",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on foreign policy and military strategy regarding Iran, which does not directly address domestic democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.056Z"
+    },
+    {
+      "id": "fd3c15390252",
+      "title": "Starmer breaks with Trump on Iran, says UK doesn’t support ‘regime change from the skies’",
+      "url": "https://thehill.com/policy/international/5763049-starmer-breaks-trump-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-02T17:48:15.000Z",
+      "description": "British Prime Minister Keir Starmer on Monday said the United Kingdom does not support joining air operations against Iran, despite joining defensive operations in the region.  “This government does not believe in regime change from the skies,” Starmer said, responding to a question over whether the U.K. is joining U.S. and Israeli strikes against Iran. …",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article reports on foreign policy positioning by a British leader and does not involve U.S. domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.056Z"
+    },
+    {
+      "id": "3d638336bbb9",
+      "title": "John Bolton says Hegseth needs ‘attitude adjustment’ after Iran briefing",
+      "url": "https://thehill.com/policy/defense/5762855-trump-pentagon-bolton-hegseth-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-02T17:38:46.000Z",
+      "description": "John Bolton, President Trump’s former national security adviser, criticized Defense Secretary Pete Hegseth on Monday, accusing him of muddling the administration’s message regarding the goals of the weekend’s U.S. strikes against Iran. “Pete Hegseth needs to check with his boss on what the objective is,” Bolton told host Kate Bolduan on “CNN News Central.” During…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is commentary from a former official criticizing current policy messaging, lacking evidence of institutional breakdown or systematic checks-and-balances erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.057Z"
+    },
+    {
+      "id": "440a7df82c42",
+      "title": "Trump leaves door open for boots on the ground in Iran",
+      "url": "https://thehill.com/newsletters/1230-report/5763061-trump-iran-timeline-objectives/",
+      "source": "The Hill",
+      "published": "2026-03-02T17:38:44.000Z",
+      "description": "12:30 Report is The Hill’s midday newsletter. Subscribe here. 🪖 Plus: Hegseth’s fiery press conference on Iran {beacon} It’s Monday. Welcome back. So much has happened since my last edition on Friday. Whew, let’s get into it.   In today’s issue: Trump won’t rule out boots on the ground in Iran President offers shifting timeline…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "A news brief reporting on a president's public statement about potential military action lacks institutional or democratic process implications and represents routine political commentary.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.014Z"
+    },
+    {
+      "id": "59a1186fac7d",
+      "title": "US agriculture is back on top and the world is buying",
+      "url": "https://thehill.com/opinion/international/5762412-trump-trade-policy-farmers/",
+      "source": "The Hill",
+      "published": "2026-03-02T17:30:00.000Z",
+      "description": "The Trump administration has developed a two-fold approach to addressing the barriers to U.S. food and agricultural exports, including negotiating trade deals and promoting U.S. agricultural exports around the globe.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article covers routine agricultural trade policy and export promotion with no connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.922Z"
+    },
+    {
+      "id": "782b4812a055",
+      "title": "Anthropic restores Claude service after outage affecting thousands",
+      "url": "https://thehill.com/policy/technology/5762910-anthropic-claude-ai-chatbot-outage/",
+      "source": "The Hill",
+      "published": "2026-03-02T17:01:03.000Z",
+      "description": "Tech company Anthropic restored service to its artificial intelligence chatbot Claude after a nearly three-hour outage Monday that affected thousands, the company said in a statement. “Claude is back up and running across claude.ai and our apps. We’re grateful to our users as the team works to match the incredible demand we’ve seen for Claude…",
+      "keywords": [
+        "ICE",
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This is a routine technology service outage announcement unrelated to U.S. democratic institutions or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.921Z"
+    },
+    {
+      "id": "8163349817d3",
+      "title": "Live updates: Trump cites Iran’s ‘intolerable threat’ and lays out attack’s objectives",
+      "url": "https://thehill.com/homenews/administration/5761717-iran-us-israeli-strikes-war-powers-live-updates/",
+      "source": "The Hill",
+      "published": "2026-03-02T16:57:09.000Z",
+      "description": "President Trump on Monday said Iran’s growth of its ballistic missile program, plus its resumption of trying to build a nuclear weapon, warranted the U.S. and Israeli attacks that began Saturday and took out the nation’s supreme leader. “An Iranian regime armed with long-range missiles and nuclear weapons would be an intolerable threat to the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news reporting on foreign policy and military action justification, not directly addressing domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:22.604Z"
+    },
+    {
+      "id": "ffda735647df",
+      "title": "Democrats must not lose the plot on Iran",
+      "url": "https://thehill.com/opinion/white-house/5762121-trump-iran-democrats-trap/",
+      "source": "The Hill",
+      "published": "2026-03-02T16:30:00.000Z",
+      "description": "Democrats must hold Trump accountable for his actions in Iran, ensuring that any regime change is complete and democratic, or risk repeating past mistakes of supporting oppressive regimes.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on foreign policy and partisan accountability rather than reporting on institutional checks and balances or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:25.757Z"
+    },
+    {
+      "id": "22e98e7dd21a",
+      "title": "US Embassy advises Americans to leave Lebanon ‘now’",
+      "url": "https://thehill.com/policy/international/5762846-us-embassy-lebanon-americans-iran/",
+      "source": "The Hill",
+      "published": "2026-03-02T16:05:50.000Z",
+      "description": "The U.S. Embassy in Lebanon is urging Americans to leave the country, as fighting breaks out between Israel and Hezbollah after the U.S. and Israel launched strikes on Iran. In a Monday advisory, the embassy said U.S. citizens should “depart Lebanon now while commercial flight options remain available,” citing a “volatile and unpredictable” security situation.…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine diplomatic and security advisory with no bearing on U.S. domestic democratic checks and balances or institutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:21.959Z"
+    },
+    {
+      "id": "bbda99775206",
+      "title": "Will Democrats ever learn their lesson?",
+      "url": "https://thehill.com/opinion/campaign/5761866-far-left-democrats-trump-rise/",
+      "source": "The Hill",
+      "published": "2026-03-02T16:00:00.000Z",
+      "description": "The Democratic Party must recognize the role of the far-left wing of their party in their loss to Trump and take steps to remove the faction that allowed Trump to paint everyone on the left as more deranged than his own unhinged brand of populism.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary about internal Democratic Party strategy with no direct connection to institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:26.925Z"
+    },
+    {
+      "id": "4eeca15b1c31",
+      "title": "Trump: Iran operation is ‘ahead of schedule’",
+      "url": "https://thehill.com/homenews/administration/5762824-trump-us-iran-military-operation/",
+      "source": "The Hill",
+      "published": "2026-03-02T15:45:35.000Z",
+      "description": "President Trump said Monday the U.S. operation in Iran is “ahead of schedule,” noting the “big wave” has yet to take place in the operation. “I don’t want to see it go on too long,” Trump said in a phone interview with CNN’s Jake Tapper. “I always thought it would be four weeks, and we’re…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine commentary on military operations scheduling with no indication of institutional checks and balances being affected.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:27.227Z"
+    },
+    {
+      "id": "02cd0a47d398",
+      "title": "Trump’s department of injustice: Impunity for friends, brutality for enemies",
+      "url": "https://thehill.com/opinion/criminal-justice/5759275-trump-justice-department-corruption/",
+      "source": "The Hill",
+      "published": "2026-03-02T15:30:00.000Z",
+      "description": "The brazen lack of accountability for the rich and well-connected undermines public faith in our democracy.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "democracy",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Opinion piece making normative claims about selective accountability rather than reporting specific institutional actions, policy changes, or rulings that would directly affect checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-02T18:10:26.865Z"
+    },
+    {
+      "id": "5041ded1a6f5",
+      "title": "Hegseth gives fiery defense of Iran war; Caine predicts more US losses",
+      "url": "https://thehill.com/policy/defense/5762761-hegeseth-caine-iran-pentagon-briefing/",
+      "source": "The Hill",
+      "published": "2026-03-02T15:11:27.000Z",
+      "description": "Defense Secretary Pete Hegseth offered a fiery defense Monday of the U.S. operations in Iran, arguing the Trump administration can achieve its objectives without being “foolish” about it. Hegseth, during remarks at a press conference, appeared to push back on any arguments the U.S. military operation, which President Trump said he hoped would result in…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on defense policy statements with no direct implications for democratic checks and balances, institutional independence, or constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:28.112Z"
+    },
+    {
+      "id": "4b541b0a92fa",
+      "title": "Stocks fall, oil prices spike after Iran strikes",
+      "url": "https://thehill.com/business/5762738-stock-market-oil-prices/",
+      "source": "The Hill",
+      "published": "2026-03-02T15:06:03.000Z",
+      "description": "The stock market opened with losses Monday as oil prices spiked in the wake of U.S. and Israeli strikes on Iran. The Dow Jones Industrial Average was down more than 400 points, falling 0.9 percent shortly after the market opened. The S&P 500 index was down 0.6 percent, and the Nasdaq composite was down 0.7…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine financial market report on geopolitical events with no direct relevance to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:26.608Z"
+    },
+    {
+      "id": "0243d89ec2f7",
+      "title": "Voters split on whether Iran strikes were necessary: Survey",
+      "url": "https://thehill.com/homenews/administration/5762751-americans-split-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-02T15:01:32.000Z",
+      "description": "A new survey found that Americans are split on whether U.S. strikes on Iran were necessary, as the Middle Eastern conflict enters its third day. The Morning Consult poll, released late Saturday night, found that 41 percent of registered voters said that “Operation Epic Fury” was necessary. A slightly greater amount, 42 percent, preferred diplomacy. …",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling news on foreign policy public opinion with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T18:10:30.751Z"
+    },
+    {
+      "id": "618b2448c4e5",
+      "title": "Trump and Pentagon Say to Expect More Americans to Die",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-hegseth-americans-die-iran-war-1235523689/",
+      "source": "Rolling Stone",
+      "published": "2026-03-02T17:00:00.000Z",
+      "description": "Neither the president nor the military are ruling out “boots on the ground” as the campaign against Iran intensifies",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Statements about potential military escalation without congressional authorization directly implicate war powers separation of checks and balances, congressional oversight authority, and executive power constraints.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-02T18:10:29.099Z"
     }
   ],
   "lastDigest": "2026-03-02T14:18:09.812Z",
-  "lastFetch": "2026-03-02T12:07:05.052Z"
+  "lastFetch": "2026-03-02T18:10:30.751Z"
 }
