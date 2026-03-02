@@ -33175,8 +33175,239 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-02T06:15:25.595Z"
+    },
+    {
+      "id": "6368655359d9",
+      "title": "Emergency Managers: Help ProPublica Prepare to Report on the Next Disaster",
+      "url": "https://www.propublica.org/getinvolved/emergency-managers-disaster-needs-survey",
+      "source": "ProPublica",
+      "published": "2026-03-02T10:25:00.000Z",
+      "description": "The post Emergency Managers: Help ProPublica Prepare to Report on the Next Disaster appeared first on ProPublica.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine call for sources and expert input from disaster management professionals to improve future reporting, not substantive news about democratic institutions or checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-03-02T12:07:02.769Z"
+    },
+    {
+      "id": "15fd7a837348",
+      "title": "Trump says more American troops will 'likely' die in war against Iran",
+      "url": "https://www.npr.org/2026/03/02/nx-s1-5731556/trump-says-more-american-troops-will-likely-die-in-war-against-iran",
+      "source": "NPR Politics",
+      "published": "2026-03-02T11:50:31.000Z",
+      "description": "President Trump in a video address posted online lays out few details about the U.S.'s objectives in its war with Iran, but says more U.S. service members may die before the conflict is over.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While presidential statements about military conflict warrant attention, this article primarily covers rhetoric and speculation rather than demonstrating actual institutional erosion or concrete policy implementation affecting constitutional checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T12:07:02.569Z"
+    },
+    {
+      "id": "6c9ec21e2c56",
+      "title": "Rep. Adam Smith on the U.S. strikes on Iran and the debate over Trump's war powers",
+      "url": "https://www.npr.org/2026/03/02/nx-s1-5731451/rep-adam-smith-on-the-u-s-strikes-on-iran-and-the-debate-over-trumps-war-powers",
+      "source": "NPR Politics",
+      "published": "2026-03-02T11:50:25.000Z",
+      "description": "NPR's Leila Fadel asks Democratic Rep. Adam Smith of Washington, the ranking member on the House Armed Services Committee, about President Trump's unilateral authorization to strike Iran.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A ranking member's commentary on executive war powers raises important constitutional questions about checks and balances, but lacks concrete policy outcomes or institutional actions that would elevate significance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T12:07:02.577Z"
+    },
+    {
+      "id": "3cc1a23668b6",
+      "title": "Congress gears up for vote on Trump's war powers in Iran — after the battle began",
+      "url": "https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump",
+      "source": "NPR Politics",
+      "published": "2026-03-02T10:00:00.000Z",
+      "description": "Democrats and a few Republicans are calling for curbing Trump's unilateral use of military power in Iran, despite previous such efforts failing to advance.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of executive war powers represents an important checks-and-balances issue, but the article describes routine legislative efforts with a historical pattern of failure, limiting its immediate significance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T12:07:02.701Z"
+    },
+    {
+      "id": "1c5856c9ba4d",
+      "title": "Texas primaries could test whether Latino support for GOP is holding after 2024 gains",
+      "url": "https://www.npr.org/2026/03/02/nx-s1-5729467/texas-election-2026-latinos-ice-trump-vote-immigration",
+      "source": "NPR Politics",
+      "published": "2026-03-02T10:00:00.000Z",
+      "description": "The GOP made big strides with Latino voters in 2024. Immigration and the economy were key drivers, but two years later, those issues could sway them to back Democrats in primaries happening this week.",
+      "keywords": [
+        "voter",
+        "immigration"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral coverage analyzing voter demographic trends and campaign messaging, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T12:07:02.615Z"
+    },
+    {
+      "id": "3f8d27ae7355",
+      "title": "3 U.S. jets downed by friendly fire over Kuwait",
+      "url": "https://www.axios.com/2026/03/02/3-us-fighter-jets-friendly-fire-kuwait",
+      "source": "Axios",
+      "published": "2026-03-02T11:40:28.000Z",
+      "description": "Three U.S. fighter jets were mistakenly shot down by Kuwaiti air defenses Sunday night, U.S. Central Command said in a Monday statement. All six aircrew ejected safely and are in stable condition.\nWhy it matters: The incident shows how chaotic the air war with Iran has become as allies defend against Iranian attacks while American jets fly through the same airspace.\n\nThe jets were supporting Operation Epic Fury when they were hit at 11:03pm ET Sunday, CENTCOM said.\nKuwait has acknowledged the in",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This military incident involving friendly fire has no connection to U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T12:07:03.777Z"
+    },
+    {
+      "id": "51d4d88227f6",
+      "title": "GOP insiders fretting about Texas Senate primary",
+      "url": "https://www.axios.com/2026/03/02/gop-worry-texas-senate-primaries",
+      "source": "Axios",
+      "published": "2026-03-02T10:00:06.000Z",
+      "description": "GOP operatives tell Axios they're worried that their worst possible scenario is unfolding in the Texas Senate primaries.\nWhy it matters: Sen. John Cornyn's seat has long been a virtual lock for the GOP. But competitive races in both parties' primaries Tuesday — and the national headwinds facing Republicans — have blown up all assumptions.\n\nZoom out: Top Republican campaign operatives believe James Talarico, a state House member and seminary student, has a slight edge over his Democratic rival, R",
+      "keywords": [
+        "election",
+        "attorney general",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of primary election dynamics and campaign strategy without direct implications for institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-02T12:07:03.701Z"
+    },
+    {
+      "id": "365248d87690",
+      "title": "Trump campaign peace promises loom large over wartime presidency",
+      "url": "https://www.axios.com/2026/03/02/trump-iran-war-military-strikes-maga",
+      "source": "Axios",
+      "published": "2026-03-02T10:00:06.000Z",
+      "description": "No president in the modern era has ordered more military strikes against as many different countries as Donald Trump.\n\nHe's attacked seven nations, three of which — Iran, Nigeria and Venezuela — had never been targeted by U.S. military strikes. He authorized more individual air strikes in 2025 than President Biden did in four years.\n\nWhy it matters: Trump explicitly ran as the anti-war candidate. The White House argues he still is — that he always exhausts diplomacy before acting, and that proje",
+      "keywords": [
+        "ICE",
+        "gabbard",
+        "intelligence",
+        "national intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the discrepancy between campaign promises and military actions raises accountability questions for congressional oversight and public trust, the article reports on executive military decisions rather than documenting a breakdown of institutional checks or democratic guardrails.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-02T12:07:03.929Z"
+    },
+    {
+      "id": "12518c2a82d1",
+      "title": "Scoop: Trump's Iran strikes inject new chaos into 2026 Democratic primaries",
+      "url": "https://www.axios.com/2026/03/02/iran-trump-foushee-allam-nc-platner-democrats",
+      "source": "Axios",
+      "published": "2026-03-02T10:00:06.000Z",
+      "description": "President Trump's strikes on Iran have emerged as a potent issue in Democratic congressional primaries just days after the start of military operations in the region.\nWhy it matters: The new internal divide threatens to add even more upheaval to a midterm campaign that has been marked by severe fractures in the Democratic coalition.\n\nIn North Carolina, progressive House candidate Nida Allam is seizing on the issue as an 11th-hour appeal against Rep. Valerie Foushee (D-N.C.) before their March 3 ",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about campaign messaging and primary dynamics, not an institutional threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-02T12:07:04.770Z"
+    },
+    {
+      "id": "f55dd77662fb",
+      "title": "Congress returns to address Trump’s Iran attacks",
+      "url": "https://thehill.com/newsletters/morning-report/5762523-congress-trump-iran-attacks/",
+      "source": "The Hill",
+      "published": "2026-03-02T11:35:41.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ Congress grapples with Iran attacks ▪ New pressure in DHS shutdown fight ▪ Paxton, Talarico lead Texas races: poll ▪ Cuba reaching breaking point Lawmakers are wrestling with how to respond to President Trump’s massive attack on Iran that eliminated many of…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of military/executive war powers is a significant check-and-balance issue, but the article provides insufficient detail about the nature or scope of legislative action to warrant a higher rating.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-02T12:07:05.052Z"
+    },
+    {
+      "id": "65da79b68a65",
+      "title": "GOP, Trump set for war powers confrontation with Democrats after Iran strikes",
+      "url": "https://thehill.com/homenews/senate/5762003-senate-vote-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-02T11:02:52.000Z",
+      "description": "Lawmakers in both parties are bracing for a showdown in Congress this week over President Trump’s authorities as commander-in-chief after weekend U.S. strikes on Iran that killed that country’s supreme leader and threaten to embroil the nation in war. The Senate this week will debate and vote on a bipartisan war powers resolution sponsored by…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional clash over constitutional war powers between branches of government, directly testing congressional oversight mechanisms and the balance of executive-legislative authority.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-02T12:07:04.812Z"
+    },
+    {
+      "id": "69320b90a320",
+      "title": "Supreme Court hears arguments on whether government can disarm drug users ",
+      "url": "https://thehill.com/regulation/court-battles/5759227-federal-law-drug-users-firearm/",
+      "source": "The Hill",
+      "published": "2026-03-02T11:00:00.000Z",
+      "description": "The Supreme Court will hear oral arguments Monday on whether the federal government can make it a crime for unlawful drug users to possess a firearm.  It’s the latest Second Amendment battle to reach the conservative-majority court, which will apply its test requiring gun control measures be consistent with the nation’s historical tradition.  The Trump administration is defending the statute’s constitutionality against a man in Texas,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine Second Amendment case applying established judicial precedent without implications for institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-02T12:07:04.723Z"
+    },
+    {
+      "id": "47273f5f371b",
+      "title": "TSA moves to center of shutdown drama as jittery lawmakers offer warnings for economy",
+      "url": "https://thehill.com/homenews/senate/5759740-government-shutdown-tsa-funding/",
+      "source": "The Hill",
+      "published": "2026-03-02T11:00:00.000Z",
+      "description": "Republican and Democratic senators are quietly mulling ways to limit the impact of a prolonged government shutdown on air travel and, by extension, the broader U.S. economy amid a stalemate on funding the Department of Homeland Security and the Transportation Security Administration (TSA). TSA officers are set to miss their first round of paychecks later…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A shutdown's economic impact through TSA operations is notable but represents routine legislative dysfunction rather than institutional erosion of democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-02T12:07:04.831Z"
     }
   ],
   "lastDigest": "2026-03-01T20:44:58.764Z",
-  "lastFetch": "2026-03-02T06:15:25.603Z"
+  "lastFetch": "2026-03-02T12:07:05.052Z"
 }
