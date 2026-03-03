@@ -35194,8 +35194,463 @@
       "reason": "This is a routine travel advisory related to foreign safety conditions and does not concern U.S. domestic democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-03T06:13:26.089Z"
+    },
+    {
+      "id": "c19801c98fd3",
+      "title": "Trump says war in Iran could last for weeks or longer",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732796/trump-says-war-in-iran-could-last-for-weeks-or-longer",
+      "source": "NPR Politics",
+      "published": "2026-03-03T11:41:48.000Z",
+      "description": "President Trump spoke live for the first time Monday since the U.S. and Israel began striking Iran, sharing his administration's objectives for the country.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A statement about military operations duration is routine news commentary without institutional implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:40.988Z"
+    },
+    {
+      "id": "63ab9c73958a",
+      "title": "How President Trump's views on foreign intervention has changed over the years",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732604/how-president-trumps-views-on-foreign-intervention-has-changed-over-the-years",
+      "source": "NPR Politics",
+      "published": "2026-03-03T11:25:56.000Z",
+      "description": "Long before he became a presidential candidate and during his first term, Donald Trump made avoiding foreign wars a cornerstone of his agenda. But his position on foreign intervention has shifted.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a retrospective analysis of Trump's foreign policy positions over time with no immediate implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:40.897Z"
+    },
+    {
+      "id": "74e3e48b2202",
+      "title": "Kristi Noem set to face senators over DHS shutdown, immigration enforcement",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
+      "source": "NPR Politics",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "The focus of the hearing is likely to be on how Kristi Noem is pursuing President Trump's mass deportation efforts in his second term, after two U.S. citizens were killed by immigration officers.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A Senate hearing on DHS leadership's immigration enforcement approach and oversight of officer-involved deaths represents notable congressional oversight activity, but the significance depends on hearing outcomes and whether it results in meaningful institutional checks.",
+      "categories": [
+        "congressional_oversight",
+        "immigration_civil_rights",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-03-03T12:06:41.454Z"
+    },
+    {
+      "id": "bd632a7fd4c0",
+      "title": "North Carolina and Texas have primary elections Tuesday. Here's what you need to know",
+      "url": "https://www.npr.org/2026/03/03/g-s1-111659/primary-midterm-elections-texas-north-carolina",
+      "source": "NPR Politics",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "The midterm elections are officially underway and contests in Texas and North Carolina will be the first major opportunity for parties to hear from voters about what's important to them in 2026.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on scheduled primary elections without analysis of threats to or changes in democratic institutions or checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-03T12:06:40.978Z"
+    },
+    {
+      "id": "5a4a51fd1029",
+      "title": "Trump promised the MAGA base no new wars. Then he went to war with Iran",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732601/trump-maga-iran-war-israel",
+      "source": "NPR Politics",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "President Trump promised his \"Make America Great Again\" voters an \"America First\" foreign policy. With the war in Iran, he's testing MAGA world's willingness to be flexible on one of its core beliefs.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While foreign policy decisions carry constitutional significance regarding executive war powers, this article focuses primarily on political messaging and base management rather than institutional checks, legal boundaries, or democratic safeguards.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T12:06:41.210Z"
+    },
+    {
+      "id": "a8d9ebcf1d92",
+      "title": "Voters head to the polls for U.S. Senate primaries in North Carolina and Texas",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5724921/voters-head-to-the-polls-for-u-s-senate-primaries-in-north-carolina-and-texas",
+      "source": "NPR Politics",
+      "published": "2026-03-03T09:40:04.000Z",
+      "description": "Tuesday is the last day of voting in two U.S. Senate primaries. North Carolina Democrats are hoping to flip a seat, and in Texas, loyalty to Trump is front and center for GOP candidates.",
+      "keywords": [
+        "voting",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine coverage of primary elections without reporting on threats to electoral integrity, voting access, or institutional independence.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-03T12:06:42.214Z"
+    },
+    {
+      "id": "a784f118d4b9",
+      "title": "Trump's allies suggest he invoke emergency powers ahead of midterms",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5727839/trumps-allies-suggest-he-invoke-emergency-powers-ahead-of-midterms",
+      "source": "NPR Politics",
+      "published": "2026-03-03T09:40:00.000Z",
+      "description": "Allies of President Trump have floated the idea of him invoking emergency powers to make changes to voting rules. They've also floated sending federal agents to police the polls.",
+      "keywords": [
+        "voting",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 9,
+      "reason": "Invoking emergency powers to alter voting rules and deploy federal agents at polls would represent unprecedented erosion of election integrity, congressional oversight, and constitutional separation of powers.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-03T12:06:42.433Z"
+    },
+    {
+      "id": "1d84faf7d9b2",
+      "title": "The geographic and demographic dividing lines shaping Texas' combative Senate primaries",
+      "url": "https://www.nbcnews.com/politics/2026-election/steve-kornacki-geographic-demographic-dividing-lines-texas-senate-rcna261246",
+      "source": "NBC News",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "A pair of volatile Senate contests in Texas will headline the first primary night of the 2026 midterm season.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "This is routine political coverage of primary election demographics and campaign dynamics with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:42.354Z"
+    },
+    {
+      "id": "267e211b4139",
+      "title": "Incumbents are at risk as the first primaries of the midterm elections get underway",
+      "url": "https://www.nbcnews.com/politics/2026-election/primary-election-2026-texas-north-carolina-arkansas-what-to-expect-rcna261245",
+      "source": "NBC News",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "Three states are kicking off the 2026 midterm elections Tuesday with primaries that will shape the battle for control of the House and the Senate, while simmering fights for control of each party could boil over as voters decide whether to discard longtime incumbents",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about primary contests and incumbent performance with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:43.277Z"
+    },
+    {
+      "id": "43ff1d5c5ec2",
+      "title": "Panel reviewing Trump ballroom plans will also hear from skeptical commenters",
+      "url": "https://www.cbsnews.com/news/trump-ballroom-public-comment/",
+      "source": "CBS News",
+      "published": "2026-03-03T11:00:04.000Z",
+      "description": "At a meeting this week, the National Capital Planning Commission will be hearing from about 100 people who are expected to register their dismay over Trump's plans for a White House ballroom addition.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news about standard public comment procedures for a construction project review, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:43.313Z"
+    },
+    {
+      "id": "7efb8ba9170a",
+      "title": "DHS Secretary Kristi Noem to testify before Senate committee today",
+      "url": "https://www.cbsnews.com/live-updates/dhs-kristi-noem-testify-senate-committee/",
+      "source": "CBS News",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "Kristi Noem's testimony comes after calls for congressional oversight of the Trump administration's immigration operations following the fatal shootings of Renee Good and Alex Pretti by federal agents.",
+      "keywords": [
+        "immigration",
+        "congressional oversight",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight testimony on controversial federal agent shootings represents standard legislative accountability, but the underlying incidents raise civil rights concerns that warrant monitoring.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-03T12:06:43.420Z"
+    },
+    {
+      "id": "05f9af03a61a",
+      "title": "States face pushback on their rural health transformation plans",
+      "url": "https://www.cbsnews.com/news/states-rural-health-transformation-plans/",
+      "source": "CBS News",
+      "published": "2026-03-03T10:00:18.000Z",
+      "description": "Some Republican state lawmakers and health associations are pushing back against spending plans under the Trump administration's $50 billion federal rural health fund.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns routine disagreements over healthcare spending allocation and does not involve democratic institutions, oversight mechanisms, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:43.229Z"
+    },
+    {
+      "id": "5de2b139918e",
+      "title": "Why is the U.S. attacking Iran? Here's what Trump has said.",
+      "url": "https://www.cbsnews.com/news/why-us-attack-iran-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-03-03T10:00:00.000Z",
+      "description": "President Trump on Monday listed four reasons why the U.S. launched its attack on Iran, initiating what he said he expects to be a weeks-long war.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article reports on foreign policy statements regarding military action, which does not directly implicate the domestic democratic checks and balances categories being tracked.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:44.720Z"
+    },
+    {
+      "id": "690774cead47",
+      "title": " Minnesota sues to block Trump administration's withholding of Medicaid funds",
+      "url": "https://abcnews.com/Politics/wireStory/minnesota-sues-block-trump-administrations-withholding-medicaid-funds-130703921",
+      "source": "ABC News",
+      "published": "2026-03-03T11:30:59.000Z",
+      "description": "Minnesota is suing President Donald Trump’s administration in an attempt to stop it from withholding $243 million in Medicaid spending",
+      "keywords": [
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable institutional check (state legal action against federal authority) but involves routine executive-legislative-judicial dispute over funding enforcement rather than unprecedented democratic erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T12:06:44.946Z"
+    },
+    {
+      "id": "e23a45e83bed",
+      "title": "Hannity unloads on Carlson: \"It's not the person that I knew when he was at Fox\"",
+      "url": "https://www.axios.com/2026/03/03/sean-hannity-tucker-carlson-katie-miller-podcast",
+      "source": "Axios",
+      "published": "2026-03-03T11:21:44.000Z",
+      "description": "Katie Miller interviewed Fox News' Sean Hannity for an upcoming episode of \"The Katie Miller Podcast,\" and Hannity jabbed at former prime-time colleague Tucker Carlson:\n\n\"I don't ever talk to him, ever,\" Hannity said. \"I wish him well. I've read a lot of what he says. I just completely disagree with it. And it's not the person that I knew when he was at Fox.\"\n\nWhat they're saying: Miller asked Hannity if he thinks conservative media stars have become too focused on fighting each other instead of",
+      "keywords": [
+        "ICE",
+        "miller"
+      ],
+      "significance": 1,
+      "reason": "This is personality-driven commentary between media figures with no direct impact on institutional checks and balances, democratic processes, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:44.600Z"
+    },
+    {
+      "id": "f50b2c8e2039",
+      "title": "Rubio's war remarks blow open MAGA's Israel divide",
+      "url": "https://www.axios.com/2026/03/03/rubio-trump-iran-israel-attacks",
+      "source": "Axios",
+      "published": "2026-03-03T10:51:30.000Z",
+      "description": "MAGA's ascendant \"America First\" wing erupted after Secretary of State Marco Rubio effectively blamed Israel for drawing the U.S. into war with Iran.\nWhy it matters: Rubio's remarks were the first time a Trump official had so explicitly acknowledged Israel as a driving force behind the war — landing at a moment when Americans' public support for Israel has hit historic lows.\n\"We knew that there was going to be an Israeli action\" against Iran, Rubio told reporters on Capitol Hill on Monday. \"We k",
+      "keywords": [
+        "voter",
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article reports on intra-party foreign policy disagreements and public statements about Israel-Iran relations, which constitutes routine political commentary without demonstrating erosion of democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:44.705Z"
+    },
+    {
+      "id": "deeb6b7f5b93",
+      "title": "Inside the $64 million midterm civil war infuriating Democratic Party leadership",
+      "url": "https://www.axios.com/2026/03/03/democrats-2026-midterms-house-primaries-jeffries",
+      "source": "Axios",
+      "published": "2026-03-03T10:00:04.000Z",
+      "description": "An expensive Democratic civil war is brewing this election cycle, with a staggering 30 House Democrats facing at least one primary challenger who has raised $100,000 or more, an Axios analysis found.\nWhy it matters: These primaries are drawing tens of millions of dollars from Democrats' efforts to retake the House while priming House Minority Leader Hakeem Jeffries (D-N.Y.) to inherit a rebellious class of new freshmen.\n\nThe collective fundraising in these races adds up to more than $64 million ",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine intra-party primary competition and fundraising dynamics, which are normal features of democratic elections without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:44.736Z"
+    },
+    {
+      "id": "cc4f2ce35beb",
+      "title": "Red spot on Trump’s neck caused by skin cream, White House says",
+      "url": "https://thehill.com/homenews/administration/5763677-donald-trump-red-spot-neck-cream-white-house/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:17:21.000Z",
+      "description": "The White House didn't elaborate on what condition it is treating.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine health/appearance commentary with no relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:45.684Z"
+    },
+    {
+      "id": "afeb83ff78c4",
+      "title": "Texas voters set to deliver verdict in competitive Senate primaries ",
+      "url": "https://thehill.com/homenews/campaign/5763629-texas-senate-primaries-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "Voters in Texas are set to deliver a verdict on the Lone Star State’s closely watched Senate primaries on Tuesday, kicking off the midterm cycle and this year’s high stakes battle for control of Congress.  Incumbent Sen. John Cornyn (R-Texas) is in the fight of his political life in the GOP primary against Texas Attorney General Ken…",
+      "keywords": [
+        "voter",
+        "midterm",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage of a primary race with no direct implications for institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:45.793Z"
+    },
+    {
+      "id": "d644d7b298db",
+      "title": "Trump’s strikes on Iran rattle war powers debate in Congress",
+      "url": "https://thehill.com/homenews/house/5763667-trump-iran-strikes-war-powers/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "President Trump’s decision to attack Iran over the weekend has rattled the debate over war powers on Capitol Hill. Democrats in both chambers are racing to force votes on a resolution that would curb Trump’s use of military force against Tehran by requiring explicit congressional approval governing any such strikes. While the effort was initially…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Directly implicates congressional oversight through war powers authority, a fundamental constitutional check on executive power, with legislative action being pursued in response.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T12:06:45.844Z"
+    },
+    {
+      "id": "75d8490c83a7",
+      "title": "7 races to watch in Texas, North Carolina as 2026 primary elections kick off",
+      "url": "https://thehill.com/homenews/campaign/5763133-key-races-texas-north-carolina-primary/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "The 2026 primary cycle officially kicks off Tuesday, with Texas, North Carolina and Arkansas hosting the first round of contests that will shape several consequential elections this year. In Texas, Sen. John Cornyn is fighting for his political life in a heated Senate GOP primary against state Attorney General Ken Paxton and Rep. Wesley Hunt,…",
+      "keywords": [
+        "election",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news coverage of upcoming primary elections with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:45.668Z"
+    },
+    {
+      "id": "91618e8ec4a9",
+      "title": "GOP, Democrats both face political risks from fast-moving Iran war",
+      "url": "https://thehill.com/homenews/senate/5763722-trump-iran-conflict-congress/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "Democrats and Republicans on Capitol Hill are scrambling to respond to the fast-developing conflict with Iran that has embroiled several U.S. allies in the Middle East and caused energy prices to surge, posing domestic political risks to both parties. Republicans are struggling to say what President Trump’s ultimate objective is in Iran in the wake…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of partisan positioning on foreign policy rather than analysis of institutional checks and balances being tested or compromised.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:45.793Z"
+    },
+    {
+      "id": "8b086c9335d2",
+      "title": "Pentagon stuns Silicon Valley with Anthropic ban",
+      "url": "https://thehill.com/policy/technology/5763323-pentagon-stuns-silicon-valley-with-anthropic-ban/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "The Trump administration’s decision to cut off the government’s use of Anthropic and label the company a supply chain risk after a dispute over AI safeguards is sending shock waves through Silicon Valley. The rupture with Anthropic followed weeks of tense negotiations with the Pentagon over the terms of use for the company’s AI models.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the Pentagon's action raises concerns about potential political retaliation and executive overreach in procurement decisions, the impact appears limited to one company and lacks evidence of systematic institutional erosion at this stage.",
+      "categories": [
+        "political retribution",
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-03T12:06:47.018Z"
+    },
+    {
+      "id": "9f9061290736",
+      "title": "Jasmine Crockett, James Talarico and the power of compact electoral minorities",
+      "url": "https://thehill.com/homenews/campaign/5763463-jasmine-crockett-james-talarico-and-the-power-of-compact-electoral-minorities/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "MAGA Republicans in Texas backing state Attorney General Ken Paxton in Tuesday’s Senate primary share a lot in common with Rep. Jasmine Crockett’s supporters on the Democratic side. There is the reckless thrill of telling party elites and opinion mongers that you don’t give a damn what the prudent choice would be. There’s also the…",
+      "keywords": [
+        "attorney general",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is political commentary analyzing primary election voting patterns and intra-party dynamics, with no direct examination of institutional checks and balances or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-03T12:06:46.620Z"
+    },
+    {
+      "id": "e8a410ed358d",
+      "title": "Senate Republicans warn Trump about expanding Iran mission as death toll rises",
+      "url": "https://thehill.com/homenews/senate/5764012-senate-republicans-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-03T11:00:00.000Z",
+      "description": "Senate Republicans are warning President Trump against expanding the U.S.’s military offensive in Iran after he indicated he is willing to go as far as needed in order to complete the mission in the region. GOP lawmakers largely backed Trump’s decision to order strikes against Tehran and other key locations over the weekend in coordination…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents notable congressional oversight activity on military matters, but involves routine legislative pushback rather than a fundamental institutional challenge or erosion of checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T12:06:46.941Z"
+    },
+    {
+      "id": "f2d9cc9b7f51",
+      "title": "Five races to watch on the day the 2026 midterm elections kick off",
+      "url": "https://www.cnbc.com/2026/03/03/2026-midterm-elections-five-races-to-watch.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-03T11:00:01.000Z",
+      "description": "Results from Tuesday's races in three states could be telling for how the rest of the midterm season will unfold.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral reporting on upcoming midterm races with no direct implications for institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-03T12:06:46.578Z"
     }
   ],
   "lastDigest": "2026-03-02T14:18:09.812Z",
-  "lastFetch": "2026-03-03T06:13:26.363Z"
+  "lastFetch": "2026-03-03T12:06:47.018Z"
 }
