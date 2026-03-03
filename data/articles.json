@@ -34686,8 +34686,516 @@
         "press freedom"
       ],
       "scoredAt": "2026-03-03T00:11:10.588Z"
+    },
+    {
+      "id": "4e92388f1892",
+      "title": "Here are Arkansas' 2026 primary election results",
+      "url": "https://www.npr.org/2026/03/03/g-s1-111251/arkansas-primary-election-results-2026",
+      "source": "NPR Politics",
+      "published": "2026-03-03T05:01:00.000Z",
+      "description": "Live election results: Get the latest on Arkansas' U.S. Senate, U.S. House and gubernatorial primary races.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine election results reporting with no bearing on democratic institutions, checks and balances, or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:15.451Z"
+    },
+    {
+      "id": "7e718a5e6b33",
+      "title": "Here are Texas' 2026 primary election results",
+      "url": "https://www.npr.org/2026/03/03/g-s1-111246/texas-primary-election-results-2026",
+      "source": "NPR Politics",
+      "published": "2026-03-03T05:01:00.000Z",
+      "description": "Live election results: Get the latest on Texas' U.S. Senate, U.S. House and gubernatorial primary races.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "Routine reporting of primary election results with no institutional or systemic implications for checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-03T06:13:15.504Z"
+    },
+    {
+      "id": "0138b8c94dd3",
+      "title": "Here are North Carolina's 2026 primary election results",
+      "url": "https://www.npr.org/2026/03/03/g-s1-111250/nc-primary-election-results-2026",
+      "source": "NPR Politics",
+      "published": "2026-03-03T05:01:00.000Z",
+      "description": "Live election results: Get the latest on North Carolina's U.S. House and U.S. Senate primary races.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "Routine reporting of election results with no institutional implications for checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-03T06:13:15.450Z"
+    },
+    {
+      "id": "dc7c5c500384",
+      "title": "Trump says he'll attend White House correspondents' dinner for his first time as president",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-hell-attend-white-house-correspondents-dinner-for-his-first-time-as-president",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T00:47:25.000Z",
+      "description": "President Donald Trump says he'll attend this year's White House Correspondent Association dinner on April 25, marking the first time he's done so as commander-in-chief.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Attending the White House correspondents' dinner is a social/ceremonial event with no direct impact on institutional checks and balances or democratic governance.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-03-03T06:13:15.666Z"
+    },
+    {
+      "id": "33e4e5365cb7",
+      "title": "Supreme Court preserves only GOP-held congressional district in NYC for 2026 elections",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-preserves-only-gop-held-congressional-district-in-nyc-for-2026-elections",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T00:17:16.000Z",
+      "description": "The Supreme Court on Monday sided with Republicans in ruling that the boundaries of the only GOP-held congressional district in New York City do not not need to be redrawn for the 2026 elections, despite a court ruling that the district is unfair to Black and Hispanic residents.",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 7,
+      "reason": "This ruling significantly impacts election infrastructure and congressional oversight by allowing preservation of potentially gerrymandered districts despite findings of racial unfairness, undermining fair representation mechanisms.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T06:13:15.734Z"
+    },
+    {
+      "id": "6f53a5363e72",
+      "title": "What's at stake for Democrats and Republicans in the Texas Senate primaries",
+      "url": "https://www.pbs.org/newshour/show/whats-at-stake-for-democrats-and-republicans-in-the-texas-senate-primaries",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T23:20:31.000Z",
+      "description": "Voters head to the polls on Tuesday in Arkansas, North Carolina and Texas. It's in the Lone Star State where competitive races on both sides of the aisle have fueled unprecedented spending. Lisa Desjardins reports on what's at stake in the Texas U.S. Senate race.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of primary election races with no direct connection to democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:16.418Z"
+    },
+    {
+      "id": "e8aefd8020b9",
+      "title": "War in Middle East widens as Israeli and U.S. planes pound Iran and Tehran and its proxies hit back",
+      "url": "https://www.pbs.org/newshour/world/war-in-middle-east-widens-as-israeli-and-u-s-planes-pound-iran-and-tehran-and-its-proxies-hit-back",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T14:57:39.000Z",
+      "description": "Israel and the United States pounded Iran on Monday in an escalating campaign that U.S. President Donald Trump said would likely take several weeks. Tehran and its allies hit back across the region, striking Israel and a variety of targets inside Gulf states, including energy facilities in Qatar and the American embassy in Saudi Arabia.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Foreign military conflict reporting with no direct connection to domestic U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:16.537Z"
+    },
+    {
+      "id": "10108903178e",
+      "title": "DOJ drops fight against law firms after judge finds Trump's orders unconstitutional",
+      "url": "https://www.nbcnews.com/politics/trump-administration/doj-drops-suits-law-firms-judges-find-executive-orders-unconstitutiona-rcna261434",
+      "source": "NBC News",
+      "published": "2026-03-03T03:21:58.000Z",
+      "description": "The Justice Department on Monday dropped the fight over President Donald Trump's executive orders targeting firms he disliked, conceding to unanimous rulings from federal judges that found the orders violated the fundamental tenets of the Constitution",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "executive order",
+        "unconstitutional",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "A federal court's rejection of presidential executive orders as unconstitutional represents a significant institutional check on executive power, though the DOJ's concession limits the precedential impact.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-03T06:13:16.613Z"
+    },
+    {
+      "id": "d48ed7b382e7",
+      "title": "State Department urges Americans across Mideast to depart as strikes continue",
+      "url": "https://www.nbcnews.com/politics/national-security/state-department-urges-americans-mideast-depart-strikes-continue-rcna261313",
+      "source": "NBC News",
+      "published": "2026-03-03T00:11:35.000Z",
+      "description": "The weekend strikes against Iran have caused massive disruptions to U.S. embassies and consulates throughout the Middle East.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine diplomatic and security alert regarding embassy operations during regional conflict, without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:17.655Z"
+    },
+    {
+      "id": "5b2a29ace4df",
+      "title": "Military officials question fortifications at site where U.S. troops were killed",
+      "url": "https://www.cbsnews.com/news/iran-strike-kuwait-officials-question-fortifications/",
+      "source": "CBS News",
+      "published": "2026-03-03T05:26:03.000Z",
+      "description": "The first American service members to die in the U.S.-Israeli war with Iran were killed in an apparent Iranian drone attack on a makeshift office space in Kuwait, sources told CBS News.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report about military security procedures and incident investigation with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:17.600Z"
+    },
+    {
+      "id": "0c0bd4267ed5",
+      "title": "3/2: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/030226-cbs-evening-news/",
+      "source": "CBS News",
+      "published": "2026-03-03T05:08:46.000Z",
+      "description": "Trump says U.S. will \"easily prevail\" as Iran fights back; House panel releases video of Clintons' Epstein testimony.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of foreign policy statements and congressional testimony release, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:18.235Z"
+    },
+    {
+      "id": "863bb5d41a5e",
+      "title": "DOJ moves to drop defense of Trump's executive orders targeting law firms",
+      "url": "https://www.cbsnews.com/news/justice-department-drop-defense-trumps-executive-orders-targeting-law-firms/",
+      "source": "CBS News",
+      "published": "2026-03-03T01:24:05.000Z",
+      "description": "Four different district court judges found President Trump's executive orders targeting the law firms were unconstitutional.",
+      "keywords": [
+        "DOJ",
+        "executive order",
+        "unconstitutional",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "DOJ's decision to drop defense of unconstitutional executive orders represents a significant institutional action affirming judicial independence and rule of law, though the orders were already blocked rather than representing new erosion.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-03T06:13:17.922Z"
+    },
+    {
+      "id": "a9d4825656de",
+      "title": "Trump says U.S. will \"easily prevail\" as Iran fights back",
+      "url": "https://www.cbsnews.com/video/trump-says-us-will-easily-prevail-as-iran-fights-back/",
+      "source": "CBS News",
+      "published": "2026-03-03T01:14:00.000Z",
+      "description": "For a third day, U.S. and Israeli forces are pounding Iran, striking more than a thousand targets across the country, including key government and military buildings in the capital. For now, the Iranian regime's military is fighting back hard, firing missiles and launching drones in at least 11 countries, including Israel and Kuwait. Tony Dokoupil and Matt Gutman have the latest.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on military conflict between the U.S., Israel, and Iran with no bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:22.106Z"
+    },
+    {
+      "id": "8937b8d8a3de",
+      "title": "Why the war with Iran is expected to raise gas prices",
+      "url": "https://www.cbsnews.com/video/why-the-war-with-iran-is-expected-to-raise-gas-prices/",
+      "source": "CBS News",
+      "published": "2026-03-03T01:06:00.000Z",
+      "description": "American motorists could soon pay more at the pump amid spiking oil prices due to the U.S.-Israel attacks on Iran. Kelly O'Grady explains.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article discusses economic consequences of foreign policy and military action but does not directly address institutional checks and balances, democratic processes, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:22.222Z"
+    },
+    {
+      "id": "22c728e31dab",
+      "title": "CBS News poll finds views of deportation operations continue to divide country",
+      "url": "https://www.cbsnews.com/news/cbs-news-poll-deportation-operations-divide/",
+      "source": "CBS News",
+      "published": "2026-03-03T00:56:40.000Z",
+      "description": "A new CBS News poll finds most Americans say nationwide ICE operations should be decreased.",
+      "keywords": [
+        "ICE",
+        "deportation"
+      ],
+      "significance": 2,
+      "reason": "This is polling data on public opinion regarding immigration enforcement, which reflects civic engagement but does not report on institutional actions, policy changes, or threats to democratic structures.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-03T06:13:22.235Z"
+    },
+    {
+      "id": "1d61fb0d8fab",
+      "title": "White House scrambles to justify Iran intervention",
+      "url": "https://www.cbsnews.com/video/white-house-scrambles-to-justify-iran-intervention/",
+      "source": "CBS News",
+      "published": "2026-03-03T00:47:00.000Z",
+      "description": "Standing in the East Room of the White House, President Trump said he will wage war until Iran's missile program is destroyed and their nuclear ambitions are halted. Nancy Cordes has the latest.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine reporting on a presidential foreign policy statement without evidence of institutional checks being undermined or democratic processes being compromised.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:22.932Z"
+    },
+    {
+      "id": "0069d85aff7d",
+      "title": "SCOTUS blocks Calif. law against schools outing transgender students to their parents",
+      "url": "https://www.cbsnews.com/news/supreme-court-blocks-california-law-barred-schools-notifying-parents-transgender-children/",
+      "source": "CBS News",
+      "published": "2026-03-03T00:41:16.000Z",
+      "description": "The Supreme Court order blocks for now a California law​ that bans automatic parental notification requirements if students change their pronouns or gender expression at school.",
+      "keywords": [
+        "court order"
+      ],
+      "significance": 5,
+      "reason": "This Supreme Court order affects judicial independence and civil rights protections but represents a temporary procedural action rather than a final ruling on the merits, making it notable but not yet a definitive institutional shift.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-03T06:13:22.388Z"
+    },
+    {
+      "id": "c50afe06eecb",
+      "title": "U.S. Embassy in Riyadh hit by drones, Saudi officials say",
+      "url": "https://www.axios.com/2026/03/03/iran-us-embassy-riyadh-saudi-arabia-drones",
+      "source": "Axios",
+      "published": "2026-03-03T05:12:29.000Z",
+      "description": "The U.S. Embassy in Riyadh was attacked by two drones, according to initial estimates, resulting in a limited fire and minor material damage to the building, a Saudi Defense Ministry spokesperson said on Monday.\nThe big picture: In the latest incident affecting a U.S. ally since Tehran launched a wave of counterattacks following weekend airstrikes by American and Israeli forces on Iran, the United States Mission to Saudi Arabia issued a \"shelter in place\" alert for Riyadh, Jeddah and Dhahran.\n\nZ",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign military incident affecting U.S. diplomatic facilities abroad with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:24.149Z"
+    },
+    {
+      "id": "561f06c8a67f",
+      "title": "DOJ backs down in legal fight with law firms Trump targeted",
+      "url": "https://www.axios.com/2026/03/03/trump-law-firms-justice-department-executive-orders",
+      "source": "Axios",
+      "published": "2026-03-03T04:32:58.000Z",
+      "description": "The Department of Justice moved to dismiss its civil case against four leading law firms that won rulings against President Trump's executive orders targeting them for employing or representing his critics.\nThe big picture: The DOJ's motion to dismiss its lawsuit appeals against Perkins Coie, WilmerHale, Jenner & Block and Susman Godfrey comes after other prestigious law firms caught in Trump's crosshairs agreed to provide almost $1 billion worth of legal work to the president instead of going t",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "white house",
+        "executive order",
+        "unconstitutional",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Significant reversal of DOJ action targeting law firms for political reasons demonstrates institutional pushback against potential abuse of prosecutorial power, directly implicating DOJ independence and political retribution.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T06:13:23.984Z"
+    },
+    {
+      "id": "ac6f2282b6bb",
+      "title": "Nancy Mace under House Ethics Committee investigation",
+      "url": "https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation",
+      "source": "Axios",
+      "published": "2026-03-02T21:24:17.000Z",
+      "description": "The House Ethics Committee announced Monday that it is looking into allegations Rep. Nancy Mace (R-S.C.) over-billed her congressional office for funds to maintain her home in D.C. \nWhy it matters: The charges, which Mace's lawyer called \"fundamentally flawed,\" could add further mayhem to her bid for governor of South Carolina.\n\nMace has built a national profile for making heated public statements and picking fights with both political rivals and other individuals who she says have wronged her.\n",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the ethics investigation is a notable institutional action relevant to congressional oversight and potential corruption/self-dealing, it represents routine ethics committee proceedings rather than a systemic threat to democratic checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-03T06:13:24.270Z"
+    },
+    {
+      "id": "265888ee8d9c",
+      "title": "Third victim dies in Austin mass shooting",
+      "url": "https://www.axios.com/local/austin/2026/03/02/austin-shooting-victims-named",
+      "source": "Axios",
+      "published": "2026-03-02T20:51:34.000Z",
+      "description": "Authorities on Monday night said a third victim died from injuries suffered in the early Sunday morning mass shooting in downtown Austin.\nThe latest: Police identified the deceased victims as Savitha Shan, 24, Ryder Harrington, 22, and Jorge Pederson, 30.\n\nHarrington was a Texas Tech student. \"The energy he carried, the joy he spread, and the way he made everyone feel welcome are things we will never forget,\" his fraternity posted on Instagram.\nUniversity of Texas officials identified Shan as Sa",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a tragic news report about a criminal incident with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:23.621Z"
+    },
+    {
+      "id": "9d6a3d0d1ff4",
+      "title": "Trump slams Democrats over criticism of Iran strikes",
+      "url": "https://thehill.com/homenews/administration/5764083-trump-slams-democrats-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-03T03:06:24.000Z",
+      "description": "President Trump on Monday slammed Democrats for criticizing his administration’s strikes in Iran over the weekend. “The Radical Left Democrats, a Party that has completely lost its way, are complaining bitterly about the very necessary and important attack, by the United States and Israel, on Iran,” Trump wrote in a Monday evening Truth Social post. …",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a foreign policy disagreement with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:23.662Z"
+    },
+    {
+      "id": "3635e2b85f8d",
+      "title": "Vance says ‘there’s no way’ Trump will let US get into multiyear conflict ",
+      "url": "https://thehill.com/homenews/administration/5764073-trump-vance-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-03T02:18:31.000Z",
+      "description": "Vice President JD Vance dismissed the notion that the U.S. operation in Iran would lead to a prolonged conflict on Monday, saying there is no way Trump would let Washington end up in a multiyear conflict. “What’s so different about this is that the president has clearly defined what he wants to accomplish,” Vance told…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine statement of administration policy preference regarding military engagement, lacking institutional action or documented checks/balances implications.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:25.115Z"
+    },
+    {
+      "id": "c6d7faf9007e",
+      "title": "US embassy in Riyadh struck by drones",
+      "url": "https://thehill.com/policy/international/5764037-riyadh-embassy-drone-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-03T02:02:36.000Z",
+      "description": "The U.S. Embassy in Riyadh, Saudi Arabia, was struck by multiple drones on Monday following President Trump’s attacks on Iran.  “The U.S. Embassy in Riyadh was subjected to an attack by two drones according to initial estimates, resulting in a limited fire and minor material damage to the building,” Saudi Arabia’s Ministry of Defense wrote…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign military incident involving U.S. diplomatic facilities abroad and does not directly implicate any of the 12 domestic democratic checks and balances categories being tracked.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:25.172Z"
+    },
+    {
+      "id": "2508678c44b7",
+      "title": "Nancy Mace under investigation by House Ethics Committee",
+      "url": "https://thehill.com/homenews/house/5764052-mace-ethics-committee-review/",
+      "source": "The Hill",
+      "published": "2026-03-03T01:55:56.000Z",
+      "description": "The House Ethics Committee is investigating Rep. Nancy Mace (R-S.C.) over allegations that she may have engaged in “improper reimbursement practices” and violated House rules. The committee wrote in a statement on Monday that they had received a referral from the nonpartisan Office of Congressional Conduct (OCC), which reviews allegations of misconduct against members of…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "A routine ethics investigation into a single member's conduct demonstrates normal congressional oversight functioning, but lacks the institutional or systemic significance that would elevate it to urgent status.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T06:13:25.186Z"
+    },
+    {
+      "id": "96758a977973",
+      "title": "Lawmakers: Israeli plan to attack Iran dictated Trump’s decision on strikes",
+      "url": "https://thehill.com/homenews/administration/5764030-trump-administration-iran-strikes-israel/",
+      "source": "The Hill",
+      "published": "2026-03-03T01:29:11.000Z",
+      "description": "Senior lawmakers in both parties said Monday that the Trump administration’s decision to launch bombing and missile strikes across Iran this weekend was largely dictated by Israel’s plan to attack Iran with or without U.S. support. Senior administration officials told Republican and Democratic lawmakers at a classified briefing on Capitol Hill that the Israeli plan…",
+      "keywords": [
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about congressional oversight and foreign policy decision-making transparency, but lacks evidence of systematic institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T06:13:25.080Z"
+    },
+    {
+      "id": "a9c283ffe19e",
+      "title": "DOJ drops defense of Trump orders targeting law firms",
+      "url": "https://thehill.com/homenews/administration/5763981-doj-abandons-trump-law-firm-orders/",
+      "source": "The Hill",
+      "published": "2026-03-03T01:04:17.000Z",
+      "description": "The Department of Justice (DOJ) on Monday deserted its defense of President Trump’s executive orders targeting several of the nation’s top law firms, court filings show.  The Trump administration abandoned its appeals of four rulings by federal judges that rebuffed the orders aimed at law firms Perkins Coie, WilmerHale, Jenner & Block and Susman Godfrey. Lawyers for the DOJ moved to voluntarily dismiss the appeals late Monday. Trump’s orders sought to undercut each law…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "executive order",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "DOJ's abandonment of defense for executive orders targeting specific law firms represents a significant institutional action affecting judicial independence and the rule of law, though the outcome (courts blocking the orders) demonstrates checks and balances functioning.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-03T06:13:25.398Z"
+    },
+    {
+      "id": "a49583751454",
+      "title": "Speaker Johnson pushes against war powers resolution: ‘Frightening’",
+      "url": "https://thehill.com/homenews/house/5763946-war-powers-resolution-iran/",
+      "source": "The Hill",
+      "published": "2026-03-03T00:39:43.000Z",
+      "description": "Speaker Mike Johnson (R-La.) said passing a war powers resolution would strip President Trump of the authority to complete his military operation in Iran, warning that such a move would be a “frightening prospect.” Reps. Ro Khanna (D-Calif.) and Thomas Massie (R-Ky.) plan to force a vote on a war powers resolution this week that…",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional exercise of war powers authority represents a notable check on executive power, but the outcome remains uncertain and the current action is procedural rather than a finalized institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T06:13:26.363Z"
+    },
+    {
+      "id": "eb57b48f2480",
+      "title": "US urges Americans to ‘DEPART NOW’ from Middle Eastern countries",
+      "url": "https://thehill.com/policy/international/5763902-us-urges-americans-depart-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-03T00:27:05.000Z",
+      "description": "The United States is urging Americans to “DEPART NOW” from more than a dozen countries in the Middle East amid strikes on Iran.  “The @SecRubio @StateDept urges Americans to DEPART NOW from the countries below using available commercial transportation, due to serious safety risks,” Mora Namdar, assistant secretary of State for consular affairs, wrote in…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine travel advisory related to foreign safety conditions and does not concern U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T06:13:26.089Z"
     }
   ],
   "lastDigest": "2026-03-02T14:18:09.812Z",
-  "lastFetch": "2026-03-03T00:11:10.588Z"
+  "lastFetch": "2026-03-03T06:13:26.363Z"
 }
