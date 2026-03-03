@@ -33976,8 +33976,718 @@
         "DOJ independence"
       ],
       "scoredAt": "2026-03-02T18:10:29.099Z"
+    },
+    {
+      "id": "fcc78faa43b6",
+      "title": "WATCH: Limiting Trump's authority with war powers act is 'dangerous,' Johnson says",
+      "url": "https://www.pbs.org/newshour/politics/watch-limiting-trumps-authority-with-war-powers-act-is-dangerous-johnson-says",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T23:50:30.000Z",
+      "description": "The U.S. Congress is confronting a war powers debate over President Donald Trump's authority to bomb Iran under largely unusual circumstances — without a formal declaration or an address to the nation, the commander in chief has already launched the country into a quickly spiraling war in the Middle East.",
+      "keywords": [
+        "johnson",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable congressional-executive tension over war powers that touches on constitutional checks and balances, but the significance depends on whether this becomes substantive legislative action or remains rhetorical debate.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T00:10:58.544Z"
+    },
+    {
+      "id": "262808ef179c",
+      "title": "Trump leaves door open to sending ground troops to Iran",
+      "url": "https://www.pbs.org/newshour/show/trump-leaves-door-open-to-sending-ground-troops-to-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T23:50:22.000Z",
+      "description": "As the American and Israeli bombing campaign and Iran's retaliatory attacks roil the Middle East, Liz Landers and Lisa Desjardins report on how the White House and Congress are responding.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While military escalation decisions raise important separation-of-powers questions about executive war powers versus congressional authority, the article reports on conditional statements rather than concrete institutional actions or erosion of checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:10:58.461Z"
+    },
+    {
+      "id": "0ff2c5fcb728",
+      "title": "What to expect in North Carolina's midterm primaries",
+      "url": "https://www.pbs.org/newshour/politics/what-to-expect-in-north-carolinas-midterm-primaries",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T23:31:51.000Z",
+      "description": "North Carolina voters will narrow down the field of candidates Tuesday in a competitive U.S. Senate race that could decide control of the closely divided chamber in November.",
+      "keywords": [
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage of a primary election process functioning as designed, with no indication of threats to democratic institutions or checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-03T00:11:00.564Z"
+    },
+    {
+      "id": "f971e6556110",
+      "title": "What to expect in the Texas midterm primaries",
+      "url": "https://www.pbs.org/newshour/politics/what-to-expect-in-the-texas-midterm-primaries",
+      "source": "PBS NewsHour",
+      "published": "2026-03-02T23:18:08.000Z",
+      "description": "Two hotly contested U.S. Senate primaries in Texas will help officially kick off the 2026 midterm election cycle Tuesday, when voters in three states will pick nominees to compete in the November general election.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Article covers routine primary election reporting with no bearing on institutional checks and balances, democratic safeguards, or government accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:10:58.202Z"
+    },
+    {
+      "id": "2e47e071f64f",
+      "title": "Trump to attend his first White House correspondents' dinner as president",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-attend-first-white-house-correspondents-dinner-president-rcna261427",
+      "source": "NBC News",
+      "published": "2026-03-02T23:52:11.000Z",
+      "description": "Trump skipped all of the annual White House Correspondents Association dinners during his first term, as well as the first one from his second term.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "Attendance at a ceremonial dinner is a discretionary presidential choice with no direct impact on institutional checks and balances or democratic accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:01.706Z"
+    },
+    {
+      "id": "211fc0f359b8",
+      "title": "Supreme Court blocks redraw of lone GOP-held district in New York City",
+      "url": "https://www.nbcnews.com/politics/2026-election/supreme-court-blocks-redraw-lone-gop-held-district-new-york-city-rcna261426",
+      "source": "NBC News",
+      "published": "2026-03-02T23:41:15.000Z",
+      "description": "The Supreme Court issued a ruling Monday that will keep New York City's lone Republican-held congressional district in place for this year's midterm elections",
+      "keywords": [
+        "election",
+        "midterm",
+        "ruling"
+      ],
+      "significance": 5,
+      "reason": "A significant but routine redistricting decision affecting one district that impacts electoral outcomes without establishing broader democratic precedent or institutional erosion.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T00:11:01.561Z"
+    },
+    {
+      "id": "9b979a8a4911",
+      "title": "Trump's campaign against 'forever wars' hangs over Iran operation: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/trump-forever-wars-iran-operation-politics-desk-rcna261284",
+      "source": "NBC News",
+      "published": "2026-03-02T23:00:28.000Z",
+      "description": "In today’s edition, we examine how President Donald Trump’s past opposition to “forever wars” is clashing with his operation in Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is political commentary analyzing campaign rhetoric versus operational decisions, lacking concrete evidence of institutional checks and balances being tested or eroded.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:01.493Z"
+    },
+    {
+      "id": "2be001fa1747",
+      "title": "Pardoned Capitol rioter who said Jan. 6 officer 'needs to be put down' is charged",
+      "url": "https://www.nbcnews.com/politics/politics-news/jan-6-rioter-jake-lang-arrested-threat-dc-police-officer-rcna261395",
+      "source": "NBC News",
+      "published": "2026-03-02T22:39:43.000Z",
+      "description": "Pardoned Jan. 6 rioter Jake Lang has been charged with making threatening statements about one of the officers he faced off with at the U.S.",
+      "keywords": [
+        "ICE",
+        "pardon"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates tension between executive pardon power and judicial independence/rule of law, raising questions about accountability limits when presidential clemency shields individuals from initial consequences but not subsequent crimes.",
+      "categories": [
+        "judicial independence",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:02.887Z"
+    },
+    {
+      "id": "8785ee31fee6",
+      "title": "Trump, who campaigned against 'endless' wars, enters Iran with no end date",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-campaign-endless-wars-iran-no-end-date-rcna261323",
+      "source": "NBC News",
+      "published": "2026-03-02T21:53:52.000Z",
+      "description": "To win the White House in 2016, Donald Trump first had to get by former Florida Gov.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While military deployment decisions involve executive power and congressional oversight authority, this article focuses on campaign promise inconsistency rather than documenting a specific institutional breach or democratic check erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:03.076Z"
+    },
+    {
+      "id": "2878419b92a9",
+      "title": "White House addresses 'redness' on the side of Trump's neck",
+      "url": "https://www.nbcnews.com/politics/donald-trump/white-house-addresses-redness-side-trumps-neck-rcna261379",
+      "source": "NBC News",
+      "published": "2026-03-02T20:18:36.000Z",
+      "description": "President Donald Trump's doctor addressed what appeared to be red markings on Trump's neck Monday, saying he was undergoing a \"preventative skin treatment\" using a \"very common cream.\"“President Trump is using a very common cream on the right side of his neck, which is a preventative skin treatment, prescribed by the White House Doctor,\" Dr.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "Personal medical information about the President's skin care has no bearing on democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:02.524Z"
+    },
+    {
+      "id": "361b35994134",
+      "title": "Democratic lawmakers want to know what Trump officials said to Netflix chief about WBD deal",
+      "url": "https://www.nbcnews.com/business/media/democratic-lawmakers-letter-trump-officials-warner-bros-discovery-deal-rcna261348",
+      "source": "NBC News",
+      "published": "2026-03-02T20:16:54.000Z",
+      "description": "Sen. Elizabeth Warren and two other Democratic lawmakers demanded more information about what Trump administration officials discussed with Netflix's Ted Sarandos before the streaming giant pulled out of the bidding war for Warner Bros. Discovery.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises legitimate congressional oversight concerns about potential improper influence on business dealings, but lacks evidence of actual institutional harm or systematic erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-03T00:11:02.704Z"
+    },
+    {
+      "id": "15e449b6c6dd",
+      "title": "'Whatever it takes': Trump says Iran operation could last a month or longer",
+      "url": "https://www.nbcnews.com/politics/donald-trump/whatever-takes-trump-says-iran-operation-last-month-longer-rcna261324",
+      "source": "NBC News",
+      "published": "2026-03-02T18:21:58.000Z",
+      "description": "President Donald Trump suggested Monday that war with Iran could last a month or longer.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A president's public statement about potential military duration is notable for executive power and congressional oversight implications, but lacks concrete institutional action or policy implementation.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:02.818Z"
+    },
+    {
+      "id": "814ff8d1ac7d",
+      "title": "Poll: What partisans want from their parties ahead of 2026 primary season",
+      "url": "https://www.cbsnews.com/news/2026-midterm-primary-season-opinion-poll/",
+      "source": "CBS News",
+      "published": "2026-03-02T23:14:26.000Z",
+      "description": "President Trump is a central figure for both Democrats and Republicans, going into the primary season, ahead of the 2026 midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine polling story about voter preferences and primary positioning with no direct institutional impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:03.833Z"
+    },
+    {
+      "id": "cb81a7e6e5a6",
+      "title": "DNC announces top cities, date for 2028 convention, won't hold midterm convention",
+      "url": "https://www.cbsnews.com/news/dnc-frontrunner-cities-date-2028-convention-no-midterm-convention/",
+      "source": "CBS News",
+      "published": "2026-03-02T22:19:18.000Z",
+      "description": "The DNC is announcing Monday that the 2028 national convention will be held from Aug. 7 to Aug. 10, CBS News has learned.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine announcement of convention logistics and scheduling with no implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:03.858Z"
+    },
+    {
+      "id": "3c7fc2eb099d",
+      "title": "Montana Rep. Ryan Zinke won't seek reelection, becoming latest GOP retirement",
+      "url": "https://www.cbsnews.com/news/ryan-zinke-montana-wont-seek-reelection-latest-gop-retirement/",
+      "source": "CBS News",
+      "published": "2026-03-02T20:32:36.000Z",
+      "description": "Rep. Ryan Zinke of Montana announced Monday he will not run for reelection, becoming the latest Republican to retire.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A routine announcement of congressional retirement with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:03.874Z"
+    },
+    {
+      "id": "fd91a505e5a0",
+      "title": "3/2: Face the Nation",
+      "url": "https://www.cbsnews.com/video/32-face-the-nation/",
+      "source": "CBS News",
+      "published": "2026-03-02T19:01:18.000Z",
+      "description": "This week on \"Face the Nation with Margaret Brennan,\" as fallout continues from the unprecedented Oval Office meeting between President Trump and Ukrainian President Volodymyr Zelenskyy, Margaret Brennan speaks to Treasury Secretary Scott Bessent, GOP Reps. Mike Turner and John James and Democratic Sen. Mark Kelly.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A news interview show covering Trump-Zelenskyy meeting and government officials' perspectives is standard political journalism without reporting on specific institutional actions or policy changes that would affect democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:04.138Z"
+    },
+    {
+      "id": "54f557acbfe5",
+      "title": "Federal appeals court rejects DOJ's push to delay start of tariff refund process",
+      "url": "https://www.cbsnews.com/news/federal-appeals-court-rejects-trump-tariff-refund-delay-supreme-court/",
+      "source": "CBS News",
+      "published": "2026-03-02T18:39:26.000Z",
+      "description": "The Supreme Court ruled last month at President Trump did not have the authority to issue his sweeping tariffs under a federal emergency powers law.",
+      "keywords": [
+        "DOJ",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A federal appeals court rejecting DOJ arguments demonstrates judicial independence and oversight of executive power, but the issue is narrow (tariff procedure timing) rather than a fundamental democratic institution.",
+      "categories": [
+        "judicial independence",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-03T00:11:04.382Z"
+    },
+    {
+      "id": "259b342d64d0",
+      "title": " Former Trump Cabinet secretary Ryan Zinke won't seek reelection to a Montana US House seat",
+      "url": "https://abcnews.com/Politics/wireStory/former-trump-cabinet-secretary-ryan-zinke-seek-reelection-130692867",
+      "source": "ABC News",
+      "published": "2026-03-02T21:15:58.000Z",
+      "description": "A Republican lawmaker from Montana who served as interior secretary during President Donald Trump’s first administration says he will not seek reelection to a fifth term",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "A routine political announcement about a candidate's reelection decision with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:05.166Z"
+    },
+    {
+      "id": "4608ec02df0b",
+      "title": "Trump says he'll end White House Correspondents' Dinner boycott and attend this year",
+      "url": "https://www.axios.com/2026/03/02/white-house-correspondents-dinner-trump",
+      "source": "Axios",
+      "published": "2026-03-03T00:06:20.000Z",
+      "description": "President Trump on Monday confirmed he will be accepting an invitation to this year's White House Correspondents' Dinner. \nWhy it matters: Trump never attended the event during either of his presidential terms. The event is historically known for poking fun at presidents and their policies. \n \nScreenshot: President Trump/Truth Social\nGo deeper: Scoop: Trump won't attend 2025 White House Correspondents' Dinner",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Attendance at a ceremonial event is routine news with no direct bearing on institutional checks and balances, separation of powers, or democratic safeguards.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-03T00:11:05.348Z"
+    },
+    {
+      "id": "680b1396e5ad",
+      "title": "Scoop: Trump calls Kurdish leaders in Iran war effort",
+      "url": "https://www.axios.com/2026/03/02/trump-iran-war-kurds-iraq",
+      "source": "Axios",
+      "published": "2026-03-02T23:38:21.000Z",
+      "description": "President Trump spoke by phone with Kurdish leaders in Iraq on Sunday to discuss the U.S.-Israel war with Iran and what might come next, three sources with knowledge of the calls told Axios.\nWhy it matters: The Kurds have thousands of soldiers along the Iran-Iraq border and control strategic areas that could be significant as the war develops. Iraq's Kurds also have close ties to Iran's Kurdish minority.\n\nZoom in: Trump spoke to leaders from the two main Kurdish factions in Iraq — Masoud Barzani",
+      "keywords": [
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine diplomatic communication between a U.S. president and foreign leaders regarding military strategy, which is a normal executive function with no apparent institutional checks and balances implications.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:05.323Z"
+    },
+    {
+      "id": "00a38a82a49c",
+      "title": "Earthquake in the Gulf: Iran war expands to dozen countries in 72 hours",
+      "url": "https://www.axios.com/2026/03/02/iran-war-expanding-israel-lebanon-gulf-cyprus",
+      "source": "Axios",
+      "published": "2026-03-02T20:47:17.000Z",
+      "description": "Just 72 hours after the U.S. and Israel began bombing Iran, the war has already consumed nearly the entire Middle East, reached the gates of Europe and raised new fears of attacks on American soil.\nWhy it matters: The sheer geographic scope of the war is staggering — directly involving at least 11 countries, disrupting the global flow of oil and gas, and rattling markets worldwide.\n\nPresident Trump said Monday that Operation Epic Fury is designed to last four to five weeks. In that window, the c",
+      "keywords": [
+        "FBI",
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article describes foreign military conflict with no apparent connection to domestic U.S. democratic institutions, checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:05.239Z"
+    },
+    {
+      "id": "d9536cc26413",
+      "title": "U.S. Capitol security \"heightened\" due to Iran conflict",
+      "url": "https://www.axios.com/2026/03/02/capitol-security-iran-middle-east-trump-war",
+      "source": "Axios",
+      "published": "2026-03-02T19:43:42.000Z",
+      "description": "Congressional security officials are instituting \"heightened security measures\" at the U.S. Capitol in response to escalating conflict in the Middle East, according to a notice to House offices obtained by Axios.\nWhy it matters: It is a signal of how seriously domestic law enforcement is taking the possibility of attacks on U.S. soil related to ongoing U.S. operations in Iran.\n\nHouse Sergeant-at-Arms William McFarland wrote in an email Monday afternoon that his office is \"working closely with ..",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This is routine security protocol reporting with no implications for democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:05.146Z"
+    },
+    {
+      "id": "bd114a5a11dd",
+      "title": "Trump delivers Iran messaging through exclusive interview spree",
+      "url": "https://www.axios.com/2026/03/02/trump-iran-strike-plan-timeline-interviews",
+      "source": "Axios",
+      "published": "2026-03-02T19:39:45.000Z",
+      "description": "President Trump has made a scattershot case for Israel and America's joint attacks on Iran through a series of one-on-one interviews with various media outlets.\nThe big picture: The mission's timelines and goals vary depending on when and to whom Trump is speaking as the administration tries to assure the American public the operation will not be another prolonged war in the Middle East.\n\nState of play: Trump has not delivered a live address to the nation with the specific intent of laying out h",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article describes routine executive communication about foreign policy through media interviews, with no institutional violations or democratic checks being challenged.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:06.282Z"
+    },
+    {
+      "id": "166866e4d801",
+      "title": "5 times Trump pushed Congress aside to take control",
+      "url": "https://www.axios.com/2026/03/02/trump-congress-iran-strikes-authority",
+      "source": "Axios",
+      "published": "2026-03-02T19:33:50.000Z",
+      "description": "Illustration: Lindsey Bailey/Axios\nPresident Trump's historic strikes on Iran happened without Congress' approval, becoming the latest example of the president sidelining the GOP-controlled legislature in his second term.\nWhy it matters: Since returning to office, Trump has bypassed Congress and asserted executive power in unprecedented ways that could have long-term consequences for the U.S. and international order.\n\nWhile Democrats have seethed, Republicans have largely defended Trump's broade",
+      "keywords": [
+        "raid",
+        "DOGE",
+        "ICE",
+        "federal workers",
+        "white house",
+        "executive order",
+        "USAID",
+        "trump",
+        "USAID",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "Military action without congressional authorization and systematic executive overreach represent significant erosion of constitutional checks on presidential power, directly undermining congressional oversight.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T00:11:06.243Z"
+    },
+    {
+      "id": "9ea26f6d3e1d",
+      "title": "Anthropic's Pentagon standoff signals a broader corporate pushback",
+      "url": "https://www.axios.com/2026/03/02/corporate-america-trump-anthropic-tariffs",
+      "source": "Axios",
+      "published": "2026-03-02T18:07:32.000Z",
+      "description": "Corporations are starting to find their backbone: from AI labs resisting military ultimatums to retailers successfully suing the president.\nWhy it matters: The prevailing corporate strategy has been one of high-profile compliance, particularly with the Trump administration. Now, corporates are pushing back, because the cost of that compliance is existential. \n\nDriving the news: Anthropic CEO Dario Amodei rejected a Friday deadline from the Pentagon to strip safety guardrails from its AI models f",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Corporate resistance to executive pressure demonstrates potential checks on executive overreach, but the article lacks evidence of institutional democratic mechanisms being invoked or significantly altered.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:06.334Z"
+    },
+    {
+      "id": "ad44426c9656",
+      "title": "Trump to attend White House Correspondents Dinner after longtime boycott",
+      "url": "https://thehill.com/homenews/5763844-trump-to-attend-white-house-correspondents-dinner-after-longtime-boycott/",
+      "source": "The Hill",
+      "published": "2026-03-02T23:57:50.000Z",
+      "description": "President Trump said on Monday he will attend this year’s White House Correspondents Association dinner, breaking his boycott of the annual Washington gala. “In honor of our Nation’s 250th Birthday, and the fact that these “Correspondents” now admit that I am truly one of the Greatest Presidents in the History of our Country, the G.O.A.T.,…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential attendance decision at a social event has no direct impact on democratic institutions, checks and balances, or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:06.204Z"
+    },
+    {
+      "id": "f313a4964f5b",
+      "title": "Supreme Court rules for parents demanding California disclose kids’ gender identities",
+      "url": "https://thehill.com/regulation/court-battles/5763843-parental-rights-california-privacy/",
+      "source": "The Hill",
+      "published": "2026-03-02T23:43:11.000Z",
+      "description": "The Supreme Court on Monday ruled California is likely violating the constitutional rights of parents who object to policies preventing teachers from disclosing when their child changes their name or pronouns in school.  The decision marks a major victory for parental rights advocates at this early stage of the case — and a blow to the state’s efforts to shield the privacy of LGBTQ students.  The justices have yet to definitely resolve the fiercely…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 4,
+      "reason": "This is a significant constitutional ruling on parental rights and student privacy that affects state policy implementation, but does not directly implicate core democratic checks and balances mechanisms like separation of powers, institutional independence, or electoral integrity.",
+      "categories": [
+        "civil rights & civil liberties"
+      ],
+      "scoredAt": "2026-03-03T00:11:06.470Z"
+    },
+    {
+      "id": "ac158926f5df",
+      "title": "GOP points to Iran conflict to pressure Democrats to end DHS shutdown",
+      "url": "https://thehill.com/homenews/house/5763795-gop-iran-conflict-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-03-02T23:33:13.000Z",
+      "description": "Republicans are pointing to the U.S. attack on Iran in order to ramp up pressure on Democrats to fund the Department of Homeland Security (DHS). Democrats have demanded that the White House significantly overhaul its immigration enforcement tactics following the deaths of two U.S. citizens in Minnesota at the hands of federal agents, and have…",
+      "keywords": [
+        "immigration",
+        "white house",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "This represents routine political negotiation and messaging around budget disputes, with Democrats using oversight leverage on agency conduct while Republicans employ geopolitical framing—notable institutional dynamics but within normal legislative processes.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-03T00:11:07.764Z"
+    },
+    {
+      "id": "b3f3326cc912",
+      "title": "Silicon Valley Democrat to target retaliation against tech vendors amid Anthropic fallout ",
+      "url": "https://thehill.com/homenews/5763762-ai-governance-liccardo-amendment/",
+      "source": "The Hill",
+      "published": "2026-03-02T23:13:27.000Z",
+      "description": "Democrat Rep. Sam Liccardo (Calif.) is ramping up efforts in Congress to push back on Trump administration’s decision to cut the use of Anthropic’s technology in federal agencies after the company’s negotiations with the Pentagon over safety requirements fell apart last week. Liccardo, who represents part of Silicon Valley, announced Monday that he will introduce…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine congressional advocacy regarding federal procurement decisions with no systemic democratic institution implications.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:07.228Z"
+    },
+    {
+      "id": "9edb90e071fa",
+      "title": "Could Ali Larijana be Trump’s man in Iran? ‘He’s the LeBron James of lying’",
+      "url": "https://thehill.com/policy/international/5763740-larijani-trump-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-02T22:57:38.000Z",
+      "description": "Ali Larijani, one of Iran’s few surviving military or political leaders, has emerged as one of the key figures after U.S. and Israeli strikes took out Supreme Leader Ayatollah Ali Khamanei.  Larijani on Sunday rejected that he sought negotiations with the U.S. to halt the joint American and Israeli attacks, which entered its third day…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is foreign policy reporting about Iranian internal politics with no direct connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:07.384Z"
+    },
+    {
+      "id": "a7bfd40a7ba7",
+      "title": "5 questions for Trump amid the Iran crisis",
+      "url": "https://thehill.com/homenews/administration/5763679-trump-iran-war-questions/",
+      "source": "The Hill",
+      "published": "2026-03-02T22:56:38.000Z",
+      "description": "President Trump is facing sharper questions over the war on Iran, with doubt hanging over what comes next and polls showing the U.S. assault is viewed with considerable skepticism by the public. Trump, speaking at the White House on Monday, promised “we will easily prevail” in the assault, undertaken with Israel, on the Islamic Republic.…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news commentary on a foreign policy crisis without addressing institutional checks, democratic processes, or separation of powers concerns.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:07.963Z"
+    },
+    {
+      "id": "89f57ad3d163",
+      "title": "Trump gambles on Iran regime change despite GOP history, anti-war MAGA wing",
+      "url": "https://thehill.com/homenews/administration/5763461-trump-iran-attack-regime-change-gamble/",
+      "source": "The Hill",
+      "published": "2026-03-02T21:56:02.000Z",
+      "description": "President Trump’s extraordinary attack on Iran, which took out the country’s supreme leader, has echoes of U.S. foreign policy in the Middle East that history shows hasn’t always been a success.  It also goes against Trump’s long-storied criticism of his predecessors intervening abroad and the “forever wars” that resulted — something that has jostled those…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses foreign policy decision-making and internal party disagreement, which does not directly implicate the 12 tracked democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:07.331Z"
+    },
+    {
+      "id": "94380d2ceccd",
+      "title": "Oil, gasoline prices jump amid Iran strikes, with future uncertain",
+      "url": "https://thehill.com/policy/energy-environment/5763589-iran-strikes-gas-prices-oil-israel/",
+      "source": "The Hill",
+      "published": "2026-03-02T21:51:34.000Z",
+      "description": "The U.S.-Israel strikes on Iran have surged oil prices, and costs for consumers at the pump are expected to rise. The price of global benchmark Brent Crude oil was at about $77 per barrel as of Monday afternoon, up from about $71 a week ago and about $66 per barrel a month ago. U.S. gasoline…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine economic news reporting on commodity prices resulting from geopolitical events, with no direct connection to democratic institutions, checks and balances, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:09.353Z"
+    },
+    {
+      "id": "48bdf0227954",
+      "title": "Greene: Trump could use manufactured crisis to cancel midterms",
+      "url": "https://thehill.com/homenews/campaign/5763568-marjorie-greene-trump-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-02T21:38:19.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) on Sunday said President Trump could attempt to use a national emergency declaration to cancel midterm elections.  Greene said she could “see it” happening in a post on the social platform X made in response to a post from radio host Shannon Joy.  “Trump doesn’t seem to care about…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the statement touches on serious democratic concerns (election integrity, emergency powers), it represents speculation and commentary rather than actual institutional action or policy change.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:08.878Z"
+    },
+    {
+      "id": "9efa133f3df1",
+      "title": "Centcom raises ‘Epic Fury’ death toll to 6 service members",
+      "url": "https://thehill.com/policy/defense/5762612-us-military-operation-iran/",
+      "source": "The Hill",
+      "published": "2026-03-02T21:27:54.000Z",
+      "description": "The U.S. military said on Monday that six U.S. service members have been killed so far in Iran operations since the U.S. and Israel launched a striking campaign against the Islamic Republic.  American forces recovered the remains of two service members from a facility that was hit during Iran’s “initial attacks” in the region, U.S.…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine military casualty report with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:08.764Z"
+    },
+    {
+      "id": "e6b4458b1a7d",
+      "title": "Zinke announces he won’t seek reelection",
+      "url": "https://thehill.com/homenews/house/5763408-ryan-zinke-wont-seek-reelection/",
+      "source": "The Hill",
+      "published": "2026-03-02T21:23:34.000Z",
+      "description": "Rep. Ryan Zinke (R-Mont.), a former Interior Secretary during President Trump’s first term, said Monday he will not seek reelection this November. Zinke, who has represented Montana in the lower chamber for three non-consecutive terms, wrote in a letter to Montanans that he has “quietly undergone” multiple surgeries since returning to Congress in January 2023…",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "A routine congressional retirement announcement with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:08.834Z"
+    },
+    {
+      "id": "f72200b669b8",
+      "title": "Supreme Court bars redrawing only Republican-held NYC congressional district for 2026 election",
+      "url": "https://www.cnbc.com/2026/03/02/supreme-court-republican-new-york-malliotakis.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-02T23:59:42.000Z",
+      "description": "The Supreme Court ruling is a potentially significant one for Republicans, who are trying to retain their majorities in both chambers of Congress.",
+      "keywords": [
+        "election",
+        "ruling"
+      ],
+      "significance": 6,
+      "reason": "This ruling affects electoral redistricting procedures and congressional representation but does not represent an unprecedented erosion of democratic institutions or checks and balances.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-03T00:11:08.907Z"
+    },
+    {
+      "id": "6084c9eeea1b",
+      "title": "Next phase of Iran war ‘will be even more punishing’: Rubio, Trump officials brief Congress ",
+      "url": "https://www.cnbc.com/2026/03/02/rubio-trump-brief-congress-iran.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-03T00:02:44.000Z",
+      "description": "Members of Congress demanded briefings from the White House after attacks were launched on Iran over the weekend.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine foreign policy briefings to Congress, which is standard executive-legislative communication on military matters and does not indicate erosion of democratic checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-03T00:11:10.299Z"
+    },
+    {
+      "id": "34dbb709bb76",
+      "title": "Trump’s Iran War is Built on Lies and Fantasies",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-war-iran-lies-fantasies-1235524016/",
+      "source": "Rolling Stone",
+      "published": "2026-03-03T00:00:00.000Z",
+      "description": "The White House seems to have no clear objective in mind, let alone a plan to achieve an endgame for the violence it has unleashed",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Opinion commentary on foreign policy lacks direct evidence of institutional checks and balances erosion or democratic system threats.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:10.275Z"
+    },
+    {
+      "id": "22c8149d52b0",
+      "title": "Trump’s Media Blitz Only Raises More Questions About War in Iran",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-iran-war-media-blitz-1235523817/",
+      "source": "Rolling Stone",
+      "published": "2026-03-02T19:21:39.000Z",
+      "description": "The president hasn’t been able to offer much clarity about the military campaign, which has already led to four American deaths",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary on presidential media messaging about foreign military operations, lacking evidence of institutional checks-and-balances violations or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-03T00:11:10.321Z"
+    },
+    {
+      "id": "72ad2b78de5c",
+      "title": "Trump Rambles About Golden Drapes in White House as Americans Die Overseas",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-brags-gold-curtains-americans-die-iran-war-1235523798/",
+      "source": "Rolling Stone",
+      "published": "2026-03-02T18:33:18.000Z",
+      "description": "The president claims he won't get \"bored\" of operations in Iran, but his mind is already wandering",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Opinion-focused piece critiquing presidential demeanor and focus rather than documenting institutional action or policy change affecting democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-03T00:11:10.588Z"
     }
   ],
   "lastDigest": "2026-03-02T14:18:09.812Z",
-  "lastFetch": "2026-03-02T18:10:30.751Z"
+  "lastFetch": "2026-03-03T00:11:10.588Z"
 }
