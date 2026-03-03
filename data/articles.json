@@ -33975,7 +33975,8 @@
         "congressional oversight",
         "DOJ independence"
       ],
-      "scoredAt": "2026-03-02T18:10:29.099Z"
+      "scoredAt": "2026-03-02T18:10:29.099Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "fcc78faa43b6",
@@ -34118,7 +34119,8 @@
         "political retribution",
         "congressional oversight"
       ],
-      "scoredAt": "2026-03-03T00:11:02.887Z"
+      "scoredAt": "2026-03-03T00:11:02.887Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "8785ee31fee6",
@@ -34400,7 +34402,8 @@
         "congressional oversight",
         "judicial independence"
       ],
-      "scoredAt": "2026-03-03T00:11:06.243Z"
+      "scoredAt": "2026-03-03T00:11:06.243Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "9ea26f6d3e1d",
@@ -34771,7 +34774,8 @@
         "election infrastructure",
         "judicial independence"
       ],
-      "scoredAt": "2026-03-03T06:13:15.734Z"
+      "scoredAt": "2026-03-03T06:13:15.734Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "6f53a5363e72",
@@ -34826,7 +34830,8 @@
         "judicial independence",
         "corruption & self-dealing"
       ],
-      "scoredAt": "2026-03-03T06:13:16.613Z"
+      "scoredAt": "2026-03-03T06:13:16.613Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "d48ed7b382e7",
@@ -34893,7 +34898,8 @@
         "judicial independence",
         "political retribution"
       ],
-      "scoredAt": "2026-03-03T06:13:17.922Z"
+      "scoredAt": "2026-03-03T06:13:17.922Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "a9d4825656de",
@@ -35017,7 +35023,8 @@
         "political retribution",
         "judicial independence"
       ],
-      "scoredAt": "2026-03-03T06:13:23.984Z"
+      "scoredAt": "2026-03-03T06:13:23.984Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "ac6f2282b6bb",
@@ -35159,7 +35166,8 @@
         "judicial independence",
         "political retribution"
       ],
-      "scoredAt": "2026-03-03T06:13:25.398Z"
+      "scoredAt": "2026-03-03T06:13:25.398Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "a49583751454",
@@ -35324,7 +35332,8 @@
         "political retribution",
         "DOJ independence"
       ],
-      "scoredAt": "2026-03-03T12:06:42.433Z"
+      "scoredAt": "2026-03-03T12:06:42.433Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "1d84faf7d9b2",
@@ -35546,7 +35555,8 @@
       "categories": [
         "congressional oversight"
       ],
-      "scoredAt": "2026-03-03T12:06:45.844Z"
+      "scoredAt": "2026-03-03T12:06:45.844Z",
+      "digestedAt": "2026-03-03T12:07:10.904Z"
     },
     {
       "id": "75d8490c83a7",
@@ -35651,6 +35661,6 @@
       "scoredAt": "2026-03-03T12:06:46.578Z"
     }
   ],
-  "lastDigest": "2026-03-02T14:18:09.812Z",
+  "lastDigest": "2026-03-03T12:07:10.904Z",
   "lastFetch": "2026-03-03T12:06:47.018Z"
 }
