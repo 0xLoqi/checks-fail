@@ -36315,8 +36315,748 @@
         "immigration & civil rights"
       ],
       "scoredAt": "2026-03-03T18:12:01.573Z"
+    },
+    {
+      "id": "41375cda2764",
+      "title": "Voting nears to a close in Texas primary that may be crucial to control of the Senate",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton",
+      "source": "NPR Politics",
+      "published": "2026-03-03T23:40:22.000Z",
+      "description": "The GOP and Democratic primaries mark a potential litmus test for what direction base voters want their parties to go ahead of midterm elections this fall that will determine power in Congress.",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage reporting on primary voting without describing any actions affecting institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:07.818Z"
+    },
+    {
+      "id": "352053233c89",
+      "title": "Trump administration reverses course on law firms, vowing to appeal",
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5733945/trump-administration-reverses-course-on-law-firms-vowing-to-appeal",
+      "source": "NPR Politics",
+      "published": "2026-03-03T22:13:08.000Z",
+      "description": "The Justice Department reversed course and took back an effort to abandon an appeal against four big law firms that challenged President Trump's punitive executive orders.",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "The reversal demonstrates DOJ independence concerns and potential political retribution through legal action, but involves litigation strategy rather than institutional structural change.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-04T00:10:07.975Z"
+    },
+    {
+      "id": "f20b4e7b63ce",
+      "title": "'This is a war of choice' by Trump and Netanyahu, Sen. Warner says after Iran briefing",
+      "url": "https://www.pbs.org/newshour/show/this-is-a-war-of-choice-by-trump-and-netanyahu-sen-warner-says-after-iran-briefing",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T23:40:54.000Z",
+      "description": "On Tuesday, Trump administration officials briefed members of Congress on the war with Iran. It comes as both chambers gear up to vote on a War Powers Act measure that could limit President Trump's authority in carrying out strikes. Amna Nawaz discussed more with Sen. Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee.",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of military action and War Powers Act votes represent important checks on executive authority, but this is a routine policy disagreement rather than institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:07.959Z"
+    },
+    {
+      "id": "d1a063cdfce1",
+      "title": "Noem defends aggressive immigration tactics amid bipartisan criticism",
+      "url": "https://www.pbs.org/newshour/show/noem-defends-aggressive-immigration-tactics-amid-bipartisan-criticism",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T23:30:18.000Z",
+      "description": "Democratic and some Republican senators pressed Homeland Security Secretary Kristi Noem over what they described as overly aggressive immigration enforcement. Noem's testimony before the Judiciary Committee comes as Congress remains deadlocked over DHS funding, raising concerns about national security at a moment of escalating conflict in the Middle East. Lisa Desjardins reports.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 6,
+      "reason": "Bipartisan congressional oversight of executive immigration enforcement is routine institutional function, though the scope and nature of aggressive tactics could warrant monitoring across multiple democratic guardrails.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T00:10:08.163Z"
+    },
+    {
+      "id": "b22f168e177e",
+      "title": "3 major takeaways from Noem's first oversight hearing since Minneapolis deaths",
+      "url": "https://www.pbs.org/newshour/politics/3-major-takeaways-from-noems-first-oversight-hearing-since-minneapolis-deaths",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T22:20:51.000Z",
+      "description": "Homeland Security Secretary Kristi Noem faced more scrutiny and at least three calls for her resignation on Tuesday from senators on both sides of the aisle.",
+      "keywords": [
+        "oversight hearing"
+      ],
+      "significance": 5,
+      "reason": "A congressional oversight hearing with bipartisan criticism represents normal legislative accountability, though the multiple resignation calls suggest emerging concerns about executive conduct that warrant monitoring.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-04T00:10:08.064Z"
+    },
+    {
+      "id": "4760472e0ddb",
+      "title": "WATCH: Rubio defends U.S. attack on Iran, says State Dept. helping Americans depart region",
+      "url": "https://www.pbs.org/newshour/politics/watch-rubio-defends-u-s-attack-on-iran-says-state-dept-helping-americans-depart-region",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T22:13:08.000Z",
+      "description": "As the U.S. war with Iran continues to spiral, Secretary of State Marco Rubio says the U.S. State Department is working to organize charter flights and military options to help Americans depart the Middle East.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine news reporting on a foreign policy/military matter with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:09.027Z"
+    },
+    {
+      "id": "e55bc80170d6",
+      "title": "WATCH: Sen. Tillis calls for Noem's resignation as DHS head at oversight hearing",
+      "url": "https://www.pbs.org/newshour/politics/watch-sen-tillis-calls-for-noems-resignation-as-dhs-head-at-oversight-hearing",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T20:47:30.000Z",
+      "description": "The Republican senator blasted Noem for her leadership decisions in the immigration enforcement ramp-up in Minneapolis.",
+      "keywords": [
+        "immigration",
+        "oversight hearing"
+      ],
+      "significance": 5,
+      "reason": "A single senator's criticism of a cabinet official's immigration enforcement decisions represents normal congressional oversight, but the cross-party criticism adds modest institutional significance without indicating systemic checks erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:09.139Z"
+    },
+    {
+      "id": "a60c497c0111",
+      "title": "How to fight AI slop, according to Hany Farid",
+      "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/how-to-fight-ai-slop-according-to-hany-farid",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T20:08:02.000Z",
+      "description": "Pioneering digital forensic expert Hany Farid talks with Amna Nawaz about the dangers of artificial intelligence being deployed irresponsibly, why social media companies prioritize engagement over authenticity and how to sift through what's real and what's not.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on AI and media literacy by an expert, which does not directly address institutional checks and balances or governmental power dynamics.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:09.027Z"
+    },
+    {
+      "id": "8f52048475fe",
+      "title": "WATCH: Kennedy questions Noem about using taxpayer money for ad campaign featuring her prominently",
+      "url": "https://www.pbs.org/newshour/politics/watch-kennedy-questions-noem-about-using-taxpayer-money-for-ad-campaign-featuring-her-prominently",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T19:22:50.000Z",
+      "description": "Sen. John Kennedy, R-La., asked Department of Homeland Security Secretary Kristi Noem in an oversight hearing Tuesday how she justifies the use of $220 million to run national TV ads that feature her prominently if she's concerned with not wasting taxpayers' money.",
+      "keywords": [
+        "oversight hearing",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of potential misuse of federal funds is notable and important, but this involves questioning rather than evidence of systematic institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-04T00:10:09.227Z"
+    },
+    {
+      "id": "4d2ee6adadd1",
+      "title": "What to watch in the consequential Senate primaries in Texas",
+      "url": "https://www.pbs.org/newshour/politics/what-to-watch-in-the-consequential-senate-primaries-in-texas",
+      "source": "PBS NewsHour",
+      "published": "2026-03-03T18:36:04.000Z",
+      "description": "The 2026 midterm season begins in earnest on Tuesday with two of the nation's most consequential Senate primaries playing out in Texas.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Standard election coverage of primary races with no direct bearing on institutional checks and balances, democratic norms, or constitutional processes.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:08.839Z"
+    },
+    {
+      "id": "22023c7d7f58",
+      "title": "Thousands of Texas voters showed up at wrong polling site, state Democrats say",
+      "url": "https://www.nbcnews.com/politics/2026-election/thousands-texas-voters-showed-wrong-polling-site-state-democrats-say-rcna261618",
+      "source": "NBC News",
+      "published": "2026-03-03T23:54:32.000Z",
+      "description": "Thousands of voters in Dallas and Williamson counties showed up at the wrong location to vote in Tuesday's primary in Texas, according to the state Democratic Party",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Election administration error affecting voter access in specific counties raises concerns about election infrastructure quality, but appears localized and operational rather than systemic or intentional.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T00:10:10.283Z"
+    },
+    {
+      "id": "685a86aa1448",
+      "title": "Vance's anti-war posture collides with his more hawkish views on Iran",
+      "url": "https://www.nbcnews.com/politics/jd-vance/vance-anti-war-posture-collides-hawkish-views-iran-rcna261585",
+      "source": "NBC News",
+      "published": "2026-03-03T23:39:08.000Z",
+      "description": "Vice President JD Vance is skeptical of foreign entanglements. He also has a history of asserting that \"weak little bombing runs\" are not enough to stifle Iran's nuclear capabilities.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article discusses foreign policy positioning and internal administration views on Iran strategy, which does not directly implicate domestic democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:10.069Z"
+    },
+    {
+      "id": "d08101e13fd0",
+      "title": "Trump voters are having ‘buyer’s remorse,’ says Texas Democrat ahead of primary",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-voters-are-having-buyer-s-remorse-says-texas-democrat-ahead-of-primary-258635333933",
+      "source": "NBC News",
+      "published": "2026-03-03T21:53:36.000Z",
+      "description": "CAP: Rep. Henry Cuellar (D-Texas) joins Meet the Press NOW on primary election day in Texas to preview his race as well as the Democrat primary in the high-stakes Senate race.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about a primary election candidate's claims regarding voter sentiment, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:10.197Z"
+    },
+    {
+      "id": "234d2bc41740",
+      "title": "U.S. cannot force regime change in Iran ‘through the air’: Fmr. CIA Director Petraeus",
+      "url": "https://www.nbcnews.com/meet-the-press/video/u-s-cannot-force-regime-change-in-iran-through-the-air-fmr-cia-director-petraeus-258635845581",
+      "source": "NBC News",
+      "published": "2026-03-03T21:35:59.000Z",
+      "description": "NBC News correspondents Brian Cheung, Monica Alba, Matt Bradley and Courtney Kube discuss the surging price of oil as a result of the war in Iran and what could come next as military operations escalate. Former CIA Director David Petraeus discusses the possibility of putting U.S. troops on the ground in Iran.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on foreign policy and military strategy by a former official, not an article documenting actions affecting domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:11.259Z"
+    },
+    {
+      "id": "13d7a35218d3",
+      "title": "Labor secretary's top two aides resign amid investigation into alleged department misconduct",
+      "url": "https://www.nbcnews.com/politics/trump-administration/labor-secretarys-top-two-aides-resign-investigation-alleged-department-rcna261537",
+      "source": "NBC News",
+      "published": "2026-03-03T23:11:29.000Z",
+      "description": "Two of Labor Secretary Lori Chavez-DeRemer’s top aides resigned amid an investigation into possible misconduct at the department.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Personnel resignations within an agency under investigation represent departmental accountability mechanisms functioning, but lack the institutional significance of systemic checks-and-balances erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-04T00:10:11.456Z"
+    },
+    {
+      "id": "fc45b159e221",
+      "title": "What you need to know for the first midterm primary day of the year: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/first-midterm-primary-day-year-politics-desk-rcna261580",
+      "source": "NBC News",
+      "published": "2026-03-03T22:03:43.000Z",
+      "description": "In today’s edition, we have everything you need to get up to speed on tonight’s primaries before polls close.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage providing informational guidance on primary voting procedures without analysis of institutional threats or democratic erosion.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T00:10:11.138Z"
+    },
+    {
+      "id": "79c2f80fe45b",
+      "title": "Noem doesn't retract calling U.S. citizens killed by immigration agents 'domestic terrorists' in tense hearing",
+      "url": "https://www.nbcnews.com/news/us-news/noem-doesnt-retract-calling-us-citizens-killed-immigration-agents-dome-rcna261499",
+      "source": "NBC News",
+      "published": "2026-03-03T21:51:20.000Z",
+      "description": "This was Department of Homeland Security Secretary Kristi Noem's  first appearance before Congress since immigration agents fatally shot  Renee Good and Alex Pretti.",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A Cabinet secretary's inflammatory rhetoric toward citizens and refusal to retract statements during congressional oversight represents notable institutional tension, but lacks the immediate policy impact or precedent-setting action required for higher significance.",
+      "categories": [
+        "congressional oversight",
+        "civil rights"
+      ],
+      "scoredAt": "2026-03-04T00:10:11.545Z"
+    },
+    {
+      "id": "f1802238c4f0",
+      "title": "Trump's MAGA base wrestles with Iran strikes launched by an 'America First' president",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trumps-maga-base-wrestles-iran-strikes-america-first-rcna261206",
+      "source": "NBC News",
+      "published": "2026-03-03T20:44:19.000Z",
+      "description": "During his campaigns for president, Trump pledged to focus on domestic issues and end foreign wars — a promise that some see him not upholding.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses campaign promise inconsistency on foreign policy rather than threats to institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:12.348Z"
+    },
+    {
+      "id": "bcf9d759e49c",
+      "title": "Democrats say they won't relent on DHS funding demands because of Iran war",
+      "url": "https://www.nbcnews.com/politics/congress/democrats-wont-fund-dhs-end-shutdown-despite-iran-war-rcna261530",
+      "source": "NBC News",
+      "published": "2026-03-03T18:53:15.000Z",
+      "description": "Republicans tried to use the Trump administration’s attack on Iran to pressure Democrats to relent on funding for the shutdown Department of Homeland Security.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political negotiation reporting on budget disagreements, with no evidence of institutional erosion or democratic checks being compromised.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:12.511Z"
+    },
+    {
+      "id": "468107c11fe7",
+      "title": "Pentagon releases names of first U.S. service members killed in Iran war",
+      "url": "https://www.cbsnews.com/news/names-us-service-members-killed-iran-war-kuwait/",
+      "source": "CBS News",
+      "published": "2026-03-04T00:09:21.000Z",
+      "description": "Six American service members have been killed in the U.S.-Iran conflict, U.S. Central Command said.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a factual report of military casualties with no direct implications for democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:12.279Z"
+    },
+    {
+      "id": "d79ca95bf3b6",
+      "title": "CBS News poll analysis on Hispanics, a key group, as primary season kicks off",
+      "url": "https://www.cbsnews.com/news/poll-hispanics-primary-season-2026-midterm-elections/",
+      "source": "CBS News",
+      "published": "2026-03-03T23:10:17.000Z",
+      "description": "A year into Trump's second term, most Hispanics continue to rate the nation's economy badly and don't feel their incomes are keeping up with inflation.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine polling analysis article about Hispanic voter sentiment on economic issues, containing no information about institutional checks, balances, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:12.348Z"
+    },
+    {
+      "id": "7d39644a32e7",
+      "title": "Most say Trump admin. still hasn't explained Iran goals, CBS News poll finds",
+      "url": "https://www.cbsnews.com/news/poll-trump-administration-iran-war-goals/",
+      "source": "CBS News",
+      "published": "2026-03-03T22:04:15.000Z",
+      "description": "Many see the Iran conflict lasting at least months. A majority oppose it, and more say it makes the U.S. less safe.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A public opinion poll on foreign policy views reflects routine political commentary rather than institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:12.295Z"
+    },
+    {
+      "id": "3773243891f6",
+      "title": "Howard Lutnick agrees to interview with House committee in Epstein probe",
+      "url": "https://www.cbsnews.com/news/howard-lutnick-commerce-secretary-agrees-to-epstein-interview-house-committee/",
+      "source": "CBS News",
+      "published": "2026-03-03T20:53:47.000Z",
+      "description": "Documents released by the Justice Department provided a look into Howard Lutnick's ties to convicted sex offender Jeffrey Epstein.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine news reporting on a congressional inquiry into a private citizen's past associations, with no indication of checks and balances erosion or institutional threat.",
+      "categories": [
+        "congressional-oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:13.476Z"
+    },
+    {
+      "id": "28cb319a06b5",
+      "title": "FBI agents Patel fired worked in counterintel, including on cases involving Iran",
+      "url": "https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/",
+      "source": "CBS News",
+      "published": "2026-03-03T19:39:43.000Z",
+      "description": "Many of the agents who were fired last week by FBI Director Kash Patel were assigned to a squad that worked on global counterintelligence cases, including those involving Iran, sources said.",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "intelligence"
+      ],
+      "significance": 7,
+      "reason": "Mass firing of FBI counterintelligence agents by a political appointee raises significant concerns about FBI independence and potential erosion of institutional expertise in critical national security functions.",
+      "categories": [
+        "FBI independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-04T00:10:13.411Z"
+    },
+    {
+      "id": "707f43e7d6ca",
+      "title": " Courtroom 'testy and frosty' exchanges highlight wave of confrontations between judges, prosecutors",
+      "url": "https://abcnews.com/Politics/wireStory/courtroom-testy-frosty-exchanges-highlight-wave-confrontations-judges-130725825",
+      "source": "ABC News",
+      "published": "2026-03-03T18:58:55.000Z",
+      "description": "A federal judge clashed Tuesday with Minnesota’s top federal prosecutor in what he called a series of “testy and frosty” exchanges, in an unusual contempt hearing that highlights a growing wave of confrontations across the U.S. between increasingly fru...",
+      "keywords": [
+        "prosecutor"
+      ],
+      "significance": 5,
+      "reason": "While the article documents concerning tensions between judicial and prosecutorial branches that warrant monitoring, a single contempt hearing and general trend reporting lacks sufficient evidence of systemic institutional erosion to warrant higher significance.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-04T00:10:13.679Z"
+    },
+    {
+      "id": "224a045e14db",
+      "title": "Exclusive: The Trump-Netanyahu call that changed the Middle East",
+      "url": "https://www.axios.com/2026/03/03/trump-netanyahu-call-iran-war-israel-coordination",
+      "source": "Axios",
+      "published": "2026-03-03T23:36:52.000Z",
+      "description": "Last Monday, Israeli Prime Minister Benjamin Netanyahu called President Trump with a stunning tip: Iran's supreme leader and his top advisers were all set to meet at one location in Tehran on Saturday morning.\n\nThey could all be killed in a single devastating airstrike, Netanyahu told Trump and his team, according to three sources briefed on the discussion.\n\nWhy it matters: The Feb. 23 call — held from the White House Situation Room and unreported until now — was a pivotal moment that set the Ir",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy and military intelligence sharing between the U.S. and Israel, which does not directly implicate domestic democratic checks and balances or the 12 tracked institutional integrity categories.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:13.417Z"
+    },
+    {
+      "id": "3a9a6a43269d",
+      "title": "Scoop: The White House meeting that never was",
+      "url": "https://www.axios.com/2026/03/03/netflix-sarandos-trump-white-house-wbd-deal",
+      "source": "Axios",
+      "published": "2026-03-03T21:37:03.000Z",
+      "description": "Netflix co-CEO Ted Sarandos never met with President Trump or any White House officials last week when he visited Washington, according to sources familiar with the engagement. \n\nSarandos was informed shortly after arriving at the White House that his meeting was canceled because of a last-minute scheduling conflict, and then he promptly left the building.\n\nWhy it matters: Media onlookers were quick to speculate that Sarandos' meeting at the White House on Thursday prompted Netflix to drop out o",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political/business news about a canceled meeting with no institutional or democratic implications.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:13.334Z"
+    },
+    {
+      "id": "42d24f6723f6",
+      "title": "Centrist Democrats push for softer constraints on Trump's war powers in Iran",
+      "url": "https://www.axios.com/2026/03/03/democrats-iran-war-powers-trump-vote-house",
+      "source": "Axios",
+      "published": "2026-03-03T21:00:51.000Z",
+      "description": "A group of centrist House Democrats on Tuesday unveiled a war powers resolution that would give the Trump administration more leeway on Iran than the measure their leadership is pushing.\nWhy it matters: The effort reflects the extreme reluctance some hawkish Democrats have towards voting for the resolution introduced by anti-interventionist Reps. Ro Khanna (D-Calif.) and Thomas Massie (R-Ky.).\n\nUnlike the Khanna-Massie measure, the centrist Democrats' alternative resolution would give the admini",
+      "keywords": [
+        "voting",
+        "ICE",
+        "classified",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents notable intra-party disagreement on war powers constraints, a legitimate check on executive authority, but lacks the institutional erosion or unprecedented action needed for higher significance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:14.657Z"
+    },
+    {
+      "id": "838a157e86e3",
+      "title": "Trump offers U.S. insurance, military escorts to energy tankers in Mideast",
+      "url": "https://www.axios.com/2026/03/03/trump-iran-strait-of-hormuz-insurance-navy",
+      "source": "Axios",
+      "published": "2026-03-03T20:40:15.000Z",
+      "description": "President Trump said the U.S. will \"immediately\" offer \"political risk insurance and guarantees\" for energy tankers and other ships in the Gulf region, and that the Navy will escort tankers through the Strait of Hormuz if needed.\nWhy it matters: The White House is trying to ease oil price spikes that are starting to boost U.S. gasoline prices. Oil prices retreated Tuesday as word of the plans began to emerge.\n\nHis statement on Truth Social comes as tankers are avoiding the Strait of Hormuz, the ",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy and economic management action with no direct implications for democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:14.421Z"
+    },
+    {
+      "id": "3f25f0135a10",
+      "title": "Scoop: Lutnick volunteers to testify on Epstein ties",
+      "url": "https://www.axios.com/2026/03/03/lutnick-epstein-files-testify-house",
+      "source": "Axios",
+      "published": "2026-03-03T19:54:43.000Z",
+      "description": "Commerce Secretary Howard Lutnick, once a Manhattan neighbor of Jeffrey Epstein, voluntarily agreed to an interview with the House Oversight Committee over past ties to the convicted sex offender, Axios has learned.\n\nLutnick told Axios: \"I look forward to appearing before the committee. I have done nothing wrong and I want to set the record straight.\"\n\nWhy it matters: Lutnick's past association with Epstein has been under growing scrutiny since the Cabinet secretary appeared in Justice Departmen",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Voluntary congressional testimony on personal associations represents normal oversight function, but lacks evidence of systemic institutional threat or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T00:10:14.702Z"
+    },
+    {
+      "id": "1e86a6813dbd",
+      "title": "Why oil prices aren't even higher after Iran strikes",
+      "url": "https://www.axios.com/2026/03/03/iran-conflict-oil-markets-brent-crude",
+      "source": "Axios",
+      "published": "2026-03-03T19:25:08.000Z",
+      "description": "Sure, oil prices have soared since attacks on Iran and counterstrikes began — but it's also possible the market isn't freaking out enough.\nWhy it matters: Consumers and companies worldwide will feel the effects of the conflict that's pushing up petroleum and natural gas prices.\n\nBut oil hasn't yet approached the $100-per-barrel — or higher — level that numerous market-watchers say is possible in the unpredictable, expanding regional battle.\n\nThe intrigue: Veteran analyst Bob McNally sees a misma",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns oil market dynamics and geopolitical economics, which has no direct relevance to U.S. democratic checks and balances, institutional independence, or democratic integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:14.523Z"
+    },
+    {
+      "id": "a7cc5d222421",
+      "title": "Democrats whip against DHS funding bill despite GOP pressure on Iran",
+      "url": "https://thehill.com/homenews/house/5765828-democrats-whip-dhs-funding-iran/",
+      "source": "The Hill",
+      "published": "2026-03-03T23:25:53.000Z",
+      "description": "Top Democrats are whipping against the Department of Homeland Security (DHS) funding bill expected to come to the floor this week, even as Republicans press them to support it in the wake of the U.S. attacks on Iran.  The White House and Democrats have been locked in an impasse over a deal to reopen DHS,…",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine legislative disagreement over funding priorities and partisan positioning, with no institutional checks or balances being tested or undermined.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:14.615Z"
+    },
+    {
+      "id": "498a01768989",
+      "title": "Rubio fends off barrage of questions about why US started Iran attacks",
+      "url": "https://thehill.com/homenews/administration/5765753-rubio-iran-us-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-03T23:07:39.000Z",
+      "description": "Secretary of State Marco Rubio pushed back on a barrage of questions from reporters about conflicting statements with the president over the intent and timing of the joint U.S. and Israeli strikes on Iran.  President Trump on Tuesday said it was his opinion that Iran was going to strike against U.S. interests in the region…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political news about press questions regarding foreign policy statements, with no direct bearing on constitutional checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:15.521Z"
+    },
+    {
+      "id": "78592bbac524",
+      "title": "Ted Cruz, Tim Scott asking Treasury to approve $200B tax cut without congressional approval",
+      "url": "https://thehill.com/homenews/administration/5765607-gop-senators-propose-tax-cut/",
+      "source": "The Hill",
+      "published": "2026-03-03T23:01:08.000Z",
+      "description": "GOP Sens. Ted Cruz (Texas) and Tim Scott (S.C.) are asking the Treasury Department to approve a $200 billion tax cut without prior authorization from Congress.  The two senators have asked the Trump administration to cut capital gains taxes on investors by adjusting the basis for inflation arguing it would boost savings, spur investment and…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "This represents a significant attempt to circumvent congressional fiscal authority through executive action on a major fiscal policy ($200B), directly challenging fundamental checks and balances over taxation and spending.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-04T00:10:15.803Z"
+    },
+    {
+      "id": "1c092254d29e",
+      "title": "Leaked documents unveil new details on Trump’s review of history at national parks",
+      "url": "https://thehill.com/policy/energy-environment/5765673-trump-national-parks-nps/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:48:00.000Z",
+      "description": "Leaked documents related to the Trump administration’s review of history at national parks reveal new details about the breadth of the administration’s efforts to reshape the telling of America’s story. A database that was first reported by The Washington Post lays out hundreds of signs, exhibits, films and other items that were apparently flagged for review under…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While content curation at national parks raises concerns about narrative control, this represents administrative policy implementation rather than a systematic attack on constitutional checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T00:10:15.542Z"
+    },
+    {
+      "id": "002e7c07a857",
+      "title": "Trump slams banks over crypto bill holdup, urges Congress to pass act ‘ASAP’",
+      "url": "https://thehill.com/policy/technology/5765672-trump-slams-banks-over-crypto-bill-holdup-urges-congress-to-pass-act-asap/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:38:19.000Z",
+      "description": "President Trump criticized the banking industry Tuesday, alleging that the stablecoin bill he signed into law last year is “being threatened and undermined by the banks.” The Senate’s efforts to pass a key cryptocurrency market bill has remained at a standstill in recent weeks, as the banking and crypto industries have sought to hash out…",
+      "keywords": [
+        "trump",
+        "crypto",
+        "stablecoin"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about industry lobbying and legislative disagreement on a specialized financial regulation, with no direct institutional threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:15.573Z"
+    },
+    {
+      "id": "5cbb79b24170",
+      "title": "Drone strike hits US consulate parking lot in Dubai",
+      "url": "https://thehill.com/policy/international/5765632-drone-strike-dubai-consulate/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:29:56.000Z",
+      "description": "A fire in the parking lot of a building near the U.S. consulate in Dubai has been put out following a drone strike. No one was injured, according to the Dubai Media Office. “Dubai authorities reaffirm their commitment to ensuring everyone’s safety and security,” a post on the social platform X stated. Officials posted earlier…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign security incident with no connection to U.S. domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:15.728Z"
+    },
+    {
+      "id": "0c211e782c2e",
+      "title": "Live results: Cornyn, Paxton, Hunt face off in Texas Senate GOP primary",
+      "url": "https://thehill.com/homenews/senate/5751679-live-results-texas-republican-senate-primary/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:00:00.000Z",
+      "description": "Sen. John Cornyn (R-Texas) is fighting for his political life in a heated GOP primary Tuesday. The incumbent, who has held on to his seat since 2002, is facing off with state Attorney General Ken Paxton and Rep. Wesley Hunt (R-Texas). President Trump has yet to endorse a candidate in the race. One candidate must…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral coverage of a primary election with no direct implications for institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:16.488Z"
+    },
+    {
+      "id": "9339ca766bb9",
+      "title": "Live results: Cooper, Whatley favorites in North Carolina Senate primaries",
+      "url": "https://thehill.com/homenews/senate/5757902-live-results-north-carolina-senate-primary/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:00:00.000Z",
+      "description": "Former North Carolina Gov. Roy Cooper (D) and former Republican National Committee Chair Michael Whatley are both vying for their parties’ nomination in the Tar Heel State’s Senate primaries. Cook Political Report rates the November general election as a “toss up,” given Cooper’s popularity across the state. Both Cooper and Whatley are expected to win…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage reporting on primary race dynamics and candidate viability without addressing any democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:16.612Z"
+    },
+    {
+      "id": "116e255dbc8f",
+      "title": "Live results: Arkansas governor’s Democratic primary underway",
+      "url": "https://thehill.com/homenews/state-watch/5762931-live-results-arkansas-gubernatorial-primary/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:00:00.000Z",
+      "description": "With Arkansas Gov. Sarah Huckabee Sanders (R) advancing to the November general election, just Democrats will host a gubernatorial primary on Tuesday. Democratic candidates include state Sen. Fredrick Love,and Supha Xayprasith-Mays, a business leaders. The GOP is expected to hang on to the governor’s office in November. Follow Decision Desk HQ’s live results here.",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine electoral coverage of a state primary election with no implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:16.726Z"
+    },
+    {
+      "id": "aa688f928b99",
+      "title": "Live results: Roy seeks GOP nod in Texas attorney general primary",
+      "url": "https://thehill.com/homenews/state-watch/5762918-live-results-texas-attorney-general-primary/",
+      "source": "The Hill",
+      "published": "2026-03-03T22:00:00.000Z",
+      "description": "Republican Rep. Chip Roy is facing off in a Tuesday GOP primary in an effort to replace Attorney General Ken Paxton this November. Other GOP candidates include state Sens. Joan Huffman and Mayes Middleton, as well as Aaron Reitz, who previously worked for the Justice Department. On the Democratic side, contenders include attorney Tony Box,…",
+      "keywords": [
+        "attorney general",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage of a primary race with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:16.543Z"
+    },
+    {
+      "id": "19d9277a74d8",
+      "title": "MAGA Thinks Netanyahu Played Trump on Iran",
+      "url": "https://www.rollingstone.com/politics/politics-news/maga-criticism-trump-iran-war-israel-1235524543/",
+      "source": "Rolling Stone",
+      "published": "2026-03-04T00:00:00.000Z",
+      "description": "Some of the president's supporters are raging after Marco Rubio said the quiet part out loud about the war against Iran",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary about internal disagreement within the president's supporters regarding foreign policy messaging, not reporting on institutional erosion or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T00:10:16.662Z"
+    },
+    {
+      "id": "ccfa8c840340",
+      "title": "Republican Lays Into Kristi Noem Over ‘Disaster’ at DHS",
+      "url": "https://www.rollingstone.com/politics/politics-news/kristi-noem-grilled-thom-tillis-tense-dhs-hearing-1235524386/",
+      "source": "Rolling Stone",
+      "published": "2026-03-03T20:34:04.000Z",
+      "description": "The Homeland Security secretary was grilled by members of her own party over the department's increasingly unpopular approach to immigration enforcement",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Intra-party criticism of a cabinet official's policy approach represents normal legislative oversight, but lacks evidence of systemic institutional threats or unprecedented democratic erosion.",
+      "categories": [
+        "congressional_oversight",
+        "federal_programs_and_agencies"
+      ],
+      "scoredAt": "2026-03-04T00:10:17.663Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-03T18:12:01.573Z"
+  "lastFetch": "2026-03-04T00:10:17.663Z"
 }
