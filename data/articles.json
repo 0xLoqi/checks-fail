@@ -37055,8 +37055,565 @@
         "federal_programs_and_agencies"
       ],
       "scoredAt": "2026-03-04T00:10:17.663Z"
+    },
+    {
+      "id": "728551777cc1",
+      "title": "Live coverage: 2026 primary elections in Texas, North Carolina, Arkansas",
+      "url": "https://www.nbcnews.com/video/live-coverage-2026-primary-elections-in-texas-north-carolina-arkansas-258640965866",
+      "source": "NBC News",
+      "published": "2026-03-03T23:53:44.000Z",
+      "description": "Watch live coverage of primary races in Texas, North Carolina and Arkansas, along with analysis on how the results will yield general election implications.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "Live election coverage of primary races is routine political journalism with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:03.904Z"
+    },
+    {
+      "id": "f24b0bf0e813",
+      "title": "Kornacki Cam: Watch Steve Kornacki analyze midterm primary election results",
+      "url": "https://www.nbcnews.com/video/kornacki-cam-watch-steve-analyze-midterm-primary-election-results-258572357534",
+      "source": "NBC News",
+      "published": "2026-03-03T12:40:25.000Z",
+      "description": "NBC News chief data analyst Steve Kornacki breaks down the vote tallies in real time, while giving viewers a behind-the-scenes look at election night coverage.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "This is routine news coverage of election night analysis with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:03.981Z"
+    },
+    {
+      "id": "acb430d408a7",
+      "title": "Sen. John Cornyn forced into a Republican primary runoff against Texas AG Ken Paxton",
+      "url": "https://www.nbcnews.com/politics/2026-election/texas-senate-primary-cornyn-paxton-hunt-talarico-crockett-rcna261447",
+      "source": "NBC News",
+      "published": "2026-03-04T01:00:24.000Z",
+      "description": "The heated Senate Republican primary in Texas will continue for several more weeks, with NBC News projecting that Sen. John Cornyn and state Attorney General Ken Paxton will advance to a runoff.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about a primary runoff with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:03.930Z"
+    },
+    {
+      "id": "ce44e73a3a69",
+      "title": "Incumbents under pressure as House members face restless voters in primaries",
+      "url": "https://www.nbcnews.com/politics/2026-election/house-primaries-foushee-green-menefee-gonzales-crenshaw-johnson-rcna261448",
+      "source": "NBC News",
+      "published": "2026-03-04T01:02:36.000Z",
+      "description": "House members are under pressure in Tuesday's primaries, with GOP Rep. Dan Crenshaw losing and Reps. Al Green, Christian Menefee, Julie Johnson and Valerie Foushee in tight Democratic races and Reps. Tony Gonzales heading to a runoff on the Republican side.",
+      "keywords": [
+        "voter",
+        "johnson"
+      ],
+      "significance": 2,
+      "reason": "Primary election results are routine democratic processes and do not indicate erosion of institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T06:11:04.974Z"
+    },
+    {
+      "id": "68d7e7722041",
+      "title": "Rep. Tony Gonzales pulled into GOP primary runoff amid allegations he had an affair with a staffer",
+      "url": "https://www.nbcnews.com/politics/2026-election/tony-gonzales-texas-primary-election-loss-republican-house-seat-rcna261350",
+      "source": "NBC News",
+      "published": "2026-03-04T06:02:12.000Z",
+      "description": "Rep. Tony Gonzales will face another round in his Republican primary after getting pulled into a runoff in Texas, NBC News projects, after a campaign shaped by allegations he had an affair with a staffer in his congressional office who died by suicide in 2025.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a primary election involving personal misconduct allegations, which does not directly implicate systemic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:04.976Z"
+    },
+    {
+      "id": "ee14c16aa8d1",
+      "title": "Rep. Dan Crenshaw loses to Republican primary challenger in Texas",
+      "url": "https://www.nbcnews.com/politics/2026-election/dan-crenshaw-texas-election-primary-loss-house-seat-rcna261351",
+      "source": "NBC News",
+      "published": "2026-03-04T05:38:20.000Z",
+      "description": "NBC News projects Texas state Rep. Steve Toth defeated Crenshaw after a campaign that focused on loyalty to Trump.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine electoral outcome reflecting primary voters' preferences, with no direct impact on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:04.972Z"
+    },
+    {
+      "id": "c8c390a0cf87",
+      "title": "Paxton says primary results show 'Texans want new leadership'",
+      "url": "https://www.nbcnews.com/now/video/paxton-speaks-after-texas-gop-senate-primary-heads-to-runoff-258662469664",
+      "source": "NBC News",
+      "published": "2026-03-04T04:42:59.000Z",
+      "description": "State Attorney General Ken Paxton addressed his supporters as he prepares for a runoff in the Republican primary for the Texas U.S. Senate seat against Sen. John Cornyn. He criticized Cornyn over his campaign spending and added that “Texans want new leadership.”",
+      "keywords": [
+        "attorney general",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign commentary from a state primary election with no direct bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:04.854Z"
+    },
+    {
+      "id": "1325d151a26f",
+      "title": "Texas Supreme Court blocks extended polling hours in Dallas County",
+      "url": "https://www.nbcnews.com/now/video/texas-supreme-court-blocks-extended-polling-hours-in-dallas-county-258658885855",
+      "source": "NBC News",
+      "published": "2026-03-04T04:37:28.000Z",
+      "description": "The Texas Supreme Court temporarily blocked a lower court order to keep Dallas County polling sites open an extra two hours after thousands of voters in Dallas and Williamson counties showed up at the wrong polling sites due to confusion over recent changes. NBC News’ Jane Timm explains the legal fight.",
+      "keywords": [
+        "voter",
+        "court order"
+      ],
+      "significance": 7,
+      "reason": "This decision directly impacts election infrastructure and voting access by restricting polling hours despite documented voter confusion, raising significant concerns about the right to vote and electoral administration.",
+      "categories": [
+        "election infrastructure",
+        "civil rights"
+      ],
+      "scoredAt": "2026-03-04T06:11:04.932Z"
+    },
+    {
+      "id": "1892a7365fd4",
+      "title": "Cornyn blasts 'self-centered' Paxton after Texas GOP Senate race advances to runoff",
+      "url": "https://www.nbcnews.com/now/video/cornyn-blasts-paxton-after-texas-gop-senate-race-advances-to-runoff-258658885576",
+      "source": "NBC News",
+      "published": "2026-03-04T04:00:31.000Z",
+      "description": "Republican Sen. John Cornyn spoke to supporters after learning his primary race against state Attorney General Ken Paxton will advance to a runoff.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on an intra-party primary dispute without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:05.759Z"
+    },
+    {
+      "id": "f0aff789cf16",
+      "title": "Trump officials tell Congress Iran will be hit with 'overwhelming' firepower in the coming days",
+      "url": "https://www.nbcnews.com/politics/congress/trump-officials-tell-congress-iran-will-hit-overwhelming-firepower-com-rcna261523",
+      "source": "NBC News",
+      "published": "2026-03-04T00:48:36.000Z",
+      "description": "Trump administration officials told Congress to expect an \"overwhelming\" and bigger wave of military strikes on Iran in the coming days.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Military communications to Congress reflect standard war powers notification procedures rather than a direct institutional check erosion, though congressional oversight of military action remains relevant.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:05.972Z"
+    },
+    {
+      "id": "730e2a6111bb",
+      "title": "Critical primaries held in Texas, North Carolina and Arkansas",
+      "url": "https://www.cbsnews.com/news/texas-north-carolina-arkansas-primaries-polls-close-2026-midterms/",
+      "source": "CBS News",
+      "published": "2026-03-04T05:53:34.000Z",
+      "description": "Voters headed to the polls Tuesday in Texas, North Carolina and Arkansas, marking the start of the 2026 midterm cycle.",
+      "keywords": [
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on scheduled primary elections with no indication of irregularities, institutional conflicts, or threats to democratic processes.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T06:11:05.893Z"
+    },
+    {
+      "id": "115ff601668a",
+      "title": "Texas GOP Senate primary heading to Cornyn-Paxton runoff, CBS News projects",
+      "url": "https://www.cbsnews.com/news/texas-primary-republican-results-2026-midterm-elections/",
+      "source": "CBS News",
+      "published": "2026-03-04T04:48:39.000Z",
+      "description": "In the Texas GOP Senate primary, CBS News projects Sen. John Cornyn and Texas Attorney General Ken Paxton will go to a runoff, with neither clearing 50% of the vote.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting on a primary runoff result with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:05.847Z"
+    },
+    {
+      "id": "f684786753fe",
+      "title": "Trump says almost \"everything's been knocked out\" as Iran unleashes drones",
+      "url": "https://www.cbsnews.com/video/trump-says-almost-everythings-been-knocked-out-as-iran-unleashes-drones/",
+      "source": "CBS News",
+      "published": "2026-03-04T01:40:00.000Z",
+      "description": "The U.S. and Israel have launched ferocious new attacks on Iran, with President Trump saying \"just about everything's been knocked.\" Yet, Iran is still hitting back. Tony Dokoupil has the latest.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of military conflict and presidential commentary with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:07.041Z"
+    },
+    {
+      "id": "1acc6946cebd",
+      "title": "Primary season kicks off with high-stakes Senate races in Texas",
+      "url": "https://www.cbsnews.com/video/primary-season-kicks-off-with-high-stakes-senate-races-in-texas/",
+      "source": "CBS News",
+      "published": "2026-03-04T00:37:00.000Z",
+      "description": "Voters in three states headed to the polls, with a four-term incumbent Republican senator in Texas seeking to fend off a primary challenge from his state's starkly conservative attorney general. Texas Democrats will be choosing their own candidate in hopes of breaking their decades-long losing streak in the state. Ed O'Keefe reports.",
+      "keywords": [
+        "voter",
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral coverage of primary elections with no institutional, legal, or policy implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:07.051Z"
+    },
+    {
+      "id": "46eed791939e",
+      "title": "Noem draws criticism from members of both parties in Senate hearing",
+      "url": "https://www.cbsnews.com/video/noem-draws-criticism-from-members-of-both-parties-in-senate-hearing/",
+      "source": "CBS News",
+      "published": "2026-03-04T00:32:00.000Z",
+      "description": "Homeland Security Secretary Kristi Noem faced skepticism from both sides of the aisle at a hearing before the Senate Judiciary Committee, with lawmakers criticizing her handling of the Trump administration's immigration agenda. Caitlin Huey Burns has more.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Bipartisan congressional oversight of executive branch immigration policy represents routine checks and balances functionality, though the hearing itself is notable without indicating systemic institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:07.224Z"
+    },
+    {
+      "id": "d7dcc9572542",
+      "title": "Democrats raise doubts about urgency of Trump's Iran strikes",
+      "url": "https://www.cbsnews.com/video/democrats-raise-doubts-about-urgency-of-trumps-iran-strikes/",
+      "source": "CBS News",
+      "published": "2026-03-04T00:29:00.000Z",
+      "description": "The Senate is expected to vote on a series of Democrat-backed war powers resolutions aimed at stopping the conflict with Iran and preventing future wars without a greenlight from Congress. Nancy Cordes has details on Democrats' reactions.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents routine congressional oversight activity regarding war powers, a standard constitutional check on executive authority, but lacks evidence of urgent institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:07.113Z"
+    },
+    {
+      "id": "5e1d33ed06ab",
+      "title": "Trump claims America can fight \"forever\" but munitions are limited",
+      "url": "https://www.axios.com/2026/03/04/trump-us-munitions-stockpile-iran-war",
+      "source": "Axios",
+      "published": "2026-03-04T00:21:15.000Z",
+      "description": "President Trump's claim that America has a \"virtually unlimited\" munitions stockpile and could fight a war \"forever,\" could soon be tested as counterattacks target military bases and U.S. Embassies across the Middle East in what has become a rapidly-widening conflict.\nWhy it matters: Reporting suggests that the U.S. stockpile and that of key allies, such as Israel and Gulf nations, are dwindling faster than production can replace the weapons.\n\nThe problem is particularly notable given that other",
+      "keywords": [
+        "white house",
+        "classified",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This article reports on military readiness and resource management rather than addressing institutional checks and balances, democratic erosion, or governance mechanisms.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T06:11:07.357Z"
+    },
+    {
+      "id": "f540768f734e",
+      "title": "Trump officials' briefing to Congress on Iran derided as \"bullsh*t\" by Democrats",
+      "url": "https://www.axios.com/2026/03/04/iran-briefing-trump-congress-democrats-war-powers",
+      "source": "Axios",
+      "published": "2026-03-04T00:14:55.000Z",
+      "description": "House Democrats left a Tuesday night briefing on Iran expressing even greater frustration towards the Trump administration than they had going in, with several lawmakers describing it as \"bullsh*t.\"\nWhy it matters: Democrats are full steam ahead on forcing a vote this week on a resolution that would constrain Trump from unilaterally waging war with Iran.\n\nRep. Gabe Vasquez (D-N.M.), one of House Democrats' most vulnerable battleground-district members, said his thinking was \"not at all\" changed ",
+      "keywords": [
+        "ICE",
+        "johnson",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Reflects congressional oversight friction over war powers, a genuine checks-and-balances issue, but the significance depends on whether the threatened resolution vote materializes and passes.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:08.428Z"
+    },
+    {
+      "id": "06de8855c5df",
+      "title": "American support for abolishing ICE hits record 50% in new poll",
+      "url": "https://www.axios.com/2026/03/04/trump-ice-support-abolish-half-americans-record-poll",
+      "source": "Axios",
+      "published": "2026-03-04T00:13:46.000Z",
+      "description": "Half of Americans now support abolishing ICE, compared with just 39% who oppose eliminating the agency, according to a new YouGov poll. \nWhy it matters: It's the first time in YouGov's polling history that support for abolishing ICE has reached 50%, capping a steady rise since January amid the Trump administration's immigration crackdown. \n\nWhile Democrats have largely supported abolishing ICE in 2026 polling, this survey also marks a new high for Independents, with 52% backing the idea. \nA majo",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Public opinion polling on agency abolition reflects democratic debate but does not itself constitute institutional action, policy change, or erosion of checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-04T06:11:08.480Z"
+    },
+    {
+      "id": "bfa7c17d87ab",
+      "title": "Toth defeats Crenshaw in Texas GOP primary upset",
+      "url": "https://thehill.com/homenews/house/5763470-toth-defeats-crenshaw-texas-house-primary/",
+      "source": "The Hill",
+      "published": "2026-03-04T05:13:43.000Z",
+      "description": "Texas State Rep. Steve Toth (R) is projected to pull off a victory in Tuesday’s primary, unseating fourth-term incumbent Rep. Dan Crenshaw (R-Texas), according to Decision Desk HQ. Toth’s win all but ensures he will represent the deep-red Texas 2nd Congressional District in Congress next year. Crenshaw, who has at times broken with President Trump,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A routine primary election result between two Republican candidates in a safe seat does not directly implicate democratic checks and balances institutions or their integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:08.225Z"
+    },
+    {
+      "id": "e793e0f166a7",
+      "title": "Laurie Buckhout wins GOP primary in North Carolina, will face Don Davis in general",
+      "url": "https://thehill.com/homenews/campaign/5766239-buckhout-davis-north-carolina-house-rematch/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:59:00.000Z",
+      "description": "Former Pentagon official Laurie Buckhout is projected to win the Republican primary in North Carolina’s 1st Congressional District, according to Decision Desk HQ. Buckhout defeated four other GOP candidates: Asa Buck, Robert Hanig, Eric Rouse and Ashley-Nicole Russell. She will face incumbent Rep. Don Davis (D-N.C.) in November’s general election, a rematch of their 2024…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting the outcome of a primary election with no connection to institutional checks and balances, democratic erosion, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:08.157Z"
+    },
+    {
+      "id": "99dd434a54ea",
+      "title": "Abbott, Hinojosa to face off in general election for Texas governor",
+      "url": "https://thehill.com/homenews/state-watch/5763416-texas-governor-abbott-hinojosa-win/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:53:32.000Z",
+      "description": "Texas Gov. Greg Abbott (R) and Democratic state Rep. Gina Hinojosa were projected to win their respective primaries for Texas governor on Tuesday, setting up a November showdown.  Abbott is seeking a fourth term leading the red state, which hasn’t elected a Democratic governor since 1990.  Recent polling has signaled an uphill fight for Hinojosa, though she’s…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting primary results and general election matchups with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:08.198Z"
+    },
+    {
+      "id": "ace07f7610d5",
+      "title": "Teixeira secures GOP nod in bid to succeed Roy in Texas",
+      "url": "https://thehill.com/homenews/campaign/5766199-mark-teixeira-wins-texas-gop/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:39:26.000Z",
+      "description": "Retired professional baseball player Mark Teixeira is projected to win the Republican primary in Texas’s 21st congressional district, according to Decision Desk HQ.  Teixeira defeated a crowded GOP field in the race to succeed Rep. Chip Roy (R-Texas), who is running for attorney general in the Lone Star State. That position is being vacated by…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine political coverage of a primary election result with no connection to democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:09.299Z"
+    },
+    {
+      "id": "f98ea31385d9",
+      "title": "Roy, Middleton head for May runoff in Texas attorney general GOP primary",
+      "url": "https://thehill.com/homenews/campaign/5763458-roy-middleton-texas-attorney-general-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:29:56.000Z",
+      "description": "Rep. Chip Roy (R-Texas) and Texas state Sen. Mayes Middleton (R) are projected to head into a May runoff for the GOP nod to succeed Texas Attorney General Ken Paxton (R), according to Decision Desk HQ.  The two men were among four Republicans competing for the nomination. The other GOP contenders included Paxton-endorsed Aaron Reitz, a…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news about a state-level Republican primary runoff with no direct implications for federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:09.355Z"
+    },
+    {
+      "id": "c6d6fa6e0e85",
+      "title": "Texas GOP Senate primary heads to runoff, with Cornyn, Paxton on ballot",
+      "url": "https://thehill.com/homenews/senate/5757469-cornyn-paxton-gop-runoff-texas-senate/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:22:15.000Z",
+      "description": "The competitive Republican primary for Senate in Texas is headed to a runoff, according to a Decision Desk HQ projection.  The race will head to a May 26 showdown between incumbent Sen. John Cornyn and Texas Attorney General Ken Paxton as Republicans scramble to keep the seat in GOP hands.  Neither Cornyn nor Paxton won…",
+      "keywords": [
+        "ballot",
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news about a primary runoff with no direct implications for democratic institutions, checks and balances, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:09.456Z"
+    },
+    {
+      "id": "ab93bec4006c",
+      "title": "Texas Supreme Court halts lower court ruling on extended voting hours in Dallas",
+      "url": "https://thehill.com/regulation/court-battles/5766194-texas-supreme-court-dallas-voting-extension/",
+      "source": "The Hill",
+      "published": "2026-03-04T03:11:36.000Z",
+      "description": "The Texas Supreme Court halted a lower court’s ruling on Tuesday that extended voting hours in Dallas County amid Democratic voter confusion at poll locations. The Lone Star State’s high court temporarily paused a lower court’s decision to extend Dallas County’s voting hours until 10 p.m. EST after Texas Attorney General Ken Paxton (R) appealed…",
+      "keywords": [
+        "voting",
+        "voter",
+        "attorney general",
+        "ruling"
+      ],
+      "significance": 7,
+      "reason": "Demonstrates significant institutional tension over election administration and voting access, directly implicating election infrastructure and judicial independence as core democratic checks.",
+      "categories": [
+        "election infrastructure",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-04T06:11:09.567Z"
+    },
+    {
+      "id": "25ae59d629f9",
+      "title": "Holladay wins Arkansas special election in key Democratic pickup",
+      "url": "https://thehill.com/homenews/state-watch/5763559-democratic-pickup-arkansas-house-race/",
+      "source": "The Hill",
+      "published": "2026-03-04T02:28:19.000Z",
+      "description": "Democrat Alex Holladay is projected to win the special election to represent Arkansas’s House District 70, edging out Republican Bo Renshaw, according to Decision Desk HQ. The race was seen as a pickup opportunity for the Democrats after Holladay, in 2024, narrowly lost his bid to unseat Republican incumbent Carlton Wing, who eked out a…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting a single special election result with no direct implications for institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-04T06:11:09.329Z"
+    },
+    {
+      "id": "f7bea4c037da",
+      "title": "Trump posts photo of Mamdani with Declaration of Independence in Oval Office",
+      "url": "https://thehill.com/homenews/5766052-trump-mamdani-housing-plan/",
+      "source": "The Hill",
+      "published": "2026-03-04T01:54:43.000Z",
+      "description": "President Trump on Tuesday shared a photo of New York City Mayor Zohran Mamdani (D) standing next to the Declaration of Independence in the Oval Office, the latest turn in their unique relationship. Trump posted the photo of Mamdani lightly smiling next to a framed copy of the U.S. founding document to his Truth Social…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine social media activity documenting a photo opportunity with a political figure and has no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:10.481Z"
+    },
+    {
+      "id": "e3e1f0d64c46",
+      "title": "Rubio briefs senators as questions pile up about Iran conflict: 4 takeaways",
+      "url": "https://thehill.com/policy/defense/5766074-rubio-briefing-senators-iran/",
+      "source": "The Hill",
+      "published": "2026-03-04T01:48:37.000Z",
+      "description": "Secretary of State Marco Rubio and other top Trump administration national security officials on Tuesday briefed senators on the U.S. conflict with Iran as questions about the goals, timelines and scope of the operation pile up. The session, which lasted about 80 minutes, comes as the Trump administration has offered conflicting explanations about the timing…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A routine congressional briefing on foreign policy demonstrates normal oversight function, though conflicting administration explanations warrant monitoring for potential transparency issues.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:10.578Z"
+    },
+    {
+      "id": "12f18ffba306",
+      "title": "Trump says more than 9,000 Americans have returned from Middle East since launch of Operation Epic Fury",
+      "url": "https://thehill.com/homenews/administration/5766044-us-citizens-return-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-04T01:20:35.000Z",
+      "description": "More than 9,000 Americans have made a safe return back to the U.S. from the Middle East since the launch of strikes on Iran this past weekend, President Trump said on Tuesday.  The U.S. and Israel launched attacks against the country as part of a joint operation, dubbed “Operation Epic Fury,” early Saturday morning, killing…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine reporting on military operations and citizen evacuation logistics with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:10.462Z"
+    },
+    {
+      "id": "a7612b017c9f",
+      "title": "Army identifies 4 of 6 killed in drone attack in Kuwait",
+      "url": "https://thehill.com/homenews/5765943-army-releases-names-kuwait-drone/",
+      "source": "The Hill",
+      "published": "2026-03-04T00:25:15.000Z",
+      "description": "The Army on Tuesday released the names of the four U.S. service members initially killed after an Iranian drone struck the tactical operations center they were working from in Kuwait. Capt. Cody A. Khork, 35, of Winter Haven, Fla.; Sgt. 1st Class Noah L. Tietjens, 42, of Bellevue, Neb.; Sgt. 1st Class Nicole M. Amor,…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine military casualty notification with no direct relevance to democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:10.534Z"
+    },
+    {
+      "id": "d225cb0c70e0",
+      "title": "Trump endorses candidate for Montana House seat following Zinke’s retirement",
+      "url": "https://thehill.com/homenews/house/5765857-trump-endorses-montana-radio-host/",
+      "source": "The Hill",
+      "published": "2026-03-04T00:18:27.000Z",
+      "description": "President Trump on Tuesday endorsed a Montana radio host who launched his House campaign just more than an hour after Rep. Ryan Zinke (R-Mont.) announced he was retiring from Congress. “It is my Great Honor to endorse Aaron Flint, who is running to represent the tremendous people of Montana’s 1st Congressional District,” Trump wrote on…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a presidential endorsement in a congressional race, a normal part of electoral politics with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:10.519Z"
+    },
+    {
+      "id": "057b27b81066",
+      "title": "What to know about the deadly Austin bar shooting",
+      "url": "https://thehill.com/homenews/state-watch/5765847-fatal-austin-texas-bar-shooting/",
+      "source": "The Hill",
+      "published": "2026-03-03T23:50:35.000Z",
+      "description": "A fatal shooting at a bar in Austin, Texas, early Sunday morning has resulted in at least three deaths and 14 injuries, with an FBI agent saying Sunday there may be a connection to terrorism.  The gunman, 53-year-old Ndiaga Diagne, opened fired at Buford’s on West Sixth Street in the Texas capital. The bar is…",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 1,
+      "reason": "This is a crime incident report with no direct implications for democratic institutions, governmental checks and balances, or systemic accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-04T06:11:11.546Z"
+    },
+    {
+      "id": "ef8bc616e7b9",
+      "title": "Dems React to Classified Briefing on Iran: ‘It Is So Much Worse Than You Thought’",
+      "url": "https://www.rollingstone.com/politics/politics-news/democrats-react-classified-briefing-iran-1235524696/",
+      "source": "Rolling Stone",
+      "published": "2026-03-04T04:33:27.000Z",
+      "description": "After a briefing on the U.S. war launched against Iran, House Democrats said the Trump administration offered little clarity on it's plan moving forward",
+      "keywords": [
+        "classified",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary on a classified briefing with no documented institutional action, policy change, or systemic check erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T06:11:11.404Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-04T00:10:17.663Z"
+  "lastFetch": "2026-03-04T06:11:11.546Z"
 }
