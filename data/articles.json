@@ -37612,8 +37612,527 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-04T06:11:11.404Z"
+    },
+    {
+      "id": "a61b9932e1ed",
+      "title": "Trump claims there would have been a nuclear war if U.S. didn't strike Iran first",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734331/trump-claims-there-would-have-been-a-nuclear-war-if-u-s-didnt-strike-iran-first",
+      "source": "NPR Politics",
+      "published": "2026-03-04T11:42:13.000Z",
+      "description": "President Trump offered a new reason Tuesday for the U.S. strikes on Iran, saying it was his opinion that the country was going to strike first.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political statement/claim about foreign policy justification that does not directly implicate democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:09.307Z"
+    },
+    {
+      "id": "8ddb29851805",
+      "title": "Rep. Gregory Meeks on U.S. operations against Iran and the vote on Trump's war powers",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734034/rep-gregory-meeks-on-u-s-operations-against-iran-and-the-vote-on-trumps-war-powers",
+      "source": "NPR Politics",
+      "published": "2026-03-04T11:42:09.000Z",
+      "description": "NPR's Michel Martin speaks with Democratic Rep. Gregory Meeks of New York, ranking member of the House Foreign Affairs Committee, about U.S. military operations against Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A congressional interview about military operations oversight represents routine exercise of legislative foreign policy review rather than a significant institutional challenge or erosion of democratic checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:09.151Z"
+    },
+    {
+      "id": "d26b9583c186",
+      "title": "DHS Secretary Kristi Noem returns to the Hill to face questions from lawmakers",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734423/dhs-secretary-kristi-noem-returns-to-the-hill-to-face-questions-from-lawmakers",
+      "source": "NPR Politics",
+      "published": "2026-03-04T09:45:27.000Z",
+      "description": "Homeland Security Secretary Kristi Noem makes back-to-back appearances before lawmakers in the Senate and House amid bipartisan questions about immigration enforcement.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 4,
+      "reason": "Routine congressional oversight hearing on immigration enforcement policy without indication of institutional conflict, policy violations, or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:08.916Z"
+    },
+    {
+      "id": "f39dd1f64c9b",
+      "title": "GOP heads to runoff; Democrat Talarico wins big in Texas primary",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734371/gop-heads-to-runoff-democrat-talarico-wins-big-in-texas-primary",
+      "source": "NPR Politics",
+      "published": "2026-03-04T09:45:13.000Z",
+      "description": "Democrat James Talarico beat Rep. Jasmine Crockett in the state primaries overnight while Republicans Sen. John Cornyn and Attorney General Ken Paxton will be heading to a runoff.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting primary election results with no bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:09.287Z"
+    },
+    {
+      "id": "99c6f5f51993",
+      "title": "5 takeaways from the first primaries of the 2026 midterms",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734357/texas-north-carolina-primaries-talarico-crockett-cornyn-cooper",
+      "source": "NPR Politics",
+      "published": "2026-03-04T09:23:28.000Z",
+      "description": "Voters headed to the polls Tuesday in the first primaries of the midterm election season. The latest results from Arkansas, North Carolina and Texas.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine coverage of standard primary election results with no apparent implications for institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T12:06:09.053Z"
+    },
+    {
+      "id": "e0b22a9689a7",
+      "title": "Primary takeaways: Voters itching for change are eager to put their stamp on Washington",
+      "url": "https://www.nbcnews.com/politics/2026-election/midterm-primary-takeaways-texas-senate-results-voters-itching-change-s-rcna261449",
+      "source": "NBC News",
+      "published": "2026-03-04T07:48:11.000Z",
+      "description": "Tuesday’s primaries across three states saw incumbents including Republican Sen. John Cornyn, Democratic Rep. Valerie Foushee, Republican Rep. Dan Crenshaw and more face serious challenges.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage reporting on primary results and voter sentiment without analyzing threats to or changes in institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:10.250Z"
+    },
+    {
+      "id": "724c9ffc79c5",
+      "title": "Trump administration could order U.S. manufacturers to make more munitions amid Iran war",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-administration-order-us-manufacturers-make-munitions-iran-war-rcna261312",
+      "source": "NBC News",
+      "published": "2026-03-04T11:00:41.000Z",
+      "description": "WASHINGTON — Concerns over depleting munitions used to defend American forces in the Middle East may lead the Trump administration to force defense companies to produce more weaponry quickly, according to three people familiar with the discussions",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns defense production policy and military supply chain management, which falls outside the core democratic checks and balances categories tracked.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:10.415Z"
+    },
+    {
+      "id": "ed97a89e6aa5",
+      "title": "Iran strikes risk more voter frustration on the economy with rising gas prices",
+      "url": "https://www.nbcnews.com/politics/2026-election/iran-strikes-risk-voter-frustration-economy-rising-gas-prices-rcna261346",
+      "source": "NBC News",
+      "published": "2026-03-04T10:24:40.000Z",
+      "description": "Barely a week after President Donald Trump hailed falling gas prices as one of his economic triumphs, his actions are sending the cost per gallon back up",
+      "keywords": [
+        "voter",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses economic impacts of geopolitical events on voter sentiment rather than examining institutional checks, balances, or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:10.576Z"
+    },
+    {
+      "id": "da78c93f4054",
+      "title": "Noem to face House committee after grilling from senators on immigration crackdown",
+      "url": "https://www.cbsnews.com/live-updates/kristi-noem-hearing-house-judiciary-committee/",
+      "source": "CBS News",
+      "published": "2026-03-04T11:00:11.000Z",
+      "description": "Kristi Noem's testimony comes after she faced criticism for her record on immigration from Democrats and a pair of Republicans at a Senate hearing.",
+      "keywords": [
+        "immigration"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of a cabinet nominee on policy record is routine institutional function, though immigration enforcement touches civil rights concerns.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-04T12:06:11.620Z"
+    },
+    {
+      "id": "6ce941bcc8f1",
+      "title": "Senate to vote on Trump's war powers after attack on Iran",
+      "url": "https://www.cbsnews.com/news/senate-vote-iran-war-powers-resolution-trump/",
+      "source": "CBS News",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "The measure, which would  block President Trump from further military force against Iran, appears poised to fall short of the simple majority needed to advance in the Senate.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Senate assertion of war powers authority represents significant institutional check on executive military power, though effectiveness is limited by expected measure failure.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-04T12:06:11.475Z"
+    },
+    {
+      "id": "90bd38055244",
+      "title": "James Talarico projected to win Texas Democratic Senate primary",
+      "url": "https://www.cbsnews.com/news/texas-primary-democratic-results-2026-midterm-elections-james-talarico-jasmine-crockett/",
+      "source": "CBS News",
+      "published": "2026-03-04T08:16:00.000Z",
+      "description": "Texas Rep. James Talarico will win the Democratic Senate primary in Texas, CBS News projects, defeating Rep. Jasmine Crockett in what could be one of the most closely watched races in this year's midterms.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting a primary election outcome with no direct implications for institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-04T12:06:11.393Z"
+    },
+    {
+      "id": "3f979ac72c7c",
+      "title": "3/3: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/33-cbs-evening-news-3/",
+      "source": "CBS News",
+      "published": "2026-03-04T07:03:29.000Z",
+      "description": "Trump says almost \"everything's been knocked out\" as Iran unleashes drones; Mini miracle on the Hudson as pilot and passenger survive plane crash in icy river.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine news coverage of international events and a human interest story with no connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:11.519Z"
+    },
+    {
+      "id": "fee90dde6663",
+      "title": " GOP challenger Steve Toth ousts Rep. Dan Crenshaw in Texas primary",
+      "url": "https://abcnews.com/Politics/wireStory/gop-challenger-steve-toth-ousts-rep-dan-crenshaw-130743542",
+      "source": "ABC News",
+      "published": "2026-03-04T06:21:30.000Z",
+      "description": "U.S. Rep. Dan Crenshaw of Texas has lost his reelection bid in a GOP primary election to a conservative state lawmaker from Conroe",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A routine primary election result involving a change in representation does not directly implicate constitutional checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:12.843Z"
+    },
+    {
+      "id": "a9984d432647",
+      "title": "The state of U.S. natural gas prices as Middle East unrest continues",
+      "url": "https://www.axios.com/2026/03/04/iran-conflict-natural-gas-prices-middle-east",
+      "source": "Axios",
+      "published": "2026-03-04T10:00:06.000Z",
+      "description": "America's natural gas bounty is acting like a moat, largely shielding the U.S. from price spikes while much of the world reels from escalating unrest in the Middle East.\nWhy it matters: Natural gas hasn't, historically, drawn the same headlines as the more volatile oil markets. But it's increasingly central to the economy — including powering the AI boom.\n\nYes, but: The moat isn't impenetrable. And if substantially more American natural gas gets exported, it could raise heating and electricity b",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns energy market dynamics and pricing, which has no direct relevance to democratic checks and balances, institutional independence, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:12.904Z"
+    },
+    {
+      "id": "fb53e284da61",
+      "title": "Anthropic ban may threaten the military's AI advantage over China",
+      "url": "https://www.axios.com/2026/03/04/anthropic-ai-iran-maduro-pentagon",
+      "source": "Axios",
+      "published": "2026-03-04T10:00:05.000Z",
+      "description": "Anthropic's AI tools are now battle-tested, in two radically different military operations — but the Trump administration is still threatening to pull the plug.\nWhy it matters: The international race for AI advantage is not measured in years, but weeks and days.\n\nAlienating a leading American AI company and ripping and replacing existing tech could give other countries, especially China, a leg up.\n\nDriving the news: AI's use in Venezuela, leading to the capture of strongman Nicolas Maduro, and i",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "This article addresses potential institutional tensions between executive policy and private sector innovation affecting national security, but lacks evidence of direct democratic checks/balances erosion or unprecedented governmental overreach.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-04T12:06:13.369Z"
+    },
+    {
+      "id": "b66b87fa898f",
+      "title": "Texas warning signs: 4 takeaways from the first primaries of 2026",
+      "url": "https://www.axios.com/2026/03/04/texas-results-senate-midterms-primary",
+      "source": "Axios",
+      "published": "2026-03-04T08:05:30.000Z",
+      "description": "Voters are on the verge of sending multiple House incumbents packing but gave four-term Sen. John Cornyn (R-Texas) hope that he can defeat Texas Attorney General Ken Paxton in a runoff in May.\nWhy it matters: The GOP's worst nightmare, in which Paxton led Cornyn or even defeated him outright Tuesday in the first primary elections of the 2026 midterms, didn't happen. \n\nNational Republicans are concerned that Paxton, a conservative firebrand, could lose in the general election — or at least force ",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "attorney general",
+        "ICE",
+        "white house",
+        "johnson",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral coverage of primary results and intra-party competition with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:13.019Z"
+    },
+    {
+      "id": "463a0146d9b4",
+      "title": "James Talarico wins Democratic primary in Texas' U.S. Senate race",
+      "url": "https://www.axios.com/local/austin/2026/03/04/talarico-crockett-democratic-primary-senate-texas",
+      "source": "Axios",
+      "published": "2026-03-04T07:48:43.000Z",
+      "description": "Texas state Rep. James Talarico of Austin defeated U.S. Rep. Jasmine Crockett of Dallas for the Democratic nomination for U.S. Senate in Texas, per a race call by the Associated Press.\nWhy it matters: Talarico's victory sets the stage for a battle royal that promises to be among the most expensive contests of the year, as Democrats hope President Trump's unpopularity translates to red-state victories.\n\nIt also further raises the profile of Talarico, a media darling who has framed his argument ag",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "attorney general",
+        "ICE",
+        "court order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news about a Democratic primary outcome with no direct implications for institutional checks and balances, judicial independence, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:13.369Z"
+    },
+    {
+      "id": "c9f7df3934ed",
+      "title": "U.S., Ecuadorian forces target \"narco-terrorists\" in Ecuador military operations",
+      "url": "https://www.axios.com/2026/03/04/us-military-ecuador-operation-drugs-narco-terrorism",
+      "source": "Axios",
+      "published": "2026-03-04T06:22:06.000Z",
+      "description": "U.S. and Ecuadorian forces announced drug-trafficking military crackdown operations in Ecuador on Tuesday.\nThe big picture: U.S. Southern Command in a Tuesday night statement said the operations targeted \"Designated Terrorist Organizations\" and hailed the cooperation as \"a powerful example of the commitment of partners in Latin America and the Caribbean to combat the scourge of narco-terrorism.\"\n\nSOUTHCOM's commander, Marine Gen. Francis Donovan, met in Quito with senior Ecuadorian officials inc",
+      "keywords": [
+        "raid",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on routine U.S.-Ecuador military cooperation against drug trafficking organizations and does not involve domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:14.839Z"
+    },
+    {
+      "id": "042a64405e4e",
+      "title": "Exclusive: Researchers trick a bot that prescribes meds",
+      "url": "https://www.axios.com/2026/03/04/doctronic-utah-prescriptions-ai-jailbreak",
+      "source": "Axios",
+      "published": "2026-03-04T01:25:55.000Z",
+      "description": "Security researchers used relatively simple jailbreaking techniques to trick the AI system powering Utah's new prescription refill bot.\n\nResearchers were able to make the bot spread vaccine conspiracy theories, triple a patient's prescribed pain medication dosage, and recommend methamphetamine as treatment.\n\nWhy it matters: Critics warned this pilot could create safety risks — and researchers say the flaws persist, despite alerting the company in January.\n\nDriving the news: In a report shared fi",
+      "keywords": [
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article addresses AI safety and healthcare system vulnerabilities but does not directly concern institutional checks and balances, separation of powers, or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:14.215Z"
+    },
+    {
+      "id": "2689d9f68133",
+      "title": "Watch live: Top Women Shaping Policy 2026",
+      "url": "https://thehill.com/video-clips/5754375-watch-live-top-women-shaping-policy-2026/",
+      "source": "The Hill",
+      "published": "2026-03-04T12:00:00.000Z",
+      "description": "As the 119th Congress hits its stride during their second year in and the 2026 midterm cycle begins to take shape, women remain at the forefront of the most critical policy debates in Washington and across the nation. From the future of health care to housing, from education to the ethical frontiers of AI and…",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "This is a promotional feature article about women policymakers with no specific institutional action, policy change, or threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:14.255Z"
+    },
+    {
+      "id": "2992577ccf97",
+      "title": "Talarico prevails as Trump looms over Texas Senate GOP runoff",
+      "url": "https://thehill.com/newsletters/morning-report/5766462-trump-pressure-gop-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:59:13.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ Takeaways from Texas ▪ Americans race to leave Middle East ▪ Noem back on Capitol Hill for round 2  ▪ Upcoming primaries to watch Texas state Rep. James Talarico pulled off a major victory to become the Democratic nominee for Senate in Texas…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Article covers routine state-level primary election results with no direct implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:14.122Z"
+    },
+    {
+      "id": "33170e772b46",
+      "title": "Trump likely to get free hand on Iran from badly divided Congress",
+      "url": "https://thehill.com/homenews/senate/5765660-trump-iran-war-powers-act/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "Deep partisan divisions over how to respond to President Trump’s war against Iran are likely to give the president a free hand to launch missile strikes and bombing missions as he sees fit for weeks longer. A bipartisan resolution under the War Powers Act to stop further military action against Iran, which will receive a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional inability to exercise War Powers Act oversight represents a notable erosion of checks on executive military authority, though not yet unprecedented or irreversible.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:14.521Z"
+    },
+    {
+      "id": "c7397796a254",
+      "title": "5 questions on Iran as the House returns to Washington",
+      "url": "https://thehill.com/homenews/house/5765802-war-powers-resolution-congress/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "House lawmakers returned to Washington on Tuesday to confront the Iran conflict and joust over Congress’s role, or lack thereof, in governing the terms of the fight. President Trump launched the Iran operations with a hail of strikes early Saturday, after weeks of threats and a massive buildup of military power in the surrounding region.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This article addresses congressional oversight of military action, a notable check on executive power, but represents standard debate rather than institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:15.947Z"
+    },
+    {
+      "id": "5a59a78efa74",
+      "title": "GOP says it’s a targeted, limited combat operation, not a war, with Iran",
+      "url": "https://thehill.com/homenews/house/5765650-republican-denies-trump-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "Congressional Republicans are denying that President Trump is waging a war in Iran, arguing instead that the U.S. is responding to acts of war by the Iranian regime and engaging in a limited combat operation. “This isn’t a war. We haven’t declared war,” Sen. Markwayne Mullin (R-Okla.) said on CNN on Monday, later adding that Iranian Supreme…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises notable questions about congressional oversight and war powers authority, but represents political positioning rather than institutional action or policy change.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:15.813Z"
+    },
+    {
+      "id": "26dde76b4afa",
+      "title": "Trump’s Iran timeline spurs concern over US weapons stockpiles",
+      "url": "https://thehill.com/policy/defense/5765875-us-munitions-stockpile-iran-trump/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "The U.S. will likely start to feel strain on its munition stockpiles if America’s war with Iran stretches beyond the four-to-five-week timetable laid out by President Trump.  The Trump administration has said that its biggest wave of attacks on Iran is coming in the days ahead. And Trump on Tuesday insisted that the U.S. can…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses military readiness and foreign policy strategy rather than domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:15.816Z"
+    },
+    {
+      "id": "89e8a4f8bf20",
+      "title": "Iran conflict fails to move Democrats in DHS shutdown fight",
+      "url": "https://thehill.com/homenews/senate/5765703-democrats-dhs-shutdown-iran/",
+      "source": "The Hill",
+      "published": "2026-03-04T11:00:00.000Z",
+      "description": "Centrist Democrats in the Senate are showing little appetite to fund the Department of Homeland Security (DHS) and end the partial shutdown, despite Republicans trying to ramp up the pressure as the U.S. escalates its conflict with Iran. Talks between the White House and Democratic negotiators have made little progress in recent weeks as Democrats…",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting on budget negotiations and partisan disagreement, with no indication of checks and balances erosion or democratic institutional threat.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:15.826Z"
+    },
+    {
+      "id": "0a2f2c5ce696",
+      "title": "Former university president Seth Bodnar launches independent bid challenging Daines",
+      "url": "https://thehill.com/homenews/campaign/5766265-seth-bodnar-montana-senate-run/",
+      "source": "The Hill",
+      "published": "2026-03-04T10:00:00.000Z",
+      "description": "Former University of Montana president Seth Bodnar is launching an independent bid against Sen. Steve Daines (R-Mont.) this year, making a bet that voters in Big Sky Country have an appetite for a third-party candidate. “This country is in crisis, and our national political parties are failing us. Montanans are an independent people, and they…",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a candidate announcement with no direct implications for democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:16.021Z"
+    },
+    {
+      "id": "cdf70b5d25c1",
+      "title": "Talarico beats Crockett in Texas as GOP heads to runoff ",
+      "url": "https://thehill.com/homenews/campaign/5766310-texas-north-carolina-primary-elections-takeaways/",
+      "source": "The Hill",
+      "published": "2026-03-04T06:25:56.000Z",
+      "description": "Texas State Rep. James Talarico topped Rep. Jasmine Crockett (D-Texas) in an expensive and fiercely contested Senate Democratic primary on Tuesday while longtime Sen. John Cornyn (R-Texas) and Texas Attorney General Ken Paxton (R) head to a runoff in May in a race expected to get increasingly nasty. Voters in Texas, North Carolina and Arkansas…",
+      "keywords": [
+        "voter",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about primary results and candidate advancement with no direct implications for democratic checks and balances institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:17.328Z"
+    },
+    {
+      "id": "12b1867b3e40",
+      "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
+      "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T11:00:02.000Z",
+      "description": "",
+      "keywords": [
+        "impeach",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Article discusses potential congressional oversight response to executive action, representing notable but not yet formalized institutional checks, without evidence of unprecedented democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T12:06:17.954Z"
+    },
+    {
+      "id": "37152bb201f2",
+      "title": "'No to war’: Spain PM hits back over Trump’s threats to cut trade over military base access",
+      "url": "https://www.cnbc.com/2026/03/04/spain-pm-sanchez-trump-trade-nato-defense-iran-israel-crisis.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T10:47:58.000Z",
+      "description": "His comments come after the U.S. president pledged to cut off all trade with Madrid over its position on the Iran conflict.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a foreign policy dispute between the U.S. and Spain that does not directly implicate domestic democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:16.990Z"
+    },
+    {
+      "id": "cde5e92e5d97",
+      "title": "Talarico Bests Crockett in Texas Senate Primary, Republicans to Runoff",
+      "url": "https://www.rollingstone.com/politics/politics-news/talarico-beats-crockett-texas-senate-republicans-runoff-1235524709/",
+      "source": "Rolling Stone",
+      "published": "2026-03-04T08:04:06.000Z",
+      "description": "The first major contest of the 2026 primary cycle will send Christian progressive James Talarico to November's general election",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine election coverage of a primary contest with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T12:06:17.245Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-04T06:11:11.546Z"
+  "lastFetch": "2026-03-04T12:06:17.954Z"
 }
