@@ -38131,8 +38131,532 @@
       "reason": "This is routine election coverage of a primary contest with no direct implications for institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-04T12:06:17.245Z"
+    },
+    {
+      "id": "acc0f15aca62",
+      "title": "A Biden-era rule sought to stabilize child care. Why Trump wants it gone",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5727508/child-care-trump-biden-fraud-ccdf",
+      "source": "NPR Politics",
+      "published": "2026-03-04T15:57:42.000Z",
+      "description": "The Trump administration has proposed repealing a Biden-era rule that required states to change how they pay out child care subsidies, citing the potential for fraud.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine administrative policy disagreement over child care subsidy implementation with no direct impact on democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T18:10:22.929Z"
+    },
+    {
+      "id": "146b61481231",
+      "title": "Trump's new reasoning for Iran strikes. And, takeaways from the first 2026 primaries",
+      "url": "https://www.npr.org/2026/03/04/g-s1-112465/up-first-newsletter-iran-israel-us-trump-midterm-primary-elections-ice",
+      "source": "NPR Politics",
+      "published": "2026-03-04T12:17:25.000Z",
+      "description": "President Trump offers new reasoning for the U.S. attack on Iran. And, results from the first midterm primary of 2026 are in, providing an outlook for the matchups for key Senate seats.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news coverage of executive military decisions and electoral reporting without evidence of institutional erosion or democratic norm violations.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:22.741Z"
+    },
+    {
+      "id": "dbe0fb80f3c0",
+      "title": "Republicans Cornyn and Paxton advance to Texas Senate runoff",
+      "url": "https://www.pbs.org/newshour/politics/republicans-cornyn-and-paxton-advance-to-texas-senate-runoff",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T17:58:56.000Z",
+      "description": "Four-term Sen. John Cornyn and his allies spent nearly $70 million to survive the first round of the party's nomination fight on Tuesday. He was slightly ahead of conservative firebrand Ken Paxton, the state attorney general, with more votes still being counted on Wednesday.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of a primary election result with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:22.633Z"
+    },
+    {
+      "id": "257fcc3f927d",
+      "title": "WATCH LIVE: White House briefing may address U.S. strikes on Iran, war powers vote",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-briefing-may-address-u-s-strikes-on-iran-war-powers-vote",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T17:19:23.000Z",
+      "description": "For President Donald Trump, some of the sharpest criticism he's faced in the early days of the Iran war has come from once-loyal media figures far more accustomed to singing his praises.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Military action and media criticism raise questions about war powers oversight and press freedom, but the article appears to be a live briefing announcement rather than reporting on concrete institutional actions or policy changes.",
+      "categories": [
+        "congressional oversight",
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-04T18:10:22.817Z"
+    },
+    {
+      "id": "efeeed9f02fa",
+      "title": "WATCH LIVE: Senate expected to vote on war powers resolution after U.S.-Israeli strikes on Iran",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-expected-to-vote-on-war-powers-resolution-after-u-s-israeli-strikes-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T15:28:02.000Z",
+      "description": "The U.S. Senate is headed toward a vote Wednesday on President Donald Trump's decision to embark on a war against Iran, an extraordinary test in Congress for a conflict that has rapidly spread across the Middle East with no clear U.S. exit strategy.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Senate war powers vote represents a significant test of congressional oversight authority over executive military action, a core constitutional check on presidential power.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-04T18:10:23.931Z"
+    },
+    {
+      "id": "350efbcb5ff4",
+      "title": "A Trump-backed Republican is trailing his GOP challenger by just 2 votes",
+      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-senate-primary-phil-berger-sam-page-trump-rcna261650",
+      "source": "NBC News",
+      "published": "2026-03-04T14:14:54.000Z",
+      "description": "North Carolina state Senate President Pro Tempore Phil Berger is running two votes behind his primary challenger, Sam Page, despite having the endorsement of President Donald Trump, according to unofficial state election results.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine election result report about a state-level primary race with no implications for federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:24.778Z"
+    },
+    {
+      "id": "134dc46f3dc6",
+      "title": "Rep. Julie Johnson heads to Democratic primary runoff against predecessor Colin Allred",
+      "url": "https://www.nbcnews.com/politics/2026-election/julie-johnson-colin-allred-texas-house-primary-election-runoff-rcna261354",
+      "source": "NBC News",
+      "published": "2026-03-04T17:28:37.000Z",
+      "description": "Rep. Julie Johnson and former Rep. Colin Allred will face each other again in a Democratic primary runoff, NBC News projects,",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a Democratic primary runoff with no implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:24.894Z"
+    },
+    {
+      "id": "dbf58a3bfb0f",
+      "title": "Inside the Scramble to Get Americans Out of Middle East",
+      "url": "https://www.today.com/video/stranded-americans-speak-out-on-scramble-to-flee-middle-east-258673733899",
+      "source": "NBC News",
+      "published": "2026-03-04T13:02:41.000Z",
+      "description": "As Iran zeroes in on United States interests across the Middle East, stranded Americans are trying to flee but face a lack of flights with multiple countries closing their air space. A government hotline tells callers to “not rely on the U.S. government for assisted departure or evacuation at this time.” NBC’s Keir Simmons reports for TODAY.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a news report on an international crisis and evacuation situation that does not directly involve domestic democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:24.929Z"
+    },
+    {
+      "id": "e57604431902",
+      "title": "Democrats have flipped 9 seats in state legislative special elections under Trump while Republicans are at 0",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-flipped-9-seats-state-legislative-special-elections-trump-rcna261633",
+      "source": "NBC News",
+      "published": "2026-03-04T18:03:31.000Z",
+      "description": "Democrat Alex Holladay prevailed in a special election on Tuesday for a state legislative seat in Arkansas, marking the 9th time since President Donald Trump took office last year that the party has flipped control of a state legislative seat in a special election",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "State legislative special election results reflect normal electoral dynamics and voter preferences but do not directly implicate federal democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:25.961Z"
+    },
+    {
+      "id": "6b8eb867e40a",
+      "title": "Democratic Reps. Green, Menefee advance to runoff in redrawn Texas district",
+      "url": "https://www.cbsnews.com/news/al-green-texas-18th-congressional-district-primary-results-2026-midterm-elections/",
+      "source": "CBS News",
+      "published": "2026-03-04T16:44:03.000Z",
+      "description": "Rep. Christian Menefee, who was first elected earlier this year in a special election, is running against longtime Rep. Al Green, who had been gerrymandered into the same district.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine election news reporting on a Democratic primary runoff resulting from redistricting, with no direct bearing on institutional checks and balances.",
+      "categories": [
+        "election-infrastructure"
+      ],
+      "scoredAt": "2026-03-04T18:10:26.189Z"
+    },
+    {
+      "id": "64d56f79762e",
+      "title": "Watch Live: Gov. Walz, AG Ellison testify at hearing on fraud",
+      "url": "https://www.cbsnews.com/news/tim-walz-keith-ellison-testify-house-oversight-fraud-hearing/",
+      "source": "CBS News",
+      "published": "2026-03-04T15:30:00.000Z",
+      "description": "Minnesota Gov. Tim Walz and Attorney General Keith Ellison were called to testify at a House Oversight Committee hearing on fraud and the \"misuse\" of federal funds in the state.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 4,
+      "reason": "A routine congressional oversight hearing on state-level fund management raises standard accountability questions but lacks evidence of systemic democratic erosion or unprecedented institutional challenges.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T18:10:26.175Z"
+    },
+    {
+      "id": "2abf097906fd",
+      "title": "Bondi rescinds policy banning some DOJ employees from attending partisan events",
+      "url": "https://www.cbsnews.com/news/pam-bondi-rescinds-ban-doj-employees-partisan-events/",
+      "source": "CBS News",
+      "published": "2026-03-04T15:18:00.000Z",
+      "description": "Attorney General Pam Bondi has rescinded a policy that prohibited political appointees at the Justice Department from attending campaign events or fundraisers, according to a memo seen by CBS News.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Rescinding ethics guardrails on DOJ political appointees' partisan activity represents a notable institutional policy shift affecting DOJ independence norms, but lacks the unprecedented scale or immediate democratic erosion that would constitute a critical threat.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-04T18:10:26.507Z"
+    },
+    {
+      "id": "b80de0968cb2",
+      "title": " Texan James Talarico becomes a fresh face of Democrats' midterm hopes after Senate primary win",
+      "url": "https://abcnews.com/Politics/wireStory/texan-james-talarico-fresh-face-democrats-midterm-hopes-130750143",
+      "source": "ABC News",
+      "published": "2026-03-04T15:06:56.000Z",
+      "description": "Texas Democrats have picked James Talarico as their Senate nominee, and the state lawmaker now becomes a national voice against President Donald Trump",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a state primary election outcome with no direct implications for federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:27.298Z"
+    },
+    {
+      "id": "24c8ab558fb7",
+      "title": " Takeaways from the first elections of the 2026 midterm campaigns",
+      "url": "https://abcnews.com/Politics/wireStory/takeaways-elections-2026-midterm-campaigns-130703462",
+      "source": "ABC News",
+      "published": "2026-03-04T11:54:37.000Z",
+      "description": "Primary elections set up major Senate fights in Texas and North Carolina, and they also expose fresh tension over voting rules",
+      "keywords": [
+        "election",
+        "voting",
+        "midterm"
+      ],
+      "significance": 4,
+      "reason": "Primary election results and emerging campaign dynamics are notable developments in electoral politics, but the article addresses routine campaign news rather than systemic threats to democratic institutions or checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-04T18:10:27.691Z"
+    },
+    {
+      "id": "2fdb43090005",
+      "title": "The labor market is finally stabilizing, data shows",
+      "url": "https://www.axios.com/2026/03/04/ai-trump-tariffs-jobs-market-adp",
+      "source": "Axios",
+      "published": "2026-03-04T16:57:05.000Z",
+      "description": "New private sector data shows signs of life for a labor market that's stabilizing after a dismal year for hiring.\nWhy it matters: It's a welcome development in an economy digesting global trade uncertainty, fast-moving AI technological advancements and a new geopolitical shock.\n\nYet just two sectors are carrying the entire labor market, making hiring more fragile than the headline numbers suggest.\n\nWhat they're saying: \"In our data, job market growth is gaining traction. In employment terms, Feb",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article reports routine economic data about labor market trends with no connection to democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:27.389Z"
+    },
+    {
+      "id": "ee54e9f0b2fb",
+      "title": "Brutal Texas primary night points to trouble ahead for House incumbents",
+      "url": "https://www.axios.com/2026/03/04/texas-primary-gonzales-green-crenshaw-allred",
+      "source": "Axios",
+      "published": "2026-03-04T16:03:30.000Z",
+      "description": "One House Republican lost his seat outright in Texas' primary elections Tuesday night, and four other House members will face grueling, 12-week runoff campaigns.\nWhy it matters: While short of a full-on wipeout, it's not the kind of result that instills confidence in lawmakers who are trying to withstand the anti-incumbency wave roiling both parties right now.\n\nA staggering 30 House Democrats are facing at least one primary challenger who has raised $100,000 or more. A dozen of them have been ou",
+      "keywords": [
+        "election",
+        "johnson",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral reporting about primary outcomes with no direct connection to institutional checks and balances, democratic guardrails, or the tracking categories specified.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:27.421Z"
+    },
+    {
+      "id": "c40c32e600e9",
+      "title": "Dem vet goes after ‘chickenhawks’ promoting Iran strikes",
+      "url": "https://thehill.com/homenews/house/5767233-dem-vet-goes-after-chickenhawks-promoting-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-04T18:07:30.000Z",
+      "description": "Rep. Pat Ryan (D-N.Y.) on Wednesday went after those Republicans who are adopting tough language to promote the Iran conflict without ever having served in the Armed Forces themselves.  “If I hear one more chickenhawk who’s never served a single day in uniform — sitting in a gold-plated office in D.C., or in Mar-a-Lago, or…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on war rhetoric by a member of Congress, lacking systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:27.365Z"
+    },
+    {
+      "id": "c20873176592",
+      "title": "Jayapal brings US citizens arrested by ICE to confront Noem",
+      "url": "https://thehill.com/homenews/house/5767174-jayapal-citizens-ice-noem/",
+      "source": "The Hill",
+      "published": "2026-03-04T18:04:29.000Z",
+      "description": "Rep. Pramila Jayapal (D-Wash.) accused the Department of Homeland Security (DHS) of violating the rights of American citizens by detaining them, inviting four guests who she said were held in custody to a hearing Wednesday featuring Homeland Security Secretary Kristi Noem. Jayapal said the department was “unlawfully detaining U.S. citizens in violation of the Fourth…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight of executive agency practices is important, but this represents routine legislative scrutiny rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-04T18:10:29.008Z"
+    },
+    {
+      "id": "c2a660ff2d04",
+      "title": "Steve Bannon gets an unusual assist from Trump’s Justice Department",
+      "url": "https://thehill.com/opinion/judiciary/5764913-trump-justice-department-bannon/",
+      "source": "The Hill",
+      "published": "2026-03-04T18:00:00.000Z",
+      "description": "Adhering to the rule of law has not been a hallmark of the Justice Department under Donald Trump. Moving to dismiss Bannon’s indictment is just another sign of its willingness to play fast and loose with facts and law.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 8,
+      "reason": "DOJ intervention to dismiss charges against a political ally represents significant institutional erosion of prosecutorial independence and equal application of law.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-04T18:10:29.350Z"
+    },
+    {
+      "id": "e1032d637775",
+      "title": "Graham on Netanyahu call: ‘Only a matter of when’ Iran regime falls",
+      "url": "https://thehill.com/homenews/senate/5767078-graham-iran-regime-fall/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:59:05.000Z",
+      "description": "Sen. Lindsey Graham (R-S.C.) on Wednesday said that in his view, after having a phone call with Israeli Prime Minister Benjamin Netanyahu, “it’s only a matter of when” Iran’s regime falls. Graham described the call as “very good” and said Netanyahu, “expressed his gratitude to President Trump, our brave men and women in the military,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political commentary about a foreign policy discussion with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:28.524Z"
+    },
+    {
+      "id": "3376d08833ca",
+      "title": "Live updates: Leavitt briefs reporters amid Iran attacks; Hegseth promises ‘more and larger’ strikes",
+      "url": "https://thehill.com/homenews/administration/5766516-live-updates-hegseth-iran-texas-primaries-noem-dhs/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:56:00.000Z",
+      "description": "White House press secretary Karoline Leavitt is briefing reporters on Wednesday after top military officials announced plans for “more and larger” strikes on Iran. Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine briefed reporters earlier about the U.S. attacks on the Middle Eastern country, with Caine saying more bombing is on…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of military briefings and foreign policy announcements with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:28.625Z"
+    },
+    {
+      "id": "c96aaf875df3",
+      "title": "Watch live: White House briefs reporters as concerns rise over widening Iran war",
+      "url": "https://thehill.com/video-clips/5767082-watch-live-white-house-press-briefing-donald-trump-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:52:04.000Z",
+      "description": "White House press secretary Karoline Leavitt will brief reporters Wednesday afternoon as concerns rise over the U.S. military’s operation in Iran and the risk of a wider war. The U.S. and Israel launched joint strikes on Iran over the weekend, killing supreme leader Ali Khamenei. Defense Secretary Pete Hegseth earlier Wednesday previewed that more military…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "A routine press briefing announcement regarding military operations lacks substantive information about democratic checks, institutional independence, or policy changes affecting the tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:28.997Z"
+    },
+    {
+      "id": "8cbb8719f6a4",
+      "title": "Kelly: Iran operation ‘not going well’ for Trump administration",
+      "url": "https://thehill.com/homenews/senate/5767139-mark-kelly-criticizes-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:45:13.000Z",
+      "description": "Sen. Mark Kelly (D-Ariz.) sharply criticized the Trump administration’s launch of Operation Epic Fury against Iran last weekend.  “They don’t seem to know what they’re doing or why they did this,” Kelly told MS NOW on Wednesday morning.  “I think this is a perfect example of what happens when you have a leader of a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political criticism by a senator regarding foreign policy execution, containing no information about institutional checks, erosion of democratic safeguards, or systemic governance issues.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:30.545Z"
+    },
+    {
+      "id": "9116b12880d1",
+      "title": "Conan O’Brien: Correspondents’ dinner crowd ‘think they’re the coolest people in the world’",
+      "url": "https://thehill.com/blogs/in-the-know/5767147-conan-obrien-whca-dinner/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:40:21.000Z",
+      "description": "Former White House Correspondents’ Association (WHCA) dinner entertainer Conan O’Brien says the audience at the black-tie event is far from a comedian’s typical crowd, and they “think they’re the coolest people in the world.” “That is not a normal crowd,” O’Brien said of Correspondents’ dinner revelers, while he appeared on a new episode of Michelle…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment commentary about a social event with no substantive connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:30.364Z"
+    },
+    {
+      "id": "6a199b79767f",
+      "title": "Johnson: ‘Everybody in America better watch’ how lawmakers vote on DHS funding",
+      "url": "https://thehill.com/homenews/house/5767074-mike-johnson-dhs-funding/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:17:31.000Z",
+      "description": "Speaker Mike Johnson (R-La.) told reporters on Wednesday that “everybody in America” should watch how their representatives vote on the Department of Homeland Security (DHS) funding bill expected to come to the floor on Thursday. “You better watch that board. And everybody in America better watch that board. Anybody who votes to block funding for…",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A Speaker's public pressure on voting records is notable for potential democratic implications but represents routine political messaging rather than institutional action or structural erosion.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-04T18:10:30.413Z"
+    },
+    {
+      "id": "88e127ce1c73",
+      "title": "Iranian leader of Trump assassination plot killed, Hegseth says",
+      "url": "https://thehill.com/policy/defense/5767029-iranian-leader-killed-trump/",
+      "source": "The Hill",
+      "published": "2026-03-04T17:11:34.000Z",
+      "description": "Defense Secretary Pete Hegseth on Wednesday said the Iranian leader who planned to assassinate President Trump was killed. “Yesterday, the leader of the unit who attempted to assassinate President Trump has been hunted down and killed. Iran tried to kill President Trump, and President Trump got the last laugh,” Hegseth said during a press briefing.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine national security announcement regarding a foreign military action with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:30.272Z"
+    },
+    {
+      "id": "cdb1c9ece048",
+      "title": "Newsom accepts ‘Cup O Peace’ award from Kimmel: ‘Eat your heart out, Donald’",
+      "url": "https://thehill.com/blogs/in-the-know/5767016-newsom-kimmel-trump-peace-award/",
+      "source": "The Hill",
+      "published": "2026-03-04T16:54:03.000Z",
+      "description": "California Gov. Gavin Newsom (D) has a message for President Trump after being presented with a satirical peace award on Jimmy Kimmel’s late-night TV show: “Eat your heart out, Donald.” “I know you have an ongoing back-and-forth with the president, as do I,” the ABC “Jimmy Kimmel Live!” host told Newsom on his Tuesday show. “We have…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is entertainment commentary featuring a politician on a late-night talk show with no substantive impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:30.383Z"
+    },
+    {
+      "id": "5fb618faf944",
+      "title": "Bessent downplays Iran attacks: ‘The region is not on fire’",
+      "url": "https://thehill.com/homenews/5766946-bessent-downplays-iran-attacks-the-region-is-not-on-fire/",
+      "source": "The Hill",
+      "published": "2026-03-04T16:31:05.000Z",
+      "description": "Treasury Secretary Scott Bessent joined others in the Trump administration in decrying “fantastical media accounts” about Iranian counterstrikes on Wednesday morning.  “The region is not on fire,” Bessent told CNBC.  The secretary was responding to a question about the stabilization of the Israeli dollar following joint strikes from the country and the U.S. on Iran…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A Treasury Secretary's public statement about regional geopolitical stability and media characterization is routine political commentary without direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-04T18:10:31.529Z"
+    },
+    {
+      "id": "6c1c96e0a3a4",
+      "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
+      "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T17:58:54.000Z",
+      "description": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While a Fed chair nomination involves institutional independence concerns, this represents a notable but not yet urgent development—the nomination process itself is routine, though the conditional blocking based on a separate investigation raises questions about potential politicization of oversight.",
+      "categories": [
+        "DOJ independence",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-04T18:10:32.092Z"
+    },
+    {
+      "id": "8721766d4164",
+      "title": "Bessent says global 15% tariff starts this week, predicts Trump duties will return to old levels later this year",
+      "url": "https://www.cnbc.com/2026/03/04/bessent-says-global-15percent-tariff-starts-this-week-move-back-to-prior-rates-within-5-months.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T14:38:23.000Z",
+      "description": "The Supreme Court last month ruled that President Donald Trump's sweeping global tariffs are not authorized under the law known as IEEPA.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While the article references a significant Supreme Court ruling on executive authority, the reporting focuses on Treasury Secretary statements about tariff implementation rather than the institutional conflict itself, making it notable but not presenting new information about the checks and balances challenge.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-04T18:10:31.930Z"
+    },
+    {
+      "id": "bf9279296da3",
+      "title": "ICE Comes to the American Heartland",
+      "url": "https://www.rollingstone.com/politics/politics-features/ice-shakopee-minnesota-1235524009/",
+      "source": "Rolling Stone",
+      "published": "2026-03-04T13:00:00.000Z",
+      "description": "After the government declares mission complete in Minneapolis, aggressive ICE occupation continues in small-town Minnesota",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 7,
+      "reason": "Documents aggressive immigration enforcement operations in civilian communities that raises concerns about civil rights protections, oversight mechanisms, and potential civil liberties violations.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-04T18:10:31.453Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-04T12:06:17.954Z"
+  "lastFetch": "2026-03-04T18:10:32.092Z"
 }
