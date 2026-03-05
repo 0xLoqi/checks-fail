@@ -39543,8 +39543,363 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-05T00:11:04.381Z"
+    },
+    {
+      "id": "7a48213b1039",
+      "title": "White House formally nominates Kevin Warsh to be next Federal Reserve chair",
+      "url": "https://www.pbs.org/newshour/politics/white-house-formally-nominates-kevin-warsh-to-be-next-federal-reserve-chair",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T00:28:13.000Z",
+      "description": "Warsh's nomination, which was initially announced Jan. 30, was forwarded to the Senate Wednesday, where it will be taken up by the Senate Banking Committee.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 3,
+      "reason": "A Federal Reserve chair nomination is a routine constitutional process that follows standard procedures, though the Fed chair's independence from political pressure is relevant to checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T06:12:54.321Z"
+    },
+    {
+      "id": "d60e18edea4d",
+      "title": "Trump administration under fire as thousands of Americans are stranded in war zone ",
+      "url": "https://www.nbcnews.com/politics/national-security/trump-administration-fire-thousands-americans-are-stranded-war-zone-rcna261682",
+      "source": "NBC News",
+      "published": "2026-03-05T04:38:22.000Z",
+      "description": "With thousands of Americans stranded in the Middle East, the Trump administration is facing criticism from Democratic lawmakers and former diplomats.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article describes a foreign policy crisis and diplomatic criticism, which does not directly implicate the 12 tracked categories of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:53.728Z"
+    },
+    {
+      "id": "f0b9c7711de1",
+      "title": "House lawmakers are heading for the exit at the fastest rate in decades",
+      "url": "https://www.nbcnews.com/politics/congress/house-lawmaker-retirements-hit-second-century-rcna261850",
+      "source": "NBC News",
+      "published": "2026-03-05T03:02:42.000Z",
+      "description": "The number of congressional retirements announced in the House this election cycle is the second highest since recordkeeping began nearly a century ago.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 6,
+      "reason": "High congressional turnover weakens institutional continuity and oversight capacity, but reflects electoral dynamics rather than direct institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T06:12:53.670Z"
+    },
+    {
+      "id": "25bab52f8f5a",
+      "title": "Thousands of Americans stranded in Middle East",
+      "url": "https://www.nbcnews.com/nightly-news/video/thousands-of-americans-stranded-in-middle-east-258721349732",
+      "source": "NBC News",
+      "published": "2026-03-05T00:11:47.000Z",
+      "description": "WIth Iran continuing its drone and missile attacks in the Middle East, travel has been chaotic. The Trump administration says it is chartering flights and opening up seats on military planes to help stranded Americans. NBC News’ Keir Simmons reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers a humanitarian/logistical response to a foreign crisis and does not directly implicate any of the 12 democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:55.130Z"
+    },
+    {
+      "id": "a19ac2bc1927",
+      "title": "GOP senator helps Capitol Police remove anti-war protester during hearing",
+      "url": "https://www.nbcnews.com/politics/congress/gop-senator-assists-capitol-police-removal-anti-war-protestor-hearing-rcna261854",
+      "source": "NBC News",
+      "published": "2026-03-05T03:02:26.000Z",
+      "description": "WASHINGTON — Sen. Tim Sheehy, R-Mont., helped U.S.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "A senator assisting with protester removal during a hearing is routine legislative procedure, not indicative of systemic democratic erosion.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-03-05T06:12:55.369Z"
+    },
+    {
+      "id": "4eacd252256e",
+      "title": "GOP Sen. Steve Daines of Montana says he won't seek re-election",
+      "url": "https://www.nbcnews.com/politics/congress/republican-senator-steve-daines-montana-wont-seek-re-election-rcna261847",
+      "source": "NBC News",
+      "published": "2026-03-05T01:05:08.000Z",
+      "description": "The two-term senator endorsed Kurt Alme, the U.S. attorney for Montana, as his successor.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A routine announcement of a senator's retirement decision with an endorsement is standard political news without implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:55.031Z"
+    },
+    {
+      "id": "05d4ac4fbe35",
+      "title": "DOJ quietly shelves Biden autopen investigation that Trump demanded",
+      "url": "https://www.nbcnews.com/politics/trump-administration/doj-shelves-biden-autopen-probe-rcna261810",
+      "source": "NBC News",
+      "published": "2026-03-05T00:21:53.000Z",
+      "description": "The Justice Department shelved an investigation into former President Joe Biden's use of an autopen, a person briefed on the matter told NBC News on Wednesday.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The shelving of a politically-motivated investigation suggests some DOJ independence from political pressure, but the quiet handling and lack of transparency warrant monitoring for patterns of selective enforcement.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-05T06:12:55.561Z"
+    },
+    {
+      "id": "f56e9ad7738b",
+      "title": "GOP senator joins police in ejecting protester from Capitol Hill hearing",
+      "url": "https://www.cbsnews.com/news/tim-sheehy-joins-police-in-ejecting-protester-from-capitol-hill-hearing/",
+      "source": "CBS News",
+      "published": "2026-03-05T05:54:42.000Z",
+      "description": "A Senate Republican assisted several police officers in ejecting a man who interrupted a Capitol Hill hearing on Wednesday to object to the U.S. and Israel's war with Iran.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This describes routine Capitol security procedures for managing disruptive behavior during hearings, with no indication of systemic democratic erosion or institutional abuse.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:56.414Z"
+    },
+    {
+      "id": "4d9a08b6cc74",
+      "title": "GOP Sen. Steve Daines of Montana won't seek reelection",
+      "url": "https://www.cbsnews.com/news/republican-steve-daines-senate-montana-wont-seek-reelection/",
+      "source": "CBS News",
+      "published": "2026-03-05T01:26:10.000Z",
+      "description": "Sen. Steve Daines said he had wrestled with the decision for months.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A senator's retirement announcement is routine political news with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:56.392Z"
+    },
+    {
+      "id": "a2e4e624f0b9",
+      "title": "Man arrested in Virginia is latest Jan. 6 defendant to face new charges",
+      "url": "https://www.cbsnews.com/news/jan-6-defendant-arrested-new-charges/",
+      "source": "CBS News",
+      "published": "2026-03-05T00:23:53.000Z",
+      "description": "Jonathan Munafo is among the Jan. 6 riot defendants who have been arrested on charges in new cases in the months after their pardons.",
+      "keywords": [
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but not unprecedented legal development regarding post-pardon prosecutions, touching on judicial independence and potential political retribution concerns without constituting an immediate systemic threat to democratic checks.",
+      "categories": [
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-05T06:12:56.509Z"
+    },
+    {
+      "id": "9a90a1ccda57",
+      "title": "Trade court orders Trump administration to kickstart tariff refund process",
+      "url": "https://www.axios.com/2026/03/05/trump-tariff-refunds-trade-court-ruling",
+      "source": "Axios",
+      "published": "2026-03-05T03:20:47.000Z",
+      "description": "A top trade court ordered the Trump administration on Wednesday to start refunding tariffs to U.S. businesses. \nWhy it matters: The order is the most significant to date in what is expected to be a politically fraught, and possibly lengthy, process of getting hundreds of billions of dollars back to importers.\n\nIt comes roughly two weeks after the Supreme Court smacked down many of the tariffs that President Trump has imposed since taking office.\n\nWhat they're saying: \"We want to work out a metho",
+      "keywords": [
+        "ICE",
+        "court order",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A judicial order enforcing tariff refunds demonstrates functional checks on executive power, but represents routine judicial review of economic policy rather than a systemic threat or defense of democratic institutions.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-05T06:12:56.620Z"
+    },
+    {
+      "id": "49b5195ec823",
+      "title": "Kurds backed by Mossad, CIA could lead next phase of war in Iran",
+      "url": "https://www.axios.com/2026/03/05/iran-war-us-israel-kurds-cia-mossad",
+      "source": "Axios",
+      "published": "2026-03-05T02:55:14.000Z",
+      "description": "Militants from several Kurdish Iranian factions are preparing for a possible  ground offensive against Iran's regime in the northwestern part of the country, according to U.S. and Israeli officials and a senior official in one of the Iranian-Kurdish factions. \nWhy it matters: A Kurdish ground offensive coordinated with the U.S.-Israeli bombing campaign against Tehran would be a potential way to increase pressure on the regime and encourage an internal rebellion that could spread to other parts o",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy reporting about international military coordination that does not directly implicate U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:56.380Z"
+    },
+    {
+      "id": "1371f5cb1fcb",
+      "title": "Scoop: Trump officials broker massive U.S.-Venezuela gold deal",
+      "url": "https://www.axios.com/2026/03/05/trump-us-venezuela-gold-deal",
+      "source": "Axios",
+      "published": "2026-03-05T01:57:30.000Z",
+      "description": "Venezuela's state-owned mining company on Monday inked a multimillion-dollar deal to sell as many as 1,000 kilograms of gold destined for U.S. markets, two sources familiar with the deal tell Axios.\nWhy it matters: The arrangement shows the tightening commercial bounds between Venezuela and the U.S. after President Trump ousted that nation's indicted socialist dictator and exerted de facto control over its oil-rich petroleum company.\n\nZoom in: The gold deal requires state-owned company Minerven ",
+      "keywords": [
+        "ICE",
+        "trump",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable shift in executive foreign policy and potential corruption/self-dealing concerns regarding resource extraction deals, but lacks evidence of direct institutional checks erosion or unprecedented democratic violation.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T06:12:57.755Z"
+    },
+    {
+      "id": "2d1d3f3221d1",
+      "title": "How Iran's Strait of Hormuz shutdown could hit the global economy",
+      "url": "https://www.axios.com/2026/03/05/iran-war-strait-of-hormuz-shutdown-us-global-economy",
+      "source": "Axios",
+      "published": "2026-03-05T00:53:11.000Z",
+      "description": "The U.S. and Israel's war with Iran is likely to impact people around the world as tensions escalate around the Strait of Hormuz, a waterway on Iran's southern coast, where traffic has ground to a halt. \nWhy it matters: Trade disruptions along this key waterway on Iran's southern coast that handles 25% of the world's maritime oil trade and 20% of liquefied natural gas shipments  will likely produce a domino effect across the global economy.\n\nAbout 33% of the world's fertilizers, including sulfur",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article addresses geopolitical and economic consequences of foreign conflict with no direct relevance to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:57.435Z"
+    },
+    {
+      "id": "1af003774f49",
+      "title": "Scoop: White House casts doubt on Pentagon-Anthropic reconciliation",
+      "url": "https://www.axios.com/2026/03/04/pentagon-anthropic-white-house-amodei",
+      "source": "Axios",
+      "published": "2026-03-04T22:08:23.000Z",
+      "description": "Anthropic CEO Dario Amodei's comments to staff disparaging the Trump administration could blow up chances of a resolution between the AI company and the Pentagon, an administration official tells Axios. \nWhy it matters: Rival OpenAI — and lawmakers across party lines — are pushing for an agreement, as the Pentagon's threat to designate Anthropic a supply chain risk looms. \n\nDriving the news: The Information reported that Amodei sent a memo to staff last Friday saying President Trump disliked Ant",
+      "keywords": [
+        "white house",
+        "classified",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine business/political news about corporate-government negotiations involving an AI company, with no direct impact on institutional checks and balances or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:57.459Z"
+    },
+    {
+      "id": "2225b2ddac11",
+      "title": "Greene fumes over Trump’s demand in Texas Senate runoff",
+      "url": "https://thehill.com/homenews/campaign/5768370-texas-senate-trump-greene/",
+      "source": "The Hill",
+      "published": "2026-03-05T03:57:33.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) went after President Trump over his demand for one of the two remaining candidates in the Texas Republican Senate primary to drop out after he makes an endorsement. “Trump now says he is going to endorse either [Sen. John] Cornyn [(R-Texas)] or [Texas Attorney General Ken] Paxton and demands…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party disagreement over a primary endorsement, with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:57.380Z"
+    },
+    {
+      "id": "1a7b7c3617a8",
+      "title": "Talarico gives defiant victory party speech: ‘There is something happening in Texas’",
+      "url": "https://thehill.com/homenews/campaign/5768341-texas-democratic-senate-talarico-victory/",
+      "source": "The Hill",
+      "published": "2026-03-05T03:22:41.000Z",
+      "description": "Texas Democratic Senate candidate James Talarico gave a defiant and hopeful speech at a victory party Wednesday night, a day after he won his party’s primary. “The number of Texans who have never voted before but showed up in this election is unprecedented. The number of independents and Republicans who voted in this Democratic primary…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign news about a primary election victory speech with no direct bearing on institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-05T06:12:57.772Z"
+    },
+    {
+      "id": "884d220e5f54",
+      "title": "Pentagon identifies 5th service member killed in Kuwait drone attack",
+      "url": "https://thehill.com/policy/defense/5768319-iranian-drone-attack-kuwait/",
+      "source": "The Hill",
+      "published": "2026-03-05T02:45:54.000Z",
+      "description": "The Defense Department (DOD) late Wednesday released the name of the fifth U.S. service member killed over the weekend after an Iranian drone struck a tactical operations center in Kuwait. Maj. Jeffrey R. O’Brien, 45, of Indianola, Iowa, died on Sunday at Shuaiba Port during an unmanned aircraft system attack, the Pentagon said in a…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news report about military casualty identification with no bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:58.602Z"
+    },
+    {
+      "id": "381e31b7f9f6",
+      "title": "Steve Daines not running for reelection in Montana",
+      "url": "https://thehill.com/homenews/campaign/5768253-sen-steve-daines-retires/",
+      "source": "The Hill",
+      "published": "2026-03-05T01:41:33.000Z",
+      "description": "Sen. Steve Daines (R-Mont.) said Wednesday he is not making a reelection bid in this year’s midterm, ending a career in Congress that included serving in the House and Senate. “Serving the people of Montana in the U.S. House and the U.S. Senate the past 13 years has been the greatest honor of my professional…",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 1,
+      "reason": "A routine announcement of a senator's retirement decision with no direct bearing on institutional checks and balances, democratic processes, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:58.929Z"
+    },
+    {
+      "id": "373f3e7fa08e",
+      "title": "Utah Republican announces he won’t seek reelection",
+      "url": "https://thehill.com/homenews/campaign/5768186-utah-gop-rep-retires/",
+      "source": "The Hill",
+      "published": "2026-03-05T01:00:01.000Z",
+      "description": "Rep. Burgess Owens (R-Utah) said Wednesday that he will not run for reelection, joining a notable mass of House Republicans not running for Congress again this year. “After prayer, reflection, and many long conversations, I have decided that I will not seek reelection in 2026. I will complete this term fully committed to my work…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A single representative's retirement announcement is routine political news with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:58.681Z"
+    },
+    {
+      "id": "70769af045bd",
+      "title": "Republicans grill Walz, Ellison in heated hearing: 3 takeaways",
+      "url": "https://thehill.com/homenews/house/5768169-walz-ellison-oversight-hearing/",
+      "source": "The Hill",
+      "published": "2026-03-05T00:47:31.000Z",
+      "description": "Republicans on the House Oversight and Government Reform Committee on Wednesday tore into Minnesota Gov. Tim Walz (D) and state Attorney General Keith Ellison (D) over their handling of a fraud scandal within Minnesota’s social services programs. President Trump has made the scam, and the fact that many of those convicted were of Somali descent,…",
+      "keywords": [
+        "attorney general",
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine partisan hearing on state-level administrative matters with no direct bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T06:12:59.202Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-05T00:11:04.565Z"
+  "lastFetch": "2026-03-05T06:12:59.202Z"
 }
