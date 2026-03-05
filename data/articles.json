@@ -38655,8 +38655,896 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-03-04T18:10:31.453Z"
+    },
+    {
+      "id": "6a6f2d23fd42",
+      "title": "Trump faces criticism for not have evacuation plans in place before starting the war",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734489/trump-faces-criticism-for-not-have-evacuation-plans-in-place-before-starting-the-war",
+      "source": "NPR Politics",
+      "published": "2026-03-04T22:39:57.000Z",
+      "description": "As Iranian strikes target U.S. facilities across the Middle East, the State Department  races to evacuate thousands of Americans caught in a rapidly evolving war zone.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Raises questions about executive preparedness and crisis management competency, with potential implications for congressional oversight and institutional accountability, but represents operational rather than systemic democratic erosion.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T00:10:44.157Z"
+    },
+    {
+      "id": "16788a834d60",
+      "title": "Senate committee advances Trump's nominee for public lands chief",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5732949/senate-committee-advances-trumps-nominee-for-public-lands-chief",
+      "source": "NPR Politics",
+      "published": "2026-03-04T21:52:00.000Z",
+      "description": "President Trump's controversial nominee to lead the nation's largest public lands agency faces an initial confirmation vote Wednesday as Democrats point to his past support to sell federal lands.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A contentious cabinet nomination represents a notable institutional check through Senate oversight, but lacks the unprecedented nature or direct erosion of democratic safeguards that would elevate it to critical significance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:44.248Z"
+    },
+    {
+      "id": "47f518f6830d",
+      "title": "A split Senate votes against measure to constrain Trump's authorities in Iran",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5735867/war-powers-congress-iran",
+      "source": "NPR Politics",
+      "published": "2026-03-04T21:50:29.000Z",
+      "description": "Democrats in the Senate were facing an uphill climb Wednesday in their push to restrain President Trump's ability to wage war against Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A failed Senate measure on war powers reflects ongoing congressional oversight debate but represents routine legislative activity rather than institutional erosion or major policy change.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:44.707Z"
+    },
+    {
+      "id": "9fe4a2998989",
+      "title": "With launch of Iran war, Trump continues pattern of breaking presidential norms",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5732493/with-launch-of-iran-war-trump-continues-pattern-of-breaking-presidential-norms",
+      "source": "NPR Politics",
+      "published": "2026-03-04T21:48:27.000Z",
+      "description": "NPR's Scott Detrow talks with Susan Glasser, who writes the \"Letters from Trump's Washington\" column in The New Yorker, about the war on Iran and how its early days differ from historical norms.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is opinion/analysis commentary on presidential norms and foreign policy decision-making rather than reporting on a specific institutional action, policy change, or ruling affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:43.959Z"
+    },
+    {
+      "id": "773256d1d69f",
+      "title": "Sen. Katie Britt says Trump has the authority to 'finish the job' in Iran",
+      "url": "https://www.pbs.org/newshour/show/sen-katie-britt-says-trump-has-the-authority-to-finish-the-job-in-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T23:40:45.000Z",
+      "description": "For perspective on how Congress is weighing the unfolding situation in the Middle East, Geoff Bennett spoke with Republican Sen. Katie Britt of Alabama.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Statement reflects ongoing congressional debate about executive war powers, a recurring institutional tension rather than a new erosion of checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:44.589Z"
+    },
+    {
+      "id": "4ea12e3950ae",
+      "title": "Primaries in key states begin to shape the midterm matchups",
+      "url": "https://www.pbs.org/newshour/show/primaries-in-key-states-begin-to-shape-the-midterm-matchups",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T23:35:50.000Z",
+      "description": "The midterm elections kicked off in earnest with primary contests in Texas, North Carolina and Arkansas. There was some confusion at the polls, and the results led to sharp words, a few upsets and more questions about the elections still to come. Geoff Bennett reports.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on primary election results and procedural matters without evidence of systemic threats to democratic institutions or checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-05T00:10:46.649Z"
+    },
+    {
+      "id": "d682e56d0d4f",
+      "title": "WATCH: Trump hosts AI leaders to sign pledge that households won't bear utility bill increases",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-hosts-ai-leaders-to-sign-pledge-that-households-wont-bear-utility-bill-increases",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T21:50:06.000Z",
+      "description": "President Donald Trump invited technology companies to the White House on Wednesday to commit to developing their own power generation as he tries to ease tensions over the cost of electricity used by data centers to develop artificial intelligence.",
+      "keywords": [
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine policy news about industry commitments regarding energy costs, with no direct implications for constitutional checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:46.494Z"
+    },
+    {
+      "id": "b73be79b6e38",
+      "title": "House committee votes to subpoena Bondi to answer questions over Epstein files",
+      "url": "https://www.pbs.org/newshour/politics/house-committee-votes-to-subpoena-bondi-to-answer-questions-over-epstein-files",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T21:37:55.000Z",
+      "description": "Five Republicans joined Democrats to support the subpoena proposed by GOP Rep. Nancy Mace in a sign of continued frustration among conservatives with the department's review and release of a tranche of documents related to the disgraced financier.",
+      "keywords": [
+        "bondi",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents notable congressional oversight activity with bipartisan support, but involves document review processes rather than systemic checks-and-balances erosion or institutional independence threats.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T00:10:46.595Z"
+    },
+    {
+      "id": "3af7392f3782",
+      "title": "WATCH: Gov. Walz testifies that Trump's immigration crackdown hampered Minnesota's fraud fight",
+      "url": "https://www.pbs.org/newshour/politics/watch-gov-walz-testifies-that-trumps-immigration-crackdown-hampered-minnesotas-fraud-fight",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T21:10:17.000Z",
+      "description": "Minnesota's governor and attorney general on Wednesday defended their efforts to combat fraud and told a U.S. House committee that their efforts have been hampered by President Donald Trump's immigration crackdown in the state.",
+      "keywords": [
+        "attorney general",
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A state official's testimony about operational impacts of federal immigration policy represents notable governance concerns but lacks evidence of institutional checks or democratic erosion itself.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:46.435Z"
+    },
+    {
+      "id": "63dc90fb77e0",
+      "title": "Takeaways from the first elections of 2026 midterms",
+      "url": "https://www.pbs.org/newshour/politics/takeaways-from-the-first-elections-of-2026-midterms",
+      "source": "PBS NewsHour",
+      "published": "2026-03-04T18:35:56.000Z",
+      "description": "For all the focus on Texas, elections in North Carolina could have a bigger impact on which party ultimately wins the Senate majority in the fall.",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral analysis and political prognostication with no direct bearing on institutional checks, balances, or democratic integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:46.137Z"
+    },
+    {
+      "id": "3a13d1375e79",
+      "title": "House Oversight Committee votes to subpoena Pam Bondi for testimony on Epstein files",
+      "url": "https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779",
+      "source": "NBC News",
+      "published": "2026-03-04T21:02:27.000Z",
+      "description": "The House Oversight Committee voted to subpoena the attorney general for testimony on the Justice Department's handling of records related to Jeffrey Epstein.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of DOJ record-handling represents routine legislative accountability, though the high-profile nature and AG involvement elevates it from routine commentary.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:48.420Z"
+    },
+    {
+      "id": "a651ee58002a",
+      "title": "Majority of voters disapprove of how Trump has handled Iran",
+      "url": "https://www.nbcnews.com/politics/trump-administration/poll-majority-voters-disapproves-trump-handled-iran-rcna261564",
+      "source": "NBC News",
+      "published": "2026-03-04T21:00:40.000Z",
+      "description": "A majority of registered voters disapprove of how President Donald Trump is handling the situation in Iran and believe the U.S. shouldn’t have taken military action against the country, according to a new NBC News poll",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine public opinion poll on foreign policy preferences with no direct bearing on institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:47.944Z"
+    },
+    {
+      "id": "9efffb52f94b",
+      "title": "Senate blocks resolution that would have restricted Trump's war in Iran",
+      "url": "https://www.nbcnews.com/politics/congress/senate-blocks-restrictions-trump-using-military-iran-war-rcna261680",
+      "source": "NBC News",
+      "published": "2026-03-04T22:29:05.000Z",
+      "description": "The Senate rejected a war powers resolution aimed at restricting President Donald Trump’s ability to carry out further military action against Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Senate rejection of war powers restrictions represents a significant abdication of congressional oversight authority over military action, a core institutional check on executive power.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T00:10:48.216Z"
+    },
+    {
+      "id": "88595036f05b",
+      "title": "Justice Department shelves investigation into Biden's use of autopen",
+      "url": "https://www.nbcnews.com/video/justice-department-shelves-investigation-into-biden-s-use-of-autopen-258716229826",
+      "source": "NBC News",
+      "published": "2026-03-04T23:36:18.000Z",
+      "description": "The Justice Department has closed the investigation into former President Joe Biden's use of an autopen. NBC News' Ryan Reilly breaks down the latest in the case.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Closure of a routine administrative investigation into a technical signature matter lacks systemic implications for democratic checks and balances.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T00:10:49.968Z"
+    },
+    {
+      "id": "12822e6f0684",
+      "title": "Senate fails to pass measure limiting Trump's military action in Iran",
+      "url": "https://www.nbcnews.com/video/senate-fails-to-pass-measure-limiting-trump-s-military-action-in-iran-258717253924",
+      "source": "NBC News",
+      "published": "2026-03-04T23:34:58.000Z",
+      "description": "Republicans in the Senate blocked a war powers resolution that would limit President Donald Trump's military action in Iran. The vote was 47-53, short of the simple majority needed to move the resolution to the Senate floor.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Represents a notable but not unprecedented failure of congressional war powers oversight, with institutional mechanisms functioning as designed despite partisan blocking.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:49.899Z"
+    },
+    {
+      "id": "18113769964a",
+      "title": "Steve Kornacki: What Democrats' sky-high turnout in the Texas primary does — and doesn't — mean for November",
+      "url": "https://www.nbcnews.com/politics/2026-election/steve-kornacki-democrats-sky-high-turnout-texas-primary-november-rcna261565",
+      "source": "NBC News",
+      "published": "2026-03-04T21:45:28.000Z",
+      "description": "Democrats in Texas are feeling enthusiastic about their voters’ enthusiasm — and for good reason.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is electoral analysis and commentary on primary turnout trends with no direct impact on institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-05T00:10:50.802Z"
+    },
+    {
+      "id": "57ba32ea3d07",
+      "title": "Arkansas man charged with murder wins GOP primary in sheriff election",
+      "url": "https://www.nbcnews.com/politics/2026-election/arkansas-man-charged-murder-wins-gop-primary-sheriff-election-rcna261736",
+      "source": "NBC News",
+      "published": "2026-03-04T20:38:20.000Z",
+      "description": "A man awaiting trial on a murder charge for allegedly killing his daughter's alleged abuser won the Republican nomination for county sheriff in Arkansas, according to the Arkansas secretary of state's office.",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a local electoral outcome involving an individual candidate's primary victory and does not represent a systemic threat to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:50.035Z"
+    },
+    {
+      "id": "75b64db77876",
+      "title": "Trump says he will endorse 'soon' in Texas Senate primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-endorse-soon-texas-republican-senate-primary-cornyn-paxton-rcna261566",
+      "source": "NBC News",
+      "published": "2026-03-04T19:18:33.000Z",
+      "description": "President Donald Trump said he will endorse a candidate “soon” in the GOP Senate primary in Texas between John Cornyn and Ken Paxton.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential endorsement in a primary election is routine political activity that does not directly implicate institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:52.254Z"
+    },
+    {
+      "id": "8fd5caf1c71d",
+      "title": "Trump officials consider arming Kurdish opposition against Iran's regime",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-officials-consider-arming-kurdish-opposition-irans-regime-rcna261731",
+      "source": "NBC News",
+      "published": "2026-03-04T18:44:21.000Z",
+      "description": "WASHINGTON — Trump administration officials are in discussion with Kurdish leaders in northern Iraq and northwestern Iran about potentially arming groups opposed to the Iranian regime, according to three people with knowledge of the discussions and an Iraqi Kurdish official",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While foreign policy decisions warrant oversight, this represents standard geopolitical maneuvering rather than a direct threat to domestic democratic institutions, though it raises congressional oversight questions.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:52.002Z"
+    },
+    {
+      "id": "49aef5cde7a1",
+      "title": "Trump nominee to lead nation's cyber agency removed from post as senior DHS adviser",
+      "url": "https://www.cbsnews.com/news/trump-nominee-cisa-cyber-agency-removed-as-senior-dhs-adviser/",
+      "source": "CBS News",
+      "published": "2026-03-04T23:52:08.000Z",
+      "description": "Although Sean Plankey's access badge was taken and he was escorted out of Coast Guard headquarters Monday, he remains the nominee to lead the Cybersecurity and Infrastructure Security Agency, sources said.",
+      "keywords": [
+        "cybersecurity",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A presidential nominee's temporary removal from a DHS advisory role raises questions about vetting and judgment but doesn't constitute an institutional breakdown of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:52.383Z"
+    },
+    {
+      "id": "5bb7042d3e7a",
+      "title": "Companies are entitled to Trump tariff refunds, trade court rules",
+      "url": "https://www.cbsnews.com/news/trump-tariff-refunds-court-of-international-trade-supreme-court/",
+      "source": "CBS News",
+      "published": "2026-03-04T23:46:10.000Z",
+      "description": "A federal court in New York ruled Wednesday that businesses that paid emergency tariffs invalidated by the Supreme Court are eligible for refunds.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine judicial ruling on tariff refund eligibility that does not implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:52.110Z"
+    },
+    {
+      "id": "6b9b41a7f579",
+      "title": "Probe into Biden autopen closed by D.C. U.S. Attorney's Office, source says",
+      "url": "https://www.cbsnews.com/news/biden-autopen-probe-dc-us-attorneys-office/",
+      "source": "CBS News",
+      "published": "2026-03-04T23:04:23.000Z",
+      "description": "Federal prosecutors are dropping their probe into whether Biden and his aides unlawfully used an autopen for pardons, a source said.",
+      "keywords": [
+        "prosecutor",
+        "ICE",
+        "pardon"
+      ],
+      "significance": 3,
+      "reason": "A closed investigation into a procedural/technical matter regarding document signing methods is routine prosecutorial activity without institutional implications for democratic checks.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T00:10:52.447Z"
+    },
+    {
+      "id": "44aa7848f067",
+      "title": "What to know about the agency Trump says will insure ships in the Gulf",
+      "url": "https://www.cbsnews.com/news/trump-dfc-persian-gulf-ship-insurance-iran-war/",
+      "source": "CBS News",
+      "published": "2026-03-04T22:40:21.000Z",
+      "description": "President Trump said the government agency will provide political risk insurance to \"all shipping lines\" operating in the Persian Gulf.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine reporting on a proposed government insurance program with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:53.809Z"
+    },
+    {
+      "id": "eadf8b7a2e23",
+      "title": "House Oversight Committee votes to subpoena Bondi to testify in Epstein probe",
+      "url": "https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/",
+      "source": "CBS News",
+      "published": "2026-03-04T21:38:44.000Z",
+      "description": "Several Republicans on the Oversight panel joined with Democrats in supporting the motion to subpoena Attorney General Pam Bondi.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "subpoena"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of the Attorney General through subpoena authority demonstrates checks-and-balances functioning, but the bipartisan nature and specific focus on historical conduct rather than current institutional threats moderates the significance.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T00:10:53.979Z"
+    },
+    {
+      "id": "95f51038464b",
+      "title": "Anthropic CEO: We're trying to \"deescalate\" Pentagon AI standoff to reach agreement",
+      "url": "https://www.cbsnews.com/news/anthropic-pentagon-talks/",
+      "source": "CBS News",
+      "published": "2026-03-04T21:18:29.000Z",
+      "description": "Anthropic CEO Dario Amodei said his company and the Department of Defense \"have much more in common than we have differences.\"",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a corporate-government negotiation on AI policy without evidence of institutional erosion or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:55.934Z"
+    },
+    {
+      "id": "1bfe74611501",
+      "title": "Justice Dept. employee charged in child pornography case",
+      "url": "https://www.cbsnews.com/news/justice-dept-employee-charged-child-pornography-case/",
+      "source": "CBS News",
+      "published": "2026-03-04T21:11:15.000Z",
+      "description": "Timothy Parsons, a legal staffer at the U.S. Attorney's Office in Washington, D.C., is facing federal criminal charges in Maryland, where he lives, three sources said.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal case involving an individual employee and does not reflect on systemic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:53.584Z"
+    },
+    {
+      "id": "b9f1150e1363",
+      "title": "Trump says he will endorse \"soon\" in Texas GOP Senate runoff",
+      "url": "https://www.cbsnews.com/news/trump-endorsement-texas-republican-primary-ken-paxton-john-cornyn/",
+      "source": "CBS News",
+      "published": "2026-03-04T20:09:49.000Z",
+      "description": "President Trump said the candidate he doesn't endorse in the Texas Republican Senate race should drop out before the May 26 runoff.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A presidential endorsement preference in a primary election is routine political participation that does not involve institutional checks, legal authority, or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:53.793Z"
+    },
+    {
+      "id": "521c29aa2dff",
+      "title": " The first midterm primaries of 2026, by the numbers",
+      "url": "https://abcnews.com/Politics/wireStory/midterm-primaries-2026-numbers-130771269",
+      "source": "ABC News",
+      "published": "2026-03-04T22:58:48.000Z",
+      "description": "The first primaries of the year weren’t short on drama",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on primary election results without analysis of systemic threats to democratic institutions or checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-05T00:10:57.362Z"
+    },
+    {
+      "id": "32a79a2b6215",
+      "title": "\"Come to work\": A primary fight between House Democrats in Texas turns nasty",
+      "url": "https://www.axios.com/2026/03/04/al-green-christian-menefee-texas-primary-houston",
+      "source": "Axios",
+      "published": "2026-03-04T22:56:22.000Z",
+      "description": "The race between Reps. Al Green (D-Texas) and Christian Menefee (D-Texas) for a Houston-based U.S. House seat quickly went from largely cordial to venomous on Wednesday after the two were forced into a head-to-head primary.\nWhy it matters: Green and Menefee will now have to spend the next 12 weeks campaigning against each other while simultaneously serving together in Congress.\n\n\"I am challenging Mr. Menefee to a debate ... right away, but I also challenge him to come to work,\" Green told Axios ",
+      "keywords": [
+        "election",
+        "voting",
+        "ballot",
+        "patel",
+        "ICE",
+        "classified",
+        "trump",
+        "crypto"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a primary campaign dispute with no bearing on institutional checks, balances, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:57.214Z"
+    },
+    {
+      "id": "452119e5909e",
+      "title": "Republicans help Dems subpoena Pam Bondi in Epstein probe",
+      "url": "https://www.axios.com/2026/03/04/house-oversight-subpoena-pam-bondi-epstein",
+      "source": "Axios",
+      "published": "2026-03-04T21:30:59.000Z",
+      "description": "The House Oversight Committee voted on a bipartisan basis Wednesday to subpoena Attorney General Pam Bondi over the Jeffrey Epstein files. \nWhy it matters: It's the latest step in the committee's months-long probe into Epstein, and comes as lawmakers have grown increasingly frustrated with Bondi's handling of the release of the Epstein files.\n\nRep. Nancy Mace (R-S.C.) offered the subpoena.\nEvery Democrat — plus GOP Reps. Tim Burchett (Tenn.), Michael Cloud (Texas), Lauren Boebert (Colo.) and Sco",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Bipartisan congressional oversight of DOJ leadership on document release is notable institutional accountability, but lacks the urgency or unprecedented nature of critical democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:10:57.904Z"
+    },
+    {
+      "id": "494d79bff00d",
+      "title": "Trump's AI pledge: Tech giants say they can contain power costs",
+      "url": "https://www.axios.com/2026/03/04/trump-ai-tech-pledge-electricity-costs",
+      "source": "Axios",
+      "published": "2026-03-04T21:30:10.000Z",
+      "description": "President Trump and tech CEOs expressed confidence Wednesday that they can contain soaring electricity rates with a new data center pledge that formalizes and expands on what companies already are doing.\nWhy it matters: With rising power bills turning AI and data centers into an election-year issue, Trump — who campaigned on a promise to cut costs — is eager to show he's trying to protect consumers.\n\nSkeptical Democrats and some energy observers, however, say that far more than voluntary pledges",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article addresses energy policy and corporate pledges with no direct bearing on democratic institutions, constitutional checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:57.208Z"
+    },
+    {
+      "id": "9e5afb0dc132",
+      "title": "The left wants to primary Democrats who break with the party on Iran",
+      "url": "https://www.axios.com/2026/03/04/democrats-iran-war-powers-vote-primary",
+      "source": "Axios",
+      "published": "2026-03-04T21:02:08.000Z",
+      "description": "Progressive groups are preparing to primary any House Democrat who votes against a war powers resolution constraining the Trump administration from carrying out military operations in Iran, Axios has learned.\nWhy it matters: The threat raises the stakes of a highly charged Thursday vote which has split a group of hawkish Democratic centrists from the rest of their party.\n\n\"Any Democrat voting against this resolution is really voting against the base of the party, and it will be a very politicall",
+      "keywords": [
+        "voting",
+        "voter",
+        "ICE",
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This describes routine intra-party political pressure and primary threats, which are normal democratic processes rather than threats to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:57.048Z"
+    },
+    {
+      "id": "6f9a04400af1",
+      "title": "Trump expected to endorse Cornyn in brutal Texas Senate runoff",
+      "url": "https://www.axios.com/2026/03/04/texas-senate-trump-cornyn-endorsement",
+      "source": "Axios",
+      "published": "2026-03-04T19:29:58.000Z",
+      "description": "President Trump is expected to endorse Sen. John Cornyn in the Texas Senate race, a source with knowledge of the talks tells Axios.\nWhy it matters: Trump posted on Truth Social on Wednesday that whoever he doesn't endorse in the runoff between Cornyn and Texas Attorney General Ken Paxton should drop out of the race.\n\nThe background: Cornyn and Paxton finished first and second place in Tuesday's primary, but neither reached the majority threshold to avoid a May 26 runoff. That sets the stage for ",
+      "keywords": [
+        "election",
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a primary endorsement decision with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:58.890Z"
+    },
+    {
+      "id": "bbe26edbe75d",
+      "title": "Americans aren't sold on Iran attacks, new polls show",
+      "url": "https://www.axios.com/2026/03/04/iran-attacks-polls-americans-disapprove",
+      "source": "Axios",
+      "published": "2026-03-04T18:53:51.000Z",
+      "description": "Some five days into the sprawling Middle East conflict sparked by U.S.-Israeli strikes on Iran, significantly more Americans disapprove than approve of the attacks across several polls.\nThe big picture: President Trump has offered a mixed bag of motivations for the strikes and his plans to resolve the rapidly escalating conflict that has killed six U.S. service members.\n\nIf early polling is any indication, the White House's reasoning isn't resonating with Americans.\n\nCase in point: Nearly six in",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling commentary on public opinion regarding foreign policy, with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:59.252Z"
+    },
+    {
+      "id": "788b580b0e8f",
+      "title": "Ukraine sending experts to Middle East to help counter Iranian drones",
+      "url": "https://thehill.com/policy/defense/5768104-zelensky-announces-aid-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-05T00:00:36.000Z",
+      "description": "Ukrainian President Volodymyr Zelensky on Wednesday announced his country is sending some of its military specialists to the Middle East to help counter Iranian drones and missiles. In a post to X, Zelensky said he has tasked Ukraine’s minister of foreign affairs, minister of defense, intelligence agencies and the secretary of the National Security and Defense…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This article concerns international military cooperation between Ukraine and Middle Eastern allies with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:59.360Z"
+    },
+    {
+      "id": "007b360b87bb",
+      "title": "The Memo: Trump under pressure as he seeks to make case on Iran",
+      "url": "https://thehill.com/homenews/5768063-trump-regime-change-iran/",
+      "source": "The Hill",
+      "published": "2026-03-04T23:27:55.000Z",
+      "description": "President Trump and his administration are facing criticism for mixed or implausible messaging on some key elements of the attack on Iran — and the dissatisfaction is not confined to Democrats and liberals. A YouGov poll this week found 48 percent of Americans disapproving of the U.S. attacks on Iran while just 37 percent approved.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on public opinion and messaging regarding a foreign policy decision, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:10:59.197Z"
+    },
+    {
+      "id": "2cdce9a125b3",
+      "title": "Noem denies blocking investigations, as inspector general says he’s been ‘systematically obstructed’",
+      "url": "https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/",
+      "source": "The Hill",
+      "published": "2026-03-04T23:16:14.000Z",
+      "description": "Homeland Security Secretary Kristi Noem denied that she was blocking 11 different inspector general investigations of her department, including in a criminal matter, even as she blasted the inspector general for wanting “unfettered access to every single thing in the department.” Inspector General Joseph Cuffari sent a letter to lawmakers Monday accusing Department of Homeland…",
+      "keywords": [
+        "EPA",
+        "inspector general"
+      ],
+      "significance": 8,
+      "reason": "An Inspector General's allegation of systematic obstruction by a Cabinet secretary directly threatens institutional oversight mechanisms and congressional ability to monitor executive branch conduct.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T00:10:59.242Z"
+    },
+    {
+      "id": "8f32863b15f8",
+      "title": "Trump details Big Tech electric price pledge",
+      "url": "https://thehill.com/homenews/5767995-trump-details-big-tech-electric-price-pledge/",
+      "source": "The Hill",
+      "published": "2026-03-04T23:15:21.000Z",
+      "description": "{beacon} Energy & Environment Energy & Environment   The Big Story  Trump shares details of Big Tech power price pacts President Trump and major tech firms announced an agreement Wednesday aimed at making Big Tech companies cover the cost of the electricity they consume as development of artificial intelligence shows no signs of stopping. ©…",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes a commercial energy agreement between the executive branch and private companies with no direct bearing on democratic institutions, checks and balances, or constitutional processes.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:00.461Z"
+    },
+    {
+      "id": "f0eef396a188",
+      "title": "Newsom says Trump knows GOP will ‘get crushed’ in the midterms: ‘He’s toast’",
+      "url": "https://thehill.com/homenews/campaign/5767917-gavin-newsom-trump-toast-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-04T23:01:03.000Z",
+      "description": "California Gov. Gavin Newsom (D) said Tuesday that President Trump knows Republicans will “get crushed” in this year’s midterms, touting his state’s approval of a redistricting proposal in November that handed more seats to Democrats. “Trump is an historic president, historically unpopular. He’s going to get crushed, shellacked in the midterms. He is, he’s toast,…",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is partisan political commentary and campaign rhetoric without substantive information about institutional checks, policy changes, or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:00.929Z"
+    },
+    {
+      "id": "0aa2429fd917",
+      "title": "Senate Republicans urge Trump to back Cornyn in Texas runoff",
+      "url": "https://thehill.com/homenews/senate/5767956-senate-republicans-trump-cornyn-texas/",
+      "source": "The Hill",
+      "published": "2026-03-04T22:53:41.000Z",
+      "description": "Sen. John Cornyn’s (R-Texas) better-than-expected performance in Tuesday’s primary could turn the race on its head as President Trump revealed that he will endorse “soon” in the looming runoff against Texas Attorney General Ken Paxton (R). Senate GOP leaders, itching avoid an expensive battle with Democratic state Rep. James Talarico, are pushing Trump to back…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about intra-party primary dynamics and endorsement strategy with no direct impact on democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:00.408Z"
+    },
+    {
+      "id": "d865ca46b809",
+      "title": "GOP Sen. Tim Sheehy joins police to physically remove protester from hearing",
+      "url": "https://thehill.com/homenews/senate/5767952-senator-tim-sheehy-capitol-police/",
+      "source": "The Hill",
+      "published": "2026-03-04T22:48:46.000Z",
+      "description": "Sen. Tim Sheehy (R-Mont.) assisted Capitol Police in forcibly removing a protester from a congressional hearing on Wednesday afternoon.  Video from the hearing posted online by a CBS News reporter shows the senator helping police officers push Brian McGinnis out of the Senate Armed Services Committee hearing.  McGinnis is a former Marine sergeant and a…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "While the incident involves a senator's conduct, it represents routine security management at a congressional hearing rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "press freedom",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:11:00.651Z"
+    },
+    {
+      "id": "84765db7ff10",
+      "title": "Spain ‘categorially’ denies White House  claim it will cooperate on Iran war",
+      "url": "https://thehill.com/homenews/administration/5767857-spain-denies-us-iran-cooperation/",
+      "source": "The Hill",
+      "published": "2026-03-04T22:18:46.000Z",
+      "description": "Spanish Foreign Minister José Manuel Albares “categorically” denied Wednesday that the European country has agreed to cooperate with the U.S. military concerning Iran, contradicting a claim made earlier in the day by White House Press Secretary Karoline Leavitt.   “The Spanish government’s position on the war in the Middle East, the bombings in Iran, and…",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign policy disagreement between the U.S. and Spain with no direct bearing on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:00.868Z"
+    },
+    {
+      "id": "a5ec1c66341d",
+      "title": "Trump signs agreement with Big Tech to cover data center electricity costs",
+      "url": "https://thehill.com/policy/technology/5767824-trump-signs-agreement-with-big-tech-to-cover-data-center-electricity-costs/",
+      "source": "The Hill",
+      "published": "2026-03-04T22:10:01.000Z",
+      "description": "President Trump and major tech firms announced an agreement Wednesday to have Big Tech companies cover the cost of the electricity they consume as development of artificial intelligence shows no signs of stopping.   Google, Microsoft, Meta, Oracle, xAI, OpenAI, and Amazon have agreed to sign onto the “Ratepayer Protection Pledge,” the White House said Wednesday,…",
+      "keywords": [
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine policy announcement regarding utility cost allocation for data centers with no direct bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:02.501Z"
+    },
+    {
+      "id": "536a3b64962b",
+      "title": "Judge orders Trump administration to close out goods without charging emergency tariffs ",
+      "url": "https://thehill.com/homenews/5767822-federal-trade-court-ruling/",
+      "source": "The Hill",
+      "published": "2026-03-04T21:52:15.000Z",
+      "description": "The federal trade court judge overseeing the refund process for President Trump’s tariffs ordered the administration Wednesday to finalize paperwork for imported goods without charging companies for the invalidated levies. The order from Richard Eaton, a senior judge on the U.S. Court of International Trade, is set to impact millions of tariff entries submitted to the government that were declared illegal by the Supreme Court’s blockbuster decision.  Companies won’t…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Represents significant judicial enforcement of checks and balances by overruling executive branch tariff actions through court order, demonstrating institutional restraint on executive power.",
+      "categories": [
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-05T00:11:02.111Z"
+    },
+    {
+      "id": "7379f2bee084",
+      "title": "Fox News poll: Majority says Trump’s handling of Iran has made US less safe",
+      "url": "https://thehill.com/homenews/administration/5767714-trump-iran-poll-results/",
+      "source": "The Hill",
+      "published": "2026-03-04T21:23:53.000Z",
+      "description": "A majority of American voters believe that President Trump’s relationship with Iran has made the U.S. less safe, according to a new poll. In the Fox News poll, 51 percent of respondents said the president’s relationship with Iran has increased risk for the U.S. Twenty-nine percent in the poll said Trump’s relationship with Iran has…",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine polling report on public opinion regarding foreign policy, which does not directly impact institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:02.111Z"
+    },
+    {
+      "id": "cdebbf074f2d",
+      "title": "Senate Republican: ‘We’ve already won’ in Iran",
+      "url": "https://thehill.com/homenews/senate/5767639-kennedy-defends-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-04T21:18:52.000Z",
+      "description": "Sen. John Kennedy (R-La.) on Tuesday said the U.S. has “already won” its military operation in Iran, as the Trump administration teased a major bombing campaign. Kennedy appeared on Fox News and challenged remarks made by House Minority Leader Hakeem Jeffries (D-N.Y.), who slammed President Trump for finding “billions of dollars for bombs, but can’t…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy statements with no direct impact on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:02.331Z"
+    },
+    {
+      "id": "45c6d88f4a51",
+      "title": "Trump: Any potential next leader of Iran ‘just ends up dead’",
+      "url": "https://thehill.com/homenews/administration/5767688-trump-iran-leaders-dying/",
+      "source": "The Hill",
+      "published": "2026-03-04T21:13:53.000Z",
+      "description": "President Trump on Wednesday said the next leaders of Iran keep dying in the ongoing U.S.-Israeli military operation. “Their leadership is rapidly going. Everyone that wants to be a leader ends up dead,” he told reporters in the White House Indian Treaty Room. “Their missiles are being wiped out rapidly. Their launchers are being wiped…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine statement about foreign military operations with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:02.256Z"
+    },
+    {
+      "id": "a7fcc961187a",
+      "title": "Cruz staying neutral in Cornyn, Paxton runoff",
+      "url": "https://thehill.com/homenews/campaign/5767670-ted-cruz-neutral-texas-senate/",
+      "source": "The Hill",
+      "published": "2026-03-04T20:54:26.000Z",
+      "description": "Sen. Ted Cruz (R-Texas) said on Wednesday that he plans to stay neutral in the heated GOP primary for Senate in Texas after the race was projected to head to a May runoff. Cruz’s Texas colleague, Sen. John Cornyn (R-Texas), advanced alongside Texas Attorney General Ken Paxton (R) in Tuesday’s primary after neither candidate got…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a senator's neutrality in a primary election, with no implications for democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:04.565Z"
+    },
+    {
+      "id": "2c642716a630",
+      "title": "House Oversight panel subpoenas Pam Bondi over Epstein files",
+      "url": "https://thehill.com/homenews/house/5767681-pam-bondi-subpoena-epstein-files-oversight/",
+      "source": "The Hill",
+      "published": "2026-03-04T20:51:34.000Z",
+      "description": "The House Oversight and Government Reform Committee on Wednesday took the remarkable step of issuing a subpoena to Attorney General Pam Bondi, compelling her to appear to answer questions about the Epstein files. The resolution to subpoena Bondi was introduced by Rep. Nancy Mace (R-S.C.) and passed in a bipartisan 24-19 vote. All Democrats present…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "subpoena"
+      ],
+      "significance": 7,
+      "reason": "Bipartisan congressional subpoena of a sitting Attorney General represents significant institutional oversight action with potential implications for DOJ independence and congressional accountability mechanisms.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:11:03.935Z"
+    },
+    {
+      "id": "7a648f3505f3",
+      "title": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
+      "url": "https://www.cnbc.com/2026/03/05/iran-conflict-duration-middle-east-regional-war-experts.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T23:17:13.000Z",
+      "description": "President Trump and his officials say the war won't be protracted. Experts say it could go on longer than the White House expects.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses foreign policy expectations and expert analysis regarding Iran conflict duration, which does not directly engage with domestic democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-05T00:11:03.695Z"
+    },
+    {
+      "id": "0f1a3876ed0c",
+      "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi",
+      "url": "https://www.cnbc.com/2026/03/04/epstein-files-nancy-mace-pam-bondi-subpoena-doj.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-04T21:35:35.000Z",
+      "description": "Attorney General Pam Bondi \"claims the DOJ has released all of the Epstein files. The record is clear: they have not,\" Rep. Nancy Mace said in a post on X.",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "subpoena"
+      ],
+      "significance": 5,
+      "reason": "A congressional subpoena of the Attorney General regarding document release represents notable oversight activity, but lacks the institutional magnitude or precedent-breaking nature that would constitute a significant democratic crisis.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T00:11:04.381Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-04T18:10:32.092Z"
+  "lastFetch": "2026-03-05T00:11:04.565Z"
 }
