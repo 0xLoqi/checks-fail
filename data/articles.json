@@ -40369,8 +40369,684 @@
       "reason": "This is a foreign policy dispute between the U.S. and Spain regarding military cooperation, with no bearing on domestic U.S. democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-05T12:07:47.859Z"
+    },
+    {
+      "id": "7937c6eb94cc",
+      "title": "President Trump, Pam Bondi sued over sale of TikTok assets",
+      "url": "https://www.npr.org/2026/03/05/g-s1-112605/tiktok-deal-lawsuit-trump-bondi",
+      "source": "NPR Politics",
+      "published": "2026-03-05T16:11:09.000Z",
+      "description": "The case accuses the Trump administration of ignoring legislation designed to stop the spread of Chinese propaganda — and instead helping to broker a partial sale to businessmen close to Trump.",
+      "keywords": [
+        "bondi",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about potential corruption and self-dealing in executive decision-making, but involves complex legal questions about statutory authority rather than direct institutional attack on checks and balances.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-05T18:33:27.968Z"
+    },
+    {
+      "id": "72ba6e66ee37",
+      "title": "Sen. Ron Johnson opposes Congress voting on Iran war because it would 'show us divided'",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5735876/sen-ron-johnson-opposes-congress-voting-on-iran-war-because-it-would-show-us-divided",
+      "source": "NPR Politics",
+      "published": "2026-03-05T11:55:42.000Z",
+      "description": "NPR's Steve Inskeep asks Republican Sen. Ron Johnson of Wisconsin for his perspective of the conflict in the Middle East and the failed Senate effort to restrain U.S. military actions against Iran.",
+      "keywords": [
+        "voting",
+        "johnson"
+      ],
+      "significance": 5,
+      "reason": "A senator opposing a congressional vote on military action raises questions about congressional oversight and institutional checks, but represents a policy position rather than a systemic erosion of democratic processes.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:27.510Z"
+    },
+    {
+      "id": "5a811bf6732e",
+      "title": "WATCH LIVE: National Capital Planning Commission hearing examines Trump's ballroom plans",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-national-capital-planning-commission-hearing-examines-trumps-ballroom-plans",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T16:57:53.000Z",
+      "description": "A federal panel reviewing President Donald Trump's plans to build a ballroom at the White House has set April 2 for a final vote on the project, the chairman said as the agency prepared to give additional consideration to the construction plans.",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine administrative review of White House construction plans with no bearing on democratic institutions, oversight mechanisms, or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:27.513Z"
+    },
+    {
+      "id": "cb4ffe28faa3",
+      "title": "Congress hasn't officially declared war since WWII. Here's how presidential war powers have played out since then",
+      "url": "https://www.pbs.org/newshour/politics/congress-hasnt-officially-declared-war-since-wwii-heres-how-presidential-war-powers-have-played-out-since-then",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T16:05:44.000Z",
+      "description": "Like many predecessors, President Donald Trump claims broad, even unlimited power over U.S. forces.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Historical analysis of presidential war powers highlights an ongoing institutional tension, but the article appears descriptive rather than reporting a new precedent or immediate threat to checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:27.747Z"
+    },
+    {
+      "id": "f6f5417ef571",
+      "title": "WATCH LIVE: Senate returns to DHS funding bill with U.S.-Israel war on Iran escalating",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-returns-to-dhs-funding-bill-with-u-s-israel-war-on-iran-escalating",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T15:31:47.000Z",
+      "description": "Republicans are invoking the war in Iran and the prospect of retaliatory terrorist attacks as they tee up votes Thursday on a funding bill for the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine legislative activity on DHS funding with geopolitical context, though congressional oversight of security spending is relevant to checks and balances.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:27.545Z"
+    },
+    {
+      "id": "77c8f2a2c116",
+      "title": "WATCH LIVE: House expected to vote on Iran war powers resolution",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-house-expected-to-vote-iran-on-war-powers-resolution",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T14:56:36.000Z",
+      "description": "The House is preparing to vote Thursday on a war powers resolution to halt President Donald Trump's attack on Iran, a sign of unease in Congress over the rapidly widening conflict that is reordering U.S. priorities at home and abroad.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional check where Congress exercises its constitutional war powers authority against executive military action, a core democratic safeguard regardless of outcome.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-05T18:33:28.938Z"
+    },
+    {
+      "id": "2476b224e572",
+      "title": "Trump considers firing DHS Secretary Kristi Noem, sources say",
+      "url": "https://www.nbcnews.com/politics/white-house/rump-kristi-noem-replacements-dhs-secretary-congress-hearings-rcna261915",
+      "source": "NBC News",
+      "published": "2026-03-05T15:50:35.000Z",
+      "description": "Trump is considering firing DHS Secretary Kristi Noem, particularly because of her performance during congressional hearings and is, sources tell NBC News.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Personnel turnover within the executive branch is routine and does not inherently threaten checks and balances, though the rationale and any pattern of such removals could warrant monitoring.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T18:33:28.907Z"
+    },
+    {
+      "id": "110cb2ff5f23",
+      "title": "Trump ballroom vote pushed to April after critics blast 'hideous,' 'appalling,' 'shameful' plans",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-allies-planning-commission-white-house-ballrooom-approval-rcna261884",
+      "source": "NBC News",
+      "published": "2026-03-05T14:23:11.000Z",
+      "description": "The National Capital Planning Commission today pushed an expected vote on President Donald Trump's new White House ballroom plans to next month as the panel wades through a deluge of public comments about the massive project, much of it negative.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns routine architectural planning and project scheduling with no bearing on democratic institutions, constitutional checks and balances, or governmental accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:28.805Z"
+    },
+    {
+      "id": "00bb65fabba7",
+      "title": "Trump’s TikTok deal benefited firms that 'personally enriched' him, lawsuit says",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-sued-us-tiktok-deal-rcna261684",
+      "source": "NBC News",
+      "published": "2026-03-05T14:59:04.000Z",
+      "description": "A newly formed anti-corruption group sued President Donald Trump over the deal that sold TikTok’s U.S. operation to a group of administration-backed investors.",
+      "keywords": [
+        "trump",
+        "corruption"
+      ],
+      "significance": 7,
+      "reason": "Raises significant institutional concerns about potential corruption and self-dealing in a major executive action, directly implicating the president's financial interests in policy decisions.",
+      "categories": [
+        "corruption & self-dealing",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-05T18:33:30.002Z"
+    },
+    {
+      "id": "5d27a9fd7901",
+      "title": "AG Pam Bondi Subpoenaed to Testify Over Epstein File Release",
+      "url": "https://www.today.com/video/ag-pam-bondi-subpoenaed-to-testify-over-epstein-file-release-258744901854",
+      "source": "NBC News",
+      "published": "2026-03-05T12:52:28.000Z",
+      "description": "The House Oversight Committee voted to subpoena Attorney General Pam Bondi over the Justice Department’s handling of the files related to the late sex offender Jeffrey Epstein. Both Democrats and Republicans have criticized how certain names and information in the files were redacted while many victims were left identifiable. NBC’s Ryan Nobles reports for TODAY.",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A bipartisan congressional subpoena of the AG represents notable legislative oversight of DOJ decision-making, but lacks the systemic institutional threat of higher-rated events.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:30.166Z"
+    },
+    {
+      "id": "612feb475d92",
+      "title": "Thousands of Americans Still Stranded as Iran War Spreads",
+      "url": "https://www.today.com/video/stranded-americans-voice-concern-as-iran-war-spreads-258746437678",
+      "source": "NBC News",
+      "published": "2026-03-05T12:41:16.000Z",
+      "description": "As the war with Iran enters its sixth day, Americans remain stranded in the Middle East and are scrambling to flee the conflict by any means necessary. The State Department says the first charter flights are starting to take off amid a widespread airspace lockdown. NBC’s Keir Simmons reports for TODAY from Dubai.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a foreign conflict/humanitarian news story with no direct connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:29.761Z"
+    },
+    {
+      "id": "0f4141fe90f0",
+      "title": "Trump Defends Decision to Strike Iran as New Details Emerge",
+      "url": "https://www.today.com/video/majority-of-voters-disapprove-of-trump-s-handling-of-iran-nbc-poll-258744901768",
+      "source": "NBC News",
+      "published": "2026-03-05T12:32:41.000Z",
+      "description": "As President Donald Trump defends his decision to strike Iran, new NBC News polling shows a majority of voters disapprove of the President’s handling of the situation in Iran. It comes as a senior U.S. official confirms details of a phone call between Trump and Israeli Prime Minister Benjamin Netanyahu before the strikes. NBC’s Garrett Haake reports for TODAY from the White House.",
+      "keywords": [
+        "voter",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a foreign policy decision and public polling, not an institutional action affecting domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:29.836Z"
+    },
+    {
+      "id": "f9986aa5065b",
+      "title": "Texas DA won't pursue criminal charges against officers who killed Austin gunman",
+      "url": "https://www.nbcnews.com/news/us-news/texas-da-wont-pursue-criminal-charges-officers-killed-austin-gunman-rcna261889",
+      "source": "NBC News",
+      "published": "2026-03-05T15:49:27.000Z",
+      "description": "A Texas district attorney pushed back against speculation that he would pursue charges against police officers who shot and killed the gunman who killed three and injured 14 others in Austin over the weekend",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine local prosecutorial decision regarding officer-involved shooting that does not implicate federal democratic institutions or systemic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:29.755Z"
+    },
+    {
+      "id": "ff18ac0f3715",
+      "title": "FBI confirms its networks were targeted by \"suspicious\" cyber activities",
+      "url": "https://www.cbsnews.com/news/fbi-confirms-its-networks-were-targeted-by-suspicious-cyber-activities/",
+      "source": "CBS News",
+      "published": "2026-03-05T18:09:15.000Z",
+      "description": "The FBI said it \"identified and addressed suspicious activities on FBI networks\" and that it was responding but did not elaborate.",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 5,
+      "reason": "A cybersecurity incident at the FBI warrants monitoring for institutional integrity but lacks sufficient detail about severity, attribution, or operational impact to constitute a significant democratic threat at this stage.",
+      "categories": [
+        "FBI independence",
+        "intelligence community integrity"
+      ],
+      "scoredAt": "2026-03-05T18:33:31.351Z"
+    },
+    {
+      "id": "22dedde5b9ea",
+      "title": "GOP leaders urge Gonzales to drop reelection bid over affair scandal",
+      "url": "https://www.cbsnews.com/news/tony-gonzales-house-republican-leaders-end-reelection-campaign/",
+      "source": "CBS News",
+      "published": "2026-03-05T18:05:31.000Z",
+      "description": "The Texas Republican admitted Wednesday that he had a relationship with the former staffer, who later died by suicide.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political scandal involving personal conduct and resignation pressure, with no direct bearing on institutional checks and balances or democratic systems.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:31.166Z"
+    },
+    {
+      "id": "d055ac8a18f7",
+      "title": "Tech investors sue Trump administration, accusing it of violating TikTok ban",
+      "url": "https://www.cbsnews.com/news/tiktok-ban-law-lawsuit-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-03-05T17:56:32.000Z",
+      "description": "A pair of tech investors have filed a civil lawsuit accusing the Trump administration of failing to enforce a law that required TikTok to either separate from its China-based owner or face a U.S. ban.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The lawsuit represents a notable challenge to executive enforcement of existing law, but does not constitute institutional erosion or unprecedented democratic action.",
+      "categories": [
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:31.049Z"
+    },
+    {
+      "id": "1f489590a332",
+      "title": "Obama calls on voters to help Democrats' Virginia redistricting ahead of midterms",
+      "url": "https://www.cbsnews.com/news/obama-calls-on-voters-to-help-democrats-virginia-redistricting-ahead-of-midterm-elections/",
+      "source": "CBS News",
+      "published": "2026-03-05T15:53:04.000Z",
+      "description": "A special election is being held on April 21 on whether to amend Virginia's constitution to enable redistricting that could help Democrats in the midterm elections.",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm"
+      ],
+      "significance": 3,
+      "reason": "This is routine political advocacy by a former president regarding a standard constitutional amendment process for redistricting, which is a normal part of democratic participation.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-05T18:33:31.080Z"
+    },
+    {
+      "id": "cb5be1ba24bc",
+      "title": "Exclusive: Trump demands immediate pardon for Netanyahu to focus on Iran",
+      "url": "https://www.axios.com/2026/03/05/trump-netanyahu-pardon-israel-iran-war",
+      "source": "Axios",
+      "published": "2026-03-05T17:15:18.000Z",
+      "description": "President Trump told Axios on Thursday that Israeli President Isaac Herzog must pardon Prime Minister Benjamin Netanyahu \"today\" — calling Herzog \"a disgrace\" for failing to act over the last year.\n\n\"Every day I talk to Bibi about the war. I want him to focus on the war and not on the f*cking court case. I want the only pressure on Bibi to be the fighting against Iran,\" Trump said in a phone interview.\n\nWhy it matters: Trump has been pushing for a Netanyahu pardon since last June, arguing that h",
+      "keywords": [
+        "trump",
+        "corruption",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy advocacy regarding Israel's internal judicial matters, which does not directly implicate U.S. democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:30.879Z"
+    },
+    {
+      "id": "ecfc1c811fa1",
+      "title": "Iran war adds new layer to supply chain stress",
+      "url": "https://www.axios.com/2026/03/05/iran-war-trump-gas-prices",
+      "source": "Axios",
+      "published": "2026-03-05T16:55:05.000Z",
+      "description": "When war breaks out, micro issues have a way of quickly becoming macro issues. Specific blockages and bottlenecks tend to cause broad supply disruptions and price pressure.\n\nAnd so it is with the war in Iran.\n\nWhy it matters: Global supply chains have already been facing years of stress, first from the COVID-19 pandemic and then from the rise of tariffs and other trade barriers. The Middle East conflagration adds a new layer of stress.\n\nThe good news for American consumers is that the biggest ef",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article discusses geopolitical supply chain impacts with no connection to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:32.119Z"
+    },
+    {
+      "id": "5ceb830f9fce",
+      "title": "Exclusive: Trump says he must be involved in picking Iran's next leader",
+      "url": "https://www.axios.com/2026/03/05/iran-leader-trump-khamenei",
+      "source": "Axios",
+      "published": "2026-03-05T16:15:34.000Z",
+      "description": "President Trump told Axios in an interview Thursday that he needs to be personally involved in selecting Iran's next leader — just as he was in Venezuela.\n\nTrump revealed this exclusively in an eight-minute phone call — his second conversation with us to explain his war planning.\n\nWhy it matters: Trump acknowledged that Mojtaba Khamenei, son of assassinated supreme leader Ali Khamenei, is the most likely successor — while making clear he finds that outcome unacceptable.\n\nFor several days, the Ir",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This statement reflects Trump's foreign policy views on Iran succession but does not represent an action taken, institutional change, or direct threat to U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:32.356Z"
+    },
+    {
+      "id": "3ce42ec15098",
+      "title": "Here are all the countries now involved in the Iran war",
+      "url": "https://www.axios.com/2026/03/03/iran-war-countries-gulf-qatar-us",
+      "source": "Axios",
+      "published": "2026-03-05T14:28:46.000Z",
+      "description": "The war in Iran has rapidly expanded beyond the Middle East, pulling in U.S. allies and bystanders alike.\nThe big picture: Since the U.S. strikes began on Saturday, Iran has retaliated against Israel and multiple Gulf states, plunging the region further into chaos.\n\nU.S. embassies across the region remain on high alert, with the State Department urging Americans to leave immediately.\n\nHere's what we know about the countries involved.\nCountries involved with Iran war\nUnited States: President Trum",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy reporting on regional military conflict with no direct bearing on domestic democratic institutions, checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:32.223Z"
+    },
+    {
+      "id": "437f8b8c7be3",
+      "title": "Investors are buying America again with no other choice",
+      "url": "https://www.axios.com/2026/03/05/iran-war-oil-price-dollar",
+      "source": "Axios",
+      "published": "2026-03-05T12:00:06.000Z",
+      "description": "The dollar is so back. The U.S. currency — subject to a good deal of bad press for the past year or so — has strengthened in value against other currencies since the Iran war began.\nWhy it matters: It's not that people are falling in love with America again. It's more as if investors are running for safety toward the best option. And, like it or not, that's still the U.S. dollar.\n\nThe big picture: The spike in oil prices was the catalyst for a major global market disruption that's only beginning",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article discusses currency markets and investor behavior in response to geopolitical events, with no direct relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:32.408Z"
+    },
+    {
+      "id": "34b1af3b31f4",
+      "title": "Paxton offers conditions for potential exit from Texas Senate race ",
+      "url": "https://thehill.com/homenews/campaign/5769246-paxton-offers-conditions-on-potentially-dropping-out-of-texas-senate-race/",
+      "source": "The Hill",
+      "published": "2026-03-05T18:08:27.000Z",
+      "description": "Texas Attorney General Ken Paxton (R) suggested Thursday that he would be open to dropping out of the hotly contested Texas Senate primary against Sen. John Cornyn (R-Texas) if Senate Republicans met several conditions.  Paxton said on Thursday he would consider exiting the race if Senate leadership eliminated the filibuster — the 60-vote threshold needed to clear most legislation in…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about intraparty primary maneuvering with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:32.153Z"
+    },
+    {
+      "id": "ca15bccb14d8",
+      "title": "Johnson, GOP leaders ask Tony Gonzales to drop reelection after admitting affair",
+      "url": "https://thehill.com/homenews/house/5769266-ethics-investigation-into-gonzales-affair-and-staffer-suicide/",
+      "source": "The Hill",
+      "published": "2026-03-05T18:07:41.000Z",
+      "description": "House Republican leaders on Thursday called on Rep. Tony Gonzales (R-La.) to end his bid for reelection over an affair that the Texas congressman admitted he had with a staffer in his office who later died by suicide. Speaker Mike Johnson (R-La.), House Majority Leader Steve Scalise (R-La.), House Majority Whip Tom Emmer (R-Minn.), and…",
+      "keywords": [
+        "election",
+        "ICE",
+        "johnson",
+        "speaker",
+        "house majority"
+      ],
+      "significance": 4,
+      "reason": "Party discipline and internal accountability action that reflects routine congressional ethics concerns rather than systemic institutional checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-05T18:33:33.185Z"
+    },
+    {
+      "id": "ed23ae9a9503",
+      "title": "Blue states challenge Trump’s new tariffs ",
+      "url": "https://thehill.com/regulation/court-battles/5769215-democratic-led-states-challenge-trump-tariffs/",
+      "source": "The Hill",
+      "published": "2026-03-05T18:04:44.000Z",
+      "description": "Democratic-led states announced Thursday they are suing President Trump over his new tariffs, asserting they are illegal like his previous ones, which were recently struck down by the Supreme Court. Following the high court’s 6-3 blockbuster ruling that Trump can’t invoke a 1977 emergency law to impose his sweeping levies, the president has turned his gaze to another law that does authorize…",
+      "keywords": [
+        "ruling",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "This represents routine litigation within normal constitutional bounds where states use courts to challenge executive action, demonstrating checks and balances functioning as designed without institutional erosion or unprecedented developments.",
+      "categories": [
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:33.488Z"
+    },
+    {
+      "id": "d83c95cc2a33",
+      "title": "Rand Paul: Americans ‘have been robbed of a public debate’ on Iran war",
+      "url": "https://thehill.com/homenews/senate/5769230-rand-paul-opposes-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-05T18:02:51.000Z",
+      "description": "Sen. Rand Paul (R-Ky.) rebuked the Trump administration’s rollout of joint military strikes with Israel on Iran in a Fox News opinion piece published Thursday. Paul cited Congress’s constitutional authority to declare war, saying the decision to go to war “should be a collective decision, with a clear rationale for war articulated.” “The people have…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the article raises legitimate constitutional concerns about congressional war powers oversight, it represents routine political commentary on a specific military action rather than evidence of systemic institutional erosion or unprecedented democratic breakdown.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:33.457Z"
+    },
+    {
+      "id": "32d8941de5da",
+      "title": "Trump, Bondi sued over TikTok deal",
+      "url": "https://thehill.com/policy/technology/5769104-tiktok-lawsuit-trump-bondi/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:37:41.000Z",
+      "description": "Two investors sued President Trump and Attorney General Pam Bondi on Thursday over the administration’s approval of a deal that saw TikTok spun off into a separate American-owned entity in order to continue operating in the U.S. Zhaocheng Anthony Tan, a shareholder in Google’s parent company Alphabet, and Garrett Reid, a Meta shareholder, argue the…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A lawsuit challenging executive authority on a major tech policy raises institutional accountability questions, but the outcome remains uncertain and precedent-dependent rather than representing an immediate systemic threat.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-05T18:33:33.628Z"
+    },
+    {
+      "id": "261bdc26810c",
+      "title": "Rove: Talarico has chance of upset in Texas",
+      "url": "https://thehill.com/homenews/campaign/5769077-rove-talarico-texas-senate-upset/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:31:37.000Z",
+      "description": "Republican strategist Karl Rove said Thursday that Texas state Rep. James Talarico (D) has a chance of winning if Texas Attorney General Ken Paxton (R) becomes the GOP nominee. “[Democrats] haven’t won a Senate race here since 1988, they haven’t won a statewide race since 1994, but everybody believes that this year is the year…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 1,
+      "reason": "Routine political commentary on a state-level election race with no direct bearing on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:33.262Z"
+    },
+    {
+      "id": "9cec9dd931fc",
+      "title": "Trust in CDC, FDA, NIH shrinks: Survey",
+      "url": "https://thehill.com/policy/healthcare/5768898-public-health-trust-survey/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:22:01.000Z",
+      "description": "A poll published Thursday found that Americans have lost trust in federal health institutions and are more likely to say they trust independent, professional medical organizations when it comes to advice on topics like vaccination. The February survey by the Annenberg Public Policy Center (APPC) of the University of Pennsylvania found that public trust in…",
+      "keywords": [
+        "ICE",
+        "NIH"
+      ],
+      "significance": 4,
+      "reason": "Public opinion polling on institutional trust reflects potential concerns about federal agency credibility and independence, but represents a survey finding rather than an institutional action or policy change affecting democratic structures.",
+      "categories": [
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T18:33:34.517Z"
+    },
+    {
+      "id": "5a9be9ac7c8a",
+      "title": "Trump says he must be involved in selecting new Iran leader",
+      "url": "https://thehill.com/homenews/administration/5769144-trump-opposes-khamenei-son/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:18:02.000Z",
+      "description": "President Trump said Thursday that he must be personally involved in the process of selecting a new leader in Iran.  In an interview with Axios published Thursday, Trump said the son of the late Ayatollah Ali Khamenei, Mojtaba Khamenei, is most likely to succeed his father, but that the pick would be “unacceptable” to him. …",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine statement of foreign policy preference with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:34.501Z"
+    },
+    {
+      "id": "43e62bd05ad8",
+      "title": "Almost 20K US citizens returned from Middle East: State Department",
+      "url": "https://thehill.com/homenews/administration/5769091-americans-evacuated-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:09:52.000Z",
+      "description": "The State Department said Thursday that nearly 20,000 Americans have returned home from the Middle East since the U.S. military’s launch of strikes against Iran on Saturday.  Assistant Secretary of State Dylan Johnson said in a press release that this figure omits Americans who have relocated to other countries or who are currently traveling back…",
+      "keywords": [
+        "johnson",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine State Department administrative update about citizen repatriation logistics with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:34.431Z"
+    },
+    {
+      "id": "8b902beea87f",
+      "title": "Trump: ‘Bad’ for Paxton to say he won’t drop out if Cornyn gets endorsement",
+      "url": "https://thehill.com/homenews/campaign/5769100-trump-paxton-cornyn-gop-texas-senate-primary-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:09:06.000Z",
+      "description": "President Trump warned Texas Attorney General Ken Paxton on Thursday that it would be “bad for him” not to drop out of the state’s Republican Senate primary runoff if the president decides to back incumbent Sen. John Cornyn.  Trump was responding to a question during an interview with Politico about Paxton’s recent comments saying he…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about primary election dynamics and candidate positioning with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:34.473Z"
+    },
+    {
+      "id": "dbc39addc178",
+      "title": "Watch: House Republicans give remarks on DHS funding ahead of vote",
+      "url": "https://thehill.com/video-clips/5768789-watch-live-house-republicans-dhs-funding-iran-vote/",
+      "source": "The Hill",
+      "published": "2026-03-05T17:00:00.000Z",
+      "description": "House Republican Conference Chair Lisa McClain (Mich.) and other top Republicans spoke with reporters Thursday afternoon as funding for the Department of Homeland Security (DHS) remains in limbo nearly three weeks after appropriations lapsed. Republicans have revamped their push for Democrats to support legislation to reopen the DHS after the U.S. military launched a joint…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on standard congressional appropriations negotiations and legislative positioning without indication of institutional conflict or democratic norm violation.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T18:33:34.538Z"
+    },
+    {
+      "id": "7142db33a0ec",
+      "title": "Live updates: War powers debate shifts to House",
+      "url": "https://thehill.com/homenews/administration/5767427-live-updates-trump-iran-dhs-texas/",
+      "source": "The Hill",
+      "published": "2026-03-05T16:28:26.000Z",
+      "description": "The House is expected to take up a vote on a war powers resolution that would curb any further U.S. military action in Iran, and Democrats are scrambling to bolster support for it. Senate Republicans voted overwhelmingly Wednesday against the upper chamber’s resolution seeking to rein in President Trump, though several members are voicing concerns…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A war powers resolution represents notable congressional oversight action on executive military authority, but the outcome remains uncertain and similar debates occur regularly without necessarily shifting institutional balance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:35.599Z"
+    },
+    {
+      "id": "65b21ae827fe",
+      "title": "GOP chair hits Pentagon policy chief for keeping Congress out of the loop",
+      "url": "https://thehill.com/policy/defense/5769003-congress-upset-pentagon-policy-change/",
+      "source": "The Hill",
+      "published": "2026-03-05T16:26:07.000Z",
+      "description": "House Armed Services Committee Chair Mike Rogers (R-Ala.) on Thursday went after Pentagon policy chief Elbridge Colby for not keeping Congress in the loop on force posture changes in Europe. In a hearing on the National Defense Strategy, Rogers accused the Trump administration of sidelining Congress in its decision to pull a U.S. combat brigade…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents normal congressional oversight tension over executive branch transparency on military decisions, but lacks evidence of systematic institutional breakdown or unprecedented erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:35.495Z"
+    },
+    {
+      "id": "a1ac9407a2f3",
+      "title": "House Speaker Johnson calls on Texas Rep. Gonzales to drop reelection bid",
+      "url": "https://www.cnbc.com/2026/03/05/house-gop-gonzales-affair-reelection.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T18:22:13.000Z",
+      "description": "Rep. Tony Gonzales is the subject of an Ethics Committee investigation over a sexual relationship he had with a staffer who died last year.",
+      "keywords": [
+        "election",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 3,
+      "reason": "This represents routine political pressure within normal congressional processes, where party leadership responds to ethical scrutiny without institutional checks being undermined.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-05T18:33:36.110Z"
+    },
+    {
+      "id": "866e4d718dc1",
+      "title": "Epstein files: DOJ plans to release new batch of documents 'fairly soon,' MS NOW reports",
+      "url": "https://www.cnbc.com/2026/03/05/epstein-doj-bondi-trump.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T17:20:54.000Z",
+      "description": "The top lawyer for Goldman Sachs, Bill Gates, Leon Black and others are expected to testify soon about their dealings with Jeffrey Epstein to a House panel",
+      "keywords": [
+        "DOJ"
+      ],
+      "significance": 4,
+      "reason": "Document release and congressional testimony on a historical criminal case represent routine oversight activity without immediate implications for current institutional independence or democratic processes.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T18:33:35.484Z"
+    },
+    {
+      "id": "412515664547",
+      "title": "Is Cuba next? What the fallout from the Iran war means for Havana",
+      "url": "https://www.cnbc.com/2026/03/05/cuba-crisis-iran-war-trump-rubio-talks-venezuela-oil.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T12:44:36.000Z",
+      "description": "Speculation about what's next for Havana comes as the U.S. continues to attack Iran and shortly after Trump ordered U.S. forces to depose Venezuela's president.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article is foreign policy speculation with no direct bearing on the 12 tracked categories of domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:35.260Z"
+    },
+    {
+      "id": "cb391a5ad396",
+      "title": "The Terrifying New Era of American Imperialism",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-america-military-industrial-iran-war-1235524970/",
+      "source": "Rolling Stone",
+      "published": "2026-03-05T15:00:00.000Z",
+      "description": "The military-industrial complex is flourishing under Trump, but that doesn’t mean we can’t be optimistic about the nation’s future",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on military spending and foreign policy rather than reporting on institutional checks and balances, concrete policy changes, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-05T18:33:37.638Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-05T12:07:48.014Z"
+  "lastFetch": "2026-03-05T18:33:37.638Z"
 }
