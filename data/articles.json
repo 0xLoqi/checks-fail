@@ -39898,8 +39898,479 @@
       "reason": "This is a routine partisan hearing on state-level administrative matters with no direct bearing on federal democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-05T06:12:59.202Z"
+    },
+    {
+      "id": "5ba9b3f26bce",
+      "title": "Documents Reveal a Web of Financial Ties Between Trump Officials and the Industries They Help Regulate",
+      "url": "https://www.propublica.org/article/trump-administration-financial-disclosures-steve-feinberg",
+      "source": "ProPublica",
+      "published": "2026-03-05T10:00:00.000Z",
+      "description": "The post Documents Reveal a Web of Financial Ties Between Trump Officials and the Industries They Help Regulate appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Financial conflicts of interest between regulators and regulated industries represent a significant institutional threat to governmental integrity and democratic accountability, affecting multiple oversight mechanisms.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:42.654Z"
+    },
+    {
+      "id": "86af0c3cfe96",
+      "title": "Explore Financial Disclosures From President Trump and 1,500 of His Appointees",
+      "url": "https://projects.propublica.org/trump-team-financial-disclosures/",
+      "source": "ProPublica",
+      "published": "2026-03-05T09:55:00.000Z",
+      "description": "The post Explore Financial Disclosures From President Trump and 1,500 of His Appointees appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Financial disclosure transparency is foundational to anti-corruption oversight, but the significance depends on whether the disclosures reveal problematic conflicts of interest rather than their mere availability.",
+      "categories": [
+        "corruption & self-dealing",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:39.980Z"
+    },
+    {
+      "id": "1eaa4b5689bd",
+      "title": "House to vote after Senate failed to constrain Trump's war in Iran",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5736094/house-to-vote-after-senate-failed-to-constrain-trumps-war-in-iran",
+      "source": "NPR Politics",
+      "published": "2026-03-05T11:55:48.000Z",
+      "description": "The Senate did not approve a measure to constrain President Trump's actions in Iran the House is set to vote on a similar measure on Thursday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Senate failure to constrain executive war powers represents a notable erosion of congressional oversight, though the House vote demonstrates institutional checks still functioning.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:39.755Z"
+    },
+    {
+      "id": "6bfd18767c23",
+      "title": "Sen. Ron Johnson, R-Wis., talks about the conflict in the Middle East",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5735876/sen-ron-johnson-r-wis-talks-about-the-conflict-in-the-middle-east",
+      "source": "NPR Politics",
+      "published": "2026-03-05T11:55:42.000Z",
+      "description": "NPR's Steve Inskeep asks Republican Sen. Ron Johnson of Wisconsin for his perspective of the conflict in the Middle East and the failed Senate effort to restrain U.S. military actions against Iran.",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy matters with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:39.841Z"
+    },
+    {
+      "id": "d1f1257820ff",
+      "title": "In lawsuit, Minnesota accuses Trump administration of 'weaponizing' Medicaid funding",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5736589/medicaid-funding-lawsuit-minnesota-trump",
+      "source": "NPR Politics",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "The federal government said the state should do more to fight fraud and is holding back funds. Minnesota officials say the attack is unfair as the state's fraud rate is well below national averages.",
+      "keywords": [
+        "trump",
+        "medicaid"
+      ],
+      "significance": 5,
+      "reason": "A dispute over Medicaid fraud enforcement and funding involves potential abuse of executive power over federal programs, but lacks the scale or precedent of institutional checks being fundamentally undermined.",
+      "categories": [
+        "federal programs & agencies",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-05T12:07:39.932Z"
+    },
+    {
+      "id": "12b3da44b3e2",
+      "title": "A run for their money: Young candidates rival older incumbents in midterm fundraising",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5736533/midterms-fundraising-democrats",
+      "source": "NPR Politics",
+      "published": "2026-03-05T10:00:00.000Z",
+      "description": "As a growing crop of young candidates challenge longtime Democratic incumbents, some are not just breaking through in the money race, but outraising their opponents altogether.",
+      "keywords": [
+        "midterm"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine campaign fundraising dynamics and generational competition within normal electoral processes, with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:43.477Z"
+    },
+    {
+      "id": "fd6aca3fe39d",
+      "title": "House to vote on curbing Trump's Iran war powers",
+      "url": "https://www.cbsnews.com/news/house-vote-iran-war-powers-resolution-trump/",
+      "source": "CBS News",
+      "published": "2026-03-05T11:00:09.000Z",
+      "description": "The House resolution to rein in Trump's war powers in Iran is expected to fail, after the Senate resolution was voted down Wednesday.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight of executive war powers is a fundamental check-and-balance mechanism, but the expected failure of the resolution indicates limited institutional resistance rather than a decisive democratic moment.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:43.566Z"
+    },
+    {
+      "id": "7f25bab7c6f0",
+      "title": "House to vote again on DHS funding as GOP stresses urgency amid Iran war",
+      "url": "https://www.cbsnews.com/news/house-vote-dhs-funding-shutdown-iran-war-urgency/",
+      "source": "CBS News",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "GOP leaders said the lack of long-term funding for the Department of Homeland Security puts the nation at risk amid heightened threats.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine budget appropriations debate with standard partisan framing about DHS funding urgency, lacking evidence of institutional breakdown or democratic erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T12:07:43.677Z"
+    },
+    {
+      "id": "ccf440123198",
+      "title": " Obama throws his support behind Virginia Democrats' redistricting plan",
+      "url": "https://abcnews.com/Politics/wireStory/obama-throws-support-virginia-democrats-redistricting-plan-heads-130782616",
+      "source": "ABC News",
+      "published": "2026-03-05T11:54:56.000Z",
+      "description": "Former President Barack Obama is promoting a Democratic effort to redraw congressional lines in Virginia, the latest front in a nationwide redistricting battle ahead of this year’s midterm elections",
+      "keywords": [
+        "election",
+        "midterm"
+      ],
+      "significance": 5,
+      "reason": "While redistricting involves important democratic processes, this article documents routine partisan advocacy rather than institutional action or policy changes that would constitute a check or erosion of checks and balances.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:44.625Z"
+    },
+    {
+      "id": "698d4f5b5ed4",
+      "title": " Families turn to states for civil rights support as Trump dismantles the education",
+      "url": "https://abcnews.com/Politics/wireStory/families-turn-states-civil-rights-support-trump-dismantles-130779794",
+      "source": "ABC News",
+      "published": "2026-03-05T06:49:51.000Z",
+      "description": "As the Trump administration dismantles the Education Department, the agency is pulling back on its role policing discrimination in America’s schools",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Dismantling of Education Department's civil rights enforcement represents a significant institutional action affecting civil rights protections and federal program oversight with direct implications for democratic accountability.",
+      "categories": [
+        "civil rights & immigration",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:44.694Z"
+    },
+    {
+      "id": "8742f041bebd",
+      "title": " Utah Republican Burgess Owens announces retirement from Congress after redistricting shakeup",
+      "url": "https://abcnews.com/Politics/wireStory/utah-republican-burgess-owens-announces-retirement-congress-after-130775855",
+      "source": "ABC News",
+      "published": "2026-03-05T02:18:46.000Z",
+      "description": "U.S. Rep. Burgess Owens has announced that he will not seek reelection after a redistricting shakeup left Utah's four Republican representatives to vie for three U.S. House seats this fall",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A single congressman's retirement decision following routine redistricting is standard electoral activity with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:44.471Z"
+    },
+    {
+      "id": "83e42b201ffa",
+      "title": " Montana Republican US Sen. Steve Daines has dropped his bid for reelection",
+      "url": "https://abcnews.com/Politics/wireStory/montana-republican-us-sen-steve-daines-dropped-bid-130773551",
+      "source": "ABC News",
+      "published": "2026-03-05T08:53:34.000Z",
+      "description": "Montana Republican US Sen. Steve Daines has dropped his bid for reelection to a third term",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A senator's decision not to seek reelection is routine electoral news with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:44.425Z"
+    },
+    {
+      "id": "411cf03a562d",
+      "title": " Federal judge blocks Florida governor's foreign terrorist label of Muslim groups",
+      "url": "https://abcnews.com/Politics/wireStory/federal-judge-blocks-florida-governors-foreign-terrorist-label-130772973",
+      "source": "ABC News",
+      "published": "2026-03-05T00:50:59.000Z",
+      "description": "A federal judge has temporarily blocked the enforcement of an executive order issued last year by Florida Gov. Ron DeSantis that designates two Muslim groups as foreign terrorist organizations",
+      "keywords": [
+        "executive order"
+      ],
+      "significance": 7,
+      "reason": "Judicial independence reasserted through blocking executive overreach on national security designations, establishing important precedent for separation of powers and civil rights protection.",
+      "categories": [
+        "judicial independence",
+        "immigration & civil rights",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-05T12:07:44.687Z"
+    },
+    {
+      "id": "fc6d34490c05",
+      "title": " Florida revives a long-dormant probe into Raul Castro over 1996 shootdown of exile group's plane",
+      "url": "https://abcnews.com/Politics/wireStory/florida-revives-long-dormant-probe-raul-castro-1996-130772049",
+      "source": "ABC News",
+      "published": "2026-03-04T23:07:26.000Z",
+      "description": "Florida’s attorney general says Florida has reopened a criminal investigation into former Cuban leader Raul Castro’s role in the 1996 shootdown of exile planes",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is a state-level criminal investigation into a foreign leader for a historical event with no direct bearing on current U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:45.477Z"
+    },
+    {
+      "id": "8cdb870221d2",
+      "title": " Colorado governor signals willingness to release Tina Peters from prison amid Trump pressure",
+      "url": "https://abcnews.com/Politics/wireStory/colorado-governor-signals-willingness-release-tina-peters-prison-130771673",
+      "source": "ABC News",
+      "published": "2026-03-05T05:06:36.000Z",
+      "description": "Colorado’s Democratic governor is signaling his openness to granting clemency to a former county clerk who was convicted in a scheme attempting to find proof of fraud in the 2020 presidential election",
+      "keywords": [
+        "election",
+        "trump",
+        "clemency"
+      ],
+      "significance": 5,
+      "reason": "A potential clemency decision raises concerns about political pressure on executive actions, but the outcome remains uncertain and the underlying conviction stands on its merits.",
+      "categories": [
+        "political retribution",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-05T12:07:45.885Z"
+    },
+    {
+      "id": "9c4018d9f23b",
+      "title": " House committee votes to subpoena Attorney General Bondi to answer questions over the Epstein files",
+      "url": "https://abcnews.com/Politics/wireStory/house-committee-votes-subpoena-attorney-general-bondi-answer-130767840",
+      "source": "ABC News",
+      "published": "2026-03-05T00:10:59.000Z",
+      "description": "The House Oversight Committee has voted to subpoena Attorney General Pam Bondi to answer questions over the Justice Department’s handling of files related to the Jeffrey Epstein sex trafficking investigation",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Congressional oversight action addressing DOJ handling of sensitive materials is notable but represents normal legislative check-and-balance function rather than unprecedented institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:45.534Z"
+    },
+    {
+      "id": "9f9970914340",
+      "title": "America's new war machines showcased in Iran war",
+      "url": "https://www.axios.com/2026/03/05/iran-war-anthropic-prsm-drones",
+      "source": "Axios",
+      "published": "2026-03-05T10:00:04.000Z",
+      "description": "In less than one week, the Iran war has produced a remarkable string of combat firsts that pull back the curtain on an American military boosted by AI and stocked with upgraded weapons.\nWhy it matters: Some of America's defense-tech advancements have been on full display during Operation Epic Fury. The Trump administration has been happy to confirm — and flex — the results.\n\nDefense Secretary Pete Hegseth said at a Pentagon briefing Wednesday that Washington is \"punching\" Tehran while it's down,",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article focuses on military technology and operational capabilities rather than democratic institutional checks, oversight mechanisms, or erosion of democratic guardrails.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:45.716Z"
+    },
+    {
+      "id": "5d8cd72f626e",
+      "title": "How fired-up Texas Dems give Talarico a jolt toward November",
+      "url": "https://www.axios.com/2026/03/05/democrats-texas-talarico-voter-turnout",
+      "source": "Axios",
+      "published": "2026-03-05T10:00:04.000Z",
+      "description": "\"Turn Texas blue\" has been more of a punchline than a battle cry in the Lone Star State lately, but Democrats' enthusiastic turnout in Tuesday's Senate primary has given them hope for November.\nWhy it matters: In counties across Texas, Democratic voters made up a dramatically larger percentage of the electorate than in 2024 — with big increases in hot battlegrounds such as mostly Hispanic South Texas and the well-off suburbs of North Texas.\n\nZoom in: Democrats and what appeared to be a significa",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "midterm",
+        "attorney general",
+        "ICE",
+        "johnson",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political coverage of Democratic primary turnout in Texas with no direct implications for institutional checks and balances, separation of powers, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:45.701Z"
+    },
+    {
+      "id": "a10422f8be17",
+      "title": "How a feud led a billionaire donor to oust Rep. Crenshaw",
+      "url": "https://www.axios.com/2026/03/05/billionaire-donor-feud-dan-crenshaw",
+      "source": "Axios",
+      "published": "2026-03-05T09:55:05.000Z",
+      "description": "Texas Rep. Dan Crenshaw owes his defeat in this week's Republican primary to a billionaire megadonor who was hellbent on ending Crenshaw's career, sources tell Axios.\nWhy it matters: Texas banker Robert Marling's role in funding an anti-Crenshaw advertising blitz starkly illustrates how a lone billionaire can banish a member of Congress.\n\nIn this case, Marling's clout meant Crenshaw was the first House incumbent to be ousted in 2026. Crenshaw lost to Texas state Rep. Steve Toth, a hard-line cons",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "While the article demonstrates concerning billionaire influence over electoral outcomes, it represents a notable but not unprecedented example of money in politics affecting congressional races rather than a direct institutional erosion of formal checks and balances.",
+      "categories": [
+        "corruption & self-dealing",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:46.976Z"
+    },
+    {
+      "id": "d1ae60035f53",
+      "title": "Trump plows ahead on Iran",
+      "url": "https://thehill.com/newsletters/morning-report/5768519-trump-iran-conflict-escalates/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:40:28.000Z",
+      "description": "Today: Iran war powers push comes up short, Bondi subpoenaed by GOP-led panel, Gonzales admits to affair, Dems split over Tina Peters",
+      "keywords": [
+        "bondi",
+        "subpoena",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Routine political news covering foreign policy disagreements, standard congressional subpoenas, personal disclosures, and intra-party divisions without evidence of systemic threats to democratic institutions.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:46.892Z"
+    },
+    {
+      "id": "19ea0ef9e82c",
+      "title": "GOP anxieties rise in Texas after Talarico victory",
+      "url": "https://thehill.com/homenews/campaign/5767763-cornyn-paxton-runoff-trump-pressure/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "Republican anxieties are rising in Texas, where Sen. John Cornyn and state Attorney General Ken Paxton will clash in a runoff race in May, as Democrats rally around the winner of their primary: state Rep. James Talarico. Democrats have long had their sights on a big win in Texas, and they feel they’d have an…",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine electoral politics and candidate positioning in a state race, with no direct implications for federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:46.744Z"
+    },
+    {
+      "id": "3aa616d562d5",
+      "title": "Estrogen patches harder to find as FDA pushes hormone therapy",
+      "url": "https://thehill.com/policy/healthcare/5767733-estrogen-patches-demand-rise-supply-issues/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "Estrogen patches, one of the most common forms of hormone therapy for women, are becoming harder to find, and some manufacturers say a recent action by Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. is a significant driver of rising demand.     In November, Kennedy announced from HHS headquarters that the Food and Drug…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine healthcare policy news story about drug supply and FDA regulatory action with no direct bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:46.662Z"
+    },
+    {
+      "id": "0ad1d3a02d47",
+      "title": "Drone shows, field trips and a birthday party: Schools prepare to celebrate America’s 250th",
+      "url": "https://thehill.com/homenews/education/5767311-america-250-semiquincentennial-july-4/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "America’s schools are going all out for the 250th anniversary of the United States.   Field trips, essay contests and drone displays are all in the works as administrators tell The Hill their students and teachers are excited for the upcoming events to commemorate the beginning of the country.   Some museums and historical sites have seen controversy over how the semiquincentennial…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is routine news about celebratory school events with no bearing on democratic institutions, governance, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:46.699Z"
+    },
+    {
+      "id": "bb3725f12cb6",
+      "title": "Democrats race to shore up support for war powers resolution as lines of opposition shift",
+      "url": "https://thehill.com/homenews/house/5768083-democrats-war-powers-iran/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "Democratic leaders are racing to rally their troops behind legislation limiting President Trump’s war powers in Iran, hoping to minimize the defections ahead of Thursday’s vote. The war powers resolution seems likely to fail, given the opposition from virtually all of the Republicans who control the House, combined with a handful of Democrats who are…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "This represents a notable exercise of congressional oversight of executive war powers, a core democratic check, but the likely failure suggests limited institutional effectiveness.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-05T12:07:47.939Z"
+    },
+    {
+      "id": "757dc9b797e5",
+      "title": "Trump regulator splits GOP with prediction market fight",
+      "url": "https://thehill.com/policy/technology/5767612-trump-regulator-splits-gop-with-prediction-market-fight/",
+      "source": "The Hill",
+      "published": "2026-03-05T11:00:00.000Z",
+      "description": "The Trump administration is wading into a legal fight between prediction markets and state regulators seeking to enforce gambling laws within their borders, in a dispute splitting Republicans. Prediction markets, like Kalshi and Polymarket, are facing off against state regulators in numerous cases, in which they’ve been accused of allowing users to place bets even…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but not urgent institutional action involving executive regulatory positioning on a legitimate legal dispute, with some relevance to federal agency independence and potential self-dealing concerns, though lacking the scale of major democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-05T12:07:48.014Z"
+    },
+    {
+      "id": "a31b24aa9265",
+      "title": "Why Iran war oil price shock won't stop Fed pick Kevin Warsh from cutting interest rates",
+      "url": "https://www.cnbc.com/2026/03/05/iran-oil-fed-kevin-warsh.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T11:44:50.000Z",
+      "description": "President Donald Trump's choice to lead the Federal Reserve sees inflation risk very differently than Chairman Jerome Powell.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Article discusses economic policy disagreements between a Fed nominee and current chairman, which is routine political commentary without evidence of institutional erosion or democratic process violations.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:47.960Z"
+    },
+    {
+      "id": "80b477ae102a",
+      "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
+      "url": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T12:07:09.000Z",
+      "description": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign policy dispute between the U.S. and Spain regarding military cooperation, with no bearing on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-05T12:07:47.859Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-05T06:12:59.202Z"
+  "lastFetch": "2026-03-05T12:07:48.014Z"
 }
