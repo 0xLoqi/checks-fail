@@ -74,26 +74,6 @@
       "scoredAt": "2026-02-09T17:49:32.473Z"
     },
     {
-      "id": "f9c6fb2e59ff",
-      "title": "The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building",
-      "url": "https://www.propublica.org/article/chicago-venezuela-immigration-ice-raid-landlord-tren-de-aragua",
-      "source": "ProPublica",
-      "published": "2026-02-04T15:30:00.000Z",
-      "description": "The post The Real Story Behind the Midnight Immigration Raid on a Chicago Apartment Building appeared first on ProPublica.",
-      "keywords": [
-        "raid",
-        "immigration",
-        "DNI"
-      ],
-      "significance": 6,
-      "reason": "Investigative reporting on immigration enforcement operations raises concerns about civil rights and agency accountability, but without details on systemic violations or institutional failures, it falls into notable but not urgent territory.",
-      "categories": [
-        "immigration & civil rights",
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:33.160Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -2272,21 +2252,6 @@
         "press_freedom"
       ],
       "scoredAt": "2026-02-09T17:51:22.901Z"
-    },
-    {
-      "id": "71b533f37185",
-      "title": "How a Labor Leader Took Down a Culture Warrior in Ruby Red Texas",
-      "url": "https://www.rollingstone.com/politics/politics-features/taylor-rehmet-texas-state-senate-trump-district-1235510776/",
-      "source": "Rolling Stone",
-      "published": "2026-02-04T15:00:00.000Z",
-      "description": "“People who are frustrated and angry? They always vote,” Democrat Taylor Rehmet says of his upset win in a district that supported Trump by double digits",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a local election profile piece focused on a Democratic candidate's upset victory strategy rather than an analysis of institutional checks and balances or democratic erosion.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:21.871Z"
     },
     {
       "id": "eef5e49daeff",
@@ -42832,8 +42797,621 @@
       "reason": "This article addresses foreign policy and military strategy rather than domestic democratic institutions, checks and balances, or governance structures.",
       "categories": [],
       "scoredAt": "2026-03-06T12:05:50.681Z"
+    },
+    {
+      "id": "3e9eef1125e3",
+      "title": "Trump's pick for DHS secretary leaves US Senate vacancy in deep-red Oklahoma",
+      "url": "https://www.pbs.org/newshour/politics/trumps-pick-for-dhs-secretary-leaves-us-senate-vacancy-in-deep-red-oklahoma",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T16:51:27.000Z",
+      "description": "Stitt said in a statement Thursday that he will look to appoint \"a strong, small government conservative voice to support President Trump.\"",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A cabinet appointment creating a Senate vacancy is a routine personnel matter with minimal direct impact on institutional checks and balances, though the replacement process warrants monitoring.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T18:08:25.129Z"
+    },
+    {
+      "id": "54a8ff303bc8",
+      "title": "Who is Markwayne Mullin, Trump's new pick for DHS?",
+      "url": "https://www.pbs.org/newshour/politics/who-is-markwayne-mullin-trumps-new-pick-for-dhs",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T16:24:26.000Z",
+      "description": "The 48-year-old Republican has become one of Trump's fiercest defenders in the U.S. Senate.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A cabinet nomination announcement is notable but routine; significance depends on confirmation hearing revelations and Mullin's actual record on relevant checks-and-balances issues.",
+      "categories": [
+        "congressional oversight",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-03-06T18:08:25.293Z"
+    },
+    {
+      "id": "ea0911dbf4d4",
+      "title": "Trump rules out talks absent Iran's 'unconditional surrender' as Israel strikes Lebanon",
+      "url": "https://www.pbs.org/newshour/world/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T15:21:21.000Z",
+      "description": "The strikes in Lebanon were the heaviest since a 2024 ceasefire ended the last war between Israel and the Iran-backed Hezbollah, who fired rockets at Israel in the opening days of the latest conflict.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign policy and military developments in the Middle East with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:24.958Z"
+    },
+    {
+      "id": "4ab652b2f8f7",
+      "title": "WATCH LIVE: Rev. Jesse Jackson celebrated in memorial service with Obama, Biden and Clinton",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-rev-jesse-jackson-celebrated-in-memorial-service-with-obama-biden-and-clinton",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T14:51:11.000Z",
+      "description": "Three former U.S. presidents, Grammy-winning artists, clergy and elected officials are expected to attend a Chicago celebration of life on Friday for the late Rev. Jesse Jackson Sr.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a memorial service announcement for a prominent civil rights figure with no direct relevance to democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:25.002Z"
+    },
+    {
+      "id": "08a05fc6fa6c",
+      "title": "Russia is providing intelligence to Iran on the location of U.S. forces, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/russia-providing-intelligence-iran-location-us-forces-sources-say-rcna262115",
+      "source": "NBC News",
+      "published": "2026-03-06T17:31:19.000Z",
+      "description": "Russia is providing intelligence to Iran on the location of U.S. forces in the Middle East, a boost for the Tehran regime as it launches missile and drone attacks on American bases and other targets in the region, according to four sources with knowledge of the matter.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "While concerning for military strategy and foreign policy, this primarily involves intelligence sharing between adversaries rather than directly impacting domestic democratic institutions or checks and balances.",
+      "categories": [
+        "intelligence community integrity"
+      ],
+      "scoredAt": "2026-03-06T18:08:26.095Z"
+    },
+    {
+      "id": "473d42196ccb",
+      "title": "DOJ Releases Missing Epstein Files Related to Trump Accuser",
+      "url": "https://www.today.com/video/doj-releases-epstein-files-related-to-allegations-against-trump-258820165652",
+      "source": "NBC News",
+      "published": "2026-03-06T13:21:03.000Z",
+      "description": "The Justice Department on Thursday released previously unseen documents from the Jeffrey Epstein files related to a woman who made accusations against President Donald Trump. The woman claims she was assaulted by Trump in the 1980s when she was between the ages of 13 and 15. It’s unclear whether the FBI considered the allegations credible.",
+      "keywords": [
+        "DOJ",
+        "FBI",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The release of previously withheld documents represents a notable action regarding DOJ transparency and potential judicial/investigative matters, but lacks evidence of systematic institutional erosion or unprecedented democratic threat.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-06T18:08:26.376Z"
+    },
+    {
+      "id": "035c7f13209f",
+      "title": "What Led to Trump Firing Homeland Security Sec. Kristi Noem?",
+      "url": "https://www.today.com/video/what-led-to-trump-firing-homeland-security-sec-kristi-noem-258819141836",
+      "source": "NBC News",
+      "published": "2026-03-06T13:19:01.000Z",
+      "description": "President Donald Trump has fired Homeland Security Secretary Kristi Noem on Thursday, making her the first cabinet member to be removed in Trump’s second term. An administration official tells NBC News the move was due to a culmination of Noem’s “many unfortunate leadership failures,” most recently a grilling on Capitol Hill over a $220 million border security ad campaign that featured her prominently. NBC’s Garrett Haake reports and Moderator of Meet the Press Kristen Welker joins TOD",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A cabinet firing due to performance issues is within presidential authority, but the timing and context warrant monitoring for patterns of political loyalty enforcement versus institutional accountability.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T18:08:26.352Z"
+    },
+    {
+      "id": "23f603375084",
+      "title": "Gas Prices in US Rise More Than 33 Cents Since Start of Iran War",
+      "url": "https://www.today.com/video/us-gas-prices-jump-33-cents-in-1-week-since-start-of-war-in-iran-258816581868",
+      "source": "NBC News",
+      "published": "2026-03-06T12:32:23.000Z",
+      "description": "As the war in Iran continues, gas prices are rising in the United States and are now up more than 33 cents in the week since it started. NBC’s Christine Romans joins TODAY to break down the economic impact of the conflict, how Wall Street is reacting after the closure of the critical Strait of Hormuz shipping channel and more.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article reports on economic consequences of geopolitical events rather than issues affecting democratic institutions, checks and balances, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:26.101Z"
+    },
+    {
+      "id": "3172172d9210",
+      "title": "Boston man dies in ICE custody; family says toothache became deadly infection",
+      "url": "https://www.cbsnews.com/news/emmanuel-damas-ice-death-toothache-boston-arizona/",
+      "source": "CBS News",
+      "published": "2026-03-06T15:20:00.000Z",
+      "description": "Lawmakers are demanding an investigation after a man from Haiti who was seeking asylum in Massachusetts died in ICE custody.",
+      "keywords": [
+        "ICE",
+        "asylum"
+      ],
+      "significance": 5,
+      "reason": "This incident raises serious concerns about civil rights and government accountability within immigration enforcement, warranting investigation but not representing an unprecedented systemic erosion of checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T18:08:27.440Z"
+    },
+    {
+      "id": "dd624ce802ef",
+      "title": " Lindsey Halligan, Trump-appointed former acting US attorney, faces Florida Bar probe",
+      "url": "https://abcnews.com/Politics/wireStory/lindsey-halligan-trump-appointed-former-acting-us-attorney-130828235",
+      "source": "ABC News",
+      "published": "2026-03-06T17:51:19.000Z",
+      "description": "Lindsey Halligan is a former White House aide for President Donald Trump who as a top federal prosecutor in Virginia pursued cases against the president’s opponents but ultimately left the job after her appointment was deemed unlawful.",
+      "keywords": [
+        "prosecutor",
+        "white house",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A Bar disciplinary probe into a Trump-appointed prosecutor's conduct reflects institutional accountability mechanisms at work, but lacks the immediacy or systemic scope of higher-tier threats to democratic checks.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T18:08:27.709Z"
+    },
+    {
+      "id": "12055e0677b3",
+      "title": "Trump demands \"UNCONDITIONAL SURRENDER\" from Iran",
+      "url": "https://www.axios.com/2026/03/06/trump-iran-war-unconditional-surrender",
+      "source": "Axios",
+      "published": "2026-03-06T17:52:28.000Z",
+      "description": "President Trump on Friday demanded \"UNCONDITIONAL SURRENDER\" from Iran's ruling regime — the most unambiguous statement of U.S. war aims since the operation began seven days ago.\nWhy it matters: The demand leaves no visible off-ramp. If Iran refuses to capitulate — and there is no indication yet that it will — the war could continue until the regime collapses or Trump blinks.\n\nDriving the news: Several hours before Trump's statement, Iranian President Masoud Pezeshkian wrote on X that \"some coun",
+      "keywords": [
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy and military strategy toward Iran, which falls outside the 12 tracked categories of domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:27.255Z"
+    },
+    {
+      "id": "f4cf81541a99",
+      "title": "Energy woes deepen as Trump team looks to soften blow",
+      "url": "https://www.axios.com/2026/03/06/oil-gasoline-prices-trump-hormuz-russia",
+      "source": "Axios",
+      "published": "2026-03-06T13:12:10.000Z",
+      "description": "Oil and gasoline prices are marching upward again Friday, even as Trump administration officials seek ways to get more barrels into the market.\nWhy it matters: Ships avoiding the Strait of Hormuz and military threats to regional infrastructure are together shocking oil and natural gas markets. \n\n\"There's no doubt that what's happening now is an order of magnitude bigger — in terms of potential fallout for oil markets — than Russia's invasion of Ukraine,\" writes Robin Brooks, a Brookings Institut",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article addresses energy market economics and geopolitical supply disruptions, which fall outside the 12 tracked categories of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:27.182Z"
+    },
+    {
+      "id": "7f6b01b56f57",
+      "title": "MTG pushes Tucker 2028",
+      "url": "https://www.axios.com/2026/03/06/tucker-carlson-2028-president-bid-trump-mtg",
+      "source": "Axios",
+      "published": "2026-03-06T12:09:33.000Z",
+      "description": "Via X\nFormer Rep. Marjorie Taylor Greene (R-Ga.) suggested Tucker Carlson should run for president after President Trump told ABC News that Carlson had \"lost his way.\"\nWhy it matters: Carlson is one of the right's most-influential voices and he will remain so as long as influential figures like Greene want to see him in the White House.\n\nCarlson has said no to a presidential bid in the past, and the highly likely scenario is that he backs Vice President JD Vance's expected campaign to succeed Tr",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about speculation regarding a potential presidential candidate, with no institutional action or policy impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:27.267Z"
+    },
+    {
+      "id": "357e713641f1",
+      "title": "The era of Doctor AI is already here",
+      "url": "https://www.axios.com/2026/03/06/ai-doctor-health-information-consumers",
+      "source": "Axios",
+      "published": "2026-03-06T10:30:06.000Z",
+      "description": "Like it or not, consumers are already consulting AI for medical advice whenever they want to.\nWhy it matters: This is opening access to medical information in an entirely new way. The problem is, that advice may not always be very good.\n\nWhere it stands: OpenAI put out some numbers in January: More than 40 million people ask its ChatGPT health care-related questions every day, and 1 in 4 of the tool's approximately 800 million regular users submits a health care prompt every week.\n\nThe careful d",
+      "keywords": [
+        "ICE",
+        "white house",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns AI medical advice accessibility and accuracy, which has no direct bearing on any of the 12 tracked categories of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:28.478Z"
+    },
+    {
+      "id": "11bf16e3518e",
+      "title": "White House puts red state AI laws under scrutiny",
+      "url": "https://www.axios.com/2026/03/06/white-house-red-state-ai-laws-scrutiny",
+      "source": "Axios",
+      "published": "2026-03-06T10:00:05.000Z",
+      "description": "GOP lawmakers in several red states want to pass AI safety bills, but their efforts are being chilled by the fear of angering the White House.\nWhy it matters: State lawmakers eager to tackle AI over concerns about kids, jobs and privacy are facing pushback from the White House, with tensions poised to spike next week.\n\nThe Trump administration's pending list of \"onerous\" state AI laws could set up a federal crackdown on state regulation and reshape who writes the rules for AI.\n\nDriving the news:",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "speaker",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable executive-legislative tension over regulatory authority with potential institutional implications, but lacks the immediacy or unprecedented nature of critical democratic erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T18:08:28.690Z"
+    },
+    {
+      "id": "e8e685262f67",
+      "title": "With media distrust at an all-time high, journalists must do some soul-searching",
+      "url": "https://thehill.com/opinion/5769193-media-trust-erosion-journalism/",
+      "source": "The Hill",
+      "published": "2026-03-06T18:00:00.000Z",
+      "description": "According to Gallup, only 28 percent of Americans trust the media to report the news accurately and fairly, and until the press is willing to apply the same scrutiny to itself that it applies to everyone else, that number is unlikely to increase.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary about media trust and internal press accountability rather than reporting on an institutional action, policy change, or threat to democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-06T18:08:28.723Z"
+    },
+    {
+      "id": "ac19d73d956c",
+      "title": "Wright says gas prices will fall in ‘weeks’ not ‘months’ amid Iran turmoil",
+      "url": "https://thehill.com/policy/energy-environment/5771514-iran-gas-prices-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-06T17:32:05.000Z",
+      "description": "Energy Secretary Chris Wright is projecting that gas prices will fall within “weeks, not months” amid growing concern about energy instability as the U.S. and Israel escalate their military operations in Iran.   “Look, Iran’s been an escalator of energy prices 47 years, the whole history of their regime,” Wright said Thursday morning on “FOX…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on an energy secretary's public statement about gas prices with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:28.519Z"
+    },
+    {
+      "id": "d6943f6e89d1",
+      "title": "Florida Bar says it ‘erroneously’ stated Halligan is under investigation",
+      "url": "https://thehill.com/regulation/court-battles/5771548-florida-bar-lindsey-halligan-probe-error/",
+      "source": "The Hill",
+      "published": "2026-03-06T17:31:04.000Z",
+      "description": "Florida’s bar says it “erroneously” stated that an ethics investigation is underway against Lindsey Halligan, the ex-U.S. attorney in the Eastern District of Virginia who prosecuted President Trump’s political adversaries.  A spokesperson for the Florida Bar said in a statement to The Hill that no such pending investigation exists.  “In response to an inquiry from a complainant, The…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A retraction of an ethics investigation claim is notable but does not itself constitute institutional erosion; however, the context of prosecutorial actions against political adversaries warrants monitoring for potential political retribution patterns.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T18:08:28.901Z"
+    },
+    {
+      "id": "9347dd704edb",
+      "title": "Colbert mocks Noem over ouster: ‘She’s a domestic terrorist who deserves to go to Gitmo’",
+      "url": "https://thehill.com/blogs/in-the-know/5771484-colbert-noem-dhs-mullin/",
+      "source": "The Hill",
+      "published": "2026-03-06T17:28:13.000Z",
+      "description": "Late-night host Stephen Colbert mocked Kristi Noem’s ouster as secretary of the Department of Homeland Security (DHS) on Thursday, throwing back at her the highly criticized language she used to describe the U.S. citizens killed by federal immigration authorities in Minneapolis. “It’s too soon to know exactly why Kristi Noem is gone, but before we…",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is late-night entertainment commentary on a personnel decision, not an analysis of institutional structures or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:29.646Z"
+    },
+    {
+      "id": "4a03a2a0ab1f",
+      "title": "Final Trump ballroom vote set for April",
+      "url": "https://thehill.com/homenews/administration/5771475-trump-white-house-ballroom-vote/",
+      "source": "The Hill",
+      "published": "2026-03-06T17:23:27.000Z",
+      "description": "The National Capital Planning Commission set an early April date to approve President Trump’s controversial plan to add a ballroom to the White House. After hearing hours of criticism from members of the public, the commission on Thursday set April 2 as the date it will vote to approve the ballroom.  The U.S. Commission of Fine Arts approved the…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A scheduled vote on White House architectural modifications is routine administrative procedure with no bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:29.854Z"
+    },
+    {
+      "id": "667dc0de0af2",
+      "title": "Pokémon Co. calls out White House over game-themed ‘MAGA’ post",
+      "url": "https://thehill.com/homenews/5771485-pokemon-company-calls-out-white-house-over-game-themed-maga-post/",
+      "source": "The Hill",
+      "published": "2026-03-06T17:11:45.000Z",
+      "description": "Once again, the folks behind the massively popular Pokémon franchise have issued a statement distancing themselves from the Trump administration's activities.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "A private company's trademark/brand protection statement has no direct bearing on democratic institutions, checks and balances, or government accountability.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:29.666Z"
+    },
+    {
+      "id": "3e1d2356de2d",
+      "title": "NC Republicans welcome Noem’s firing if it brings FEMA changes",
+      "url": "https://thehill.com/homenews/state-watch/5771341-north-carolina-gop-fema-funds-dhs-changes-noem-ouster/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:32:33.000Z",
+      "description": "Two North Carolina Republicans signaled support Thursday for a change in leadership at the Department of Homeland Security (DHS) if it meant disaster aid would start flowing more quickly to areas in their state hit hard by recent storms. President Trump announced Thursday that he was replacing Kristi Noem as DHS secretary with Sen. Markwayne…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Reports routine political support for a Cabinet secretary change without evidence of systemic threats to democratic institutions or checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T18:08:29.835Z"
+    },
+    {
+      "id": "40dc6951dacd",
+      "title": "Ex-Marine forcibly removed from hearing vows to continue Senate campaign",
+      "url": "https://thehill.com/homenews/campaign/5771363-brian-mcginnis-protest-green-party-senate-race/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:21:13.000Z",
+      "description": "The ex-Marine who was forcibly removed by police from a congressional hearing for protesting Wednesday said the incident made him “only more determined” to continue his candidacy for the U.S. Senate.  Brian McGinnis is running as the Green Party candidate in North Carolina’s election to replace outgoing Sen. Thom Tillis (R). The anti-war activist could…",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign news about a candidate's response to a removal incident, with no systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:29.925Z"
+    },
+    {
+      "id": "333b1e4e24d8",
+      "title": "How to watch Jesse Jackson’s funeral in Chicago",
+      "url": "https://thehill.com/blogs/in-the-know/5771324-how-to-watch-jesse-jackson-funeral-in-chicago/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:10:40.000Z",
+      "description": "The funeral for civil rights leader the Rev. Jesse Jackson is being held Friday afternoon at the House of Hope in Chicago. The service at 752 E. 114th St. will begin at noon EST, with the doors opening to guests at 10 a.m. Former Presidents Clinton, Obama and Biden are expected to attend the memorial…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a logistical announcement about a funeral service with no relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:30.880Z"
+    },
+    {
+      "id": "d0a2c5fac8c1",
+      "title": "Trump administration, Venezuela reestablishing diplomatic ties after Maduro capture",
+      "url": "https://thehill.com/policy/international/5771361-venezuela-us-ties-reestablished/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:09:49.000Z",
+      "description": "The United States and Venezuela agreed to reestablish diplomatic relations, two months after President Trump launched a military operation that resulted in the capture of the country’s president and U.S. control of its oil industry.  The State Department said Thursday the agreement with Venezuela’s interim authorities is an effort to “promote stability, support economic recovery,…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While a significant foreign policy shift with potential domestic implications, the article primarily concerns international relations rather than direct threats to domestic democratic institutions or checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-06T18:08:30.735Z"
+    },
+    {
+      "id": "52d3f1ed1998",
+      "title": "Yosemite ranger fired over trans flag says Trump ‘scaring us into silence’",
+      "url": "https://thehill.com/policy/energy-environment/5766864-yosemite-ranger-nps-park-service-trans-flag/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:09:01.000Z",
+      "description": "As the legal battle over the firing of Yosemite National Park ranger Shannon “SJ” Joslin heats up, Joslin tells The Hill that their termination is part of a broader Trump administration campaign against the transgender community and the federal workforce.  “Yes, I lost my job for this flag. But this wasn’t the first way that…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Individual employment dispute raises concerns about civil service independence and potential political retribution, but lacks evidence of systemic institutional erosion or unprecedented action at this stage.",
+      "categories": [
+        "civil service independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T18:08:30.823Z"
+    },
+    {
+      "id": "244958e8d0dc",
+      "title": "Walz suggests Minnesota officials will investigate Noem",
+      "url": "https://thehill.com/homenews/state-watch/5771286-tim-walz-kristi-noem-immigration-enforcement/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:06:52.000Z",
+      "description": "Minnesota Gov. Tim Walz (D) vowed further consequences against outgoing Department of Homeland Security (DHS) Secretary Kristi Noem, after President Trump announced her exit from the agency on Thursday.  The governor has rebuked Noem and the Trump administration over the DHS’s immigration enforcement operations in the state earlier this year. Federal agents shot and killed…",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A state governor's political response to a departing federal official represents standard partisan pushback with limited implications for institutional checks and balances.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T18:08:30.759Z"
+    },
+    {
+      "id": "79595c7d1a25",
+      "title": "DOJ publishes some missing Epstein files with uncorroborated Trump claims",
+      "url": "https://thehill.com/homenews/house/5771348-epstein-files-pressure-doj-disclosure/",
+      "source": "The Hill",
+      "published": "2026-03-06T16:02:09.000Z",
+      "description": "The Justice Department has released more documents from the Jeffrey Epstein files related to allegations against President Trump, a move that came after the department was pressured to review its disclosures following reports that some files were missing. The files include FBI interviews with a woman who accused Trump of sexually assaulting her, allegations the White House…",
+      "keywords": [
+        "DOJ",
+        "FBI",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This involves DOJ transparency and document release procedures, which touches on institutional accountability, but the significance depends on whether the release represents political pressure on DOJ independence or routine compliance with disclosure obligations.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-06T18:08:31.089Z"
+    },
+    {
+      "id": "edb8a0caa727",
+      "title": "Trump says he would be open to another religious leader in Iran",
+      "url": "https://thehill.com/homenews/administration/5771289-trump-iran-leadership-role/",
+      "source": "The Hill",
+      "published": "2026-03-06T15:48:40.000Z",
+      "description": "President Trump said Friday he would be open to having another religious figure to lead Iran following a joint U.S.-Israeli bombing campaign that killed Supreme Leader Ayatollah Ali Khamenei last week. When asked by CNN’s Dana Bash in a phone interview if he would be okay with having another religious leader lead the country, Trump…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine foreign policy statement about Iran leadership with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:31.864Z"
+    },
+    {
+      "id": "de6839169e4a",
+      "title": "Former acting DHS chief on Noem’s ouster: ‘We saw this coming’",
+      "url": "https://thehill.com/homenews/administration/5771146-chad-wolf-donald-trump-kristi-noem-dhs-ouster/",
+      "source": "The Hill",
+      "published": "2026-03-06T15:40:52.000Z",
+      "description": "Former acting Department of Homeland Security Secretary Chad Wolf said Friday “we saw this coming” after President Trump announced he was replacing Kristi Noem as the department’s chief. “There have been a series of unfortunate incidents that have overshadowed the great success and progress the Trump administration has made when it comes to securing the…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on a personnel decision, lacking substantive information about institutional impacts or democratic processes.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T18:08:31.808Z"
+    },
+    {
+      "id": "c35080a6a272",
+      "title": "Watch live: Jesse Jackson funeral in Chicago",
+      "url": "https://thehill.com/video-clips/5771154-watch-live-jesse-jackson-funeral-chicago/",
+      "source": "The Hill",
+      "published": "2026-03-06T15:18:18.000Z",
+      "description": "The funeral for civil rights leader the Rev. Jesse Jackson is being held in Chicago on Friday afternoon. Jackson, 84, died last month after battling the neurodegenerative disorder progressive supranuclear palsy, his family said in a statement. The political sphere — including President Trump and former Vice President Harris — mourned the loss of Jackson with an…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a news report about a funeral service for a historical civil rights figure with no direct relevance to democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:31.961Z"
+    },
+    {
+      "id": "fad1c98b9c3e",
+      "title": "Trump tariffs: Customs and Border Protection tells judge it can't comply with refund order",
+      "url": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T17:21:39.000Z",
+      "description": "CBP told Court of International Trade Judge Richard Eaton that the total amount of IEEPA tariffs duties collected since last year is about $166 billion.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A federal agency's claimed inability to comply with a court refund order represents a notable institutional tension between judicial authority and executive implementation, but lacks evidence of intentional defiance or systemic democratic erosion.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T18:08:32.081Z"
+    },
+    {
+      "id": "32859f837e08",
+      "title": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
+      "url": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T16:12:54.000Z",
+      "description": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is economic analysis and policy commentary on potential consequences of geopolitical decisions, not reporting on threats to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:31.935Z"
+    },
+    {
+      "id": "d26935cb19f9",
+      "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
+      "url": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T15:26:49.000Z",
+      "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a statement of foreign policy negotiating position with economic market consequences, not an action affecting domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T18:08:33.192Z"
+    },
+    {
+      "id": "1f928c94c46b",
+      "title": "Trump on If Americans Should Be Worried About Retaliatory Attacks at Home: ‘I Guess’",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-iran-war-retaliatory-attacks-1235526111/",
+      "source": "Rolling Stone",
+      "published": "2026-03-06T17:38:39.000Z",
+      "description": "\"Like I said, some people will die,\" the president told Time. \"When you go to war, some people will die.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Direct presidential statements appearing to normalize or accept retaliatory violence against Americans represent a significant erosion of democratic norms and potential threats to civil safety and political stability.",
+      "categories": [
+        "political retribution",
+        "press freedom",
+        "civil rights"
+      ],
+      "scoredAt": "2026-03-06T18:08:33.077Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-06T12:05:50.883Z"
+  "lastFetch": "2026-03-06T18:08:33.192Z"
 }
