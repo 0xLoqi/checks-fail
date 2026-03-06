@@ -2289,21 +2289,6 @@
       "scoredAt": "2026-02-09T17:51:21.871Z"
     },
     {
-      "id": "c71bc9378de8",
-      "title": "Patti LuPone Slams Trump’s Plans to Renovate the Kennedy Center: It’s Time to ‘Rise Up’",
-      "url": "https://www.rollingstone.com/politics/politics-news/patti-lupone-slams-trump-kennedy-center-plans-1235510398/",
-      "source": "Rolling Stone",
-      "published": "2026-02-03T20:45:31.000Z",
-      "description": "The acclaimed singer and actress addressed Trump’s involvement during an impassioned speech at Carnegie Hall",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is entertainment commentary on a celebrity's opinion about a building renovation project, with no direct connection to democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:22.785Z"
-    },
-    {
       "id": "eef5e49daeff",
       "title": "Chinese and Russian decline could become global problems",
       "url": "https://thehill.com/opinion/international/5728623-china-russia-decline-analysis/",
@@ -41045,8 +41030,1069 @@
       "reason": "This is opinion commentary on military spending and foreign policy rather than reporting on institutional checks and balances, concrete policy changes, or democratic safeguards.",
       "categories": [],
       "scoredAt": "2026-03-05T18:33:37.638Z"
+    },
+    {
+      "id": "18ec11bd5cf8",
+      "title": "Vance balances role as Trump's deputy and his own ambitions",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5684975/vance-balances-role-as-trumps-deputy-and-his-own-ambitions",
+      "source": "NPR Politics",
+      "published": "2026-03-05T22:12:17.000Z",
+      "description": "President Trump isn't always clear about his policies and why he favors them. That's where Vice President JD Vance comes in.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Article describes VP policy role and ambitions but lacks evidence of systemic check-and-balance erosion or institutional threat.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T00:15:40.220Z"
+    },
+    {
+      "id": "1317f21b8afa",
+      "title": "What you need to know about Sen. Markwayne Mullin, Trump's new pick to lead DHS",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5737554/markwayne-mullin-homeland-security-kristi-noem-trump",
+      "source": "NPR Politics",
+      "published": "2026-03-05T21:44:43.000Z",
+      "description": "President Trump announced Thursday that Sen. Markwayne Mullin, R-Okla., is his pick to replace Kristi Noem as the head of the Department of Homeland Security.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A cabinet secretary nomination is procedurally significant but routine; the actual democratic impact depends on confirmation process, nominee qualifications, and whether institutional norms are preserved.",
+      "categories": [
+        "congressional_oversight",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:40.371Z"
+    },
+    {
+      "id": "d20987f62e3e",
+      "title": "Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her",
+      "url": "https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired",
+      "source": "NPR Politics",
+      "published": "2026-03-05T19:20:38.000Z",
+      "description": "President Trump has fired his homeland security secretary, Kristi Noem, and said Markwayne Mullin, a senator from Oklahoma, would replace her.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Cabinet personnel changes are within presidential authority and routine, though tracking replacement qualifications matters for institutional competence.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:40.153Z"
+    },
+    {
+      "id": "846a5f75a183",
+      "title": "Colorado Gov. Polis considers releasing Tina Peters from prison amid Trump pressure",
+      "url": "https://www.pbs.org/newshour/politics/colorado-gov-polis-considers-releasing-tina-peters-from-prison-amid-trump-pressure",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T23:52:08.000Z",
+      "description": "Colorado's Democratic governor, facing a pressure campaign from President Donald Trump, is signaling his openness to granting clemency to a former county clerk who was convicted in a scheme that attempted to find proof of fraud in the 2020 presidential election.",
+      "keywords": [
+        "election",
+        "trump",
+        "clemency"
+      ],
+      "significance": 7,
+      "reason": "A governor's potential clemency decision under direct presidential pressure for a figure convicted in election interference creates significant institutional tension and demonstrates potential politicization of criminal justice.",
+      "categories": [
+        "political retribution",
+        "election infrastructure",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T00:15:40.333Z"
+    },
+    {
+      "id": "55d3e8d0ab70",
+      "title": "Trump fires Noem amid controversies over her leadership at DHS",
+      "url": "https://www.pbs.org/newshour/show/trump-fires-noem-amid-controversies-over-her-leadership-at-dhs",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T23:30:03.000Z",
+      "description": "Homeland Security Secretary Kristi Noem was ousted in the first Cabinet shakeup of President Trump's second term. She received bipartisan criticism for the agency's handling of the immigration crackdown, delays in emergency response and self-promotion in a nine-figure ad campaign. Lisa Desjardins reports.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A Cabinet firing represents routine executive authority and internal management, though the immigration enforcement context and self-dealing concerns warrant monitoring across multiple institutional categories.",
+      "categories": [
+        "corruption & self-dealing",
+        "civil service independence",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-06T00:15:40.287Z"
+    },
+    {
+      "id": "3eb8ded524b2",
+      "title": "WATCH: Trump suggests U.S. and Cuba will soon make a deal, after Rubio is 'finished' with Iran",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-suggests-u-s-and-cuba-will-soon-make-a-deal-after-rubio-is-finished-with-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T23:06:55.000Z",
+      "description": "President Donald Trump suggested Thursday that he and Secretary of State Marco Rubio plan to focus their attention on Cuba next but want to \"wait a couple of weeks.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic commentary about potential foreign policy negotiations with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:41.144Z"
+    },
+    {
+      "id": "88964be4f0fc",
+      "title": "Montana Republican U.S. Sen. Steve Daines drops reelection bid minutes before filing deadline",
+      "url": "https://www.pbs.org/newshour/politics/montana-republican-u-s-sen-steve-daines-drops-reelection-bid-minutes-before-filing-deadline",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T22:26:11.000Z",
+      "description": "Montana U.S. Attorney Kurt Alme, who is also a Republican, entered the race shortly before the deadline.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A routine political announcement about a Senate candidate withdrawal and replacement, with no bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:41.229Z"
+    },
+    {
+      "id": "e9e3bb300fda",
+      "title": "WATCH: Trump hosts 2025 MLS champions Inter Miami with Lionel Messi at the White House",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-2025-mls-champions-inter-miami-with-lionel-messi-at-the-white-house",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T21:18:08.000Z",
+      "description": "President Donald Trump hostsed the 2025 MLS Cup champions Inter Miami, including Argentine soccer player Lionel Messi, at the White House Thursday.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine ceremonial event with no relevance to democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:40.975Z"
+    },
+    {
+      "id": "01c610ebfa33",
+      "title": "WATCH: Mullin says he wasn't expecting call from Trump on DHS, but is 'excited to get started'",
+      "url": "https://www.pbs.org/newshour/politics/watch-mullin-says-he-wasnt-expecting-call-from-trump-on-dhs-but-is-excited-to-get-started",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T20:42:07.000Z",
+      "description": "Republican Sen. Markwayne Mullin of Oklahoma is President Donald Trump's nominee for the next Homeland Security Secretary, following the firing of Kristi Noem on Thursday. Mullin told reporters at the Capitol that he would get DHS \"focused on protecting the homeland.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A routine announcement of a cabinet nomination lacks information about qualifications, conflicts of interest, or institutional concerns that would affect democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:41.168Z"
+    },
+    {
+      "id": "fe926af82043",
+      "title": "House Republican leaders urge Tony Gonzales to end reelection bid after admitting to affair with aide",
+      "url": "https://www.pbs.org/newshour/politics/house-republican-leaders-urge-tony-gonzales-to-end-reelection-bid-after-admitting-to-affair-with-aide",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T19:36:57.000Z",
+      "description": "GOP leaders notably did not call for Gonzales to resign as they struggle to maintain their slim majority in the House, which they hold by only a handful of seats.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 4,
+      "reason": "While the incident raises concerns about ethical standards and potential party pressure dynamics, it represents a personal/conduct matter rather than a systemic attack on institutional checks and balances, though the reluctance to call for resignation due to seat counts hints at prioritizing partisan interests over accountability.",
+      "categories": [
+        "political retribution",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T00:15:41.630Z"
+    },
+    {
+      "id": "f6eec5feb28d",
+      "title": "Trump says he wants to be involved in picking Iran's next leader",
+      "url": "https://www.pbs.org/newshour/world/trump-says-he-wants-to-be-involved-in-picking-irans-next-leader",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T19:22:40.000Z",
+      "description": "President Donald Trump's comments were likely to renew questions about whether the U.S. and Israel seek the overthrow of the Islamic Republic or just a change in its policies.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article concerns U.S. foreign policy and geopolitical posturing regarding Iran rather than domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:42.359Z"
+    },
+    {
+      "id": "d35572b100c0",
+      "title": "Trump replacing Noem as Homeland Security secretary",
+      "url": "https://www.pbs.org/newshour/politics/trump-replacing-noem-as-homeland-security-secretary",
+      "source": "PBS NewsHour",
+      "published": "2026-03-05T18:51:25.000Z",
+      "description": "Trump, who said he would nominate Oklahoma Republican Sen. Markwayne Mullin in her place, made the announcement on social media after Noem faced a two-day grilling on Capitol Hill this week from GOP members as well as Democrats.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A cabinet nomination change represents routine executive personnel decisions within normal constitutional authority, though the circumstances warrant monitoring for potential civil rights implications depending on Mullin's record.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-06T00:15:42.565Z"
+    },
+    {
+      "id": "e820dfef9069",
+      "title": "Trump fires Kristi Noem as homeland security secretary",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-kristi-noem-stepping-homeland-security-secretary-rcna248719",
+      "source": "NBC News",
+      "published": "2026-03-05T18:50:02.000Z",
+      "description": "President Donald Trump fired Homeland Security Secretary Kristi Noem on Thursday, making her the first Cabinet secretary to leave her post and capping off a tumultuous year in which she oversaw his increasingly unpopular mass deportation agenda",
+      "keywords": [
+        "deportation",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While Cabinet firings are common executive prerogatives and don't inherently threaten democratic checks, the context of removing a secretary overseeing controversial deportation policies warrants monitoring for potential politicization of federal agencies.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:42.682Z"
+    },
+    {
+      "id": "79a40b73b123",
+      "title": "Republican leaders call on Rep. Tony Gonzales to end his re-election campaign",
+      "url": "https://www.nbcnews.com/politics/congress/republican-leaders-call-rep-tony-gonzales-end-reelection-campaign-rcna261960",
+      "source": "NBC News",
+      "published": "2026-03-05T18:36:40.000Z",
+      "description": "House Republican leadership is calling on Rep.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about internal party pressure on a candidate, with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:43.597Z"
+    },
+    {
+      "id": "c5ea57d26cec",
+      "title": "Tylenol orders for some pregnant women fell after Trump warned them not to take it",
+      "url": "https://www.nbcnews.com/health/womens-health/tylenol-orders-pregnant-women-fell-trump-warning-autism-rcna261992",
+      "source": "NBC News",
+      "published": "2026-03-05T23:30:41.000Z",
+      "description": "After President Trump told pregnant women not to take Tylenol, orders for it declined among pregnant women who visited emergency rooms, according to new research.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine health news reporting on consumer behavior changes following a public statement, without evidence of institutional breakdown or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:43.488Z"
+    },
+    {
+      "id": "8072b0367286",
+      "title": "GOP leaders call on Rep. Tony Gonzales to drop re-election bid after admitting to affair",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-leaders-call-on-rep-tony-gonzales-to-drop-re-election-bid-after-admitting-to-affair-258783813960",
+      "source": "NBC News",
+      "published": "2026-03-05T21:59:52.000Z",
+      "description": "NBC News’ Julie Tsirkin joins Meet the Press NOW to report on House GOP leadership calling on Rep. Tony Gonzales, R-Texas, to drop his re-election bid after he admitted to having an affair with a staffer who later died by suicide.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "Personal misconduct and internal party pressure, while ethically troubling, do not constitute institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:43.366Z"
+    },
+    {
+      "id": "74da28e3cde1",
+      "title": "Markwayne Mullin reacts to being tapped to replace Kristi Noem at DHS",
+      "url": "https://www.nbcnews.com/meet-the-press/video/markwayne-mullin-reacts-to-being-tapped-to-replace-kristi-noem-at-dhs-258781765661",
+      "source": "NBC News",
+      "published": "2026-03-05T21:19:48.000Z",
+      "description": "NBC News’ Gabe Gutierrez and Julia Ainsley join Meet the Press NOW to report on President Trump’s decision to fire Homeland Security Secretary Kristi Noem and tap Sen. Markwayne Mullin (R-Okla.) to replace her.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine personnel news reporting on a cabinet-level appointment decision without indication of institutional conflict, democratic norm violations, or checks-and-balances implications.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:43.599Z"
+    },
+    {
+      "id": "abbd7a39b307",
+      "title": "Who is Markwayne Mullin? Trump's nominee for DHS secretary",
+      "url": "https://www.nbcnews.com/now/video/who-is-markwayne-mullin-trump-s-nominee-for-dhs-secretary-258771525592",
+      "source": "NBC News",
+      "published": "2026-03-05T19:19:19.000Z",
+      "description": "President Trump says he intends to nominate Sen. Markwayne Mullin, R-Okla., to replace Homeland Security Secretary Kristi Noem. NBC News' Gabe Gutierrez has details on the path ahead for the senator and what could have played a factor into the president's decision.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine reporting on a presidential cabinet nomination announcement with no information suggesting unprecedented actions or institutional erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:43.437Z"
+    },
+    {
+      "id": "7fdad2b7624c",
+      "title": "How Kristi Noem's fate was sealed: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/kristi-noem-fate-was-sealed-politics-desk-rcna262016",
+      "source": "NBC News",
+      "published": "2026-03-05T23:08:25.000Z",
+      "description": "In today’s edition, Jonathan Allen breaks down President Donald Trump’s decision to fire Kristi Noem as the secretary of homeland security.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Presidential removal of a cabinet secretary represents a significant exercise of executive power that intersects with institutional accountability and potential political retribution concerns.",
+      "categories": [
+        "political_retribution",
+        "corruption_self_dealing"
+      ],
+      "scoredAt": "2026-03-06T00:15:44.462Z"
+    },
+    {
+      "id": "1e6bd56cc7a4",
+      "title": "Republican-led House declines to constrain Trump's war in Iran, just as Senate did",
+      "url": "https://www.nbcnews.com/politics/congress/republican-led-house-declines-constrain-trumps-war-iran-just-senate-rcna261909",
+      "source": "NBC News",
+      "published": "2026-03-05T21:38:21.000Z",
+      "description": "The Republican-controlled Congress narrowly voted against constraining President Donald Trump’s war in Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant erosion of congressional oversight—a fundamental check on executive war powers—as the legislative branch declines to constrain unilateral executive military action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:44.393Z"
+    },
+    {
+      "id": "c4f1320d258c",
+      "title": "Trump loyalist Lindsey Halligan faces Florida Bar probe over actions at DOJ",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-lindsey-halligan-faces-probe-florida-bar-actions-doj-rcna262004",
+      "source": "NBC News",
+      "published": "2026-03-05T21:56:32.000Z",
+      "description": "Former Justice Department official Lindsey Halligan, the Trump loyalist with no prosecutorial experience who brought failed cases against former FBI Director James Comey and New York Attorney General Letitia James, is under investigation by the Florida Bar, a bar official said in a letter",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "prosecutor",
+        "FBI",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Professional accountability mechanisms investigating potential DOJ misconduct is important for institutional integrity, but bar discipline is routine oversight rather than a structural threat to democratic checks.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T00:15:44.503Z"
+    },
+    {
+      "id": "e3c685f1981f",
+      "title": "Pardoned Jan 6. rioter gets life sentence for child sex crimes",
+      "url": "https://www.nbcnews.com/politics/justice-department/jan-6-rioter-pardoned-trump-jan-6-case-gets-life-sentence-child-sex-cr-rcna261963",
+      "source": "NBC News",
+      "published": "2026-03-05T21:11:07.000Z",
+      "description": "A Jan. 6 defendant pardoned by President Donald Trump for his role in the Capitol attack was sentenced to life in prison for child molestation and related crimes",
+      "keywords": [
+        "trump",
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "While the pardon itself raises checks and balances concerns, this article primarily documents a separate criminal justice outcome rather than an institutional action affecting democratic systems.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T00:15:44.443Z"
+    },
+    {
+      "id": "3bd9b00fe53c",
+      "title": "Noem handpicked contractors to lead a $100 million ICE recruitment campaign, sources say ",
+      "url": "https://www.nbcnews.com/politics/national-security/noem-handpicked-contractors-lead-100-million-ice-recruitment-campaign-rcna261968",
+      "source": "NBC News",
+      "published": "2026-03-05T19:10:26.000Z",
+      "description": "Secretary of Homeland Security Kristi Noem handpicked contractors to lead a $100 million campaign to recruit ICE officers instead of allowing competitive bidding, sources say NBC News.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 6,
+      "reason": "Bypassing competitive bidding for a major federal contract demonstrates potential corruption and self-dealing, but lacks the institutional or systemic impact needed for higher ratings.",
+      "categories": [
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:44.493Z"
+    },
+    {
+      "id": "995f229dacf3",
+      "title": "Inside the decision to remove Kristi Noem as DHS secretary",
+      "url": "https://www.cbsnews.com/news/decision-to-remove-kristi-noem-dhs-secretary/",
+      "source": "CBS News",
+      "published": "2026-03-05T23:08:52.000Z",
+      "description": "The timing of Trump's Truth Social post​ announcing Kristi Noem's removal as DHS secretary took DHS officials and the secretary herself by surprise.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Personnel changes within the executive branch are routine administrative matters, though the public announcement method and lack of internal notice reflect unusual management practices worth monitoring.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:45.443Z"
+    },
+    {
+      "id": "56008670f477",
+      "title": "Kristi Noem out as secretary of Homeland Security, Trump says",
+      "url": "https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/",
+      "source": "CBS News",
+      "published": "2026-03-05T21:57:55.000Z",
+      "description": "The announcement comes amid criticism of DHS spending under Noem, and as Congress has allowed the department's funding to lapse.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A cabinet resignation during a funding lapse is notable for executive personnel management but does not represent an institutional erosion of checks and balances or unprecedented democratic concern.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:45.550Z"
+    },
+    {
+      "id": "5f318eb9306a",
+      "title": "Pentagon formally designates Anthropic a supply chain risk amid feud over AI guardrails",
+      "url": "https://www.cbsnews.com/news/pentagon-anthropic-supply-chain-risk-feud-ai-guardrails/",
+      "source": "CBS News",
+      "published": "2026-03-05T21:35:55.000Z",
+      "description": "The U.S. military has formally designated artificial intelligence firm Anthropic a supply chain risk, sources told CBS News, a sweeping move that could cut it off from military contracts.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 5,
+      "reason": "A significant policy action targeting a private AI company that raises questions about DOJ/executive independence and potential political retribution, but lacks the institutional systemic impact of a direct checks-and-balances violation.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:45.566Z"
+    },
+    {
+      "id": "aba6875f1e24",
+      "title": " Cornyn goes on offense against Paxton as Republicans await Trump's endorsement",
+      "url": "https://abcnews.com/Politics/wireStory/cornyn-offense-paxton-republicans-await-trumps-endorsement-130799192",
+      "source": "ABC News",
+      "published": "2026-03-05T19:15:15.000Z",
+      "description": "Sen. John Cornyn is going on offense against Texas Attorney General Ken Paxton as they fight for a Republican Senate runoff, and President Donald Trump’s endorsement hangs over it all",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political coverage of an intra-party Senate race competition with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:45.394Z"
+    },
+    {
+      "id": "aabf2f9f0b4c",
+      "title": "U.S. and Venezuela reach historic agreement to re-establish diplomatic ties",
+      "url": "https://www.axios.com/2026/03/06/us-venezuela-diplomatic-consular-relations",
+      "source": "Axios",
+      "published": "2026-03-06T00:11:43.000Z",
+      "description": "The U.S. and Venezuela \"have agreed to re-establish diplomatic and consular relations,\" per a State Department statement.\nWhy it matters: The historic deal with a former traditional U.S. foe comes as President Trump pushes to apply his actions in Caracas that led to the capture of former leader Nicolás Maduro to Iran, telling Axios Thursday that he must be involved in picking a successor to assassinated supreme leader Ali Khamenei.\n\nTrump administration officials visited Venezuela this week, whe",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine foreign policy diplomacy and international relations, which falls outside the 12 tracked categories of domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:45.221Z"
+    },
+    {
+      "id": "8cfac8401dbb",
+      "title": "Congressional Democrats turn their sights to Pam Bondi after Kristi Noem's firing",
+      "url": "https://www.axios.com/2026/03/05/pam-bondi-kristi-noem-democrats-epstein-impeach",
+      "source": "Axios",
+      "published": "2026-03-05T23:50:10.000Z",
+      "description": "Attorney General Pam Bondi may suffer the most collateral damage from DHS Secretary Kristi Noem's firing, with congressional Democrats now saying it gives them space to focus their criticism and scrutiny squarely on her.\nWhy it matters: Bondi has already faced intense flak from Congress over her handling of the Jeffrey Epstein files, with lawmakers in both parties accusing her of being insufficiently transparent.\n\nFive Republicans on the House Oversight Committee voted with Democrats on Wednesda",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "impeach",
+        "miller",
+        "white house",
+        "trump",
+        "corruption",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Congressional scrutiny of AG independence and transparency is notable institutional oversight, but lacks evidence of unprecedented erosion or imminent democratic threat.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:46.480Z"
+    },
+    {
+      "id": "cab3dbc23391",
+      "title": "House rejects Iran war powers measure",
+      "url": "https://www.axios.com/2026/03/05/iran-house-democrats-republicans-war-powers",
+      "source": "Axios",
+      "published": "2026-03-05T21:43:17.000Z",
+      "description": "The House on Thursday rejected an effort to advance legislation that would restrict President Trump from using further military action in Iran.\nWhy it matters: The failed vote amounts to an endorsement of Trump's military campaign in Iran from Congress, which has the constitutional authority to declare war.\n\nThe 212-219 vote comes one day after the Senate rejected a similar measure, mainly along party lines. \nTwo Republicans — Reps. Thomas Massie (R-Ky.) and Warren Davison (R-Ohio) — voted with ",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "classified",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant erosion of congressional war powers authority—a foundational check on executive power—by allowing military action without legislative authorization.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:46.480Z"
+    },
+    {
+      "id": "3b3c1b03896a",
+      "title": "Senate GOP cheers Trump's decision to dump Noem",
+      "url": "https://www.axios.com/2026/03/05/senate-gop-cheers-trumps-decision-to-dump-noem",
+      "source": "Axios",
+      "published": "2026-03-05T21:19:26.000Z",
+      "description": "Republican senators celebrated President Trump's decision to replace Homeland Security Secretary Kristi Noem with Sen. Markwayne Mullin (R-Okla.). \nWhy it matters: Congressional Republicans — along with the White House — are eager to turn the page on a department that's dragging down the party's image on immigration, the very issue it rode to victory in 2024.\n\nTrump wasn't a \"happy cowboy\" about Noem and her $200 million media campaign, Sen. John Kennedy (R-La.) said. Many Senate Republicans wer",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a cabinet personnel change with no indication of institutional erosion, legal violations, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:46.366Z"
+    },
+    {
+      "id": "c68bf6729d58",
+      "title": "Trump's soft landings: The officials moved rather than fired",
+      "url": "https://www.axios.com/2026/03/05/kristi-noem-trump-fired-moved",
+      "source": "Axios",
+      "published": "2026-03-05T21:17:23.000Z",
+      "description": "President Trump on Thursday announced Sen. Markwayne Mullin (R-Okla.) as his pick to take over as Homeland Security Secretary, replacing Kristi Noem, who has been given a new position. \nThe big picture: Rather than outright firing top appointees, Trump has opted in his second term to shuffle them into new roles — a contrast with the record number of firings in his first administration. \n\nWhile announcing her departure from DHS on Thursday, Trump praised Noem's tenure, saying she \"has had numerou",
+      "keywords": [
+        "DOGE",
+        "immigration",
+        "ICE",
+        "homan",
+        "border czar",
+        "classified",
+        "trump",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Internal personnel reshuffling demonstrates presidential prerogative within normal bounds, though the pattern of moving rather than firing officials may warrant monitoring for potential accountability avoidance.",
+      "categories": [
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:46.545Z"
+    },
+    {
+      "id": "ac584de5d6fe",
+      "title": "House Democrat moves to impeach AG Pam Bondi over handling of the Epstein files",
+      "url": "https://www.axios.com/2026/03/05/pam-bondi-impeach-democrat-epstein-files-doj-ag",
+      "source": "Axios",
+      "published": "2026-03-05T20:15:07.000Z",
+      "description": "Rep. Shri Thanedar (D-Mich.) filed articles of impeachment against Attorney General Pam Bondi on Thursday over her handling of the Jeffrey Epstein files. \nWhy it matters: The effort is an extreme long shot, but it shows where Democrats are turning their attention now that DHS Secretary Kristi Noem is out.\n\nThe House Oversight Committee voted on a bipartisan basis Wednesday to subpoena Bondi over the Epstein files.\nThe subpoena was offered by Rep. Nancy Mace (R-S.C.), but all Democrats voted for ",
+      "keywords": [
+        "DOJ",
+        "attorney general",
+        "bondi",
+        "ICE",
+        "subpoena",
+        "impeach",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While impeachment represents formal congressional oversight action, the effort's acknowledged lack of viability and focus on a specific file handling matter rather than systemic institutional erosion places this as notable but not yet urgent.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:46.639Z"
+    },
+    {
+      "id": "05fa0c0420e4",
+      "title": "DHS Secretary Kristi Noem out, Trump says",
+      "url": "https://www.axios.com/2026/03/05/kristi-noem-trump-ice-dhs",
+      "source": "Axios",
+      "published": "2026-03-05T20:05:57.000Z",
+      "description": "Department of Homeland Security Secretary Kristi Noem is leaving the department and he will nominate Sen. Markwayne Mullin (R-Okla.) as her replacement, President Trump said Thursday. \nWhy it matters: Noem's exit leaves Trump's mass deportation agenda without its most prominent face amid a public backlash.\n\nWhat he's saying: Trump said Noem will be \"moving to be Special Envoy for The Shield of the Americas, our new Security Initiative in the Western Hemisphere we are announcing on Saturday in Do",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "impeach",
+        "oversight hearing",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A cabinet personnel change is notable governance news but represents routine executive authority rather than institutional erosion, though the context of mass deportation policy warrants monitoring.",
+      "categories": [
+        "federal_programs_and_agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:47.534Z"
+    },
+    {
+      "id": "55b0fa60dde2",
+      "title": "Democrats say Trump removing Kristi Noem isn't enough to end DHS shutdown",
+      "url": "https://www.axios.com/2026/03/05/kristi-noem-dhs-shutdown-democrats-funding-trump",
+      "source": "Axios",
+      "published": "2026-03-05T19:50:25.000Z",
+      "description": "Top House and Senate Democrats said Thursday that Kristi Noem's departure as secretary of the Department of Homeland Security will not be enough for them to support funding for the agency.\nWhy it matters: DHS has been shut down for nearly three weeks, with the White House and congressional Democrats offering little indication that they are close to a deal.\n\n\"A change in personnel is not sufficient, we need a change in policy,\" House Minority Leader Hakeem Jeffries (D-N.Y.) said at a press confer",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A personnel dispute over DHS funding reflects normal congressional-executive disagreement but doesn't indicate systemic erosion of checks and balances, though the extended shutdown raises concerns about institutional function.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:47.633Z"
+    },
+    {
+      "id": "45345b60f8bc",
+      "title": "What to know about Markwayne Mullin, Trump's new Homeland Security pick",
+      "url": "https://www.axios.com/2026/03/05/markwayne-mullin-homeland-security-secretary-nominee",
+      "source": "Axios",
+      "published": "2026-03-05T19:19:20.000Z",
+      "description": "Sen. Markwayne Mullin (R-Okla.) is poised to be the next Homeland Security Secretary, replacing Kristi Noem, President Trump announced Thursday.\nWhy it matters: Mullin is a staunchly MAGA firebrand and will likely be in lockstep with Trump's immigration agenda.\n\nWhat they're saying: \"Markwayne will work tirelessly to Keep our Border Secure, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, End the Scourge of Illegal Drugs and, MAKE AMERICA SAFE AGAIN,\" Trump",
+      "keywords": [
+        "election",
+        "voter",
+        "immigration",
+        "ICE",
+        "homan",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A cabinet appointment nomination is notable for its policy implications but becomes significant only upon confirmation and demonstrated institutional actions that affect checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-06T00:15:47.565Z"
+    },
+    {
+      "id": "5a35a29feca2",
+      "title": "5 controversies that dogged Noem's DHS tenure",
+      "url": "https://www.axios.com/2026/03/05/noem-dhs-controversies-minnesota-ads-planes",
+      "source": "Axios",
+      "published": "2026-03-05T19:05:23.000Z",
+      "description": "Kristi Noem is on her way out at the Department of Homeland Security after a tenure marred by personal controversies and an unpopular immigration crackdown. \nThe big picture: Noem has long been a target for Democrats, but her leadership also angered some congressional Republicans. She becomes the first Cabinet secretary to be removed from their post in President Trump's second term.\n\nDriving the news: Trump announced Thursday that he plans to tap Sen. Markwayne Mullin (R-Okla.) to replace Noem.\n",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "trump",
+        "EPA",
+        "inspector general"
+      ],
+      "significance": 7,
+      "reason": "Cabinet removal represents significant institutional action affecting DHS leadership and immigration policy implementation, with implications for executive accountability and congressional oversight.",
+      "categories": [
+        "immigration & civil rights",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:47.597Z"
+    },
+    {
+      "id": "8983b224ea07",
+      "title": "How Kristi Noem finally lost Trump’s trust",
+      "url": "https://thehill.com/homenews/administration/5770493-kristi-noem-trump-advertising-scandal/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:58:11.000Z",
+      "description": "Kristi Noem’s assertion at a Senate hearing Tuesday that President Trump had given his blessing to a $220 million Department of Homeland Security (DHS) advertising campaign promoting Noem’s leadership was the final straw that cost the DHS secretary her job on Thursday, according to Republican senators and other sources familiar with the events. Trump considered…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article covers personnel dynamics and internal Trump administration conflict rather than systemic threats to democratic institutions or checks and balances.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T00:15:47.485Z"
+    },
+    {
+      "id": "d7701dfce302",
+      "title": "Hegseth suggests Iran strikes creating conditions for revolution",
+      "url": "https://thehill.com/policy/defense/5770463-hegeseth-iranian-uprising-war/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:52:40.000Z",
+      "description": "Defense Secretary Pete Hegseth on Thursday said there will “come a moment” when President Trump or the Iranian people decide to rise up against the country’s government, though he stressed they should not protest during the ongoing U.S.-Israeli military campaign against the regime. “No one’s done more than President Trump to reopen the opportunity for…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A Defense Secretary's comments about potential Iranian government change represent routine foreign policy commentary without direct implications for U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:48.414Z"
+    },
+    {
+      "id": "a079c020aa76",
+      "title": "Here are the 4 Democrats who opposed the war powers resolution",
+      "url": "https://thehill.com/homenews/house/5770273-democrats-oppose-war-powers-resolution-iran/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:35:14.000Z",
+      "description": "Four Democrats defied party leaders on Thursday to oppose a resolution curbing President Trump’s war powers in Iran.  Some defections had been expected headed into the vote, given the thorny nature of the conflict and its relationship to Israel, which has divided Democrats on and off of Capitol Hill for years. Before Trump struck Iran…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Routine legislative vote with expected partisan disagreement reflects normal congressional debate rather than institutional erosion, though war powers oversight remains foundationally important.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:48.621Z"
+    },
+    {
+      "id": "cd7b2bf53b07",
+      "title": "Treasury Department to announce measures to combat rising oil prices amid Iran conflict: Report",
+      "url": "https://thehill.com/homenews/5770393-rising-gas-prices-impact/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:32:35.000Z",
+      "description": "The Treasury Department will announce measures to combat rising energy prices amid the U.S.-Israeli strikes against Iran as soon as Thursday, Reuters reported.  As the conflict in the Middle East nears the one-week mark, oil prices have risen and consumers are seeing an impact at the pump. Iran closed the Strait of Hormuz in response…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic policy reporting on Treasury Department actions to address energy prices, with no direct bearing on institutional checks, balances, or democratic governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:48.524Z"
+    },
+    {
+      "id": "1b69533eae6c",
+      "title": "These 4 Democrats voted with Republicans to fund DHS",
+      "url": "https://thehill.com/homenews/house/5770381-dhs-funding-democrats/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:30:36.000Z",
+      "description": "Four Democrats crossed the aisle Thursday and voted in favor of a Department of Homeland Security (DHS) funding bill aimed at ending the partial government shutdown, despite opposition from their own leadership.   The four Democrats who joined Republicans in voting for the measure were Reps. Henry Cuellar (Texas), Marie Gluesenkamp Perez (Wash.), Jared Golden (Maine)…",
+      "keywords": [
+        "voting",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "Routine legislative vote demonstrating normal bipartisan negotiation and individual congressional voting autonomy, with no institutional checks or balances implications.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:48.476Z"
+    },
+    {
+      "id": "064b16a6945d",
+      "title": "Democratic reps send letter to Patel over fired FBI agents and staff",
+      "url": "https://thehill.com/homenews/house/5770359-dems-demand-answers-fbi-director/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:25:18.000Z",
+      "description": "Two House Democrats are demanding answers from FBI Director Kash Patel about his reported decision last week to fire multiple employees, many of whom allegedly worked in counterintelligence roles. Reps. Bennie Thompson (D-Miss.) and Seth Magaziner (D-R.I.) asked Patel in a Wednesday letter to come before the House Homeland Security Committee and explain why he…",
+      "keywords": [
+        "FBI",
+        "patel",
+        "kash",
+        "intelligence"
+      ],
+      "significance": 7,
+      "reason": "Firing of FBI staff by political appointee raises significant concerns about FBI independence and potential political retribution, triggering congressional oversight response.",
+      "categories": [
+        "FBI independence",
+        "political retribution",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:49.980Z"
+    },
+    {
+      "id": "e93a37aa753d",
+      "title": "Harvard Kennedy School sets contingency plans for admitted service members after Pentagon order",
+      "url": "https://thehill.com/homenews/education/5770295-harvard-kennedy-school-pentagon-suspension/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:13:44.000Z",
+      "description": "The Harvard Kennedy School is setting contingency plans for admitted service members in place following the Pentagon’s decision to suspend its academic partnerships with the university last month.  In a Wednesday letter to U.S. service members who applied to the school’s graduate programs, Dean Jeremy Weinstein said the school will offer an extended deferral period…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is a routine institutional response to an administrative policy change with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:50.705Z"
+    },
+    {
+      "id": "2a2c85536152",
+      "title": "Bice, Hern considering Senate runs to replace Mullin",
+      "url": "https://thehill.com/homenews/house/5770305-bice-hern-senate-mullin/",
+      "source": "The Hill",
+      "published": "2026-03-05T22:57:42.000Z",
+      "description": "The race is on to replace Sen. Markwayne Mullin after President Trump announced he will nominate the Oklahoma Republican to replace outgoing Department of Homeland Security (DHS) Secretary Kristi Noem. Two Oklahoma House Republicans are already eyeing runs to represent the Sooner State in the Senate: Reps. Stephanie Bice and Kevin Hern. A source familiar…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about candidate announcements for a Senate seat vacancy with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:50.777Z"
+    },
+    {
+      "id": "dad6fab224dc",
+      "title": "Trump praises Delcy Rodríguez after report of US threat to indict her",
+      "url": "https://thehill.com/homenews/administration/5770142-trump-praises-venezuelan-president/",
+      "source": "The Hill",
+      "published": "2026-03-05T22:13:58.000Z",
+      "description": "President Trump praised interim Venezuelan President Delcy Rodríguez amid reports that his administration was threatening to indict her if she did not continue to cooperate with the U.S. “Delcy Rodríguez who is the President of Venezuela, is doing a great job, and working with U.S. Representatives very well. The Oil is beginning to flow, and…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The article involves potential DOJ independence concerns regarding conditional indictment threats for foreign policy cooperation, but lacks clarity on institutional impact and involves a foreign leader rather than domestic democratic structures.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T00:15:50.981Z"
+    },
+    {
+      "id": "791a0bd3c58b",
+      "title": "Spike in gas prices over Iran strikes puts Trump on defense",
+      "url": "https://thehill.com/policy/energy-environment/5769700-iran-conflict-gas-prices-trump-venezuela-oil/",
+      "source": "The Hill",
+      "published": "2026-03-05T22:10:03.000Z",
+      "description": "A spike in energy prices due to the ongoing U.S. strikes on Iran has put the Trump administration on the defensive. Low oil and gasoline prices have long been part of the White House’s pitch to voters. Now that they’re on the rise, key officials have argued they are doing their best to bring them down,…",
+      "keywords": [
+        "voter",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about energy prices and messaging strategy with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:50.693Z"
+    },
+    {
+      "id": "f3392cccf783",
+      "title": "DHS funding bill passes the House, with eroding Democratic support",
+      "url": "https://thehill.com/homenews/house/5769891-dhs-funding-bill-house/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:53:16.000Z",
+      "description": "The House passed a Department of Homeland Security (DHS) funding bill Thursday, even as most Democrats defied Republican pressure to end the agency shutdown in light of the Iran conflict. The lower chamber voted 221-209 to pass the bill. Four Democrats joined Republicans in favor of the measure — fewer than those who voted for…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A routine appropriations vote with standard partisan divisions represents normal legislative function rather than a check-and-balance concern, though DHS funding relates to multiple oversight categories.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:50.954Z"
+    },
+    {
+      "id": "a6d609eda243",
+      "title": "House Republicans sink effort to rein in Trump’s attacks on Iran",
+      "url": "https://thehill.com/homenews/house/5769994-house-war-powers-iran/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:41:25.000Z",
+      "description": "House Republicans on Thursday beat back legislation designed to rein in U.S. military operations in Iran, marking a victory for President Trump and a blow for those hoping to reassert Congress’s unique powers to wage war. The vote was 212-219, with just two Republicans — Reps. Thomas Massie (Ky.) and Warren Davidson (Ohio) — hopping…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable partisan pattern of congressional oversight erosion on war powers, but reflects ongoing political dynamics rather than unprecedented institutional collapse.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:51.942Z"
+    },
+    {
+      "id": "5c1d2b11bf0e",
+      "title": "Tillis praises Mullin as Noem’s successor, says he’ll ‘restore competence’ to DHS",
+      "url": "https://thehill.com/homenews/senate/5770001-tillis-praises-mullin-dhs/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:28:00.000Z",
+      "description": "Sen. Thom Tillis (R-N.C.) on Thursday praised his fellow Senate Republican, Sen. Markwayne Mullin (Okla.), as Kristi Noem’s replacement for Department of Homeland Security (DHS) secretary, saying Mullin would “restore competence” to the organization. “Senator Markwayne Mullin is a great guy and a great choice to lead DHS, restore competence, and refocus efforts on quickly…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a cabinet nomination announcement with no new information about institutional actions or democratic checks.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:51.800Z"
+    },
+    {
+      "id": "0b980ab0ee6e",
+      "title": "Watch video from Noem’s controversial $220M ad campaign",
+      "url": "https://thehill.com/homenews/administration/5769852-watch-noem-ad-campaign/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:25:39.000Z",
+      "description": "President Trump on Thursday fired Homeland Security Secretary Kristi Noem and announced he will replace her with Sen. Markwayne Mullin (R-Okla.), hours after the president reportedly said he did not approve a scrutinized $220 million ad campaign pushed by the secretary. The ad features Noem, donning a cowboy hat on horseback, moving out of a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine personnel news about a cabinet firing related to a policy disagreement, lacking evidence of systematic institutional erosion or unprecedented democratic violations.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:51.887Z"
+    },
+    {
+      "id": "063402c77276",
+      "title": "Dow loses more than 780 points as oil tops $80 per barrel",
+      "url": "https://thehill.com/business/5769818-oil-prices-surge-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:08:54.000Z",
+      "description": "Stocks closed Thursday with losses as the escalating war in Iran and the Middle East drove oil prices higher. The Dow Jones Industrial Average closed with a loss of 784 points, a decline of 1.6 percent after falling more than 1,100 points earlier in the day. The S&P 500 index closed 0.6 percent lower, and…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article covers financial market movements driven by geopolitical events and has no direct relevance to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:51.759Z"
+    },
+    {
+      "id": "3ad042133b53",
+      "title": "What we know about Noem’s new ‘Shield of the Americas’ role",
+      "url": "https://thehill.com/policy/international/5769654-trump-appoints-noem-shield-americas/",
+      "source": "The Hill",
+      "published": "2026-03-05T21:08:49.000Z",
+      "description": "President Trump said Thursday that Department of Homeland Security (DHS) Secretary Kristi Noem would leave her role and be appointed as a special envoy for “The Shield of the Americas,” bringing her tumultuous tenure atop DHS to an end. Noem faced scrutiny and intense questioning about the fatal shooting deaths of two American citizens by…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A significant personnel change at DHS with potential implications for institutional independence and oversight, but lacking sufficient detail about the role's scope and powers to assess full democratic impact.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:51.990Z"
+    },
+    {
+      "id": "2f169aa3b258",
+      "title": "House rejects war powers resolution to rein in Trump on Iran",
+      "url": "https://www.cnbc.com/2026/03/05/house-iran-rejects-war-powers-resolution-trump.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T22:49:49.000Z",
+      "description": "The Senate rejected a similar war powers resolution on Wednesday, leaving President Donald Trump to pursue further action in Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Congress's rejection of war powers resolutions represents a significant failure of legislative oversight on executive military authority, a core constitutional check on presidential power.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-06T00:15:52.855Z"
+    },
+    {
+      "id": "71647709a002",
+      "title": "Trump hints U.S. will turn to Cuba after Iran: 'Just a question of time'",
+      "url": "https://www.cnbc.com/2026/03/05/trump-cuba-iran-regime-change.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T23:00:49.000Z",
+      "description": "The Cuba comments show Trump, less than a week into an escalating military conflict in Iran, is considering another major foreign policy move.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Foreign policy statements about potential military action, while significant geopolitically, do not directly implicate the tracked institutional checks and balances of U.S. democracy.",
+      "categories": [],
+      "scoredAt": "2026-03-06T00:15:52.799Z"
+    },
+    {
+      "id": "1feea07811ce",
+      "title": "Noem firing doesn't break DHS funding impasse, Democrats say",
+      "url": "https://www.cnbc.com/2026/03/05/noem-firing-doesnt-break-dhs-funding-impasse-democrats-say.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T00:04:50.000Z",
+      "description": "Homeland Security Secretary Kristi Noem was fired by President Donald Trump on Thursday, as a DHS shutdown drags on.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Cabinet firing is within presidential authority and routine, but occurs amid funding impasse raising questions about institutional leverage and political negotiation tactics.",
+      "categories": [
+        "congressional_oversight",
+        "federal_programs_agencies"
+      ],
+      "scoredAt": "2026-03-06T00:15:52.922Z"
+    },
+    {
+      "id": "c9d967dc3097",
+      "title": "Trump taps Sen. Markwayne Mullin after firing Kristi Noem as DHS secretary",
+      "url": "https://www.cnbc.com/2026/03/05/trump-kristi-noem-markwayne-mullin-dhs.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-05T22:07:41.000Z",
+      "description": "Noem's chief adviser, Corey Lewandowski, will also leave his position at DHS, MS NOW reported.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Personnel changes in executive appointments represent notable shifts in institutional leadership but lack sufficient detail about qualifications, conflicts of interest, or policy implications to determine significance to checks and balances.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-06T00:15:52.972Z"
+    },
+    {
+      "id": "7c2be2a4e05b",
+      "title": "Trump Fires Kristi Noem, Taps Oklahoma Senator to Lead DHS",
+      "url": "https://www.rollingstone.com/politics/politics-news/kristi-noem-dhs-secretary-markwayne-mullin-1235525534/",
+      "source": "Rolling Stone",
+      "published": "2026-03-05T18:57:04.000Z",
+      "description": "The president now wants Markwayne Mullin to run the department leading the administration's immigration crackdown",
+      "keywords": [
+        "immigration",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A cabinet personnel change represents routine executive authority, though the nominee's background and immigration policy direction warrant monitoring for potential civil rights and institutional independence implications.",
+      "categories": [
+        "immigration & civil rights",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T00:15:53.482Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-05T18:33:37.638Z"
+  "lastFetch": "2026-03-06T00:15:53.482Z"
 }
