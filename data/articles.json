@@ -42482,8 +42482,358 @@
       "reason": "This is routine economic policy reporting on Treasury Department measures to address commodity prices during a geopolitical event, with no direct implications for democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-06T06:11:29.949Z"
+    },
+    {
+      "id": "9cfdbd38976c",
+      "title": "Trump fires Kristi Noem as head of DHS, names Oklahoma senator as her replacement",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5737623/trump-fires-kristi-noem-as-head-of-dhs-names-oklahoma-senator-as-her-replacement",
+      "source": "NPR Politics",
+      "published": "2026-03-06T11:46:58.000Z",
+      "description": "President Trump fired Homeland Security Secretary Kristi Noem Thursday and said he wants Republican Sen. Markwayne {mark-wayn} Mullin of Oklahoma to replace her.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Cabinet-level personnel change reflects presidential authority but warrants monitoring given DHS's role in election infrastructure and civil rights enforcement.",
+      "categories": [
+        "DOJ independence",
+        "election infrastructure",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-06T12:05:46.316Z"
+    },
+    {
+      "id": "eb26c355c52a",
+      "title": "Sen. Amy Klobuchar talks about Kristi Noem's firing and Trump's pick to replace her",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5737561/sen-amy-klobuchar-talks-about-kristi-noems-firing-and-trumps-pick-to-replace-her",
+      "source": "NPR Politics",
+      "published": "2026-03-06T11:46:52.000Z",
+      "description": "NPR's Michel Martin asks Sen. Amy Klobuchar, D-Minn., about the firing of DHS Secretary Kristi Noem and President Trump's decision to tap GOP Sen. Markwayne Mullin as her replacement.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is commentary and reaction to an executive personnel decision, lacking substantive analysis of institutional checks, policy implications, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:46.242Z"
+    },
+    {
+      "id": "3a3e98c70bf2",
+      "title": "Texas GOP worries runoff could make party vulnerable before November election",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5737590/texas-gop-worries-runoff-could-make-party-vulnerable-before-november-election",
+      "source": "NPR Politics",
+      "published": "2026-03-06T11:46:43.000Z",
+      "description": "The runoff between Sen. John Cornyn and Texas Attorney General Ken Paxton has Republicans worried that infighting ahead of May's primary could make the GOP vulnerable before the general election.",
+      "keywords": [
+        "election",
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about intra-party primary dynamics and campaign strategy with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:46.097Z"
+    },
+    {
+      "id": "1de01f89696c",
+      "title": "Homegoing service will celebrate civil rights leader Jesse Jackson in Chicago",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5737466/jesse-jackson-memorial-service-obama-hudson-winans",
+      "source": "NPR Politics",
+      "published": "2026-03-06T10:00:00.000Z",
+      "description": "Chicago native Jennifer Hudson is among the singers performing at a memorial for the civil rights leader who died last month. Former presidents Bill Clinton, Barack Obama and Joe Biden will attend.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a news report about a memorial service for a deceased civil rights leader with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:46.153Z"
+    },
+    {
+      "id": "79b0ee983acb",
+      "title": "GOP Rep. Tony Gonzales of Texas ends reelection bid after admitting to affair with aide",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5738955/gonzales-texas-ends-reelection-bid-affair-aide",
+      "source": "NPR Politics",
+      "published": "2026-03-06T06:47:35.000Z",
+      "description": "Republican Rep. Tony Gonzales of Texas said late Thursday he was withdrawing from his reelection race, after having admitted an affair with a former staff member.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is a personal scandal involving an individual politician's conduct that does not directly impact institutional checks and balances or democratic systems.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:46.205Z"
+    },
+    {
+      "id": "a628ee44c479",
+      "title": "Kristi Noem's sacking isn't enough. Democrats say they want her to pay.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/kristi-noem-ouster-democrats-rcna262034",
+      "source": "NBC News",
+      "published": "2026-03-06T10:05:41.000Z",
+      "description": "Kristi Noem may be out at the top of the Department of Homeland Security, but Democrats are still demanding a “reckoning.”",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While personnel changes and partisan calls for accountability reflect normal political tensions, the story primarily involves routine post-resignation commentary rather than institutional threats or systemic checks-and-balances erosion.",
+      "categories": [
+        "political-retribution",
+        "congressional-oversight"
+      ],
+      "scoredAt": "2026-03-06T12:05:47.396Z"
+    },
+    {
+      "id": "075c6b9e02b6",
+      "title": "DOJ releases missing Epstein files related to a woman who made an allegation against Trump",
+      "url": "https://www.nbcnews.com/politics/donald-trump/doj-releases-missing-epstein-files-related-woman-made-allegation-trump-rcna262024",
+      "source": "NBC News",
+      "published": "2026-03-06T06:21:11.000Z",
+      "description": "The Justice Department indicated that the documents were not previously released because they had been \"incorrectly coded as duplicative.\"",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "A routine administrative disclosure of previously misfiled documents lacks inherent significance to democratic checks and balances, though the subject matter tangentially relates to political figures.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-06T12:05:47.259Z"
+    },
+    {
+      "id": "e1744366d3c5",
+      "title": "Epstein files on woman's unproven claims about Trump released by DOJ",
+      "url": "https://www.cbsnews.com/news/epstein-files-on-womans-unproven-claims-about-trump-released-by-doj/",
+      "source": "CBS News",
+      "published": "2026-03-06T12:00:14.000Z",
+      "description": "The Justice Dept. has released Jeffrey Epstein files involving uncorroborated accusations by a woman against President Trump that the department said had been mistakenly withheld.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A document release correction involves procedural DOJ transparency but lacks evidence of systematic institutional erosion or unprecedented democratic threat.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-06T12:05:47.642Z"
+    },
+    {
+      "id": "2a22b093af2f",
+      "title": "Mom whose son was killed by ICE doesn't blame Trump, but calls for change",
+      "url": "https://www.cbsnews.com/news/mom-ruben-ray-martinez-killed-by-ice-texas/",
+      "source": "CBS News",
+      "published": "2026-03-06T11:49:00.000Z",
+      "description": "\"I just want to know what happened,\" Rachel Reyes told CBS News during her first TV interview since the death of her son, Ruben Ray Martinez, a U.S. citizen shot and killed by an ICE agent in Texas last year.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While the story touches on immigration enforcement accountability and civil rights concerns, it is primarily a personal testimony piece rather than reporting on systemic institutional changes or policy decisions affecting democratic checks.",
+      "categories": [
+        "immigration & civil rights",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T12:05:48.725Z"
+    },
+    {
+      "id": "ab64f63eabbc",
+      "title": " As Texas braces for messy Senate runoff, Georgia Republicans fear similar fate unless Trump endorses",
+      "url": "https://abcnews.com/Politics/wireStory/texas-braces-messy-senate-runoff-georgia-republicans-fear-130814331",
+      "source": "ABC News",
+      "published": "2026-03-06T07:22:04.000Z",
+      "description": "President Donald Trump has yet to endorse a candidate in Georgia's Republican primary",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on routine electoral politics and candidate endorsements with no direct bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:48.350Z"
+    },
+    {
+      "id": "cd80912d5c73",
+      "title": " Pentagon's break with Ivy League leaves colleges bracing for further changes to military programs",
+      "url": "https://abcnews.com/Politics/wireStory/pentagons-break-ivy-league-leaves-colleges-bracing-military-130814484",
+      "source": "ABC News",
+      "published": "2026-03-06T07:21:59.000Z",
+      "description": "The Trump administration’s campaign to end “wokeness” in the military is reshaping its relationship with U.S. higher education",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The Pentagon's policy shift regarding university partnerships affects military-education relationships and potentially civil service independence, but represents an administrative reallocation rather than a fundamental erosion of democratic checks and balances.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T12:05:48.649Z"
+    },
+    {
+      "id": "c395b14da9a3",
+      "title": "Behind the Curtain: Trump's power play",
+      "url": "https://www.axios.com/2026/03/06/behind-the-curtain-trump-iran-war-tariffs-anthropic",
+      "source": "Axios",
+      "published": "2026-03-06T10:57:01.000Z",
+      "description": "President Trump seethed when the Supreme Court stripped away his unilateral tariff authority, the first real check on his presidency.\n\nThen he set out to impose his will on every remaining vector of American power — smashing norms and shrugging off Congress in a historic, 14-day show of executive force.\n\nWhy it matters: Over the past two weeks, Trump launched a massive Middle East war, blacklisted the hottest AI company on the planet, ordered new global tariffs, and presided over the biggest med",
+      "keywords": [
+        "ICE",
+        "executive order",
+        "ruling",
+        "trump",
+        "EPA",
+        "pardon"
+      ],
+      "significance": 8,
+      "reason": "The article describes systematic circumvention of multiple constitutional checks including judicial authority, congressional oversight, and institutional norms across numerous policy domains in a concentrated timeframe.",
+      "categories": [
+        "judicial independence",
+        "congressional oversight",
+        "DOJ independence",
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T12:05:48.923Z"
+    },
+    {
+      "id": "cbb52f246098",
+      "title": "Trump looks for DHS reset with new leader",
+      "url": "https://thehill.com/newsletters/morning-report/5770932-trump-replaces-noem-mullin-dhs-guthrie-returns/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:50:06.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ The breaking point for Noem ▪ Trump steps up Iran involvement ▪ Gonzales ends reelection bid ▪ Savannah Guthrie visits “Today” show President Trump’s decision to replace Kristi Noem as secretary of the Department of Homeland Security (DHS) with Sen. Markwayne Mullin (R-Okla.) suggests…",
+      "keywords": [
+        "election",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Cabinet personnel changes are routine executive prerogative, but DHS leadership transitions warrant monitoring for potential impacts on civil service independence, immigration enforcement, and election infrastructure oversight.",
+      "categories": [
+        "civil service independence",
+        "election infrastructure",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-06T12:05:48.589Z"
+    },
+    {
+      "id": "f0181e7b9dbe",
+      "title": "Trump says Cuba’s next: Here’s how it could play out",
+      "url": "https://thehill.com/policy/international/5770748-trump-pressure-cuba-regime-change/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "America’s pressure campaign on Cuba is pushing the country to the breaking point, with President Trump and Republicans in Congress predicting the communist regime’s imminent fall. A major blackout across the western half of Cuba on Wednesday underscored the energy crisis exacerbated by Trump’s fuel blockade. Some analysts warn the Cuban government will exhaust all…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine geopolitical commentary on foreign policy toward Cuba with no direct bearing on domestic U.S. democratic institutions or their checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:49.872Z"
+    },
+    {
+      "id": "ed4e79c6533a",
+      "title": "Customs officials to lay out tariff refund plans to US trade judge",
+      "url": "https://thehill.com/regulation/court-battles/5770188-supreme-court-tariff-refunds/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "Customs officials will head to court Friday to lay out ideas for how to process refunds for billions of dollars of tariffs invalidated by the Supreme Court.  Judge Richard Eaton, who serves on the U.S. Court of International Trade in New York, began managing the process this week.   He scheduled the closed-door session after the Trump administration signaled that refunds will take time. At an earlier hearing, the judge said the government’s…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine administrative court proceeding about tariff refund implementation following a Supreme Court decision, lacking democratic check-and-balance implications.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:49.693Z"
+    },
+    {
+      "id": "819d86291474",
+      "title": "Trump’s war with Iran is expanding. Will others join the fight?  ",
+      "url": "https://thehill.com/policy/defense/5770559-us-israeli-war-iran-gulf-expanding/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "The U.S.-Israeli war against Iran is rapidly expanding across the region, sucking in Gulf allies and pulling European countries and Iranian proxies into the fight. Since the joint operation was launched over the weekend, Tehran has retaliated by firing thousands of drones and missiles against Israel and the U.S. interests in Gulf states, further inflaming…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy and military operations, which fall outside the tracked categories of domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:49.558Z"
+    },
+    {
+      "id": "b69252e74802",
+      "title": "Noem’s tumultuous tenure at DHS marked by controversies, confrontations",
+      "url": "https://thehill.com/homenews/administration/5770536-kristi-noem-trump-firing/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "The toppling of Kristi Noem on Thursday marks the first firing of the second Trump presidency and the exit of a face at the center of President Trump’s controversial pledge to carry out mass deportations. During her tenure as secretary of the Department of Homeland Security (DHS), Noem faced Democratic threats to impeach her as she surged…",
+      "keywords": [
+        "deportation",
+        "impeach",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A Cabinet secretary's departure represents notable personnel turnover with implications for immigration enforcement policy, but lacks evidence of systemic institutional erosion or unprecedented democratic breach.",
+      "categories": [
+        "federal_programs_and_agencies",
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-06T12:05:49.998Z"
+    },
+    {
+      "id": "cd2f1e730719",
+      "title": "Trump plays kingmaker in GOP primaries",
+      "url": "https://thehill.com/homenews/campaign/5770185-trump-endorsements-gop-primaries/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "President Trump is playing the role of kingmaker, clearing the field in several crucial GOP primaries for his preferred candidates for Congress. Trump’s endorsement hangs over the Texas Senate GOP primary between incumbent Sen. John Cornyn (R) and state Attorney General Ken Paxton (R), and he went a step further Wednesday by ordering the person he…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While Trump's endorsement influence reflects political power dynamics, primary endorsements are routine expressions of political preference that do not directly erode institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:49.765Z"
+    },
+    {
+      "id": "ca0633eba87d",
+      "title": "The Memo: Polls show deep public skepticism of Trump’s case on Iran",
+      "url": "https://thehill.com/homenews/administration/5770427-trump-iran-attack-public-opinion/",
+      "source": "The Hill",
+      "published": "2026-03-06T11:00:00.000Z",
+      "description": "Six days after the U.S. attacked Iran as part of a joint operation with Israel, opinion polls reveal grave doubts among the American public about the endeavor. The lack of public support spells political peril for President Trump, even as he enthuses about how well American actions are going, celebrates the killing of Iranian Supreme…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on public opinion polling regarding a foreign policy decision, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:50.883Z"
+    },
+    {
+      "id": "91dd84a37ed8",
+      "title": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
+      "url": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T10:00:01.000Z",
+      "description": "The Iran war and the U.S. attack in Venezuela show a Trump administration more willing to eschew diplomacy and take military action.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses foreign policy and military strategy rather than domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-06T12:05:50.681Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-06T06:11:29.949Z"
+  "lastFetch": "2026-03-06T12:05:50.883Z"
 }
