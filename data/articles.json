@@ -42091,8 +42091,399 @@
         "corruption & self-dealing"
       ],
       "scoredAt": "2026-03-06T00:15:53.482Z"
+    },
+    {
+      "id": "8be009d13310",
+      "title": "Multiple states sue over Trump's new global tariffs imposed after his Supreme Court loss",
+      "url": "https://www.pbs.org/newshour/politics/multiple-states-sue-over-trumps-new-global-tariffs-imposed-after-his-supreme-court-loss",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T00:47:22.000Z",
+      "description": "Some two dozen states challenged President Donald Trump's new global tariffs on Thursday, filing a lawsuit over import taxes he imposed after a stinging loss at the Supreme Court.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable institutional check (states suing executive action) but involves routine economic policy dispute rather than direct democratic erosion.",
+      "categories": [
+        "congressional_oversight",
+        "judicial_independence"
+      ],
+      "scoredAt": "2026-03-06T06:11:22.370Z"
+    },
+    {
+      "id": "bcca8660a21e",
+      "title": "Trump says he wants Iran's leadership structure gone and has preferences for a 'good leader'",
+      "url": "https://www.nbcnews.com/politics/donald-trump/wants-iran-leadership-structure-gone-preference-good-leader-rcna262039",
+      "source": "NBC News",
+      "published": "2026-03-06T03:10:41.000Z",
+      "description": "In a phone call with NBC News, the president also downplayed the possibility of a ground invasion in Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a statement of foreign policy preference regarding Iran's leadership that does not directly implicate domestic democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:22.232Z"
+    },
+    {
+      "id": "2a2826dfebbf",
+      "title": "Trump says he 'wasn't thrilled' with Kristi Noem's $220M self-deportation ad campaign ",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-was-not-thrilled-kristi-noem-ad-campaign-self-deportation-rcna262050",
+      "source": "NBC News",
+      "published": "2026-03-06T04:34:46.000Z",
+      "description": "Trump suggested in a phone call with NBC News that Noem's dismissal was less about her performance and more about elevating Sen. Markwayne Mullin to his Cabinet.",
+      "keywords": [
+        "deportation",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about internal personnel decisions and campaign strategy with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:22.085Z"
+    },
+    {
+      "id": "d07c7c56ea7f",
+      "title": "Rep. Tony Gonzales drops re-election bid amid ethics probe into his affair with a staffer",
+      "url": "https://www.nbcnews.com/politics/congress/rep-tony-gonzales-drops-re-election-bid-rcna262055",
+      "source": "NBC News",
+      "published": "2026-03-06T04:39:17.000Z",
+      "description": "Rep. Tony Gonzales, R-Texas, announced Thursday night that he will drop his bid for re-election but will serve out the rest of his term in Congress following a tumultuous set of weeks for the congressman, who admitted having had an affair with an aide who later died by suicide.\"After deep reflection and with the support of my loving family, I have decided not to seek re-election while serving out the rest of this Congress with the same commitment I've always had to my district,\" Gonzales said in",
+      "keywords": [
+        "election"
+      ],
+      "significance": 3,
+      "reason": "This is a routine personnel/ethics matter involving an individual legislator's resignation from a re-election race, with no systemic implications for democratic institutions or checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T06:11:23.412Z"
+    },
+    {
+      "id": "26205070d6cd",
+      "title": "Anthropic says the Pentagon has declared it a national security risk",
+      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-says-pentagon-declared-national-security-risk-rcna262013",
+      "source": "NBC News",
+      "published": "2026-03-06T03:07:28.000Z",
+      "description": "Anthropic said Thursday that the Defense Department has designated it a threat to national security, a striking move that bans it from doing business with the U.S. military and could send shock waves through America’s AI industry",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A significant executive action affecting a major AI company's access to federal contracts, but the specific rationale and precedent-setting implications require clarification to assess whether this represents routine security vetting or a concerning pattern of political/industrial targeting.",
+      "categories": [
+        "DOJ independence",
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T06:11:23.549Z"
+    },
+    {
+      "id": "3b4199eee94c",
+      "title": "Trump fires DHS Secretary Kristi Noem",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-fires-dhs-secretary-kristi-noem-258789445976",
+      "source": "NBC News",
+      "published": "2026-03-06T00:26:54.000Z",
+      "description": "President Trump has fired Homeland Security Secretary Kristi Noem, the first cabinet secretary he’s fired in his second term. The president announced Sen. Markywane Mullin as Noem’s replacement, pending Senate confirmation. NBC News’ Peter Alexander reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While cabinet dismissals are within presidential authority, this represents routine executive personnel action rather than a systemic check-and-balance concern, though the pattern of replacements warrants monitoring.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T06:11:23.391Z"
+    },
+    {
+      "id": "9150d5309034",
+      "title": "Pokémon rebukes White House’s use of its IP in a social media post",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/pokemon-rebukes-white-houses-use-ip-social-media-post-rcna262057",
+      "source": "NBC News",
+      "published": "2026-03-06T05:49:58.000Z",
+      "description": "Pokémon Company International said it did not grant permission to the White House to post “social content that includes imagery associated with our brand\" after the administration shared a “Make America Great Again” meme to social media Thursday that looks like the cover of Nintendo's new game",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "This is a routine intellectual property dispute with no bearing on democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:22.988Z"
+    },
+    {
+      "id": "a24bc39e6847",
+      "title": "3/5: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/35-cbs-evening-news-4/",
+      "source": "CBS News",
+      "published": "2026-03-06T02:36:53.000Z",
+      "description": "Noem's testimony about $220 million ad campaign may have been final straw for Trump; Dog tracks down missing 13-year-old boy with autism",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a news broadcast summary mixing a political story with an unrelated human interest story, lacking substantive information about institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:23.252Z"
+    },
+    {
+      "id": "5d7f92b64318",
+      "title": "U.S., Venezuela to establish diplomatic relations for first time since 2019",
+      "url": "https://www.cbsnews.com/news/us-venezuela-establish-diplomatic-relations-first-time-since-2019/",
+      "source": "CBS News",
+      "published": "2026-03-06T01:50:00.000Z",
+      "description": "Relations between the two countries were cut off in 2019, during the first Trump administration.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article reports routine foreign policy diplomacy with no direct bearing on domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:24.171Z"
+    },
+    {
+      "id": "a661624ee63d",
+      "title": "Iran appeared to surveil center where U.S. forces were killed, Army memo says",
+      "url": "https://www.cbsnews.com/news/iran-appeared-to-surveil-center-where-u-s-forces-were-killed-in-kuwait-army-memo-says/",
+      "source": "CBS News",
+      "published": "2026-03-06T01:45:00.000Z",
+      "description": "In the week before an Iranian retaliatory strike that killed six U.S. service members, Iranian intelligence was likely able to identify and track American forces, according to a memo reviewed by CBS News.",
+      "keywords": [
+        "ICE",
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign military intelligence activities and a past military incident with no direct implications for U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:24.633Z"
+    },
+    {
+      "id": "cd44bf2807fc",
+      "title": "U.S. and Israel target Iran's ballistic missile launchers, air defenses",
+      "url": "https://www.cbsnews.com/video/us-and-israel-target-irans-ballistic-missile-launchers-air-defenses/",
+      "source": "CBS News",
+      "published": "2026-03-06T00:24:00.000Z",
+      "description": "On the sixth day of the Iran war, President Trump says Operation Epic Fury was far ahead of schedule. Joint U.S.-Israeli forces have near-complete control of Iranian skies. Tony Dokoupil has the latest.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign military operations report with no direct bearing on domestic U.S. democratic institutions, checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:24.580Z"
+    },
+    {
+      "id": "782a8b243ebc",
+      "title": "Noem's testimony about $220 million ad campaign may have been final straw for Trump",
+      "url": "https://www.cbsnews.com/video/noems-testimony-about-220-million-ad-campaign-may-have-been-final-straw-for-trump/",
+      "source": "CBS News",
+      "published": "2026-03-06T00:18:00.000Z",
+      "description": "President Trump announce that Department of Homeland Security Secretary Kristi Noem would leave her role later this month as she's faced intense criticism that came to a crescendo this week. As Nancy Cordes reports, Noem's claims about a $220 million ad campaign may have been the final straw.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A cabinet secretary departure based on credibility concerns is notable but represents routine executive personnel changes rather than institutional erosion of checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T06:11:24.354Z"
+    },
+    {
+      "id": "9140d7f8d64d",
+      "title": "Tony Gonzales drops re-election bid after pressure from GOP leadership to quit race",
+      "url": "https://www.axios.com/2026/03/06/tony-gonzales-drops-re-election-bid-texas-race",
+      "source": "Axios",
+      "published": "2026-03-06T05:16:30.000Z",
+      "description": "Rep. Tony Gonzales (R-Texas) will not seek re-election, he announced late Thursday.\nWhy it matters: His announcement came hours after Speaker Mike Johnson (R-La.) and his House GOP leadership team called on Gonzales to drop out of his race after the Texas Republican admitted to having an affair with a former staffer.\n\nThe House Ethics Committee formally launched an investigation into Gonzales the morning after his March 3 primary election, which saw him headed to a runoff election.\nHis mid-race ",
+      "keywords": [
+        "election",
+        "johnson",
+        "speaker",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the incident involves ethical concerns and internal GOP pressure on a member, it represents routine congressional ethics enforcement and party discipline rather than systemic erosion of democratic institutions.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-06T06:11:24.572Z"
+    },
+    {
+      "id": "0f4269cb4764",
+      "title": "How the ice finally broke under Kristi Noem",
+      "url": "https://www.axios.com/2026/03/06/kristi-noem-dhs-trump-inside-firing",
+      "source": "Axios",
+      "published": "2026-03-06T01:51:16.000Z",
+      "description": "President Trump fired Homeland Security Secretary Kristi Noem on Thursday after he consulted allies and advisers — all of whom told him it was time for her to go, sources tell Axios.\n\n\"She burnt up a ton of goodwill,\" an adviser who spoke with Trump told Axios. \"It was everywhere. It was everything.\"\n\nWhy it matters: Trump's firing of Noem was the biggest personnel shake-up of his second term. It showed the backlash against her was so great that Trump was willing to dismiss the nation's domestic",
+      "keywords": [
+        "bondi",
+        "immigration",
+        "ICE",
+        "deportation",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While presidential personnel decisions are routine executive authority, this firing demonstrates internal Trump administration dynamics rather than a systemic check-and-balance issue, though it touches on executive independence.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-06T06:11:25.562Z"
+    },
+    {
+      "id": "c468a425ed73",
+      "title": "Scoop: Anthropic CEO apologizes for leaked memo criticizing Trump",
+      "url": "https://www.axios.com/2026/03/06/pentagon-anthropic-amodei-apology",
+      "source": "Axios",
+      "published": "2026-03-06T01:08:15.000Z",
+      "description": "The Pentagon has formally designated Anthropic a supply chain risk, as CEO Dario Amodei apologized Thursday for a leaked memo criticizing the Trump administration. \nWhy it matters: The dispute has raised fundamental questions over AI governance and cast a shadow over the industry's relationship with Washington. \n\nAmodei won a legion of fans — and Anthropic's Claude a flood of new users — for his initial strong stance in a dispute over how AI could be used by the military. \n\nState of play: Despit",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Pentagon's designation of a major AI company as supply chain risk based on political speech raises significant concerns about executive retaliation and potential chilling effects on corporate independence and press freedom.",
+      "categories": [
+        "political retribution",
+        "press freedom",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-06T06:11:25.679Z"
+    },
+    {
+      "id": "e657dae20edf",
+      "title": "Nvidia and AMD chips could be subject to U.S. approvals for foreign sales",
+      "url": "https://www.axios.com/2026/03/05/ai-nvidia-chips-amd-exports",
+      "source": "Axios",
+      "published": "2026-03-05T21:58:36.000Z",
+      "description": "The Trump administration is reportedly weighing rules that would require foreign buyers to obtain licenses from the U.S. government to buy American AI chips.\nWhy it matters: The AI chips sector has been flourishing as tech companies ramp up their spending on data centers and new AI models, underpinning the broader market.\n\nThe big picture: The draft regulations would give \"Washington broad control over whether other countries can build facilities for training and running artificial-intelligence ",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a routine economic and trade policy matter with no direct bearing on democratic checks and balances, separation of powers, or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:25.324Z"
+    },
+    {
+      "id": "09dab968ba44",
+      "title": "Gonzales drops reelection bid after pressure over affair",
+      "url": "https://thehill.com/homenews/house/5770802-tony-gonzales-drops-reelection-bid/",
+      "source": "The Hill",
+      "published": "2026-03-06T04:49:16.000Z",
+      "description": "Rep. Tony Gonzales (R-Texas) dropped his reelection bid on Thursday after coming under pressure from Republican leaders and other GOP colleagues to do so after admitting to an affair with his staffer who later died by suicide. He indicated he would stay in office through the end of his term. “After deep reflection and with…",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine personnel/political matter involving personal conduct and voluntary withdrawal from an election, with no direct institutional impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:25.439Z"
+    },
+    {
+      "id": "98780c0d110a",
+      "title": "Vance indefinitely postpones CBS town hall ‘due to the war,’ network says",
+      "url": "https://thehill.com/homenews/media/5770774-vance-postpones-town-hall-cbs/",
+      "source": "The Hill",
+      "published": "2026-03-06T03:40:34.000Z",
+      "description": "Vice President Vance has postponed a town hall with CBS News that was scheduled for next week “due to the war” in the Middle East, the network announced on Thursday. “A new date and more details to come soon,” a network statement posted on the social platform X said. Vance was supposed to participate in…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A routine postponement of a media appearance due to external circumstances has minimal bearing on institutional checks and balances or democratic governance.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:25.332Z"
+    },
+    {
+      "id": "0b9fd3f109cc",
+      "title": "FBI searches home west of Nancy Guthrie’s house",
+      "url": "https://thehill.com/homenews/5770760-fbi-searches-home-west-of-nancy-guthries-house/",
+      "source": "The Hill",
+      "published": "2026-03-06T03:18:26.000Z",
+      "description": "FBI agents searched a home west of Nancy Guthrie’s house as the investigation entered Day 32.",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 1,
+      "reason": "This appears to be routine reporting on an ongoing FBI investigation with no indication of institutional significance or democratic implications.",
+      "categories": [
+        "FBI independence"
+      ],
+      "scoredAt": "2026-03-06T06:11:26.387Z"
+    },
+    {
+      "id": "0551eb9e8330",
+      "title": "Austin police release body-cam footage, 911 calls from Sixth Street mass shooting",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5769235-austin-police-release-body-cam-footage-911-calls-from-sixth-street-mass-shooting/",
+      "source": "The Hill",
+      "published": "2026-03-06T02:47:30.000Z",
+      "description": "Austin Police released new information and video about the deadly mass shooting at a bar on West Sixth Street during a news conference Thursday.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine local crime report about police transparency in a specific incident, with no connection to federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:26.575Z"
+    },
+    {
+      "id": "bc2650db1bff",
+      "title": "Teamsters leader who nearly brawled with Mullin praises DHS nomination",
+      "url": "https://thehill.com/homenews/administration/5770671-teamsters-president-praises-mullin/",
+      "source": "The Hill",
+      "published": "2026-03-06T01:18:34.000Z",
+      "description": "Teamsters President Sean O’Brien offered unexpected praise on Thursday for Sen. Markwayne Mullin’s (R-Okla.) nomination to lead the Department of Homeland Security (DHS), the latest sign of reconciliation between the two men who nearly came to blows during a Senate hearing in 2023. “If anyone is willing to stand their butt up to protect America,…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a labor leader's endorsement of a Cabinet nominee, lacking substantive information about institutional checks, governance impacts, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:26.551Z"
+    },
+    {
+      "id": "abc239b4b13b",
+      "title": "Hegseth on Noem’s ouster: ‘We all serve at the pleasure of the president’",
+      "url": "https://thehill.com/homenews/administration/5770492-hegseth-kristi-noem-dhs-ouster-mulin-trump/",
+      "source": "The Hill",
+      "published": "2026-03-06T00:29:23.000Z",
+      "description": "Defense Secretary Pete Hegseth said Thursday that Kristi Noem did an “excellent job” at the Department of Homeland Security (DHS), hours after President Trump announced he had tapped Sen. Markwayne Mullin (R-Okla.) to replace her as the department’s secretary. “We all serve at the pleasure of the president,” Hegseth told reporters during a briefing on…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "A cabinet resignation/replacement is routine presidential prerogative, but the framing emphasizes executive power over institutional constraints, warranting attention to broader patterns of accountability.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-06T06:11:26.745Z"
+    },
+    {
+      "id": "2153395c25fa",
+      "title": "Treasury Department to announce measures to combat rising oil prices amid Iran conflict: Report",
+      "url": "https://thehill.com/business/5770393-rising-gas-prices-impact/",
+      "source": "The Hill",
+      "published": "2026-03-05T23:32:35.000Z",
+      "description": "The Treasury Department will announce measures to combat rising energy prices amid the U.S.-Israeli strikes against Iran as soon as Thursday, Reuters reported.  As the conflict in the Middle East nears the one-week mark, oil prices have risen and consumers are seeing an impact at the pump. Iran closed the Strait of Hormuz in response…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic policy reporting on Treasury Department measures to address commodity prices during a geopolitical event, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-06T06:11:29.949Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-06T00:15:53.482Z"
+  "lastFetch": "2026-03-06T06:11:29.949Z"
 }
