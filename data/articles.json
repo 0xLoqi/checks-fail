@@ -59,21 +59,6 @@
       "scoredAt": "2026-02-09T17:49:32.800Z"
     },
     {
-      "id": "62dd9a8711d8",
-      "title": "“You’re Not Going to Investigate a Federal Officer”",
-      "url": "https://www.propublica.org/article/why-local-state-police-rarely-investigate-ice-cbp-fbi",
-      "source": "ProPublica",
-      "published": "2026-02-05T11:00:00.000Z",
-      "description": "The post “You’re Not Going to Investigate a Federal Officer” appeared first on ProPublica.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": null,
-      "reason": "Cannot rate without article content; only title and source provided",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:32.473Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -1138,32 +1123,6 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-09T17:50:19.630Z"
-    },
-    {
-      "id": "7b025ccb96d7",
-      "title": " Legal fight escalates over Georgia voting records as Trump says he wants to ‘take over’ elections",
-      "url": "https://abcnews.go.com/Politics/wireStory/georgias-fulton-county-seeks-return-2020-election-documents-129849119",
-      "source": "ABC News",
-      "published": "2026-02-05T07:41:49.000Z",
-      "description": "Officials in Georgia’s Fulton County have asked a federal court to order the FBI to return ballots and other documents from the 2020 election that it seized last week, The move escalates a voting battle as President Donald Trump says he wants to “take ...",
-      "keywords": [
-        "election",
-        "voting",
-        "ballot",
-        "FBI",
-        "fulton county",
-        "trump"
-      ],
-      "significance": 8,
-      "reason": "Trump's stated intent to 'take over' elections combined with disputes over election records seizure and custody directly threatens election infrastructure, congressional oversight, and judicial independence through potential executive overreach.",
-      "categories": [
-        "election infrastructure",
-        "DOJ independence",
-        "judicial independence",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:50:21.701Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "fa4db24680de",
@@ -44287,8 +44246,148 @@
         "political_retribution"
       ],
       "scoredAt": "2026-03-07T06:06:32.515Z"
+    },
+    {
+      "id": "f5604ed5e8ba",
+      "title": "What the Trump administration says about why it went to war with Iran",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war",
+      "source": "NPR Politics",
+      "published": "2026-03-07T07:23:13.000Z",
+      "description": "The Trump administration says it is \"laser focused\" and mission driven, but the messaging has been varied. The range of cited motivations for striking Iran now are sometimes at odds with each other.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article analyzes the Trump administration's public messaging and rationales for Iran policy, which is foreign policy commentary rather than reporting on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T12:03:27.936Z"
+    },
+    {
+      "id": "986b6a42ec04",
+      "title": "Billionaire Rick Jackson shakes up Georgia's governor race with a play for the MAGA base",
+      "url": "https://www.nbcnews.com/politics/2026-election/billionaire-rick-jackson-georgia-governor-race-maga-base-rcna261940",
+      "source": "NBC News",
+      "published": "2026-03-07T10:00:41.000Z",
+      "description": "Jackson has vastly outspent his GOP primary opponents, including Trump-backed Lt. Gov. Burt Jones, on the airwaves since his surprise campaign launch last month.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about campaign spending and primary competition with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T12:03:27.532Z"
+    },
+    {
+      "id": "a039b6bf2309",
+      "title": "Camouflage and crudites: Trump wages war and hosts parties at Mar-a-Lago",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389",
+      "source": "NBC News",
+      "published": "2026-03-07T10:00:00.000Z",
+      "description": "Donald Trump watched “Operation Epic Fury,” the beginning of war with Iran, unfold from a makeshift “situation room\" at Mar-a-Lago.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Presidential conduct of military operations from an unsecured private facility raises serious concerns about classified information handling, chain of command integrity, and separation of powers regarding war powers oversight.",
+      "categories": [
+        "DOJ independence",
+        "intelligence community integrity",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T12:03:28.259Z"
+    },
+    {
+      "id": "bef06b9e9bdb",
+      "title": "Trump vows to step up Iran bombing, as gas price surge worsens",
+      "url": "https://www.axios.com/2026/03/07/trump-iran-gas-fuel-strikes",
+      "source": "Axios",
+      "published": "2026-03-07T11:49:06.000Z",
+      "description": "President Trump threatened early Saturday morning to step up the bombing campaign in Iran, saying it may expand to people and regions that hadn't been targeted previously.\nWhy it matters: The war is entering its second week, with no let-up in sight.\n\nThe domestic impacts, meanwhile, are compounding — especially the surge in energy prices that threatens to complicate Trump's affordability agenda.\n\nWhat they're saying: \"Today Iran will be hit very hard! Under serious consideration for complete des",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article covers foreign military policy and domestic economic impacts rather than institutional checks and balances within the U.S. government system.",
+      "categories": [],
+      "scoredAt": "2026-03-07T12:03:29.388Z"
+    },
+    {
+      "id": "91c6337f65d2",
+      "title": "Civil rights group documents 70 alleged \"modern-day lynchings\" across 7 Southern states",
+      "url": "https://www.axios.com/2026/03/07/lynching-south-black-americans-suicide-report",
+      "source": "Axios",
+      "published": "2026-03-07T10:00:04.000Z",
+      "description": "A new civil rights report argues that lynchings of Black men didn't end in America — they evolved — and that some deaths today may still be misclassified as suicides or accidents.\nThe big picture: If killings are misclassified, families can lose their paths to justice, and possible patterns of racial violence can remain hidden in plain sight.\n\nDriving the news: Mississippi-based civil rights group JULIAN identified 70 \"modern-day lynchings\" in seven southern states from 2000 to 2025 in a report ",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "classified"
+      ],
+      "significance": 6,
+      "reason": "Documents potential systemic failures in civil rights enforcement and judicial oversight through alleged misclassification of deaths, raising concerns about institutional accountability and pattern recognition but lacking direct evidence of checks-and-balances erosion.",
+      "categories": [
+        "judicial independence",
+        "civil rights & immigration",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-07T12:03:30.124Z"
+    },
+    {
+      "id": "f04a9e8c93ec",
+      "title": "Noem’s ouster leaves open questions about FEMA’s future",
+      "url": "https://thehill.com/policy/energy-environment/5772373-noem-dhs-fema-mullin/",
+      "source": "The Hill",
+      "published": "2026-03-07T11:00:00.000Z",
+      "description": "Questions about the future of the Federal Emergency Management Agency (FEMA) are reemerging because of Homeland Security Secretary Kristi Noem’s impending departure. Both Noem and President Trump have sought to dramatically reshape the nation’s disaster response agency. Among the most contentious changes so far are Noem’s policy of personally reviewing expenditures of over $100,000, with…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Leadership transition at FEMA raises questions about institutional direction and oversight continuity, but represents typical administrative change rather than a systemic check-and-balance threat.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T12:03:30.203Z"
+    },
+    {
+      "id": "6ee7a30fc51f",
+      "title": "Republicans hope Iran conflict doesn’t become a ‘forever war’ ",
+      "url": "https://thehill.com/homenews/house/5771718-republicans-iran-conflict-forever-war/",
+      "source": "The Hill",
+      "published": "2026-03-07T11:00:00.000Z",
+      "description": "Republicans are hoping the administration’s military operation against Iran doesn’t spiral into an endless war as the 2026 midterm cycle ramps up, a scenario some worry could threaten the GOP’s electoral prospects. Republicans have largely rallied behind President Trump’s decision to strike Iran. A war powers resolution that would have required Trump to seek congressional…",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While congressional war powers oversight is relevant to checks and balances, this article primarily focuses on electoral politics and GOP strategy rather than substantive institutional action or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T12:03:29.693Z"
+    },
+    {
+      "id": "7e8c5711283f",
+      "title": "Trump administration takes heat as Americans slowly return from Middle East",
+      "url": "https://thehill.com/policy/international/5772371-trump-iran-conflict-evacuation/",
+      "source": "The Hill",
+      "published": "2026-03-07T11:00:00.000Z",
+      "description": "Tens of thousands of Americans are slowly returning to the U.S. after getting caught in the crossfire of President Trump’s decision to launch a war against Iran, throwing the region into chaos.  The State Department has said it’s helping charter flights and evacuation plans for stranded Americans as the conflict enters its eighth day. The…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine news coverage of a foreign policy crisis and logistical response, not an institutional check or democratic process issue.",
+      "categories": [],
+      "scoredAt": "2026-03-07T12:03:29.846Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-07T06:06:32.515Z"
+  "lastFetch": "2026-03-07T12:03:30.203Z"
 }
