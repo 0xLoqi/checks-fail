@@ -2080,78 +2080,6 @@
       "scoredAt": "2026-02-09T17:51:14.520Z"
     },
     {
-      "id": "bfbe508d00e9",
-      "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
-      "url": "https://www.cnbc.com/2026/02/04/scott-trump-powell-fed-warsh-tillis-doj.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-04T19:12:47.000Z",
-      "description": "President Donald Trump recently said the investigation into Jerome Powell, led by U.S. Attorney for Washington Jeanine Pirro, should continue to the end.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "A senator's opinion on whether an investigation should proceed lacks institutional significance and does not represent concrete action affecting democratic checks and balances.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:18.969Z"
-    },
-    {
-      "id": "e092330f79d5",
-      "title": "Democrats lay out demands in prickly DHS funding fight as Republicans balk",
-      "url": "https://www.cnbc.com/2026/02/04/democrats-demands-dhs-funding-fight.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-04T21:33:42.000Z",
-      "description": "Funding for the Department of Homeland Security still needs to be worked out after President Trump signed a law that reopened most of the federal government.",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This is routine budget negotiation reporting between parties over DHS funding with no indication of institutional breakdown or democratic erosion.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:13.999Z"
-    },
-    {
-      "id": "0edf924391e3",
-      "title": "Democrats grill Bessent at House oversight hearing: 'Stop covering for the president'",
-      "url": "https://www.cnbc.com/2026/02/04/treasury-bessent-congress-hearing-economy.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-04T20:28:40.000Z",
-      "description": "Treasury Secretary Scott Bessent took flack from Democrats while testifying before the House Financial Services Committee on Wednesday.",
-      "keywords": [
-        "ICE",
-        "oversight hearing"
-      ],
-      "significance": 4,
-      "reason": "Routine partisan questioning of a cabinet official represents normal congressional oversight function without evidence of systematic institutional breakdown.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:13.911Z"
-    },
-    {
-      "id": "7d4c4566e61b",
-      "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
-      "url": "https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-04T19:49:47.000Z",
-      "description": "The Trump administration will draw down about 25% of its law enforcement officers from Minnesota on Wednesday, border czar Tom Homan said.",
-      "keywords": [
-        "ICE",
-        "homan",
-        "border czar",
-        "trump"
-      ],
-      "significance": 4,
-      "reason": "A routine personnel deployment decision affecting federal law enforcement presence in one state, with limited direct impact on core democratic checks and balances mechanisms.",
-      "categories": [
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:51:20.765Z"
-    },
-    {
       "id": "7f61607fa3fa",
       "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
       "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
@@ -2234,24 +2162,6 @@
       "reason": "This article about a film's critical reception has no relevance to U.S. democratic institutions, checks and balances, or governance.",
       "categories": [],
       "scoredAt": "2026-02-09T17:51:23.997Z"
-    },
-    {
-      "id": "d443274ae9ce",
-      "title": "Melania Trump Uses Event With Freed Hostages to Promote Her Documentary",
-      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-promotes-doc-freed-hostages-1235511163/",
-      "source": "Rolling Stone",
-      "published": "2026-02-04T21:57:31.000Z",
-      "description": "The first lady plugged $75 million vanity project at the White House on Wednesday",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a critique of poor optics and taste regarding personal promotion at a hostage event, but does not involve institutional erosion or democratic checks and balances.",
-      "categories": [
-        "press_freedom"
-      ],
-      "scoredAt": "2026-02-09T17:51:22.901Z"
     },
     {
       "id": "eef5e49daeff",
@@ -2835,25 +2745,6 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-10T06:22:29.456Z"
-    },
-    {
-      "id": "592a5bdea66d",
-      "title": "Latest Jeffrey Epstein file disclosures rock the rich and powerful: Top takeaways",
-      "url": "https://www.nbcnews.com/politics/justice-department/epstein-files-key-takeaways-trump-musk-rcna256713",
-      "source": "NBC News",
-      "published": "2026-02-04T19:03:46.000Z",
-      "description": "The Justice Department last week released over 3 million files related to its investigations into convicted sex offender Jeffrey Epstein over the past two decades.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "While the disclosure represents significant transparency and accountability regarding past DOJ investigations, it primarily documents historical criminal matters rather than current threats to institutional checks and balances.",
-      "categories": [
-        "DOJ independence",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-10T06:22:29.343Z"
     },
     {
       "id": "bc7e4b0e2e67",
@@ -43410,8 +43301,738 @@
         "civil rights"
       ],
       "scoredAt": "2026-03-06T18:08:33.077Z"
+    },
+    {
+      "id": "eac27a1666b3",
+      "title": "New York Attorney General is Investigating Columbia for Allowing Predatory Doctor to See Patients Despite Warnings",
+      "url": "https://www.propublica.org/article/columbia-university-new-york-ag-investigation-robert-hadden-assault",
+      "source": "ProPublica",
+      "published": "2026-03-06T18:10:00.000Z",
+      "description": "The post New York Attorney General is Investigating Columbia for Allowing Predatory Doctor to See Patients Despite Warnings appeared first on ProPublica.",
+      "keywords": [
+        "attorney general"
+      ],
+      "significance": 2,
+      "reason": "This is an important institutional accountability story but concerns private university oversight rather than democratic checks and balances at the federal level.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:58.018Z"
+    },
+    {
+      "id": "0862c6cbbec2",
+      "title": "Poll: A majority of Americans opposes U.S. military action in Iran",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5737627/iran-us-military-poll-trump-approval",
+      "source": "NPR Politics",
+      "published": "2026-03-06T19:02:52.000Z",
+      "description": "Most Americans disapprove of President Trump's handling of Iran, and a majority sees Iran as either only a minor threat or no threat at all, an NPR/PBS News/Marist poll finds.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Public opinion polling on foreign policy preferences is routine political news that does not directly impact institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:57.844Z"
+    },
+    {
+      "id": "d9784fac4bed",
+      "title": "DOJ releases Epstein files containing sexual assault allegations against Trump",
+      "url": "https://www.pbs.org/newshour/show/doj-releases-epstein-files-containing-sexual-assault-allegations-against-trump",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T23:35:58.000Z",
+      "description": "The Department of Justice released a batch of previously unreleased documents from the Epstein files that include notes from FBI interviews with a woman who says she was assaulted by President Trump when she was a minor. The woman alleges she was assaulted by Trump in the 1980s and that she was also a victim of Epstein's. Justice correspondent Ali Rogin reports.",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "FBI",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "The release demonstrates DOJ/FBI transparency and document disclosure procedures functioning as designed, but the allegations themselves do not represent institutional action or policy change affecting democratic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-07T00:09:58.437Z"
+    },
+    {
+      "id": "f10dbc99f3f8",
+      "title": "Brooks and Capehart on Trump's decision to launch strikes on Iran",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-decision-to-launch-strikes-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T23:25:21.000Z",
+      "description": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including the U.S. war on Iran and President Trump's decision to launch those attacks and the jobs report adding to economic uncertainty in the U.S.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on foreign policy and economic news rather than reporting on institutional checks, democratic erosion, or systemic governance issues.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:58.108Z"
+    },
+    {
+      "id": "119eb422926b",
+      "title": "WATCH: Leavitt clarifies what Trump's demand for Iran's 'unconditional surrender' means",
+      "url": "https://www.pbs.org/newshour/politics/watch-leavitt-clarifies-what-trumps-demand-for-irans-unconditional-surrender-means",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T20:08:14.000Z",
+      "description": "Asked what Trump meant by accepting only \"unconditional surrender,\" White House press secretary Karoline Leavitt said Friday that will be achieved when the president \"determines that Iran no longer poses a threat to the United States of America\" and the mission's goals have \"been fully realized.\"",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine clarification of foreign policy rhetoric by a White House press secretary with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:58.123Z"
+    },
+    {
+      "id": "a21b28ae1e13",
+      "title": "Majority of Americans oppose military action in Iran, new poll finds",
+      "url": "https://www.pbs.org/newshour/politics/majority-of-americans-oppose-military-action-in-iran-new-poll-finds",
+      "source": "PBS NewsHour",
+      "published": "2026-03-06T19:00:37.000Z",
+      "description": "A majority of Americans also disapprove of how President Donald Trump is managing the U.S.-Israeli conflict with Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling data on public opinion regarding foreign policy, which does not directly impact institutional checks and balances or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:59.163Z"
+    },
+    {
+      "id": "2e67c02b265c",
+      "title": "Trump has privately shown serious interest in U.S. ground troops in Iran",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-privately-shown-serious-interest-us-ground-troops-iran-rcna262176",
+      "source": "NBC News",
+      "published": "2026-03-06T22:53:49.000Z",
+      "description": "WASHINGTON — President Donald Trump has privately expressed serious interest in deploying U.S. troops on the ground inside of Iran, according to two U.S. officials, a former U.S. official and another person with knowledge of the conversations",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Private presidential interest in military action represents notable executive power consideration, but without concrete policy implementation or institutional action, it remains speculative reporting rather than an actual check-and-balance erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T00:09:59.467Z"
+    },
+    {
+      "id": "aa40627e7e9d",
+      "title": "FDA vaccine chief to leave the agency next month after tumultuous tenure",
+      "url": "https://www.nbcnews.com/health/health-news/fda-vaccine-chief-leave-second-time-rcna262170",
+      "source": "NBC News",
+      "published": "2026-03-06T22:54:39.000Z",
+      "description": "The Food and Drug Administration’s vaccine chief, Dr. Vinay Prasad, will depart the agency next month, an FDA spokesperson said.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A senior FDA official's departure is routine personnel news without evidence of institutional pressure, political interference, or erosion of democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:09:59.279Z"
+    },
+    {
+      "id": "7c1bf6bc6330",
+      "title": "Skyrocketing oil prices from Iran war could become ‘huge issue & liability’ for Trump administration",
+      "url": "https://www.nbcnews.com/meet-the-press/video/skyrocketing-oil-prices-from-iran-war-could-become-huge-issue-liability-for-trump-administration-258856517911",
+      "source": "NBC News",
+      "published": "2026-03-06T21:40:27.000Z",
+      "description": "As the war against Iran hits the one-week mark, the Trump administration faces mounting questions over skyrocketing gas and oil prices. NBC News correspondents Christine Romans, Monica Alba and Daniele Hamamdjian report on the expanding conflict and its impact on consumers back home.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic reporting on geopolitical consequences with no direct connection to democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:00.201Z"
+    },
+    {
+      "id": "acae0d430d78",
+      "title": "Clinton recalls Rev. Jesse Jackson's support for him and his family",
+      "url": "https://www.nbcnews.com/video/clinton-recalls-rev-jesse-jackson-s-support-for-him-and-his-family-258857541524",
+      "source": "NBC News",
+      "published": "2026-03-06T21:21:13.000Z",
+      "description": "Former President Bill Clinton used his remarks at Rev. Jesse Jackson's funeral service to recall the ideas he championed and the support he offered to his family through political campaigns and impeachments.",
+      "keywords": [
+        "ICE",
+        "impeach"
+      ],
+      "significance": 1,
+      "reason": "This is a personal recollection at a funeral service with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:00.185Z"
+    },
+    {
+      "id": "1ad3d7f1d1d7",
+      "title": "Biden: Rev. Jackson 'used his gifts to influence generations'",
+      "url": "https://www.nbcnews.com/video/biden-honors-rev-jesse-jackson-s-accomplishments-at-his-funeral-service-258852421761",
+      "source": "NBC News",
+      "published": "2026-03-06T20:39:15.000Z",
+      "description": "During a funeral service in Chicago, President Biden recounted the impact Rev. Jesse Jackson had on his life and the inspiration he was to generations of Americans and the civil rights movement.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a tribute statement at a funeral service with no direct bearing on institutional checks, balances, or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:00.265Z"
+    },
+    {
+      "id": "2336e821122d",
+      "title": "Gov. Wes Moore says Democrats should heed lessons from Rev. Jesse Jackson with democracy under 'assault'",
+      "url": "https://www.nbcnews.com/politics/elections/gov-wes-moore-lessons-rev-jesse-jackson-trump-rcna262033",
+      "source": "NBC News",
+      "published": "2026-03-06T22:12:03.000Z",
+      "description": "In an interview with NBC News, Maryland Gov. Wes Moore reflected on how Jesse Jackson shaped his life, and he had harsh words for fellow Democrats who he said aren't standing up to government overreach.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is commentary and opinion from a political figure about Democratic strategy, lacking specific institutional actions, policy changes, or documented threats to democratic systems.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:00.373Z"
+    },
+    {
+      "id": "bea5bb9f8848",
+      "title": "Democrats aren't done with Kristi Noem: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-arent-done-kristi-noem-politics-desk-rcna262155",
+      "source": "NBC News",
+      "published": "2026-03-06T22:00:00.000Z",
+      "description": "In today’s edition, we dig into why Democrats are still setting their sights on Kristi Noem even after President Donald Trump fired her as homeland security secretary.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is political commentary on partisan responses to a personnel decision, lacking substantive information about institutional checks, policy changes, or democratic erosion.",
+      "categories": [
+        "political-retribution"
+      ],
+      "scoredAt": "2026-03-07T00:10:00.457Z"
+    },
+    {
+      "id": "d851168767ac",
+      "title": "As Trump says Cuba 'is going to fall,' his administration explores criminal charges",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-cuba-going-fall-administration-explores-criminal-charges-so-rcna262071",
+      "source": "NBC News",
+      "published": "2026-03-06T18:21:11.000Z",
+      "description": "As President Donald Trump suggests that Cuba could soon fall, his administration has begun exploring whether federal prosecutors could charge members of the regime or the Communist Party with crimes, according to a person familiar with the matter",
+      "keywords": [
+        "prosecutor",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable policy development in executive branch prosecutorial strategy with potential implications for DOJ independence and political decision-making, but lacks immediate institutional impact or precedent-breaking action.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T00:10:01.436Z"
+    },
+    {
+      "id": "83838d42de4b",
+      "title": "U.S. attorney in Miami targeting Cuban leaders with new initiative, sources say",
+      "url": "https://www.cbsnews.com/news/u-s-attorney-targeting-cuban-communist-leaders/",
+      "source": "CBS News",
+      "published": "2026-03-06T23:52:57.000Z",
+      "description": "President Trump has indicated he's keeping an eye on Cuba and predicted on CNN that \"Cuba is gonna fall pretty soon.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A U.S. attorney's prosecutorial initiative targeting foreign leaders relates to DOJ independence and could indicate politicization, but lacks details about institutional erosion or unprecedented actions.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T00:10:01.436Z"
+    },
+    {
+      "id": "33fe2f9b97e0",
+      "title": "Face the Nation: Frost, Salvanto",
+      "url": "https://www.cbsnews.com/video/face-the-nation-frost-salvanto/",
+      "source": "CBS News",
+      "published": "2026-03-06T23:28:37.000Z",
+      "description": "Missed the second half of the show? The latest on...Rep. Maxwell Frost of Florida has signed a letter urging Congress to return from recess to replenish relief funds, telling \"Face the Nation with Margaret Brennan\" that although FEMA currently has enough funding, \"why would we leave it up to chance\" for the remainder of the hurricane season, and The latest CBS News poll shows that Kamala Harris and Donald Trump are effectively even in all of the battleground states likely to determine the presid",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a congressional representative's statement about disaster relief funding and polling data, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:01.505Z"
+    },
+    {
+      "id": "5d85e27c532d",
+      "title": "Preservation group again asks judge to halt Trump-backed White House ballroom",
+      "url": "https://www.cbsnews.com/news/preservation-group-judge-halt-white-house-ballroom-trump-administration/",
+      "source": "CBS News",
+      "published": "2026-03-06T22:52:00.000Z",
+      "description": "A preservation group is once again asking a federal judge to pause all construction for a massive ballroom on the White House grounds backed by President Trump.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine property dispute regarding White House construction that does not implicate core democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:01.140Z"
+    },
+    {
+      "id": "ecc04ab6a2de",
+      "title": "Venezuela's new gold rush moves at \"Trump speed,\" but ignores a $25 million question",
+      "url": "https://www.cbsnews.com/news/venezuela-new-gold-rush-trump-speed-25-million-question/",
+      "source": "CBS News",
+      "published": "2026-03-06T22:50:00.000Z",
+      "description": "Venezuela's new administration is cutting deals, but there's a big reward available for a key figure.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article about Venezuelan domestic politics and gold mining does not address U.S. democratic institutions or their checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:01.245Z"
+    },
+    {
+      "id": "a69da89907aa",
+      "title": "Judge seems skeptical of recent Pentagon policy restricting journalists' activities",
+      "url": "https://www.cbsnews.com/news/judge-skeptical-pentagon-journalist-restrictions/",
+      "source": "CBS News",
+      "published": "2026-03-06T22:41:29.000Z",
+      "description": "Lawyers for the press asked a court to block the Pentagon from enforcing a recent policy restricting what journalists report, arguing it violates the First Amendment freedom of the press.",
+      "keywords": [
+        "journalist"
+      ],
+      "significance": 6,
+      "reason": "A judicial challenge to potential press restrictions represents a notable test of First Amendment protections, but the early skepticism from the bench suggests the checks-and-balances system may be functioning as intended.",
+      "categories": [
+        "press freedom",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-07T00:10:02.414Z"
+    },
+    {
+      "id": "1f769bb30680",
+      "title": "Noem and DHS watchdog feuding over classified airport security risk report",
+      "url": "https://www.cbsnews.com/news/noem-dhs-watchdog-feuding-over-classified-airport-security-risk-report/",
+      "source": "CBS News",
+      "published": "2026-03-06T19:57:02.000Z",
+      "description": "Sen. Chuck Grassley said the dispute partly at the center of the dispute between DHS and its inspector general concerns undercover testing of TSA screening procedures.",
+      "keywords": [
+        "classified",
+        "inspector general"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable institutional tension over oversight authority and classified information handling, but lacks evidence of systemic erosion or unprecedented action at this stage.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T00:10:02.470Z"
+    },
+    {
+      "id": "2a59e5b07740",
+      "title": " Trump administration's embattled FDA vaccine chief is leaving for the second time",
+      "url": "https://abcnews.com/Politics/wireStory/trump-administrations-embattled-fda-vaccine-chief-leaving-time-130841675",
+      "source": "ABC News",
+      "published": "2026-03-06T23:19:32.000Z",
+      "description": "The Food and Drug Administration’s controversial vaccine chief, Dr. Vinay Prasad, is once again leaving the agency",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Personnel departure from FDA reflects institutional instability and potential politicization of vaccine oversight, but lacks evidence of systematic checks and balances erosion or unprecedented democratic threat.",
+      "categories": [
+        "federal programs & agencies",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-03-07T00:10:02.408Z"
+    },
+    {
+      "id": "ff92c7c12282",
+      "title": " DOJ official eyes cases against Cuba leaders as Trump floats 'friendly takeover'",
+      "url": "https://abcnews.com/Politics/wireStory/justice-department-official-eyes-cases-cuba-leaders-trump-130840020",
+      "source": "ABC News",
+      "published": "2026-03-06T23:14:07.000Z",
+      "description": "The top Justice Department prosecutor in Miami is considering criminal investigations of Cuban government officials",
+      "keywords": [
+        "DOJ",
+        "prosecutor",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Represents a notable but not yet formalized political pressure on DOJ independence, with potential institutional risk depending on whether investigations proceed based on policy directives rather than established legal criteria.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T00:10:03.365Z"
+    },
+    {
+      "id": "125f72152d14",
+      "title": "3 pledges Trump has made on Iran",
+      "url": "https://www.axios.com/2026/03/06/iran-trump-3-bets-oil-supreme-leader",
+      "source": "Axios",
+      "published": "2026-03-06T20:17:23.000Z",
+      "description": "President Trump is positioning himself as a central architect of Iran's post-war future, demanding \"UNCONDITIONAL SURRENDER\" on Friday.\nThe big picture: Trump is signaling ambitions that extend beyond military action into reshaping Iran's political and economic order just as he did in Venezuela. But experts warn it's not that simple.\n\nThe White House did not immediately respond to Axios' request for comment.\n\nHere are three promises Trump has made on Iran thus far. \nChoosing a successor \nTrump a",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign policy positions and rhetoric regarding Iran rather than addressing domestic democratic institutions, checks and balances, or governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:02.257Z"
+    },
+    {
+      "id": "46ce4a69b232",
+      "title": "\"It's pissing people off\": Older Dems are sick of hearing about \"generational change\"",
+      "url": "https://www.axios.com/2026/03/06/house-democrats-old-primary-age-larson-sherman",
+      "source": "Axios",
+      "published": "2026-03-06T20:16:58.000Z",
+      "description": "Congressional Democrats in their 70s and 80s who are seeking reelection are tired of hearing that they are incapable of doing their jobs due to age — and they're gearing up to push back.\nWhy it matters: More than half a dozen House Democrats who are 70 or older are trailing at least one younger primary insurgent in fundraising, and those elections are fast approaching.\n\nBut to hear some veteran House Democrats tell it, this is nothing out of the ordinary. \"There has never been an election where ",
+      "keywords": [
+        "election",
+        "voter",
+        "impeach",
+        "house majority",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses intra-party electoral competition and generational preferences within the Democratic caucus, which is routine political commentary without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:04.153Z"
+    },
+    {
+      "id": "5cc3fd07e235",
+      "title": "US lifts some restrictions on Russian oil, considers more actions to ‘unsanction’ it as prices spike",
+      "url": "https://thehill.com/policy/energy-environment/5772316-oil-prices-russia-india-iran-bessent/",
+      "source": "The Hill",
+      "published": "2026-03-06T23:20:29.000Z",
+      "description": "The U.S. is lifting some restrictions on Russian oil and considering more actions to “unsanction” it as the conflict in Iran raises prices globally, Treasury Secretary Scott Bessent said Friday. Bessent told Fox Business that the U.S. would allow India to buy Russian barrels. “Yesterday, Treasury agreed to let our allies in India start buying…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 4,
+      "reason": "While sanctions policy involves executive authority and economic leverage, lifting Russia restrictions in response to market conditions represents a notable policy shift but lacks clear institutional erosion or democratic checks violation without full context on congressional oversight and legal authorization.",
+      "categories": [
+        "corruption & self-dealing",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T00:10:04.805Z"
+    },
+    {
+      "id": "ce0d2993580e",
+      "title": "US Postal Service will run out of cash in early 2027 without help: Postmaster general",
+      "url": "https://thehill.com/homenews/administration/5772286-postal-service-financial-struggles/",
+      "source": "The Hill",
+      "published": "2026-03-06T23:17:05.000Z",
+      "description": "The U.S. Postal Service will run out of money within a year, Postmaster General David Steiner told The Associated Press this week.  “We have to have a conversation with the American public,” Steiner said in an interview with the AP published Thursday. “If you want us to deliver everywhere, every day, we’ll do it. That’s…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "While USPS financial viability affects federal programs and democratic functioning, this represents a longstanding fiscal challenge requiring legislative action rather than an acute institutional threat.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T00:10:04.465Z"
+    },
+    {
+      "id": "f2089f5935cb",
+      "title": "VOA Persian journalist says he was fired over coverage of Reza Pahlavi ",
+      "url": "https://thehill.com/policy/international/5772307-voa-persian-service-censorship-claims/",
+      "source": "The Hill",
+      "published": "2026-03-06T23:09:51.000Z",
+      "description": "A journalist with Voice of America’s (VOA) Persian service said he was fired this week over efforts to limit coverage of Iran’s exiled Crown Prince Reza Pahlavi. Ahmad Batebi, a prominent Iranian dissident, human rights activist and American journalist, said he was given no explanation for why his contract was terminated but blamed it on…",
+      "keywords": [
+        "ICE",
+        "journalist",
+        "VOA",
+        "voice of america"
+      ],
+      "significance": 7,
+      "reason": "Alleged politicized firing at a federally-funded media agency raises significant concerns about press freedom and independence of government institutions designed to operate without political interference.",
+      "categories": [
+        "press freedom",
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T00:10:04.478Z"
+    },
+    {
+      "id": "f9622fc234a9",
+      "title": "Man accused of setting fire to rep’s office over TikTok ban sentenced to prison",
+      "url": "https://thehill.com/regulation/court-battles/5772209-mental-health-crisis-leads-to-arson-tiktok/",
+      "source": "The Hill",
+      "published": "2026-03-06T23:00:36.000Z",
+      "description": "A Wisconsin man accused of attempting to set fire to Rep. Glenn Grothman’s (R-Wisc.) office for his support of a bill to have TikTok’s Chinese owner sell off its U.S. operations was sentenced to seven years in prison on Thursday. Caiden Stachowicz, 20, was also sentenced in Fond du Lac County Court to seven years…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal sentencing case involving violence against a representative, not an institutional action affecting democratic checks and balances.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T00:10:04.092Z"
+    },
+    {
+      "id": "888d85eb43dd",
+      "title": "Man who killed parents to fund Trump assassination plot sentenced to life in prison",
+      "url": "https://thehill.com/regulation/court-battles/5772117-trump-assassination-plot-wisconsin/",
+      "source": "The Hill",
+      "published": "2026-03-06T22:16:37.000Z",
+      "description": "A Wisconsin man was sentenced to life in prison Thursday after he pleaded guilty to killing his parents in order to fund a plot to assassinate President Trump involving a drone with explosives or an AR-15 assault rifle. Nikita Casap, 18, pleaded guilty to two counts of first-degree intentional homicide in Waukesha County Circuit Court…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal case involving an individual's violent crime and assassination plot, which is a law enforcement matter rather than an institutional or systemic challenge to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:06.032Z"
+    },
+    {
+      "id": "497ffd55a155",
+      "title": "California Democrat says Noem ouster is proof DHS shutdown is ‘working’",
+      "url": "https://thehill.com/homenews/house/5772149-kamlager-dove-noem-firing-dhs-shutdown/",
+      "source": "The Hill",
+      "published": "2026-03-06T22:04:13.000Z",
+      "description": "Rep. Sydney Kamlager-Dove (D-Calif.) on Friday pointed to the firing of Kristi Noem as proof that the shutdown of the Department of Homeland Security (DHS) was “working,” insisting it would not persuade Democrats to drop their demands for Republicans to rein in immigration enforcement operations. Kamlager-Dove told anchor Audie Cornish on “CNN This Morning” that…",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A cabinet firing and DHS shutdown raise institutional concerns, but this article primarily covers Democratic political commentary on the situation rather than reporting on the action itself or its systemic implications.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T00:10:06.078Z"
+    },
+    {
+      "id": "61611ccf0f05",
+      "title": "Trump says defense contractors agree to quadruple production of ‘exquisite class’ weapons",
+      "url": "https://thehill.com/policy/defense/5772125-quadruple-weaponry-production-trump/",
+      "source": "The Hill",
+      "published": "2026-03-06T21:40:10.000Z",
+      "description": "President Trump said major defense contractors have agreed to quadruple the production of “exquisite class” weaponry following a meeting Friday at the White House.  “They have agreed to quadruple Production of the ‘Exquisite Class’ Weaponry in that we want to reach, as rapidly as possible, the highest levels of quantity. Expansion began three months prior…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine announcement about defense production policy with no direct implications for democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:05.538Z"
+    },
+    {
+      "id": "f2aec96af604",
+      "title": "National Symphony director to exit amid Kennedy Center fight",
+      "url": "https://thehill.com/homenews/administration/5772066-kennedy-center-turmoil-ns/",
+      "source": "The Hill",
+      "published": "2026-03-06T21:31:11.000Z",
+      "description": "Jean Davidson announced she was exiting her position as the executive director of the National Symphony Orchestra (NSO) on Friday, citing frustrations with President Trump’s controversial changes that have caused recent turmoil at the Kennedy Center.  “It’s no secret that this has been a really hard year,” Davidson told The New York Times on Friday.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Personnel changes at a cultural institution, while potentially reflecting broader tensions, do not directly implicate democratic checks and balances or institutional governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:05.587Z"
+    },
+    {
+      "id": "3d560d8f1ebe",
+      "title": "Obama slams Trump at Jesse Jackson funeral without naming him",
+      "url": "https://thehill.com/homenews/administration/5771897-obama-slams-trump-administration/",
+      "source": "The Hill",
+      "published": "2026-03-06T21:23:57.000Z",
+      "description": "Former President Obama slammed the Trump administration Friday without specifically naming it during a speech at the funeral for the Rev. Jesse Jackson in Chicago, saying “every day we wake up to some new assault on our democratic institutions.” The comments came at a star-studded funeral for Jackson that also included speeches by former Presidents…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary and opinion from a former president at a funeral, not a report of institutional action, policy change, or documented threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:05.916Z"
+    },
+    {
+      "id": "28689202b435",
+      "title": "Ben Stiller asks White House to remove ‘Tropic Thunder’ clip from Iran video: ‘War is not a movie’",
+      "url": "https://thehill.com/blogs/in-the-know/5772012-ben-stiller-criticizes-white-house/",
+      "source": "The Hill",
+      "published": "2026-03-06T21:14:42.000Z",
+      "description": "Ben Stiller criticized the White House on Friday for using a clip from his 2008 satirical action movie “Tropic Thunder.” The Trump administration posted a montage video on the social platform X on Thursday from several films with the caption, “JUSTICE THE AMERICAN WAY.” The post follows the U.S. and Israel’s joint launch of strikes…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a celebrity commentary on a social media post's movie clip usage, lacking systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:06.940Z"
+    },
+    {
+      "id": "f51377def8c0",
+      "title": "Markwayne Mullin set to step into limelight with DHS nod",
+      "url": "https://thehill.com/homenews/senate/5772015-markwayne-mullin-dhs-nomination/",
+      "source": "The Hill",
+      "published": "2026-03-06T21:02:16.000Z",
+      "description": "Sen. Markwayne Mullin (R-Okla.) is set to step into the spotlight as he readies to take on the unexpected challenge of replacing Kristi Noem atop the Department of Homeland Security (DHS), culminating a swift rise from the House to one of the key posts in the Trump administration. In a matter of years, Mullin has…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A cabinet nomination is notable but routine within executive branch operations and does not inherently threaten democratic checks and balances unless the nominee's record or circumstances reveal institutional erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T00:10:06.999Z"
+    },
+    {
+      "id": "6b535ef6a1da",
+      "title": "Unproven Trump autism claim affected care: Research",
+      "url": "https://thehill.com/policy/healthcare/5771277-trump-tylenol-autism-study/",
+      "source": "The Hill",
+      "published": "2026-03-06T20:43:51.000Z",
+      "description": "President Trump’s urging of pregnant women to avoid taking Tylenol last year on the unfounded claim that it could be linked to autism in children resulted in a notable drop in orders for the common over-the-counter medication among pregnancy-related emergency department visits, according to an analysis published this week. The study, published in The Lancet…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article documents a public health consequence of misinformation but does not directly involve institutional checks and balances, separation of powers, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:06.741Z"
+    },
+    {
+      "id": "12c2b2b44bcd",
+      "title": "House Democrat seeks to bar Trump from closing Kennedy Center for renovations",
+      "url": "https://thehill.com/homenews/house/5771781-kennedy-center-lawsuit-trump/",
+      "source": "The Hill",
+      "published": "2026-03-06T20:29:43.000Z",
+      "description": "Rep. Joyce Beatty (D-Ohio) on Friday filed a lawsuit asking a federal court to block President Trump from closing the Kennedy Center after he announced last month that it would shut down to allow for renovations. Beatty argues the judge should block Trump from closing the Kennedy Center because he could “demolish” the building while…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine legal dispute over a specific federal facility's operational decision, lacking systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:06.825Z"
+    },
+    {
+      "id": "7b6362a6bf48",
+      "title": "Lev Parnas jumps into Florida House race as Democrat",
+      "url": "https://thehill.com/homenews/campaign/5771907-lev-parnas-runs-against-salazar/",
+      "source": "The Hill",
+      "published": "2026-03-06T20:21:52.000Z",
+      "description": "Lev Parnas, a former Rudy Giuliani associate and ally of President Trump, announced this week he’s running as a Democrat in a House race in Florida. Parnas launched his candidacy for GOP Rep. Maria Elvira Salazar’s seat in a Substack post on Wednesday.  “I am running because I know the system, Donald Trump’s system, from…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While involving a political figure with controversial background, a candidate announcement is routine electoral activity without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:07.260Z"
+    },
+    {
+      "id": "5b67a535f17b",
+      "title": "Mace lauds Trump’s firing of Noem as ‘right call’ after controversial ads",
+      "url": "https://thehill.com/homenews/administration/5771854-mace-backs-trump-noem-decision/",
+      "source": "The Hill",
+      "published": "2026-03-06T20:04:33.000Z",
+      "description": "U.S. Rep. Nancy Mace (R-S.C.) said Friday that President Trump made the “right call” by ousting Kristi Noem from the Department of Homeland Security (DHS) following revelations he did not sign off on a controversial multi-million dollar advertising campaign as Noem had claimed. “I trust President Trump and his judgment here,” Mace said during an…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary on a personnel decision with no systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:08.112Z"
+    },
+    {
+      "id": "5fe31c6e6f10",
+      "title": "Watch: Trump hosts roundtable on future of college sports",
+      "url": "https://thehill.com/video-clips/5771742-watch-live-trump-college-sports-roundtable-white-house/",
+      "source": "The Hill",
+      "published": "2026-03-06T19:52:51.000Z",
+      "description": "President Trump on Friday afternoon hosted a roundtable at the White House centered on college sports and reforms to the NCAA. Trump earlier this year signed an executive order seeking to ban “pay-for-play” deals with third parties and called on schools to dedicate scholarships and funds to women’s and Olympic sports. Friday’s meeting comes after lawmakers voiced concern with…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "executive order",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article describes routine policy discussion on college sports regulation with no direct bearing on democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:08.022Z"
+    },
+    {
+      "id": "6de56d588f26",
+      "title": "Trump vows executive order to 'fix' college sports NIL payments 'mess'",
+      "url": "https://www.cnbc.com/2026/03/06/trump-college-football-sports-congress.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T23:42:16.000Z",
+      "description": "Critics of paying college athletes say it undercuts schools' finances and their educational mandate.",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a domestic policy issue (college sports regulation) with no direct bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:08.058Z"
+    },
+    {
+      "id": "19a06c555216",
+      "title": "Trump says defense CEOs agree to quadruple production of 'Exquisite Class' weaponry",
+      "url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-06T23:08:08.000Z",
+      "description": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine report of a presidential meeting with defense contractors regarding production plans, involving no institutional conflict, policy deviation, or democratic process concern.",
+      "categories": [],
+      "scoredAt": "2026-03-07T00:10:08.160Z"
+    },
+    {
+      "id": "3e0715153cd1",
+      "title": "‘War Is Not a Movie’: Ben Stiller Claps Back at White House Propaganda Video",
+      "url": "https://www.rollingstone.com/politics/politics-news/ben-stiller-white-house-tropic-thunder-clip-1235526279/",
+      "source": "Rolling Stone",
+      "published": "2026-03-06T20:32:13.000Z",
+      "description": "The supercut glorifying Donald Trump's war against Iran used a clip from Tropic Thunder",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is celebrity commentary on a political video dispute with no institutional impact on democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-03-07T00:10:08.020Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-06T18:08:33.192Z"
+  "lastFetch": "2026-03-07T00:10:08.160Z"
 }
