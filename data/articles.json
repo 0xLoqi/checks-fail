@@ -654,43 +654,6 @@
       "scoredAt": "2026-02-09T17:50:01.530Z"
     },
     {
-      "id": "5b863652d8a4",
-      "title": "Read the full transcript: President Donald Trump interviewed by 'NBC Nightly News' anchor Tom Llamas",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-interview-nbc-news-extend-transcript-tom-llamas-super-bowl-2026-rcna257410",
-      "source": "NBC News",
-      "published": "2026-02-05T03:30:40.000Z",
-      "description": "Trump spoke about immigration, the Fed, artificial intelligence, the economy and more in the February 2026 interview.",
-      "keywords": [
-        "immigration",
-        "intelligence",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "A presidential interview transcript covering policy topics is routine news coverage with no direct bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:59.272Z"
-    },
-    {
-      "id": "22df8f8465f4",
-      "title": "Fact-checking Trump's interview with NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/fact-check-trump-interview-nbc-news-rcna257084",
-      "source": "NBC News",
-      "published": "2026-02-05T01:12:02.000Z",
-      "description": "Trump made several false or misleading claims on topics ranging from the economy to immigration to elections during an Oval Office interview with NBC News’ Tom Llamas.",
-      "keywords": [
-        "election",
-        "immigration",
-        "ICE",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "Fact-checking a political figure's claims is routine journalistic work that does not itself indicate erosion of democratic institutions or checks and balances.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:59.126Z"
-    },
-    {
       "id": "3e59e245db76",
       "title": "Trump says it's 'terrible' Bill Belichick wasn't elected to the Hall of Fame on the first ballot",
       "url": "https://www.nbcnews.com/politics/donald-trump/trump-bill-belichick-hall-fame-rcna257548",
@@ -1175,74 +1138,6 @@
         "federal programs & agencies"
       ],
       "scoredAt": "2026-02-09T17:50:19.630Z"
-    },
-    {
-      "id": "fb489d6f11b6",
-      "title": " New Jersey Democrats pick from crowded field in special election for Sherrill's US House seat",
-      "url": "https://abcnews.go.com/Politics/wireStory/new-jersey-democrats-pick-crowded-field-special-election-129872731",
-      "source": "ABC News",
-      "published": "2026-02-05T05:33:49.000Z",
-      "description": "New Jersey Democratic voters are picking their party’s candidate to fill a U.S. House seat opened up by Mikie Sherrill’s gubernatorial victory",
-      "keywords": [
-        "election",
-        "voter"
-      ],
-      "significance": 1,
-      "reason": "This is routine electoral news about a special election primary process with no bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:17.622Z"
-    },
-    {
-      "id": "75d0a60c6681",
-      "title": " Chinese national who exposed rights abuses is freed from US detention after being granted asylum",
-      "url": "https://abcnews.go.com/Politics/wireStory/chinese-national-exposed-rights-abuses-freed-us-detention-129867068",
-      "source": "ABC News",
-      "published": "2026-02-05T00:53:49.000Z",
-      "description": "Guan Heng, a Chinese asylum seeker who exposed human rights abuses in his homeland, has been released after more than five months in federal detention",
-      "keywords": [
-        "detention",
-        "asylum"
-      ],
-      "significance": 3,
-      "reason": "This article reports a routine immigration/asylum case outcome with no direct implications for U.S. institutional checks and balances or democratic governance mechanisms.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:50:18.995Z"
-    },
-    {
-      "id": "067b6366197b",
-      "title": " EPA administrator outlines Trump's plan to speed up rebuilding of homes destroyed by LA wildfires",
-      "url": "https://abcnews.go.com/Politics/wireStory/epa-administrator-outlines-trumps-plan-speed-rebuilding-homes-129866631",
-      "source": "ABC News",
-      "published": "2026-02-05T02:45:28.000Z",
-      "description": "Trump administration officials traveled to Los Angeles to outline the president’s plan to override state and local rules and speed up the permitting process for reconstruction of tens of thousands of homes destroyed by last year’s wildfires",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Federal override of state/local authority raises separation of powers concerns, but the policy aim is reconstruction assistance rather than systematic institutional erosion.",
-      "categories": [
-        "federal programs & agencies",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:50:17.663Z"
-    },
-    {
-      "id": "f640c1d3e702",
-      "title": " Georgia Republican Barry Loudermilk won't seek reelection to US House",
-      "url": "https://abcnews.go.com/Politics/wireStory/georgia-republican-barry-loudermilk-seek-reelection-us-house-129866097",
-      "source": "ABC News",
-      "published": "2026-02-05T00:13:50.000Z",
-      "description": "Georgia Republican U.S. Rep. Barry Loudermilk says he won't seek reelection this year",
-      "keywords": [
-        "election"
-      ],
-      "significance": 1,
-      "reason": "A routine announcement about a single representative's retirement decision with no institutional implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:20.848Z"
     },
     {
       "id": "7b025ccb96d7",
@@ -44031,8 +43926,369 @@
         "press_freedom"
       ],
       "scoredAt": "2026-03-07T00:10:08.020Z"
+    },
+    {
+      "id": "4dfbcf9165f9",
+      "title": "Trump looks to turn attention to Western Hemisphere at Americas summit",
+      "url": "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
+      "source": "NPR Politics",
+      "published": "2026-03-07T05:42:59.000Z",
+      "description": "President Trump is set to gather with Latin American leaders on Saturday at his Miami-area golf club as his administration looks to turn attention to the Western Hemisphere, at least for a moment.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine coverage of a scheduled diplomatic summit with no described actions affecting institutional checks, balances, or democratic norms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:27.917Z"
+    },
+    {
+      "id": "1dd39b21cffe",
+      "title": "Trump administration's embattled FDA vaccine chief is leaving for the second time",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time",
+      "source": "NPR Politics",
+      "published": "2026-03-07T02:38:53.000Z",
+      "description": "The FDA's controversial vaccine chief, Dr. Vinay Prasad, is leaving the agency. It's the second time he has abruptly departed following decisions involving the review of vaccinations and specialty drugs.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Personnel turnover at FDA raises questions about institutional independence and potential politicization, but lacks evidence of systematic erosion of checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T06:06:27.909Z"
+    },
+    {
+      "id": "05d0fe09f96f",
+      "title": "GOP Rep. Kevin Kiley to seek re-election as an independent for California seat",
+      "url": "https://www.nbcnews.com/politics/congress/republican-kevin-kiley-seek-re-election-independent-california-seat-rcna262203",
+      "source": "NBC News",
+      "published": "2026-03-07T04:15:42.000Z",
+      "description": "Rep. Kevin Kiley's announcement comes the same day that fellow California Republican Rep. Darrell Issa said he would not run for another term.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "A single representative's decision to run as an independent is routine electoral news without systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:28.012Z"
+    },
+    {
+      "id": "194358ecfda4",
+      "title": "Trump administration sets sights on Cuba",
+      "url": "https://www.nbcnews.com/video/trump-administration-sets-sights-on-cuba-258871877613",
+      "source": "NBC News",
+      "published": "2026-03-07T02:06:55.000Z",
+      "description": "As the United States continues striking targets in the Iran war, President Donald Trump says the administration has its sights on Cuba. NBC News analyst and former Representative Carlos Curbelo says that Cuban leaders may already be at the negotiating table where they could potentially be offering concessions to the U.S..",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy reporting about potential negotiations with Cuba, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:28.743Z"
+    },
+    {
+      "id": "4f35cf3c2a8c",
+      "title": "Trump demands ‘unconditional surrender’ from Iran",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-demands-unconditional-surrender-from-iran-258862661671",
+      "source": "NBC News",
+      "published": "2026-03-06T23:52:41.000Z",
+      "description": "President Trump posted there would be no deal with Iran without ‘unconditional surrender’ as the U.S. and Israel launched another wave of devastating strikes against the Iranian regime. NBC News’ Richard Engel reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy and military action toward Iran, which falls outside the 12 domestic democratic checks and balances categories being tracked.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:28.852Z"
+    },
+    {
+      "id": "56f49dd2960a",
+      "title": "In reversal, Florida Bar says it is not investigating Trump loyalist Lindsey Halligan",
+      "url": "https://www.nbcnews.com/politics/politics-news/florida-bar-reversal-no-probe-trump-loyalist-lindsey-halligan-rcna262185",
+      "source": "NBC News",
+      "published": "2026-03-07T01:02:24.000Z",
+      "description": "The Florida Bar said Friday that it is not investigating the former Justice Department attorney, walking back an earlier statement saying a probe was underway.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A procedural reversal regarding a state bar investigation into a DOJ official touches on institutional independence but lacks systemic impact or precedent-setting significance.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T06:06:29.035Z"
+    },
+    {
+      "id": "e65fa4d444d4",
+      "title": "Bodycam video contradicts ICE claims in fatal shooting of Ruben Ray Martinez",
+      "url": "https://www.cbsnews.com/news/bodycam-video-ice-fatal-shooting-ruben-ray-martinez-texas/",
+      "source": "CBS News",
+      "published": "2026-03-07T04:02:40.000Z",
+      "description": "Video of last year's fatal shooting of Ruben Ray Martinez obtained by CBS News appears to contradict claims that Martinez was shot by an ICE agent because he \"accelerated\" and \"intentionally ran over\" another agent.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Bodycam footage revealing potential misconduct and false statements by ICE agents raises accountability concerns, but represents an isolated incident rather than systemic erosion of institutional checks.",
+      "categories": [
+        "immigration & civil rights",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T06:06:28.965Z"
+    },
+    {
+      "id": "74c3e5a65646",
+      "title": "DOJ asks appeals court to restore Trump's executive orders targeting law firms",
+      "url": "https://www.cbsnews.com/news/doj-appeal-trump-law-firms-executive-orders/",
+      "source": "CBS News",
+      "published": "2026-03-07T02:40:34.000Z",
+      "description": "The Justice Department on Friday asked a federal appeals court to overturn a lower court ruling that invalidated President Trump's executive orders targeting four major law firms.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "executive order",
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "DOJ's effort to restore executive orders targeting specific law firms represents a significant institutional action that directly implicates DOJ independence, judicial independence, and potential political retribution against entities perceived as adversarial.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T06:06:29.183Z"
+    },
+    {
+      "id": "1754ccefcecb",
+      "title": "Man convicted in plot to assassinate Trump that was tied to Iran's paramilitary",
+      "url": "https://www.cbsnews.com/news/man-convicted-political-assassination-plot-iranian-paramilitary/",
+      "source": "CBS News",
+      "published": "2026-03-07T02:13:00.000Z",
+      "description": "A Pakistani business owner accused of trying to hire hit men to kill a U.S. politician has been convicted in a trial that showcased allegations of Iran-backed plotting on American soil.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal prosecution of an alleged assassination plot, which is routine law enforcement activity that does not directly implicate any of the 12 democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:30.070Z"
+    },
+    {
+      "id": "a9604c8c2af1",
+      "title": "Trump: U.S. collegiate system could go out of business without fixes to sports",
+      "url": "https://www.cbsnews.com/news/trump-education-system-fixes-college-sports-name-image-likeness-nil/",
+      "source": "CBS News",
+      "published": "2026-03-07T01:32:00.000Z",
+      "description": "President Trump predicted the destruction not just of college sports but the entire U.S. collegiate system unless the industry is fixed quickly.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a political prediction about college sports policy with no direct bearing on constitutional checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:30.321Z"
+    },
+    {
+      "id": "dfd388d0fbdb",
+      "title": "Russia helping Iran identify U.S. targets, sources say",
+      "url": "https://www.cbsnews.com/video/russia-helping-iran-identify-us-targets-sources-say/",
+      "source": "CBS News",
+      "published": "2026-03-07T01:07:00.000Z",
+      "description": "Russia is providing intelligence to Iran regarding U.S. positions in the Middle East during the ongoing joint U.S. and Israeli military operations in Iran, multiple sources, including a senior U.S. official with direct knowledge, told CBS News. Matt Gutman has the latest.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy/national security reporting about adversary actions that does not directly implicate U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:30.035Z"
+    },
+    {
+      "id": "ef985d350e17",
+      "title": "Republican Rep. Kevin Kiley files to run for reelection as an independent",
+      "url": "https://www.axios.com/2026/03/07/kevin-kiley-republican-independent-california",
+      "source": "Axios",
+      "published": "2026-03-07T03:21:04.000Z",
+      "description": "Rep. Kevin Kiley (R-Calif.) said Friday he is registering as \"no party preference,\" rather than as a Republican, as he seeks reelection to Congress.\nWhy it matters: The move comes after Kiley's Republican-leaning district was broken apart in mid-decade redistricting, forcing him to run in far more Democratic-leaning territory.\n\nKiley's announcement sparked considerable confusion among his colleagues, with several lawmakers asking GOP leadership for clarity on whether he will continue to contribu",
+      "keywords": [
+        "election",
+        "ballot",
+        "ICE",
+        "house majority",
+        "democracy"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about an individual candidate's registration change driven by redistricting, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:30.514Z"
+    },
+    {
+      "id": "f6711edfa412",
+      "title": "Under threat, Iraqi Kurds resist pressure to join Iran war",
+      "url": "https://www.axios.com/2026/03/07/iran-kurds-iraq-israel-trump-cia-mossad",
+      "source": "Axios",
+      "published": "2026-03-07T01:37:14.000Z",
+      "description": "Iraq's Kurds are caught in a three-way vice in the cross-border Iran War:\n\nThey think President Trump's messaging isn't clear about regime change next door in Iran.\nThey're under pressure to open the border from Iranian Kurds, who want to fight the regime. \nAnd Tehran's military Friday threatened the Iraqi Kurds if they allow those Iranian Kurds to plan an attack.\n\nWhy it matters: The Iranian warning —the first of its kind issued to Iraq's Kurds across the border— threatens to widen the war. Ira",
+      "keywords": [
+        "ICE",
+        "trump",
+        "NIH"
+      ],
+      "significance": 1,
+      "reason": "This article concerns U.S. foreign policy and regional geopolitics in the Middle East, not domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:29.826Z"
+    },
+    {
+      "id": "5394135dd192",
+      "title": "Shield of the Americas Summit to showcase Trump's push to reshape the hemisphere",
+      "url": "https://www.axios.com/2026/03/07/trump-shield-americas-summit-noem-envoy",
+      "source": "Axios",
+      "published": "2026-03-07T01:00:05.000Z",
+      "description": "President Trump will host Latin American leaders Saturday at the first Shield of the Americas Summit with ex-Homeland Security Secretary Kristi Noem at the helm.\nWhy it matters: While modern U.S. presidents have typically shied away from exerting American influence over the Western hemisphere, the summit underscores Trump's willingness to reassert American control under his so-called \"Donroe Doctrine.\" \n\nDriving the news: Secretary of State Marco Rubio, Defense Secretary Pete Hegseth, Commerce S",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the summit represents a notable shift in hemispheric policy approach, it involves routine executive foreign policy action without direct institutional threats to domestic democratic checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-07T06:06:31.466Z"
+    },
+    {
+      "id": "c4f262398a49",
+      "title": "House Republican files for reelection as independent after California redistricting",
+      "url": "https://thehill.com/homenews/campaign/5772600-kevin-kiley-independent-reelection/",
+      "source": "The Hill",
+      "published": "2026-03-07T04:05:52.000Z",
+      "description": "Rep. Kevin Kiley (R-Calif.) on Friday said he filed for reelection as an independent in the redrawn 6th Congressional District instead of the 3rd District he serves due to California’s redistricting measure that voters backed last year. Proposition 50 allowed California to bypass its independent redistricting commission and pass a new Democratic-friendly House map prior…",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about a candidate's filing decision following redistricting, with no bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:31.236Z"
+    },
+    {
+      "id": "59003169c66a",
+      "title": "DOJ failed to build criminal case against Biden, aides over autopen use",
+      "url": "https://thehill.com/homenews/administration/5772571-trump-biden-autopen-doj/",
+      "source": "The Hill",
+      "published": "2026-03-07T03:33:40.000Z",
+      "description": "The Department of Justice (DOJ) dropped its probe into claims made by President Trump that former President Biden and his aides illegally used an autopen to sign officials documents after failing to build a criminal case, multiple outlets reported. U.S. Attorney for Washington, D.C., Jeanine Pirro’s office led the inquiry but it was shelved in…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Routine closure of a politically-motivated investigation without evidence of wrongdoing demonstrates normal prosecutorial standards rather than institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-07T06:06:31.347Z"
+    },
+    {
+      "id": "baf70d88afad",
+      "title": "Trump confirms he’ll attend dignified transfer of US soldiers killed in Kuwait",
+      "url": "https://thehill.com/homenews/administration/5772542-trump-confirms-kuwait-soldiers-transfer/",
+      "source": "The Hill",
+      "published": "2026-03-07T02:52:14.000Z",
+      "description": "President Trump confirmed he will attend Saturday’s dignified transfer of the six U.S. soldiers killed in Kuwait amid Iran’s retaliatory attacks on Gulf countries following the U.S.-Israeli strikes on Iran. “I will be going to Dover Air Force Base tomorrow, with the First Lady and Members of my Cabinet, to pay our Highest Respect to…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report about a presidential ceremonial duty with no bearing on democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:31.487Z"
+    },
+    {
+      "id": "591eef398218",
+      "title": "These US metros saw the great spike in gas prices this week",
+      "url": "https://thehill.com/homenews/5772494-these-us-metros-saw-the-great-spike-in-gas-prices-this-week/",
+      "source": "The Hill",
+      "published": "2026-03-07T02:32:12.000Z",
+      "description": "Gas prices continued to skyrocket this week as the war in Iran created havoc in the oil sector, but a handful of U.S. cities saw larger-than-average price increases.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article about gas price fluctuations due to geopolitical events is routine economic news with no direct relevance to democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:31.215Z"
+    },
+    {
+      "id": "2650d548fdb3",
+      "title": "Top FDA regulator to leave the agency",
+      "url": "https://thehill.com/policy/healthcare/5772505-fda-vinay-prasad-departure/",
+      "source": "The Hill",
+      "published": "2026-03-07T02:23:19.000Z",
+      "description": "Food and Drug Administration (FDA) Commissioner Marty Makary on Friday announced that the agency’s top regulator Vinay Prasad will depart next month. “A year ago, Dr. Prasad came to the FDA to implement 4 major long-lasting reforms: 2-to-1 pivotal trial requirement, national priority reviews, a risk-stratified covid vaccine framework, & the new plausible mechanism framework…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "A personnel departure from a regulatory agency, while potentially notable for policy continuity, does not represent a systemic threat to democratic checks and balances or institutional independence.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-07T06:06:32.358Z"
+    },
+    {
+      "id": "b1bbfcb1ae31",
+      "title": "US military carries out operation against ‘narco-terrorist’ supply complex in Ecuador",
+      "url": "https://thehill.com/policy/defense/5772504-us-military-ecuador-drug-operation/",
+      "source": "The Hill",
+      "published": "2026-03-07T01:47:32.000Z",
+      "description": "The U.S. military carried out a “successful” operation against a “narco-terrorist” supply complex in Ecuador as part of the Trump administration’s push to dismantle drug-trafficking networks in the Western Hemisphere, according to defense officials.  At the request of Ecuador, a U.S. military joint force executed the targeted action against a suspected drug-smuggling facility inside Ecuador…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine report of a military operation conducted at the request of a foreign government against drug trafficking, with no apparent connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T06:06:32.340Z"
+    },
+    {
+      "id": "c82de35f97fb",
+      "title": "Kennedy: Noem was ‘dead as fried chicken’ after Senate hearing",
+      "url": "https://thehill.com/homenews/senate/5772348-sen-kennedy-noem-firing/",
+      "source": "The Hill",
+      "published": "2026-03-07T00:21:31.000Z",
+      "description": "Sen. John Kennedy (R-La.) on Friday said Homeland Security Secretary Kristi Noem was “dead as fried chicken” after he pressed her during a Senate hearing about a $220 million ad campaign not approved by President Trump, days before the president fired her. “I was stunned when Noem answered categorically that the president approved every single…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about a senator's criticism of a cabinet member during a hearing, lacking substantive information about institutional erosion or democratic checks.",
+      "categories": [
+        "political_retribution"
+      ],
+      "scoredAt": "2026-03-07T06:06:32.515Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-07T00:10:08.160Z"
+  "lastFetch": "2026-03-07T06:06:32.515Z"
 }
