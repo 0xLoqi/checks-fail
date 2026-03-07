@@ -1900,40 +1900,6 @@
       "scoredAt": "2026-02-09T17:51:12.969Z"
     },
     {
-      "id": "d587902d3e69",
-      "title": "Paul Weiss Chairman Brad Karp resigns after Jeffrey Epstein email disclosures",
-      "url": "https://www.cnbc.com/2026/02/05/paul-weiss-brad-karp-resigns-jeffrey-epstein.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-05T13:07:38.000Z",
-      "description": "The Department of Justice last week released millions of documents related to the notorious sex offender Jeffrey Epstein.",
-      "keywords": [
-        "department of justice",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 3,
-      "reason": "This is primarily a personnel/corporate governance story about a law firm chairman's resignation following document disclosures, with no direct implications for institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:14.480Z"
-    },
-    {
-      "id": "025e3e57a5be",
-      "title": "Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD",
-      "url": "https://www.cnbc.com/2026/02/04/trump-wbd-netflix-paramount-skydance.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-05T15:33:07.000Z",
-      "description": "Trump in December said he would be involved in the review of whether Netflix should be allowed to buy parts of Warner Bros. Discover, as WBD leadership wants.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "While Trump's statement about media consolidation touches on potential conflicts of interest, the voluntary commitment to stay out of the review process indicates restraint rather than institutional erosion.",
-      "categories": [
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:51:14.520Z"
-    },
-    {
       "id": "7f61607fa3fa",
       "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
       "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
@@ -44386,8 +44352,451 @@
       "reason": "This is routine news coverage of a foreign policy crisis and logistical response, not an institutional check or democratic process issue.",
       "categories": [],
       "scoredAt": "2026-03-07T12:03:29.846Z"
+    },
+    {
+      "id": "cdd32b531abd",
+      "title": "Week in Politics: Trump's messaging on Iran war; MAGA base reaction; new DHS leadership",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5736102/week-in-politics-trumps-messaging-on-iran-war-maga-base-reaction-new-dhs-leadership",
+      "source": "NPR Politics",
+      "published": "2026-03-07T12:44:32.000Z",
+      "description": "Messaging from the Trump Administration over the war on Iran has been mixed and confused. There are tensions in the MAGA base over the war. Plus, a new Secretary of Homeland Security is in the works.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While DHS leadership changes and base tensions warrant monitoring, the article focuses primarily on messaging and political dynamics rather than structural threats to institutional checks and balances.",
+      "categories": [
+        "civil service independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T18:03:02.452Z"
+    },
+    {
+      "id": "bf284d1a55bd",
+      "title": "Fact-checking Trump's comments that a 2015 deal gave Iran the right to nuclear weapons",
+      "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-comments-that-a-2015-deal-gave-iran-the-right-to-nuclear-weapons",
+      "source": "PBS NewsHour",
+      "published": "2026-03-07T16:48:54.000Z",
+      "description": "President Donald Trump repeatedly said the 2015 nuclear deal he pulled out of gave Iran the right to secure nuclear weapons. PolitiFact rated the statement False.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine fact-checking commentary on a political claim with no direct bearing on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:02.312Z"
+    },
+    {
+      "id": "be69fc49c573",
+      "title": "Iran war threatens Trump's affordability push as rising energy prices complicate Fed rate cuts",
+      "url": "https://www.nbcnews.com/news/us-news/iran-war-threatens-trumps-affordability-push-rising-energy-prices-comp-rcna262206",
+      "source": "NBC News",
+      "published": "2026-03-07T05:08:14.000Z",
+      "description": "The war with Iran is quickly becoming an economic problem for the United States — and a policy dilemma for the Federal Reserve",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses geopolitical and economic policy impacts rather than threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:02.737Z"
+    },
+    {
+      "id": "14986cf59edd",
+      "title": "FDA Vaccine Chief Is Leaving the Agency Next Month",
+      "url": "https://www.today.com/video/fda-vaccine-chief-to-leave-agency-after-controversial-year-258899525617",
+      "source": "NBC News",
+      "published": "2026-03-07T15:08:13.000Z",
+      "description": "Dr. Vinay Prasad, the head of the Trump administration’s vaccine program, is leaving the FDA next month after a controversial year at the agency where he faced criticism over the FDA’s delay or rejection of several treatments of rare disease. He also questioned the benefits of the COVID vaccine for children.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine personnel departure announcement that does not indicate systemic erosion of institutional independence or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:03.492Z"
+    },
+    {
+      "id": "a9eeddacf55f",
+      "title": "US Crude Oil Sees Largest Weekly Price Jump on Record",
+      "url": "https://www.today.com/video/us-crude-oil-sees-largest-weekly-price-jump-on-record-258900037576",
+      "source": "NBC News",
+      "published": "2026-03-07T14:43:43.000Z",
+      "description": "Gas prices have steadily been on the rise since the conflict in Iran began a week ago. U.S. crude oil prices topped $90 a barrel on Friday and surged 35% this week which is the biggest weekly jump on record. NBC’s Christine Romans reports for Saturday TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine economic news reporting on commodity price movements with no direct connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:03.569Z"
+    },
+    {
+      "id": "6e803f31d255",
+      "title": "DOJ admits to coding errors in Epstein files release",
+      "url": "https://www.cbsnews.com/video/doj-admits-to-coding-errors-in-epstein-files-release/",
+      "source": "CBS News",
+      "published": "2026-03-07T16:14:00.000Z",
+      "description": "The Department of Justice released another batch of files relating to convicted sex offender Jeffrey Epstein, admitting to coding errors in the release of the files, resulting in some files being \"mistakenly withheld.\"",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "Technical administrative errors in document release procedures, while warranting correction, do not indicate systemic threats to institutional independence or democratic oversight mechanisms.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-07T18:03:03.613Z"
+    },
+    {
+      "id": "7b9b40d883c4",
+      "title": "Trump meets with Latin American leaders in Miami amid war on Iran",
+      "url": "https://www.cbsnews.com/news/trump-shield-of-the-americas-summit/",
+      "source": "CBS News",
+      "published": "2026-03-07T16:12:11.000Z",
+      "description": "The White House called the gathering of Latin American leaders the \"Shield of the Americas\" summit.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers routine diplomatic meetings and foreign policy engagement with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:03.597Z"
+    },
+    {
+      "id": "235e3e23ee08",
+      "title": "Trump administration's embattled FDA vaccine chief is leaving — again",
+      "url": "https://www.cbsnews.com/news/fda-vaccine-chief-vinay-prasad-departure-marty-makary/",
+      "source": "CBS News",
+      "published": "2026-03-07T12:28:44.000Z",
+      "description": "In July, Prasad was briefly forced from his job​, but was reinstated less than two weeks later.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Personnel turnover at a federal agency raises questions about institutional independence and political pressure, but lacks evidence of systematic democratic erosion or unprecedented institutional breach.",
+      "categories": [
+        "civil service independence"
+      ],
+      "scoredAt": "2026-03-07T18:03:03.552Z"
+    },
+    {
+      "id": "8c507a5696af",
+      "title": "Times the U.S. has backed a foreign leader, as Trump hones in on Iran",
+      "url": "https://www.axios.com/2026/03/07/iran-war-trump-cuba-venezuela",
+      "source": "Axios",
+      "published": "2026-03-07T15:00:05.000Z",
+      "description": "The United States has an extensive history of interventionism, but President Trump has grown especially frank about his intentions abroad in recent months. \nThe big picture: Trump told Axios this week that he must be involved in picking Iran's next leader, which — alongside his recent moves in Cuba and Venezuela — demonstrate that aggressive military force has become part and parcel of his foreign policy. \n\nIt wouldn't be the first time, however, that the U.S. has pushed for specific leaders to ",
+      "keywords": [
+        "election",
+        "classified",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While foreign intervention policy raises important questions about executive power and congressional oversight, this article primarily covers historical context and stated intentions rather than new institutional erosion or concrete actions threatening domestic democratic checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T18:03:04.602Z"
+    },
+    {
+      "id": "1b35ec43ee07",
+      "title": "Trump's risky business",
+      "url": "https://www.axios.com/2026/03/07/trump-iran-risks-economy",
+      "source": "Axios",
+      "published": "2026-03-07T14:13:47.000Z",
+      "description": "President Trump is mired in risk:\n\nRisk his Iran war of choice goes bad.\nRisk the February job losses are a trend, not a blip.\nRisk the stock market keeps dropping.\nRisk his tariffs, and now soaring oil costs, are pushing prices higher.\nRisk that deregulated AI accelerates job losses.\nRisk that Democratic enthusiasm leads to a midterm wipeout.\n\nWhy it matters: Trump fancies himself a high-risk, high-reward president, a confidence cheered by the vast majority of Republican officials and voters. B",
+      "keywords": [
+        "election",
+        "ballot",
+        "voter",
+        "midterm",
+        "ICE",
+        "impeach",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses policy risks and economic concerns rather than institutional checks and balances, democratic safeguards, or threats to constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:04.465Z"
+    },
+    {
+      "id": "278bd829abe6",
+      "title": "This AI agent freed itself and started secretly mining crypto",
+      "url": "https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency",
+      "source": "Axios",
+      "published": "2026-03-07T13:49:08.000Z",
+      "description": "An AI agent went rogue and started a side hustle mining cryptocurrencies, according to a new research paper published by an Alibaba-affiliated team.\nWhy it matters: AI agents don't always stick to their human's instructions — and that can have real-world consequences.\n\nCryptocurrency, or digital money, offers AI agents a pathway into the economy. They can set up their own businesses, draft contracts and exchange funds.\n\nDriving the news: A new research paper from an Alibaba-affiliated research t",
+      "keywords": [
+        "crypto"
+      ],
+      "significance": 1,
+      "reason": "This article describes a theoretical AI research scenario with no connection to U.S. democratic institutions, governmental checks and balances, or constitutional processes.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:04.542Z"
+    },
+    {
+      "id": "a581ae600f08",
+      "title": "Scoop: Rep. Darrell Issa expected to retire from Congress",
+      "url": "https://www.axios.com/2026/03/06/darrell-issa-retiring-congress-california",
+      "source": "Axios",
+      "published": "2026-03-06T23:23:43.000Z",
+      "description": "Rep. Darrell Issa (R-Calif.) is expected to drop his bid for reelection just ahead of California's congressional filing deadline on Friday, two sources familiar with the matter told Axios.\nWhy it matters: The development shakes up the race for his seat significantly, with another Republican ally of Issa's reportedly filing to run instead.\n\nIssa's website was recently changed to display his PAC's logo rather than that of his campaign, Punchbowl News reported.\nIssa has maintained publicly that he ",
+      "keywords": [
+        "election",
+        "voter",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A routine announcement about a congressional retirement with no direct bearing on institutional checks and balances, separation of powers, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:04.308Z"
+    },
+    {
+      "id": "f7aa7657926f",
+      "title": "Maher on support for Iran strikes: ‘I just don’t get what liberals don’t get about liberation’",
+      "url": "https://thehill.com/homenews/media/5772985-bill-maher-donald-trump-iran-strike-support/",
+      "source": "The Hill",
+      "published": "2026-03-07T17:26:43.000Z",
+      "description": "Late-night comedian Bill Maher said he’s “cautiously optimistic” about President Trump’s ongoing military operation against Iran, “unless he puts boots on the ground.” “I just don’t get what liberals don’t get about liberation,” he said during Friday’s episode of “Real Time with Bill Maher,” adding that he sees “so much happiness” from the Iranian people.…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is commentary on a late-night show host's personal opinion about foreign policy, lacking any institutional action, policy change, or direct impact on democratic checks and balances.",
+      "categories": [
+        "press_freedom"
+      ],
+      "scoredAt": "2026-03-07T18:03:04.533Z"
+    },
+    {
+      "id": "5fdf12fdd369",
+      "title": "How Trump can make a deal to save the Great Salt Lake",
+      "url": "https://thehill.com/opinion/5771533-save-great-salt-lake-investment/",
+      "source": "The Hill",
+      "published": "2026-03-07T17:00:00.000Z",
+      "description": "The crisis warrants presidential attention: the lake affects air quality for millions of Americans, sustains major Western industries, and supports a multibillion-dollar regional economy.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article addresses environmental policy and economic management with no apparent connection to democratic institutional checks, balances, or the integrity of government systems.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:05.451Z"
+    },
+    {
+      "id": "492691b2cd25",
+      "title": "No, Trump is not going to cancel the midterms",
+      "url": "https://thehill.com/opinion/campaign/5771707-mtg-greene-trump-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-07T17:00:00.000Z",
+      "description": "Greene has had to deal with some truly vile death threats of her own in recent years — surely she knows better. Irresponsible words and conjecture, most especially in the “Age of Trump,” can go sideways in an instant.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary debunking a speculative claim rather than reporting on an actual institutional threat or democratic action.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-07T18:03:05.431Z"
+    },
+    {
+      "id": "f54d9694e6d5",
+      "title": "Daines’s last-minute retirement maneuver leaves Capitol Hill stunned — and some frustrated",
+      "url": "https://thehill.com/homenews/senate/5772231-steve-daines-retirement-maneuver/",
+      "source": "The Hill",
+      "published": "2026-03-07T17:00:00.000Z",
+      "description": "Sen. Steve Daines’s (R-Mont.) decision not to seek reelection — and last-minute switcheroo for his preferred candidate — caught the political world off-guard this week as it slammed the door on a competitive election process in polarizing fashion.  Daines, a two-term senator, sent shockwaves across Washington and Montana with a maneuver that saw Kurt Alme,…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about candidate succession and election strategy with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:05.342Z"
+    },
+    {
+      "id": "2be29fbf7938",
+      "title": "Trump chides Supreme Court, says it hasn’t had ‘guts to do what’s right’",
+      "url": "https://thehill.com/homenews/administration/5772960-donald-trump-supreme-court-criticism-white-house/",
+      "source": "The Hill",
+      "published": "2026-03-07T16:51:19.000Z",
+      "description": "President Trump lashed out at the Supreme Court again on Friday, voicing deep frustration with “a number” of recent decisions that have included the rejection of his signature tariff policy and his attempts to federalize the National Guard, among other setbacks. “I think the Supreme Court ought to be ashamed of itself for a lot…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Public criticism of the judiciary is concerning for institutional independence but falls short of unprecedented action or direct interference with judicial operations.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-07T18:03:06.017Z"
+    },
+    {
+      "id": "510bd425a278",
+      "title": "Trump revamps war on drugs with ‘Shield of the Americas’ endeavor",
+      "url": "https://thehill.com/homenews/administration/5772926-donald-trump-shield-of-americas-war-on-drugs-noem/",
+      "source": "The Hill",
+      "published": "2026-03-07T16:26:33.000Z",
+      "description": "President Trump on Saturday announced a new coalition to counter drug trafficking and cartels during the inaugural “Shield of the Americas” summit in Miami. “On this historic day, we come together to announce a brand-new military coalition to eradicate the criminal cartels plaguing our region,” Trump said during the event, which convened a range of…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Announcement of a regional drug trafficking coalition is routine foreign policy/law enforcement activity without apparent implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:07.279Z"
+    },
+    {
+      "id": "8447d190adb5",
+      "title": "United CEO: Airfare likely to rise as jet fuel prices surge",
+      "url": "https://thehill.com/business/5772901-united-airfare-iran-war-fuel-prices/",
+      "source": "The Hill",
+      "published": "2026-03-07T15:50:12.000Z",
+      "description": "United Airlines CEO Scott Kirby warned this week that soaring jet fuel prices tied to conflict in the Middle East could soon push airline ticket prices higher. Kirby, following an event at Harvard University, noted that while the demand for air travel was still strong, the carrier would likely feel a “meaningful” impact on its…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine business news about airline operations and pricing with no connection to democratic institutions, checks and balances, or government accountability.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:08.041Z"
+    },
+    {
+      "id": "bdd35fe8a259",
+      "title": "Which congressional lawmakers aren’t seeking reelection in 2026?",
+      "url": "https://thehill.com/homenews/house/5600507-congressional-lawmakers-not-seeking-reelection-2026/",
+      "source": "The Hill",
+      "published": "2026-03-07T14:42:11.000Z",
+      "description": "With less than a year to go before the 2026 midterms, lawmakers in both chambers of Congress are making decisions as campaign season inches closer. In total, 63 congressional lawmakers and one House delegate, 39 of them Republicans, are not seeking reelection. Of that group, 12 senators are retiring or seeking higher office, over 10…",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political reporting about election cycles with no direct connection to institutional checks and balances or democratic norms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:08.004Z"
+    },
+    {
+      "id": "e91e89425b67",
+      "title": "Don’t turn banks into citizenship police",
+      "url": "https://thehill.com/opinion/immigration/5771913-financial-privacy-concerns-trump/",
+      "source": "The Hill",
+      "published": "2026-03-07T14:00:00.000Z",
+      "description": "President Trump is reportedly considering an order requiring financial institutions to check customers' citizenship, which could erode trust in financial services, create confusion and hardship for customers, and raise constitutional concerns.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A presidential order requiring financial institutions to verify citizenship would represent a significant institutional action with potential constitutional implications across multiple democratic safeguards, particularly affecting civil rights, rule of law, and the separation of powers between executive and judicial branches.",
+      "categories": [
+        "immigration & civil rights",
+        "judicial independence",
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-07T18:03:08.330Z"
+    },
+    {
+      "id": "709a087082ca",
+      "title": "Republican Darrell Issa not seeking reelection",
+      "url": "https://thehill.com/homenews/house/5772832-california-republican-darrell-issa-reelection-retirement/",
+      "source": "The Hill",
+      "published": "2026-03-07T13:57:25.000Z",
+      "description": "Rep. Darrell Issa (R-Calif.) announced Friday that he would not seek reelection to his newly redrawn southern California seat, adding uncertainty to the GOP’s efforts to cling to its narrow House majority in the midterms. Issa, who has served in the House since 2001, wrote in a statement that it was “the right time for…",
+      "keywords": [
+        "election",
+        "midterm",
+        "house majority"
+      ],
+      "significance": 2,
+      "reason": "A single congressional retirement announcement, while potentially affecting House dynamics, is routine political news without direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:10.148Z"
+    },
+    {
+      "id": "fd253ead8a09",
+      "title": "Tennessee journalist detained by ICE sues, claims arrest violated her rights",
+      "url": "https://thehill.com/homenews/media/5772418-tennessee-journalist-detained-immigration-enforcement/",
+      "source": "The Hill",
+      "published": "2026-03-07T13:36:26.000Z",
+      "description": "Estefany Rodriguez's attorneys say she was complying with immigration officials and had no active case when agents took her into custody.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detained",
+        "journalist"
+      ],
+      "significance": 7,
+      "reason": "Alleged wrongful detention of a journalist by immigration enforcement raises significant concerns about press freedom, civil rights protections, and potential abuse of executive authority.",
+      "categories": [
+        "press freedom",
+        "immigration & civil rights",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-07T18:03:08.267Z"
+    },
+    {
+      "id": "76dee4a65c00",
+      "title": "Trump says Iran ‘will be hit very hard’ despite apology for striking neighbors",
+      "url": "https://thehill.com/policy/international/5772792-donald-trump-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-07T13:03:02.000Z",
+      "description": "President Trump vowed early Saturday to press on with U.S. military operations against Iran, declaring the country would be “hit very hard,” even after its president apologized for attacks against regional neighbors. “Today Iran will be hit very hard! Under serious consideration for complete destruction and certain death, because of Iran’s bad behavior, are areas…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary regarding military posture toward Iran, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:11.331Z"
+    },
+    {
+      "id": "84675e57ee6b",
+      "title": "Iran war could make affordability bigger issue in 2026 elections",
+      "url": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-07T17:27:55.000Z",
+      "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is speculative political commentary about future election outcomes and voter priorities, not reporting on institutional checks and balances or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-07T18:03:10.867Z"
+    },
+    {
+      "id": "37e2ee6ffa8f",
+      "title": "Congress Is Betraying America’s Founders by Ceding Power to Trump",
+      "url": "https://www.rollingstone.com/politics/political-commentary/congress-betraying-america-founders-power-trump-1235520983/",
+      "source": "Rolling Stone",
+      "published": "2026-03-07T13:00:00.000Z",
+      "description": "The framers of the Constitution believed liberty lived in the friction between governmental branches",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is opinion commentary on constitutional theory and congressional power dynamics rather than reporting on a specific institutional action, policy change, or ruling.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-07T18:03:11.583Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-07T12:03:30.203Z"
+  "lastFetch": "2026-03-07T18:03:11.583Z"
 }
