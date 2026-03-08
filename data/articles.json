@@ -1789,22 +1789,6 @@
       "scoredAt": "2026-02-09T17:51:10.829Z"
     },
     {
-      "id": "4c970227563d",
-      "title": "Japan’s Takaichi eyes decisive mandate as polls point to snap election landslide",
-      "url": "https://www.cnbc.com/2026/02/06/japan-election-takaichi-ldp-landslide-polls-ldp-trump-innovation-party-nikkei.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-06T06:30:46.000Z",
-      "description": "The poll showed that the LDP-led coalition was likely to secure more than 300 of the 465 seats in the Lower House.",
-      "keywords": [
-        "election",
-        "SNAP"
-      ],
-      "significance": 1,
-      "reason": "This article concerns Japanese electoral politics and has no relevance to U.S. democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:09.573Z"
-    },
-    {
       "id": "7f61607fa3fa",
       "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
       "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
@@ -45160,8 +45144,163 @@
       "reason": "This is a routine news report about a factual dispute regarding a specific military incident, with no direct impact on institutional checks and balances or democratic governance structures.",
       "categories": [],
       "scoredAt": "2026-03-08T06:10:14.086Z"
+    },
+    {
+      "id": "dd551ac477dc",
+      "title": "Politics chat: Trump's plans for Iran and Cuba, Kristi Noem's ouster, Texas primaries",
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5737503/politics-chat-trumps-plans-for-iran-and-cuba-kristi-noems-ouster-texas-primaries",
+      "source": "NPR Politics",
+      "published": "2026-03-08T11:49:58.000Z",
+      "description": "We look at the Trump administration's objectives in the war with Iran, as well as the ouster of Secretary of Homeland Security Kristi Noem.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Noem's ouster represents a notable personnel decision within executive branch oversight, but the article's focus on foreign policy and electoral politics limits its direct impact on core democratic checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-08T12:04:01.774Z"
+    },
+    {
+      "id": "26cd95c301db",
+      "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
+      "source": "NPR Politics",
+      "published": "2026-03-08T08:18:54.000Z",
+      "description": "A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.",
+      "keywords": [
+        "election",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Nepalese domestic politics and has no relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T12:04:01.361Z"
+    },
+    {
+      "id": "254fbd92f2f8",
+      "title": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5741594/u-s-judge-kari-lake-broke-law-voice-of-america",
+      "source": "NPR Politics",
+      "published": "2026-03-08T08:04:06.000Z",
+      "description": "He declared all of Lake's actions over the past year to be null and void, including the layoffs of more than 1,000 journalists and staffers.",
+      "keywords": [
+        "ICE",
+        "journalist",
+        "voice of america"
+      ],
+      "significance": 7,
+      "reason": "A federal judge voiding a government official's systematic dismantling of an independent news agency represents a significant judicial check against executive overreach of press freedom and institutional independence.",
+      "categories": [
+        "judicial independence",
+        "press freedom",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-08T12:04:01.624Z"
+    },
+    {
+      "id": "11bbd6af52bc",
+      "title": "Judge voids Kari Lake's actions as acting CEO of U.S. media agency",
+      "url": "https://www.cbsnews.com/news/judge-voids-kari-lake-actions-acting-ceo-of-u-s-agency-for-global-media-voice-of-america/",
+      "source": "CBS News",
+      "published": "2026-03-08T06:18:21.000Z",
+      "description": "A federal judge ruled Saturday that Kari Lake did not have legal authority to take the actions she's done to largely dismantle the Voice of America.",
+      "keywords": [
+        "ICE",
+        "voice of america"
+      ],
+      "significance": 7,
+      "reason": "Judicial branch enforces separation of powers by blocking executive overreach of an independent agency, establishing important precedent for institutional independence.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-08T12:04:02.789Z"
+    },
+    {
+      "id": "62906b141636",
+      "title": " Democrat Roy Cooper needs to defy North Carolina history to keep winning streak alive in Senate race",
+      "url": "https://abcnews.com/Politics/wireStory/democrat-roy-cooper-defy-north-carolina-history-winning-130873890",
+      "source": "ABC News",
+      "published": "2026-03-08T11:53:12.000Z",
+      "description": "North Carolina Democrats have had success in winning elections for governor",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is campaign coverage about electoral prospects in a gubernatorial race, containing no information about institutional checks, balances, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-08T12:04:02.667Z"
+    },
+    {
+      "id": "18ca63b4d06e",
+      "title": "Senate Republican says Trump’s Iran strikes could impact China, Russia",
+      "url": "https://thehill.com/homenews/senate/5773319-cramer-discusses-iran-strikes/",
+      "source": "The Hill",
+      "published": "2026-03-08T11:00:00.000Z",
+      "description": "Sen. Kevin Cramer (R-N.D.) said in an interview Sunday morning that the U.S.’s ongoing military operations with Israel on Iran could have an impact on geopolitics elsewhere.  Cramer, who sits on the Senate Armed Services Committee, told host John Catsimatidis on the “Cats Roundtable” radio show that the strikes send “a message” to adversaries like…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy geopolitics with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T12:04:02.585Z"
+    },
+    {
+      "id": "15f78c06e4af",
+      "title": "Trump faces economic squeeze as Iran conflict escalates",
+      "url": "https://thehill.com/business/5772068-trump-economy-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-08T10:00:00.000Z",
+      "description": "President Trump is facing an economic squeeze as the Iran war drives up oil prices and the U.S. job market sputters. Friday brought a double dose of bad economic news for Trump: an unexpected loss of jobs in February and another surge in oil prices driven by growing conflict in the Middle East. Trump and…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic news coverage reporting on job market data and oil prices; it does not address institutional checks, balances, or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T12:04:02.778Z"
+    },
+    {
+      "id": "270de95b8e6d",
+      "title": "Talarico turns toward general as Texas GOP Senate primary heads to runoff ",
+      "url": "https://thehill.com/homenews/campaign/5772311-talarico-rallies-support-general-election/",
+      "source": "The Hill",
+      "published": "2026-03-08T10:00:00.000Z",
+      "description": "Democrat James Talarico is now staring down the challenge of a tough general election against a still-undecided Republican rival after emerging victorious from his own bruising primary that offered a rare boost to Democrats in a deep red state. Democratic turnout surged on Tuesday as the 36-year-old rising star’s message of faith and economic populism…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral coverage of a primary race outcome with no direct implications for institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T12:04:05.196Z"
+    },
+    {
+      "id": "74ea01222dd0",
+      "title": "Here’s who could run to replace Mullin after DHS nomination ",
+      "url": "https://thehill.com/homenews/state-watch/5771975-markwayne-mullin-oklahoma-senate-race/",
+      "source": "The Hill",
+      "published": "2026-03-08T10:00:00.000Z",
+      "description": "President Trump on Thursday tapped Sen. Markwayne Mullin (R-Okla.) to replace Kristi Noem as secretary of the Department of Homeland Security (DHS), creating a vacancy in the U.S. Senate and setting off a scramble to replace him.  Oklahoma Gov. Kevin Stitt (R) has 30 days to appoint someone from Mullin’s party to temporarily fill the seat after the senator leaves his post, but the appointee must pledge not…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine political news about a cabinet nomination and subsequent Senate seat vacancy, lacking any indication of institutional conflict or democratic erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-08T12:04:06.230Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-08T06:10:14.556Z"
+  "lastFetch": "2026-03-08T12:04:06.230Z"
 }
