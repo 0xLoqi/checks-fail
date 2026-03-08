@@ -41,24 +41,6 @@
       "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
-      "id": "7dc16f3c61e5",
-      "title": "Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump",
-      "url": "https://www.propublica.org/article/institute-of-museum-and-library-services-grant-guidelines-donald-trump",
-      "source": "ProPublica",
-      "published": "2026-02-06T15:30:00.000Z",
-      "description": "The post Grant Guidelines for Libraries and Museums Take “Chilling” Political Turn Under Trump appeared first on ProPublica.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Politically contentious policy change affecting federal grants with potential institutional implications, but lacks evidence of systematic democratic erosion or unprecedented action.",
-      "categories": [
-        "federal programs & agencies",
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:32.800Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -328,112 +310,6 @@
       "scoredAt": "2026-02-09T17:49:43.191Z"
     },
     {
-      "id": "5d4822cd56f2",
-      "title": "UK police search two properties linked to Peter Mandelson as part of Epstein probe",
-      "url": "https://www.pbs.org/newshour/politics/uk-police-search-two-properties-linked-to-peter-mandelson-as-part-of-epstein-probe",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T16:53:55.000Z",
-      "description": "Mandelson has not been arrested or charged.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article concerns UK law enforcement investigating a British political figure and is unrelated to U.S. democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:43.485Z"
-    },
-    {
-      "id": "538b4748b538",
-      "title": "Republicans reject complaint about Gabbard as Democrats question time it took to see it",
-      "url": "https://www.pbs.org/newshour/politics/republicans-reject-complaint-about-gabbard-as-democrats-question-time-it-took-to-see-it",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T16:48:50.000Z",
-      "description": "Sen. Tom Cotton and Rep. Rick Crawford also dismissed allegations from Democratic lawmakers that Gabbard tried to delay referring the complaint to Congress as required by law.",
-      "keywords": [
-        "gabbard"
-      ],
-      "significance": 6,
-      "reason": "Involves potential institutional oversight failure regarding intelligence community leadership vetting, but represents a partisan dispute over process rather than confirmed erosion of checks and balances.",
-      "categories": [
-        "intelligence community integrity",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:43.449Z"
-    },
-    {
-      "id": "7c6ea6a484d7",
-      "title": "Facing high Trump tariffs, Africa's leading economy says it's close to a new trade deal with China",
-      "url": "https://www.pbs.org/newshour/world/facing-high-trump-tariffs-africas-leading-economy-says-its-close-to-a-new-trade-deal-with-china",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T16:22:26.000Z",
-      "description": "South Africa's Ministry of Trade and Industry said the agreement would start negotiations over a deal that would give some South African goods, such as fruit, duty-free access to the Chinese market.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine international trade news with no direct connection to U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:49.089Z"
-    },
-    {
-      "id": "fcea60713f57",
-      "title": "A timeline of the Jeffrey Epstein investigation and the fight to make the government's files public",
-      "url": "https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T15:30:11.000Z",
-      "description": "The release is the culmination of a yearslong fight over the records underpinning one of the Justice Department's most high-profile and highly debated cases.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "While the Epstein case involves significant DOJ accountability and transparency questions, the article focuses on historical record release rather than current institutional threats to democratic checks.",
-      "categories": [
-        "DOJ independence",
-        "judicial independence",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:49:51.679Z"
-    },
-    {
-      "id": "00e213436379",
-      "title": "Census Bureau plans to use survey with a citizenship question in its test for 2030, alarming experts",
-      "url": "https://www.pbs.org/newshour/politics/census-bureau-plans-to-use-survey-with-a-citizenship-question-in-its-test-for-2030-alarming-experts",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T14:55:55.000Z",
-      "description": "This decision follows the Trump administration's failed attempt to add such a question to the 2020 census.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "This represents a notable institutional action with potential democratic implications for census accuracy and representation, but falls short of critical severity given the question's previous legal challenges and the testing phase status.",
-      "categories": [
-        "election infrastructure",
-        "civil rights & immigration",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:46.010Z"
-    },
-    {
-      "id": "48a80bf50d45",
-      "title": "Trump's racist post about Obamas is deleted after backlash despite White House earlier defending it",
-      "url": "https://www.pbs.org/newshour/politics/trump-shares-a-racist-video-that-depicts-the-obamas-as-primates",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T14:51:11.000Z",
-      "description": "The Republican president's Thursday night post was deleted Friday and blamed on a staffer after widespread backlash, from civil rights leaders to veteran Republican senators, for its treatment of the nation's first Black president and first lady.",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 4,
-      "reason": "While the incident reflects concerning rhetoric and institutional dysfunction, the deletion after backlash and lack of lasting policy consequence place it in the notable-but-not-urgent range rather than critical institutional erosion.",
-      "categories": [
-        "press freedom",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:49:46.183Z"
-    },
-    {
       "id": "bc54fcc23fc9",
       "title": "",
       "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
@@ -586,25 +462,6 @@
       ],
       "scoredAt": "2026-02-09T17:49:53.862Z",
       "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
-      "id": "30b223dbcc17",
-      "title": "How Trump's $10 billion suit against his own government could go sideways",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trumps-10-billion-suit-government-go-sideways-rcna257483",
-      "source": "NBC News",
-      "published": "2026-02-06T14:31:02.000Z",
-      "description": "President Donald Trump's $10 billion lawsuit against the IRS and Teasury Department may not turn into a legal settlement for him.",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A lawsuit by the president against executive agencies raises questions about DOJ independence and potential political retribution, but the article focuses on legal procedural obstacles rather than institutional erosion.",
-      "categories": [
-        "DOJ independence",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:49:54.151Z"
     },
     {
       "id": "e23de84f820a",
@@ -1067,26 +924,6 @@
         "DOJ independence"
       ],
       "scoredAt": "2026-02-09T17:50:16.535Z"
-    },
-    {
-      "id": "60609503437e",
-      "title": " Trump's aggressive tactics force a reckoning between local leaders and Washington",
-      "url": "https://abcnews.go.com/Politics/wireStory/trumps-aggressive-tactics-force-reckoning-local-leaders-washington-129911998",
-      "source": "ABC News",
-      "published": "2026-02-06T12:37:51.000Z",
-      "description": "Local leaders across the U.S. describe an increasingly hostile relationship with Washington, driven by President Donald Trump's immigration policies",
-      "keywords": [
-        "immigration",
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "Trump's immigration policies create significant federal-local tensions affecting institutional relationships and civil rights, but the article describes conflict rather than documented institutional erosion or unprecedented democratic breaches.",
-      "categories": [
-        "immigration & civil rights",
-        "federal programs & agencies",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:50:16.712Z"
     },
     {
       "id": "fa4db24680de",
@@ -1839,23 +1676,6 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-09T17:51:20.131Z"
-    },
-    {
-      "id": "4d837de79287",
-      "title": "Trump Posts Wildly Racist Video of the Obamas",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-racist-video-barack-michelle-obama-apes-1235512093/",
-      "source": "Rolling Stone",
-      "published": "2026-02-06T14:09:59.000Z",
-      "description": "The president shared a video that included a clip depicting Barack and Michelle Obama as apes. The post has since been removed",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "While the offensive content is deplorable and reflects concerning speech norms, the incident primarily represents a social media post rather than a direct institutional action that undermines democratic checks and balances, though it relates to press freedom and political discourse standards.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:51:20.122Z"
     },
     {
       "id": "eef5e49daeff",
@@ -45299,8 +45119,485 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-08T12:04:06.230Z"
+    },
+    {
+      "id": "58e91025b6ec",
+      "title": "Retiring GOP Senator and Trump critic Thom Tillis hosts a dog parade on Capitol Hill",
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5732482/retiring-gop-senator-and-trump-critic-thom-tillis-hosts-a-dog-parade-on-capitol-hill",
+      "source": "NPR Politics",
+      "published": "2026-03-08T12:08:03.000Z",
+      "description": "A recent dog parade on Capitol Hill was more than fluffy fun, it was also a chance for retiring Republican Sen. Thom Tillis to stretch his independent streak.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a lighthearted human interest story about a social event with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:12.046Z"
+    },
+    {
+      "id": "2751b2a64d12",
+      "title": "Trump struggles on immigration, prices and Iran as Democrats hold a midterm edge",
+      "url": "https://www.nbcnews.com/politics/2026-election/poll-trump-struggles-immigration-prices-iran-democrats-midterm-edge-rcna261861",
+      "source": "NBC News",
+      "published": "2026-03-08T13:00:40.000Z",
+      "description": "Majorities of registered voters disapprove of how President Donald Trump has handled the issues that defined the first months of a tumultuous midterm election year, as Democrats maintain an advantage in the battle for control of Congress, according to a new national NBC News poll",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine polling report on voter approval ratings and midterm election preferences with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:11.449Z"
+    },
+    {
+      "id": "865ecfc3ec8e",
+      "title": "Primary voters prize ideology over electability, as their parties get low marks",
+      "url": "https://www.nbcnews.com/politics/2026-election/poll-primary-voters-prize-ideology-electability-parties-get-low-marks-rcna262046",
+      "source": "NBC News",
+      "published": "2026-03-08T13:00:00.000Z",
+      "description": "As party primaries kick off ahead of the pivotal battle for control of Congress this fall, Democrats — and especially Republicans — say they are prioritizing ideological alignment instead of electability when they pick candidates, according to a new national NBC News poll",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is a polling article about voter preferences in primaries with no direct impact on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:13.003Z"
+    },
+    {
+      "id": "6d35e51d127a",
+      "title": "Fallout Expands From Epstein File Testimonies",
+      "url": "https://www.today.com/video/democrats-demand-trump-testify-over-epstein-files-258930757964",
+      "source": "NBC News",
+      "published": "2026-03-08T13:33:58.000Z",
+      "description": "The slow, selective and heavily-redacted release of the Epstein files only has served to raise bipartisan suspicions about who the Justice Department may be protecting. Meanwhile, after former President Bill Clinton and former First Lady and Secretary of State Hillary Clint were forced to testify in front of the Republican-led House Oversight Committee, Democrats argue now it’s time to hear from President Donald Trump. NBC’s Melanie Zanona reports in this weeks’ Sunday Focus.",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The article raises legitimate concerns about DOJ transparency and selective disclosure practices, but focuses primarily on political controversy rather than demonstrating institutional erosion or systematic checks-and-balances failure.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-08T18:03:13.035Z"
+    },
+    {
+      "id": "132c843bd7f5",
+      "title": "Hakeem Jeffries: ‘No, I don’t think’ Kamala Harris has lost relevancy after Crockett endorsement",
+      "url": "https://www.nbcnews.com/meet-the-press/video/hakeem-jeffries-no-i-don-t-think-kamala-harris-has-lost-relevancy-after-crockett-endorsement-258930245726",
+      "source": "NBC News",
+      "published": "2026-03-08T13:32:14.000Z",
+      "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) tells Meet the Press that he does not think former Vice President Kamala Harris has lost her political relevancy after endorsing Rep. Jasmine Crockett’s failed bid in the Texas Senate Democratic primary.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about intra-party endorsement strategies with no bearing on institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:13.808Z"
+    },
+    {
+      "id": "70dcae17243f",
+      "title": "U.N. Amb. Mike Waltz on Russia helping Iran amid the war: 'Trump will deal with it accordingly'",
+      "url": "https://www.nbcnews.com/meet-the-press/video/u-n-amb-mike-waltz-on-russia-helping-iran-amid-the-war-trump-will-deal-with-it-accordingly-258930245696",
+      "source": "NBC News",
+      "published": "2026-03-08T13:29:09.000Z",
+      "description": "In an interview with Meet the Press, U.S. Ambassador to the United Nations Mike Waltz reacts to NBC News reporting that Russia is providing intelligence to Iran on the location of U.S. forces in the Middle East.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news interview about foreign policy and diplomatic statements without direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:13.023Z"
+    },
+    {
+      "id": "77f44be15ce9",
+      "title": "Energy secretary says \"period of elevated energy prices\" will be temporary",
+      "url": "https://www.cbsnews.com/news/energy-secretary-chris-wright-energy-prices-iran/",
+      "source": "CBS News",
+      "published": "2026-03-08T17:52:54.000Z",
+      "description": "Energy Secretary Chris Wright said \"what you're seeing is emotional reactions and fear that this is a long-term war.\" He stressed that \"this is not a long-term war.\"",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine public statement about energy policy by a cabinet official with no bearing on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:12.902Z"
+    },
+    {
+      "id": "4c505473491f",
+      "title": "Sen. Tim Kaine says supporting Kristi Noem as DHS secretary was a \"big mistake\"",
+      "url": "https://www.cbsnews.com/news/tim-kaine-kristi-noem-confirmation-vote-homeland-security/",
+      "source": "CBS News",
+      "published": "2026-03-08T17:50:48.000Z",
+      "description": "Sen. Tim Kaine, a Virginia Democrat, expressed regret on Sunday for supporting Kristi Noem for Department of Homeland Security secretary last year.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A senator expressing regret about a past confirmation vote is routine political commentary without institutional impact on democratic checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-08T18:03:14.766Z"
+    },
+    {
+      "id": "3cf264fc45bc",
+      "title": "Schumer calls on Trump to release oil from reserve to lower gas prices",
+      "url": "https://www.axios.com/2026/03/08/schumer-republicans-trump-oil-reserve-gas-prices",
+      "source": "Axios",
+      "published": "2026-03-08T17:41:38.000Z",
+      "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) on Sunday called on President Trump to release oil from the national stockpile to counter soaring gas prices — an idea that Republicans have been slow to embrace.\nWhy it matters: Tapping the Strategic Petroleum Reserve (SPR) could deprive Republicans of a talking point: That then-President Biden's move to do so in 2022 was done for purely political reasons.\n\nRepublicans' message — as outlined on Sunday's political talk shows — is that the uptick in p",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political advocacy by a congressional leader regarding energy policy, with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:14.603Z"
+    },
+    {
+      "id": "4c1b666a9959",
+      "title": "Trump's energy chief blames oil price spike on market fear",
+      "url": "https://www.axios.com/2026/03/08/trump-oil-prices-iran-fear-strait-hormuz",
+      "source": "Axios",
+      "published": "2026-03-08T16:05:22.000Z",
+      "description": "The Trump administration's top energy official argued Sunday that fear — not supply shortages — is driving a historic surge in oil prices.\nThe big picture: The world is well-supplied with oil, but markets are reacting to real-world disruptions — a strangled Strait of Hormuz, halted production and strikes on fuel storage.\n\nThe administration is road-testing a political argument to insulate itself from pocketbook pain in a midterm year.\nThe record-breaking surge lifted gasoline 47 cents a gallon i",
+      "keywords": [
+        "voter",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on economic policy messaging with no direct bearing on constitutional checks and balances, institutional independence, or democratic oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:14.674Z"
+    },
+    {
+      "id": "4397f6545127",
+      "title": "‘No change in policy’ regarding Russian oil sanctions amid Iran war: Energy secretary",
+      "url": "https://thehill.com/policy/energy-environment/5773811-russian-oil-policy-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-08T17:51:34.000Z",
+      "description": "Energy Secretary Chris Wright said Sunday that the Trump administration’s policy toward Russian oil has not changed, despite Treasury Secretary Scott Bessent lifting some restrictions on the commodity earlier this week.  “The United States’ policy towards Russia has not changed at all,” Wright told host Jake Tapper on CNN’s “State of the Union.” On Thursday,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine policy clarification commentary regarding sanctions implementation with no direct bearing on democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:14.682Z"
+    },
+    {
+      "id": "f35002e6b173",
+      "title": "Kennedy says he doesn’t believe Trump will send troops to Iran",
+      "url": "https://thehill.com/policy/international/5773813-kennedy-trump-iran-troops/",
+      "source": "The Hill",
+      "published": "2026-03-08T17:26:30.000Z",
+      "description": "Sen. John Kennedy (R-La.) on Sunday said he doesn’t believe President Trump will send American soldiers to Iran amid the current conflict.  “We’re going to turn parts of Iran — those who are enemies — into fish food and then get out. I do not believe the President will send in troops. In fact, if…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a senator's personal speculation about potential military action rather than reporting on actual institutional checks, policy changes, or democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:14.633Z"
+    },
+    {
+      "id": "8b68b61d42f5",
+      "title": "Trump ‘has not made the case’ that Iran was imminent threat: Warner",
+      "url": "https://thehill.com/policy/international/5773769-warner-trump-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-08T16:20:41.000Z",
+      "description": "Sen. Mark Warner (D-Va.) on Sunday said President Trump has not “made the case” that Iran posed an imminent threat that warranted U.S. strikes on Tehran.  “I really do feel like when we’ve got America’s interest, when we’ve got dead service members, that we’ve not made the case, that the President has not made the…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Congressional oversight criticism of military action justification is notable but represents routine legislative debate rather than institutional action or precedent-setting erosion of checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-08T18:03:15.719Z"
+    },
+    {
+      "id": "3c905dc8b4d4",
+      "title": "As DOJ lawyers face complaints, agency seeks tighter grasp on state bar ethics probes",
+      "url": "https://thehill.com/regulation/court-battles/5772173-doj-targets-state-bar-associations/",
+      "source": "The Hill",
+      "published": "2026-03-08T16:00:00.000Z",
+      "description": "The Department of Justice (DOJ) is turning its focus to state bar associations in its quest to clamp down on the weaponization of the justice system.  As DOJ lawyers face piling complaints, the government is seeking greater control over the ethics probes that can result in disciplinary actions including disbarment.   It has prompted a firestorm of questions about the agency’s bid for…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "The DOJ's attempt to gain control over state bar ethics processes represents a significant institutional action that could undermine judicial independence and the autonomy of state bar associations, core components of democratic checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-08T18:03:16.031Z"
+    },
+    {
+      "id": "142f408aca26",
+      "title": "Tillis says he’s ‘glad’ Noem’s departing DHS",
+      "url": "https://thehill.com/homenews/senate/5773743-tillis-noem-dhs-departure/",
+      "source": "The Hill",
+      "published": "2026-03-08T15:35:57.000Z",
+      "description": "Sen. Thom Tillis (R-N.C.) said he is pleased that President Trump is removing Department of Homeland Security (DHS) Secretary Kristi Noem from her post. “Well, I’m glad he moved on,” Tillis told host Jake Tapper on CNN’s “State of the Union.” “Secretary Noem may have been effective as the governor in South Dakota, but it’s…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "A senator's public comment on a cabinet personnel decision is routine political commentary without institutional significance to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:15.616Z"
+    },
+    {
+      "id": "d2940e39e90c",
+      "title": "Russia ‘helping’ Iran ‘in many different directions’ amid war: Araghchi",
+      "url": "https://thehill.com/policy/international/5773726-iran-russia-military-cooperation/",
+      "source": "The Hill",
+      "published": "2026-03-08T15:01:29.000Z",
+      "description": "Iran’s foreign minister Abbas Araghchi on Sunday underscored Tehran’s relationship with Moscow, as reports that Russia is providing the Middle Eastern country with intelligence have surfaced amid the U.S. military campaign in the region. “A military cooperation between Iran and Russia is not something new. It’s not a secret. It has been in the past,…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This article reports on foreign diplomatic statements regarding Iran-Russia relations and does not address any U.S. domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:15.613Z"
+    },
+    {
+      "id": "619338adf14a",
+      "title": "Tillis calls on Miller to depart White House: ‘Out of his depth’ ",
+      "url": "https://thehill.com/homenews/senate/5773722-thom-tillis-stephen-miller-criticism/",
+      "source": "The Hill",
+      "published": "2026-03-08T14:58:07.000Z",
+      "description": "While Department of Homeland Security (DHS) Secretary Kristi Noem will soon depart her Cabinet-level post, Sen. Thom Tillis (R-N.C.) also wants White House deputy chief of staff Stephen Miller to leave President Trump’s inner circle. Tillis told CNN’s Jake Tapper on “State of the Union” on Sunday that Miller, a longtime adviser to Trump dating…",
+      "keywords": [
+        "miller",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A Republican senator's public criticism of a White House official represents routine political disagreement rather than evidence of systematic institutional erosion or democratic checks in action.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-08T18:03:15.737Z"
+    },
+    {
+      "id": "bc8d218b7150",
+      "title": "Wright downplays concerns over closure of key shipping lane’s impact on oil prices",
+      "url": "https://thehill.com/policy/international/5773725-energy-secretary-downplays-hormuz-concerns/",
+      "source": "The Hill",
+      "published": "2026-03-08T14:55:17.000Z",
+      "description": "Energy Secretary Chris Wright on Sunday downplayed concerns about the Strait of Hormuz closure amid the conflict in Iran.  “One large tanker has already gone through the straits with no issues at all. So as the general just described, we’re massively attiring their ability to strike with missiles and drones, and that rate of attrition…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine news commentary on energy policy and geopolitical concerns with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:16.994Z"
+    },
+    {
+      "id": "be721cf72248",
+      "title": "Tillis: Republicans have ‘lost the debate’ on immigration",
+      "url": "https://thehill.com/homenews/senate/5773656-tillis-gop-immigration-debate/",
+      "source": "The Hill",
+      "published": "2026-03-08T14:09:05.000Z",
+      "description": "Republican Sen. Thom Tillis (N.C.) said Sunday his party has “lost the debate” on immigration, days after President Trump tapped Sen. Markwayne Mullin (R-Okla.) to replace Department of Homeland Security (DHS) Secretary Kristi Noem. “We’ve lost the debate over immigration and deportations. I believe that we should deport everyone that we can find that came…",
+      "keywords": [
+        "immigration",
+        "deportation",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on a policy disagreement within the Republican party regarding immigration strategy, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:16.927Z"
+    },
+    {
+      "id": "4c17689070ae",
+      "title": "Jan. 6 plaque installed at U.S. Capitol after 3-year delay",
+      "url": "https://thehill.com/homenews/house/5773634-law-enforcement-capitol-jan-6-plaque-installed/",
+      "source": "The Hill",
+      "published": "2026-03-08T14:04:30.000Z",
+      "description": "A long-awaited plaque honoring law enforcement officers who protected the Capitol during the Jan. 6, 2021, riot was installed on Saturday after a three-year delay. “On behalf of a grateful Congress, this plaque honors the extraordinary individuals who bravely protected and defended this symbol of democracy on January 6, 2021,” the plaque says.  “Their heroism…",
+      "keywords": [
+        "ICE",
+        "democracy"
+      ],
+      "significance": 4,
+      "reason": "While commemorating law enforcement's role in defending democratic institutions is symbolically meaningful, the installation of a plaque represents acknowledgment rather than an institutional action that affects ongoing checks and balances.",
+      "categories": [
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-08T18:03:17.106Z"
+    },
+    {
+      "id": "4307f3201939",
+      "title": "Trump says he won’t sign any bills into law until SAVE America Act passes",
+      "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+      "source": "The Hill",
+      "published": "2026-03-08T13:00:57.000Z",
+      "description": "President Trump on Sunday threatened to not sign any bills into law until the Safeguard American Voter Eligibility (SAVE) America Act is approved by the Senate, doubling down on his push to change voting requirements ahead of the midterm elections. “I, as President, will not sign other Bills until this is passed, AND NOT THE…",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Using executive veto power as leverage to force legislative action on voting eligibility represents a significant institutional action that tests separation of powers and congressional oversight.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-08T18:03:17.404Z"
+    },
+    {
+      "id": "83251e82df58",
+      "title": "Democrats showed who they are when they wouldn’t stand for Americans",
+      "url": "https://thehill.com/opinion/white-house/5772025-state-union-immigration-divide/",
+      "source": "The Hill",
+      "published": "2026-03-08T13:00:00.000Z",
+      "description": "During the State of the Union address, President Trump asked Congress to prioritize American citizens over illegal immigrants, resulting in a clear visual contrast between the two parties.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on legislative theater and partisan messaging during a State of the Union address, with no substantive institutional action or policy change affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:17.002Z"
+    },
+    {
+      "id": "69a9faa4a719",
+      "title": "Explosion at US Embassy in Oslo causes minor damage: Police",
+      "url": "https://thehill.com/policy/international/5773615-oslo-us-embassy-explosion/",
+      "source": "The Hill",
+      "published": "2026-03-08T12:12:12.000Z",
+      "description": "A Sunday explosion causing minor damage to the U.S. Embassy in Oslo is being investigated by Norwegian police.   Authorities said they received a report about the explosion at around 1 a.m. local time. “Emergency services have had extensive resources at the scene, but no injuries and only minor material damage have been reported at the…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine security incident at an overseas facility with no connection to U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:18.227Z"
+    },
+    {
+      "id": "38bbbad59ef6",
+      "title": "Will the Senate learn from its mistakes on Trump’s surgeon general nomination?",
+      "url": "https://thehill.com/opinion/congress-blog/5771439-means-trump-nominee-surgeon-general/",
+      "source": "The Hill",
+      "published": "2026-03-08T12:00:00.000Z",
+      "description": "Means’s testimony provides abundant evidence that confirming her as the government’s leading spokesperson on public health would reinforce the administration’s use of conspiracy theories instead of scientific research to set priorities and polices — and make many more Americans sick again.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Senate confirmation of executive branch health leadership involves congressional oversight and judicial/institutional independence concerns, but represents a standard nomination process rather than unprecedented institutional erosion.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-08T18:03:18.650Z"
+    },
+    {
+      "id": "ce396f39178f",
+      "title": "Trump on Iran security chief’s retaliation threats: ‘I couldn’t care less’",
+      "url": "https://thehill.com/homenews/administration/5773592-trump-dismisses-iran-threats/",
+      "source": "The Hill",
+      "published": "2026-03-08T11:53:39.000Z",
+      "description": "President Trump on Saturday evening dismissed one of Tehran’s few surviving leaders’ threats against the U.S as its military campaign in Iran enters its second week. “I have no idea what he’s talking about, who he is. I couldn’t care less,” Trump told CBS News, when asked about Ali Larijani, who has vowed to retaliate…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary on U.S.-Iran relations with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:18.370Z"
+    },
+    {
+      "id": "04721f47a8ae",
+      "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright",
+      "url": "https://www.cnbc.com/2026/03/08/iran-war-energy-prices-wright.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-08T15:46:03.000Z",
+      "description": "Gas prices have spiked in the U.S. as oil has jumped to over $90 since the war began in Iran.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on energy markets and foreign policy with no direct bearing on democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:18.198Z"
+    },
+    {
+      "id": "89ae755c5c1f",
+      "title": "Will Iran Be the Last Straw for Young MAGA Men?",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-iran-last-straw-1235527012/",
+      "source": "Rolling Stone",
+      "published": "2026-03-08T16:03:44.000Z",
+      "description": "President Trump won over young, male voters by promising a stronger economy and an anti-interventionist foreign policy. These voters are losing patience",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary analyzing voter sentiment and political messaging rather than reporting on institutional actions, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:18.314Z"
+    },
+    {
+      "id": "e742aeb02179",
+      "title": "Regime Change Is Never Painless",
+      "url": "https://www.rollingstone.com/politics/political-commentary/regime-change-war-in-iran-1235525900/",
+      "source": "Rolling Stone",
+      "published": "2026-03-08T13:00:00.000Z",
+      "description": "America’s first foray into overthrowing a foreign leader began in Iran and came with long-term and unexpected consequences. Trump’s new war will likely come with a heavy price",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is opinion/commentary drawing historical parallels between past foreign policy and current administration rhetoric, without reporting on specific institutional actions affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T18:03:19.548Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-08T12:04:06.230Z"
+  "lastFetch": "2026-03-08T18:03:19.548Z"
 }
