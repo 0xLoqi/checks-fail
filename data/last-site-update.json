@@ -1,35 +1,92 @@
 {
-  "timestamp": "2026-03-01T20:46:14.785Z",
-  "articleCount": 1,
+  "timestamp": "2026-03-08T12:12:31.311Z",
+  "articleCount": 50,
   "updates": {
     "statusChanges": [],
     "newIncidents": [
       {
-        "date": "Mar 01, 2025",
+        "date": "Mar 03, 2026",
         "severity": "crit",
-        "title": "U.S. launches sustained military campaign against Iran",
-        "description": "CBS News reports U.S. military action against Iran including assassination of foreign leader and ongoing bombing campaign, raising constitutional questions about war powers and congressional authorization. <a href=\"https://www.cbsnews.com/video/war-with-iran-cbs-news-special/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "Trump allies propose invoking emergency powers ahead of midterms",
+        "description": "Allies of President Trump are suggesting he invoke emergency powers to alter voting rules and deploy federal agents at polling locations ahead of the 2026 midterm elections, representing an unprecedented threat to election integrity. <a href=\"https://www.npr.org/2026/03/03/nx-s1-5727839/trumps-allies-suggest-he-invoke-emergency-powers-ahead-of-midterms\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Mar 03, 2026",
+        "severity": "crit",
+        "title": "GOP senators seek $200B tax cut without congressional approval",
+        "description": "Senators Ted Cruz and Tim Scott are asking the Treasury Department to approve a $200 billion tax cut through executive action, bypassing Congress's constitutional authority over taxation and spending. <a href=\"https://thehill.com/homenews/administration/5765607-gop-senators-propose-tax-cut/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Mar 04, 2026",
+        "severity": "warn",
+        "title": "DHS Inspector General reports systematic obstruction by Secretary Noem",
+        "description": "The Department of Homeland Security Inspector General alleges he has been \"systematically obstructed\" by Secretary Kristi Noem, directly threatening institutional oversight mechanisms. <a href=\"https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Mar 07, 2026",
+        "severity": "warn",
+        "title": "Trump conducts military operations from Mar-a-Lago",
+        "description": "President Trump is conducting Iran war operations from his private Mar-a-Lago club rather than secure government facilities, raising serious concerns about classified information handling and chain of command integrity. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Mar 08, 2026",
+        "severity": "warn",
+        "title": "Federal judge rules Kari Lake unlawfully ran Voice of America",
+        "description": "A federal court ruled that political appointee Kari Lake unlawfully violated the constitutional appointments clause while running the Voice of America and voided mass layoffs at the independent media agency. <a href=\"https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newCheckEvents": [
       {
         "check": "Congressional Oversight",
-        "date": "Mar 2025",
-        "text": "Military operations against Iran launched without clear evidence of congressional war powers authorization. <a href=\"https://www.cbsnews.com/video/war-with-iran-cbs-news-special/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "date": "Mar 2026",
+        "text": "GOP senators seek $200B tax cut bypassing Congress via Treasury executive action. <a href=\"https://thehill.com/homenews/administration/5765607-gop-senators-propose-tax-cut/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Congressional Oversight",
+        "date": "Mar 2026",
+        "text": "DHS Inspector General alleges systematic obstruction by Secretary Noem, threatening congressional oversight mechanisms. <a href=\"https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Election Infrastructure",
+        "date": "Mar 2026",
+        "text": "Trump allies propose invoking emergency powers to alter voting rules and deploy federal agents at polls ahead of midterms. <a href=\"https://www.npr.org/2026/03/03/nx-s1-5727839/trumps-allies-suggest-he-invoke-emergency-powers-ahead-of-midterms\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "DOJ Independence",
+        "date": "Mar 2026",
+        "text": "Justice Department intervenes to assist Steve Bannon in dismissing criminal charges. <a href=\"https://thehill.com/opinion/judiciary/5764913-trump-justice-department-bannon/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Intelligence Community",
+        "date": "Mar 2026",
+        "text": "President conducts Iran military operations from unsecured Mar-a-Lago facility rather than secure government situation rooms. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "check": "Press Freedom",
+        "date": "Mar 2026",
+        "text": "Federal court rules Kari Lake unlawfully violated appointments clause while running Voice of America; mass layoffs voided. <a href=\"https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newTickerItems": [
       {
-        "label": "WAR POWERS",
-        "text": "U.S. launches <strong>sustained military campaign against Iran</strong>"
+        "label": "EMERGENCY POWERS",
+        "text": "Trump allies propose <strong>emergency powers</strong> to alter voting rules before midterms"
       },
       {
-        "label": "CONGRESS",
-        "text": "Military action raises <strong>constitutional war powers questions</strong>"
+        "label": "SEPARATION OF POWERS",
+        "text": "GOP senators seek <strong>$200B tax cut</strong> bypassing congressional authority"
+      },
+      {
+        "label": "OVERSIGHT",
+        "text": "DHS Inspector General reports <strong>systematic obstruction</strong> by Secretary Noem"
+      },
+      {
+        "label": "NATIONAL SECURITY",
+        "text": "Trump conducts Iran war operations from <strong>private Mar-a-Lago club</strong>"
       }
     ],
     "statUpdates": [],
     "bannerUpdate": null,
-    "summary": "Added critical incident tracking U.S. military operations against Iran launched March 2025, including assassination and bombing campaign. Updated Congressional Oversight check events to reflect war powers concerns. Added ticker items highlighting the military action and constitutional questions raised."
+    "summary": "March 2026 saw escalating attempts to circumvent constitutional checks and balances, including proposals to invoke emergency powers ahead of midterms, efforts to bypass Congress on a $200B tax cut, systematic obstruction of inspectors general, DOJ intervention in political ally's criminal case, and military operations conducted from an unsecured private facility. A federal court ruled Voice of America was unlawfully run by a political appointee in violation of the appointments clause."
   }
 }
