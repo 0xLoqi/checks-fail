@@ -1089,42 +1089,6 @@
       "scoredAt": "2026-02-09T17:50:16.712Z"
     },
     {
-      "id": "15b8abcf19d4",
-      "title": " Man pardoned in U.S. Capitol riot pleads guilty to threatening Hakeem Jeffries",
-      "url": "https://abcnews.go.com/Politics/wireStory/man-pardoned-us-capitol-riot-pleads-guilty-threatening-129904890",
-      "source": "ABC News",
-      "published": "2026-02-06T03:58:36.000Z",
-      "description": "A New York man has pleaded guilty to a misdemeanor harassment charge in connection with a death threat aimed at U.S. House Minority Leader Hakeem Jeffries",
-      "keywords": [
-        "pardon"
-      ],
-      "significance": 3,
-      "reason": "While the pardon raises concerns about political retribution, this article primarily covers routine criminal prosecution of an individual threat and does not report new institutional actions or policy changes affecting democratic systems.",
-      "categories": [
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:50:20.073Z"
-    },
-    {
-      "id": "eb05545150b9",
-      "title": " Census Bureau plans to use survey with a citizenship question in its test for 2030",
-      "url": "https://abcnews.go.com/Politics/wireStory/census-bureau-plans-survey-citizenship-question-test-2030-129899527",
-      "source": "ABC News",
-      "published": "2026-02-06T00:28:01.000Z",
-      "description": "The U.S. Census Bureau plans to use a survey form with a citizenship question for its 2030 census practice test",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 5,
-      "reason": "The citizenship question in census testing raises concerns about data integrity and potential civil rights impacts, but represents a policy decision within normal bureaucratic processes rather than an unprecedented institutional challenge.",
-      "categories": [
-        "election infrastructure",
-        "immigration & civil rights",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:50:19.630Z"
-    },
-    {
       "id": "fa4db24680de",
       "title": "Homeowners are holding onto their houses for a record-long stretch",
       "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
@@ -45064,8 +45028,140 @@
         "press freedom"
       ],
       "scoredAt": "2026-03-08T00:09:28.650Z"
+    },
+    {
+      "id": "7a213944e047",
+      "title": "Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
+      "source": "NPR Politics",
+      "published": "2026-03-08T02:02:27.000Z",
+      "description": "Trump made the promise in front of an assembled meeting of Latin American leaders.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Statement about foreign policy toward Latin American countries does not directly implicate U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:12.781Z"
+    },
+    {
+      "id": "2180a785502e",
+      "title": "Trump dismisses threats from Iran's security chief: \"I couldn't care less\"",
+      "url": "https://www.cbsnews.com/news/trump-dismisses-threats-from-iran-security-chief/",
+      "source": "CBS News",
+      "published": "2026-03-08T04:33:00.000Z",
+      "description": "In a phone interview with CBS News, President Trump dismissed threats from Iran's top national-security official, who posted on social media that Mr. Trump must \"pay the price\" for the strikes on Iran.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on international relations and presidential rhetoric with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:13.243Z"
+    },
+    {
+      "id": "c2fe0af6c7f6",
+      "title": "U.S. weighs sending special forces to seize Iran's nuclear stockpile",
+      "url": "https://www.axios.com/2026/03/08/iran-ground-troops-special-forces-nuclear",
+      "source": "Axios",
+      "published": "2026-03-08T04:22:30.000Z",
+      "description": "The U.S. and Israel have discussed sending special forces into Iran to secure its stockpile of highly enriched uranium at a later stage of the war, according to four sources with knowledge of the discussions.\nWhy it matters: Preventing Iran from ever obtaining a nuclear weapon is one of President Trump's stated war objectives. The regime's 450 kilograms of 60%-enriched uranium — convertible to weapons grade within weeks — is one key to that goal.\n\nThe big picture: Any operation to seize the mate",
+      "keywords": [
+        "raid",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is foreign policy/military strategy reporting on potential international operations that does not directly implicate domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:12.949Z"
+    },
+    {
+      "id": "67d959a2afa0",
+      "title": "Judge voids layoffs at VOA, rules Kari Lake unlawfully ran US media agency",
+      "url": "https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/",
+      "source": "The Hill",
+      "published": "2026-03-08T03:56:27.000Z",
+      "description": "A federal judge on Saturday voided layoffs at Voice of America (VOA) while also ruling that the U.S. Agency for Global Media’s (USAGM) acting CEO, Kari Lake, unlawfully ran the independent federal agency. U.S. District Court of Washington, D.C., Judge Royce Lamberth wrote that Lake oversaw the media agency in violation of the Constitution’s appointments clause…",
+      "keywords": [
+        "ICE",
+        "ruling",
+        "VOA",
+        "voice of america"
+      ],
+      "significance": 8,
+      "reason": "Federal court ruling that a political appointee unlawfully violated constitutional appointments clause while running an independent media agency directly implicates press freedom, institutional independence, and executive overreach—core democratic checks.",
+      "categories": [
+        "press freedom",
+        "civil service independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-08T06:10:14.556Z"
+    },
+    {
+      "id": "50d2cb12bd00",
+      "title": "Trump rejects UK’s offer to send aircraft carriers to Middle East: ‘We will remember’",
+      "url": "https://thehill.com/policy/international/5773460-trump-rejects-uk-aircraft-carriers/",
+      "source": "The Hill",
+      "published": "2026-03-08T03:17:37.000Z",
+      "description": "President Trump on Saturday rejected the United Kingdom’s reported offer to send two aircraft carriers to the Middle East amid the U.S. conflict with Iran, warning that the U.S. “will remember” — seemingly alluding to the U.K.’s hesitance to get involved in the war. “The United Kingdom, our once Great Ally, maybe the Greatest of…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary involving diplomatic negotiations and presidential statements with no direct implications for domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:14.044Z"
+    },
+    {
+      "id": "3a0bc02d5409",
+      "title": "State of Texas: Trump endorsement could decide Senate runoff between Cornyn and Paxton",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5773384-state-of-texas-trump-endorsement-could-decide-senate-runoff-between-cornyn-and-paxton/",
+      "source": "The Hill",
+      "published": "2026-03-08T03:28:44.000Z",
+      "description": "The race for U.S. Senate in Texas is still evolving after primary night, with a looming endorsement from former President Donald Trump expected to shape the Republican runoff.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of a Senate primary race without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:14.007Z"
+    },
+    {
+      "id": "39bdab20e9ac",
+      "title": "Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5772923-tornadoes-kill-6-people-in-michigan-and-oklahoma-as-powerful-storms-hit-nations-midsection/",
+      "source": "The Hill",
+      "published": "2026-03-08T01:39:10.000Z",
+      "description": "A threat of severe weather across the nation’s midsection continued Saturday, a day after powerful storms whipped up tornadoes that killed four people in southern Michigan and two people in eastern Oklahoma. The National Weather Service said strong thunderstorms and a risk of flash flooding were expected from the Great Lakes to Texas, with a slight risk…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a natural disaster news report with no connection to democratic institutions, checks and balances, or governmental accountability.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:14.010Z"
+    },
+    {
+      "id": "9ed9459ebbf8",
+      "title": "Trump, Hegseth claim Iran bombed girls’ school, not the US",
+      "url": "https://thehill.com/policy/international/5773382-trump-accuses-iran-school-bombing/",
+      "source": "The Hill",
+      "published": "2026-03-08T01:08:09.000Z",
+      "description": "President Trump on Saturday accused Iran of bombing an Iranian girls’ school, while several media outlets reported that the explosions were likely caused by U.S. airstrikes. A reporter asked Trump about the strike while aboard Air Force One, after the president attended the dignified transfer of six U.S. service members killed in Kuwait on March…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine news report about a factual dispute regarding a specific military incident, with no direct impact on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-08T06:10:14.086Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-08T00:09:28.743Z"
+  "lastFetch": "2026-03-08T06:10:14.556Z"
 }
