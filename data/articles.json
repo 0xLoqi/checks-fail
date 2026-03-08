@@ -1841,65 +1841,6 @@
       "scoredAt": "2026-02-09T17:51:09.573Z"
     },
     {
-      "id": "25cdadb4980b",
-      "title": "Sen. Slotkin refuses DOJ interview request over troops video: 'The intimidation is the point'",
-      "url": "https://www.cnbc.com/2026/02/05/slotkin-military-video-bondi-pirro-trump-kelly.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-05T22:37:50.000Z",
-      "description": "Slotkin's lawyer urged U.S. Attorney Jeanine Pirro to retain her records in case the senator files a lawsuit over the probe.",
-      "keywords": [
-        "DOJ"
-      ],
-      "significance": 7,
-      "reason": "Represents a significant institutional challenge involving DOJ independence and potential political retribution, as a sitting senator publicly refuses DOJ questioning and signals litigation over investigative tactics.",
-      "categories": [
-        "DOJ independence",
-        "political retribution",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:10.116Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
-      "id": "23e5f832e9de",
-      "title": "Trump would decide whether to investigate Fed pick Warsh over refusal to cut rates: Bessent",
-      "url": "https://www.cnbc.com/2026/02/05/bessent-trump-investigation-warsh-warren-fed.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-05T19:32:40.000Z",
-      "description": "Treasury Secretary Scott Bessent left the door open to suing Kevin Warsh as Fed chair in testimony to the Senate Banking, Housing and Urban Affairs Committee.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 8,
-      "reason": "A Treasury Secretary suggesting the President could investigate or sue a Federal Reserve chair for policy disagreements directly threatens Fed independence, a core democratic check on executive power.",
-      "categories": [
-        "DOJ independence",
-        "Federal Reserve independence",
-        "political retribution",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:51:10.025Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
-      "id": "5eed1b1b7d1a",
-      "title": "Warren to call for reversal of Trump's UAE chip sales after 'Spy Sheikh' revelations",
-      "url": "https://www.cnbc.com/2026/02/05/warren-trump-chip-sales-spy-sheikh.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-05T18:58:45.000Z",
-      "description": "President Donald Trump made a deal in May to send 500,000 of the most advanced U.S. AI chips to the United Arab Emirates.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "A congressional challenge to an executive arms/trade decision raises oversight concerns, but the issue centers on foreign policy judgment and business dealings rather than direct institutional checks erosion.",
-      "categories": [
-        "congressional oversight",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:51:12.969Z"
-    },
-    {
       "id": "7f61607fa3fa",
       "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
       "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
@@ -1967,21 +1908,6 @@
         "press freedom"
       ],
       "scoredAt": "2026-02-09T17:51:20.122Z"
-    },
-    {
-      "id": "3704d7c4a863",
-      "title": "‘Melania’ Attains Biggest Critic-Audience Disparity in Rotten Tomatoes History",
-      "url": "https://www.rollingstone.com/politics/politics-news/melania-trump-doc-reviews-rotten-tomatoes-1235511549/",
-      "source": "Rolling Stone",
-      "published": "2026-02-05T20:00:00.000Z",
-      "description": "IMDb, meanwhile, has flagged the film for “unusual” voting activity",
-      "keywords": [
-        "voting"
-      ],
-      "significance": 1,
-      "reason": "This article about a film's critical reception has no relevance to U.S. democratic institutions, checks and balances, or governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:23.997Z"
     },
     {
       "id": "eef5e49daeff",
@@ -44795,8 +44721,351 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-07T18:03:11.583Z"
+    },
+    {
+      "id": "39ccc8c16847",
+      "title": "Jan. 6 plaque honoring police officers is now displayed at the Capitol after a 3-year delay",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5741158/january-6-plaque-honoring-police-officers-displayed-us-capitol",
+      "source": "NPR Politics",
+      "published": "2026-03-07T21:29:04.000Z",
+      "description": "Visitors to the Capitol in Washington now have a visible reminder of the siege there on Jan. 6, 2021, and the officers who fought and were injured that day.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is commemorative news about a plaque installation honoring Capitol police, which does not reflect on current democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:24.885Z"
+    },
+    {
+      "id": "f671b18fcf32",
+      "title": "Trump warns Iran 'will be hit very hard' as war enters its second week",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+      "source": "NPR Politics",
+      "published": "2026-03-07T10:00:00.000Z",
+      "description": "Trump warned Saturday that Iran would soon \"be hit very hard,\" adding that the U.S. may expand its target list to \"new areas and groups of people.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Foreign policy rhetoric regarding military action does not directly implicate domestic democratic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:24.843Z"
+    },
+    {
+      "id": "cac1809487a6",
+      "title": "Jan. 6 plaque installed at U.S. Capitol following yearslong delay",
+      "url": "https://www.nbcnews.com/politics/politics-news/january-6-plaque-installed-us-capitol-delay-rcna262236",
+      "source": "NBC News",
+      "published": "2026-03-07T20:16:20.000Z",
+      "description": "Staffers from the office of the Architect of the Capitol on Saturday morning installed a plaque honoring the U.S.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Installation of a commemorative plaque is routine administrative action with no direct impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:24.933Z"
+    },
+    {
+      "id": "0436dcf6f34a",
+      "title": "Two people in custody after 'suspicious devices' found outside NYC mayor's official residence",
+      "url": "https://www.nbcnews.com/news/us-news/gracie-mansion-suspicious-devices-rcna262237",
+      "source": "NBC News",
+      "published": "2026-03-07T19:17:28.000Z",
+      "description": "Two people were taken into custody on Saturday after “suspicious devices” were found outside of Gracie Mansion, the official residence of the mayor of New York City",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A local security incident at a municipal official's residence is routine law enforcement activity with no apparent connection to federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:25.735Z"
+    },
+    {
+      "id": "b850afe55de2",
+      "title": "Plaque honoring Jan. 6 law enforcement installed after years of political disputes",
+      "url": "https://www.cbsnews.com/video/plaque-honoring-jan-6-law-enforcement-installed-years-political-disputes/",
+      "source": "CBS News",
+      "published": "2026-03-07T23:58:00.000Z",
+      "description": "A plaque honoring police and law enforcement who defended the U.S. Capitol on Jan. 6, 2021, has been installed after years of delays.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a ceremonial news item about installing a commemorative plaque with no direct impact on institutional checks and balances or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:25.702Z"
+    },
+    {
+      "id": "5fe78db6ab62",
+      "title": "Trump calls fallen soldiers in Iran conflict \"great heroes,\" but says he will not change strategy",
+      "url": "https://www.cbsnews.com/video/trump-calls-fallen-soldiers-iran-conflict-great-heroes-says-will-not-change-strategy/",
+      "source": "CBS News",
+      "published": "2026-03-07T23:45:00.000Z",
+      "description": "In Dover, Delaware, President Trump attended the dignified transfer for six U.S. service members killed in the conflict with Iran. Nikole Killion has more.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a presidential attendance at a military ceremony with no implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:25.653Z"
+    },
+    {
+      "id": "6b75d74f9607",
+      "title": "U.S. appears to prepare for longer fight in Iran",
+      "url": "https://www.cbsnews.com/video/us-appears-prepare-longer-fight-iran/",
+      "source": "CBS News",
+      "published": "2026-03-07T23:42:00.000Z",
+      "description": "As the U.S. enters its second week of war in Iran, indications show that the military is preparing for a longer fight. Sources tell CBS News that a third aircraft carrier strike group is primed to deploy to the Middle East. Charlie D'Agata reports.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is routine military/foreign policy reporting about troop deployments with no direct connection to domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:25.812Z"
+    },
+    {
+      "id": "6604c7d50d2b",
+      "title": "Trump says he believes bombing of Iranian girls' school was \"done by Iran\"",
+      "url": "https://www.cbsnews.com/news/trump-says-he-believes-bombing-of-iranian-girls-school-was-done-by-iran/",
+      "source": "CBS News",
+      "published": "2026-03-07T23:19:54.000Z",
+      "description": "President Trump on Saturday told reporters, without citing evidence, that he believes a deadly strike on a girls' primary school​ in southern Iran last weekend was \"done by Iran.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on presidential commentary about a foreign event with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:25.767Z"
+    },
+    {
+      "id": "050537db7df2",
+      "title": "Jan. 6 plaque honoring police officers displayed at the Capitol after delay",
+      "url": "https://www.cbsnews.com/news/jan-6-plaque-honoring-police-officers-displayed-us-capitol-3-year-delay/",
+      "source": "CBS News",
+      "published": "2026-03-07T21:01:26.000Z",
+      "description": "Workers installed a plaque honoring police officers in the early morning hours, three years after it was required by law to be erected.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine news reporting on the delayed installation of a memorial plaque honoring law enforcement, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:26.602Z"
+    },
+    {
+      "id": "f95340bef09e",
+      "title": " Jan. 6 plaque honoring police installed at Capitol after 3-year delay",
+      "url": "https://abcnews.com/Politics/wireStory/jan-6-plaque-honoring-police-officers-installed-capitol-130861101",
+      "source": "ABC News",
+      "published": "2026-03-07T20:09:29.000Z",
+      "description": "Capitol visitors now have a visible reminder of the violent attack.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine news reporting on the installation of a commemorative plaque with no direct bearing on institutional checks and balances or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:26.459Z"
+    },
+    {
+      "id": "a1f730b70a7f",
+      "title": "How Ryan Coogler is rewriting Hollywood's ownership playbook",
+      "url": "https://www.axios.com/2026/03/07/sinners-ryan-coogler-hollywood-disruption",
+      "source": "Axios",
+      "published": "2026-03-07T21:00:06.000Z",
+      "description": "\"Sinners\" isn't just a commercial success, it's the latest disruptor to a film industry that covets intellectual property. \nWhy it matters: Director Ryan Coogler, who secured a rare agreement with Warner Bros. that grants him ownership of the film in 2050, could become the first Black person to win Best Director at the Academy Awards, which airs March 15.  \n\nHe made history Sunday as the first person to direct two Actor Awards best ensemble winners for \"Sinners\" and \"Black Panther.\"  \nThe vampir",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns entertainment industry business practices and has no relevance to U.S. democratic institutions, constitutional checks and balances, or governmental accountability.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:26.530Z"
+    },
+    {
+      "id": "51fe39600b67",
+      "title": "Black-owned bookstores reach record numbers, but many still struggle",
+      "url": "https://www.axios.com/2026/03/07/black-owned-bookstores-survival",
+      "source": "Axios",
+      "published": "2026-03-07T19:00:06.000Z",
+      "description": "Just 54 Black-owned bookstores were identified across the U.S a decade ago. Today, a new report counts 306.\nWhy it matters: As public schools and libraries remove books by Black authors — from Beloved to The 1619 Project — Black-owned bookstores are increasingly serving as places where readers can access contested titles and authors' full bodies of work — and gather in community to discuss them.\n\nThe big picture: Though the first State of the Black Bookstore report documented growth, that uptick",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "While the article touches on book accessibility during censorship debates, it is primarily a positive economic/social trend story rather than an article about institutional checks, balances, or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:26.694Z"
+    },
+    {
+      "id": "274f77c58196",
+      "title": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’",
+      "url": "https://thehill.com/homenews/administration/5773315-trump-praises-us-military-iran/",
+      "source": "The Hill",
+      "published": "2026-03-07T23:19:05.000Z",
+      "description": "President Trump on Saturday said attending more dignified transfer proceedings for slain U.S. service members is a “part of war” after attending the dignified transfer of six service members killed in Kuwait following the start of the U.S.-Israeli conflict with Iran. A reporter asked the president while aboard Air Force One if he will attend…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine reporting on presidential comments about attending military ceremonies, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:26.487Z"
+    },
+    {
+      "id": "b2a6c74acfff",
+      "title": "Trump honors fallen service members who died in Kuwait amid Iran conflict",
+      "url": "https://thehill.com/homenews/administration/5773292-trump-dignified-transfer-dover-base/",
+      "source": "The Hill",
+      "published": "2026-03-07T22:43:06.000Z",
+      "description": "President Trump on Saturday honored the six U.S. service members killed by an Iranian retaliatory strike in Kuwait during a dignified transfer event at Dover Air Force Base in Delaware. Trump attended the proceedings for Sgt. 1st Class Nicole Amor of White Bear Lake, Minn.; Capt. Cody Khork of Lakeland, Fla.; Sgt. 1st Class Noah…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine ceremonial news report about presidential attendance at a military dignified transfer event with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:27.771Z"
+    },
+    {
+      "id": "35699b78e74a",
+      "title": "Sunday shows preview: Trump under fire as Iran conflict nears second week",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/5773285-middle-east-conflict-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-07T22:16:00.000Z",
+      "description": "The Trump administration’s launch of joint strikes with Israel on Iran last weekend has put the Middle East on edge as the countries ramp up military operations in the region.  President Trump said during an event with Latin American leaders on Saturday that “tremendous progress has been made” during Operation Epic Fury and that the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers military and foreign policy operations without addressing domestic democratic institutions, checks and balances, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:27.368Z"
+    },
+    {
+      "id": "1a2041d28b75",
+      "title": "Newsom calls on DHS to direct Noem ad campaign funding to Los Angeles fire recovery",
+      "url": "https://thehill.com/homenews/state-watch/5773212-newsom-calls-redirect-noem-ad-funds/",
+      "source": "The Hill",
+      "published": "2026-03-07T21:16:59.000Z",
+      "description": "California Gov. Gavin Newsom (D) on Friday called on the Department of Homeland Security (DHS) to direct the more than $220 million that went to Homeland Security Secretary Kristi Noem’s ad campaign that led to her firing toward the Los Angeles fire recovery. “While Kristi Noem poured $220 million of taxpayer money into a political…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about misuse of federal funds and DHS independence, but involves past misconduct already resulting in personnel change rather than ongoing institutional erosion.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-08T00:09:27.699Z"
+    },
+    {
+      "id": "841ca44ef979",
+      "title": "State Department backs Azerbaijan after ‘unprovoked’ Iranian strike",
+      "url": "https://thehill.com/homenews/administration/5773237-drone-attack-azerbaijan-iran-condemned/",
+      "source": "The Hill",
+      "published": "2026-03-07T21:04:06.000Z",
+      "description": "The State Department on Saturday condemned what it described as an “unprovoked” Iranian drone attack in Azerbaijan that reportedly injured several people, affirming U.S. support for Middle East allies as hostilities grow in the region. “These strikes are flagrant violation of Azerbaijan’s sovereignty and a needless escalation of Iran’s aggression,” Principal Deputy Spokesperson Tommy Pigott…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine foreign policy statement regarding regional conflict with no direct implications for U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:27.536Z"
+    },
+    {
+      "id": "2e30fc1f941f",
+      "title": "What to know about surge in gas, oil prices as Iran turmoil persists",
+      "url": "https://thehill.com/business/5773129-gas-prices-surge-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-07T20:07:45.000Z",
+      "description": "The growing conflict in Iran, spearheaded by U.S. and Israeli strikes followed by retaliatory attacks by Iran on Gulf partners, has resulted in a surge in domestic gas and oil prices. The U.S. national average for a gallon of regular gasoline jumped 14 percent since last week to $3.41 as of Saturday, according to data…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic news reporting on commodity price fluctuations resulting from geopolitical events, with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:27.563Z"
+    },
+    {
+      "id": "f809e7079ab3",
+      "title": "Most Americans oppose ongoing US military action in Iran: Survey",
+      "url": "https://thehill.com/homenews/administration/5773178-americans-oppose-iran-military-action/",
+      "source": "The Hill",
+      "published": "2026-03-07T19:54:30.000Z",
+      "description": "A majority of Americans are opposed to ongoing U.S. military action in Iran even as President Trump forcefully vows to press on with the operation until the Iranian regime surrenders, according to a new NPR/PBS News/Marist poll. The poll, released Friday, found that 56 percent of Americans opposed or strongly opposed military action in the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a polling report on public opinion regarding military policy, which reflects democratic input but does not directly involve institutional checks, balances, or erosion of democratic mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:28.650Z"
+    },
+    {
+      "id": "18fdce4f64b1",
+      "title": "Iran’s foreign minister: If Trump ‘seeks escalation’ that’s ‘what he will get’",
+      "url": "https://thehill.com/policy/international/5773071-iran-foreign-minister-donald-trump-conflict-escalation/",
+      "source": "The Hill",
+      "published": "2026-03-07T18:57:17.000Z",
+      "description": "Iranian Foreign Minister Abbas Araghchi on Saturday reupped his warning about retaliation against the U.S. as conflict in the Middle East persists after last week’s strikes. “If [President Trump] seeks escalation, it is precisely what our Powerful Armed Forces have long been prepared for, and what he will get,” Aragchi said in a statement shared…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign policy statement from an Iranian official with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-08T00:09:28.516Z"
+    },
+    {
+      "id": "5a0f0f580624",
+      "title": "EPA’s actions on forever chemicals will leave Americans sicker, not safer",
+      "url": "https://thehill.com/opinion/energy-environment/5771748-weakening-pfas-protections-health-risks/",
+      "source": "The Hill",
+      "published": "2026-03-07T18:00:00.000Z",
+      "description": "Despite its rhetoric, the agency is not making America healthy again; it is making preventable harm inevitable.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is an opinion piece criticizing EPA policy decisions on chemical regulation, lacking reporting on institutional checks, oversight actions, or democratic process violations.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-08T00:09:28.743Z"
+    },
+    {
+      "id": "544e1d8c5d02",
+      "title": "Tapper blasts Trump administration for depicting Iran conflict ‘like a game’",
+      "url": "https://thehill.com/homenews/media/5773009-jake-tapper-donald-trump-iran-war-rhetoric/",
+      "source": "The Hill",
+      "published": "2026-03-07T17:56:16.000Z",
+      "description": "CNN anchor Jake Tapper blasted the Trump administration on Friday for depicting the ongoing conflict in Iran “like a game” after the White House released clips on social media mixing footage of what appeared to be U.S. military strikes with clips from video games and Hollywood productions. “Well, the last day or so, the White…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary on the tone and messaging of administration communications rather than reporting on institutional actions affecting democratic checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-08T00:09:28.650Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-07T18:03:11.583Z"
+  "lastFetch": "2026-03-08T00:09:28.743Z"
 }
