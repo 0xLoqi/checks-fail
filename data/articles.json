@@ -982,23 +982,6 @@
       "scoredAt": "2026-02-09T17:50:27.272Z"
     },
     {
-      "id": "264628334183",
-      "title": "Zelensky says Trump wants Russia-Ukraine peace deal by June, before midterms focus",
-      "url": "https://www.axios.com/2026/02/07/zelensky-trump-russia-ukraine-peace-deal",
-      "source": "Axios",
-      "published": "2026-02-07T15:50:06.000Z",
-      "description": "The U.S. wants Russia and Ukraine to sign a peace deal that ends the war by June, before President Trump pivots to focusing his energy on the midterm elections, Ukrainian President Volodymyr Zelensky told reporters.\nWhy it matters: The U.S. timeline Zelensky laid out is pretty ambitious, both because there are still significant gaps between Russia and Ukraine and because Ukraine will have to hold a referendum on the peace deal before it is signed — a process that can take several months.\n\n\"We ha",
-      "keywords": [
-        "election",
-        "midterm",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "This is routine foreign policy reporting about diplomatic timelines with no direct implications for U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:27.690Z"
-    },
-    {
       "id": "1b7140d2710f",
       "title": "Operation Metro Surge is eroding global trust in the US",
       "url": "https://thehill.com/opinion/white-house/5728835-us-global-leader-domestic-crisis/",
@@ -46056,8 +46039,592 @@
       "reason": "This article addresses foreign policy and energy market concerns but does not directly implicate U.S. democratic institutions, constitutional checks and balances, or the integrity of governmental oversight mechanisms.",
       "categories": [],
       "scoredAt": "2026-03-09T12:07:14.493Z"
+    },
+    {
+      "id": "3050eed773d5",
+      "title": "Anthropic sues the Trump administration over 'supply chain risk' label",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
+      "source": "NPR Politics",
+      "published": "2026-03-09T17:30:59.000Z",
+      "description": "The Pentagon told suppliers they can't use Anthropic's artificial intelligence tools after the company said it would not let its tech be used for autonomous weapons and mass domestic surveillance.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable corporate-government clash over AI policy and procurement authority, but lacks the institutional or precedential weight to constitute significant democratic erosion.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-09T18:13:06.454Z"
+    },
+    {
+      "id": "84ad240ae26f",
+      "title": "Trump is using immigration policy to suppress speech, lawsuit claims",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
+      "source": "NPR Politics",
+      "published": "2026-03-09T15:35:06.000Z",
+      "description": "A new lawsuit accuses the administration of violating the First Amendment by threatening the visas of researchers for work on disinformation and content moderation of social media.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Represents a significant institutional challenge involving potential weaponization of immigration policy to suppress protected speech and academic research, directly threatening multiple democratic safeguards.",
+      "categories": [
+        "press_freedom",
+        "immigration_civil_rights",
+        "political_retribution",
+        "civil_service_independence"
+      ],
+      "scoredAt": "2026-03-09T18:13:06.327Z"
+    },
+    {
+      "id": "9bfcee21b685",
+      "title": "Trump's 'roaring economy' meets a rough start to 2026 with job losses, rising gas prices and uncertainty",
+      "url": "https://www.pbs.org/newshour/politics/trumps-roaring-economy-meets-a-rough-start-to-2026-with-job-losses-rising-gas-prices-and-uncertainty",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T17:22:05.000Z",
+      "description": "Donald Trump promised that 2026 would be a bumper year for economic growth. Instead it's kicked off with job losses, rising gasoline prices and more uncertainty about America's future.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is economic reporting on policy outcomes and market conditions, not coverage of threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:06.026Z"
+    },
+    {
+      "id": "76335526ac31",
+      "title": "Anthropic sues in federal court to reverse Trump administration's 'supply chain risk' designation",
+      "url": "https://www.pbs.org/newshour/nation/anthropic-sues-in-federal-court-to-reverse-trump-administrations-supply-chain-risk-designation",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T16:18:23.000Z",
+      "description": "The Pentagon last week formally designated San Francisco tech company a supply chain risk after an unusually public dispute over how its AI chatbot Claude could be used in warfare.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the case raises important questions about executive power and judicial review of national security determinations, it primarily involves a commercial dispute rather than direct institutional threats to democratic checks and balances.",
+      "categories": [
+        "judicial independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-09T18:13:06.345Z"
+    },
+    {
+      "id": "baa836620a86",
+      "title": "Oil prices soar to levels not seen in years as war in Iran intensifies",
+      "url": "https://www.pbs.org/newshour/economy/oil-prices-soar-to-levels-not-seen-in-years-as-war-in-iran-intensifies",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T13:19:44.000Z",
+      "description": "Supply concerns have driven crude and gasoline higher prices as the war ensnares major oil-producing countries and hinders exports from the Persian Gulf.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on international geopolitical and commodity market events with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:06.351Z"
+    },
+    {
+      "id": "faa8d4414ed6",
+      "title": "Trump says it's 'too soon' to talk about seizing Iran's oil — but doesn't rule it out",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-seizing-iran-oil-rcna262437",
+      "source": "NBC News",
+      "published": "2026-03-09T17:16:21.000Z",
+      "description": "In a phone call with NBC News on Monday, Trump weighed in on Iran's new leader, the Texas Senate race and his push to get the SAVE America Act through Congress.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Trump's speculative comments about potential future foreign policy regarding Iran's oil reserves do not constitute an institutional action or policy change affecting domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:08.428Z"
+    },
+    {
+      "id": "a7cb309f6ea3",
+      "title": "Anthropic sues Trump administration amid AI dispute with Pentagon",
+      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-sues-trump-administration-ai-dispute-pentagon-rcna262444",
+      "source": "NBC News",
+      "published": "2026-03-09T15:57:12.000Z",
+      "description": "Anthropic sued the Defense Department and other federal agencies after the Pentagon announced last week it would label the leading AI company as a threat to national security and ban the use of its products for defense purposes.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is a standard legal dispute between a private company and federal agencies involving contract/procurement matters, lacking evidence of systemic democratic checks and balances erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:07.422Z"
+    },
+    {
+      "id": "82f9a854f78e",
+      "title": "Iran war elevates Marco Rubio in Trump's 2028 succession jockeying",
+      "url": "https://www.nbcnews.com/politics/2028-election/iran-marco-rubio-trump-2028-succession-jd-vance-rcna261794",
+      "source": "NBC News",
+      "published": "2026-03-09T15:31:53.000Z",
+      "description": "Trump has been informally polling his circle of friends and advisers about the 2028 election that could pit some of his top administration officials against one another.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers internal Trump administration political positioning and succession planning, which is routine political news without direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:07.423Z"
+    },
+    {
+      "id": "2aacf8055484",
+      "title": "Explosives thrown near NYC mayor's home being investigated as 'ISIS-inspired' terrorism, officials say",
+      "url": "https://www.nbcnews.com/news/us-news/explosive-thrown-nyc-mayors-home-investigated-isis-inspired-terrorism-rcna262412",
+      "source": "NBC News",
+      "published": "2026-03-09T14:07:26.000Z",
+      "description": "The improvised explosive devices thrown near New York City Mayor Zohran Mamdani’s residence during weekend protests are being investigated as part of an act of \"ISIS-inspired terrorism,\" the city’s police commissioner said Monday",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal/law enforcement matter involving alleged terrorism that does not directly implicate systemic democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:09.217Z"
+    },
+    {
+      "id": "035d87d1cdf1",
+      "title": "3/9: Face the Nation",
+      "url": "https://www.cbsnews.com/video/39-face-the-nation/",
+      "source": "CBS News",
+      "published": "2026-03-09T18:01:15.000Z",
+      "description": "This week on \"Face the Nation with Margaret Brennan,\" after a whiplash week of on-again, off-again tariff announcements, Canadian ambassador to the U.S. Kirsten Hillman joins to discuss the costs and consequences of a trade war. Plus, former White House Russia expert Fiona Hill discusses President Trump's diplomatic pivot on Ukraine.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news summary of a talk show episode covering trade policy and foreign diplomacy without addressing institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:09.399Z"
+    },
+    {
+      "id": "067bfb2f824c",
+      "title": "Anthropic sues Trump administration over \"supply chain risk\" order",
+      "url": "https://www.cbsnews.com/news/anthropic-pentagon-supply-chain-risk-lawsuit/",
+      "source": "CBS News",
+      "published": "2026-03-09T17:17:29.000Z",
+      "description": "Anthropic sued the Defense Department and other federal agencies on Monday over the government's move to designate it a risk to the supply chain.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A corporate legal challenge to executive branch designations raises questions about government overreach but represents a routine judicial dispute rather than a systemic threat to democratic checks and balances.",
+      "categories": [
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T18:13:09.337Z"
+    },
+    {
+      "id": "b550ddf8ad4b",
+      "title": "Live Nation to open Ticketmaster to other sellers in U.S. antitrust deal",
+      "url": "https://www.cbsnews.com/news/live-nation-ticket-master-doj-case-antitrust/",
+      "source": "CBS News",
+      "published": "2026-03-09T16:58:07.000Z",
+      "description": "Live Nation, the parent company of Ticketmaster, has reached a deal with the Department of Justice as part of a high-stakes antitrust trial.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine antitrust enforcement action involving a private commercial dispute with no direct bearing on democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:09.327Z"
+    },
+    {
+      "id": "de5f197e6f6e",
+      "title": "Face the Nation: Fitzpatrick, Suozzi, Hill",
+      "url": "https://www.cbsnews.com/video/face-the-nation-fitzpatrick-suozzi-hill/",
+      "source": "CBS News",
+      "published": "2026-03-09T15:00:13.000Z",
+      "description": "Missed the second half of the show? The latest on...Democratic Rep. Tom Suozzi, who is one of the bipartisan co-chairs of the House Problem Solvers Caucus, tells \"Face the Nation with Margaret Brennan\" that he will be voting against the continuing resolution to avoid a shutdown because there has been \"no outreach on a bipartisan basis.\" His GOP counterpart, Rep. Brian Fitzpatrick of Pennsylvania, says he is undecided, and it \"remains to be seen\" if his party has the votes, and Fiona Hill, who se",
+      "keywords": [
+        "voting",
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news coverage of congressional statements about a continuing resolution, with no indication of institutional erosion or democratic checks being compromised.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-09T18:13:10.502Z"
+    },
+    {
+      "id": "ed924f0241a5",
+      "title": "Trump says he's \"not happy\" about Iran's new supreme leader",
+      "url": "https://www.cbsnews.com/news/trump-not-happy-iran-new-supreme-leader-mojtaba-khamenei/",
+      "source": "CBS News",
+      "published": "2026-03-09T14:08:00.000Z",
+      "description": "Mojtaba Khamenei was named Iran's new supreme leader following the death of his father in the U.S.-Israeli strikes.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy commentary with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:10.173Z"
+    },
+    {
+      "id": "89aed36ea0bc",
+      "title": "Lebanon asks U.S. for direct peace talks with Israel to end fighting",
+      "url": "https://www.axios.com/2026/03/09/lebanon-israel-hezbollah-peace-talks",
+      "source": "Axios",
+      "published": "2026-03-09T17:44:01.000Z",
+      "description": "The Lebanese government proposed direct negotiations with Israel — through the Trump administration — aimed at ending the war and reaching a peace agreement, according to five sources with knowledge of the matter.\n\nBoth the U.S. and Israeli responses were cool and deeply skeptical, the sources said.\n\nWhy it matters: Lebanon's government is extremely alarmed that the renewed war, triggered by Hezbollah's decision to launch rockets at Israel, will devastate the country.\n\nSo far, the Lebanese army ",
+      "keywords": [
+        "deportation",
+        "speaker",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy news about international negotiations with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:10.249Z"
+    },
+    {
+      "id": "46f258bbdd24",
+      "title": "Republican Rep. Kiley leaves GOP, tightening Johnson's margins",
+      "url": "https://www.axios.com/2026/03/09/republican-kiley-gop-indepedent-mike-johnson",
+      "source": "Axios",
+      "published": "2026-03-09T17:42:15.000Z",
+      "description": "Rep. Kevin Kiley (Calif.) announced Monday that his decision to leave the Republican Party and register as an Independent will take effect immediately. \nWhy it matters: House Speaker Mike Johnson's (R-La.) two-vote majority just got even smaller.\n\nKiley said he will still caucus with Republicans for \"administrative purposes\" but noted that he's been a less-than-reliable vote for Johnson even as a Republican. \nThe California Republican did not give leadership a heads-up before announcing Friday t",
+      "keywords": [
+        "johnson",
+        "speaker",
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "A single party defection affects legislative mechanics and Speaker leverage but does not constitute an institutional erosion of checks and balances or democratic norms.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-09T18:13:10.591Z"
+    },
+    {
+      "id": "5e02a783b2f5",
+      "title": "Anthropic sues Pentagon over rare \"supply chain risk\" label",
+      "url": "https://www.axios.com/2026/03/09/anthropic-sues-pentagon-supply-chain-risk-label",
+      "source": "Axios",
+      "published": "2026-03-09T15:25:41.000Z",
+      "description": "Anthropic on Monday sued the Pentagon, alleging its designation as a \"supply chain risk\" violates the company's First Amendment rights and exceeds the government's authority.\nWhy it matters: Supply chain risk designations are usually reserved for foreign adversaries that pose a national security risk — a punishment that could be hard for the government to square as it relied on Claude for operations in Iran.\n\nState of play: The Pentagon last week designated Anthropic a supply chain risk, meaning",
+      "keywords": [
+        "judicial",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine commercial dispute between a private company and the Pentagon over regulatory classification, with no direct bearing on core democratic checks and balances or government institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:10.269Z"
+    },
+    {
+      "id": "1cf1245c2e44",
+      "title": "CBS justice correspondent leaving network: ‘I look forward to some independence’",
+      "url": "https://thehill.com/homenews/media/5775227-cbs-news-journalist-departure/",
+      "source": "The Hill",
+      "published": "2026-03-09T17:30:27.000Z",
+      "description": "Journalist Scott MacFarlane is leaving CBS News, the latest in a string of high-profile departures at the broadcaster since its parent company Paramount Skydance was bought last year by Larry and David Ellison. MacFarlane, who made a name for himself covering the Justice Department and issues relating to the Jan. 6, 2021, attack on the…",
+      "keywords": [
+        "ICE",
+        "journalist",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine personnel news about a journalist departure that does not directly demonstrate institutional erosion of democratic checks and balances, though it touches on press freedom concerns.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-09T18:13:11.489Z"
+    },
+    {
+      "id": "e56d1efae2c5",
+      "title": "NPS announces return of Mount Rushmore July 4th fireworks",
+      "url": "https://thehill.com/policy/energy-environment/5775165-mount-rushmore-fireworks-return/",
+      "source": "The Hill",
+      "published": "2026-03-09T17:15:37.000Z",
+      "description": "The National Park Service (NPS) on Monday announced the return of fireworks at Mount Rushmore to celebrate Independence Day. In a press release, the NPS said fireworks will be launched over Mount Rushmore on July 3, adding later that “the return of fireworks to this iconic national memorial reflects President Donald J. Trump’s vision of…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "Routine announcement about a national park event with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:11.421Z"
+    },
+    {
+      "id": "01b82122c817",
+      "title": "The systematic destruction of American institutional trust, by the numbers",
+      "url": "https://thehill.com/opinion/white-house/5774446-polarization-growing-us-society/",
+      "source": "The Hill",
+      "published": "2026-03-09T17:00:00.000Z",
+      "description": "Despite decades of survey data showing that Americans are managing their personal lives, national wellbeing is declining due to decreasing satisfaction with democracy, institutional confidence, and increasing affective polarization.",
+      "keywords": [
+        "democracy"
+      ],
+      "significance": 5,
+      "reason": "The article provides important diagnostic data about institutional trust erosion but lacks specific analysis of particular checks and balances mechanisms or concrete policy changes.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence",
+        "civil service independence"
+      ],
+      "scoredAt": "2026-03-09T18:13:11.433Z"
+    },
+    {
+      "id": "49424f8b77c3",
+      "title": "Live updates: Trump will hold press conference after addressing House GOP in Miami",
+      "url": "https://thehill.com/homenews/administration/5773698-trump-house-republicans-miami/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:55:32.000Z",
+      "description": "President Trump will hold a press conference Monday evening, after addressing the House Republican caucus in Miami. It follows a weekend of developments in the war against Iran. Oil prices surged overnight Monday, settling near $100 a barrel as the conflict shows no signs of slowing down. Energy Secretary Chris Wright on Sunday downplayed concerns about the…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a scheduled presidential press conference and political event with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:11.534Z"
+    },
+    {
+      "id": "056b979fe56e",
+      "title": "Democrats eye extending foreign bribery statute of limitations",
+      "url": "https://thehill.com/homenews/senate/5775069-foreign-corrupt-practices-act-statute-limitations-democrats/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:38:12.000Z",
+      "description": "A group of Democratic senators led by Sen. Elizabeth Warren (D-Mass.) have introduced a new bill to strengthen enforcement of the Foreign Corrupt Practices Act by extending the 1977 law’s statute of limitations in response to the Trump administration’s effort to narrow enforcement of it. The intent of the bill is to warn U.S. companies…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While legislative proposals to strengthen anti-corruption enforcement are notable, this represents routine legislative activity without evidence of institutional action or erosion of democratic checks.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-09T18:13:11.462Z"
+    },
+    {
+      "id": "64b0356015ac",
+      "title": "Trump job approval sinks in new poll",
+      "url": "https://thehill.com/homenews/administration/5775061-trump-approval-rating-falls/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:19:56.000Z",
+      "description": "President Trump’s job approval has dipped by 3 points since March 2025 among registered voters, according to a new poll. In the NBC News poll, 44 percent of respondents said they either “strongly” or “somewhat” backed Trump’s job performance, down from 47 percent in March 2025. Fifty-four percent of poll respondents said they were “strongly”…",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine polling data reporting on presidential approval ratings with no direct connection to institutional checks and balances, democratic mechanisms, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:12.701Z"
+    },
+    {
+      "id": "23c216d962c2",
+      "title": "Anthropic sues Trump administration over supply chain risk designation",
+      "url": "https://thehill.com/policy/technology/5775049-anthropic-sues-trump-administration/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:07:49.000Z",
+      "description": "Artificial intelligence company Anthropic filed a lawsuit against the Trump administration Monday challenging the Pentagon’s decision to label the company and its products as a “supply chain risk” after negotiations over safety guardrails fell apart earlier this month.   The suit, filed in federal court in California on Monday, argues the designation and President Trump’s order for all federal agencies to cease the use of Anthropic are “unprecedented and unlawful.”   The…",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine business litigation matter between a private company and the executive branch over regulatory designation, lacking systemic implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:12.556Z"
+    },
+    {
+      "id": "113cdb1d3d19",
+      "title": "Live Nation settles antitrust case with DOJ",
+      "url": "https://thehill.com/business/5774955-live-nation-doj-antitrust-settlement/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:04:48.000Z",
+      "description": "Live Nation, the parent company of Ticketmaster, has reached a settlement with the Department of Justice (DOJ) to resolve alleged antitrust violations, the agency announced Monday. The proposed agreement, which comes one week into trial, would require Live Nation to pay $280 million in civil penalties to the states involved in the case, a senior…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine antitrust settlement with no direct implications for democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:12.365Z"
+    },
+    {
+      "id": "e64f17757fd8",
+      "title": "Trump ‘not happy’ with new Iran supreme leader",
+      "url": "https://thehill.com/homenews/administration/5774953-trump-unhappy-iran-leader/",
+      "source": "The Hill",
+      "published": "2026-03-09T16:01:09.000Z",
+      "description": "President Trump on Sunday said he was “not happy” with Iran’s new supreme leader, Ayatollah Mojtaba Khamenei. Khamenei, the son of Ayatollah Ali Khamenei, was selected by a group of 88 Iranian clerics known as the Assembly of Experts on Sunday. His father and wife were killed in U.S. and Israeli strikes on Tehran last…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine foreign policy commentary on Trump's reaction to Iranian leadership changes, with no bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:12.430Z"
+    },
+    {
+      "id": "dee38d78ae62",
+      "title": "Most disapprove of Trump handling of Iran: Survey",
+      "url": "https://thehill.com/polls/5775030-trump-iran-foreign-policy/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:58:59.000Z",
+      "description": "The Trump administration is ramping up military operations against Iran amid low levels of support from Americans, according to recent polling data.  A new NBC News survey, which began collecting responses a day before the U.S. launched joint strikes with Israel on Iran, found that 54 percent of respondents disapproved of President Trump’s handling of…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine polling article about public opinion on foreign policy that does not directly implicate any of the 12 democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:12.332Z"
+    },
+    {
+      "id": "c4fbeec18914",
+      "title": "Trump: US will give Iran women’s soccer team asylum if Australia won’t",
+      "url": "https://thehill.com/homenews/media/5774997-iran-women-soccer-team-asylum/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:49:04.000Z",
+      "description": "President Trump is vowing to protect members of the Iranian national women’s soccer team who participated in a silent protest of their country’s regime during a recent international match as the United States and Israel conduct military operations there. “Australia is making a terrible humanitarian mistake by allowing the Iran National Woman’s Soccer team to…",
+      "keywords": [
+        "trump",
+        "asylum"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news item about a presidential statement on immigration policy regarding a specific sports team, lacking institutional, procedural, or systemic implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:14.084Z"
+    },
+    {
+      "id": "8486ef40f367",
+      "title": "Greene rips Leavitt’s Iran remarks: ‘Doesn’t rule out a draft’",
+      "url": "https://thehill.com/homenews/administration/5774908-greene-leavitt-iran-draft/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:34:31.000Z",
+      "description": "Former Rep. Marjorie Taylor Greene (R-Ga.) on Sunday slammed White House press secretary Karoline Leavitt for not ruling out the possibility of a military draft over the war in Iran. “Karoline Leavitt doesn’t rule out a draft. How about the answer is NO DRAFT AND NO BOOTS ON THE GROUND because we campaigned on NO…",
+      "keywords": [
+        "white house",
+        "ruling"
+      ],
+      "significance": 2,
+      "reason": "This is routine partisan political commentary about a hypothetical policy position, not an institutional action or structural threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:13.490Z"
+    },
+    {
+      "id": "5afe789f506d",
+      "title": "Trump’s attack on Iran widens the gap between him and the Catholic Church",
+      "url": "https://thehill.com/opinion/white-house/5772084-catholic-church-trump-division/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:30:00.000Z",
+      "description": "The seeds of division between the Trump administration and the Catholic Church were planted early in Trump’s second term.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses theological and political disagreement between Trump and the Catholic Church regarding Iran policy, which does not directly implicate democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:13.669Z"
+    },
+    {
+      "id": "f478e274bf99",
+      "title": "Trump: Oil tanker crews must ‘show some guts,’ sail through Straight of Hormuz",
+      "url": "https://thehill.com/business/5774913-donald-trump-oil-tankers-strait-hormuz/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:26:37.000Z",
+      "description": "President Trump is pushing oil tanker crews to “show some guts” and sail through the Strait of Hormuz. “These ships should go through the Strait of Hormuz and show some guts, there’s nothing to be afraid of. … They have no Navy, we sunk all their ships,” Trump said, according to Fox News’s Brian Kilmeade,…",
+      "keywords": [
+        "raid",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine statement about foreign policy and military posture toward Iran that does not directly implicate U.S. democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:13.556Z"
+    },
+    {
+      "id": "d629436f9908",
+      "title": "Top OpenAI executive departs post over Pentagon deal",
+      "url": "https://thehill.com/policy/technology/5774970-openai-pentagon-caitlin-kalinowski/",
+      "source": "The Hill",
+      "published": "2026-03-09T15:24:23.000Z",
+      "description": "A hardware leader at OpenAI has left the AI firm in the wake of the company’s recent partnership with the Pentagon, citing concerns over surveillance and autonomous weapons. Caitlin Kalinowski, who was a member of OpenAI’s technical staff overseeing hardware, announced Friday that “principle, not people” led to the decision. “This wasn’t an easy call. AI has an important…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a corporate personnel decision at a private company with no direct impact on government institutions, constitutional processes, or democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:14.110Z"
+    },
+    {
+      "id": "a8750a144bc2",
+      "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T17:32:44.000Z",
+      "description": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a foreign policy/geopolitical news item with no direct relevance to U.S. domestic democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:15.409Z"
+    },
+    {
+      "id": "213946ddcbb4",
+      "title": "Seventh U.S. service member killed in Iran war ID'd as Sgt. Benjamin Pennington",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-service-deaths-army-sgt-benjamin-pennington.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T16:48:07.000Z",
+      "description": "Pennington, 26, from Glendale, Kentucky, was wounded on March 1 during an Iranian strike at Prince Sultan Air Base in Saudi Arabia. He died on Sunday.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a tragic but routine news report about a military casualty with no direct connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:15.220Z"
+    },
+    {
+      "id": "eabbcbf2f9a1",
+      "title": "GOP Whip Tom Emmer predicts oil prices will drop after Iran war",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-oil-prices-congress.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T13:49:52.000Z",
+      "description": "Oil prices spiked amid the ongoing U.S.-Israel war with Iran, stoking affordability fears ahead of the November midterm elections.",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "A political prediction about commodity prices related to foreign policy is routine campaign commentary without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T18:13:15.319Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-09T12:07:14.493Z"
+  "lastFetch": "2026-03-09T18:13:15.409Z"
 }
