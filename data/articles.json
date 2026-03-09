@@ -240,76 +240,6 @@
       "scoredAt": "2026-02-09T17:49:41.999Z"
     },
     {
-      "id": "ea261569349c",
-      "title": "News Wrap: Trump's racist social media post about the Obamas draws backlash",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-trumps-racist-social-media-post-about-the-obamas-draws-backlash",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T23:50:51.000Z",
-      "description": "In our news wrap Friday, the White House defended and then removed a racist depiction of the Obamas from Trump's social media, the U.S. arrested a key suspect in the 2012 Benghazi attack, a bomb blast killed Shiite worshippers at a mosque in Pakistan's capital, authorities are investigating the authenticity of a \"new message\" about Nancy Guthrie, and Hall of Fame quarterback Sonny Jurgensen died.",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "While the post reflects concerning rhetoric, the story documents routine social media controversy and White House response rather than institutional action that affects democratic checks and balances.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:42.424Z"
-    },
-    {
-      "id": "ac54e212ef32",
-      "title": "Atkins Stohr and Parker on political fallout from Trump's call to 'nationalize' elections",
-      "url": "https://www.pbs.org/newshour/show/atkins-stohr-and-parker-on-political-fallout-from-trumps-call-to-nationalize-elections",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T23:25:54.000Z",
-      "description": "Kimberly Atkins Stohr of The Boston Globe and Kathleen Parker of The Washington Post join Geoff Bennett to discuss the week in politics, including the fallout from President Trump's call to \"nationalize\" elections and his immigration crackdown.",
-      "keywords": [
-        "election",
-        "immigration",
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "Trump's call to nationalize elections represents a notable but not yet implemented threat to election infrastructure and congressional oversight, discussed through expert analysis rather than reporting on an institutional action or policy change.",
-      "categories": [
-        "election_infrastructure",
-        "congressional_oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:43.541Z"
-    },
-    {
-      "id": "fbee58b78f45",
-      "title": "Trump ends Obama-era restrictions on commercial fishing in protected area off New England",
-      "url": "https://www.pbs.org/newshour/nation/trump-ends-obama-era-restrictions-on-commercial-fishing-in-protected-area-off-new-england",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T23:08:51.000Z",
-      "description": "Trump's proclamation is his latest move to try to strengthen U.S. fishing while rolling back existing conservation measures",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine regulatory policy change affecting environmental and commercial interests, with no direct bearing on democratic checks and balances or institutional independence.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:44.768Z"
-    },
-    {
-      "id": "b89be8983435",
-      "title": "Bitcoin price drops below pre-Trump second term levels, now hovering below $67,000",
-      "url": "https://www.pbs.org/newshour/economy/bitcoin-price-drops-below-pre-trump-second-term-levels-now-hovering-below-67000",
-      "source": "PBS NewsHour",
-      "published": "2026-02-06T18:08:06.000Z",
-      "description": "The sell-off is driven by investors pulling out of speculative assets and concerns about future cryptocurrency regulation.",
-      "keywords": [
-        "ICE",
-        "trump",
-        "crypto"
-      ],
-      "significance": 1,
-      "reason": "Cryptocurrency market volatility is routine financial news with no direct bearing on democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:43.191Z"
-    },
-    {
       "id": "bc54fcc23fc9",
       "title": "",
       "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
@@ -1241,45 +1171,6 @@
       "scoredAt": "2026-02-09T17:50:29.821Z"
     },
     {
-      "id": "401eba9613c2",
-      "title": "The left smells blood after shocking Democratic primary result",
-      "url": "https://www.axios.com/2026/02/06/new-jersey-mejia-election-primary-democrats-left",
-      "source": "Axios",
-      "published": "2026-02-06T23:15:28.000Z",
-      "description": "Progressives are feeling newly emboldened by the stronger-than-expected showing of the left-wing outsider in a New Jersey congressional primary on Thursday.\nWhy it matters: There are dozens of House races like this across the country where at least one left-wing insurgent is vying either to win an open seat or topple an establishment House Democratic incumbent.\n\n\"This is a clear sign that the Democratic electorate is desperate to elect new leaders — like the dozen of working class champions we'r",
-      "keywords": [
-        "election",
-        "voter",
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article reports on routine primary election dynamics and intra-party political positioning with no direct impact on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:29.311Z"
-    },
-    {
-      "id": "b0e335dd3919",
-      "title": "Members of Congress will have access to unredacted Epstein files",
-      "url": "https://www.axios.com/2026/02/06/epstein-files-congress-unredacted-doj-raskin",
-      "source": "Axios",
-      "published": "2026-02-06T23:14:13.000Z",
-      "description": "The Justice Department will let members of Congress view unredacted copies of the more than 3 million documents related to Jeffrey Epstein that have been publicly released, according to a letter obtained by Axios. \nWhy it matters: Democrats have argued that the DOJ is skirting its statutory requirements under the Epstein Transparency Act by withholding millions of documents and heavily redacting some of the files they did release.\n\nHouse Judiciary Committee ranking member Jamie Raskin (D-Md.) se",
-      "keywords": [
-        "DOJ",
-        "department of justice",
-        "attorney general",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Congressional access to unredacted documents represents a notable assertion of legislative oversight authority, but the DOJ's discretionary compliance rather than a forced institutional change limits its significance.",
-      "categories": [
-        "congressional oversight",
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-09T17:50:36.525Z"
-    },
-    {
       "id": "1b7140d2710f",
       "title": "Operation Metro Surge is eroding global trust in the US",
       "url": "https://thehill.com/opinion/white-house/5728835-us-global-leader-domestic-crisis/",
@@ -1585,27 +1476,6 @@
       "scoredAt": "2026-02-09T17:51:07.864Z"
     },
     {
-      "id": "028de14861f4",
-      "title": "SAVE Act voter ID bill is on the minds of Trump and Congress: What to know",
-      "url": "https://www.cnbc.com/2026/02/06/save-act-trump-congress-elections-voting.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-06T21:11:44.000Z",
-      "description": "A bill that would make it harder to vote in federal elections is a Republican focus this week, with President Donald Trump calling for enacting the SAVE Act.",
-      "keywords": [
-        "election",
-        "voter",
-        "trump"
-      ],
-      "significance": 7,
-      "reason": "Proposed federal voter ID legislation directly impacts election infrastructure and voting access, representing a significant policy change with substantial implications for democratic participation.",
-      "categories": [
-        "election infrastructure",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:08.324Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
       "id": "d54c0b5f2da2",
       "title": "Trump condemns racist video showing Obamas as apes after removing it, but says he won't apologize",
       "url": "https://www.cnbc.com/2026/02/06/trump-obama-post-white-house.html",
@@ -1656,26 +1526,6 @@
         "immigration & civil rights"
       ],
       "scoredAt": "2026-02-09T17:51:20.103Z"
-    },
-    {
-      "id": "37e5dc2faf8c",
-      "title": "Dems Channel Kramer in Softening ICE Demands",
-      "url": "https://www.rollingstone.com/politics/political-commentary/democrats-channel-kramer-soften-ice-demands-1235512377/",
-      "source": "Rolling Stone",
-      "published": "2026-02-06T19:10:12.000Z",
-      "description": "Party leaders have released a new list of demands to rein in Trump's deadly immigration enforcement agenda",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Democratic legislative demands regarding immigration enforcement represent notable political positioning but lack the institutional force of actual policy implementation or court action.",
-      "categories": [
-        "immigration & civil rights",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:20.131Z"
     },
     {
       "id": "eef5e49daeff",
@@ -45596,8 +45446,419 @@
       "reason": "This is opinion/commentary drawing historical parallels between past foreign policy and current administration rhetoric, without reporting on specific institutional actions affecting democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-08T18:03:19.548Z"
+    },
+    {
+      "id": "5a3f22b2360c",
+      "title": "Trump says he won't sign bills until Congress overhauls voting",
+      "url": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
+      "source": "NPR Politics",
+      "published": "2026-03-08T19:48:23.000Z",
+      "description": "President Trump is pushing the Senate to abandon the filibuster and pass SAVE American Act, a bill top Democrat calls 'Jim Crow 2.0'",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Presidential pressure to eliminate the filibuster to pass restrictive voting legislation represents a significant institutional challenge to congressional checks and balance mechanisms.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-09T00:09:57.688Z"
+    },
+    {
+      "id": "4bd2025e7857",
+      "title": "Trump says he won't sign any bills until SAVE America Act passes",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-will-not-sign-bills-america-act-passes-rcna262336",
+      "source": "NBC News",
+      "published": "2026-03-08T23:25:02.000Z",
+      "description": "President Donald Trump said Sunday that he will not sign any bills until the SAVE America Act is passed, adding that a “watered down” version of the act would not do",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Conditional bill-signing represents a significant institutional pressure tactic that directly challenges congressional legislative authority and the separation of powers, affecting multiple democratic checks simultaneously.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T00:09:57.753Z"
+    },
+    {
+      "id": "568b3087ad5a",
+      "title": "Chaotic incident at Kansas City airport as officials warn about travel disruptions",
+      "url": "https://www.nbcnews.com/nightly-news/video/chaotic-incident-at-kansas-city-airport-as-officials-warn-about-travel-disruptions-258937925658",
+      "source": "NBC News",
+      "published": "2026-03-08T23:14:38.000Z",
+      "description": "Dramatic moments unfolded at the Kansas City International Airport when travelers were evacuated, some even stranded on the tarmac, after officials became aware of an unspecified situation. The FBI later determined that the threat was not credible. It comes as TSA shortages from the partial government shutdown are causing long waits at other airports just ahead of the busy spring break travel season. NBC News’ George Solis reports.",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 2,
+      "reason": "A routine airport security incident with no credible threat and no connection to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:00.035Z"
+    },
+    {
+      "id": "7b2374569eb9",
+      "title": "NBC News poll finds majority of Americans disapprove of Trump’s Iran approach",
+      "url": "https://www.nbcnews.com/video/nbc-news-poll-finds-majority-of-americans-disapprove-of-trump-s-iran-approach-258937925620",
+      "source": "NBC News",
+      "published": "2026-03-08T23:05:43.000Z",
+      "description": "A majority of the American public does not approve of how President Trump is handling the war with Iran, according to a new NBC News national poll. NBC News’ Kelly O’Donnell reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine polling data on public opinion regarding a foreign policy issue, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:00.495Z"
+    },
+    {
+      "id": "5c32d2efb3dc",
+      "title": "Terror investigation underway after explosive thrown near NYC mayor’s residence",
+      "url": "https://www.nbcnews.com/video/terror-investigation-underway-after-explosive-thrown-near-nyc-mayor-s-residence-258936901718",
+      "source": "NBC News",
+      "published": "2026-03-08T23:01:45.000Z",
+      "description": "The FBI and New York Police Department are investigating an improvised explosive device thrown near New York City Mayor Zohran Mamdani’s residence, Gracie Mansion, as a possible act of terrorism. Two suspects have been taken into custody, and one of them referenced ISIS in statements to authorities. NBC News’ Valerie Castro reports.",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal investigation into an alleged terrorist act against a public official, which is routine law enforcement activity without implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:00.005Z"
+    },
+    {
+      "id": "61ed24945857",
+      "title": "3/3: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/030326-cbs-evening-news/",
+      "source": "CBS News",
+      "published": "2026-03-08T22:41:19.000Z",
+      "description": "Trump says almost \"everything's been knocked out\" as Iran unleashes drones; Mini miracle on the Hudson as pilot and passenger survive plane crash in icy river.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "General news coverage of international events and human interest stories with no direct implications for U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:09:59.891Z"
+    },
+    {
+      "id": "7831e83bde76",
+      "title": "Oil tops $100 a barrel as Iran war escalates",
+      "url": "https://www.axios.com/2026/03/08/iran-war-oil-market-barrel-cost",
+      "source": "Axios",
+      "published": "2026-03-08T23:51:45.000Z",
+      "description": "Oil prices on Sunday crossed into triple digits for the first time since 2022 — a stark sign of how the Iran war is throttling global supplies and raising consumers' costs.\nWhy it matters: The psychologically important $100-a-barrel mark is going to increase pain for consumers, many of whom don't support the war and didn't have any real warning that it was coming.\n\nIt's also a political setback for President Trump, who has relished in touting lower gasoline prices on his watch.\n\nThe latest: Trum",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic news reporting on commodity prices and their political implications, with no direct connection to democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:09:59.973Z"
+    },
+    {
+      "id": "801acc9bb9f3",
+      "title": "Iran's next supreme leader: Khamenei's hardline son Mojtaba",
+      "url": "https://www.axios.com/2026/03/08/mojtaba-khamenei-iran-supreme-leader",
+      "source": "Axios",
+      "published": "2026-03-08T21:53:23.000Z",
+      "description": "Mojtaba Khamenei will succeed his father, Ali Khameni, as Iran's next supreme leader, Iranian state media reported Sunday.\nWhy it matters: The move consolidates hardline control even as U.S. and Israeli strikes pound the country.\n\nThe regime is at its most vulnerable state since the 1979 revolution, and critics have previously railed against Mojtaba's rise, citing his limited formal experience, modest theological credentials and the regime's aversion to dynastic rule.\n\nWhat they're saying: Assem",
+      "keywords": [
+        "election",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Iranian domestic succession and has no direct relevance to U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:01.489Z"
+    },
+    {
+      "id": "e9a486f904e0",
+      "title": "Ken Martin's dysfunctional DNC alarms Democrats",
+      "url": "https://www.axios.com/2026/03/08/dnc-ken-martin-crisis",
+      "source": "Axios",
+      "published": "2026-03-08T21:23:02.000Z",
+      "description": "Democratic National Committee chair Ken Martin is facing a growing crisis of confidence within his party, more than two dozen Democrats tell Axios.\n\nDonors, operatives and some DNC members are questioning his leadership, fundraising ability and handling of the party's still-secret \"autopsy\" of the 2024 election loss.\n\nWhy it matters: The DNC's dysfunction likely won't affect this year's midterms, and Democrats have overperformed in recent elections. But it could have huge consequences for the pa",
+      "keywords": [
+        "election",
+        "ballot",
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is internal party management criticism that does not involve governmental checks and balances, constitutional powers, or institutional democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:01.386Z"
+    },
+    {
+      "id": "50d6fcd3b863",
+      "title": "Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say",
+      "url": "https://www.axios.com/2026/03/08/us-dismayed-israel-iran-fuel-strikes",
+      "source": "Axios",
+      "published": "2026-03-08T21:04:45.000Z",
+      "description": "Israel's strikes on 30 Iranian fuel depots Saturday went far beyond what the U.S. expected when Israel notified it in advance, sparking the first significant disagreement between the allies since the war began eight days ago, according to a U.S. official, Israeli official and a source with knowledge.\nWhy it matters: The U.S. is concerned Israeli strikes on infrastructure that serves ordinary Iranians could backfire strategically, rallying Iranian society to support the regime and driving up oil ",
+      "keywords": [
+        "ICE",
+        "white house",
+        "speaker",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is foreign policy reporting about U.S.-Israel diplomatic disagreements with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:01.775Z"
+    },
+    {
+      "id": "0b0cff4c0be0",
+      "title": "Trump says nothing else gets signed until Congress passes his voting bill",
+      "url": "https://www.axios.com/2026/03/08/trump-wont-sign-bills-save-america-act",
+      "source": "Axios",
+      "published": "2026-03-08T18:14:28.000Z",
+      "description": "President Trump said Sunday he won't sign any bills until Congress passes the SAVE America Act, which would require proof of citizenship and photo ID to vote.\nWhy it matters: Trump has pushed for sweeping changes to how Americans vote ahead of midterm elections that could decide the fate of his presidential agenda.\n\nDriving the news: \"It must be done immediately. It supersedes everything else,\" the president wrote on Truth Social.\n\nWhile Trump threatens to create his own gridlock, lawmakers rema",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "white house",
+        "mail-in voting",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional action where a president leverages executive power to demand legislative action on voting requirements, directly affecting election infrastructure and potentially congressional oversight dynamics.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-09T00:10:01.628Z"
+    },
+    {
+      "id": "67b22f58fa75",
+      "title": "Judge rules Kari Lake's tenure leading USAGM was invalid",
+      "url": "https://www.axios.com/2026/03/08/kari-lakes-usagm-voice-of-america",
+      "source": "Axios",
+      "published": "2026-03-08T12:25:08.000Z",
+      "description": "A federal judge on Saturday ruled that efforts to delegate control of the U.S. Agency for Global Media to Trump ally Kari Lake were unlawful, therefore voiding Lake's actions as the acting head of the agency over the past year. \nWhy it matters: The ruling notably invalidates Lake's directive to lay off hundreds of employees across USAGM and the government-funded broadcasters it governs, such as Voice of America.\n\nIt also voids other actions Lake took to reduce spending, including the cancellatio",
+      "keywords": [
+        "ICE",
+        "white house",
+        "ruling",
+        "trump",
+        "journalist",
+        "VOA",
+        "voice of america"
+      ],
+      "significance": 7,
+      "reason": "Judicial enforcement invalidating an unlawfully appointed official's personnel and operational decisions represents significant protection of institutional independence and civil service protections.",
+      "categories": [
+        "judicial independence",
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T00:10:01.539Z"
+    },
+    {
+      "id": "5cdbbc03e30d",
+      "title": "Trump says rising oil prices ‘a very small price to pay’ for ‘safety and peace’",
+      "url": "https://thehill.com/business/5774307-rising-oil-prices-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-08T23:30:58.000Z",
+      "description": "President Trump said Sunday that increasing prices of oil are “a very small price to pay” for “safety and peace” amid the U.S. conflict with Iran. “Short term oil prices, which will drop rapidly when the destruction of the Iran nuclear threat is over, is a very small price to pay for U.S.A., and World,…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political statement about foreign policy tradeoffs with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:02.593Z"
+    },
+    {
+      "id": "8baef19cbb4d",
+      "title": "Former Joint Chiefs chair on Iran conflict: ‘I worry about this getting drawn out’",
+      "url": "https://thehill.com/policy/defense/5774160-iran-us-escalation-concerns/",
+      "source": "The Hill",
+      "published": "2026-03-08T22:14:56.000Z",
+      "description": "Former Joint Chiefs of Staff Chair Mike Mullen said Sunday that he has anxiety around the potential for a lasting U.S. conflict in Iran — which has led to the deaths of seven U.S. service members as of Sunday. “We’ve got friends and allies out there. We’ve got the economy of the world, in great…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is commentary from a former official expressing personal concerns about foreign policy, which does not directly address institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:02.648Z"
+    },
+    {
+      "id": "83f800b1219f",
+      "title": "Democrats make political bet on DHS demands, despite GOP’s Iran warnings",
+      "url": "https://thehill.com/homenews/house/5772342-democrats-dhs-demands-iran/",
+      "source": "The Hill",
+      "published": "2026-03-08T21:00:00.000Z",
+      "description": "A week after President Trump launched strikes against Iran, Democrats are digging in against reopening the Department of Homeland Security (DHS) without significant reforms to the agency.  Party leaders are amplifying their demands for tougher rules governing agents of U.S. Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). Rank-and-file Democrats appear to…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A routine legislative negotiation over agency funding and oversight priorities, though touching on institutional checks through congressional leverage over executive branch agencies.",
+      "categories": [
+        "congressional oversight",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-09T00:10:02.749Z"
+    },
+    {
+      "id": "8ae24a5809d1",
+      "title": "This week on The Hill: House Republicans head to Florida to sharpen agenda, message",
+      "url": "https://thehill.com/homenews/house/5772277-house-republicans-issues-conference-dhs-housing/",
+      "source": "The Hill",
+      "published": "2026-03-08T21:00:00.000Z",
+      "description": "House Republicans will gather Monday at President Trump’s Doral, Fla., resort for a three-day issues conference aimed at charting their legislative agenda for the year ahead and sharpening their message for the 2026 midterm elections. The meeting comes after a turbulent week for the GOP conference. Rep. Tony Gonzales (R-Texas) confessed to having an affair…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine news about a political party's internal strategy meeting and messaging conference with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:03.812Z"
+    },
+    {
+      "id": "e3fe16af0477",
+      "title": "Kansas City airport terminal reopened after evacuation",
+      "url": "https://thehill.com/policy/transportation/5774068-kansas-city-airport-evacuated/",
+      "source": "The Hill",
+      "published": "2026-03-08T20:18:59.000Z",
+      "description": "Sections of Kansas City International Airport were evacuated Sunday, the airport said in a social media post. “The Kansas City Aviation Department is aware of a situation at Kansas City International Airport (MCI). As a precaution, the department has evacuated sections of the Airport Terminal,” the airport said in an afternoon post on the social…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This is a routine public safety incident at an airport with no connection to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:02.536Z"
+    },
+    {
+      "id": "811782300e94",
+      "title": "Seventh US service member dies in Iran conflict",
+      "url": "https://thehill.com/policy/defense/5774063-seventh-us-service-member-dies/",
+      "source": "The Hill",
+      "published": "2026-03-08T20:17:31.000Z",
+      "description": "A seventh U.S. service member has died in the conflict with Iran, U.S. Central Command (Centcom) announced Sunday. Centcom wrote on the social platform X that the service member passed away “from injuries received during the Iranian regime’s initial attacks across the Middle East” on Mar. 1. The service member was “seriously wounded at the…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a factual report of a military casualty that does not directly involve domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:04.617Z"
+    },
+    {
+      "id": "a5cb6a52b43d",
+      "title": "Senate Democrat says Congress should fund 4 agencies under DHS, continue ‘reform discussion’ for ICE and CBP",
+      "url": "https://thehill.com/homenews/senate/5774045-kaine-ice-cbp-funding/",
+      "source": "The Hill",
+      "published": "2026-03-08T20:06:47.000Z",
+      "description": "Sen. Tim Kaine (D-Va.) on Sunday said Democrats want to fund several agencies housed under the Department of Homeland Security (DHS) with the exception of Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). “​​Let’s just pass those funding bills. Let’s confine the ICE and CBP reform discussion just to those two agencies…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This is routine legislative positioning on budget priorities and agency funding, representing normal congressional debate without institutional implications for democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T00:10:04.764Z"
+    },
+    {
+      "id": "52164e04cddf",
+      "title": "Device ignited at Gracie Mansion protest was explosive: NYPD",
+      "url": "https://thehill.com/homenews/state-watch/5774010-explosive-device-nyc-protest/",
+      "source": "The Hill",
+      "published": "2026-03-08T19:13:46.000Z",
+      "description": "A device ignited at a Saturday protest at New York City Mayor Zohran Mamdani’s (D) home, Gracie Mansion, was explosive, according to police. “The NYPD Bomb Squad has conducted a preliminary analysis of a device that was ignited and deployed at a protest yesterday and has determined that it is not a hoax device or…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a local crime/public safety incident at a NYC mayor's residence with no direct bearing on federal democratic institutions or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:05.643Z"
+    },
+    {
+      "id": "01ca983fab42",
+      "title": "Senate Democrat says Stephen Miller was ‘calling the shots’ at DHS under Noem",
+      "url": "https://thehill.com/homenews/senate/5773976-kaine-miller-dhs-control/",
+      "source": "The Hill",
+      "published": "2026-03-08T19:10:13.000Z",
+      "description": "Sen. Tim Kaine (D-Va.) on Sunday said White House deputy chief of staff Stephen Miller was “calling the shots” at the Department of Homeland Security (DHS) under DHS Secretary Kristi Noem, and he said Miller will continue to remain in control after her departure. Noem was ousted from her role on Thursday after facing months…",
+      "keywords": [
+        "miller",
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Allegations of unelected official influence over agency leadership raise governance concerns but lack documentary evidence and represent interpretive commentary rather than confirmed institutional action.",
+      "categories": [
+        "civil service independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-09T00:10:04.800Z"
+    },
+    {
+      "id": "692a99010e6f",
+      "title": "Waltz says Trump ‘never going to take options off the table’ on ground forces in Iran",
+      "url": "https://thehill.com/homenews/administration/5773919-us-israel-iran-strikes-waltz/",
+      "source": "The Hill",
+      "published": "2026-03-08T18:10:07.000Z",
+      "description": "U.S. Ambassador to the United Nations Mike Waltz said Sunday that President Trump has not ruled out putting boots on the ground in Iran, as joint U.S.-Israeli strikes against the Middle Eastern country continue into a second week.  “I’m not going to get ahead of those conversations. I could tell you, unlike his predecessors, both…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary about military options that does not directly implicate the 12 democratic checks and balances categories being tracked.",
+      "categories": [],
+      "scoredAt": "2026-03-09T00:10:04.699Z"
+    },
+    {
+      "id": "90d033eedd1c",
+      "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
+      "url": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-08T19:42:47.000Z",
+      "description": "The SAVE America Act is all but certain to fail in the Senate, where Democrats will use the filibuster to sink it.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A presidential threat to use legislative blockade as leverage represents notable pressure on the separation of powers and congressional independence, though the outcome remains uncertain given Senate Democratic opposition.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-09T00:10:06.569Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-08T18:03:19.548Z"
+  "lastFetch": "2026-03-09T00:10:06.569Z"
 }
