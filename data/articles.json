@@ -999,36 +999,6 @@
       "scoredAt": "2026-02-09T17:50:27.690Z"
     },
     {
-      "id": "b4a4602c0027",
-      "title": "More people are treating themselves to a solo meal",
-      "url": "https://www.axios.com/2026/02/07/solo-dining-self-care-fast-food",
-      "source": "Axios",
-      "published": "2026-02-07T10:45:03.000Z",
-      "description": "Solo dining orders have soared since 2021, according to a report by one of the world's largest restaurant companies.\nWhy it matters: Eating alone doesn't necessarily mean you're lonely. In many cases, it's about self-care.\n\nThe big picture: More people are skipping group meals to treat themselves instead, per Yum Brands, the parent company of Taco Bell, KFC, Pizza Hut and Habit Burger & Grill.\nBy the numbers: Nearly 70% of solo diners decline to use discounts, despite higher food prices and rece",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article about solo dining trends has no relevance to any democratic checks and balances categories.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:27.189Z"
-    },
-    {
-      "id": "40919ab381b0",
-      "title": "AI wiped out $400 billion this week — and it's only getting started",
-      "url": "https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market",
-      "source": "Axios",
-      "published": "2026-02-07T10:00:04.000Z",
-      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nAI is here — and this week, investors lost over $400 billion to the realization that entire industries are on the cusp of being replaced. \nWhy it matters: The software-industry selloff, sparked by Anthropic's latest release, is ultimately just a baby step in a bigger transformation that may reshape how we all live and work.\n\nIt's also the first tangible verdict on what happens when AI starts eating entire categories of work, well before the lon",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article is business/market news about AI investment volatility with no connection to democratic institutions, governmental checks and balances, or constitutional governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:29.630Z"
-    },
-    {
       "id": "1b7140d2710f",
       "title": "Operation Metro Surge is eroding global trust in the US",
       "url": "https://thehill.com/opinion/white-house/5728835-us-global-leader-domestic-crisis/",
@@ -45811,8 +45781,237 @@
       "reason": "Routine statement about military operations and casualty expectations with no apparent implications for democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-09T06:18:24.532Z"
+    },
+    {
+      "id": "dd484ede765f",
+      "title": "Does Iraq war hold lessons for Iran on regime change?",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change",
+      "source": "NPR Politics",
+      "published": "2026-03-09T09:46:38.000Z",
+      "description": "President Trump's war against Iran carries echoes of the 2003 war in Iraq. NPR's Leila Fadel explores the lessons learned to understand whether regime change stands a chance in neighboring Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a retrospective analysis and opinion piece comparing historical foreign policy decisions rather than reporting on current institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:10.182Z"
+    },
+    {
+      "id": "26a10b5d194d",
+      "title": "Retired US Navy Vice Admiral discusses risk of lengthy Iran conflict",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5737427/retired-us-navy-vice-admiral-discusses-risk-of-lengthy-iran-conflict",
+      "source": "NPR Politics",
+      "published": "2026-03-09T08:31:03.000Z",
+      "description": "NPR's Michel Martin speaks with retired Navy Vice Admiral Robert Harward about the risk of the conflict with Iran turning into a long war.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine news commentary on foreign policy and military strategy with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:10.222Z"
+    },
+    {
+      "id": "544736b54c8a",
+      "title": "2 Teen Suspects in Custody in IED Attempt at NYC Mayor's Home",
+      "url": "https://www.today.com/video/fbi-launches-terror-probe-in-ied-attempt-at-nyc-mayor-s-home-258953797695",
+      "source": "NBC News",
+      "published": "2026-03-09T11:38:45.000Z",
+      "description": "Federal investigators are probing for possible ties to terrorism after two suspects handled what the FBI describes as an improvised explosive device during an anti-Islam demonstration outside New York City’s Zohran Mamdani’s residence, Gracie Mansion. The devices failed to detonate and, according to two sources familiar with the matter, both suspects allegedly made pro-ISIS statements during their arrests. NBC’s Sam Brock reports for TODAY.",
+      "keywords": [
+        "FBI",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a criminal investigation involving alleged explosives and terrorism that does not implicate democratic institutions, checks and balances, or governance processes.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:10.218Z"
+    },
+    {
+      "id": "73f87a12bb43",
+      "title": "Oil Hits $100 Per Barrel as Impact of Iran War Widens",
+      "url": "https://www.today.com/video/iran-war-oil-hits-100-per-barrel-dow-down-3-over-past-week-258954821683",
+      "source": "NBC News",
+      "published": "2026-03-09T11:32:04.000Z",
+      "description": "The war in Iran has created a bottleneck for the world’s energy supply, sending oil prices surging to $100 a barrel, the highest level in years. NBC’s Christine Romans reports for TODAY on how the escalating conflict is rattling stock markets around the world and how Americans are feeling a worse-than-expected pinch at the pump.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article covers international geopolitical and economic consequences of conflict with no direct bearing on U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:11.968Z"
+    },
+    {
+      "id": "13de6fd2c23a",
+      "title": "Trump Doesn't Rule Out Troops on the Ground in Iran",
+      "url": "https://www.today.com/video/trump-weighs-ground-deployment-in-iran-as-war-enters-week-2-258952261750",
+      "source": "NBC News",
+      "published": "2026-03-09T11:27:44.000Z",
+      "description": "The United States Central Command announced the death of a seventh service member in the Middle East conflict. It comes as President Donald Trump is weighing whether to send ground troops into Iran. Three current and former officials with knowledge of the conversations tell NBC News that the president has discussed the idea of deploying a small contingent of service members. NBC’s Garrett Haake reports or TODAY.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Presidential consideration of major military escalation (ground troops in Iran) represents a significant institutional action with major implications for war powers, congressional oversight, and constitutional checks on executive military authority.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T12:07:11.605Z"
+    },
+    {
+      "id": "f9b9dac32617",
+      "title": "The Iran war's economic blowback is getting real",
+      "url": "https://www.axios.com/2026/03/09/iran-war-oil-economy-blowback-prices-us",
+      "source": "Axios",
+      "published": "2026-03-09T09:57:27.000Z",
+      "description": "Data: Financial Modeling Prep; Chart: Axios Visuals\nIn the first week of the American and Israeli attack on Iran, the economic ripples were looking pretty minimal. But as Week 2 begins, the risks to the global economy are growing much more serious.\nThe big picture: You can't decapitate the leadership of a country of 90 million people, with expansive military and intelligence capabilities, in the heart of some of the world's most economically important supply chains, without a huge cost.\n\nThe hou",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article discusses economic consequences of military conflict with Iran and does not address U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:11.079Z"
+    },
+    {
+      "id": "7ddd67264c9e",
+      "title": "Travelers complain of long waits at airports amid DHS shutdown",
+      "url": "https://thehill.com/homenews/administration/5774586-airport-delays-government-shutdown/",
+      "source": "The Hill",
+      "published": "2026-03-09T11:57:58.000Z",
+      "description": "Travelers are complaining about hours-long delays at airports across the country as the partial government shutdown affecting the Department of Homeland Security (DHS) stretches into its fourth week.  Major airport hubs including Charlotte Douglas International, William P. Hobby Airport in Houston and New Orleans International Airport are urging passengers to arrive hours ahead of their…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "This article describes operational impacts of a government shutdown rather than threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:10.977Z"
+    },
+    {
+      "id": "68a38d53c8f2",
+      "title": "Schumer calls on Trump to tap Strategic Petroleum reserve amid rising oil prices",
+      "url": "https://thehill.com/homenews/senate/5774590-oil-prices-rise-iran/",
+      "source": "The Hill",
+      "published": "2026-03-09T11:50:04.000Z",
+      "description": "Senate Democratic Leader Chuck Schumer (N.Y.) on Sunday called on President Trump to immediately release oil from the Strategic Petroleum Reserve amid rising oil and gas prices caused by the military conflict in Iran. Oil prices jumped to nearly $120 a barrel before dropping some on Monday as missile strikes on Iran and Tehran’s retaliatory…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political commentary on energy policy with no direct bearing on democratic institutions, checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:12.871Z"
+    },
+    {
+      "id": "235b3da7f0a8",
+      "title": "Trump’s voting bill ultimatum adds to pressure on Congress",
+      "url": "https://thehill.com/newsletters/morning-report/5774537-trump-pressures-thune-vote-bill/",
+      "source": "The Hill",
+      "published": "2026-03-09T10:36:33.000Z",
+      "description": "Morning Report is The Hill’s a.m. newsletter. Subscribe here. In today’s issue: ▪ Trump puts pressure on Thune ▪ Iran chooses new supreme leader ▪ Trust in public health institutions drops ▪ Officials investigate U.S. Embassy explosion President Trump’s declared refusal to sign any legislation until Congress passes a key bill that would add new voting requirements…",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Trump's voting bill ultimatum represents notable legislative pressure with potential implications for election administration and congressional independence, but lacks details on the bill's specific provisions or likelihood of passage to assess institutional impact.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-09T12:07:13.005Z"
+    },
+    {
+      "id": "abe2608fb432",
+      "title": "Noem’s ouster could pave way to reopen shuttered Homeland Security Department",
+      "url": "https://thehill.com/homenews/senate/5772178-mullin-nomination-homeland-security/",
+      "source": "The Hill",
+      "published": "2026-03-09T10:00:00.000Z",
+      "description": "The ouster of Kristi Noem opens the path for a potential deal to reopen the Department of Homeland Security, according to Senate sources familiar with negotiations. Senate Majority Leader John Thune (R-S.D.) said Noem’s departure from Homeland Security is a “major step” that he said should move the negotiations closer to a deal. A Senate…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Personnel change at DHS may facilitate budget negotiations, but represents routine political maneuvering rather than institutional erosion or democratic safeguard.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-09T12:07:13.056Z"
+    },
+    {
+      "id": "2c9cc96eb3ff",
+      "title": "RFK Jr. losing battle to boost trust in public health agencies",
+      "url": "https://thehill.com/policy/healthcare/5772380-public-trust-decline-kennedy-health-agencies/",
+      "source": "The Hill",
+      "published": "2026-03-09T10:00:00.000Z",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. has defended some of his controversial moves as being part of his effort to restore faith in public health agencies. It doesn’t seem to be working. Polling from the start of this year shows that public trust in government health institutions has continued to decline during…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Reflects institutional tensions around HHS leadership and public trust erosion, but represents ongoing political contestation rather than a structural check-and-balance violation or unprecedented action.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-09T12:07:13.006Z"
+    },
+    {
+      "id": "eae029a1e132",
+      "title": "Buttigieg leans on combat experience to criticize Trump’s ‘war of choice’ in Iran",
+      "url": "https://thehill.com/homenews/campaign/5772190-buttigieg-criticizes-trump-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-09T10:00:00.000Z",
+      "description": "The Iran war has given former Transportation Secretary Pete Buttigieg an opening to lean hard on his military background, blasting President Trump’s “war of choice” in a series of public appearances.   As one of the few potential 2028 Democratic presidential contenders with combat-zone experience, Buttigieg is emerging as one of Trump’s loudest critics as foreign…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary and campaign positioning by a Democratic figure criticizing the President's foreign policy, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:12.923Z"
+    },
+    {
+      "id": "f716866722c3",
+      "title": "String of legal wins offers hope to college protesters",
+      "url": "https://thehill.com/homenews/education/5771577-college-protests-columbia-stanford-trump-immigration/",
+      "source": "The Hill",
+      "published": "2026-03-09T10:00:00.000Z",
+      "description": "College protesters are riding high after a series of legal victories.  After thousands of arrests and fierce pushback from schools during the 2024 pro-Palestinian demonstrations, many of those detained by the Trump administration have been released, and last week, the courts vacated school punishments against one of the most prominent groups: the activists who took over a…",
+      "keywords": [
+        "detained",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This covers routine legal outcomes for individual protesters rather than systemic threats to or protections of institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:13.836Z"
+    },
+    {
+      "id": "ce91bd39e18e",
+      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
+      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T12:01:38.000Z",
+      "description": "Russia is reportedly helping Iran target U.S. forces in the Middle East, and could now benefit from a windfall of new oil and gas sales.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article addresses foreign policy and energy market concerns but does not directly implicate U.S. democratic institutions, constitutional checks and balances, or the integrity of governmental oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-09T12:07:14.493Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-09T06:18:24.919Z"
+  "lastFetch": "2026-03-09T12:07:14.493Z"
 }
