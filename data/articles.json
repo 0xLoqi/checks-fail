@@ -319,44 +319,6 @@
       "scoredAt": "2026-02-09T17:49:52.688Z"
     },
     {
-      "id": "a5f0fa579954",
-      "title": "Members of Congress to view unredacted Epstein files",
-      "url": "https://www.nbcnews.com/video/members-of-congress-to-view-unredacted-epstein-files-257315909664",
-      "source": "NBC News",
-      "published": "2026-02-07T02:00:30.000Z",
-      "description": "Members of Congress will be able to begin reviewing the unredacted version of the Justice Department’s files on Jeffrey Epstein on Monday morning. The review process will take place in person at the DOJ. NBC News' Ryan Nobles reports.",
-      "keywords": [
-        "DOJ",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Congressional access to unredacted DOJ files represents routine exercise of legislative oversight with established legal procedures, though the sensitive nature of the materials warrants monitoring for any access restrictions or DOJ obstruction.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:54.169Z"
-    },
-    {
-      "id": "27616ccdc9bc",
-      "title": "Trump account deletes re-post of racist video after outrage",
-      "url": "https://www.nbcnews.com/nightly-news/video/trump-account-deletes-re-post-of-racist-video-after-outrage-257311301545",
-      "source": "NBC News",
-      "published": "2026-02-07T00:19:15.000Z",
-      "description": "Trump account deletes re-post of racist video after outrage\nIn a rare reversal, the Trump White House deleted a re-post of a racist video of the Obamas from the president’s social media account following intense backlash. NBC News’ Garrett Haake reports.",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "While the content is objectionable, the deletion following public backlash represents the normal functioning of accountability mechanisms rather than a breakdown of democratic checks.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:58.061Z"
-    },
-    {
       "id": "63949637a323",
       "title": "Trump accepts ownership of the current economy: 'I'm very proud of it'",
       "url": "https://www.nbcnews.com/politics/donald-trump/trump-accepts-ownership-economy-proud-rcna257544",
@@ -509,21 +471,6 @@
       "reason": "This is a routine criminal case involving threats and child exploitation charges unrelated to democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:50:02.706Z"
-    },
-    {
-      "id": "f62287e3247d",
-      "title": "Trump calls U.S. and Iran talks in Oman 'very good' and says there will be another meeting",
-      "url": "https://www.nbcnews.com/world/iran/trump-calls-us-iran-talks-oman-good-says-will-another-meeting-rcna257857",
-      "source": "NBC News",
-      "published": "2026-02-07T03:44:41.000Z",
-      "description": "President Donald Trump said Friday that the high-stakes talks between Iran and the United States in Oman had gone well and that the two sides would meet again next week, though he did not provide any details about the meeting.“They had a very good meeting with a very high representative Iran, of Iran, and we’ll see how it all turns out,” Trump told a gathering of reporters aboard Air Force One, noting that the country could not be permitted to have nuclear weapons under any deal.“We’re",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine diplomatic news reporting on international negotiations with no direct implications for U.S. domestic democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:02.696Z"
     },
     {
       "id": "199b8eca18bc",
@@ -821,41 +768,6 @@
       "scoredAt": "2026-02-09T17:50:16.328Z"
     },
     {
-      "id": "9fa2e8e8e007",
-      "title": " Trump administration approves weed killer dicamba for two common genetically modified crops",
-      "url": "https://abcnews.go.com/Politics/wireStory/trump-administration-approves-weed-killer-dicamba-common-genetically-129938718",
-      "source": "ABC News",
-      "published": "2026-02-07T01:01:28.000Z",
-      "description": "The Environmental Protection Agency on Friday approved the use of the weed killer dicamba on genetically modified soybeans and cotton",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is a routine EPA agricultural regulatory decision with no direct connection to democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:16.298Z"
-    },
-    {
-      "id": "a00e92b5d006",
-      "title": " Justice Department will allow lawmakers to see unredacted versions of Epstein files",
-      "url": "https://abcnews.go.com/Politics/wireStory/justice-department-lawmakers-unredacted-versions-released-epstein-files-129937897",
-      "source": "ABC News",
-      "published": "2026-02-07T02:03:15.000Z",
-      "description": "The Department of Justice will allow members of Congress to review unredacted files on the convicted sex offender Jeffrey Epstein",
-      "keywords": [
-        "department of justice",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Congressional access to unredacted files represents a notable exercise of legislative oversight but involves a specific case rather than a systemic institutional change.",
-      "categories": [
-        "congressional oversight",
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-09T17:50:16.535Z"
-    },
-    {
       "id": "fa4db24680de",
       "title": "Homeowners are holding onto their houses for a record-long stretch",
       "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
@@ -1115,60 +1027,6 @@
       "reason": "This article is business/market news about AI investment volatility with no connection to democratic institutions, governmental checks and balances, or constitutional governance.",
       "categories": [],
       "scoredAt": "2026-02-09T17:50:29.630Z"
-    },
-    {
-      "id": "2a1330d43a49",
-      "title": "Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction",
-      "url": "https://www.axios.com/2026/02/07/gaza-board-peace-meeting-trump-dc",
-      "source": "Axios",
-      "published": "2026-02-07T02:48:19.000Z",
-      "description": "The White House is planning a leaders meeting for the Gaza \"Board of Peace\" on Feb. 19, according to a U.S. official and diplomats from four countries who are on the board. \nWhy it matters: The White House wants to use the meeting to push forward the implementation of the second phase if the Gaza ceasefire deal and raise money for reconstruction. \n\n\"It will be the first Board of Peace meeting and a fundraising conference for Gaza reconstruction,\" a U.S. official said.\nThe plans for the summit me",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine diplomatic news about a scheduled meeting for Gaza reconstruction that does not implicate any institutional checks and balances within the U.S. government.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:29.347Z"
-    },
-    {
-      "id": "b6232a96614e",
-      "title": "Trump says \"I didn't make a mistake\" after racist video of Obamas removed",
-      "url": "https://www.axios.com/2026/02/06/trump-racist-video-barack-michelle-obama-truth-social",
-      "source": "Axios",
-      "published": "2026-02-07T01:45:19.000Z",
-      "description": "When asked if he would apologize for an overtly racist video clip of the Obamas posted on President Trump's Truth Social, the president said Friday, \"No, I didn't make a mistake.\"\nWhy it matters: The clip, which portrayed former President Obama and former first lady Michelle Obama as apes and was taken down on Friday, used a centuries-old trope against the first Black president and first lady in U.S. history during the first week of Black History Month.\n\nZoom in: Trump said he looks at \"thousand",
-      "keywords": [
-        "election",
-        "ICE",
-        "white house",
-        "johnson",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "While the incident reflects poor judgment and offensive rhetoric during a sensitive period, it primarily concerns presidential conduct and press freedom rather than direct institutional erosion of democratic checks and balances.",
-      "categories": [
-        "press freedom",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:50:29.821Z"
-    },
-    {
-      "id": "d4a0a82ca242",
-      "title": "Trump says U.S. and Iran had \"very good talks\"",
-      "url": "https://www.axios.com/2026/02/07/trump-iran-us-good-talks",
-      "source": "Axios",
-      "published": "2026-02-07T01:13:26.000Z",
-      "description": "President Trump said on Friday that the U.S. and Iran had \"very good talks\" in Oman on Friday and claimed the Iranian position is more favorable regarding a nuclear deal than it was before the 12-day war last June. \nWhy it matters: The talks were the first face-to-face negotiations between the U.S. and Iran since the 12-day war last June. They took place amid a massive U.S. military buildup in the Gulf, and with Trump warning he could pivot to military action if a deal can't be reached quickly.\n",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This is routine diplomatic news reporting on international negotiations with no direct bearing on domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:29.821Z"
     },
     {
       "id": "1b7140d2710f",
@@ -1474,26 +1332,6 @@
       "reason": "This article concerns Japanese domestic politics and has no relevance to U.S. democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:51:07.864Z"
-    },
-    {
-      "id": "d54c0b5f2da2",
-      "title": "Trump condemns racist video showing Obamas as apes after removing it, but says he won't apologize",
-      "url": "https://www.cnbc.com/2026/02/06/trump-obama-post-white-house.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-07T02:11:18.000Z",
-      "description": "The depiction of the Obamas, posted from Trump's Truth Social account, was included in a video pushing a conspiracy theory about 2020 election voting machines.",
-      "keywords": [
-        "election",
-        "voting",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "While the racist content and election conspiracy promotion are morally reprehensible, this is primarily a commentary on personal conduct and speech rather than an institutional action that directly erodes democratic checks and balances mechanisms.",
-      "categories": [
-        "press freedom",
-        "election infrastructure"
-      ],
-      "scoredAt": "2026-02-09T17:51:10.829Z"
     },
     {
       "id": "7f61607fa3fa",
@@ -45857,8 +45695,124 @@
         "election infrastructure"
       ],
       "scoredAt": "2026-03-09T00:10:06.569Z"
+    },
+    {
+      "id": "376577896f6c",
+      "title": "U.S. military kills 6 in strike on alleged drug boat in the Eastern Pacific",
+      "url": "https://www.npr.org/2026/03/09/g-s1-112958/us-military-kills-6-drug-boat-pacific",
+      "source": "NPR Politics",
+      "published": "2026-03-09T05:36:36.000Z",
+      "description": "Sunday's attack brought the death toll to at least 157 people since the Trump administration began targeting alleged drug-smuggling vessels, in early September.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While the military operation raises policy questions, it does not directly implicate the tracked democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T06:18:22.982Z"
+    },
+    {
+      "id": "a595be880a84",
+      "title": "Strike on alleged drug boat kills 6 in Eastern Pacific, U.S. military says",
+      "url": "https://www.cbsnews.com/news/strike-on-alleged-drug-boat-kills-6-in-eastern-pacific/",
+      "source": "CBS News",
+      "published": "2026-03-09T03:14:55.000Z",
+      "description": "The U.S. military says it has killed six men in a strike on an alleged drug-smuggling vessel in the eastern Pacific Ocean as part of the Trump administration's campaign against alleged traffickers.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine military/law enforcement news regarding drug interdiction operations with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T06:18:22.951Z"
+    },
+    {
+      "id": "59d7bdde18f0",
+      "title": "U.S. \"likely\" responsible for bombing of girls' school in Iran, per early U.S. assessment",
+      "url": "https://www.cbsnews.com/news/us-iran-war-bombing-girls-school-assessment/",
+      "source": "CBS News",
+      "published": "2026-03-09T02:45:00.000Z",
+      "description": "The preliminary U.S. intelligence assessment suggests that the U.S. is \"likely\" responsible for the bombing of the girls' school in Iran on Feb. 28.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 4,
+      "reason": "While the assessment relates to accountability and potential civil rights concerns, it primarily represents routine foreign policy and intelligence reporting rather than a direct institutional threat to domestic democratic checks and balances.",
+      "categories": [
+        "intelligence community integrity",
+        "civil rights & immigration"
+      ],
+      "scoredAt": "2026-03-09T06:18:24.840Z"
+    },
+    {
+      "id": "1e246ca68a1c",
+      "title": "Trump not ruling out ground troops as Iran war enters second week",
+      "url": "https://www.cbsnews.com/video/trump-not-ruling-out-ground-troops-as-iran-war-enters-second-week/",
+      "source": "CBS News",
+      "published": "2026-03-09T01:36:00.000Z",
+      "description": "The White House says there are no current plans to put boots on the ground in Iran, but cautions President Trump is keeping his options on the table as the fighting enters a second week. Nikole Killion reports.",
+      "keywords": [
+        "white house",
+        "ruling",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While military escalation decisions involve executive power that warrants congressional oversight, this report of contingency planning without concrete action or institutional breach represents notable but not yet urgent democratic concern.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-09T06:18:24.919Z"
+    },
+    {
+      "id": "99449d6486b2",
+      "title": "NTSB member who responded to D.C. midair crash says the White House fired him",
+      "url": "https://www.cbsnews.com/news/ntsb-todd-inman-dc-midair-collision-fired-trump-white-house/",
+      "source": "CBS News",
+      "published": "2026-03-08T20:16:00.000Z",
+      "description": "National Transportation Safety Board member Todd Inman has abruptly departed the agency two years into what is typically a five-year term.",
+      "keywords": [
+        "white house",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "An abrupt NTSB departure raises concerns about potential political interference in an independent agency, but lacks confirmed evidence of retaliatory firing and involves a non-core democratic institution compared to DOJ/FBI/judiciary.",
+      "categories": [
+        "federal programs & agencies",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-09T06:18:24.767Z"
+    },
+    {
+      "id": "460962bfdd51",
+      "title": " Crude oil prices surpass $100 a barrel as the Iran war impedes production and shipping",
+      "url": "https://abcnews.com/Politics/wireStory/crude-oil-prices-surpass-100-barrel-iran-war-130889595",
+      "source": "ABC News",
+      "published": "2026-03-09T04:18:02.000Z",
+      "description": "Oil prices have jumped past $114 a barrel as the Iran war disrupts oil production and shipping in the Middle East",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This article reports on commodity market fluctuations resulting from geopolitical conflict, with no direct relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T06:18:24.447Z"
+    },
+    {
+      "id": "271c85cf7d81",
+      "title": "Hegseth says ‘there will be more casualties’ in Iran operation",
+      "url": "https://thehill.com/policy/defense/5774412-iran-us-casualties-continue/",
+      "source": "The Hill",
+      "published": "2026-03-09T02:52:51.000Z",
+      "description": "Defense Secretary Pete Hegseth said that “there will be more casualties” in the ongoing U.S. operation against Iran, with seven American service members having died so far in the fighting. “The president’s been right to say there will be casualties. Things like this don’t happen without casualties,” Hegseth said in an interview that aired on…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine statement about military operations and casualty expectations with no apparent implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-09T06:18:24.532Z"
     }
   ],
   "lastDigest": "2026-03-03T12:07:10.904Z",
-  "lastFetch": "2026-03-09T00:10:06.569Z"
+  "lastFetch": "2026-03-09T06:18:24.919Z"
 }
