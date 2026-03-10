@@ -88,53 +88,6 @@
       "scoredAt": "2026-02-09T17:49:36.323Z"
     },
     {
-      "id": "ec5afe7455c2",
-      "title": "Trump administration lauds plastic surgeons' statement on trans surgery for minors",
-      "url": "https://www.npr.org/2026/02/08/nx-s1-5705304/transgender-minors-gender-affirming-care-plastic-surgery",
-      "source": "NPR Politics",
-      "published": "2026-02-08T14:28:07.000Z",
-      "description": "A patient who came to regret the top surgery she got as a teen won a $2 million malpractice suit. Then, the American Society of Plastic Surgeons clarified its position that surgery is not recommended for transgender minors.",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This article covers a malpractice settlement and professional medical organization guidance, which are routine legal and regulatory matters without direct implications for institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:37.338Z"
-    },
-    {
-      "id": "c14549e6be52",
-      "title": "Immigration enforcement emerges as the major issue in the Texas U.S. Senate race",
-      "url": "https://www.npr.org/2026/02/08/nx-s1-5704264/immigration-enforcement-emerges-as-the-major-issue-in-the-texas-u-s-senate-race",
-      "source": "NPR Politics",
-      "published": "2026-02-08T12:58:47.000Z",
-      "description": "Texas' U.S. Senate is grappling with how immigration enforcement should look like ahead of its primary elections.",
-      "keywords": [
-        "election",
-        "immigration"
-      ],
-      "significance": 2,
-      "reason": "This is routine political coverage of a campaign issue debate during primary elections, with no indication of institutional changes or threats to democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:41.176Z"
-    },
-    {
-      "id": "a96b8e8259c0",
-      "title": "Politics chat: Trump defends posting racist clip, Judge rules on Hudson River project",
-      "url": "https://www.npr.org/2026/02/08/nx-s1-5702380/politics-chat-trump-defends-posting-racist-clip-judge-rules-on-hudson-river-project",
-      "source": "NPR Politics",
-      "published": "2026-02-08T12:58:31.000Z",
-      "description": "President Trump explains how a racist video clip made it into his Truth Social post. A judge rules that his administration cannot block funds for a massive tunnel project under the Hudson river.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "The article covers routine political commentary and a standard judicial ruling on infrastructure funding with no systemic implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:37.220Z"
-    },
-    {
       "id": "73a510fe5a0d",
       "title": "WATCH: Ghislaine Maxwell not cooperating because she is campaigning for Trump pardon, Democrats say",
       "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-not-cooperating-because-she-is-campaigning-for-trump-pardon-democrats-say",
@@ -187,23 +140,6 @@
         "press freedom"
       ],
       "scoredAt": "2026-02-09T17:49:42.086Z"
-    },
-    {
-      "id": "85414bb26001",
-      "title": "4 takeaways from the Epstein files about the FBI investigation of possible sex trafficking",
-      "url": "https://www.pbs.org/newshour/nation/ap-review-on-what-the-epstein-files-show-about-the-fbi-investigation-of-possible-sex-trafficking",
-      "source": "PBS NewsHour",
-      "published": "2026-02-08T17:16:33.000Z",
-      "description": "An Associated Press review of internal Justice Department records shows that the FBI found proof Jeffrey Epstein sexually abused underage girls but little evidence of a sex trafficking ring.",
-      "keywords": [
-        "FBI",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This article reports on historical FBI investigative findings regarding a past criminal case with no direct implications for current democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:41.999Z"
     },
     {
       "id": "bc54fcc23fc9",
@@ -347,24 +283,6 @@
       "reason": "This is a personal opinion about sports hall of fame voting with no connection to democratic institutions, government checks and balances, or any tracked categories.",
       "categories": [],
       "scoredAt": "2026-02-09T17:50:01.864Z"
-    },
-    {
-      "id": "2572661ba63f",
-      "title": "Super Bowl interview: Tom Llamas exclusive with President Trump",
-      "url": "https://www.nbcnews.com/video/super-bowl-interview-tom-llamas-exclusive-with-president-trump-257354309569",
-      "source": "NBC News",
-      "published": "2026-02-08T14:42:32.000Z",
-      "description": "In an interview with NBC News’ Tom Llamas for Super Bowl 60, President Donald Trump talks about the strengths of the Seattle Seahawks and New England Patriots, their quarterbacks and Bill Belichick’s snub from the Pro Football Hall of Fame. The president also addresses a wide range of topics, from his immigration crackdown to affordability and the cost of goods for Americans.",
-      "keywords": [
-        "immigration",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "While the interview touches on immigration policy, it is primarily a sports-focused entertainment segment with limited substantive institutional or democratic governance content.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:50:03.019Z"
     },
     {
       "id": "199b8eca18bc",
@@ -629,24 +547,6 @@
       "scoredAt": "2026-02-09T17:50:13.202Z"
     },
     {
-      "id": "bf9b4bd85570",
-      "title": " Voters are worried about the cost of housing. But Trump wants home prices to keep climbing",
-      "url": "https://abcnews.go.com/Politics/wireStory/voters-worried-cost-housing-trump-home-prices-climbing-129963537",
-      "source": "ABC News",
-      "published": "2026-02-08T13:49:49.000Z",
-      "description": "The White House is trying to show it's lowering the cost of living, but President Donald Trump has said he doesn't want to see the price of homes come down",
-      "keywords": [
-        "voter",
-        "ICE",
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This article addresses policy disagreement on housing economics rather than institutional checks and balances or democratic norms.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:16.292Z"
-    },
-    {
       "id": "fa4db24680de",
       "title": "Homeowners are holding onto their houses for a record-long stretch",
       "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
@@ -786,38 +686,6 @@
       ],
       "scoredAt": "2026-02-09T17:50:26.318Z",
       "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
-      "id": "2a1e295f3d8b",
-      "title": "Trump lashes out at Team USA skier who said representing the U.S. brings \"mixed emotions\"",
-      "url": "https://www.axios.com/2026/02/08/trump-olympic-skier-team-usa-real-loser",
-      "source": "Axios",
-      "published": "2026-02-08T17:34:01.000Z",
-      "description": "President Trump called Olympic skier Hunter Hess \"a real loser\" Sunday after Hess described the \"mixed emotions\" of representing the U.S. at the 2026 Games.\nWhy it matters: While the Olympics traditionally unite Americans behind their athletes, the Milano Cortina Games have become the latest flashpoint, with the president once again targeting elite athletes representing the U.S. who have used their platform to criticize him.\n\nBut that hasn't kept Team USA athletes from condemning the administrat",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine political commentary about a public figure's social media criticism of an athlete, with no direct impact on institutional checks and balances or democratic governance structures.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:24.044Z"
-    },
-    {
-      "id": "c62851cca08f",
-      "title": "The death of sportswriting",
-      "url": "https://www.axios.com/2026/02/08/washington-post-sports-section-media",
-      "source": "Axios",
-      "published": "2026-02-08T13:30:05.000Z",
-      "description": "With the closure of the Washington Post sports section, sports journalism lost one of its last crown jewels, and one of media's most prestigious professions was handed a crushing blow.\nWhy it matters: The marquee platforms of sportswriting have been gutted and shuttered over the last decade — victims of cold, hard media business realities and the evolving demands of the modern sports fan.\n\nThe big picture: There have never been more ways for sports fans to watch and learn about their favorite te",
-      "keywords": [
-        "ICE",
-        "journalist"
-      ],
-      "significance": 1,
-      "reason": "While media industry changes have tangential implications for press freedom, this article addresses commercial journalism trends in sports rather than democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:28.366Z"
     },
     {
       "id": "1b7140d2710f",
@@ -47997,8 +47865,628 @@
       "reason": "This is routine political commentary about policy disagreement and electoral concerns with no direct impact on democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-10T12:07:13.623Z"
+    },
+    {
+      "id": "26ba4c29af84",
+      "title": "Immigration detention on track for deadliest fiscal year since 2004",
+      "url": "https://www.npr.org/2026/03/10/g-s1-111238/immigration-detention-deaths-custody",
+      "source": "NPR Politics",
+      "published": "2026-03-10T16:51:56.000Z",
+      "description": "Twenty-three people have died since October in ICE custody, as advocates warn about overcrowding and health care access.",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "detention"
+      ],
+      "significance": 6,
+      "reason": "Represents a significant operational and humanitarian failure within federal enforcement that raises concerns about civil rights protections and oversight of executive agencies, though not an unprecedented institutional erosion of checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T18:13:05.070Z"
+    },
+    {
+      "id": "f4063b6b426c",
+      "title": "WATCH LIVE: White House holds briefing as U.S. announces 'most intense' day of strikes on Iran",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-announces-most-intense-day-of-strikes-on-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T17:11:29.000Z",
+      "description": "President Donald Trump has sent contradictory signals about how long the war could last while the Islamic Republic, its firepower diminished, vowed to fight on.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy/military news reporting on U.S. military actions abroad with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:04.545Z"
+    },
+    {
+      "id": "404a1ac5a1f9",
+      "title": "Sharing a stage, Justices Jackson and Kavanaugh spar over emergency Supreme Court orders favoring Trump",
+      "url": "https://www.pbs.org/newshour/politics/sharing-a-stage-justices-jackson-and-kavanaugh-spar-over-emergency-supreme-court-orders-favoring-trump",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T15:48:32.000Z",
+      "description": "Kavanaugh and Jackson sat a few feet apart in a courtroom in which they both heard cases when they served on the federal appeals court in Washington.",
+      "keywords": [
+        "ICE",
+        "court order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A public disagreement between justices on emergency orders reflects ongoing institutional tensions over judicial independence and presidential power, but represents normal judicial discourse rather than systemic erosion.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-10T18:13:04.640Z"
+    },
+    {
+      "id": "ab86a1ca111a",
+      "title": "Georgia voters are choosing a successor for Marjorie Taylor Greene",
+      "url": "https://www.pbs.org/newshour/politics/georgia-voters-are-choosing-a-successor-for-marjorie-taylor-greene",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T15:21:44.000Z",
+      "description": "The winner will serve out the remaining months of Greene's term. But if they want to remain in Congress beyond next January, they will have to run again.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine election reporting about a congressional special election with no implications for institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:04.504Z"
+    },
+    {
+      "id": "aa00de088105",
+      "title": "What to expect in Mississippi's state primaries",
+      "url": "https://www.pbs.org/newshour/politics/what-to-expect-in-mississippis-state-primaries",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T14:47:54.000Z",
+      "description": "Mississippi voters will choose nominees for Congress in a state primary Tuesday.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "Routine coverage of a state primary election with no indication of impact on federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:05.377Z"
+    },
+    {
+      "id": "71ff73b503a0",
+      "title": "Divided on so many things, Americans find unity in frustration at higher gas prices",
+      "url": "https://www.pbs.org/newshour/nation/divided-on-so-many-things-americans-find-unity-in-frustration-at-higher-gas-prices",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T14:28:49.000Z",
+      "description": "The national average gas price was $3.48 a gallon on Monday, up from $2.90 a month ago, before the war, according to tracking by AAA.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on gas price fluctuations and public sentiment, which is routine economic news without implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:07.090Z"
+    },
+    {
+      "id": "3b45d508d94e",
+      "title": "What to expect in Georgia's special election to fill Marjorie Taylor Greene's former seat",
+      "url": "https://www.pbs.org/newshour/politics/what-to-expect-in-georgias-special-election-to-fill-marjorie-taylor-greenes-former-seat",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T14:23:51.000Z",
+      "description": "A crowded field of 22 candidates initially filed to run for the vacant U.S. House seat, but that number fell to 17 active contenders after a handful of withdrawals from the race.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage reporting on candidate participation in a special election, with no direct implications for institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-10T18:13:07.331Z"
+    },
+    {
+      "id": "855f58a20e09",
+      "title": "FBI finds 'explosive residue' in storage unit related to 'ISIS-inspired terrorism' outside NYC mayor's home",
+      "url": "https://www.nbcnews.com/news/us-news/fbi-searches-pennsylvania-storage-unit-related-isis-inspired-terrorism-rcna262691",
+      "source": "NBC News",
+      "published": "2026-03-10T14:49:14.000Z",
+      "description": "The FBI said Tuesday that it found \"explosive residue\" in a Pennsylvania storage unit believed to be connected to what authorities described as an \"ISIS-inspired terrorism\" incident near New York City Mayor Zohran Mamdani's residence over the weekend.",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal investigation/law enforcement matter with no bearing on democratic institutions, checks and balances, or separation of powers.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:07.040Z"
+    },
+    {
+      "id": "24c2ef180180",
+      "title": "Trump loyalist Ed Martin faces disciplinary case over DOJ threat against Georgetown Law",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-doj-ed-martin-disciplinary-threat-georgetown-rcna262735",
+      "source": "NBC News",
+      "published": "2026-03-10T16:53:16.000Z",
+      "description": "Justice Department pardon attorney Ed Martin — an advocate for Jan. 6 defendants and former head of the Trump administration’s “weaponization working group” — is facing a formal disciplinary proceeding for alleged threats against the First Amendment rights of Georgetown Law and improper communications with a judge",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA",
+        "pardon"
+      ],
+      "significance": 7,
+      "reason": "Disciplinary action against a DOJ official for alleged threats against institutional independence and improper judicial contact represents a significant institutional response testing DOJ independence and judicial integrity safeguards.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence",
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-10T18:13:09.018Z"
+    },
+    {
+      "id": "afd0925973b1",
+      "title": "Trump has questioned aides about Corey Lewandowski's role in DHS ad campaign, sources say",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-questioned-aides-corey-lewandowskis-role-dhs-ad-campaign-sources-rcna262631",
+      "source": "NBC News",
+      "published": "2026-03-10T15:08:27.000Z",
+      "description": "WASHINGTON – President Donald Trump has peppered aides in recent days about whether longtime adviser Corey Lewandowski profited personally from a $220 million federal advertising campaign featuring Homeland Security Secretary Kristi Noem, who was fired last week, according to three people familiar with his conversations.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Raises concerns about potential corruption and self-dealing within federal programs, but lacks confirmation of actual impropriety or institutional action.",
+      "categories": [
+        "corruption & self-dealing",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T18:13:10.032Z"
+    },
+    {
+      "id": "899f0070e220",
+      "title": "Poll work or jury duty? A bill advancing in Idaho would give people a choice",
+      "url": "https://www.nbcnews.com/politics/politics-news/idaho-bill-elections-poll-work-jury-duty-choice-rcna262684",
+      "source": "NBC News",
+      "published": "2026-03-10T12:16:12.000Z",
+      "description": "Idahoans may soon have the opportunity to trade jury duty for election work.",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine state-level policy proposal about jury duty alternatives with minimal direct impact on federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:09.378Z"
+    },
+    {
+      "id": "ff5215243cfd",
+      "title": "Thune stands firm on SAVE America Act despite Trump pressure",
+      "url": "https://www.cbsnews.com/news/save-america-act-thune-trump/",
+      "source": "CBS News",
+      "published": "2026-03-10T17:29:38.000Z",
+      "description": "Senate Majority Leader John Thune made clear that an elections bill known as the SAVE America Act faces an unlikely path to passage.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A legislative leadership position on a specific bill reflects notable congressional dynamics but lacks indication of institutional erosion or major policy change at this stage.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-10T18:13:09.635Z"
+    },
+    {
+      "id": "76bb910d9296",
+      "title": "Trump order cutting ties with Anthropic likely coming this week, sources say",
+      "url": "https://www.cbsnews.com/news/trump-anthropic-executive-order-federal-government/",
+      "source": "CBS News",
+      "published": "2026-03-10T17:18:38.000Z",
+      "description": "President Trump will issue an executive order to remove Anthropic's AI technology from agencies across the executive branch, sources familiar with the matter tell CBS News.",
+      "keywords": [
+        "executive order",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A presidential order redirecting agency technology contracts represents a notable executive action with potential implications for institutional independence and federal programs, but lacks the unprecedented or systemic democratic erosion characteristics of higher-rated events.",
+      "categories": [
+        "federal programs & agencies",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-10T18:13:09.636Z"
+    },
+    {
+      "id": "a5b454169195",
+      "title": "DOJ's Ed Martin faces ethics charges over threatening letter to Georgetown",
+      "url": "https://www.cbsnews.com/news/doj-ed-martin-ethics-charges-disciplinary-office-georgetown-university/",
+      "source": "CBS News",
+      "published": "2026-03-10T15:10:00.000Z",
+      "description": "The office that polices attorney misconduct in Washington, D.C., has filed ethics charges against Justice Department pardon attorney Ed Martin.",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "EPA",
+        "pardon"
+      ],
+      "significance": 5,
+      "reason": "An ethics complaint against a DOJ official represents institutional accountability mechanisms functioning, but the specific incident involves a single attorney's conduct rather than systemic threats to checks and balances.",
+      "categories": [
+        "DOJ independence",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-10T18:13:11.935Z"
+    },
+    {
+      "id": "48faaa23ba14",
+      "title": "Hegseth: Today \"most intense day\" of attacks on Iran, Trump to determine \"end stage\"",
+      "url": "https://www.cbsnews.com/news/pete-hegseth-dan-caine-news-briefing-pentagon-iran-war/",
+      "source": "CBS News",
+      "published": "2026-03-10T14:53:04.000Z",
+      "description": "Defense Secretary Pete Hegseth said Tuesday that it would be the \"most intense day\" of strikes against Iran so far.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "A Defense Secretary's statement about military operations is notable for executive power and congressional oversight implications, but lacks evidence of institutional erosion or unprecedented democratic challenges.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T18:13:11.834Z"
+    },
+    {
+      "id": "18b9bd594cca",
+      "title": "Georgia voters deciding Marjorie Taylor Greene's replacement in special election",
+      "url": "https://www.cbsnews.com/news/georgia-14th-congressional-district-special-election-marjorie-taylor-greene-replacement/",
+      "source": "CBS News",
+      "published": "2026-03-10T10:59:14.000Z",
+      "description": "Marjorie Taylor Greene's seat in Congress has been vacant since her resignation in January, but voters in Georgia could choose her replacement during Tuesday's special election.",
+      "keywords": [
+        "election",
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "A routine special election to fill a vacant congressional seat is a normal democratic process with no apparent institutional concerns or threats to checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:11.933Z"
+    },
+    {
+      "id": "5d2363e86f47",
+      "title": " Former Missouri House speaker sentenced to prison for COVID relief fraud",
+      "url": "https://abcnews.com/Politics/wireStory/former-missouri-house-speaker-sentenced-prison-covid-relief-130914479",
+      "source": "ABC News",
+      "published": "2026-03-10T12:30:22.000Z",
+      "description": "A former top Missouri lawmaker has been sentenced to 21 months in prison for misusing pandemic relief funds",
+      "keywords": [
+        "speaker"
+      ],
+      "significance": 2,
+      "reason": "This is a routine criminal prosecution of individual corruption that demonstrates the judicial system functioning normally, without systemic implications for democratic checks and balances.",
+      "categories": [
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-10T18:13:12.117Z"
+    },
+    {
+      "id": "6b8bce25b3f0",
+      "title": " Australia has granted asylum to 5 members of the Iranian women's soccer team, Australian official says",
+      "url": "https://abcnews.com/Politics/wireStory/australia-granted-asylum-5-members-iranian-womens-soccer-130912970",
+      "source": "ABC News",
+      "published": "2026-03-10T12:30:58.000Z",
+      "description": "Australia has granted asylum to 5 members of the Iranian women's soccer team, Australian official says",
+      "keywords": [
+        "asylum"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Australian asylum policy and has no direct relevance to U.S. democratic institutions, checks and balances, or the tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:11.787Z"
+    },
+    {
+      "id": "4e7d325b4b14",
+      "title": "Gas price spikes are slamming Senate battleground states",
+      "url": "https://www.axios.com/2026/03/10/gas-prices-senate-battleground-iran-war-2026",
+      "source": "Axios",
+      "published": "2026-03-10T14:10:35.000Z",
+      "description": "The Iran war's fuel-price shock is slamming states that could decide Senate control in November, a potential headache for Republicans defending their majority.\nWhy it matters: Affordability was already Democrats' central midterm message, and now the cost of President Trump's unpopular war is on display at the pump.\n\nJust 29% of Americans approve of the strikes, and two-thirds — including 44% of Republicans — expect gas prices to keep rising, according to a Reuters/Ipsos poll conducted through Mo",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a political campaign impact story focused on policy consequences and electoral messaging, not on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:14.139Z"
+    },
+    {
+      "id": "3d53f884f3bb",
+      "title": "Live updates: Leavitt holds briefing, Hegseth says Iran faces ‘most intense day’ of attack",
+      "url": "https://thehill.com/homenews/administration/5775414-live-updates-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-10T18:07:00.000Z",
+      "description": "Defense Secretary Pete Hegseth said attacks on Iran would ramp up on Tuesday and that the U.S. is “winning” the battle. “Today will be, yet again, our most intense day of strikes inside Iran. The most fighters, the most bombers, the most strikes. Intelligence more refined and better than ever,” Hegseth said at a briefing…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 2,
+      "reason": "Routine military operational briefing with no direct implications for democratic checks and balances, oversight mechanisms, or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:14.099Z"
+    },
+    {
+      "id": "168e582f8dcf",
+      "title": "Trump administration’s financial ties revealed in new report: suspicious!  ",
+      "url": "https://thehill.com/opinion/lindseys-lens/5777205-trump-officials-conflict-interest/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:35:20.000Z",
+      "description": "One of the core principles of American government is that the people making the rules shouldn’t be the same people quietly benefiting from them. But new reporting from ProPublica suggests that line is getting harder to see.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Financial conflict of interest reporting is substantively important to corruption oversight but lacks specifics on institutional impact or unprecedented actions.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-10T18:13:14.190Z"
+    },
+    {
+      "id": "51a45cc802ad",
+      "title": "Retired Army general: Iran regime ‘fundamentally miscalculated’ Trump",
+      "url": "https://thehill.com/policy/defense/5777128-jack-keane-iran-regime-trump-administration/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:25:13.000Z",
+      "description": "Retired four-star U.S. Army Gen. Jack Keane said Monday that the Iranian government “fundamentally miscalculated” President Trump as conflict in the Middle East persists. “What these guys did, Rita and John, is they fundamentally miscalculated President Trump,” Keane told radio hosts John Catsimatidis and Rita Cosby on WABC’s “Cats & Cosby” program. “They bought into…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is commentary from a retired military official about foreign policy and Iran's assessment of Trump, with no direct bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:13.892Z"
+    },
+    {
+      "id": "d5d7483a6f46",
+      "title": "Shock poll: Democratic Party super unpopular; voters hate Kamala, Newsom, AI, Iran  ",
+      "url": "https://thehill.com/opinion/robbys-radar/5777165-poll-shows-dem-unpopularity/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:21:45.000Z",
+      "description": "Americans don’t love everything Trump does, but they’re really, really not sure they can trust Democrats to govern ever again.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is polling commentary on voter preferences and party popularity, which is routine political news without direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:14.217Z"
+    },
+    {
+      "id": "10c6a2ff7a21",
+      "title": "Witkoff: Russians told Trump they have not been sharing intelligence with Iran to target US",
+      "url": "https://thehill.com/homenews/administration/5776986-us-envoy-russia-iran-middle-east/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:12:30.000Z",
+      "description": "U.S. Special Envoy to the Middle East Steve Witkoff on Tuesday said the Russians have not been sharing intelligence with Iran to target the United States as it fires off retaliatory attacks on Gulf partners in the region. “I can tell you that yesterday, on the call with [President Trump], the Russians said they have…",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine diplomatic reporting about a foreign intelligence claim with no direct bearing on domestic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:16.073Z"
+    },
+    {
+      "id": "9a0a231f272b",
+      "title": "Watch live: White House holds briefing as Iran conflict stretches to 11 days",
+      "url": "https://thehill.com/video-clips/5776796-watch-live-white-house-press-briefing-iran-conflict-save-act/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:00:00.000Z",
+      "description": "White House press secretary Karoline Leavitt will brief reporters Tuesday afternoon as tensions with Iran stretch into its 11th day. President Trump on Monday signaled the U.S. military operation in Tehran could wrap up “very soon” but acknowledged that the Pentagon has not ruled out deploying troops to the region in the future. Defense Secretary…",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on scheduled White House briefing regarding ongoing military situation with no indication of institutional checks/balances erosion or democratic concerns.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:16.827Z"
+    },
+    {
+      "id": "7fb0cac7e26d",
+      "title": "Expect tragedy if a Trump-inspired uprising fails in Iran",
+      "url": "https://thehill.com/opinion/international/5774888-expect-tragedy-if-a-trump-inspired-uprising-fails-in-iran/",
+      "source": "The Hill",
+      "published": "2026-03-10T17:00:00.000Z",
+      "description": "During January’s mass demonstrations in Iran, President Trump addressed the Iranian people.  “Iranian Patriots, keep protesting — take over your institutions!!! Help is on its way.”   At the outset of the U.S.-Israeli strikes on Iran, he again urged Iranians to “Take over your government. It will be yours to take.”  Israeli Prime Minister Benjamin Netanyahu issued a…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article concerns U.S. foreign policy statements toward Iran and does not address domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:15.014Z"
+    },
+    {
+      "id": "f6f7d33672b7",
+      "title": "Speaker Johnson floats using reconciliation to address alleged fraud in blue states",
+      "url": "https://thehill.com/homenews/house/5777077-johnson-targets-fraud-waste-abuse/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:52:55.000Z",
+      "description": "DORAL, Fla. – Speaker Mike Johnson (R-La.) on Tuesday floated the idea of passing a sweeping spending package aimed at targeting what he described as fraud, waste and abuse in Democratic-led states. Johnson said during a news conference at the House Republican retreat in Doral that he’s been a “champion for reconciliation as one of…",
+      "keywords": [
+        "johnson",
+        "speaker"
+      ],
+      "significance": 5,
+      "reason": "Proposal to use reconciliation for partisan spending targeting specific states raises concerns about congressional oversight and potential abuse of budget procedures, but represents floated idea rather than enacted policy.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-10T18:13:15.267Z"
+    },
+    {
+      "id": "5f8ff2d7d472",
+      "title": "RFK Jr. undergoing rotator cuff surgery",
+      "url": "https://thehill.com/policy/healthcare/5776985-rfk-jr-undergoing-rotator-cuff-surgery/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:42:12.000Z",
+      "description": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. will undergo rotator cuff surgery on Tuesday, with plans to return to the office soon after, according to a department spokesperson. “Secretary Kennedy will undergo rotator cuff surgery this Tuesday and plans to return to the office the following Monday,” an HHS spokesman told The…",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "Personal medical information about a cabinet official has no bearing on democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:16.002Z"
+    },
+    {
+      "id": "34c0660e1f50",
+      "title": "Rand Paul: Midterms will be ‘disastrous’ for Republicans",
+      "url": "https://thehill.com/homenews/campaign/5776845-rand-paul-warns-midterm-disaster/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:32:01.000Z",
+      "description": "Republican Sen. Rand Paul (Ky.) warned Tuesday that the midterms could be “disastrous” for his party if the war in Iran continues.  “Already, we are behind the eight-ball as far as the electoral process,” Paul told host Maria Bartiromo on Fox Business’s “Mornings with Maria.” “I think if you add in high gas prices, high…",
+      "keywords": [
+        "midterm",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine political opinion statement from a senator about electoral prospects, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:20.380Z"
+    },
+    {
+      "id": "5b6e8c6f4472",
+      "title": "Shutdowns just stop paychecks, they don’t really shut government down",
+      "url": "https://thehill.com/opinion/congress-blog/economy-budget/5775312-shutdown-fairness-act-congress/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:30:00.000Z",
+      "description": "If federal employees are required to report to work, safeguard the public and keep the country running, they must be paid on time.",
+      "keywords": [
+        "federal employees"
+      ],
+      "significance": 5,
+      "reason": "This article addresses a legitimate institutional concern about federal employee compensation during shutdowns that affects civil service independence and federal program operations, but lacks the urgency of an immediate democratic threat.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T18:13:18.659Z"
+    },
+    {
+      "id": "887d6411245c",
+      "title": "Schumer: Trump claim on Iran having tomahawk missiles ‘beyond asinine’",
+      "url": "https://thehill.com/homenews/senate/5776813-schumer-trump-tomahawk-missiles-iran/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:26:16.000Z",
+      "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) on Tuesday called President Trump’s recent claim that Iran has Tomahawk missiles that it used on a girls school, killing over 100 civilians, is “beyond asinine.” “He claims that Iranian Tomahawk missiles were responsible for the bombing of an all girls school that killed 170 people, including many children,”…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary involving a factual dispute over a foreign policy claim, with no direct bearing on institutional checks and balances or democratic governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:19.325Z"
+    },
+    {
+      "id": "cf4b3de4972d",
+      "title": "OpenAI sued over Canada school shooting",
+      "url": "https://thehill.com/policy/technology/5776949-lawsuit-openai-canada-school-shooting/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:17:34.000Z",
+      "description": "The family of a girl critically wounded in a Canada school shooting has filed a lawsuit against ChatGPT-maker OpenAI, accusing the artificial intelligence firm of being aware of the suspect’s planned shooting but failing to alert authorities.  The suit was filed Monday in the Supreme Court of British Columbia by the parents of 12-year-old Maya…",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This is a civil lawsuit against a private company regarding AI liability in a Canadian incident, which does not directly implicate U.S. democratic checks and balances or institutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:18.798Z"
+    },
+    {
+      "id": "af81dfdde147",
+      "title": "Oz: Millions may be falsely enrolled in ObamaCare",
+      "url": "https://thehill.com/policy/healthcare/5776734-oz-claims-aca-fraud-millions/",
+      "source": "The Hill",
+      "published": "2026-03-10T16:12:31.000Z",
+      "description": "Mehmet Oz, administrator for the Centers for Medicare and Medicaid Services (CMS), claimed in an interview published Monday that millions of people could potentially be falsely enrolled in Affordable Care Act (ACA) plans. In January, early ACA enrollment figures indicated a drop following four consecutive years of record growth, going from 23.6 million enrollees to…",
+      "keywords": [
+        "ICE",
+        "medicaid"
+      ],
+      "significance": 3,
+      "reason": "This is an administrative claim about enrollment data accuracy that does not directly implicate democratic checks and balances, institutional independence, or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:18.711Z"
+    },
+    {
+      "id": "f43c98c3d74e",
+      "title": "'Forever war:' Democrats rebut Trump's assertion that Iran war nearing end",
+      "url": "https://www.cnbc.com/2026/03/10/iran-war-israel-ending-trump-democrats.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-10T17:33:50.000Z",
+      "description": "President Donald Trump on Monday suggested the war may be nearing an end, sending markets soaring and oil plummeting.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy disagreement between branches of government, with no direct implications for democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:22.161Z"
+    },
+    {
+      "id": "841a7b5a30a3",
+      "title": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says",
+      "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-russia-intelligence-witkoff.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-10T17:09:31.000Z",
+      "description": "U.S. officials have said Russia has given Iran information that could help its forces strike U.S. military assets in the Middle East, MS Now has reported.",
+      "keywords": [
+        "intelligence",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Reports of foreign intelligence sharing involve national security concerns but lack evidence of direct institutional erosion of domestic democratic checks and balances, though the diplomatic context warrants monitoring.",
+      "categories": [
+        "intelligence community integrity"
+      ],
+      "scoredAt": "2026-03-10T18:13:22.197Z"
+    },
+    {
+      "id": "de6c7316b3f7",
+      "title": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
+      "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-10T15:33:42.000Z",
+      "description": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news reporting on executive branch foreign policy statements regarding military operations, which does not directly implicate domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:22.159Z"
+    },
+    {
+      "id": "e9f626c16d60",
+      "title": "Trump reiterates threat of a 'friendly takeover' of Cuba as fuel crisis deepens",
+      "url": "https://www.cnbc.com/2026/03/10/iran-war-cuba-crisis-fuel-energy-trump-us-havana.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-10T12:07:28.000Z",
+      "description": "The comments come less than a week after Trump suggested that his administration would turn its sights on Havana.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Foreign policy rhetoric about Cuba does not directly impact U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T18:13:22.276Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-10T12:07:14.098Z"
+  "lastFetch": "2026-03-10T18:13:22.276Z"
 }
