@@ -404,41 +404,6 @@
       "scoredAt": "2026-02-09T17:50:03.019Z"
     },
     {
-      "id": "da2df230790e",
-      "title": "Nancy Pelosi to back JFK's grandson in crowded House primary, source says",
-      "url": "https://www.nbcnews.com/politics/elections/nancy-pelosi-set-endorse-jfks-grandson-new-york-house-seat-source-says-rcna257968",
-      "source": "NBC News",
-      "published": "2026-02-08T01:23:10.000Z",
-      "description": "Former House Speaker Nancy Pelosi, D-Calif., plans to endorse Jack Schlossberg, the grandson of President John F. Kennedy, in his run for a competitive House seat in New York City, a source familiar with the matter told NBC News",
-      "keywords": [
-        "speaker"
-      ],
-      "significance": 2,
-      "reason": "This is routine political news about an endorsement in a primary election, involving no institutional threats or checks and balances concerns.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:03.030Z"
-    },
-    {
-      "id": "34b1c8ee717d",
-      "title": "Tulsi Gabbard responds to criticism over handling of whistleblower complaint",
-      "url": "https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-responds-senators-criticism-handling-whistleblower-compl-rcna257952",
-      "source": "NBC News",
-      "published": "2026-02-08T00:35:56.000Z",
-      "description": "Director of National Intelligence Tulsi Gabbard responded to criticism from Sen.",
-      "keywords": [
-        "gabbard",
-        "intelligence",
-        "national intelligence"
-      ],
-      "significance": 5,
-      "reason": "A public response to whistleblower handling criticism indicates institutional accountability mechanisms are functioning, but without details on the substance of the complaint or response, the significance remains unclear.",
-      "categories": [
-        "intelligence community integrity",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:50:02.965Z"
-    },
-    {
       "id": "199b8eca18bc",
       "title": "Ghislaine Maxwell's lawyer says she'll testify if Trump grants her clemency",
       "url": "https://www.cbsnews.com/news/ghislaine-maxwell-house-oversight-committee-deposition-fifth-amendment/",
@@ -47326,8 +47291,273 @@
       "reason": "This article addresses economic policy and geopolitical conflict rather than institutional checks and balances or democratic safeguards.",
       "categories": [],
       "scoredAt": "2026-03-10T00:08:31.425Z"
+    },
+    {
+      "id": "a4a044116ba1",
+      "title": "Here are Mississippi's 2026 primary election results",
+      "url": "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
+      "source": "NPR Politics",
+      "published": "2026-03-10T04:01:00.000Z",
+      "description": "Live election results: Get the latest on Mississippi's U.S. Senate and U.S. House primary races.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "Routine election results reporting with no indication of institutional concerns, policy changes, or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:35.506Z"
+    },
+    {
+      "id": "dabd2b49643c",
+      "title": "WATCH: Trump sidesteps responsibility for deadly strike on Iranian girls' school",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-sidesteps-responsibility-for-deadly-strike-on-iranian-girls-school",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T00:44:02.000Z",
+      "description": "President Donald Trump erroneously claimed Monday that Iran has access to the American Tomahawk cruise missile, the weapon likely used to strike a girls' school in Iran, killing 165 people. When asked why he was the only person in his administration making the claim, Trump replied: \"Because I just don't know enough about it.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article documents a president's factual misstatement and evasion regarding a foreign military incident, but does not describe an action that directly undermines domestic democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:35.892Z"
+    },
+    {
+      "id": "d7e40688dac7",
+      "title": "Trump administration widens its 2020 election probe as it obtains records from Arizona",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-widens-its-2020-election-probe-as-it-obtains-records-from-arizona",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T00:18:14.000Z",
+      "description": "The Republican leader of Arizona's state Senate said Monday he has handed over records related to the 2020 presidential election to the FBI in the latest sign that the Trump administration is acting on the president's longstanding falsehoods about a race he lost to Democrat Joe Biden.",
+      "keywords": [
+        "election",
+        "FBI",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional action where executive branch authorities are investigating election integrity claims based on false premises, raising concerns about DOJ/FBI independence and potential misuse of investigative powers to validate baseless election fraud narratives.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-10T06:11:36.004Z"
+    },
+    {
+      "id": "a4aa3f196a8c",
+      "title": "Senate Republicans splinter over SAVE America Act's path as Trump calls for more revisions",
+      "url": "https://www.nbcnews.com/politics/congress/senate-republicans-splinter-america-acts-path-trump-calls-revisions-rcna262509",
+      "source": "NBC News",
+      "published": "2026-03-10T00:58:05.000Z",
+      "description": "The prospects for President Donald Trump’s SAVE America Act grew murkier as divisions deepened among Senate Republicans about how to pass it.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "Internal Republican disagreement on legislative strategy represents normal legislative debate rather than a demonstrated threat to institutional checks and balances, though the bill's content would require examination to assess full significance.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-10T06:11:37.139Z"
+    },
+    {
+      "id": "0ea7f6136763",
+      "title": "Possible 2028 Democratic White House contenders weigh in on Iran with New Hampshire voters",
+      "url": "https://www.cbsnews.com/news/iran-possible-democratic-white-house-contenders-new-hampshire-beshear-newsom/",
+      "source": "CBS News",
+      "published": "2026-03-10T02:14:04.000Z",
+      "description": "Two Democrats with potential presidential ambitions — Govs. Gavin Newsom and Andy Beshear — are weighing in on the U.S.-Iran war and criticizing President Trump's strategy, as the conflict overtakes the foreign policy debate.",
+      "keywords": [
+        "voter",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy by potential candidates, with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:36.864Z"
+    },
+    {
+      "id": "d3a9d71ffda9",
+      "title": "Frustration mounts at airports amid TSA staffing shortages spurred by DHS shutdown",
+      "url": "https://www.cbsnews.com/video/frustration-mounts-at-airports-amid-tsa-staffing-shortages-spurred-by-dhs-shutdown/",
+      "source": "CBS News",
+      "published": "2026-03-10T00:13:00.000Z",
+      "description": "Airline passengers in some of the United States' largest airports are seeing long security lines amid the ongoing partial government shutdown impacting the Department of Homeland Security. As Kris Van Cleave reports, more TSA employees are calling out sick as they work without pay.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "While staffing shortages are operationally disruptive, this article addresses workforce management during a shutdown rather than threats to democratic checks and balances, institutional independence, or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:36.965Z"
+    },
+    {
+      "id": "ea2cf5baf2a9",
+      "title": "Trump signals Iran war could end soon: \"Very far ahead of schedule\"",
+      "url": "https://www.cbsnews.com/video/trump-signals-iran-war-could-end-soon-very-far-ahead-of-schedule/",
+      "source": "CBS News",
+      "published": "2026-03-10T00:08:00.000Z",
+      "description": "As U.S.-Israeli war with Iran intensifies, President Trump says it is \"very far ahead of schedule.\" Meanwhile, there are new questions about the bombing of Iranian girls' school. Weijia Jiang and Nancy Cordes have more.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article reports on military operations and policy statements with no direct bearing on domestic democratic institutions, oversight mechanisms, or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:36.782Z"
+    },
+    {
+      "id": "22541b8affd9",
+      "title": " Mississippi voters to decide whether to send longtime Rep. Thompson back to Washington",
+      "url": "https://abcnews.com/Politics/wireStory/mississippi-voters-decide-send-longtime-rep-thompson-back-130923108",
+      "source": "ABC News",
+      "published": "2026-03-10T04:45:37.000Z",
+      "description": "Mississippi voters on Tuesday are deciding between longtime U.S. Rep. Bennie Thompson and his 34-year-old Democratic primary challenger",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is routine election coverage of a primary race with no implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:36.803Z"
+    },
+    {
+      "id": "359c4369ce9e",
+      "title": "Trump says Iran war will be over \"very soon\"",
+      "url": "https://www.axios.com/2026/03/09/trump-iran-war-over-soon",
+      "source": "Axios",
+      "published": "2026-03-10T00:40:32.000Z",
+      "description": "President Trump said the war with Iran will be over \"very soon\" but made clear it will not happen this week. \nWhy it matters: Ten days after the war started, Trump has begun for the first time to point to the possibility of it winding down soon.\n\nHis comments at a press conference were in line with several other public signals from him on Monday.\nSome U.S. officials think Trump's comments were aimed at calming the stock markets in the U.S. and around the world, which were shaken by the war.    \n",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy statements with no direct bearing on domestic checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:37.904Z"
+    },
+    {
+      "id": "3a090e3436e4",
+      "title": "Kaine: Trump calling Iran war an ‘excursion’ is ‘deeply disrespectful’ to service members",
+      "url": "https://thehill.com/homenews/senate/5776187-kaine-slams-trump-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-10T03:06:58.000Z",
+      "description": "Sen. Tim Kaine (D-Va.) slammed President Trump for referring to the war in Iran as an “excursion” on Monday. “You can’t watch that and feel that that way of characterizing this is [not] deeply disrespectful,” Kaine told host Kaitlan Collins on CNN’s “The Source,” after watching the dignified transfer of Sgt. Benjamin N. Pennington at…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on presidential rhetoric rather than reporting on institutional actions or policy changes affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:37.900Z"
+    },
+    {
+      "id": "0d71e2dda5d1",
+      "title": "Paul hopes for Mullin’s DHS confirmation hearing next week",
+      "url": "https://thehill.com/homenews/senate/5776169-rand-paul-mullin-confirmation-hearing-dhs/",
+      "source": "The Hill",
+      "published": "2026-03-10T02:26:51.000Z",
+      "description": "Sen. Rand Paul (R-Ky.), the chair of the Senate Homeland Security and Governmental Affairs Committee, said Monday he hopes to hold a confirmation hearing next week for Sen. Markwayne Mullin (R-Okla.), President Trump’s nominee to head the Department of Homeland Security (DHS). “We’re shooting for a week from Wednesday,” Paul told reporters as he stepped…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine procedural announcement about scheduling a confirmation hearing that represents normal congressional oversight functioning, though DHS leadership appointments carry institutional importance.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T06:11:38.158Z"
+    },
+    {
+      "id": "e9c6ee08cb04",
+      "title": "Trump says he’ll strike Iran ‘20 times harder’ than before if oil flow halted in Strait of Hormuz",
+      "url": "https://thehill.com/homenews/administration/5776100-trump-threatens-iran-hormuz-oil-flow/",
+      "source": "The Hill",
+      "published": "2026-03-10T01:35:30.000Z",
+      "description": "President Trump on Monday threatened the Iranian regime against halting the flow of oil through the Strait of Hormuz, as gas prices back home rise amid the U.S.-Israeli war with Iran.  “If Iran does anything that stops the flow of Oil within the Strait of Hormuz, they will be hit by the United States of…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine foreign policy statement/threat regarding Iran and oil supplies with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:37.960Z"
+    },
+    {
+      "id": "90d4f6988043",
+      "title": "5 takeaways from Trump’s Iran presser at Doral",
+      "url": "https://thehill.com/homenews/administration/5776101-trump-iran-war-timeline-takeaways/",
+      "source": "The Hill",
+      "published": "2026-03-10T00:36:37.000Z",
+      "description": "President Trump suggested the war with Iran could be coming to a close during a press conference at his Miami resort on Monday, which immediately followed his address to House Republicans at their annual retreat.  “Very soon,” Trump said when asked when the war would end. “Look, everything they have is gone, including their leadership.”…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news coverage of a presidential press conference statement on foreign policy with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:38.071Z"
+    },
+    {
+      "id": "ceba0401c63a",
+      "title": "Rubio designates Afghanistan as ‘state sponsor of wrongful detention’",
+      "url": "https://thehill.com/policy/international/5776034-rubio-designates-afghanistan-detention/",
+      "source": "The Hill",
+      "published": "2026-03-10T00:27:13.000Z",
+      "description": "Secretary of State Marco Rubio on Monday designated Afghanistan as a “state sponsor of wrongful detention” and urged the ruling Taliban to release two U.S. citizens he said are “unjustly detained.” “Today, I am designating Afghanistan as a State Sponsor of Wrongful Detention. The Taliban continues to use terrorist tactics, kidnapping individuals for ransom or…",
+      "keywords": [
+        "detained",
+        "ruling",
+        "detention"
+      ],
+      "significance": 2,
+      "reason": "This is a routine foreign policy designation announcement regarding detainee issues in Afghanistan, which does not directly implicate U.S. domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:38.976Z"
+    },
+    {
+      "id": "d91f51a0ac7c",
+      "title": "Trump tells Republicans the SAVE America Act will ‘guarantee the midterms’",
+      "url": "https://thehill.com/homenews/house/5776058-trump-republicans-save-america-act-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-10T00:03:41.000Z",
+      "description": "DORAL, Fla. – President Trump on Monday pushed for the passage of a GOP voting requirements bill, telling House Republicans that enacting the legislation will “guarantee the midterms” and reiterating that he won’t sign any other bills until it gets passed.  “It will guarantee the midterms. If you don’t get it, big trouble,” Trump said…",
+      "keywords": [
+        "voting",
+        "midterm",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A sitting president conditioning legislative cooperation on passage of a specific voting requirements bill represents significant institutional pressure that directly implicates election integrity and congressional independence.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-10T06:11:39.104Z"
+    },
+    {
+      "id": "87c4d5faeb7d",
+      "title": "Trump Says Iran War Is Both ‘Very Complete’ But Also Just ‘the Beginning’",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-iran-war-end-conflicting-statements-1235527645/",
+      "source": "Rolling Stone",
+      "published": "2026-03-10T05:55:24.000Z",
+      "description": "The president and the Pentagon are delivering conflicting signals on how long the U.S.-Israeli war with Iran will last",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on conflicting public statements about military operations rather than documenting institutional actions that affect democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T06:11:38.911Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-10T00:08:32.063Z"
+  "lastFetch": "2026-03-10T06:11:39.104Z"
 }
