@@ -135,21 +135,6 @@
       "scoredAt": "2026-02-09T17:49:37.220Z"
     },
     {
-      "id": "4c717685618b",
-      "title": "Thailand counts votes in early election with 3 main parties vying for power",
-      "url": "https://www.npr.org/2026/02/08/nx-s1-5705865/thailand-counts-votes-election",
-      "source": "NPR Politics",
-      "published": "2026-02-08T10:58:16.000Z",
-      "description": "Vote counting was underway in Thailand's early general election on Sunday, seen as a three-way race among competing visions of progressive, populist and old-fashioned patronage politics.",
-      "keywords": [
-        "election"
-      ],
-      "significance": 1,
-      "reason": "This article covers Thailand's domestic election and has no relevance to U.S. democratic institutions, checks and balances, or the specified monitoring categories.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:37.142Z"
-    },
-    {
       "id": "73a510fe5a0d",
       "title": "WATCH: Ghislaine Maxwell not cooperating because she is campaigning for Trump pardon, Democrats say",
       "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-not-cooperating-because-she-is-campaigning-for-trump-pardon-democrats-say",
@@ -313,28 +298,6 @@
       "reason": "A statement about economic ownership is routine political commentary without institutional, legal, or structural implications for democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:49:53.692Z"
-    },
-    {
-      "id": "ba54199d1a4c",
-      "title": "Trump's election threats shape this year's key secretary of state races",
-      "url": "https://www.nbcnews.com/politics/2026-election/trumps-election-threats-shape-years-key-secretary-state-races-rcna257573",
-      "source": "NBC News",
-      "published": "2026-02-08T10:00:40.000Z",
-      "description": "President Donald Trump’s call to “nationalize” elections and continued false claims of fraud are defining races this year for offices that oversee the voting process in key battleground states",
-      "keywords": [
-        "election",
-        "voting",
-        "ICE",
-        "trump"
-      ],
-      "significance": 7,
-      "reason": "Trump's push to nationalize elections and election fraud rhetoric directly threatens the independence of state election officials and the integrity of election infrastructure, a foundational democratic check.",
-      "categories": [
-        "election infrastructure",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:53.862Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
     },
     {
       "id": "e23de84f820a",
@@ -47556,8 +47519,486 @@
       "reason": "This article reports on conflicting public statements about military operations rather than documenting institutional actions that affect democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-10T06:11:38.911Z"
+    },
+    {
+      "id": "f845aa826392",
+      "title": "Credit Bureaus Are Leaving More Mistakes on Frustrated Consumers’ Reports Under Trump’s CFPB",
+      "url": "https://www.propublica.org/article/credit-report-mistakes-cfpb-experian-transunion",
+      "source": "ProPublica",
+      "published": "2026-03-10T09:00:00.000Z",
+      "description": "The post Credit Bureaus Are Leaving More Mistakes on Frustrated Consumers’ Reports Under Trump’s CFPB appeared first on ProPublica.",
+      "keywords": [
+        "trump",
+        "CFPB"
+      ],
+      "significance": 5,
+      "reason": "This article documents potential regulatory enforcement decline at a federal agency under new leadership, representing a notable institutional shift with consumer protection implications but lacking evidence of direct checks-and-balances erosion.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T12:07:07.706Z"
+    },
+    {
+      "id": "36810bbb22d1",
+      "title": "'Pro-worker AI,' streaming fatalities, and other fascinating new economic studies",
+      "url": "https://www.npr.org/sections/planet-money/2026/03/10/g-s1-112700/pro-worker-ai-streaming-fatalities-and-other-fascinating-new-economic-studies",
+      "source": "NPR Politics",
+      "published": "2026-03-10T10:30:00.000Z",
+      "description": "From artificial intelligence to fatalities from music streaming to the effects of immigrants on elderly health care, the Planet Money newsletter rounds up some interesting new economic studies.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This is a roundup of economic research studies with no direct relevance to democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:07.523Z"
+    },
+    {
+      "id": "583dc0a5da0d",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5741660/newsbrief-trump-on-war-lebanon-israel-nyc-attacks",
+      "source": "NPR Politics",
+      "published": "2026-03-10T09:08:58.000Z",
+      "description": "Trump hails Iran successes but offers no end date, Lebanon wants talks with Israel, and two teens are charged in NYC attack attempt.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news brief covering foreign policy and crime without addressing any of the 12 tracked categories affecting U.S. democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:07.387Z"
+    },
+    {
+      "id": "6c36e3e9c5d8",
+      "title": "One year later: Mahmoud Khalil remains in limbo but ready to fight",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
+      "source": "NPR Politics",
+      "published": "2026-03-10T09:00:00.000Z",
+      "description": "The case of Khalil, who was detained last March, sits at the vanguard of a battle of immigrants' due process and civil rights, and the Trump administration's mass detention and deportation policies.",
+      "keywords": [
+        "deportation",
+        "detained",
+        "trump",
+        "detention"
+      ],
+      "significance": 6,
+      "reason": "This case exemplifies ongoing tensions in immigration enforcement and civil rights protections, but represents an individual case rather than a systemic institutional change or unprecedented democratic erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-10T12:07:07.546Z"
+    },
+    {
+      "id": "bde24b99a073",
+      "title": "Out of work and with 2 teens, this mom may lose food stamps under Trump's changes",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5737476/snap-trump-work-requirements-families",
+      "source": "NPR Politics",
+      "published": "2026-03-10T09:00:00.000Z",
+      "description": "Policy experts say new SNAP changes don't address the challenges faced by single parents. They also argue that losing food assistance will only create more barriers for struggling families.",
+      "keywords": [
+        "trump",
+        "SNAP",
+        "food stamps"
+      ],
+      "significance": 4,
+      "reason": "This article reports on a policy implementation affecting social safety nets with potential civil rights implications, but lacks evidence of systematic institutional erosion or unprecedented democratic checks violations.",
+      "categories": [
+        "immigration & civil rights",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T12:07:07.708Z"
+    },
+    {
+      "id": "cea5abfbdf21",
+      "title": "Georgia special election to replace MTG tests the power of Trump's endorsement",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
+      "source": "NPR Politics",
+      "published": "2026-03-10T09:00:00.000Z",
+      "description": "Voting ends Tuesday night in the district that former Rep. Marjorie Taylor Greene left this year after a feud with President Trump. It's unclear if his pick will win her spot.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral coverage of a special election outcome that does not involve institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:08.500Z"
+    },
+    {
+      "id": "425fe49ea45c",
+      "title": "Trump hails Iran successes, doesn't give war's time frame",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5742587/trump-hails-iran-successes-doesnt-give-wars-time-frame",
+      "source": "NPR Politics",
+      "published": "2026-03-10T08:05:33.000Z",
+      "description": "President Trump says the U.S. is 'achieving major strides' in Iran but doesn't cite an endpoint.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports routine presidential commentary on foreign policy strategy without addressing institutional checks, democratic processes, or threats to constitutional safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:08.815Z"
+    },
+    {
+      "id": "bedf7a22fb20",
+      "title": "How is Trump's war stance resonating with Republicans?",
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5742536/how-is-trumps-war-stance-resonating-with-republicans",
+      "source": "NPR Politics",
+      "published": "2026-03-10T08:05:18.000Z",
+      "description": "NPR's Steve Inskeep asks political consultant Sarah Longwell about President Trump's focus on Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article is political commentary analyzing public opinion on foreign policy rather than examining institutional checks, democratic safeguards, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:08.648Z"
+    },
+    {
+      "id": "7e46849a413d",
+      "title": "Voters head to the polls for special election in Marjorie Taylor Greene's Georgia district",
+      "url": "https://www.nbcnews.com/politics/2026-election/special-election-marjorie-taylor-greene-georgia-district-rcna262047",
+      "source": "NBC News",
+      "published": "2026-03-10T09:00:41.000Z",
+      "description": "The Georgia district that sent Marjorie Taylor Greene, once a fierce defender of Donald Trump, to Congress is now deciding how to replace her — and whether to let the president make the pick",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news covering a special election to fill a vacant House seat, with no direct bearing on institutional checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-10T12:07:10.093Z"
+    },
+    {
+      "id": "692d56858a79",
+      "title": "Majority of voters say risks of AI outweigh the benefits",
+      "url": "https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196",
+      "source": "NBC News",
+      "published": "2026-03-10T09:00:41.000Z",
+      "description": "Voters are worried about AI and don’t trust either political party to handle the rapidly evolving technology, according to a new national NBC News survey",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This is a routine public opinion poll on voter attitudes toward AI policy, lacking any direct evidence of institutional action, policy change, or democratic mechanism erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:10.104Z"
+    },
+    {
+      "id": "5037e4f638d2",
+      "title": "Travelers Stuck in TSA Lines Amid Partial Government Shutdown",
+      "url": "https://www.today.com/video/passengers-waiting-hours-at-airports-due-to-tsa-staffing-shortage-259032133859",
+      "source": "NBC News",
+      "published": "2026-03-10T11:42:11.000Z",
+      "description": "Passengers are continuing to face long lines and hours-long wait times at airports across the United States. It comes after the TSA’s funding expired three weeks ago when lawmakers failed to reach an agreement on ICE protocols, triggering a partial Homeland Security shutdown. NBC’s Tom Costello reports for TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "While government shutdown impacts are operationally disruptive, this incident reflects congressional oversight failures and federal program disruption rather than direct threats to core democratic institutions.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T12:07:10.231Z"
+    },
+    {
+      "id": "0d253c94ecef",
+      "title": "National Average for Gallon of Gas Hits $3.54 Amid War in Iran",
+      "url": "https://www.today.com/video/iran-war-impact-national-average-for-gallon-of-gas-hits-3-54-259031109776",
+      "source": "NBC News",
+      "published": "2026-03-10T11:27:23.000Z",
+      "description": "With the conflict in the Middle East escalating, gas prices have been on the rise in the United States with the national average for a gallon of gas hitting $3.54 amid a roller coaster ride for oil prices. On Monday, U.S. crude oil prices rose as high as $119 per barrel and by the end of the day it was down around $86 with an unprecedented $33 move in one day. NBC’s Camila Bernal reports for TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on commodity prices and geopolitical events with no direct relevance to U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:10.096Z"
+    },
+    {
+      "id": "dac1addd2ff6",
+      "title": "Iran Strikes Oil-Rich Gulf States to Create Pressure to End War",
+      "url": "https://www.today.com/video/iran-strikes-oil-rich-gulf-states-as-attacks-escalate-in-middle-east-259032645540",
+      "source": "NBC News",
+      "published": "2026-03-10T11:21:42.000Z",
+      "description": "As attacks escalate across the Middle East, Iran is striking oil-rich gulf states to drive up gas prices and create economic pressure to stop the war. It comes as Prime Minister Benjamin Netanyahu appealed again to Iranians to rise up and “cast off the yoke of tyranny.” NBC’s Richard Engel reports for TODAY from Tel Aviv.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on foreign military conflict and geopolitical strategy with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:09.920Z"
+    },
+    {
+      "id": "1e94a271d50c",
+      "title": " Trump pushes GOP on voting bill, demanding an end to most mail balloting",
+      "url": "https://abcnews.com/Politics/wireStory/trump-pushes-gop-voting-bill-demanding-end-mail-130918917",
+      "source": "ABC News",
+      "published": "2026-03-10T08:11:00.000Z",
+      "description": "President Donald Trump says he won’t sign any other legislation into law until Congress passes a strict proof-of-citizenship voting bill that he says also must end Americans’ ability to vote by mail",
+      "keywords": [
+        "voting",
+        "ballot",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Conditional legislation leverage on voting access combined with demands to restrict mail voting represents a significant institutional challenge to election infrastructure and congressional independence.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T12:07:11.302Z"
+    },
+    {
+      "id": "14f1cf8e5917",
+      "title": "5 takeaways from Nvidia CEO Jensen Huang's rare insider blog post on AI",
+      "url": "https://www.axios.com/2026/03/10/jensen-huang-ais-biggest-buildout-is-still-ahead",
+      "source": "Axios",
+      "published": "2026-03-10T10:00:08.000Z",
+      "description": "Nvidia CEO Jensen Huang wrote in a blog post Tuesday that decisions about how fast to build AI, who gets access and how to govern it will determine the technology's legacy.\nWhy it matters: Huang — whose company underpins the AI boom — rarely publishes long essays about the tech's broader impact, offering other industry players and investors a rare window into his thinking.\n\nThe big picture: Huang argues that chip demand, expansion and hiring are still in the early stages of what he calls a long ",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 1,
+      "reason": "This article covers a CEO's blog post on AI policy perspectives and has no direct bearing on U.S. democratic institutions, governmental checks and balances, or constitutional governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:11.136Z"
+    },
+    {
+      "id": "ad54c227c95a",
+      "title": "Exclusive: U.S. dismissed Ukraine deal for anti-Iran drone tech last year",
+      "url": "https://www.axios.com/2026/03/10/us-ukraine-anti-drone-offer",
+      "source": "Axios",
+      "published": "2026-03-10T09:39:43.000Z",
+      "description": "Nearly seven months ago, Ukrainian officials tried to sell the U.S. their battle-proven technology for downing Iranian-made attack drones. They even made a PowerPoint presentation — obtained exclusively by Axios — showing how it could protect American forces and their allies in a Middle East war.\n\nThe Trump administration dismissed the Ukrainians, only to reverse course last week because of more-than-expected drone strikes from Iran.\n\nWhy it matters: Snubbing Ukraine's offer ranks as one of the ",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a foreign policy and military procurement decision with no direct bearing on domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:11.077Z"
+    },
+    {
+      "id": "54db80f4f92f",
+      "title": "Why oil price spikes (probably) won't spur shift away from oil",
+      "url": "https://www.axios.com/2026/03/10/oil-price-spikes-prices-market-shift",
+      "source": "Axios",
+      "published": "2026-03-10T09:00:07.000Z",
+      "description": "Oil prices would need to stay high for years — not weeks or months — to drive a lasting shift away from the fossil fuel.\nThe big picture: Every time oil spikes, the same question surfaces: Will this push more people into electric cars or install solar panels onto rooftops?\n\nState of play: That's happening again after oil prices zoomed past the $100-a-barrel mark in the wake of the Iran war. \nDriving the news: Prices dropped at least temporarily in the wake of President Trump signaling Monday eve",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article addresses energy policy and consumer behavior regarding fossil fuels, which does not relate to any of the 12 tracked categories concerning democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:11.054Z"
+    },
+    {
+      "id": "b2699cbc46f3",
+      "title": "A world at war: The Iran conflict goes global",
+      "url": "https://www.axios.com/2026/03/10/world-war-iran-conflict-countries",
+      "source": "Axios",
+      "published": "2026-03-10T09:00:07.000Z",
+      "description": "Ten days into President Trump's Iran campaign, the war has gone global.\n\nAt least 20 countries are now militarily involved — shooting, shielding or quietly supplying — while a widening energy shock punishes nations far from the front lines.\n\nWhy it matters: This isn't World War III. But it may be the closest we've come in decades — drawing in more countries, more great powers and more overlapping conflicts than any crisis since the Cold War.\n\nZoom in: Iran has struck at least 10 countries since ",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While a significant geopolitical crisis with potential domestic policy implications, the article focuses on international military conflict rather than direct threats to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:11.124Z"
+    },
+    {
+      "id": "7933866b6189",
+      "title": "Don’t expect Trump to make a deal with Iran’s new leader any time soon",
+      "url": "https://thehill.com/opinion/international/5775172-mojtaba-khamenei-iran-supreme-leader/",
+      "source": "The Hill",
+      "published": "2026-03-10T12:00:00.000Z",
+      "description": "When Iran’s Assembly of Experts selected Mojtaba Khamenei as the country’s new supreme leader, some observers held out hope that a generational transition might open a path to diplomacy.\n\nThat hope is misplaced.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is foreign policy commentary about Iran's leadership transition with no direct connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:12.165Z"
+    },
+    {
+      "id": "aecd1c80a5f6",
+      "title": "Watch live: Hegseth, Caine give remarks as Trump suggests Iran war could end soon",
+      "url": "https://thehill.com/video-clips/5776385-watch-live-hegseth-caine-iran-operations-tensions/",
+      "source": "The Hill",
+      "published": "2026-03-10T11:33:08.000Z",
+      "description": "Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will speak with the media Tuesday morning as tensions with Iran persist following U.S. strikes on the Middle Eastern nation earlier this month. The Pentagon and President Trump have given conflicting accounts on how long the U.S. conflict with Iran will last in…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on scheduled Pentagon remarks regarding ongoing foreign policy and military matters with no direct implications for domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:12.288Z"
+    },
+    {
+      "id": "94d080b83ba1",
+      "title": "Here’s the real state of the union",
+      "url": "https://thehill.com/opinion/finance/5775112-heres-the-real-state-of-the-union/",
+      "source": "The Hill",
+      "published": "2026-03-10T11:00:00.000Z",
+      "description": "President Trump addressed the nation the evening of February 24 to discuss the State of the Union. His record long speech understandably focused on the positive achievements during his Administration, but it failed to help unite the country or address several key sustainability challenges, including how we are going to defuse our nation’s ticking debt…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on a State of the Union address that critiques policy priorities rather than documenting institutional actions or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:12.314Z"
+    },
+    {
+      "id": "c8d9c1f57747",
+      "title": "Pendulum swings back on economy amid Iran conflict",
+      "url": "https://thehill.com/newsletters/morning-report/5776360-iran-us-oil-prices/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:27:03.000Z",
+      "description": "Plus: FBI subpoenas Arizona election records, Anthropic sues Pentagon, Iranian soccer players granted asylum in Australia",
+      "keywords": [
+        "election",
+        "FBI",
+        "subpoena",
+        "asylum"
+      ],
+      "significance": 5,
+      "reason": "The FBI election records subpoena warrants monitoring, but the article's primary focus on economic and geopolitical matters limits its direct democratic checks significance.",
+      "categories": [
+        "election infrastructure",
+        "FBI independence"
+      ],
+      "scoredAt": "2026-03-10T12:07:12.714Z"
+    },
+    {
+      "id": "ec02b4acebe3",
+      "title": "Former CBS Miami journalist challenges Salazar for House seat in Florida",
+      "url": "https://thehill.com/homenews/5776216-eliott-rodriguez-challenges-maria-elvira-salazar/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "Former CBS Miami anchor Eliott Rodriguez is challenging Rep. María Elvira Salazar (R-Fla.) for her Miami-based House seat, adding a prominent name to the South Florida race as Democrats look to flip Republicans’ narrow GOP House majority.  “I’m now watching the news, not just as a journalist, but as a citizen, and I’ve grown deeply concerned that Washington is simply not delivering,”…",
+      "keywords": [
+        "house majority",
+        "journalist"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a candidate announcement with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:12.155Z"
+    },
+    {
+      "id": "d447b50ea3f2",
+      "title": "GOP leaders, Trump see tensions flare over Senate filibuster",
+      "url": "https://thehill.com/homenews/senate/5775907-trump-threat-senate-legislation-save/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "Senate Majority Leader John Thune (R-S.D.) is standing his ground against President Trump’s campaign to pressure Republicans to radically reinterpret the filibuster rule to pass sweeping voting reform, a contest of wills that could paralyze the chamber for the rest of the year. Thune on Monday dismissed the prospect of forcing Senate Democrats to use…",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Represents notable tension between executive pressure and legislative independence, with potential institutional implications if filibuster changes materialize, but outcome remains uncertain.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-10T12:07:13.754Z"
+    },
+    {
+      "id": "ae5d5da58221",
+      "title": "What to know about the crowded House race to replace Greene in Georgia",
+      "url": "https://thehill.com/homenews/campaign/5775663-greene-georgia-house-special-election/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "Over a dozen candidates are vying to replace former Rep. Marjorie Taylor Greene (R-Ga.), the President Trump loyalist turned critic, in a Tuesday special election. Trump has endorsed Republican Clay Fuller, a district attorney for the Lookout Mountain Judicial Circuit, in the heated race where all candidates, regardless of party, are running on one ballot. The GOP…",
+      "keywords": [
+        "election",
+        "ballot",
+        "judicial",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news coverage of a special election race with no direct bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:13.445Z"
+    },
+    {
+      "id": "03c5601bf577",
+      "title": "Anthropic clash with Pentagon fuels government surveillance fears",
+      "url": "https://thehill.com/policy/technology/5775732-anthropic-pentagon-ai-surveillance-clash/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "Anthropic’s clash with the Pentagon is reigniting fears of government surveillance, as experts warn the capabilities of artificial intelligence, paired with the Trump administration’s sweeping data collections, pose new threats to individual privacy. Just over a year after President Trump welcomed AI firms into government, theWhite House’s unprecedented reach for personal data has left some…",
+      "keywords": [
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Represents a notable institutional tension regarding executive power and private sector independence, with potential implications for civil liberties oversight, but lacks concrete evidence of imminent democratic erosion.",
+      "categories": [
+        "DOJ independence",
+        "civil service independence",
+        "immigration & civil rights",
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-10T12:07:14.098Z"
+    },
+    {
+      "id": "920e3ea6a494",
+      "title": "The Memo: Trump at risk from oil price roller coaster amid Iran war",
+      "url": "https://thehill.com/homenews/administration/5775801-oil-prices-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "The war in Iran sent financial markets and energy prices on a roller-coaster ride on Monday, underlining the political challenges for President Trump in a mixed and rapidly shifting economic landscape. Nowhere was volatility more evident than in the price of oil. Late Sunday, oil futures rocketed by close to 20 percent, sending tremors across…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political and economic news commentary about market volatility and presidential political challenges, with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:13.801Z"
+    },
+    {
+      "id": "9bbac6acbc8b",
+      "title": "Gas, oil prices worry GOP as Trump floats taking over Strait of Hormuz",
+      "url": "https://thehill.com/homenews/senate/5776081-gas-oil-prices-gop-trump-iran-strait-hormuz/",
+      "source": "The Hill",
+      "published": "2026-03-10T10:00:00.000Z",
+      "description": "Republicans on Capitol Hill are growing worried about President Trump’s bet that Americans are willing to swallow higher gas prices due to the conflict with Iran, especially ahead of the November elections.  The president, only weeks ago in his State of the Union address, had pointed to lowering gas prices as a major victory for…",
+      "keywords": [
+        "election",
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political commentary about policy disagreement and electoral concerns with no direct impact on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T12:07:13.623Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-10T06:11:39.104Z"
+  "lastFetch": "2026-03-10T12:07:14.098Z"
 }
