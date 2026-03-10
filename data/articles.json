@@ -150,25 +150,6 @@
       "scoredAt": "2026-02-09T17:49:37.142Z"
     },
     {
-      "id": "5f700deaf904",
-      "title": "Pentagon says it's cutting ties with 'woke' Harvard, ending military training",
-      "url": "https://www.npr.org/2026/02/07/g-s1-109213/pentagon-says-its-cutting-ties-with-woke-harvard-ending-military-training",
-      "source": "NPR Politics",
-      "published": "2026-02-07T23:43:24.000Z",
-      "description": "Amid an ongoing standoff between Harvard and the White House, the Defense Department said it plans to cut ties with the Ivy League — ending military training, fellowships and certificate programs.",
-      "keywords": [
-        "white house",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A significant policy action affecting federal-institution relationships with potential implications for civil service independence and federal programs, but not an unprecedented erosion of democratic checks.",
-      "categories": [
-        "federal programs & agencies",
-        "civil service independence"
-      ],
-      "scoredAt": "2026-02-09T17:49:37.333Z"
-    },
-    {
       "id": "73a510fe5a0d",
       "title": "WATCH: Ghislaine Maxwell not cooperating because she is campaigning for Trump pardon, Democrats say",
       "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-not-cooperating-because-she-is-campaigning-for-trump-pardon-democrats-say",
@@ -458,21 +439,6 @@
       "scoredAt": "2026-02-09T17:50:02.965Z"
     },
     {
-      "id": "e32b4713b64a",
-      "title": "Ohio man charged with threatening to kill Vice President JD Vance",
-      "url": "https://www.nbcnews.com/politics/politics-news/ohio-man-charged-threatening-kill-vice-president-jd-vance-rcna257940",
-      "source": "NBC News",
-      "published": "2026-02-07T21:24:43.000Z",
-      "description": "An Ohio man is charged with threatening to kill Vice President JD Vance and with receiving and distributing images containing child sexual abuse material.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This is a routine criminal case involving threats and child exploitation charges unrelated to democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:02.706Z"
-    },
-    {
       "id": "199b8eca18bc",
       "title": "Ghislaine Maxwell's lawyer says she'll testify if Trump grants her clemency",
       "url": "https://www.cbsnews.com/news/ghislaine-maxwell-house-oversight-committee-deposition-fifth-amendment/",
@@ -753,21 +719,6 @@
       "scoredAt": "2026-02-09T17:50:16.292Z"
     },
     {
-      "id": "a0912ba46c99",
-      "title": " Man charged with threatening to kill Vance and possessing child abuse files",
-      "url": "https://abcnews.go.com/Politics/wireStory/ohio-man-charged-threatening-kill-vice-president-jd-129951879",
-      "source": "ABC News",
-      "published": "2026-02-07T19:19:36.000Z",
-      "description": "An Ohio man has been charged with threatening to kill Vice President JD Vance while he was visiting his home state last month",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "A criminal threat case against a private citizen is routine law enforcement activity unrelated to democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:16.328Z"
-    },
-    {
       "id": "fa4db24680de",
       "title": "Homeowners are holding onto their houses for a record-long stretch",
       "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
@@ -939,47 +890,6 @@
       "reason": "While media industry changes have tangential implications for press freedom, this article addresses commercial journalism trends in sports rather than democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:50:28.366Z"
-    },
-    {
-      "id": "77b9bd7ad2e4",
-      "title": "America's 250th anniversary collides with a renewed fight over Black history",
-      "url": "https://www.axios.com/2026/02/07/black-history-250-who-decides",
-      "source": "Axios",
-      "published": "2026-02-07T21:00:05.000Z",
-      "description": "America's 250th anniversary is colliding with a renewed battle over Black history, just as the White House moves to both smooth over and narrow how race and equity are discussed nationwide with rollbacks of diversity initiatives.\nWhy it matters: Black History Month — in its 100th year since Carter G. Woodson's 1926 Negro History Week — arrives amid an administration actively shrinking institutions that preserve and teach that history.\n\nThe Trump administration has said that diversity initiatives",
-      "keywords": [
-        "voting",
-        "ICE",
-        "white house",
-        "trump",
-        "democracy",
-        "authoritarian"
-      ],
-      "significance": 4,
-      "reason": "This article addresses potential concerns about federal program administration and civil service independence regarding diversity initiatives, but represents ongoing policy debate rather than an institutional breach or unprecedented action.",
-      "categories": [
-        "federal programs & agencies",
-        "civil service independence"
-      ],
-      "scoredAt": "2026-02-09T17:50:27.340Z"
-    },
-    {
-      "id": "7d11cc058f2c",
-      "title": "Netanyahu to hold urgent meeting with Trump Wednesday amid Iran negotiations",
-      "url": "https://www.axios.com/2026/02/07/netanyahu-trump-iran-negotiations",
-      "source": "Axios",
-      "published": "2026-02-07T19:00:39.000Z",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has moved up his visit to Washington and is expected to meet with President Trump on Wednesday to  discuss the negotiations with Iran, the prime minister's office said in a statement.\nWhy it matters: The announcement of the urgent visit comes a day after Trump's envoys Steve Witkoff and Jared Kushner held negotiations in Oman with Iran's foreign minister over a potential nuclear deal.\n\nTrump said the U.S. and Iran had \"very good talks\" in Oman on Friday ",
-      "keywords": [
-        "midterm",
-        "ICE",
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine foreign policy coverage of diplomatic meetings with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:27.272Z"
     },
     {
       "id": "1b7140d2710f",
@@ -46623,8 +46533,801 @@
       "reason": "A political prediction about commodity prices related to foreign policy is routine campaign commentary without direct implications for institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-09T18:13:15.319Z"
+    },
+    {
+      "id": "d76b1b9d5253",
+      "title": "Trump says U.S. is 'achieving major strides' in Iran toward military objectives",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742591/trump-press-conference-as-u-s-israel-led-iran-war-enters-second-week",
+      "source": "NPR Politics",
+      "published": "2026-03-09T20:59:08.000Z",
+      "description": "President Trump held his first news conference since the beginning of the U.S.-Israel-led Iran war on Monday as oil and gas prices soared, throwing the global economy into turmoil.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article covers foreign policy and military strategy statements rather than issues affecting domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:21.105Z"
+    },
+    {
+      "id": "d9a1150cb13f",
+      "title": "Top Arizona lawmaker says he's complied with a subpoena for 2020 election records",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
+      "source": "NPR Politics",
+      "published": "2026-03-09T18:36:22.000Z",
+      "description": "Arizona's state Senate president says he has complied with a subpoena he received last week seeking records from a flawed, Republican-led review of the 2020 election in Maricopa County.",
+      "keywords": [
+        "election",
+        "subpoena"
+      ],
+      "significance": 5,
+      "reason": "Demonstrates congressional oversight functioning as a state legislator complies with a subpoena, but the compliance itself is routine procedural action rather than a significant institutional development or crisis.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-10T00:08:21.533Z"
+    },
+    {
+      "id": "09d5e31fded8",
+      "title": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
+      "source": "NPR Politics",
+      "published": "2026-03-09T18:11:42.000Z",
+      "description": "The second son of the late supreme leader keeps a low profile. But he's long been viewed as wielding his power behind the scenes, from crushing dissent to influencing presidential elections.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This article concerns Iranian domestic politics and leadership succession with no direct relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:21.167Z"
+    },
+    {
+      "id": "a6d164af08b5",
+      "title": "White House says NTSB member Todd Inman fired over alleged misconduct, which he denies",
+      "url": "https://www.pbs.org/newshour/politics/white-house-says-ntsb-member-todd-inman-fired-over-alleged-misconduct-which-he-denies",
+      "source": "PBS NewsHour",
+      "published": "2026-03-10T00:05:15.000Z",
+      "description": "Inman was the lead board member on scene after last year's midair collision near Washington, D.C., that killed 67 people after an airliner collided with a U.S. Army Black Hawk helicopter. He also oversaw the initial investigation of the crash of a UPS cargo plane in Kentucky that killed 15 people in November.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 4,
+      "reason": "While the firing raises questions about executive authority over independent agencies, the claim involves alleged personal misconduct rather than systematic institutional pressure, and the NTSB's investigative independence appears functionally intact.",
+      "categories": [
+        "civil service independence"
+      ],
+      "scoredAt": "2026-03-10T00:08:21.388Z"
+    },
+    {
+      "id": "d21596ce2670",
+      "title": "Iran war will end 'soon' but 'important targets' remain if needed, Trump says",
+      "url": "https://www.pbs.org/newshour/show/iran-war-will-end-soon-but-important-targets-remain-if-needed-trump-says",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T22:35:52.000Z",
+      "description": "President Trump spoke to reporters late Monday afternoon at his golf resort outside Miami. In his first formal news conference since the U.S. and Israel began strikes on Iran over a week ago, the president made a new threat. Nick Schifrin reports.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Standard reporting on presidential statements regarding foreign military engagement that does not directly implicate domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:21.382Z"
+    },
+    {
+      "id": "b1fd07b32ff5",
+      "title": "Tamara Keith and Amy Walter on Trump's midterm message",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-message",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T22:30:59.000Z",
+      "description": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the political fallout of military action in Iran, Trump's focus on the Save America Act and how Republicans are feeling about the midterms.",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary analyzing campaign messaging and midterm dynamics without addressing institutional checks, erosion of democratic safeguards, or systemic governance concerns.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:22.404Z"
+    },
+    {
+      "id": "76931b776fcd",
+      "title": "Trump has call with Putin to discuss Iran war, Kremlin says",
+      "url": "https://www.pbs.org/newshour/politics/trump-has-call-with-putin-to-discuss-iran-war-kremlin-says",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T21:51:55.000Z",
+      "description": "Putin's foreign affairs adviser Yuri Ushakov described the conversation as \"frank and businesslike\" and said it lasted about one hour.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A presidential call with a foreign leader on military matters raises questions about congressional oversight and transparency, but lacks details suggesting institutional erosion without additional context about authorization or briefing of Congress.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:22.582Z"
+    },
+    {
+      "id": "dba4526f3396",
+      "title": "WATCH: Trump addresses House Republicans at annual policy retreat in Florida",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-addresses-house-republicans-at-annual-policy-retreat-in-florida",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T20:23:34.000Z",
+      "description": "Trump opened his address to the lawmakers by talking about Iran, saying \"we took a little excursion\" to the Middle East \"to get rid of some evil. And, I think you'll see it's going to be a short-term excursion.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine news coverage of a political speech with no direct implications for institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:22.473Z"
+    },
+    {
+      "id": "38326cb10b1d",
+      "title": "WATCH: Trump holds news conference to answer questions about Iran",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-news-conference-to-answer-questions-about-iran",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T20:10:55.000Z",
+      "description": "Though the president has long professed an \"America First\" policy prioritizing the U.S., Trump suggested at his news conference that the war was for the benefit of other nations, especially those dependent on oil that's shipped through the Strait of Hormuz.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A routine news report on a presidential press conference regarding foreign policy statements about Iran, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:22.516Z"
+    },
+    {
+      "id": "1e367915e465",
+      "title": "Alexander Butterfield, Nixon aide who disclosed Watergate tapes, dies at 99",
+      "url": "https://www.pbs.org/newshour/politics/alexander-butterfield-nixon-aide-who-disclosed-watergate-tapes-dies-at-99",
+      "source": "PBS NewsHour",
+      "published": "2026-03-09T19:54:36.000Z",
+      "description": "The White House aide who inadvertently hastened Richard Nixon's resignation over the Watergate scandal when he revealed that the president had bugged the Oval Office and Cabinet Room and routinely recorded his conversations, has died.",
+      "keywords": [
+        "ICE",
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is an obituary of a historical figure whose significance lies in past events, not current threats to democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:22.322Z"
+    },
+    {
+      "id": "1b8c2d57ab30",
+      "title": "Trump says Iran war will end 'soon' but also issues threats that could prolong it",
+      "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
+      "source": "NBC News",
+      "published": "2026-03-09T22:14:43.000Z",
+      "description": "The president made the remarks at his resort in Miami more than a week after U.S. and Israel initiated strikes on Iran. He did not give a timeline on ending hostilities.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine reporting on presidential statements about foreign military engagement without evidence of domestic democratic institutional erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:23.562Z"
+    },
+    {
+      "id": "099069b3f5a0",
+      "title": "Supreme Court justices Jackson and Kavanaugh clash over handling of Trump cases ",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-justices-jackson-kavanaugh-clash-handling-trump-cases-rcna262622",
+      "source": "NBC News",
+      "published": "2026-03-09T23:46:01.000Z",
+      "description": "Internal Supreme Court divisions over how the high court has frequently ruled in favor of the Trump administration in emergency situations spilled out into public with liberal Justice Ketanji Brown Jackson and conservative Justice Brett Kavanaugh locking horns on the issue.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Public disagreement among justices over emergency rulings reflects internal institutional tension but lacks evidence of concrete policy changes or institutional erosion requiring urgent attention.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-10T00:08:23.469Z"
+    },
+    {
+      "id": "3ab3e18813fe",
+      "title": "Special Report: Trump holds news conference amid Iran war",
+      "url": "https://www.nbcnews.com/video/special-report-trump-holds-news-conference-amid-iran-war-259007557848",
+      "source": "NBC News",
+      "published": "2026-03-09T23:31:00.000Z",
+      "description": "President Trump gives an update on the status of the war with Iran saying it should be over \"very soon\" but not giving a timeline. NBC News' Tom Llamas and Monica Alba offer analysis of the president's remarks.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine news coverage of a presidential statement on foreign policy without evidence of institutional checks or democratic safeguards being tested.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:23.442Z"
+    },
+    {
+      "id": "6516fa4706f1",
+      "title": "Trump claims Iran has Tomahawk missiles but doesn't give evidence",
+      "url": "https://www.nbcnews.com/video/trump-claims-iran-has-tomahawk-missiles-but-doesn-t-give-evidence-259003461754",
+      "source": "NBC News",
+      "published": "2026-03-09T23:17:50.000Z",
+      "description": "When asked about the Tomahawk missile that likely struck a school in Iran, President Trump claimed that the weapon is \"very generic\" and sold to other countries, and the Iran also has them. But as NBC News' Courtney Kube explains, Iran does not have Tomahawk missiles and the U.S. is the primary user of that weapon.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While the article documents a factual misstatement by the President, it represents routine news reporting on a false claim rather than a structural threat to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:24.463Z"
+    },
+    {
+      "id": "a343f7b5bd93",
+      "title": "Trump’s new provisions to the SAVE America Act 'undercuts’ election message",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-s-new-provisions-to-the-save-america-act-undercuts-election-message-258993221752",
+      "source": "NBC News",
+      "published": "2026-03-09T21:13:06.000Z",
+      "description": "NBC News Senior National Political reporter Sahil Kapur discusses President Trump's efforts to pass the SAVE America Act as he threatens to not sign any bill until Congress approves the voter ID legislation.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "A presidential threat to veto legislation pending passage of voter ID requirements represents a notable use of executive leverage on electoral policy, but lacks the institutional or democratic scale of higher-severity threats.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:24.742Z"
+    },
+    {
+      "id": "601e593c5199",
+      "title": "The Rubio-Vance Iran dynamic: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/rubio-vance-iran-dynamic-politics-desk-rcna262568",
+      "source": "NBC News",
+      "published": "2026-03-09T21:16:33.000Z",
+      "description": "In today’s edition, we dig into the 2028 implications of the war with Iran. Plus, Peter Nicholas speaks to President Donald Trump about his plans for Iranian oil.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is speculative political analysis about future electoral implications and economic policy, lacking substantive information about institutional checks, balances, or democratic governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:24.414Z"
+    },
+    {
+      "id": "aa66c9519624",
+      "title": "FBI subpoenas election records in Arizona, expanding 2020 inquiry",
+      "url": "https://www.nbcnews.com/politics/elections/fbi-subpoenas-election-records-arizona-expanding-2020-inquiry-rcna262504",
+      "source": "NBC News",
+      "published": "2026-03-09T18:48:27.000Z",
+      "description": "Federal investigators last week sought and obtained records relating to the 2020 election in Arizona, the Republican leader of the state Senate said Monday.“Late last week I received and complied with a federal grand jury subpoena for records relating to the Arizona State Senate’s 2020 audit of Maricopa County,” state Senate President Warren Petersen said in a post on X. “The FBI has the records.",
+      "keywords": [
+        "election",
+        "FBI",
+        "subpoena"
+      ],
+      "significance": 6,
+      "reason": "A legitimate investigative action by federal law enforcement into election-related records that demonstrates institutional oversight functioning, but lacks the urgency or precedent-setting nature of higher-rated events.",
+      "categories": [
+        "FBI independence",
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:24.655Z"
+    },
+    {
+      "id": "a9faaf22c563",
+      "title": "Trump says Iran war will end \"very soon\" at Florida news conference",
+      "url": "https://www.cbsnews.com/news/trump-iran-news-conference-miami-watch-live-stream-today-2026-03-09/",
+      "source": "CBS News",
+      "published": "2026-03-09T23:37:23.000Z",
+      "description": "At a Miami-area news conference Monday, President Trump said he expects the war in Iran to end \"very soon,\" but also called it \"the beginning of building a new country.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy statements with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:24.342Z"
+    },
+    {
+      "id": "52cbc60608d5",
+      "title": "U.S. designates Afghanistan as a state sponsor of wrongful detention",
+      "url": "https://www.cbsnews.com/news/trump-designates-afghanistan-state-sponsor-wrongful-detention/",
+      "source": "CBS News",
+      "published": "2026-03-09T23:03:22.000Z",
+      "description": "Secretary of State Marco Rubio formally designated Afghanistan as a state sponsor of wrongful detention, paving the way for the Trump administration to impose penalties such as sanctions and export controls.",
+      "keywords": [
+        "trump",
+        "detention"
+      ],
+      "significance": 3,
+      "reason": "This is a routine foreign policy designation affecting international relations and sanctions, not a domestic check-and-balance issue.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:25.440Z"
+    },
+    {
+      "id": "40746f510015",
+      "title": "Trump tells CBS News \"the war is very complete\"",
+      "url": "https://www.cbsnews.com/news/trump-iran-cbs-news-the-war-is-very-complete-strait-hormuz/",
+      "source": "CBS News",
+      "published": "2026-03-09T23:03:15.000Z",
+      "description": "President Trump told CBS News the U.S. war with Iran is \"very complete,\" and said the U.S. \"could do a lot\" about the Strait of Hormuz.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Statement about military posture and foreign policy reflects routine executive communication rather than action affecting domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:25.575Z"
+    },
+    {
+      "id": "7dc1d6393c66",
+      "title": "For 2nd time, judge rules top DOJ officials in New Jersey are serving unlawfully",
+      "url": "https://www.cbsnews.com/news/judge-rules-top-doj-officials-in-new-jersey-are-serving-unlawfully-alina-habba/",
+      "source": "CBS News",
+      "published": "2026-03-09T21:18:04.000Z",
+      "description": "A judge ruled last summer that President Trump's former lawyer Alina Habba was illegally serving as top New Jersey's federal prosecutor. On Monday, Habba's replacements were also disqualified.",
+      "keywords": [
+        "DOJ",
+        "prosecutor",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A second judicial ruling against DOJ leadership appointments demonstrates significant institutional check on executive power and raises concerns about DOJ independence and the legality of personnel decisions.",
+      "categories": [
+        "DOJ independence",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-10T00:08:25.816Z"
+    },
+    {
+      "id": "8d869665f52b",
+      "title": " Trump administration widens probe of 2020 election as it obtains records from Arizona",
+      "url": "https://abcnews.com/Politics/wireStory/trump-administration-widens-probe-2020-election-obtains-records-130916242",
+      "source": "ABC News",
+      "published": "2026-03-09T23:23:00.000Z",
+      "description": "The Republican leader of Arizona’s state Senate says he has complied with a federal grand jury subpoena for records related to the 2020 presidential election",
+      "keywords": [
+        "election",
+        "subpoena",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "This represents a significant institutional action with potential implications for congressional oversight, judicial independence, and political retribution concerns, as a sitting administration investigates a prior election.",
+      "categories": [
+        "congressional oversight",
+        "judicial independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-10T00:08:25.804Z"
+    },
+    {
+      "id": "ae6a2ce97b7f",
+      "title": " Alexander Butterfield, the Nixon aide who disclosed Watergate tapes, dies at 99",
+      "url": "https://abcnews.com/Politics/wireStory/alexander-butterfield-nixon-aide-disclosed-watergate-tapes-dies-130912460",
+      "source": "ABC News",
+      "published": "2026-03-09T20:27:51.000Z",
+      "description": "The White House aide who revealed that Richard Nixon had secretly recorded his conversations as president has died",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is an obituary of a historical figure whose significant actions occurred decades ago, not reporting on current threats to democratic institutions.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:25.712Z"
+    },
+    {
+      "id": "40abb4af800b",
+      "title": " Australia grants asylum to 5 members of Iranian women's soccer team, official says",
+      "url": "https://abcnews.com/Politics/wireStory/australia-grants-asylum-5-members-iranian-womens-soccer-130912070",
+      "source": "ABC News",
+      "published": "2026-03-09T20:41:28.000Z",
+      "description": "Australian Home Affairs Minister Tony Burke says that Australia has granted asylum to five members of the Iranian women’s soccer team who were visiting the country for a tournament",
+      "keywords": [
+        "asylum"
+      ],
+      "significance": 1,
+      "reason": "This article reports on an Australian domestic immigration decision with no direct impact on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:26.671Z"
+    },
+    {
+      "id": "ed9d16b1db74",
+      "title": "Trump lays down law on Iran and SAVE Act in GOP pep talk",
+      "url": "https://www.axios.com/2026/03/09/trump-iran-war-save-act-house-republicans",
+      "source": "Axios",
+      "published": "2026-03-09T23:49:30.000Z",
+      "description": "DORAL, FL: President Trump told House Republicans the conflict in Iran will be \"over pretty quickly,\" without giving a firm timeline — and repeated his warning that he would not sign any legislation until the Senate passed the SAVE America Act.\nWhy it matters: The dual messages — boasts about successes abroad, coupled with frustration with Republicans and Democrats at home — competed for attention in his pep-talk to House Republicans at their annual retreat in Florida.\n\n\"I am not going to sign a",
+      "keywords": [
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Routine partisan messaging about foreign policy and legislative priorities, with no demonstrated institutional threat to democratic checks and balances.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:26.535Z"
+    },
+    {
+      "id": "3a6dfb13c785",
+      "title": "Trump and Putin discuss end to Iran, Ukraine wars on call",
+      "url": "https://www.axios.com/2026/03/09/trump-putin-iran-ukraine-war-phone-call",
+      "source": "Axios",
+      "published": "2026-03-09T23:42:05.000Z",
+      "description": "President Trump spoke on the phone with Russian president Vladimir Putin  Monday and discussed the war with Iran and the efforts to end the war in Ukraine, the Kremlin said.  \nWhy it matters: This was the first call between Trump and Putin since the beginning of the war with Iran. \n\nRussia is a key ally of Iran and U.S. officials are concerned it is helping the Iranians in their war effort. \nTrump downplayed that scenario, but White House envoy Steve Witkoff told reporters on Saturday that he ha",
+      "keywords": [
+        "ICE",
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While international diplomacy involving adversaries warrants monitoring, a single presidential call discussing potential conflict resolution does not inherently constitute a checks-and-balances concern without evidence of circumventing constitutional processes or oversight mechanisms.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:26.900Z"
+    },
+    {
+      "id": "346451f95047",
+      "title": "Scoop: White House readies executive order to weed out Anthropic",
+      "url": "https://www.axios.com/2026/03/09/trump-white-house-anthropic-executive-order",
+      "source": "Axios",
+      "published": "2026-03-09T23:30:38.000Z",
+      "description": "The White House is preparing an executive order formally instructing the federal government to rip out Anthropic's AI from its operations, sources familiar with the matter told Axios. \nWhy it matters: The move would escalate the administration's fight with Anthropic, which is already suing the Pentagon over its supply chain risk designation.\n\nIt would also formalize a broader push across agencies to remove Claude after President Trump said his administration would not use \"woke\" AI.\n\nState of pl",
+      "keywords": [
+        "white house",
+        "executive order",
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable but not unprecedented instance of executive action against a private company with potential political motivations, raising concerns about government impartiality but lacking the systemic institutional erosion of a critical-level threat.",
+      "categories": [
+        "corruption & self-dealing",
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-10T00:08:27.258Z"
+    },
+    {
+      "id": "8342455ad5bb",
+      "title": "\"Disgusting sh*t\": Rep. Andy Ogles' anti-Muslim post sparks furious internal backlash",
+      "url": "https://www.axios.com/2026/03/09/andy-ogles-muslim-post-democrats-republican-react",
+      "source": "Axios",
+      "published": "2026-03-09T20:22:37.000Z",
+      "description": "Rep. Andy Ogles (R-Tenn.) sparked furious backlash from congressional colleagues Monday with a social media post stating that \"Muslims don't belong in American society.\"\nWhy it matters: Ogles is one of several hard-right Republicans who have inflamed tensions on Capitol Hill in recent months by making nakedly anti-Muslim public statements.\n\nJust last month, Rep. Randy Fine (R-Fla.) came under fire from colleagues for a post stating: \"If they force us to choose, the choice between dogs and Muslim",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "deportation"
+      ],
+      "significance": 4,
+      "reason": "While the inflammatory rhetoric is concerning for democratic norms and civil rights, the internal backlash and lack of institutional action to remove the member suggests existing checks are functioning, though the normalization of such statements indicates erosion requiring attention.",
+      "categories": [
+        "immigration & civil rights",
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-10T00:08:26.982Z"
+    },
+    {
+      "id": "7f26393283bf",
+      "title": "Why the Strait of Hormuz is so difficult to defend",
+      "url": "https://www.axios.com/2026/03/09/us-oil-iran-strait-hormuz-defend",
+      "source": "Axios",
+      "published": "2026-03-09T19:30:34.000Z",
+      "description": "Map: Sara Wise/Axios\nWhile President Trump has offered political risk insurance and Navy escorts for tankers navigating the Strait of Hormuz, it still remains one of the most difficult waterways in the world to defend. \nThe big picture: The Strait, which carries roughly 25% of the world's seaborne oil supply, is approximately 21 nautical miles wide at its narrowest point, but the designated shipping lanes are far smaller — concentrating traffic into predictable corridors for Iran to monitor and ",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This article addresses foreign policy and military logistics in the Middle East with no direct relevance to U.S. democratic institutions, checks and balances, or governance accountability.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:28.425Z"
+    },
+    {
+      "id": "4c3efe49177c",
+      "title": "Trump calls Iran war ‘excursion’ that will be done ‘very soon’ ",
+      "url": "https://thehill.com/homenews/administration/5775972-trump-iran-war-soon-finish/",
+      "source": "The Hill",
+      "published": "2026-03-09T23:26:09.000Z",
+      "description": "President Trump on Monday described the war against Iran as an “excursion” that would be over soon, as the president contends with spiking oil prices, troop casualties, allies under attack and low support among the American public.  “This was just an excursion into something that had to be done. We’re getting very close to finishing…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report of presidential statements about military operations with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:28.010Z"
+    },
+    {
+      "id": "e237bb063c27",
+      "title": "Trump, Pentagon give conflicting signals on end to Iran war",
+      "url": "https://thehill.com/policy/defense/5775954-trump-pentagon-conflict-us-iran/",
+      "source": "The Hill",
+      "published": "2026-03-09T23:22:03.000Z",
+      "description": "President Trump and the Pentagon are offering conflicting signals on how long the U.S. war with Iran will last, as officials in Tehran prepare to dig in for a longer fight and with the economic fallout from the clash hurting the U.S. and global economy. Trump on Monday suggested victory is in sight but with…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "Represents routine policy disagreement between executive branches on military strategy rather than a structural threat to democratic checks and balances, though civil-military alignment issues warrant monitoring.",
+      "categories": [
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-10T00:08:28.238Z"
+    },
+    {
+      "id": "4e8c7dcebb5f",
+      "title": "Trump’s denial on Iran school bombing cuts against mounting signs of US responsibility ",
+      "url": "https://thehill.com/policy/defense/5775878-trump-iran-school-bombing/",
+      "source": "The Hill",
+      "published": "2026-03-09T22:36:41.000Z",
+      "description": "President Trump’s remarks blaming Iran for the recent bombing of an all-girls school in southern Iran, where more than 160 people were killed, run counter to the mounting evidence that the U.S. military is likely responsible for the attack.  The Shajarah Tayyebeh elementary school, located in Minab, Iran, in the nation’s southern Hormozgan Province, was…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article concerns foreign policy statements and international accountability rather than domestic U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:28.024Z"
+    },
+    {
+      "id": "a122a3a5ac54",
+      "title": "Democrats seek to impose political pain of Iran war on Trump",
+      "url": "https://thehill.com/homenews/administration/5775814-gas-prices-spike-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-09T22:31:14.000Z",
+      "description": "Democrats are pouncing on a spike in gas prices and expected soaring airline fares, blaming President Trump’s handling of the war in Iran for deepening economic pain on Americans.  In interviews, statements and in a flurry of social media posts, Democrats have sharpened their arguments — repeatedly linking Trump’s decision to enter the Iran conflict…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is partisan political commentary about campaign messaging regarding economic impacts of foreign policy, not an institutional action affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:28.058Z"
+    },
+    {
+      "id": "9c3c1e7d158a",
+      "title": "Ogles defends anti-Muslim remark by slamming Dems for DHS shutdown",
+      "url": "https://thehill.com/homenews/house/5775741-ogles-defends-islamophobic-comments/",
+      "source": "The Hill",
+      "published": "2026-03-09T22:05:50.000Z",
+      "description": "Rep. Andy Ogles (R-Tenn.) defended his Islamophobic comments on Monday by blaming Democrats for shutting down the Department of Homeland Security (DHS). “To Hakeem Jeffries, Gavin Newsom, and the high-ranking Democrats flooding X to condemn me: A Muslim shot and killed three Americans in Texas. Two Muslims tried to blow up New York City…again,” Ogles…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 3,
+      "reason": "A congressman's controversial statement and subsequent defense, while notable for tone and rhetoric, represents routine political commentary and dispute rather than an institutional action threatening democratic checks and balances.",
+      "categories": [
+        "press_freedom",
+        "immigration_civil_rights"
+      ],
+      "scoredAt": "2026-03-10T00:08:29.546Z"
+    },
+    {
+      "id": "477f8d01b11c",
+      "title": "UK lawmaker wants King Charles to cancel US visit over Iran war",
+      "url": "https://thehill.com/policy/international/5775639-ed-davey-king-charles-trump-us-visit/",
+      "source": "The Hill",
+      "published": "2026-03-09T22:01:22.000Z",
+      "description": "Ed Davey, the leader of the U.K.’s Liberal Democrats, is calling on King Charles III to postpone his state visit to the U.S. amid President Trump’s war in Iran. Davey wrote Sunday on the social platform X that U.K. Prime Minister Keir Starmer “should advise the King to call off April’s state visit to the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is foreign political commentary about a UK internal matter with no direct bearing on U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:29.178Z"
+    },
+    {
+      "id": "3a6c73b55020",
+      "title": "Trump more popular than Harris, Newsom: Survey",
+      "url": "https://thehill.com/homenews/administration/5775642-trump-2028-presidential-race-poll/",
+      "source": "The Hill",
+      "published": "2026-03-09T20:44:45.000Z",
+      "description": "Despite a dip in job approval ratings, President Trump is still beating out former Vice President Kamala Harris (D) and California Gov. Gavin Newsom (D) in an overall popularity contest.  In new NBC News survey results released Monday, 41 percent of respondents expressed favorable views of the president.  Only 34 percent of those polled responded…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine polling article about relative popularity rankings with no direct bearing on democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:29.268Z"
+    },
+    {
+      "id": "b9e18b2cafb3",
+      "title": "Watch live: Trump addresses Republicans at retreat",
+      "url": "https://thehill.com/homenews/administration/5774547-republicans-retreat-trump-miami/",
+      "source": "The Hill",
+      "published": "2026-03-09T20:38:00.000Z",
+      "description": "President Trump on Monday is scheduled to address Republicans at their annual retreat in Miami. House Republicans are gathering at Trump’s Doral, Fla., resort for a three-day issues conference aimed at charting their legislative agenda for the year ahead and sharpening their message for the 2026 midterm elections. The meeting comes after a turbulent week for…",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news covering a standard party retreat and speech with no institutional actions or policy changes that affect democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:29.517Z"
+    },
+    {
+      "id": "f4b16bb62c7e",
+      "title": "Trio of Habba successors are unlawfully leading NJ US attorney’s office, judge rules",
+      "url": "https://thehill.com/regulation/court-battles/5775565-trump-trio-officials-ruled-unlawful/",
+      "source": "The Hill",
+      "published": "2026-03-09T20:20:35.000Z",
+      "description": "The trio of officials tapped to succeed Alina Habba by splitting the role of New Jersey’s top federal prosecutor are leading the office unlawfully, a federal judge ruled Monday, slamming the Trump administration for seeking to skirt congressional approval once again.   U.S. District Judge Matthew Brann rejected the government’s assertion that Congress gave Attorney General Pam Bondi the authority to skip over Senate…",
+      "keywords": [
+        "attorney general",
+        "bondi",
+        "prosecutor",
+        "ICE",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "A federal judge ruling that Trump administration officials are unlawfully leading a U.S. Attorney's office while circumventing Senate confirmation represents a significant institutional check on executive power overreach.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-10T00:08:29.498Z"
+    },
+    {
+      "id": "80d3b22ae4d2",
+      "title": "Group that defeated Trump’s tariffs at Supreme Court challenges latest round",
+      "url": "https://thehill.com/regulation/court-battles/5775500-businesses-sue-trump-tariffs/",
+      "source": "The Hill",
+      "published": "2026-03-09T20:00:53.000Z",
+      "description": "A libertarian public-interest firm that helped topple President Trump’s emergency tariffs at the Supreme Court sued him Monday over his new levies, contending they also are illegal.  “This Court has been down this road before,” Liberty Justice Center wrote in its complaint.  The suit challenges Trump’s global 10 percent tariff — which he pledged to raise to 15 percent — quickly imposed after the Supreme Court struck down the bulk of the president’s previous…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Represents notable but routine judicial review of executive action within established legal channels, lacking unprecedented institutional erosion or democratic threat.",
+      "categories": [
+        "judicial independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-10T00:08:30.568Z"
+    },
+    {
+      "id": "2a73587e91fb",
+      "title": "Watch live: Trump holds news conference amid Iran conflict, surging oil prices",
+      "url": "https://thehill.com/homenews/administration/5775134-watch-live-donald-trump-news-conference/",
+      "source": "The Hill",
+      "published": "2026-03-09T19:56:00.000Z",
+      "description": "President Trump is scheduled to conduct a news conference Monday afternoon, with the U.S.-Israeli military operation in Iran in its second week. “Many important meetings and phone calls taking place today while I am at Trump National Doral, in Miami,” the president said in a Truth Social post Monday afternoon. “Additionally, I will be going…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine announcement of a scheduled news conference with no substantive information about policy decisions or institutional actions affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:30.389Z"
+    },
+    {
+      "id": "a12663d5d33c",
+      "title": "Democratic governor vetoes Charlie Kirk memorial license plates in Arizona",
+      "url": "https://thehill.com/homenews/5775206-arizona-charlie-kirk-veto-bill/",
+      "source": "The Hill",
+      "published": "2026-03-09T19:44:27.000Z",
+      "description": "Arizona Gov. Katie Hobbs (D) vetoed a bill that would have honored the late conservative activist Charlie Kirk on license plates in the Grand Canyon State.  “Charlie Kirk’s assassination is tragic and a horrifying act of violence. In America, we resolve our political differences at the ballot box. No matter who it targets, political violence…",
+      "keywords": [
+        "ballot",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a routine state-level administrative decision about commemorative license plates with no direct impact on federal democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:30.270Z"
+    },
+    {
+      "id": "91af5eda1603",
+      "title": "Trump administration issues grand jury subpoena for Arizona voting records: GOP leader",
+      "url": "https://thehill.com/homenews/campaign/5775484-trump-administration-subpoenas-arizona-election/",
+      "source": "The Hill",
+      "published": "2026-03-09T19:28:49.000Z",
+      "description": "The Trump administration issued a grand jury subpoena for records pertaining to the Arizona Senate’s 2020 audit of Maricopa County election results, Arizona Senate President Warren Petersen confirmed on Monday in a post on the social platform X.  Petersen, who said he had complied with the subpoena, added, “The FBI has the records. Any other report is fake news.”…",
+      "keywords": [
+        "election",
+        "voting",
+        "FBI",
+        "subpoena",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Federal subpoena targeting state legislative election records raises significant concerns about DOJ independence, election integrity oversight, and potential political use of investigative power, though the routine nature of grand jury processes prevents a higher rating.",
+      "categories": [
+        "DOJ independence",
+        "election infrastructure",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-10T00:08:30.764Z"
+    },
+    {
+      "id": "6245713b3a70",
+      "title": "Watch live: Trump holds press conference as Iran war fallout roils oil market",
+      "url": "https://www.cnbc.com/2026/03/09/watch-live-trump-press-conference-iran-war-oil-hormuz-doral.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T22:31:13.000Z",
+      "description": "",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a press conference on foreign policy and market conditions, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:30.462Z"
+    },
+    {
+      "id": "4da7620afafc",
+      "title": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
+      "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T23:11:58.000Z",
+      "description": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on foreign policy statements with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:31.522Z"
+    },
+    {
+      "id": "08eeff0c83ae",
+      "title": "FBI obtains records of Arizona Senate audit of 2020 Maricopa County election results, Republican says",
+      "url": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-09T21:14:36.000Z",
+      "description": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election.",
+      "keywords": [
+        "election",
+        "FBI",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "FBI's investigative action into audit records raises questions about DOJ/FBI independence and congressional oversight, but lacks clarity on whether this represents routine investigation or improper politicization.",
+      "categories": [
+        "DOJ independence",
+        "FBI independence",
+        "congressional oversight",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-10T00:08:32.063Z"
+    },
+    {
+      "id": "4ebf8f7689cc",
+      "title": "Trump Shrugs Off Skyrocketing Gas Prices as Iran War Intensifies ",
+      "url": "https://www.rollingstone.com/politics/politics-news/gas-prices-skyrocket-iran-war-trump-1235527435/",
+      "source": "Rolling Stone",
+      "published": "2026-03-09T19:00:11.000Z",
+      "description": "Sharp spikes in oil prices driven by the campaign against Iran threaten to reignite inflation",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article addresses economic policy and geopolitical conflict rather than institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-10T00:08:31.425Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-09T18:13:15.409Z"
+  "lastFetch": "2026-03-10T00:08:32.063Z"
 }
