@@ -221,21 +221,6 @@
       "scoredAt": "2026-02-09T17:49:52.688Z"
     },
     {
-      "id": "87ab5b7f9d2a",
-      "title": "Trump criticizes Olympic skier who said representing the U.S. 'brings up mixed emotions'",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-criticizes-olympic-skier-hunter-hess-rcna258083",
-      "source": "NBC News",
-      "published": "2026-02-09T03:43:18.000Z",
-      "description": "President Donald Trump called U.S.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is routine political commentary about a public figure's social media criticism of an athlete's statement, with no direct impact on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:01.530Z"
-    },
-    {
       "id": "199b8eca18bc",
       "title": "Ghislaine Maxwell's lawyer says she'll testify if Trump grants her clemency",
       "url": "https://www.cbsnews.com/news/ghislaine-maxwell-house-oversight-committee-deposition-fifth-amendment/",
@@ -296,171 +281,6 @@
       "scoredAt": "2026-02-09T17:50:03.924Z"
     },
     {
-      "id": "22158b126b44",
-      "title": "12/15: The Takeout: Rep. Seth Moulton",
-      "url": "https://www.cbsnews.com/video/1215-the-takeout-rep-seth-moulton/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:45:41.000Z",
-      "description": "Massachusetts Rep. Seth Moulton joins Major Garrett to discuss the state of the Democratic Party and what it should do to attract voters and make gains in the midterm elections and beyond. Also discussed, are the challenges President-elect Donald Trump faces in handling the fall of Bashar al-Assad in Syria.",
-      "keywords": [
-        "election",
-        "voter",
-        "midterm",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine political interview discussing Democratic Party strategy and foreign policy, with no direct implications for institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:05.017Z"
-    },
-    {
-      "id": "1e0c8b64d1ec",
-      "title": "12/8: The Takeout: Camilo Montoya-Galvez",
-      "url": "https://www.cbsnews.com/video/128-the-takeout-camilo-montoya-galvez/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:45:33.000Z",
-      "description": "CBS News immigration reporter Camilo Montoya-Galvez chats with Major Garrett about how President-elect Donald Trump could impose mass deportations and the economic impact those deportations may have across the U.S. on this week's episode of \"The Takeout.\"",
-      "keywords": [
-        "immigration",
-        "deportation",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a news commentary segment discussing potential policy proposals and their economic implications, without reporting on any institutional action, court ruling, or actual erosion of democratic checks.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:50:04.058Z"
-    },
-    {
-      "id": "c5199b816560",
-      "title": "6/16: The Takeout: Steve Coll",
-      "url": "https://www.cbsnews.com/video/616-the-takeout-steve-coll/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:45:16.000Z",
-      "description": "Author and journalist Steve Coll talks about the complicated relationship between the U.S. government and Saddam Hussein, and how events in 1979 shaped future events like the Sept. 11 attacks and the Iraq war.",
-      "keywords": [
-        "journalist"
-      ],
-      "significance": 2,
-      "reason": "This is a retrospective historical analysis of past foreign policy decisions with no direct bearing on current democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:08.524Z"
-    },
-    {
-      "id": "652eeed75aed",
-      "title": "6/30: The Takeout: Steven Brill",
-      "url": "https://www.cbsnews.com/video/630-the-takeout-steven-brill/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:45:13.000Z",
-      "description": "Author and journalist Steven Brill joins \"The Takeout\" to discuss the real-world dangers of disinformation and his work to combat it. Brill discusses the importance of distinguishing fact from opinion, and whether truth can win out in the modern media landscape.",
-      "keywords": [
-        "journalist"
-      ],
-      "significance": 2,
-      "reason": "This is a general opinion and commentary segment about disinformation without discussing specific policy changes, institutional actions, or threats to democratic mechanisms.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:50:06.246Z"
-    },
-    {
-      "id": "feff92233263",
-      "title": "6/9: The Takeout: Zeke Hernandez",
-      "url": "https://www.cbsnews.com/video/69-the-takeout-zeke-hernandez/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:45:10.000Z",
-      "description": "Zeke Hernandez, author of \"The Truth About Immigration: Why Successful Societies Welcome Newcomers,\" joins \"The Takeout\" to discuss the benefits of immigration and common misconceptions. Hernandez explains how immigration has led to increased community investment and innovation in America.",
-      "keywords": [
-        "immigration"
-      ],
-      "significance": 2,
-      "reason": "This is a routine opinion/commentary segment featuring an author discussing immigration policy perspectives, with no institutional actions, legal rulings, or democratic mechanisms directly affected.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:07.202Z"
-    },
-    {
-      "id": "bfb89ce7103e",
-      "title": "5/5: The Takeout: David Sanger",
-      "url": "https://www.cbsnews.com/video/55-the-takeout-david-sanger/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:44:59.000Z",
-      "description": "Journalist and author David Sanger joins Major Garrett to discuss his new book \"New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West,\" which details the myriad of challenges the U.S. faces in positioning itself as the leader of the free world amid conflicts around the globe.",
-      "keywords": [
-        "journalist"
-      ],
-      "significance": 2,
-      "reason": "This is a commentary/interview segment about foreign policy and geopolitics with no direct relevance to domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:10.413Z"
-    },
-    {
-      "id": "5c68ad93b264",
-      "title": "2/18: The Takeout: National Security Council cyber advisor Anne Neuberger",
-      "url": "https://www.cbsnews.com/video/218-the-takeout-national-security-council-cyber-advisor-anne-neuberger/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:44:58.000Z",
-      "description": "For this edition of \"The Takeout,\" Major Garrett sits down with Anne Neuberger, the White House's deputy national security advisor for cyber and emerging technology. They discuss the threat of attacks from Russian cyber criminals on vulnerable systems such as hospitals and schools. She details actions the U.S. government is taking to stop such attacks, as well as the benefits and pitfalls of artificial intelligence.",
-      "keywords": [
-        "intelligence",
-        "white house"
-      ],
-      "significance": 2,
-      "reason": "This is a routine informational interview about cybersecurity policy and AI implementation with no bearing on democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:06.148Z"
-    },
-    {
-      "id": "782ccd16fa5c",
-      "title": "Representative Sara Jacobs on \"The Takeout\" — 7/1/2022",
-      "url": "https://www.cbsnews.com/video/representative-sara-jacobs-on-the-takeout-712022/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:43:47.000Z",
-      "description": "Representative Sara Jacobs of California joins Major Garrett on this week's episode of \"The Takeout.\" They discuss the overturning of Roe v. Wade, whether Biden should run for reelection, progressive Democrats, and the movie \"Legally Blonde.\"",
-      "keywords": [
-        "election"
-      ],
-      "significance": 1,
-      "reason": "This is a routine news interview featuring political commentary on current events and personal opinions, with no institutional actions or policy changes affecting democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:14.066Z"
-    },
-    {
-      "id": "29f38449dcc2",
-      "title": "Senator Tim Kaine on \"The Takeout\" — 8/12/2022",
-      "url": "https://www.cbsnews.com/video/senator-tim-kaine-on-the-takeout-8122022/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:43:12.000Z",
-      "description": "Virginia Senator Tim Kaine joins Major Garrett on \"The Takeout.\" They discuss Kaine's experience with long COVID, his opinion on a potential reelection campaign for President Biden, and the 2022 midterm elections.",
-      "keywords": [
-        "election",
-        "midterm"
-      ],
-      "significance": 1,
-      "reason": "This is a routine political interview covering personal health matters and electoral speculation with no substantive discussion of institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:13.472Z"
-    },
-    {
-      "id": "6318e3912872",
-      "title": "CBS News senior investigative correspondent Catherine Herridge on \"The Takeout\" — 5/22/2020",
-      "url": "https://www.cbsnews.com/video/cbs-news-senior-investigative-correspondent-catherine-herridge-on-the-takeout-5222020/",
-      "source": "CBS News",
-      "published": "2026-02-09T05:32:35.000Z",
-      "description": "CBS News senior investigative correspondent Catherine Herridge joins Major to talk about the events surrounding Michael Flynn and the FBI's work investigating Trump campaign officials' ties to Russia on this week's episode of \"The Takeout with Major Garrett.\"",
-      "keywords": [
-        "FBI",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "This is a routine news interview discussing past investigative reporting on Flynn and Russia investigation rather than reporting on new institutional actions or policy changes affecting democratic checks and balances.",
-      "categories": [
-        "DOJ independence",
-        "FBI independence"
-      ],
-      "scoredAt": "2026-02-09T17:50:11.450Z"
-    },
-    {
       "id": "730a2f00ef70",
       "title": " Masks emerge as symbol of Trump's ICE crackdown and a flashpoint in Congress",
       "url": "https://abcnews.go.com/Politics/wireStory/masks-emerge-symbol-trumps-ice-crackdown-flashpoint-congress-129986936",
@@ -479,23 +299,6 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-09T17:50:15.470Z"
-    },
-    {
-      "id": "3c5c131490b9",
-      "title": " Judge rejects Democrats’ plea for early voting sites at 3 North Carolina universities",
-      "url": "https://abcnews.go.com/Politics/wireStory/judge-rejects-democrats-plea-early-voting-sites-3-129975543",
-      "source": "ABC News",
-      "published": "2026-02-09T01:33:41.000Z",
-      "description": "A federal judge has refused to help in attempts to open early voting sites at three public North Carolina universities",
-      "keywords": [
-        "voting"
-      ],
-      "significance": 4,
-      "reason": "A single judge's ruling on early voting site locations affects election access but represents routine judicial decision-making rather than systemic erosion of democratic institutions.",
-      "categories": [
-        "election infrastructure"
-      ],
-      "scoredAt": "2026-02-09T17:50:13.202Z"
     },
     {
       "id": "fa4db24680de",
@@ -549,21 +352,6 @@
       "reason": "This article discusses political coalition dynamics and economic market trends rather than institutional checks and balances, democratic safeguards, or erosion of constitutional oversight mechanisms.",
       "categories": [],
       "scoredAt": "2026-02-09T17:50:21.707Z"
-    },
-    {
-      "id": "884b5fec490e",
-      "title": "A day of highs and lows for Team USA",
-      "url": "https://www.axios.com/2026/02/09/milan-olympics-lindsey-vonn-ilia-malinin",
-      "source": "Axios",
-      "published": "2026-02-09T00:50:19.000Z",
-      "description": "A Sunday that began with Lindsey Vonn's screams of pain after crashing in the downhill ended with cheers of jubilation as Team USA edged out Japan for gold in team figure skating.\nThe big picture: It truly was the thrill of victory and the agony of defeat.\n\nDriving the news: Vonn, 41, was trying to continue her comeback despite a ruptured ACL but crashed shortly into her run and had to be airlifted to a hospital, where she was later diagnosed with a broken leg.\n\nWhile Vonn failed to finish, fell",
-      "keywords": [
-        "johnson"
-      ],
-      "significance": 1,
-      "reason": "This is sports news coverage with no relevance to democratic institutions, checks and balances, or governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:24.714Z"
     },
     {
       "id": "1b7140d2710f",
@@ -799,21 +587,6 @@
       "scoredAt": "2026-02-09T17:51:04.989Z"
     },
     {
-      "id": "ad02504c95b7",
-      "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
-      "url": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T03:41:49.000Z",
-      "description": "Lai, who had pleaded not guilty to all charges, was among the first prominent figures arrested under Beijing's security law in August 2020.",
-      "keywords": [
-        "democracy"
-      ],
-      "significance": 1,
-      "reason": "This article concerns Hong Kong's judicial system under Beijing authority and has no direct bearing on U.S. democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:08.892Z"
-    },
-    {
       "id": "221132efe3cf",
       "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
       "url": "https://www.cnbc.com/2026/02/08/georgia-trump-election-case-judge-federal-unsealed.html",
@@ -856,21 +629,6 @@
       "scoredAt": "2026-02-09T17:51:08.209Z"
     },
     {
-      "id": "13168c26a091",
-      "title": "Japanese Prime Minister Takaichi's ruling LDP set to secure supermajority in Lower House: NHK",
-      "url": "https://www.cnbc.com/2026/02/08/japans-ruling-ldp-seen-winning-outright-majority-in-snap-poll-nhk.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T00:14:14.000Z",
-      "description": "PM Takaichi's Liberal Democratic Party is likely to win between 274-328 seats in the Lower House, higher than the 233 seats needed for a majority, NHK says.",
-      "keywords": [
-        "ruling"
-      ],
-      "significance": 1,
-      "reason": "This article concerns Japanese domestic politics and has no relevance to U.S. democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:07.864Z"
-    },
-    {
       "id": "7f61607fa3fa",
       "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
       "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
@@ -884,23 +642,6 @@
       "reason": "This is entertainment/culture commentary about social media reactions to a performer, with no direct connection to institutional checks and balances or democratic governance.",
       "categories": [],
       "scoredAt": "2026-02-09T17:51:20.727Z"
-    },
-    {
-      "id": "de036da324dd",
-      "title": "Trump Got Bad Bunny’s Message — And He Didn’t Like It",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-bad-bunny-super-bowl-halftime-show-1235513077/",
-      "source": "Rolling Stone",
-      "published": "2026-02-09T02:54:26.000Z",
-      "description": "The anti-immigrant president called the Puerto Rican musician’s Super Bowl performance “an affront to the Greatness of America”",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is commentary on a political figure's reaction to a cultural performance, lacking institutional significance to democratic checks and balances.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:51:20.103Z"
     },
     {
       "id": "eef5e49daeff",
@@ -49114,8 +48855,217 @@
       "reason": "This article reports on Israeli foreign policy statements regarding Iran and contains no substantive information about U.S. democratic institutions, checks and balances, or governance.",
       "categories": [],
       "scoredAt": "2026-03-11T00:08:17.895Z"
+    },
+    {
+      "id": "b01738a4bc0e",
+      "title": "Trump-backed Clay Fuller and Democrat Shawn Harris advance to runoff in race to replace Marjorie Taylor Greene",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-clay-fuller-shawn-harris-runoff-special-election-georgia-rcna262592",
+      "source": "NBC News",
+      "published": "2026-03-11T00:09:51.000Z",
+      "description": "Republican Clay Fuller and Democrat Shawn Harris advanced to a runoff in the special election to replace former Rep. Marjorie Taylor Greene in Georgia.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news covering a standard runoff election process with no indication of institutional erosion or democratic norm violations.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-11T06:12:55.841Z"
+    },
+    {
+      "id": "58d85600ef08",
+      "title": "Trump's endorsement in the Texas Senate race may hinge on passage of the SAVE America Act",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-endorsement-texas-senate-race-save-america-act-rcna262780",
+      "source": "NBC News",
+      "published": "2026-03-11T00:29:41.000Z",
+      "description": "Trump frequently brings up the SAVE America Act, which would impose stricter voting requirements. He told NBC News he is \"not doing anything\" until Congress passes it.",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This demonstrates conditional political leverage tied to legislation, raising concerns about democratic processes and congressional oversight, but lacks evidence of institutional erosion or unprecedented action.",
+      "categories": [
+        "congressional oversight",
+        "election infrastructure",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-11T06:12:55.889Z"
+    },
+    {
+      "id": "504225ba47cc",
+      "title": "Trump nominee withdraws after senators press him on remarks about Jews, Israel and 'white culture'",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-nominee-jeremy-carl-withdraws-nomination-state-department-rcna262866",
+      "source": "NBC News",
+      "published": "2026-03-11T03:20:40.000Z",
+      "description": "President Donald Trump's pick for a senior role at the State Department said he is withdrawing from consideration after bipartisan backlash over his comments about race and religion.",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "The withdrawal demonstrates congressional oversight functioning through bipartisan scrutiny of nominees, but represents a routine application of existing vetting processes rather than a novel institutional development.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T06:12:56.115Z"
+    },
+    {
+      "id": "b8cce7f2eb2b",
+      "title": "Kornacki explains how Georgia special election led to runoff",
+      "url": "https://www.nbcnews.com/video/kornacki-explains-how-georgia-special-election-led-to-runoff-259089989941",
+      "source": "NBC News",
+      "published": "2026-03-11T00:50:01.000Z",
+      "description": "NBC News' Steve Kornacki is at the board breaking down the numbers in the Georgia special election to replace Marjorie Taylor Greene, which will head to a runoff election in April.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral analysis and explanation of standard runoff procedures with no implications for institutional checks and balances.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-11T06:12:57.292Z"
+    },
+    {
+      "id": "264b0e9949de",
+      "title": "Georgia special election to replace Marjorie Taylor Greene headed to runoff",
+      "url": "https://www.nbcnews.com/video/georgia-special-election-to-replace-marjorie-taylor-greene-headed-to-runoff-259089989808",
+      "source": "NBC News",
+      "published": "2026-03-11T00:35:06.000Z",
+      "description": "Republican Clay Fuller and Democrat Shawn Harris advanced to a runoff in the special election to replace former Rep. Marjorie Taylor Greene in Georgia, NBC News projects.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting the results of a special election runoff with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:57.285Z"
+    },
+    {
+      "id": "1c5545502d62",
+      "title": "Trump-backed Clay Fuller to face Democrat Shawn Harris in Georgia runoff for MTG seat",
+      "url": "https://www.axios.com/2026/03/11/georgia-election-marjorie-taylor-greene-harris-fuller",
+      "source": "Axios",
+      "published": "2026-03-11T01:16:23.000Z",
+      "description": "Trump-endorsed Republican Clay Fuller and Democrat Shawn Harris will advance to the April 7th runoff to decide who will replace former Rep. Marjorie Taylor Greene in Georgia, per AP.\nWhy it matters: Harris, who lost to Greene in 2024, raised more than $4 million during his campaign. A win for Democrats in the reliably red district would be significant.\n\nThe race also is being closely watched because Republicans are operating with a razor-thin majority.\nThat's more problematic than ever for Speak",
+      "keywords": [
+        "ICE",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news about a congressional runoff that, while politically interesting, does not involve institutional threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:57.295Z"
+    },
+    {
+      "id": "cffa258b3507",
+      "title": "Trump and GOP plot strategy",
+      "url": "https://www.axios.com/2026/03/10/trump-house-republicans-retreat-white-house-midterms",
+      "source": "Axios",
+      "published": "2026-03-10T23:36:52.000Z",
+      "description": "DORAL, Fla. — President Trump's top advisers are urging House Republicans to turn the 2026 midterms into a choice election — and hammer Democrats on taxes, crime and border security.\nWhy it matters: Midterm elections are almost always referendums on the president and the party in power.\n\nBut Speaker Mike Johnson (R-La.) and Trump are looking to buck history and retain the House by focusing on the Democrats' national brand, with 52% of voters viewing the Democratic Party unfavorably.\n\nDriving the",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "deportation",
+        "white house",
+        "johnson",
+        "speaker",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political strategy reporting on standard campaign messaging approaches with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:57.369Z"
+    },
+    {
+      "id": "777e2d1c0d35",
+      "title": "140 U.S. service members injured in Iran war",
+      "url": "https://www.axios.com/2026/03/10/us-service-members-iran-war-140-injured",
+      "source": "Axios",
+      "published": "2026-03-10T19:01:35.000Z",
+      "description": "Roughly 140 U.S. service members have been injured in the 10-day Iran war so far, the Pentagon confirmed Tuesday. \nWhy it matters: It's the first official tally of U.S. service members wounded during the conflict. \n\nPresident Trump has said casualties are expected during the war, which has now killed seven U.S. members. \n\nDriving the news: Chief Pentagon Spokesman Sean Parnell said eight service members are still listed as severely injured and are \"receiving the highest level of medical care.\" \n",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a military casualty report with no direct relevance to democratic checks and balances, institutional independence, or governance mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:58.141Z"
+    },
+    {
+      "id": "26679b437c83",
+      "title": "YouTube expands access to AI detection tool to politicians and journalists",
+      "url": "https://thehill.com/homenews/5778108-youtube-expands-ai-detection/",
+      "source": "The Hill",
+      "published": "2026-03-11T03:07:26.000Z",
+      "description": "YouTube on Wednesday said it would expand access to its artificial intelligence (AI) detection tool to politicians and journalists.  The company will allow a pilot group of lawmakers and reporters to use its likeness detection feature, which flags AI-generated content that uses a person’s likeness and allows them to request removal if it violates YouTube…",
+      "keywords": [
+        "intelligence",
+        "journalist"
+      ],
+      "significance": 2,
+      "reason": "This is a routine corporate policy announcement about a tool feature expansion with minimal direct impact on constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:58.115Z"
+    },
+    {
+      "id": "26169962f5a1",
+      "title": "Thompson fends of challenger to win Mississippi primary",
+      "url": "https://thehill.com/homenews/house/5775602-thompson-mississippi-house-primary/",
+      "source": "The Hill",
+      "published": "2026-03-11T01:11:33.000Z",
+      "description": "Rep. Bennie Thompson (D-Miss.) is projected to win his primary race, fending off a long-shot challenge from 34-year-old antitrust lawyer Evan Turnage, according to Decision Desk HQ. Thompson, the 78-year-old civil rights leader, has represented Mississippi’s 2nd Congressional District for more than 30 years. He is expected to prevail in November’s general election, as his…",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine election coverage of a primary race with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:58.063Z"
+    },
+    {
+      "id": "40ad3c5dcd0a",
+      "title": "Swalwell says staffer flew to Colombia to return hearing aid to deported 6-year-old boy",
+      "url": "https://thehill.com/homenews/5778011-swalwell-staffer-returns-hearing-aid/",
+      "source": "The Hill",
+      "published": "2026-03-11T00:48:51.000Z",
+      "description": "Rep. Eric Swalwell (D-Calif.) on Monday said one of his staffers flew to Colombia to return a hearing aid device to a 6-year-old who was deported alongside his mother.  “As we stand here, my staff has just landed in Columbia, and is placing the hearing devices back in the boy’s ear,” the California lawmaker said…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is a humanitarian anecdote about constituent services that does not involve institutional checks and balances, democratic erosion, or systemic governance issues.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:59.299Z"
+    },
+    {
+      "id": "ca61b2191551",
+      "title": "Fuller, Harris nab spots in Georgia House runoff for Greene’s seat",
+      "url": "https://thehill.com/homenews/house/5775598-georgia-house-election-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-11T00:06:30.000Z",
+      "description": "Republican Clay Fuller and Democrat Shawn Harris are advancing to a runoff to replace former Rep. Marjorie Taylor Greene (R-Ga.) in Georgia’s 14th Congressional District, according to Decision Desk HQ.  All candidates, regardless of party, ran on one ballot in the special election for Georgia’s 14th Congressional District in the northwest corner of the state. Fuller and…",
+      "keywords": [
+        "election",
+        "ballot"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting on a special election runoff with no implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T06:12:58.057Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-11T00:08:17.895Z"
+  "lastFetch": "2026-03-11T06:12:59.299Z"
 }
