@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "id": "955aeeb29ec2",
-      "title": "“I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility",
-      "url": "https://www.propublica.org/article/ice-dilley-children-letters",
-      "source": "ProPublica",
-      "published": "2026-02-09T10:25:00.000Z",
-      "description": "The post “I Have Been Here Too Long”: Read Letters from the Children Detained at ICE’s Dilley Facility appeared first on ProPublica.",
-      "keywords": [
-        "ICE",
-        "detained"
-      ],
-      "significance": 5,
-      "reason": "While the article documents serious humanitarian concerns at an ICE detention facility that relate to civil rights and governmental accountability, it represents investigative journalism on an ongoing policy issue rather than a discrete institutional action or systemic check erosion.",
-      "categories": [
-        "immigration & civil rights",
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:32.963Z"
-    },
-    {
-      "id": "bc478aa511cc",
-      "title": "The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia",
-      "url": "https://www.propublica.org/article/kevin-moncla-election-researcher-fulton-county-georgia",
-      "source": "ProPublica",
-      "published": "2026-02-09T10:00:00.000Z",
-      "description": "The post The Conservative Researcher Being Linked to the FBI’s Seizure of Election Records in Georgia appeared first on ProPublica.",
-      "keywords": [
-        "election",
-        "FBI"
-      ],
-      "significance": 7,
-      "reason": "Raises significant questions about FBI independence and potential political motivation in election-related investigations, with implications for institutional integrity and election infrastructure oversight.",
-      "categories": [
-        "FBI independence",
-        "election infrastructure",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:49:33.027Z",
-      "digestedAt": "2026-02-09T17:56:26.759Z"
-    },
-    {
       "id": "507068b954f7",
       "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
       "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
@@ -55,37 +15,6 @@
       "reason": "This article covers Japanese domestic politics and has no direct relevance to U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
       "categories": [],
       "scoredAt": "2026-02-09T17:49:34.074Z"
-    },
-    {
-      "id": "79481e253d7d",
-      "title": "Rep. Raja Krishnamoorthi, D-Ill., talks abut the deposition of Ghislaine Maxwell",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5704298/rep-raja-krishnamoorthi-d-ill-talks-abut-the-deposition-of-ghislaine-maxwell",
-      "source": "NPR Politics",
-      "published": "2026-02-09T11:48:49.000Z",
-      "description": "NPR's Leila Fadel talks to House Oversight Committee member Rep. Raja Krishnamoorthi, D-Ill., about the deposition Jeffrey Epstein accomplice, Ghislaine Maxwell.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This is routine news coverage of a congressional member discussing a criminal case deposition with no direct implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:34.582Z"
-    },
-    {
-      "id": "3807252d97c9",
-      "title": "5 glaring warning signs for Republicans in this year's midterm elections",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5704794/trump-house-of-representatives-republicans-midterm-elections",
-      "source": "NPR Politics",
-      "published": "2026-02-09T10:00:00.000Z",
-      "description": "Here's why Republicans are facing an uphill battle, particularly for retaining control of the House.",
-      "keywords": [
-        "election",
-        "midterm"
-      ],
-      "significance": 2,
-      "reason": "This is electoral analysis and political commentary on midterm prospects, not reporting on institutional checks, democratic erosion, or violations of the tracked categories.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:36.323Z"
     },
     {
       "id": "73a510fe5a0d",
@@ -156,51 +85,6 @@
       "reason": "This is routine political news about a presidential nomination endorsement with no direct impact on institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-09T17:49:52.493Z"
-    },
-    {
-      "id": "ce285546d8a5",
-      "title": "Border czar warned immigration operations should be targeted or risk losing public support",
-      "url": "https://www.nbcnews.com/politics/immigration/border-czar-warned-immigration-operations-targeted-keep-faith-american-rcna257608",
-      "source": "NBC News",
-      "published": "2026-02-09T10:00:00.000Z",
-      "description": "Long before border czar Tom Homan took over in Minneapolis, he warned that a targeted approach to immigration enforcement would be needed to “keep the faith of the American people.”Any immigrant in the U.S. illegally can be arrested and deported, but Homan, who has served as a Homeland Security official under the Obama and both Trump administrations, has long said immigrants who have committed additional crimes should be prioritized for arrest and deportation",
-      "keywords": [
-        "immigration",
-        "homan",
-        "deportation",
-        "border czar",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "This article documents a policy position on immigration enforcement prioritization that reflects institutional debate within executive branch authority, notable for transparency into decision-making but not representing an institutional challenge to checks and balances.",
-      "categories": [
-        "immigration & civil rights",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:49:52.826Z"
-    },
-    {
-      "id": "9b9b927676ac",
-      "title": "State officials say the Trump administration has been absent on election security",
-      "url": "https://www.nbcnews.com/politics/elections/state-officials-say-trump-administration-election-security-rcna257031",
-      "source": "NBC News",
-      "published": "2026-02-09T10:00:41.000Z",
-      "description": "State election officials got an unusual invitation from the Trump administration last week: a late February call about midterm preparations organized by the FBI",
-      "keywords": [
-        "election",
-        "midterm",
-        "FBI",
-        "election security",
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "The article documents a routine administrative engagement on election security between federal and state officials, which is standard practice, though questions about adequate federal coordination on election infrastructure warrant monitoring.",
-      "categories": [
-        "election infrastructure",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:52.838Z"
     },
     {
       "id": "08a0def81d50",
@@ -299,59 +183,6 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-02-09T17:50:15.470Z"
-    },
-    {
-      "id": "fa4db24680de",
-      "title": "Homeowners are holding onto their houses for a record-long stretch",
-      "url": "https://www.axios.com/2026/02/09/homeowner-years-mortgage-rates-metro",
-      "source": "Axios",
-      "published": "2026-02-09T10:40:05.000Z",
-      "description": "Data: ATTOM; Chart: Axios Visuals\nU.S. homeowners are staying in their houses for the longest time in at least 25 years, largely thanks to their low mortgage rates, data shows.\nWhy it matters: That — along with still-high home prices and tight inventory — is keeping the housing market on ice.\n\nThe big picture: Sellers at the end of 2025 had owned their homes for an average of 8.6 years — a record in data going back to early 2000, when the average was 4.2 years.\nWhat we're hearing: Homeowner tenu",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article addresses housing market dynamics and economic conditions with no relevance to democratic checks and balances, institutional independence, or governance structures.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:22.198Z"
-    },
-    {
-      "id": "3f74aec6f0b0",
-      "title": "People are using AI for legal advice and it's driving lawyers bananas",
-      "url": "https://www.axios.com/2026/02/09/ai-chatgpt-lawyer-legal-help",
-      "source": "Axios",
-      "published": "2026-02-09T10:00:07.000Z",
-      "description": "AI promises to make work more productive for lawyers, but there's a problem: Their clients are using it, too.\nWhy it matters: The rise of AI is creating new headaches for attorneys: They're worried about the fate of the billable hour, a reliable profit center for aeons, and are perturbed by clients getting bad legal advice from chatbots.\n\nZoom in: \"It's like the WebMD effect on steroids,\" says Dave Jochnowitz, a partner at the law firm Outten & Golden, referring to how medical websites can give ",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article addresses industry disruption and professional concerns about AI adoption in law practice, with no connection to democratic institutions, constitutional checks and balances, or government accountability.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:23.162Z"
-    },
-    {
-      "id": "0545e63df14f",
-      "title": "Crypto revolt exposes fragility of Trump's coalition",
-      "url": "https://www.axios.com/2026/02/09/crypto-bitcoin-trump-backlash",
-      "source": "Axios",
-      "published": "2026-02-09T10:00:06.000Z",
-      "description": "Trillions of dollars in value have been vaporized from global crypto markets since October, plunging an ascendant industry championed by President Trump into a new bout of turmoil.\nWhy it matters: Crypto joins a growing list of MAGA coalition partners — from Epstein-focused populists to farmers to Latino men — now questioning whether Trump's return to power has delivered what they were promised.\n\nZoom in: The hyper-online, male-dominated crypto space embraced Trump's vision for a crypto \"Golden ",
-      "keywords": [
-        "election",
-        "voting",
-        "voter",
-        "immigration",
-        "ICE",
-        "white house",
-        "trump",
-        "crypto",
-        "meme coin"
-      ],
-      "significance": 2,
-      "reason": "This article discusses political coalition dynamics and economic market trends rather than institutional checks and balances, democratic safeguards, or erosion of constitutional oversight mechanisms.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:21.707Z"
     },
     {
       "id": "1b7140d2710f",
@@ -49064,8 +48895,676 @@
       "reason": "This is routine electoral news reporting on a special election runoff with no implications for democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-11T06:12:58.057Z"
+    },
+    {
+      "id": "eed2f5368d8e",
+      "title": "Americans are split on wanting the National Guard to monitor voting, a new poll finds",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
+      "source": "NPR Politics",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "Nearly half of Americans support the National Guard monitoring November's elections, potentially signaling an openness to the sort of nationalizing of elections that President Trump says he wants.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 6,
+      "reason": "Public opinion data on a proposed electoral monitoring method indicates notable institutional concern, but represents polling commentary rather than actual policy implementation or institutional action.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T12:07:26.477Z"
+    },
+    {
+      "id": "c32121ed0d87",
+      "title": "The Trump DOJ is giving guns back to felons, including one alleged fake elector",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
+      "source": "NPR Politics",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "The Department of Justice is quietly restarting a decades-dormant program to restore gun rights to felons. One of them was an alleged fake elector in 2020.",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Represents significant institutional action affecting DOJ independence and potential political retribution through selective application of gun restoration to individuals involved in alleged election interference.",
+      "categories": [
+        "DOJ independence",
+        "political retribution",
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-11T12:07:27.273Z"
+    },
+    {
+      "id": "b1d230787119",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5741661/morning-news-brief",
+      "source": "NPR Politics",
+      "published": "2026-03-11T08:21:50.000Z",
+      "description": "U.S. strikes on Tehran intensify, Americans' views on Iran war, and Georgia special election heads to runoff.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This brief covers foreign policy and electoral procedural matters with no direct implications for institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:26.075Z"
+    },
+    {
+      "id": "a88d89f56114",
+      "title": "Ex-national security adviser John Bolton on Trump's Iran goals",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743548/ex-national-security-adviser-john-bolton-on-trumps-iran-goals",
+      "source": "NPR Politics",
+      "published": "2026-03-11T08:20:02.000Z",
+      "description": "NPR's Steve Inskeep speaks with former national security adviser John Bolton about President Trump's objectives in Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine interview commentary on foreign policy objectives with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:26.075Z"
+    },
+    {
+      "id": "ea6539e8ffdc",
+      "title": "Georgia special election raises questions over impact of Trump's endorsements",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5737547/georgia-special-election-raises-questions-over-impact-of-trumps-endorsements",
+      "source": "NPR Politics",
+      "published": "2026-03-11T08:17:02.000Z",
+      "description": "A special election to fill the seat vacated by Marjorie Taylor Greene brings renewed attention to the role President Trump's endorsement plays in deep-red districts and among his voters.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of electoral dynamics and candidate endorsements with no institutional implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:26.116Z"
+    },
+    {
+      "id": "6238bc20e179",
+      "title": "Cook Political Report analyst on Georgia and Mississippi primaries",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743612/cook-political-report-analyst-on-georgia-and-mississippi-primaries",
+      "source": "NPR Politics",
+      "published": "2026-03-11T08:16:41.000Z",
+      "description": "What do Tuesday's elections in Georgia and Mississippi signal about the future of Republicans and Democrats nationally? NPR asks Matthew Klein of Cook Political Report.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral analysis commentary offering political interpretation of primary results without reporting on institutional actions or structural threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:28.682Z"
+    },
+    {
+      "id": "3c6411fe00e1",
+      "title": "New poll shows Americans are skeptical of Trump's Iran war",
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743799/new-poll-shows-americans-are-skeptical-of-trumps-iran-war",
+      "source": "NPR Politics",
+      "published": "2026-03-11T08:14:18.000Z",
+      "description": "Americans are skeptical of the U.S. involvement in the war with Iran, and President Trump was already facing political challenges at home.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is polling commentary on public opinion regarding foreign policy, which does not directly relate to domestic democratic checks and balances or institutional integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:28.252Z"
+    },
+    {
+      "id": "8ee593a088c7",
+      "title": "Americans are increasingly worried about voting, new poll shows",
+      "url": "https://www.pbs.org/newshour/politics/americans-are-increasingly-worried-about-voting-new-poll-shows",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "Americans' confidence that their elections will be run fairly has dropped to its lowest point in years, according to a new PBS News/NPR/Marist poll.",
+      "keywords": [
+        "election",
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "The poll data reflects concerning public sentiment about election integrity but represents measured reporting on voter confidence rather than evidence of institutional failure or democratic erosion itself.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-11T12:07:28.376Z"
+    },
+    {
+      "id": "c2e914f77254",
+      "title": "Poll: Confidence in the Supreme Court drops to a record low",
+      "url": "https://www.nbcnews.com/politics/supreme-court/poll-confidence-supreme-court-drops-record-low-rcna262459",
+      "source": "NBC News",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "The percentage of voters with significant levels of confidence in the Supreme Court has dropped to its lowest point since NBC News began polling on the question in 2000, according to the most recent survey",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Polling data on public confidence reflects institutional concern but does not itself constitute erosion of judicial independence or democratic checks; however, sustained low confidence can signal underlying legitimacy challenges worthy of monitoring.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-11T12:07:30.384Z"
+    },
+    {
+      "id": "e1c9a83ff5e2",
+      "title": "Here's what's actually in Trump's voting bill",
+      "url": "https://www.nbcnews.com/politics/elections/trump-save-america-voting-bill-rcna262706",
+      "source": "NBC News",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "President Donald Trump has vowed not to sign any bills into law until the SAVE America Act is passed, escalating his pressure campaign to get a sweeping voting bill across the finish line before this fall's elections",
+      "keywords": [
+        "election",
+        "voting",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Using presidential leverage to force passage of a specific voting bill represents a significant institutional action with direct implications for election infrastructure and congressional oversight.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T12:07:30.046Z"
+    },
+    {
+      "id": "9808a50b3078",
+      "title": "Trump takes fight to Rep. Thomas Massie's backyard",
+      "url": "https://www.nbcnews.com/politics/congress/trump-brings-fight-rep-thomas-massies-backyard-rcna262535",
+      "source": "NBC News",
+      "published": "2026-03-11T09:00:00.000Z",
+      "description": "The president is visiting Kentucky to boost the primary challenger to rep. Thomas Massie, whom he has called a \"moron,\" a \"lightweight\" and a \"loser.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This describes routine political campaign activity and personal criticism within normal electoral processes, not an institutional threat to checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:30.194Z"
+    },
+    {
+      "id": "32627d7828a2",
+      "title": "Georgia Race to Replace Marjorie Taylor Greene Heads to Runoff",
+      "url": "https://www.today.com/video/clay-fuller-and-shawn-harris-advance-to-georgia-election-runoff-259112005579",
+      "source": "NBC News",
+      "published": "2026-03-11T11:56:48.000Z",
+      "description": "Voters in Georgia held their special election to replace former Rep. Marjorie Taylor Greene with Democrat Shawn Harris and Republican Clay Fuller, who was endorsed by President Donald Trump, advancing to the runoff in the closely-watched race. NBC’s Aaron Gilchrist reports for TODAY.",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral coverage of a special election runoff with no direct implications for institutional checks and balances, judicial independence, or democratic guardrails.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:29.841Z"
+    },
+    {
+      "id": "f6bb375d7a01",
+      "title": "Trump Faces Concerns Over Iran War Plan and Rising Gas Prices",
+      "url": "https://www.today.com/video/trump-faces-concerns-over-iran-war-timeline-rising-gas-prices-259109445943",
+      "source": "NBC News",
+      "published": "2026-03-11T11:42:47.000Z",
+      "description": "As United States’ attacks in the Middle East escalate and oil and gas prices continue to surge, the Trump administration is facing growing questions about the timeline for the Iran war. NBC’s Peter Alexander reports for TODAY from the White House.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is standard political reporting on policy concerns and economic impacts without evidence of institutional checks and balances being tested or compromised.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:29.897Z"
+    },
+    {
+      "id": "a60c8efa7984",
+      "title": "Latino Texans fuel surge in Democratic primary turnout, as GOP aims to hold onto gains",
+      "url": "https://www.cbsnews.com/news/latino-texas-voters-democrats-primary-talarico-cornyn-paxton-trump/",
+      "source": "CBS News",
+      "published": "2026-03-11T10:00:17.000Z",
+      "description": "Latino voters helped propel record turnout in last week's Texas Democratic primary, a trend Democrats are watching closely as they try to reclaim ground with the group and pull off an upset win in the red-leaning state's Senate contest.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 2,
+      "reason": "This article reports on primary voter turnout patterns and demographic trends without addressing institutional checks, balances, or democratic integrity concerns.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:31.260Z"
+    },
+    {
+      "id": "819ac6786804",
+      "title": "Fuller, Harris head to Georgia runoff, CBS News projects",
+      "url": "https://www.cbsnews.com/news/clay-fuller-shawn-harris-heading-to-runoff-in-georgia-election-to-replace-marjorie-taylor-greene/",
+      "source": "CBS News",
+      "published": "2026-03-11T01:23:00.000Z",
+      "description": "Trump-backed Clayton Fuller and Shawn Harris advance to a runoff election to fill Marjorie Taylor Greene's seat.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting on a runoff election outcome with no direct bearing on institutional checks and balances.",
+      "categories": [
+        "election-infrastructure"
+      ],
+      "scoredAt": "2026-03-11T12:07:31.187Z"
+    },
+    {
+      "id": "3735361f5560",
+      "title": " Trump to visit Ohio and Kentucky to downplay war's effect on economy and target a top GOP antagonist",
+      "url": "https://abcnews.com/Politics/wireStory/trump-visit-ohio-kentucky-downplay-wars-effect-economy-130956833",
+      "source": "ABC News",
+      "published": "2026-03-11T07:30:39.000Z",
+      "description": "President Donald Trump is visiting Ohio and Kentucky as he tries to steady voters' concerns about the economy and to derail the reelection bid of a Republican rival",
+      "keywords": [
+        "election",
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign coverage of a presidential visit focused on economic messaging and intra-party politics, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:31.341Z"
+    },
+    {
+      "id": "d81ab0ebf09a",
+      "title": " Trump has one prescription for midterms. House Republicans have another",
+      "url": "https://abcnews.com/Politics/wireStory/trump-prescription-midterms-house-republicans-130956208",
+      "source": "ABC News",
+      "published": "2026-03-11T07:30:55.000Z",
+      "description": "President Donald Trump insisted he had the answer for Republicans anxious about losing their congressional majority this year",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article describes routine political disagreement between Trump and House Republicans over midterm strategy, lacking evidence of institutional impact on democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:31.729Z"
+    },
+    {
+      "id": "dd01d91abd8f",
+      "title": " Cliff Johnson wins Democratic nomination for U.S. House in Mississippi's 1st Congressional District",
+      "url": "https://abcnews.com/Politics/wireStory/cliff-johnson-wins-democratic-nomination-us-house-mississippis-130953141",
+      "source": "ABC News",
+      "published": "2026-03-11T11:52:37.000Z",
+      "description": "Cliff Johnson wins Democratic nomination for U.S. House in Mississippi's 1st Congressional District",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 1,
+      "reason": "This is routine electoral news reporting a primary election outcome with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:32.746Z"
+    },
+    {
+      "id": "597ccd4b61cb",
+      "title": " Scott Colom wins Democratic nomination for U.S. Senate in Mississippi primary election",
+      "url": "https://abcnews.com/Politics/wireStory/scott-colom-wins-democratic-nomination-us-senate-mississippi-130952533",
+      "source": "ABC News",
+      "published": "2026-03-11T11:52:40.000Z",
+      "description": "Scott Colom wins Democratic nomination for U.S. Senate in Mississippi primary election",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is routine election news reporting on a primary election outcome with no implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:32.468Z"
+    },
+    {
+      "id": "6f1938641cb3",
+      "title": " Cindy Hyde-Smith wins Republican nomination for U.S. Senate in Mississippi primary election",
+      "url": "https://abcnews.com/Politics/wireStory/cindy-hyde-smith-wins-republican-nomination-us-senate-130951942",
+      "source": "ABC News",
+      "published": "2026-03-11T11:52:43.000Z",
+      "description": "Cindy Hyde-Smith wins Republican nomination for U.S. Senate in Mississippi primary election",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "A routine primary election result reporting a candidate's nomination victory with no bearing on institutional checks and balances or democratic guardrails.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:32.478Z"
+    },
+    {
+      "id": "a8604473c4fa",
+      "title": " Shawn Harris and Clayton Fuller advance to special runoff election for US House in Georgia’s 14th Congressional District",
+      "url": "https://abcnews.com/Politics/wireStory/shawn-harris-clayton-fuller-advance-special-runoff-election-130951831",
+      "source": "ABC News",
+      "published": "2026-03-11T11:52:48.000Z",
+      "description": "Shawn Harris and Clayton Fuller advance to special runoff election for US House in Georgia’s 14th Congressional District",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "Routine election coverage of a special runoff election with no implications for democratic institutions or checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-11T12:07:33.318Z"
+    },
+    {
+      "id": "72da423ab2ad",
+      "title": " Thune says Senate to consider voting bill but pushes back on demands for 'talking filibuster'",
+      "url": "https://abcnews.com/Politics/wireStory/thune-senate-voting-bill-pushes-back-demands-talking-130949476",
+      "source": "ABC News",
+      "published": "2026-03-11T11:49:53.000Z",
+      "description": "Majority Leader John Thune says that the Senate will consider a bill to impose strict new proof-of-citizenship requirements in elections",
+      "keywords": [
+        "election",
+        "voting"
+      ],
+      "significance": 5,
+      "reason": "A voting bill proposal with citizenship requirements represents a notable policy development affecting election infrastructure and congressional oversight, but lacks the urgency of immediate institutional erosion or unprecedented action.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T12:07:32.882Z"
+    },
+    {
+      "id": "e0116159f1f8",
+      "title": " Trump-backed Fuller and Democrat Harris move to Georgia runoff to succeed Marjorie Taylor Greene",
+      "url": "https://abcnews.com/Politics/wireStory/trump-backed-fuller-democrat-harris-move-georgia-runoff-130922989",
+      "source": "ABC News",
+      "published": "2026-03-11T07:30:35.000Z",
+      "description": "Republican Clay Fuller and Democrat Shawn Harris are advancing to an April 7 runoff for Marjorie Taylor Greene’s former U.S. House seat in Georgia",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral news reporting on a special election runoff with no indication of threats to democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:34.677Z"
+    },
+    {
+      "id": "967ded3aff67",
+      "title": "Behind the Curtain: The big lie warping America",
+      "url": "https://www.axios.com/2026/03/11/america-social-media-polarization",
+      "source": "Axios",
+      "published": "2026-03-11T09:46:26.000Z",
+      "description": "Watch TV, scroll social media or listen to politicians, and the verdict seems clear: Americans are hopelessly divided and increasingly hateful.\n\nIt's a ubiquitous, emphatic, verifiable ... lie.\n\nWhy it matters: Most Americans are too busy for social media, too normal for politics, too rational to tweet. They work, raise kids, coach Little League, go to a house of worship, mow their neighbor's lawn — and never post a word about any of it.\n\nThis isn't a small minority. It's a monstrous, if silent,",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "This is opinion/commentary about media narratives and social division rather than reporting on specific democratic institutions, policy changes, or institutional actions affecting checks and balances.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-11T12:07:34.304Z"
+    },
+    {
+      "id": "160de93ecf9d",
+      "title": "OpenAI, Anthropic feud could prop up Google",
+      "url": "https://www.axios.com/2026/03/11/openai-anthropic-pentagon-google",
+      "source": "Axios",
+      "published": "2026-03-11T09:00:05.000Z",
+      "description": "Google is quietly expanding its Pentagon work — and growing users faster than its rivals — while Anthropic and OpenAI publicly spar over conditions for Defense Department work.\nWhy it matters: Winning the AI race may depend on knowing when to stay out of scuffles.\n\nWhat they're saying: \"When you have two major companies fighting each other, it is a good distraction for another company to come in and learn from their mistakes and just go all the way to the top,\" PitchBook's Harrison Rolfes tells ",
+      "keywords": [
+        "ICE",
+        "classified",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article concerns commercial competition in AI procurement and does not directly address erosion of democratic institutions, checks and balances, or governance integrity.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:34.133Z"
+    },
+    {
+      "id": "9630542c1bd6",
+      "title": "The contracting mess Noem's leaving behind at DHS",
+      "url": "https://www.axios.com/2026/03/11/noem-dhs-contracts-backlog",
+      "source": "Axios",
+      "published": "2026-03-11T08:50:05.000Z",
+      "description": "Homeland Security Secretary Kristi Noem is on track to leave dozens of pending contracts on her desk when she leaves office in three weeks, the legacy of a system she imposed to cut \"waste, fraud and abuse,\" but that has stalled DHS programs.\nWhy it matters: The backlog of contracts has left vendors waiting for payments and delayed projects such as President Trump's push for mass deportations and the border wall, along with disaster relief under FEMA, Axios has learned.\n\n\"There's a mountain of b",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "deportation",
+        "detained",
+        "trump",
+        "EPA",
+        "detention"
+      ],
+      "significance": 5,
+      "reason": "While contract delays affect agency operations and program implementation, this represents administrative dysfunction rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-11T12:07:34.284Z"
+    },
+    {
+      "id": "0e9c2e28e24a",
+      "title": "The stakes are high in the Pentagon’s battle against ‘woke AI’",
+      "url": "https://thehill.com/opinion/national-security/5777048-the-stakes-are-high-in-the-pentagons-battle-against-woke-ai/",
+      "source": "The Hill",
+      "published": "2026-03-11T12:00:00.000Z",
+      "description": "Now is not the time for a conflict with an artificial intelligence provider — wars are hard enough when taken just one at a time.",
+      "keywords": [
+        "intelligence"
+      ],
+      "significance": 3,
+      "reason": "This article addresses Pentagon procurement and AI policy philosophy rather than institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:34.106Z"
+    },
+    {
+      "id": "34601221b73f",
+      "title": "Live Nation antitrust deal spurs questions for  DOJ",
+      "url": "https://thehill.com/newsletters/the-gavel/5777591-gavel-live-nation-doj-antitrust/",
+      "source": "The Hill",
+      "published": "2026-03-11T12:00:00.000Z",
+      "description": "The Justice Department’s surprise settlement with Ticketmaster parent Live Nation in its lawsuit alleging the entertainment behemoth holds an illegal monopoly on the ticketing industry has turned attention toward the Trump administration’s approach to antitrust.   The agreement, which must still be approved by a judge, would require the company to cap service fees at 15…",
+      "keywords": [
+        "DOJ",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine antitrust litigation and settlement news with no direct bearing on the tracked democratic checks and balances categories.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:35.486Z"
+    },
+    {
+      "id": "7cff231cc68a",
+      "title": "Trump heads to Kentucky in an aggressive effort to topple a foe: GOP Rep. Thomas Massie",
+      "url": "https://thehill.com/homenews/house/5777755-trump-massie-kentucky/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "President Trump will venture to northern Kentucky on Wednesday in a forceful effort to topple a sitting Republican, Rep. Thomas Massie (Ky.), who has emerged as the president’s most vocal GOP antagonist in the Capitol. Trump is scheduled to visit a packaging plant in Hebron in Massie’s 4th Congressional District, where the president has endorsed…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine political news about primary campaign activity and partisan conflict, not an institutional action threatening democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:35.682Z"
+    },
+    {
+      "id": "e4537453045b",
+      "title": "Swalwell leads wide-open California governor’s race: poll ",
+      "url": "https://thehill.com/homenews/campaign/5777945-republican-opportunity-california-primary/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Rep. Eric Swalwell (D-Calif.) is leading in a wide-open California Democratic primary to replace term-limited Gov. Gavin Newsom (D), new polling shows. A new Emerson College Polling/Inside California Politics survey found Swalwell’s support had ticked up several points since December, pushing him to the top of the pack with 17 percent of likely voters.  Republican…",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 1,
+      "reason": "Routine electoral polling coverage of a state gubernatorial primary race with no institutional or democratic governance implications.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:35.523Z"
+    },
+    {
+      "id": "17dc6686aaf0",
+      "title": "Republicans eye second GOP-only megabill, but it faces uphill climb",
+      "url": "https://thehill.com/homenews/house/5777723-republicans-megabill-reconciliation/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "DORAL, Fla. – House Republicans want to usher through a second massive spending package as the 2026 midterm elections ramp up, a tall order for a fractured GOP conference and Speaker Mike Johnson (R-La.), who commands a razor-thin majority. Republicans have been looking to strengthen their economic messaging amid voter concerns over rising grocery prices,…",
+      "keywords": [
+        "election",
+        "voter",
+        "midterm",
+        "ICE",
+        "johnson",
+        "speaker"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about legislative strategy and internal party dynamics without implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:35.462Z"
+    },
+    {
+      "id": "976fa99615ba",
+      "title": "Democrats zero in on Virginia redistricting as early voting begins",
+      "url": "https://thehill.com/homenews/campaign/5777074-virginia-democrats-redistricting-midterms/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Democrats are zeroing in on Virginia as voters weigh a redistricting plan that could help the party win four more House seats this fall — the latest front in the nationwide war over congressional lines ahead of this year’s midterm elections. Early voting started Friday on a constitutional amendment that would temporarily bypass the state’s…",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm"
+      ],
+      "significance": 4,
+      "reason": "Redistricting is a recurring democratic process with legitimate partisan dimensions, and this article covers routine electoral strategy rather than institutional erosion or checks-and-balances violations.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-11T12:07:35.748Z"
+    },
+    {
+      "id": "ca468ee511d9",
+      "title": "Ukraine sees opportunity in America’s drone problem in Iran",
+      "url": "https://thehill.com/policy/defense/5777914-ukraine-drones-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Ukraine is seeking to leverage the raging U.S.-Israeli war against Iran to bolster its ties with the Trump administration and showcase its military innovations as the Russia-Ukraine peace talks are placed on America’s back burner.   The latest Middle East conflict is offering Kyiv a chance to utilize its technology expertise, offering the U.S. and its…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article discusses international geopolitical strategy and Ukraine's diplomatic positioning, which does not directly implicate U.S. democratic institutions, checks and balances, or the integrity of domestic governance systems.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:36.752Z"
+    },
+    {
+      "id": "6224736f05c9",
+      "title": "In ICE masking debate, these former officers say take them off",
+      "url": "https://thehill.com/homenews/state-watch/5774858-ice-masking-law-enforcement-identity-debate/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Former law enforcement and immigration officials are coming out in opposition to the Trump administration’s defense of masks worn by agents leading its immigration crackdown.  The federal government has argued that having officers wear masks is necessary for their protection, but former officials who worked under both Democratic and Republican administrations told The Hill it’s…",
+      "keywords": [
+        "immigration",
+        "ICE",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable institutional debate about transparency and accountability in law enforcement operations, but falls short of critical significance as it concerns procedural practices rather than fundamental democratic erosion.",
+      "categories": [
+        "civil service independence",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-11T12:07:36.786Z"
+    },
+    {
+      "id": "13cc8715ebca",
+      "title": "Dusty Johnson leads GOP primary for South Dakota governor: poll ",
+      "url": "https://thehill.com/homenews/5778140-johnson-rhoden-south-dakota/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Rep. Dusty Johnson (R-S.D.) is leading the Republican primary for South Dakota governor, according to a new poll.  An Emerson College Polling/Nexstar Media survey released on Wednesday showed Johnson in first place with 28 percent, with businessman Toby Doeden with 18 percent, Gov. Larry Rhoden at 17 percent and state Rep. Jon Hansen (R) at 14 percent. A…",
+      "keywords": [
+        "johnson"
+      ],
+      "significance": 1,
+      "reason": "This is routine political news about a state primary race with no implications for federal democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:36.481Z"
+    },
+    {
+      "id": "472ee059a311",
+      "title": "Thune quashes Trump push to reform filibuster for SAVE Act",
+      "url": "https://thehill.com/homenews/senate/5777802-talking-filibuster-gop-debate/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Senate Majority Leader John Thune (R-S.D.) told GOP colleagues Tuesday that they don’t have the votes to pass a House-approved voting reform bill through the Senate by forcing Democrats to use a talking filibuster to oppose it, rejecting President Trump’s full-court press. Senate Republicans at a Tuesday lunch meeting discussed the prospect of forcing Democrats…",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Demonstrates congressional oversight resisting executive pressure on legislative procedure, a notable but routine exercise of institutional independence rather than a critical threat or unprecedented action.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T12:07:36.737Z"
+    },
+    {
+      "id": "3692fba487fd",
+      "title": "Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax",
+      "url": "https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/",
+      "source": "The Hill",
+      "published": "2026-03-11T10:00:00.000Z",
+      "description": "Rep. Ro Khanna (D-Calif.), once championed by Silicon Valley, is facing a primary challenge from a tech entrepreneur seeking to capitalize on the industry’s growing antipathy toward the progressive Democrat after he voiced support for a controversial California wealth tax. Ethan Agarwal, who launched a brief bid for California governor last year, announced last week…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a primary challenge and policy disagreement with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T12:07:36.498Z"
+    },
+    {
+      "id": "aea5e258e89e",
+      "title": "Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS",
+      "url": "https://www.cnbc.com/2026/03/11/trump-markwayne-mullin-dhs.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-11T11:00:01.000Z",
+      "description": "Republicans are optimistic about Markwayne Mullin taking over the reins at DHS, while Democrats warn his tenure will be more of the same after Kristi Noem.",
+      "keywords": [
+        "immigration",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A cabinet appointment announcement represents a notable institutional development affecting immigration policy implementation, but lacks the specificity of major policy changes or institutional conflicts that would elevate it to significant.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-11T12:07:37.786Z"
+    },
+    {
+      "id": "81589d8ad819",
+      "title": "Senators call for investigation into release, redaction of Epstein files",
+      "url": "https://www.cnbc.com/2026/03/11/senators-epstein-files-investigation.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-11T10:00:01.000Z",
+      "description": "The Department of Justice has come under fire for its handling of documents related to disgraced sex offender Jeffrey Epstein.",
+      "keywords": [
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "Senate oversight of DOJ document handling represents normal congressional accountability, but lacks evidence of systemic institutional erosion or unprecedented democratic violation.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T12:07:37.912Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-11T06:12:59.299Z"
+  "lastFetch": "2026-03-11T12:07:37.912Z"
 }
