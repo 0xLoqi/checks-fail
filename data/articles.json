@@ -1,512 +1,6 @@
 {
   "articles": [
     {
-      "id": "507068b954f7",
-      "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
-      "url": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
-      "source": "NPR Politics",
-      "published": "2026-02-09T13:13:38.000Z",
-      "description": "Japan's first female Prime Minister, Sanae Takaichi, brought the ruling Liberal Democratic Party its biggest-ever electoral victory, fueling her ambitions to pursue to a political agenda which she says could \"split public opinion.\"",
-      "keywords": [
-        "election",
-        "ruling"
-      ],
-      "significance": 1,
-      "reason": "This article covers Japanese domestic politics and has no direct relevance to U.S. democratic institutions, checks and balances, or the 12 tracked categories.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:34.074Z"
-    },
-    {
-      "id": "73a510fe5a0d",
-      "title": "WATCH: Ghislaine Maxwell not cooperating because she is campaigning for Trump pardon, Democrats say",
-      "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-not-cooperating-because-she-is-campaigning-for-trump-pardon-democrats-say",
-      "source": "PBS NewsHour",
-      "published": "2026-02-09T17:32:26.000Z",
-      "description": "An attorney for Ghislaine Maxwell told lawmakers Manday that she would be willing to testify that neither President Donald Trump nor former President Bill Clinton were culpable for wrongdoing in their relationships with Epstein, according to both Democratic and Republican lawmakers who exited a closed-door deposition with Maxwell.",
-      "keywords": [
-        "trump",
-        "pardon"
-      ],
-      "significance": 5,
-      "reason": "Raises concerns about potential political retribution and DOJ independence if a convicted felon's cooperation is influenced by pardon incentives, but lacks confirmed evidence of actual institutional action or policy change.",
-      "categories": [
-        "political retribution",
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-09T17:49:42.297Z"
-    },
-    {
-      "id": "bf04358ecbb6",
-      "title": "WATCH LIVE: House gavels in as deadline for Homeland Security funding nears",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-house-gavels-in-as-deadline-for-homeland-security-funding-nears",
-      "source": "PBS NewsHour",
-      "published": "2026-02-09T16:58:28.000Z",
-      "description": "Whether to ban the masks — or allow the masking to continue — has emerged as a central question in the debate in Congress over funding Homeland Security ahead of Friday's midnight deadline, when it faces a partial agency shutdown.",
-      "keywords": [
-        "DNI"
-      ],
-      "significance": 4,
-      "reason": "A routine funding deadline debate with procedural congressional activity, though it involves Homeland Security operations and potentially touches on civil rights implications depending on the masking policy details.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:49:42.359Z"
-    },
-    {
-      "id": "45141b367752",
-      "title": "Trump slams Olympian for expressing 'mixed emotions' about what's 'going on in the U.S.'",
-      "url": "https://www.pbs.org/newshour/politics/trump-slams-olympian-for-expressing-mixed-emotions-about-whats-going-on-in-the-u-s",
-      "source": "PBS NewsHour",
-      "published": "2026-02-09T16:45:48.000Z",
-      "description": "President Donald Trump said Sunday it's hard to cheer for American Olympians who are speaking out against his administration's policies.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This represents routine political commentary and criticism rather than an institutional action affecting democratic checks and balances.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:49:42.086Z"
-    },
-    {
-      "id": "bc54fcc23fc9",
-      "title": "",
-      "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
-      "source": "CNN Politics",
-      "published": null,
-      "description": "Vice President Kamala Harris, a former US senator from California who previously served as the state's attorney general, could be the first Black woman and Asian American to lead a major party ticket after receiving President Joe Biden's support to become the next Democratic presidential nominee.",
-      "keywords": [
-        "attorney general",
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This is routine political news about a presidential nomination endorsement with no direct impact on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:49:52.493Z"
-    },
-    {
-      "id": "08a0def81d50",
-      "title": "Members of Congress to View Unredacted Jeffrey Epstein Files",
-      "url": "https://www.today.com/video/epstein-survivors-use-super-bowl-ad-to-demand-transparency-257372229739",
-      "source": "NBC News",
-      "published": "2026-02-09T12:31:05.000Z",
-      "description": "The Justice Department will begin allowing members of Congress to view unredacted copies of its millions of files on the late convicted sex offender Jeffrey Epstein. It comes as a group of Epstein survivors are hoping a high-profile public service announcement in the Super Bowl will lead to more transparency.  NBC’s Ryan Nobles reports for TODAY.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "This represents a notable exercise of congressional oversight authority regarding executive branch records, but lacks the institutional significance of major policy changes or unprecedented democratic erosion.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:49:52.688Z"
-    },
-    {
-      "id": "199b8eca18bc",
-      "title": "Ghislaine Maxwell's lawyer says she'll testify if Trump grants her clemency",
-      "url": "https://www.cbsnews.com/news/ghislaine-maxwell-house-oversight-committee-deposition-fifth-amendment/",
-      "source": "CBS News",
-      "published": "2026-02-09T17:26:13.000Z",
-      "description": "Ghislaine Maxwell's lawyer said she would be willing to cooperate with a House panel's probe if President Trump grants her clemency, and would testify that he is \"innocent of any wrongdoing.\"",
-      "keywords": [
-        "trump",
-        "clemency"
-      ],
-      "significance": 5,
-      "reason": "Raises concerns about potential political retribution and quid pro quo clemency, but involves a specific criminal case rather than broad institutional erosion.",
-      "categories": [
-        "political retribution",
-        "judicial independence",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-09T17:50:04.073Z"
-    },
-    {
-      "id": "a932f8280f29",
-      "title": "Less than 14% of those ICE arrested had violent criminal records, data show",
-      "url": "https://www.cbsnews.com/news/ice-arrests-violent-criminal-records-trump-first-year/",
-      "source": "CBS News",
-      "published": "2026-02-09T17:17:30.000Z",
-      "description": "The official DHS statistics, which had not been previously reported, provide the most detailed look yet into who ICE has arrested during the Trump administration's crackdown.",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Data revealing ICE arrest patterns is notable for civil rights accountability but represents routine reporting rather than a specific institutional action or policy change.",
-      "categories": [
-        "immigration & civil rights",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:50:04.121Z"
-    },
-    {
-      "id": "24fbdc4b2bd3",
-      "title": "Face the Nation: Omar, Vinograd, Krebs",
-      "url": "https://www.cbsnews.com/video/face-the-nation-omar-vinograd-krebs/",
-      "source": "CBS News",
-      "published": "2026-02-09T15:52:49.000Z",
-      "description": "Missed the second half of the show? The latest on...Dem. Rep. Ilhan Omar says that as the Trump administration has steamrolled forward with executive orders to dismantle USAID and the Department of Education as well accessing the Treasury Department records because the president doesn't \"have the support\" among Republicans in Congress, amid the Trump administration's bureaucratic overhaul, CBS News Justice Department correspondent Scott MacFarlane, chief legal correspondent Jan Crawford, CBS New",
-      "keywords": [
-        "ICE",
-        "executive order",
-        "cybersecurity",
-        "USAID",
-        "trump",
-        "USAID",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This is a brief news summary/teaser of a talk show segment rather than substantive reporting on institutional actions or policy outcomes.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:03.924Z"
-    },
-    {
-      "id": "730a2f00ef70",
-      "title": " Masks emerge as symbol of Trump's ICE crackdown and a flashpoint in Congress",
-      "url": "https://abcnews.go.com/Politics/wireStory/masks-emerge-symbol-trumps-ice-crackdown-flashpoint-congress-129986936",
-      "source": "ABC News",
-      "published": "2026-02-09T12:53:49.000Z",
-      "description": "The images of masked federal officers has become a flashpoint in the Trump administration’s immigration enforcement operations",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Represents a notable symbolic and political controversy over immigration enforcement tactics that touches on civil rights and congressional oversight, but lacks evidence of institutional erosion or unprecedented democratic harm.",
-      "categories": [
-        "immigration & civil rights",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:50:15.470Z"
-    },
-    {
-      "id": "1b7140d2710f",
-      "title": "Operation Metro Surge is eroding global trust in the US",
-      "url": "https://thehill.com/opinion/white-house/5728835-us-global-leader-domestic-crisis/",
-      "source": "The Hill",
-      "published": "2026-02-09T17:30:00.000Z",
-      "description": "The United States is struggling to maintain order within its own borders, as evidenced by the recent partial shutdown of the federal government and the tragic deaths of two American citizens at the hands of federal officers, while simultaneously presenting itself as a global titan and \"merchant of stability\" through arms sales to Israel and Saudi Arabia.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 4,
-      "reason": "While the article touches on federal government dysfunction and law enforcement accountability, it primarily offers opinion/commentary on foreign policy optics rather than documenting specific institutional erosion of democratic checks and balances.",
-      "categories": [
-        "civil service independence",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:50:31.725Z"
-    },
-    {
-      "id": "7c42fa95e362",
-      "title": "Live updates: DHS funding battle; Bad Bunny Super Bowl fallout; Maxwell stays mum in Epstein probe",
-      "url": "https://thehill.com/homenews/administration/5728527-live-updates-trump-dhs-funding-maxwell-epstein-probe/",
-      "source": "The Hill",
-      "published": "2026-02-09T17:09:25.000Z",
-      "description": "The Department of Homeland Security (DHS) is back in the spotlight Monday, with Congress staring down another funding lapse deadline as bipartisan talks fizzle. With funding drying up at the end of the week, lawmakers are gearing up for a tough fight as Democrats dig in on 10 “guardrails” they want Congress to enact, and…",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 4,
-      "reason": "A funding deadline negotiation represents routine legislative activity with standard partisan disagreement, though the guardrails issue warrants monitoring for potential checks-and-balances implications.",
-      "categories": [
-        "congressional oversight",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-09T17:50:33.715Z"
-    },
-    {
-      "id": "807368c050ba",
-      "title": "March for Life attendees may have been exposed to measles, DC health officials say",
-      "url": "https://thehill.com/policy/healthcare/5729715-dc-health-alert-measles-exposure/",
-      "source": "The Hill",
-      "published": "2026-02-09T17:01:48.000Z",
-      "description": "Health officials in Washington, D.C., said Sunday that attendees of last month’s March for Life rally may have been exposed to measles, amid a nationwide outbreak of the disease.  D.C. Health said in a notice it was “notified of multiple confirmed cases of measles whose carriers visited multiple locations in the District while contagious” and…",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This is a public health notification about disease exposure at a public event with no connection to democratic institutions, checks and balances, or governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:50:30.895Z"
-    },
-    {
-      "id": "8644b1ce9e8c",
-      "title": "US military intercepts vessel ‘hunted’ from Caribbean to Indian Ocean",
-      "url": "https://thehill.com/policy/defense/5729697-us-military-intercepts-vessel-venezuela-sanctions/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:45:58.000Z",
-      "description": "The U.S. military intercepted an oil tanker it said was operating in defiance of President Trump’s quarantine of sanctioned vessels in the Indian Ocean overnight Monday after it tracked the vessel from the Caribbean.  The Pentagon did not clarify if U.S. forces seized the ship, the Aquilla II, as U.S. personnel have done with at…",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine military/foreign policy news involving vessel interception and sanctions enforcement, with no direct bearing on domestic democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:02.960Z"
-    },
-    {
-      "id": "46b70ad026d1",
-      "title": "Hegseth records message for Turning Point USA halftime show",
-      "url": "https://thehill.com/policy/defense/5729707-bad-bunny-super-bowl-halftime/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:33:54.000Z",
-      "description": "Defense Secretary Pete Hegseth on Sunday praised Turning Point USA for an alternative Super Bowl halftime show meant to compete with the official performance by Bad Bunny. “From the War Department, we salute Turning Point USA and every American who still believes freedom is worth defending,” Hegseth said in the clip on the YouTube livestream…",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "A Cabinet secretary recording a message for a political organization's event is routine political activity with no direct bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:04.049Z"
-    },
-    {
-      "id": "798a8113d858",
-      "title": "Apprenticeships can help save the Democratic Party",
-      "url": "https://thehill.com/opinion/campaign/5726676-democrats-working-class-voters/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:30:00.000Z",
-      "description": "Democrats need to deliver results that improve the lot of working-class voters.",
-      "keywords": [
-        "voter",
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This is opinion/commentary about Democratic Party strategy and apprenticeship policy with no direct connection to institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:03.826Z"
-    },
-    {
-      "id": "3d8461157160",
-      "title": "Bannon warns of ‘massive lack of enthusiasm’ among Trump MAGA base",
-      "url": "https://thehill.com/homenews/campaign/5729639-gop-fractures-trump-behavior/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:17:14.000Z",
-      "description": "Former White House strategist Steve Bannon on Saturday signaled a growing concern about what he described as the lack of enthusiasm among President Trump’s MAGA base over the White House’s direction. “You have a massive lack of enthusiasm among the base. Because they’re sitting there going ‘I’m just not feelin’ it right now,’” Bannon said…",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is commentary on political sentiment and internal campaign dynamics with no direct bearing on institutional checks and balances or democratic safeguards.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:03.994Z"
-    },
-    {
-      "id": "4cec0534c21f",
-      "title": "Star snowboarder Chloe Kim defends fellow Olympian Hunter Hess from Trump attack",
-      "url": "https://thehill.com/blogs/in-the-know/5729611-chloe-kim-supports-hunter-hess-trump-criticism/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:13:46.000Z",
-      "description": "Chloe Kim, the two-time Olympic snowboarding gold medalist, voiced support Monday for Hunter Hess, a fellow Team USA athlete who has drawn criticism from President Trump over comments expressing mixed feelings about representing the United States in Milan-Cortina. “My parents being immigrants, this one definitely hits pretty close to home,” Kim said when asked during…",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is a celebrity social media response to political criticism with no bearing on institutional checks and balances, democratic governance, or the tracked categories.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:03.814Z"
-    },
-    {
-      "id": "df45c408429e",
-      "title": "Crockett, Paxton lead their Texas Senate primaries: Poll",
-      "url": "https://thehill.com/homenews/campaign/5729642-paxton-cornyn-hypothetical-runoff/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:05:36.000Z",
-      "description": "Texas Attorney General Ken Paxton (R) and Rep. Jasmine Crockett (D-Texas) lead their respective parties’ U.S. Senate primary races in Texas, according to a new survey released just over a week before early voting begins. Paxton leads incumbent Sen. John Cornyn (R-Texas), 38 percent to 31 percent, among likely GOP primary voters, in the latest…",
-      "keywords": [
-        "voting",
-        "voter",
-        "attorney general"
-      ],
-      "significance": 2,
-      "reason": "This is routine electoral polling coverage with no direct implications for democratic checks and balances or institutional integrity.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:03.814Z"
-    },
-    {
-      "id": "2574791f6500",
-      "title": "ICE’s actions are an affront to our Constitution and the founders’ God",
-      "url": "https://thehill.com/opinion/immigration/5726439-judge-biery-defends-immigrant-rights/",
-      "source": "The Hill",
-      "published": "2026-02-09T16:00:00.000Z",
-      "description": "In the world the Declaration of Independence envisions, no human being should ever be treated as worthless. That is why the Trump administration’s policies are so dangerous and destructive.",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is opinion commentary expressing moral objections to immigration enforcement policies rather than reporting on institutional actions, policy changes, or democratic mechanisms.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-09T17:51:07.145Z"
-    },
-    {
-      "id": "35d0ac90f150",
-      "title": "Markey to introduce resolution denouncing Trump’s call to ‘nationalize’ elections",
-      "url": "https://thehill.com/homenews/senate/5729617-markey-resolution-trump-election-takeover/",
-      "source": "The Hill",
-      "published": "2026-02-09T15:47:42.000Z",
-      "description": "Sen. Edward Markey (D-Mass.) on Monday plans to introduce a resolution denouncing statements by President Trump calling on Republicans to “nationalize” or “take over” voting procedures in more than a dozen key states ahead of the 2026 midterm elections. “The Constitution gives states the primary authority over the times, places, and manner of federal elections to the States. It does not assign to the…",
-      "keywords": [
-        "election",
-        "voting",
-        "midterm",
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "Trump's calls to nationalize elections represent a notable challenge to federalism and election infrastructure, but the item itself is a legislative response rather than institutional action, making it significant but not yet demonstrating actual erosion of checks.",
-      "categories": [
-        "election_infrastructure",
-        "congressional_oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:05.325Z"
-    },
-    {
-      "id": "36a39e48aa85",
-      "title": "Trump attacks the media to hide the truth",
-      "url": "https://thehill.com/opinion/white-house/5726594-trump-attacks-media-democracy/",
-      "source": "The Hill",
-      "published": "2026-02-09T15:30:00.000Z",
-      "description": "Trump’s legendary hostility to any media that is not fawning or submissive is a danger to our freedom.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is opinion commentary characterizing Trump's media criticism as dangerous, lacking specific institutional actions, policy changes, or concrete examples that would demonstrate measurable impact on democratic checks and balances.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-09T17:51:05.261Z"
-    },
-    {
-      "id": "0b31861a71bc",
-      "title": "Search for Nancy Guthrie enters second week",
-      "url": "https://thehill.com/homenews/state-watch/5729581-search-for-nancy-guthrie/",
-      "source": "The Hill",
-      "published": "2026-02-09T15:19:09.000Z",
-      "description": "The search for Nancy Guthrie has entered its second week as investigators have yet to identify suspects tied to the disappearance of the 84-year-old. The FBI and the Pima County Sheriff’s Department are co-leading the probe into Guthrie’s abrupt absence. She was last seen at her home near Tucson, Ariz., on the evening of Jan.…",
-      "keywords": [
-        "FBI",
-        "EPA"
-      ],
-      "significance": 1,
-      "reason": "This is a routine missing persons case with no connection to democratic institutions, checks and balances, or governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:04.799Z"
-    },
-    {
-      "id": "4673cd3b2ade",
-      "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
-      "url": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T15:16:07.000Z",
-      "description": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This article describes a foreign policy action with indirect economic consequences but does not directly implicate U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:04.989Z"
-    },
-    {
-      "id": "221132efe3cf",
-      "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
-      "url": "https://www.cnbc.com/2026/02/08/georgia-trump-election-case-judge-federal-unsealed.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T13:57:15.000Z",
-      "description": "The FBI last month raided an election facility central to President Donald Trump's debunked claims of fraud in the 2020 election.",
-      "keywords": [
-        "election",
-        "FBI",
-        "raid",
-        "fulton county",
-        "georgia election",
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "The unsealing of election case documents impacts judicial transparency and election integrity oversight, but the routine nature of court-ordered document disclosure and lack of unprecedented institutional action place it in the notable but not urgent range.",
-      "categories": [
-        "election infrastructure",
-        "judicial independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-09T17:51:08.326Z"
-    },
-    {
-      "id": "23499157fb1f",
-      "title": "Epstein files: Congress members call for Trump Commerce chief Lutnick to resign, or be fired",
-      "url": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T17:18:03.000Z",
-      "description": "Commerce Secretary Howard Lutnick previously said on a podcast he had cut ties with the notorious sex offender since an initial 2005 encounter.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Congressional pressure on an executive appointee raises accountability questions, but lacks evidence of systemic institutional erosion or unprecedented democratic threat.",
-      "categories": [
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-09T17:51:08.209Z"
-    },
-    {
-      "id": "7f61607fa3fa",
-      "title": "Right-Wingers Who Boycotted Halftime Show Still Saw Enough of It to Be Furious",
-      "url": "https://www.rollingstone.com/politics/politics-news/maga-furious-bad-bunny-super-bowl-halftime-show-1235513261/",
-      "source": "Rolling Stone",
-      "published": "2026-02-09T15:05:00.000Z",
-      "description": "Trump and his MAGA allies were predictably upset that a Spanish-speaking critic of the administration was given the stage",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is entertainment/culture commentary about social media reactions to a performer, with no direct connection to institutional checks and balances or democratic governance.",
-      "categories": [],
-      "scoredAt": "2026-02-09T17:51:20.727Z"
-    },
-    {
-      "id": "eef5e49daeff",
-      "title": "Chinese and Russian decline could become global problems",
-      "url": "https://thehill.com/opinion/international/5728623-china-russia-decline-analysis/",
-      "source": "The Hill",
-      "published": "2026-02-09T18:00:00.000Z",
-      "description": "The White House too often exaggerates or ignores the real degrees of danger posed by perceived major threats of the time.",
-      "keywords": [
-        "white house"
-      ],
-      "significance": 1,
-      "reason": "This is geopolitical commentary about foreign policy threats with no direct connection to domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-09T18:15:14.177Z"
-    },
-    {
-      "id": "138c01a60a17",
-      "title": "WATCH: Ghislaine Maxwell refused to answer questions about Epstein in House deposition, Comer says",
-      "url": "https://www.pbs.org/newshour/politics/watch-ghislaine-maxwell-refused-to-answer-questions-about-epstein-in-house-deposition-comer-says",
-      "source": "PBS NewsHour",
-      "published": "2026-02-09T16:02:51.000Z",
-      "description": "Maxwell told lawmakers that if President Trump ended her prison sentence, she would be willing to testify that neither Trump nor former President Clinton were culpable for wrongdoing.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "While the deposition involves a public figure and legal proceedings, it primarily concerns criminal justice matters and potential testimony rather than direct institutional threats to democratic checks and balances.",
-      "categories": [
-        "judicial independence"
-      ],
-      "scoredAt": "2026-02-10T00:14:49.191Z"
-    },
-    {
       "id": "7dce9b98200b",
       "title": " A moment of truth for Democrats ahead of this week's DHS shutdown deadline: From the Politics Desk",
       "url": "https://www.nbcnews.com/politics/politics-news/moment-truth-democrats-dhs-shutdown-deadline-politics-desk-rcna258260",
@@ -1195,29 +689,6 @@
       ],
       "scoredAt": "2026-02-10T06:22:31.035Z",
       "digestedAt": "2026-02-11T00:20:28.315Z"
-    },
-    {
-      "id": "64a33b99810c",
-      "title": "Ghislaine Maxwell pleads Fifth Amendment at congressional deposition",
-      "url": "https://www.axios.com/2026/02/09/ghislaine-maxwell-pleads-fifth-oversight-epstein",
-      "source": "Axios",
-      "published": "2026-02-09T15:45:58.000Z",
-      "description": "Ghislaine Maxwell declined to answer questions during a closed-door, virtual deposition Monday with the House Oversight Committee as part of the panel's probe into Jeffrey Epstein.\nWhy it matters: The committee has been working for months to schedule a virtual deposition with Maxwell, who is serving a 20-year prison sentence at a Texas facility. Yet little new information was brought to light. \n\n\"Unfortunately, she had an opportunity today to answer questions that every American has, questions t",
-      "keywords": [
-        "attorney general",
-        "prosecutor",
-        "ICE",
-        "subpoena",
-        "trump",
-        "EPA",
-        "clemency"
-      ],
-      "significance": 2,
-      "reason": "While the Fifth Amendment invocation is legally routine, this incident involves a convicted individual exercising constitutional rights during congressional oversight and produces no institutional impact on democratic checks and balances.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T06:22:32.652Z"
     },
     {
       "id": "d5fbabfc9028",
@@ -49563,8 +49034,522 @@
         "congressional oversight"
       ],
       "scoredAt": "2026-03-11T12:07:37.912Z"
+    },
+    {
+      "id": "287f437f3314",
+      "title": "Jill Biden's new memoir will offer her perspective on the decision to end Biden's 2024 reelection bid",
+      "url": "https://www.pbs.org/newshour/politics/jill-bidens-new-memoir-will-offer-her-perspective-on-the-decision-to-end-bidens-2024-reelection-bid",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T17:48:34.000Z",
+      "description": "A political spouse for nearly 50 years, Jill Biden said she has never publicly discussed her feelings about the three-week stretch when her husband ended his political career, instead saving her thoughts for the pages of her soon-to-be-released memoir.",
+      "keywords": [
+        "election"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news item about a political memoir announcement with no direct bearing on any democratic checks and balances system.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:45.968Z"
+    },
+    {
+      "id": "adc9a5d2977d",
+      "title": "Man taken into custody after driving van into White House security gate",
+      "url": "https://www.pbs.org/newshour/politics/man-taken-into-custody-after-driving-van-into-white-house-security-gate",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T16:57:25.000Z",
+      "description": "The Secret Service said the man crashed into the temporary security barrier just before 6:30 a.m. He was immediately arrested by officers from the Secret Service's uniformed division, the agency said.",
+      "keywords": [
+        "ICE",
+        "white house"
+      ],
+      "significance": 2,
+      "reason": "This is a routine security incident involving the White House perimeter with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:46.116Z"
+    },
+    {
+      "id": "c16e6883d254",
+      "title": "The Iran war and surging oil prices are affecting consumers. Here's how",
+      "url": "https://www.pbs.org/newshour/economy/the-iran-war-and-surging-oil-prices-are-affecting-consumers-heres-how",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T16:50:26.000Z",
+      "description": "You don't have to drive a car to be affected.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine economic news coverage about geopolitical events and consumer impacts with no direct relevance to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:46.077Z"
+    },
+    {
+      "id": "1e5dc22503af",
+      "title": "WATCH LIVE: Trump touts his economic agenda in Rep. Massie's Kentucky district",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-touts-his-economic-agenda-in-rep-massies-kentucky-district",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T15:50:03.000Z",
+      "description": "President Donald Trump plans to visit Ohio and Kentucky on Wednesday to argue that his policies can steady an economy facing shock waves from the war on Iran and to try to defeat one of the few congressional Republicans who has dared to defy him.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political campaign coverage of a presidential visit to promote economic policies, with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:46.038Z"
+    },
+    {
+      "id": "d846b1e575c0",
+      "title": "Inflation held steady last month before attack on Iran sent energy costs soaring",
+      "url": "https://www.pbs.org/newshour/economy/inflation-held-steady-last-month-before-attack-on-iran-sent-energy-costs-soaring",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T15:04:58.000Z",
+      "description": "Wednesday's data has been overtaken by the conflict that began when the U.S. and Israel attacked Iran on Feb. 28, which has caused wild gyrations in oil prices as shipping lanes through the Persian Gulf have suffered a rare shutdown.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic and foreign policy news reporting with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:46.153Z"
+    },
+    {
+      "id": "6c73f73ef191",
+      "title": "Man charged over alleged threats against Rep. Eric Swalwell, Jerome Powell and Trump",
+      "url": "https://www.nbcnews.com/politics/justice-department/florida-man-charged-alleged-threats-rep-swalwell-jerome-powell-preside-rcna262922",
+      "source": "NBC News",
+      "published": "2026-03-11T17:31:25.000Z",
+      "description": "A Florida man was indicted this month over threats against Rep.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine criminal prosecution for threatening public figures, a standard law enforcement action that does not reflect on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:47.086Z"
+    },
+    {
+      "id": "da18d77172ef",
+      "title": "Joe Rogan says many Trump supporters feel 'betrayed' by Iran war",
+      "url": "https://www.nbcnews.com/politics/trump-administration/joe-rogan-says-many-trump-supporters-feel-betrayed-iran-war-rcna262930",
+      "source": "NBC News",
+      "published": "2026-03-11T15:55:42.000Z",
+      "description": "Influential podcaster Joe Rogan this week questioned President Donald Trump's decision to strike Iran, saying that some supporters of the president feel \"betrayed\" by the war",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is commentary on a podcaster's opinion about foreign policy, not reporting on institutional actions or democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:47.123Z"
+    },
+    {
+      "id": "81c53b196ec8",
+      "title": "'We could do a lot worse': Trump on what else needs to be accomplished in Iran",
+      "url": "https://www.nbcnews.com/now/video/trump-asked-what-other-military-accomplishments-are-needed-in-iran-259130949734",
+      "source": "NBC News",
+      "published": "2026-03-11T16:59:19.000Z",
+      "description": "When asked by NBC News' Peter Alexander, President Trump said the United States military needed to continue to do \"more of the same\" in order to accomplish their objectives in the Iran war.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report of a president's comment on military strategy regarding Iran, with no direct bearing on domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:47.018Z"
+    },
+    {
+      "id": "99b772bf5f13",
+      "title": "Sen. John Cornyn flips on the filibuster to pass SAVE America Act as Trump weighs endorsement",
+      "url": "https://www.nbcnews.com/politics/elections/john-cornyn-save-america-act-filibuster-trump-texas-senate-rcna262927",
+      "source": "NBC News",
+      "published": "2026-03-11T15:41:53.000Z",
+      "description": "Sen. John Cornyn, R-Texas, reversed himself on the Senate filibuster to pass President Trump's SAVE America Act after years of support for the 60-vote threshold.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A senator reversing position on the filibuster is notable for congressional procedure and potential institutional precedent, but lacks the immediacy of direct democratic erosion without details on the bill's specific impacts.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T18:14:48.294Z"
+    },
+    {
+      "id": "554c1e0c4fa3",
+      "title": "U.S. service members in Kuwait suffered brain trauma, burns, shrapnel wounds",
+      "url": "https://www.cbsnews.com/news/strike-in-kuwait-that-killed-6-us-service-member-more-severe/",
+      "source": "CBS News",
+      "published": "2026-03-11T17:35:07.000Z",
+      "description": "About 30 U.S. service members remained hospitalized Tuesday after an Iranian drone strike in Kuwait.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a military casualty report with no connection to democratic checks and balances, institutional independence, or governance oversight.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:47.996Z"
+    },
+    {
+      "id": "42cf5bb14515",
+      "title": "Trump told FIFA Iran is welcome to play in World Cup in U.S., officials say",
+      "url": "https://www.cbsnews.com/news/trump-iran-fifa-world-cup-us/",
+      "source": "CBS News",
+      "published": "2026-03-11T14:51:00.000Z",
+      "description": "President Trump told FIFA representatives Tuesday that Iran is welcome to play in the World Cup tournament in the United States, officials told CBS News.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a routine diplomatic statement about World Cup participation with no connection to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:47.985Z"
+    },
+    {
+      "id": "226565e9f04e",
+      "title": "What is the SAVE America Act? What to know about the bill Trump is pushing",
+      "url": "https://www.cbsnews.com/news/save-america-act-republican-elections-bill/",
+      "source": "CBS News",
+      "published": "2026-03-11T13:52:48.000Z",
+      "description": "President Trump and his allies are pushing Senate Republicans to pass an elections-related bill known as the SAVE America Act.",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A proposed elections bill warrants attention for its potential institutional impact, but without details on specific provisions, it remains notable rather than demonstrably significant.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T18:14:48.139Z"
+    },
+    {
+      "id": "3040297cba49",
+      "title": "Global Entry program restored as DHS shutdown continues",
+      "url": "https://www.cbsnews.com/news/global-entry-restored-homeland-security-government-shutdown/",
+      "source": "CBS News",
+      "published": "2026-03-11T13:23:00.000Z",
+      "description": "Officers normally assigned to process Global Entry travelers had been reassigned to process other arriving travelers during the pause.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine operational news about temporary staffing reallocation during a shutdown with no systemic implications for democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-11T18:14:49.275Z"
+    },
+    {
+      "id": "5a2ddcf35be7",
+      "title": " Jill Biden opens up in memoir about Joe Biden's decision to end reelection bid",
+      "url": "https://abcnews.com/Politics/wireStory/jill-biden-opens-memoir-joe-bidens-decision-end-130965436",
+      "source": "ABC News",
+      "published": "2026-03-11T13:23:11.000Z",
+      "description": "Jill Biden is breaking her silence about Joe Biden’s decision to end his 2024 presidential reelection bid under pressure from Democrats who were concerned about his age and viability against Republican Donald Trump",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is personal memoir commentary about a political decision with no direct impact on institutional checks and balances, oversight mechanisms, or democratic structures.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:49.009Z"
+    },
+    {
+      "id": "452ed64d0550",
+      "title": "Trump tells Axios there's \"practically nothing left\" to target in Iran",
+      "url": "https://www.axios.com/2026/03/11/trump-iran-war-end-withdrawal",
+      "source": "Axios",
+      "published": "2026-03-11T17:52:16.000Z",
+      "description": "President Trump told Axios in a brief phone interview Wednesday that the war with Iran will end \"soon\" because there is \"practically nothing left to target.\"\n\n\"Little this and that... Any time I want it to end, it will end,\" Trump said during the five-minute call.  \n\nWhy it matters: Even as Trump publicly signals his operation has largely accomplished its objectives, U.S. and Israeli officials say there has been no internal directive on when fighting might stop.\n\nIsraeli Defense Minister Israel ",
+      "keywords": [
+        "intelligence",
+        "trump",
+        "EPA",
+        "NIH",
+        "pardon"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on military/foreign policy statements with no direct bearing on domestic democratic checks and balances or institutional oversight.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:49.255Z"
+    },
+    {
+      "id": "c0dad97dd1f4",
+      "title": "IEA announces historic oil reserve release amid Iran war",
+      "url": "https://www.axios.com/2026/03/11/iea-oil-reserve-release-iran-war",
+      "source": "Axios",
+      "published": "2026-03-11T15:35:39.000Z",
+      "description": "The International Energy Agency said Wednesday its member governments will jointly release up to 400 million barrels of oil from strategic stockpiles after the Iran war set off a chaotic spike in crude prices.\nWhy it matters: It would be the largest joint release in the history of IEA, which coordinates members' emergency responses to oil shocks. \n\nThe effort is the most aggressive energy policy response yet to the conflict that's bottling up massive volumes as transit through the Strait of Horm",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine international economic policy coordination with no direct implications for U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:50.284Z"
+    },
+    {
+      "id": "d4892d6d1bb9",
+      "title": "Trump: End to Iran operation needs ‘more of the same’",
+      "url": "https://thehill.com/homenews/administration/5779300-trump-us-iran-operation/",
+      "source": "The Hill",
+      "published": "2026-03-11T18:04:56.000Z",
+      "description": "President Trump said the U.S. needs to do “more of the same” when asked on Wednesday what he needs militarily for the operation in Iran to end. “Right now, they’ve lost their navy. They’ve lost their air force, They have no anti aircraft apparatus at all. They have no radar. Their leaders are gone, and…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine commentary on military strategy regarding Iran operations without documented impact on domestic democratic institutions or constitutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:49.158Z"
+    },
+    {
+      "id": "cc10561dfe8a",
+      "title": "Live updates: Trump heads to Ohio, Massie’s Kentucky district; US issues Strait of Hormuz warning",
+      "url": "https://thehill.com/homenews/administration/5777376-live-updates-trump-massie-iran/",
+      "source": "The Hill",
+      "published": "2026-03-11T18:02:19.000Z",
+      "description": "President Trump on Wednesday hits the road, heading to Kentucky to visit the district of one of few GOP foes: Rep. Thomas Massie. After a stop in Cincinnati, Trump will cross the Ohio River to visit a packaging plant in Hebron, Ky., in Massie’s 4th Congressional District. The president has endorsed the incumbent’s primary opponent,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about campaign travel and endorsements with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:52.116Z"
+    },
+    {
+      "id": "8de9806b3465",
+      "title": "Trump insists Thune find votes to pass SAVE Act: ‘He’s got to be a leader’",
+      "url": "https://thehill.com/homenews/administration/5779240-trump-pressures-thune-save-act/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:50:26.000Z",
+      "description": "President Trump continued to lob pressure on Senate Majority Leader John Thune (R-S.D.) to find votes to pass the Safeguard American Voter Eligibility (SAVE) Act on Wednesday, saying Thune has “got to be a leader.” “Well, he’s got to be a leader. If he’s a leader, he’s got to get them,” Trump told reporters at…",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While executive pressure on legislative leadership raises institutional concerns, this represents routine political arm-twisting rather than unprecedented erosion of democratic checks.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T18:14:51.936Z"
+    },
+    {
+      "id": "4da74a2d3364",
+      "title": "Iran: Get ready for $200-per-barrel oil",
+      "url": "https://thehill.com/policy/energy-environment/5779017-iran-get-ready-for-200-per-barrel-oil/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:41:12.000Z",
+      "description": "Iran’s Islamic Revolutionary Guard Corps. (IRGC) on Wednesday warned the world to expect oil to reach $200 per barrel as the main pathway for exported oil, the Strait of Hormuz, stays closed amid the U.S.-Israeli military operation in Iran. “Get ready for oil to be $200 a barrel, because the oil price depends on regional…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on foreign geopolitical tensions and commodity markets with no direct connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:51.075Z"
+    },
+    {
+      "id": "d5400c601884",
+      "title": "Hern launches Senate bid for Mullin’s Oklahoma seat ",
+      "url": "https://thehill.com/homenews/campaign/5779166-hern-oklahoma-senate-bid/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:35:23.000Z",
+      "description": "Rep. Kevin Hern (R-Okla.) on Wednesday announced his bid for U.S. Senate in Oklahoma, running to replace Sen. Markwayne Mullin (R), who was tapped last week to lead the Department of Homeland Security (DHS). Hern, a wealthy businessman, is the first candidate to formally enter the GOP primary to succeed Mullin, whose seat was already up for…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a congressional election announcement with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:51.062Z"
+    },
+    {
+      "id": "813614722661",
+      "title": "Tillis urges DOJ to end Fed probe after meeting with Trump nominee",
+      "url": "https://thehill.com/homenews/senate/5779149-warsh-nomination-powell-probe/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:34:27.000Z",
+      "description": "Sen. Thom Tillis (R-N.C.), a member of the Senate Banking Committee, praised President Trump’s nominee for chair of the Federal Reserve, Kevin Warsh, but said he cannot vote for him amid the Department of Justice (DOJ) probing current Fed Chair Jerome Powell. “I thoroughly enjoyed my meeting yesterday with Fed Chair nominee Kevin Warsh,” Tillis…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "A senator conditioning support for a Federal Reserve nominee on DOJ ending an investigation into the current Fed chair represents significant institutional pressure that threatens DOJ independence and the separation of powers between executive and independent agencies.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-11T18:14:51.840Z"
+    },
+    {
+      "id": "ab0379805c24",
+      "title": "Blue states sue Trump administration over new race-based reporting requirements for colleges",
+      "url": "https://thehill.com/homenews/education/5779021-blue-states-trump-administration-race-reporting-colleges/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:21:24.000Z",
+      "description": "Seventeen Democratic-led states sued the Trump administration on Wednesday over new race-based reporting requirements for universities targeting admissions, financial aid and student performance data.   The lawsuit is challenging the new “Admissions and Consumer Transparency Supplement” (ACTS) survey that requires schools to provide years of admissions and student data broken down by race and other aspects to ensure schools aren’t engaging in affirmative action.  …",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "A notable legal challenge to executive policy implementation affecting civil rights and education, but represents routine litigation rather than institutional erosion of checks and balances.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-11T18:14:53.132Z"
+    },
+    {
+      "id": "3c69a23d1065",
+      "title": "Rick Scott says gas prices ‘are going to be up for a while’",
+      "url": "https://thehill.com/homenews/senate/5778948-gas-prices-rise-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:13:39.000Z",
+      "description": "Sen. Rick Scott (R-Fla.) said Wednesday that gas prices will stay above prior levels until the U.S.-Israeli war with Iran ends.  “I think, unfortunately, prices are going to be up for a while until this ends. But with Venezuela coming on, with American oil and gas coming on, with hopefully a positive resolution to this…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "Routine political commentary on commodity prices and foreign policy with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:52.941Z"
+    },
+    {
+      "id": "fba7c75f587d",
+      "title": "Senators ask for investigation into DOJ handling of Epstein files",
+      "url": "https://thehill.com/homenews/senate/5779038-senators-investigation-doj-epstein-files/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:13:14.000Z",
+      "description": "A bipartisan group of senators is requesting that the Government Accountability Office (GAO) review the Department of Justice’s (DOJ) handling and release of documents related to the investigation into the convicted sex offender Jeffrey Epstein, according to a letter obtained by The Washington Post and CNBC. The March 11 letter outlines concerns about redactions in…",
+      "keywords": [
+        "DOJ",
+        "department of justice",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A bipartisan oversight request regarding document handling procedures is notable institutional accountability but lacks evidence of systemic checks-and-balances erosion or unprecedented institutional action.",
+      "categories": [
+        "congressional oversight",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-11T18:14:53.258Z"
+    },
+    {
+      "id": "73dcbc32d563",
+      "title": "Trump has failed to provide the leadership a nation at war needs",
+      "url": "https://thehill.com/opinion/white-house/5778116-trump-iran-war-economy-crisis/",
+      "source": "The Hill",
+      "published": "2026-03-11T17:00:00.000Z",
+      "description": "Donald Trump's attack on Iran has caused the economy to retreat, increased prices, and decreased his job rating, with the public not embracing the war.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on economic and political consequences of foreign policy decisions, not reporting on institutional checks and balances erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:53.854Z"
+    },
+    {
+      "id": "5bcfd1749517",
+      "title": "Every Democrat in Colorado Legislature urges Polis against Peters clemency",
+      "url": "https://thehill.com/homenews/state-watch/5778921-colorado-democrats-oppose-peters-clemency/",
+      "source": "The Hill",
+      "published": "2026-03-11T16:43:38.000Z",
+      "description": "Every Democrat in the Colorado state Legislature signed on to a Wednesday letter urging Gov. Jared Polis (D) to not give Tina Peters clemency for her 2024 conviction on charges related to an election security breach.  The group of 66 lawmakers said granting Peters clemency would create a “figurehead” for election deniers to “rally around.”…",
+      "keywords": [
+        "election",
+        "election security",
+        "clemency"
+      ],
+      "significance": 2,
+      "reason": "This is routine state-level political advocacy regarding a clemency decision, with no direct impact on federal democratic institutions or checks and balances.",
+      "categories": [
+        "election_infrastructure"
+      ],
+      "scoredAt": "2026-03-11T18:14:55.515Z"
+    },
+    {
+      "id": "cf820f94eb56",
+      "title": "Indiana Secretary of State partners with Turning Point USA for voter registration initiative",
+      "url": "https://thehill.com/homenews/state-watch/5778868-turning-point-usa-indiana-voter/",
+      "source": "The Hill",
+      "published": "2026-03-11T16:34:02.000Z",
+      "description": "Turning Point USA is the nonprofit organization founded by Charlie Kirk.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "A state official partnering with a partisan organization for voter registration raises concerns about election integrity and potential conflicts of interest, but lacks clear evidence of systematic erosion or unprecedented institutional action.",
+      "categories": [
+        "election infrastructure",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-11T18:14:56.571Z"
+    },
+    {
+      "id": "6128ed3297df",
+      "title": "Scaramucci: Gas prices could fall a few weeks after bombardment in Iran ends",
+      "url": "https://thehill.com/business/5778941-gas-prices-iran-conflict-scaramucci/",
+      "source": "The Hill",
+      "published": "2026-03-11T16:29:46.000Z",
+      "description": "Former White House communications director Anthony Scaramucci said gas prices might fall a few weeks after the U.S. bombardment against Iran is done. “Listen, you’re going to probably be surprised by what I’m saying because I’m generally a critic of President Trump, but, if they solve this, if they de-escalate, and I think what your…",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a speculative commentary by a former official on economic outcomes of foreign policy, not reporting on institutional actions or democratic processes.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:56.471Z"
+    },
+    {
+      "id": "1f4c771595d9",
+      "title": "Iran war: Trump says he's not worried about domestic terror attack",
+      "url": "https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-11T18:05:40.000Z",
+      "description": "President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to the war on Iran.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine news report on Trump's foreign policy stance regarding Iran and oil markets, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-11T18:14:56.420Z"
+    },
+    {
+      "id": "8d1df1b4227e",
+      "title": "Tim Scott hopes Fed Chair Powell investigation 'goes away' to clear Kevin Warsh confirmation",
+      "url": "https://www.cnbc.com/2026/03/11/fed-powell-warsh-tim-scott.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-11T16:12:49.000Z",
+      "description": "President Donald Trump nominated Kevin Warsh to succeed Jerome Powell as Fed chair, but the process has been blocked amid a federal investigation into Powell.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable political pressure on institutional independence, but the investigation itself remains ongoing and the confirmation outcome is still uncertain.",
+      "categories": [
+        "DOJ independence",
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-11T18:14:56.451Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-11T12:07:37.912Z"
+  "lastFetch": "2026-03-11T18:14:56.571Z"
 }
