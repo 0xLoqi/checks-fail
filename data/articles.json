@@ -1,369 +1,6 @@
 {
   "articles": [
     {
-      "id": "f2a10b750a72",
-      "title": "Immigrants Who Say Their Detention Is Illegal Have Filed More Than 18,000 Cases. It’s a Historic High.",
-      "url": "https://www.propublica.org/article/habeas-petitions-immigrant-detentions-trump",
-      "source": "ProPublica",
-      "published": "2026-02-10T10:00:00.000Z",
-      "description": "The post Immigrants Who Say Their Detention Is Illegal Have Filed More Than 18,000 Cases. It’s a Historic High. appeared first on ProPublica.",
-      "keywords": [
-        "detention"
-      ],
-      "significance": 6,
-      "reason": "The historic surge in illegal detention cases indicates systemic challenges to judicial oversight and civil rights protections, but represents litigation symptom rather than institutional action or policy change.",
-      "categories": [
-        "judicial independence",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-10T12:13:20.518Z"
-    },
-    {
-      "id": "8fbf11e4c4cd",
-      "title": "DHS faces funding deadline. And, courts fast-track Somali asylum seeker hearings",
-      "url": "https://www.npr.org/2026/02/10/g-s1-109430/up-first-newsletter-dhs-funding-uk-epstein-nancy-guthrie-somali-migrants",
-      "source": "NPR Politics",
-      "published": "2026-02-10T11:44:02.000Z",
-      "description": "Congress has until Friday to reach a deal to fund the Department of Homeland Security. And, several asylum cases filed by Somali migrants in immigration courts were suddenly fast-tracked.",
-      "keywords": [
-        "immigration",
-        "EPA",
-        "asylum"
-      ],
-      "significance": 5,
-      "reason": "DHS funding deadline is routine legislative process, while fast-tracked asylum hearings warrant monitoring for potential due process concerns but lack evidence of systematic erosion.",
-      "categories": [
-        "election infrastructure",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-10T12:13:19.293Z"
-    },
-    {
-      "id": "629ddc20dc8a",
-      "title": "Rep. Suhas Subramanyam, D-Va., talks about viewing the unredacted Epstein files",
-      "url": "https://www.npr.org/2026/02/10/nx-s1-5707293/rep-suhas-subramanyam-d-va-talks-about-viewing-the-unredacted-epstein-files",
-      "source": "NPR Politics",
-      "published": "2026-02-10T11:41:10.000Z",
-      "description": "NPR's Michel Martin speaks to Democratic Rep. Suhas Subramanyam of Virginia about viewing the unredacted Epstein files that the Justice Department made available to members of Congress.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 4,
-      "reason": "While congressional access to unredacted files relates to oversight, this is routine implementation of a previously ordered document release rather than a new institutional action or policy change.",
-      "categories": [
-        "congressional oversight",
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-10T12:13:19.363Z"
-    },
-    {
-      "id": "95208d32e44e",
-      "title": "How much power does the Fed chair really have?",
-      "url": "https://www.npr.org/sections/planet-money/2026/02/10/g-s1-109375/how-much-power-does-the-fed-chair-really-have",
-      "source": "NPR Politics",
-      "published": "2026-02-10T11:30:00.000Z",
-      "description": "On paper, the Fed chair is just one vote among many. In practice, the job carries far more influence. We analyze what gives the Fed chair power.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 3,
-      "reason": "This is analytical commentary on institutional power dynamics within the Federal Reserve's existing governance structure, not reporting on threats to or changes in democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:19.413Z"
-    },
-    {
-      "id": "9d72ae59424f",
-      "title": "Immigration officials to testify before House as DHS funding deadline approaches",
-      "url": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
-      "source": "NPR Politics",
-      "published": "2026-02-10T10:00:00.000Z",
-      "description": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement. But tensions between the two parties are high and the timeline is short – the stopgap bill funding DHS runs out Friday.",
-      "keywords": [
-        "immigration"
-      ],
-      "significance": 5,
-      "reason": "Routine congressional oversight hearing on immigration enforcement amid typical partisan budget negotiations, with no indication of systemic institutional threats or unprecedented actions.",
-      "categories": [
-        "congressional oversight",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-10T12:13:19.343Z"
-    },
-    {
-      "id": "d256d4c515a1",
-      "title": "Top immigration officials to testify before House as DHS funding deadline approaches",
-      "url": "https://www.npr.org/2026/02/10/nx-s1-5707411/top-immigration-officials-to-testify-before-house-as-dhs-funding-deadline-approaches",
-      "source": "NPR Politics",
-      "published": "2026-02-10T09:43:38.000Z",
-      "description": "Members of a House committee will question top immigration officials as lawmakers discuss possible changes to immigration enforcement operations.",
-      "keywords": [
-        "immigration"
-      ],
-      "significance": 4,
-      "reason": "Routine congressional oversight hearing on immigration policy with no indication of institutional breakdown, though congressional oversight itself is a relevant check.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T12:13:21.451Z"
-    },
-    {
-      "id": "ed13e6c7c67e",
-      "title": "Rep. Dan Goldman, D-N.Y., talks about DHS reforms ahead of looming funding deadline",
-      "url": "https://www.npr.org/2026/02/10/nx-s1-5707285/rep-dan-goldman-d-n-y-talks-about-dhs-reforms-ahead-of-looming-funding-deadline",
-      "source": "NPR Politics",
-      "published": "2026-02-10T09:43:33.000Z",
-      "description": "NPR's Michel Martin speaks with Rep. Dan Goldman, D-N.Y., about oversight and reforms for the Department of Homeland Security as a funding deadline looms.",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 3,
-      "reason": "This is routine congressional commentary about standard oversight discussions and budget negotiations with no indication of institutional erosion or unprecedented action.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T12:13:21.695Z"
-    },
-    {
-      "id": "a029a2d58a5c",
-      "title": "Trump is threatening to block a new bridge between Detroit and Canada from opening",
-      "url": "https://www.npr.org/2026/02/10/nx-s1-5708607/trump-block-bridge-detroit-canada",
-      "source": "NPR Politics",
-      "published": "2026-02-10T06:46:09.000Z",
-      "description": "President Donald Trump on Monday threatened to block the opening of a new Canadian-built bridge across the Detroit River, in his latest salvo over cross-border trade issues.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This represents a trade policy dispute and executive leverage over infrastructure, not a systemic threat to democratic checks and balances or institutional independence.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:21.340Z"
-    },
-    {
-      "id": "42592256603c",
-      "title": "Ghislaine Maxwell appeals for clemency from Trump as she declines to answer questions",
-      "url": "https://www.npr.org/2026/02/10/g-s1-109413/maxwell-appeals-for-clemency",
-      "source": "NPR Politics",
-      "published": "2026-02-10T06:30:18.000Z",
-      "description": "Maxwell declined to answer questions from House lawmakers on Monday, but indicated that if President Trump ended her sentence, she was willing to testify that neither he nor former President Clinton had done anything wrong in their connections with Epstein.",
-      "keywords": [
-        "trump",
-        "clemency"
-      ],
-      "significance": 3,
-      "reason": "While the article touches on potential corruption and self-dealing concerns, it primarily reports on routine legal/clemency proceedings rather than demonstrating institutional erosion of democratic checks.",
-      "categories": [
-        "corruption & self-dealing",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T12:13:21.753Z"
-    },
-    {
-      "id": "ae4e9114cfe0",
-      "title": "Democrats reject latest White House offer on ICE with DHS funding expiring",
-      "url": "https://www.cbsnews.com/news/democrats-white-house-offer-ice-reforms-homeland-security-funding/",
-      "source": "CBS News",
-      "published": "2026-02-10T11:54:35.000Z",
-      "description": "Democratic leaders a say White House proposal doesn't make the grade as they demand new restrictions on ICE and threaten a shutdown of the Homeland Security Department.",
-      "keywords": [
-        "ICE",
-        "white house",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A funding dispute over ICE restrictions reflects normal legislative disagreement on immigration policy, though DHS shutdown threats indicate heightened institutional tension warranting monitoring.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-10T12:13:22.973Z"
-    },
-    {
-      "id": "64d91f09f242",
-      "title": "Trump threatens to block opening of Gordie Howe International Bridge",
-      "url": "https://www.cbsnews.com/news/trump-gordie-howe-international-bridge/",
-      "source": "CBS News",
-      "published": "2026-02-10T11:32:55.000Z",
-      "description": "President Trump said Monday he would block the opening of the Gordie Howe International Bridge between Detroit and Canada  \"until the United States is fully compensated for everything we have given them.\"",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine trade/foreign policy negotiation statement that does not directly implicate democratic checks and balances or institutional independence.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:22.551Z"
-    },
-    {
-      "id": "71f4138ab533",
-      "title": "ICE chief, immigration officials set to testify to House panel today",
-      "url": "https://www.cbsnews.com/live-updates/ice-hearing-cbp-uscis-congress-immigration/",
-      "source": "CBS News",
-      "published": "2026-02-10T11:00:02.000Z",
-      "description": "The leaders of ICE, CBP and USCIS are set to testify before the House Homeland Security Committee on Tuesday.",
-      "keywords": [
-        "immigration",
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "Routine congressional testimony by executive branch officials is standard legislative oversight with no indication of institutional conflict or policy change.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T12:13:22.720Z"
-    },
-    {
-      "id": "d08acc000bc3",
-      "title": "Europe's leaders are deeply unpopular",
-      "url": "https://www.axios.com/2026/02/10/europe-leadership-crisis-starmer-macron-merz",
-      "source": "Axios",
-      "published": "2026-02-10T10:00:06.000Z",
-      "description": "Data: Morning Consult; Chart: Axios Visuals\nU.K. Prime Minister Keir Starmer is fighting for his political life, rejecting calls to resign yesterday as fallout from the Epstein files threatened to bring down the British government.\nWhy it matters: Less than two years after the Labour Party's blowout election victory, Starmer is the most unpopular British prime minister on record, according to The Economist.\n\nZoom in: New data from Morning Consult shows he isn't even the most unpopular leader in ",
-      "keywords": [
-        "election",
-        "immigration"
-      ],
-      "significance": 1,
-      "reason": "This article concerns British political leadership approval ratings and is entirely outside the scope of U.S. democratic institutions and checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:23.785Z"
-    },
-    {
-      "id": "d21e04cb14a6",
-      "title": "Texas Democratic Senate primary shows how identity politics could haunt Democrats in 2028",
-      "url": "https://www.axios.com/2026/02/10/texas-senate-talarico-crockett-race-identity",
-      "source": "Axios",
-      "published": "2026-02-10T10:00:04.000Z",
-      "description": "The Texas Democratic Senate primary between Rep. Jasmine Crockett and state Rep. James Talarico has turned ugly over race and credibility, becoming a skirmish that could foreshadow tensions for Democrats nationwide. \nWhy it matters: The primary's rapid escalation in identity-based attacks reveals unsettled fault lines that Democrats worry could derail them, again.\n\nBack in December, Crockett had to defend comments she made a year ago to Vanity Fair, when she described how Latinos talk about immi",
-      "keywords": [
-        "election",
-        "voting",
-        "voter",
-        "attorney general",
-        "immigration",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This article covers intra-party primary campaign dynamics and messaging strategy with no direct impact on constitutional checks and balances, institutional independence, or democratic safeguards.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:24.002Z"
-    },
-    {
-      "id": "5008b7ec56e1",
-      "title": "OpenAI and Anthropic are picking public fights",
-      "url": "https://www.axios.com/2026/02/10/ai-ceo-feuds-openai-anthropic-google",
-      "source": "Axios",
-      "published": "2026-02-10T09:45:04.000Z",
-      "description": "AI CEOs are openly trash-talking each other, sniping over advertising and their philosophical approaches to the future.\nWhy it matters: The squabbling is intensifying as the cost of staying competitive in AI soars — and pressure is mounting for the technology to deliver real returns.\n\nDriving the news: The fighting ramped up around the Super Bowl.\n\nAnthropic pledged to keep its large language model, Claude, ad-free, alongside a commercial poking at OpenAI, which is testing ads in ChatGPT. \nOpenA",
-      "keywords": [
-        "musk",
-        "EPA"
-      ],
-      "significance": 1,
-      "reason": "This article concerns private sector competition between AI companies and has no relevance to U.S. democratic institutions, governmental checks and balances, or constitutional governance.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:24.258Z"
-    },
-    {
-      "id": "39039dd957b3",
-      "title": "Progressive Democrats seek to ‘annul’ Trump Doctrine",
-      "url": "https://thehill.com/policy/international/5730477-trump-doctrine-latin-america/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "A group of progressive Democrats on Tuesday introduced a resolution to “leave the Monroe Doctrine to the dustbin of history,” in the words of Rep. Nydia Velázquez (D-N.Y.), and replace it with a foreign policy in the Western Hemisphere based on mutual cooperation and respect. The proposal, shared exclusively with The Hill, seeks to do…",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is routine legislative commentary on foreign policy doctrine with no direct bearing on institutional checks and balances, separation of powers, or democratic accountability mechanisms.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:25.243Z"
-    },
-    {
-      "id": "3f97823bdad3",
-      "title": "The Memo: From Bad Bunny to Springsteen, new cultural wars erupt around Trump",
-      "url": "https://thehill.com/homenews/administration/5730454-trump-bad-bunny-clash/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "The controversy over Bad Bunny’s Super Bowl performance is the latest — and perhaps biggest — cultural flash point of President Trump’s second term so far. Trump’s time back in office has, of course, been marked by huge ideological clashes over innumerable matters of policy. But the battles around the president have increasingly spread beyond…",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is entertainment and cultural commentary with no direct bearing on institutional checks and balances, democratic oversight, or governance structures.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:25.523Z"
-    },
-    {
-      "id": "cfeff0fb7ca3",
-      "title": "Senate GOP set to go to battle over Trump’s ICE, CBP policies",
-      "url": "https://thehill.com/homenews/senate/5730460-trump-allies-immigration-war/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "President Trump’s allies in the Senate are planning to go to war with Democrats this week over proposed immigration enforcement reforms, working closely with White House deputy chief of staff Stephen Miller to play offense on what has been a strong issue for the president.    These Senate conservatives are gearing up to fight any…",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "miller",
-        "white house",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Senate GOP planning legislative battles over immigration enforcement represents normal partisan disagreement on policy implementation rather than a structural threat to democratic checks and balances.",
-      "categories": [
-        "immigration & civil rights",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T12:13:25.600Z"
-    },
-    {
-      "id": "5999206ac34d",
-      "title": "Harris takes on MAGA’s content machine with Headquarters relaunch",
-      "url": "https://thehill.com/policy/technology/5729586-harris-headquarters-democrats-social-media/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "Former Vice President Kamala Harris is reviving her edgy 2024 campaign social media account KamalaHQ in what her Gen Z aides are hyping as an effort to fight fire with fire in the ruthless, Republican-dominated social media content wars.  The rebranded account, Headquarters, inherits Harris’s massive follower count: 1.1 million followers on the social platform…",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This is routine political campaign activity involving social media strategy with no direct impact on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:26.658Z"
-    },
-    {
-      "id": "0a4e29b63bd4",
-      "title": "Here are the first big midterm primaries to watch",
-      "url": "https://thehill.com/homenews/campaign/5729942-texas-north-carolina-illinois-ohio-senate-races/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "The first contests of the 2026 midterms will kick off in the coming weeks as the fight for control of Congress heats up.  High-profile primaries for Senate in Texas, North Carolina, Illinois and Ohio are set to make headlines in March and May, cementing general election match-ups for November as Republicans fight to maintain their…",
-      "keywords": [
-        "election",
-        "midterm"
-      ],
-      "significance": 2,
-      "reason": "This is routine electoral news covering standard primary contest scheduling with no implications for institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:26.939Z"
-    },
-    {
-      "id": "a33b1909f359",
-      "title": "For Gavin Newsom, now comes the hard part ",
-      "url": "https://thehill.com/homenews/campaign/5730128-gavin-newsom-political-analysis/",
-      "source": "The Hill",
-      "published": "2026-02-10T11:00:00.000Z",
-      "description": "Political analysis is comparative, not qualitative. It isn’t that the people who win elections are necessarily good at politics, only that they are better than the other guy or gal. And at least in that way, we can say right now that California Gov. Gavin Newsom (D) is better at running for president than anybody…",
-      "keywords": [
-        "election"
-      ],
-      "significance": 1,
-      "reason": "This is political commentary analyzing a governor's electoral skills and campaign viability, with no direct bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:26.739Z"
-    },
-    {
       "id": "989b5d46ee36",
       "title": "Firefighters Wore Gear Containing “Forever Chemicals.” The Forest Service Knew and Stayed Silent for Years.",
       "url": "https://www.propublica.org/article/forest-service-forever-chemical-firefighter-pfas",
@@ -49631,8 +49268,482 @@
       "reason": "This is routine political commentary consisting of a personal attack and social media exchange between the president and a governor, with no direct impact on institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-03-12T06:14:35.578Z"
+    },
+    {
+      "id": "9f4829d97a00",
+      "title": "Veterans Who Depend on Mental Health Care Keep Losing Their Therapists Under Trump",
+      "url": "https://www.propublica.org/article/veterans-affairs-mental-health-therapists-quit-trump",
+      "source": "ProPublica",
+      "published": "2026-03-12T09:30:00.000Z",
+      "description": "The post Veterans Who Depend on Mental Health Care Keep Losing Their Therapists Under Trump appeared first on ProPublica.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Significant policy implementation affecting a vulnerable population's access to federal services, but lacks direct evidence of systematic institutional erosion of democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:08.786Z"
+    },
+    {
+      "id": "2f67655804bb",
+      "title": "Sen. Chris Murphy, D-Conn., says Trump's plans for the war in Iran are 'incoherent'",
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5744836/sen-chris-murphy-d-conn-says-trumps-plans-for-the-war-in-iran-are-incoherent",
+      "source": "NPR Politics",
+      "published": "2026-03-12T10:48:30.000Z",
+      "description": "NPR's Steve Inskeep speaks with Democratic Sen. Chris Murphy of Connecticut, who says the Trump administration's war plans for Iran are \"incoherent and incomplete.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary from a senator criticizing an administration's policy position, without reporting on institutional actions, legal challenges, or structural threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:09.435Z"
+    },
+    {
+      "id": "b5d28e8698b2",
+      "title": "Trump's war with Iran is angering some swing voters who want money spent at home",
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5744781/trump-iran-michigan-focus-group",
+      "source": "NPR Politics",
+      "published": "2026-03-12T09:00:00.000Z",
+      "description": "Swing voters who helped reelect President Trump in 2024 don't support his decision to go to war in Iran and instead want to see U.S. tax dollars spent tackling economic pressures facing Americans.",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on public opinion polling regarding foreign policy preferences rather than documenting any institutional action, policy change, or threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:08.850Z"
+    },
+    {
+      "id": "4937f5a5c61f",
+      "title": "The Trump administration's crackdown on immigrant truckers shifts into higher gear",
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5736253/immigrant-truckers-trump-crackdown",
+      "source": "NPR Politics",
+      "published": "2026-03-12T09:00:00.000Z",
+      "description": "The White House wants tougher rules for commercial licenses after several high-profile crashes involving foreign-born drivers. But critics say that would do little to make the nation's roads safer.",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the policy may raise immigration and civil rights concerns, this represents routine regulatory action within executive authority rather than a systemic threat to democratic checks and balances.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-12T12:06:08.874Z"
+    },
+    {
+      "id": "21b414b71c69",
+      "title": "Trump ran on lowering gas prices. The war with Iran is challenging that promise",
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5744974/trump-ran-on-lowering-gas-prices-the-war-with-iran-is-challenging-that-promise",
+      "source": "NPR Politics",
+      "published": "2026-03-12T08:44:51.000Z",
+      "description": "President Trump made lowering gas prices the centerpiece of his affordability agenda. He now faces the political perils of the war with Iran, as Middle East energy infrastructure is disrupted.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article covers campaign promises and geopolitical consequences on energy markets, which is routine political and economic news without direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:08.883Z"
+    },
+    {
+      "id": "5fd265bc6e94",
+      "title": "Blue cities in red states debate over how to respond to efforts to resist ICE",
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5718541/blue-cities-in-red-states-debate-over-how-to-respond-to-efforts-to-resist-ice",
+      "source": "NPR Politics",
+      "published": "2026-03-12T08:44:30.000Z",
+      "description": "While cities in blue states like Minnesota and California resist ICE enforcement, some Democrat-led cities in red states, like Austin, Texas, are in a heated debate over how to respond.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "Local policy disagreements over ICE cooperation represent notable political tension but reflect routine federalism debates without institutional erosion or unprecedented democratic challenges.",
+      "categories": [
+        "immigration & civil rights",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T12:06:10.582Z"
+    },
+    {
+      "id": "2156b480be4d",
+      "title": "Voters who say economic and political systems are stacked against them tie a record high",
+      "url": "https://www.nbcnews.com/politics/politics-news/poll-voters-economic-political-systems-stacked-ties-record-high-rcna262827",
+      "source": "NBC News",
+      "published": "2026-03-12T09:00:00.000Z",
+      "description": "Nearly 6 in 10 voters say the economic and political systems are stacked against people like them, tying a record high over roughly 40 years of national NBC News polling.",
+      "keywords": [
+        "voter"
+      ],
+      "significance": 5,
+      "reason": "Public perception data indicating systemic distrust is notable for democratic health but represents sentiment rather than institutional action or policy change.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:12.141Z"
+    },
+    {
+      "id": "6b63f2b25413",
+      "title": "300 TSA Officers Quit as Partial Shutdown Causes Travel Backups",
+      "url": "https://www.today.com/video/tsa-shortage-causes-spring-break-travel-backup-at-us-airports-259183685687",
+      "source": "NBC News",
+      "published": "2026-03-12T11:36:55.000Z",
+      "description": "As the busy spring break travel season gets underway, the TSA says 300 officers have quit since the start of the partial government shutdown. Now, it is causing major backups at security checkpoints at airports across the United States. NBC’s Tom Costello reports for TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 3,
+      "reason": "While operationally disruptive, TSA staffing losses from shutdown furloughs are a predictable consequence of routine fiscal disputes rather than an institutional threat to democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:10.459Z"
+    },
+    {
+      "id": "37bf6de18f53",
+      "title": "Iran Strikes Oil Tankers in Strait of Hormuz as Conflict Escalates",
+      "url": "https://www.today.com/video/iran-says-the-world-should-brace-for-oil-to-reach-200-a-barrel-259183685669",
+      "source": "NBC News",
+      "published": "2026-03-12T11:29:47.000Z",
+      "description": "Iranian strikes are escalating in the Middle East with new attacks aimed at driving up oil prices, hitting infrastructure and attacking ships near the Strait of Hormuz. An Iranian official now says the world should brace for oil to reach $200 a barrel. NBC’s Richard Engel reports for TODAY.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is international foreign policy news with no direct bearing on U.S. domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:16.767Z"
+    },
+    {
+      "id": "9dfc19344640",
+      "title": "Senate to vote again on funding DHS as tempers flare over impasse",
+      "url": "https://www.cbsnews.com/news/senate-vote-homeland-security-funding/",
+      "source": "CBS News",
+      "published": "2026-03-12T11:40:50.000Z",
+      "description": "The Senate will vote again on a measure to fund the Department of Homeland Security as an impasse over how to reform immigration enforcement agencies has grown ugly, nearly a month into a partial shutdown.",
+      "keywords": [
+        "immigration",
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "A routine legislative impasse over DHS funding reflects normal congressional oversight processes, though the partial shutdown duration indicates institutional strain worth monitoring.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:16.064Z"
+    },
+    {
+      "id": "d2df6f1543ab",
+      "title": " Social Security watchdog opens probe into alleged misuse of data by ex-DOGE employee",
+      "url": "https://abcnews.com/Politics/wireStory/social-security-watchdog-opens-probe-alleged-misuse-data-130981209",
+      "source": "ABC News",
+      "published": "2026-03-12T11:47:02.000Z",
+      "description": "Social Security’s internal watchdog is investigating a whistleblower complaint that a former DOGE worker misused sensitive agency data",
+      "keywords": [
+        "DOGE"
+      ],
+      "significance": 5,
+      "reason": "Allegations of data misuse by a DOGE employee warrant investigation and represent potential institutional integrity concerns, but the scope appears limited to one individual rather than systemic erosion of checks and balances.",
+      "categories": [
+        "civil service independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:13.264Z"
+    },
+    {
+      "id": "b6c97100bc98",
+      "title": " States sue the Trump administration to challenge policy requiring colleges to collect race data",
+      "url": "https://abcnews.com/Politics/wireStory/states-sue-trump-administration-challenge-policy-requiring-colleges-130979712",
+      "source": "ABC News",
+      "published": "2026-03-12T11:47:03.000Z",
+      "description": "A coalition of 17 state Democratic attorneys general has filed a lawsuit challenging a Trump administration policy that requires higher education institutions to collect data showing they aren't considering race in admissions",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "This represents a notable legal challenge to executive policy implementation affecting civil rights enforcement and institutional independence, but falls short of critical significance as it involves standard litigation over regulatory interpretation rather than unprecedented institutional erosion.",
+      "categories": [
+        "immigration & civil rights",
+        "judicial independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T12:06:13.396Z"
+    },
+    {
+      "id": "f4c04b8d294b",
+      "title": "AI may never be as cheap as it is today",
+      "url": "https://www.axios.com/2026/03/12/ai-models-costs-ipo-pricing",
+      "source": "Axios",
+      "published": "2026-03-12T09:00:05.000Z",
+      "description": "AI may never be as cheap to use as it is today.\nWhy it matters: AI companies are hooking users with low prices that won't last — straight out of the Amazon and Uber playbook.\n\nThe big picture: The push to show profits before IPOs could end the era of cheap AI.\n\n\"These LLM companies are going to go public and they're going to raise prices because they have to,\" May Habib, CEO of Writer, told Axios.\n\nState of play: New models from OpenAI, Google and Anthropic are generally getting faster and cheap",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article discusses AI pricing strategy and business models with no connection to democratic institutions, governmental checks and balances, or the 12 tracked categories.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:17.645Z"
+    },
+    {
+      "id": "ed874148c437",
+      "title": "Trump's Iran war whiplash clouds U.S. endgame",
+      "url": "https://www.axios.com/2026/03/12/trump-iran-war-endgame",
+      "source": "Axios",
+      "published": "2026-03-12T09:00:05.000Z",
+      "description": "After a video call with G7 leaders Wednesday, French President Emmanuel Macron declared publicly what others had said privately: no one can tell what Donald Trump wants from this war.\nWhy it matters: Nearly two weeks in, Trump continues to send conflicting signals about how and when the fighting ends. The confusion has left both allies and adversaries struggling to plan for what comes next.\n\nTwo sources with knowledge of the G7 call said Trump was \"ambiguous and noncommittal\" — some participants",
+      "keywords": [
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article addresses foreign policy messaging and international relations rather than domestic democratic institutions or checks and balances mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:17.596Z"
+    },
+    {
+      "id": "cde212532bfa",
+      "title": "Trump's limited gas-price options on Iran",
+      "url": "https://www.axios.com/2026/03/12/iran-oil-markets-trump-prices-gas-energy",
+      "source": "Axios",
+      "published": "2026-03-12T09:00:04.000Z",
+      "description": "Plans for historically large releases from emergency oil stockpiles reveal the scope of the energy crisis — and the market response reveals President Trump's limited options for tackling it.\nWhy it matters: The 400-million-barrel infusion over time from International Energy Agency member countries — including a big dose from U.S. holdings — likely won't push prices down by itself.\n\nIt's one part of a toolkit that can help put more supplies on the market.\nBut nothing will approach normal until th",
+      "keywords": [
+        "ICE",
+        "white house",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine economic policy news about energy markets and presidential options, with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:17.636Z"
+    },
+    {
+      "id": "d9c7a77804bd",
+      "title": "Iranian oil squeeze tests Trump's war plans",
+      "url": "https://www.axios.com/2026/03/12/trump-iran-oil-prices-hormuz",
+      "source": "Axios",
+      "published": "2026-03-12T09:00:04.000Z",
+      "description": "President Trump's advisers warn the Iran war could drag on longer if the regime succeeds in strangling the Strait of Hormuz and driving oil prices beyond his tolerance.\n\n\"The Iranians f*cking around with the Strait makes him more dug in,\" a senior Trump administration official told Axios.\n\nWhy it matters: Trump launched Operation Epic Fury to destroy Iran's nuclear program, ballistic missiles, navy and regional proxies. But oil markets now are occupying as much of his headspace as battlefield da",
+      "keywords": [
+        "midterm",
+        "ICE",
+        "white house",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is routine foreign policy reporting on military strategy and economic considerations, with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:17.632Z"
+    },
+    {
+      "id": "42bd5cb733ad",
+      "title": "More Americans hold dim view of allies Trump antagonizes",
+      "url": "https://www.axios.com/2026/03/12/canada-great-britain-americans-views-trump",
+      "source": "Axios",
+      "published": "2026-03-12T08:01:04.000Z",
+      "description": "Data: Gallup World Affairs poll; Chart: Axios Visuals\nAmericans' positive views of Canada and Great Britain, historically two of Washington's closest friends, hit their lowest level since the 1980s in new Gallup polling.\nThe big picture: President Trump has aggravated those allies, blasting their leaders, starting a global trade war, tossing around annexation threats and straining security alliances.\n\nBy the numbers: In the previous 12 months through February, Americans' positive ratings for Bri",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is polling data on public sentiment toward allied nations, which reflects opinion rather than documenting institutional action, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:17.788Z"
+    },
+    {
+      "id": "1fe7e7991c67",
+      "title": "Trump takes anti-Massie crusade to Kentucky in stark escalation",
+      "url": "https://www.axios.com/2026/03/11/trump-thomas-massie-kentucky-primary",
+      "source": "Axios",
+      "published": "2026-03-11T23:16:32.000Z",
+      "description": "President Trump called GOP Rep. Thomas Massie \"disloyal\" and a \"nut job\" during a visit to Massie's district Wednesday that marks a striking escalation in his long-running feud with the Kentucky Republican.\nWhy it matters: Trump has gone after select GOP incumbents from afar for years. But now, the president is doing it on their own turf.\n\n\"He is the worst person. His name is...What the hell? How did he ever end up in Kentucky, his name is Thomas Massie,\" Trump said Wednesday afternoon, drawing ",
+      "keywords": [
+        "voter",
+        "johnson",
+        "speaker",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While presidential pressure on congressional members warrants monitoring for potential coercion or institutional erosion, this incident represents notable but not yet systemic undermining of congressional independence or checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-12T12:06:18.892Z"
+    },
+    {
+      "id": "e940d3a42521",
+      "title": "Hackers join U.S. and Israel's fight with Iran",
+      "url": "https://www.axios.com/2026/03/11/iran-war-trump-israel-ai-cyberattack",
+      "source": "Axios",
+      "published": "2026-03-11T21:36:02.000Z",
+      "description": "U.S. and Israeli military strikes on Iran are playing out in the air and at sea, while a parallel fight is unfolding online.\nWhy it matters:  Iranian actors — both state-linked and loosely affiliated — have a history of cyberattacks against the U.S., but the U.S. and Israeli governments are now using similar tactics. \n\nDriving the news: A Wednesday cyberattack allegedly linked to Iran‑aligned hackers disrupted operations at Stryker, a major U.S. medical technology company, The Wall Street Journa",
+      "keywords": [
+        "election",
+        "ICE",
+        "intelligence",
+        "cybersecurity",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on military and cyber operations against a foreign adversary and does not address domestic democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:18.819Z"
+    },
+    {
+      "id": "03f25e6a701c",
+      "title": "Trump must attack Iran’s center of gravity",
+      "url": "https://thehill.com/opinion/national-security/5779035-basij-threat-iranian-regime/",
+      "source": "The Hill",
+      "published": "2026-03-12T11:00:00.000Z",
+      "description": "The Trump administration has systematically dismantled Iran's conventional military and nuclear ambitions, but the Islamic Revolutionary Guard Corps and Basij remain intact, posing a direct threat to the Iranian people and standing in the way of regime change.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion commentary on foreign policy strategy with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:18.688Z"
+    },
+    {
+      "id": "2dc946959240",
+      "title": "GOP mulls reconciliation push in hunt for midterm win",
+      "url": "https://thehill.com/newsletters/morning-report/5780374-midterms-gas-prices-republican-concern/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:40:06.000Z",
+      "description": "The GOP is pushing to pass one more major piece of legislation before the November midterm elections, while the Senate is expected to pass a bipartisan housing bill and gas prices are expected to remain high due to the Iran conflict.",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Standard reporting on routine legislative strategy and economic conditions with no apparent institutional or democratic system implications.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:18.616Z"
+    },
+    {
+      "id": "34163137c7f3",
+      "title": "Mullin departure creates ‘House whisperer’ vacancy for Senate GOP",
+      "url": "https://thehill.com/homenews/senate/5779890-mullin-house-senate-gop/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:00:00.000Z",
+      "description": "Sen. Markwayne Mullin’s (R-Okla.) pending departure from the upper chamber to lead the Department of Homeland Security is creating a vacancy that Republicans wonder if they’ll be able to fill: Unofficial liaison to the House. It’s an informal role, and one that didn’t truly exist prior to Mullin arriving. But the Oklahoma Republican has been…",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This article discusses routine personnel changes and informal congressional liaison roles with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:18.549Z"
+    },
+    {
+      "id": "da7e15bbb002",
+      "title": "Rahm Emanuel’s prescription for inflicting pain on Trump over Iran",
+      "url": "https://thehill.com/policy/international/5779086-rahm-emmanuel-trump-iran-war-impact/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:00:00.000Z",
+      "description": "Rahm Emanuel has no shortage of action plans for Democrats, whom he thinks are poised for success in the fall midterms if they get their message right. The former Obama chief of staff was an instrumental player in 2006, when Democrats flipped control of the House and Senate after 12 years of Republican control —…",
+      "keywords": [
+        "midterm",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is opinion/commentary from a political figure about campaign strategy and messaging, not reporting on actual institutional actions, policy changes, or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:20.437Z"
+    },
+    {
+      "id": "091af9f063c4",
+      "title": "GOP senators warn Trump that shaky economy could spell election disaster",
+      "url": "https://thehill.com/homenews/senate/5780103-trump-faces-gop-economic-backlash/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:00:00.000Z",
+      "description": "Republican senators are getting louder in warning President Trump that economic headwinds caused by the administration’s tariff regime combined with the sharp reduction in global oil supplies could set the GOP up for a rude political awakening in November. Soft jobs numbers and higher-than-desired inflation have been a persistent problem during Trump’s second term, but…",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about economic policy disagreements within the Republican party, with no bearing on institutional checks and balances or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:22.555Z"
+    },
+    {
+      "id": "ee9090a53c5d",
+      "title": "Vance, Rubio jammed into high-stakes horse race for Trump’s favor",
+      "url": "https://thehill.com/homenews/administration/5779611-trump-press-conference-rubio/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:00:00.000Z",
+      "description": "When President Trump gave his first press conference since the start of the Iran war, he brushed past Vice President Vance, instead lavishing praise on Secretary of State Marco Rubio.  “Marco Rubio is doing a great job. I think he’s going to go down as the greatest secretary of State in history,” Trump told reporters Monday. “He’s…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary about internal Trump administration dynamics and personnel relations, with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:19.886Z"
+    },
+    {
+      "id": "332c433b7fa9",
+      "title": "Experts warn parents, educators to get ahead on Iran war conversations",
+      "url": "https://thehill.com/homenews/education/5779268-iran-war-trump-children-khamenei/",
+      "source": "The Hill",
+      "published": "2026-03-12T10:00:00.000Z",
+      "description": "Parents and educators are navigating difficult conversations about the war with Iran as students of all ages see disturbing news and images online from the conflict.   From the deaths of U.S. service members to a strike on an Iranian school killing more than 150 people, the horrors of war are getting harder to avoid for children.   Experts warn it is a…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is a routine parenting/education advice article about discussing current events with children, with no direct bearing on democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:19.887Z"
+    },
+    {
+      "id": "2ab5d7ebf66a",
+      "title": "TSA workers set to miss first paycheck of shutdown as Senate bickers over DHS funding",
+      "url": "https://www.cnbc.com/2026/03/12/senate-dhs-homeland-shutdown-funding-tsa-immigration.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-12T11:54:40.000Z",
+      "description": "Democrats and Republicans remain at loggerheads over reopening the Department of Homeland Security.",
+      "keywords": [
+        "EPA"
+      ],
+      "significance": 5,
+      "reason": "While government shutdowns affect institutional function and federal programs, this routine funding dispute represents typical partisan gridlock rather than an unprecedented erosion of democratic checks.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T12:06:20.016Z"
+    },
+    {
+      "id": "045a9e1d6259",
+      "title": "Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200",
+      "url": "https://www.cnbc.com/2026/03/12/iran-war-persian-gulf-strait-of-hormuz-ships-uae-iraq.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-12T09:52:45.000Z",
+      "description": "The latest incidents in or near the Strait of Hormuz come shortly after Iran warned the world to prepare for $200 oil prices.",
+      "keywords": [
+        "ICE",
+        "EPA"
+      ],
+      "significance": 1,
+      "reason": "This article reports on international maritime incidents and Iranian geopolitical posturing with no connection to U.S. domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T12:06:23.760Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-12T06:14:35.578Z"
+  "lastFetch": "2026-03-12T12:06:23.760Z"
 }
