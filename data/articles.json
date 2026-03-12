@@ -1,462 +1,6 @@
 {
   "articles": [
     {
-      "id": "7dce9b98200b",
-      "title": " A moment of truth for Democrats ahead of this week's DHS shutdown deadline: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/moment-truth-democrats-dhs-shutdown-deadline-politics-desk-rcna258260",
-      "source": "NBC News",
-      "published": "2026-02-09T22:00:00.000Z",
-      "description": "The Department of Homeland Security is slated to run out of funding, and Democrats have issued a list of demands to keep the money flowing for ICE and CBP.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 4,
-      "reason": "A routine budget negotiation involving typical partisan demands, significant procedurally but not indicative of systemic democratic erosion.",
-      "categories": [
-        "congressional oversight",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-10T00:14:47.689Z"
-    },
-    {
-      "id": "471b0e16b739",
-      "title": "Justice Department moves to dismiss Steve Bannon's criminal case ",
-      "url": "https://www.nbcnews.com/politics/justice-department/justice-department-moves-dismiss-steve-bannons-criminal-case-rcna258243",
-      "source": "NBC News",
-      "published": "2026-02-09T19:54:55.000Z",
-      "description": "The Justice Department on Monday moved to dismiss its long-running criminal case against Steve Bannon, tied to his refusal to testify before the congressional committee that investigated the Jan.",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 8,
-      "reason": "DOJ dismissal of a high-profile criminal case against a political figure raises significant concerns about DOJ independence and potential political retribution, directly impacting congressional oversight authority.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T00:14:47.633Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "d9a5956e1320",
-      "title": "Ghislaine Maxwell pleads the Fifth but says she'd 'speak fully and honestly' if Trump grants her clemency",
-      "url": "https://www.nbcnews.com/politics/justice-department/ghislaine-maxwell-pleads-fifth-says-speak-fully-honestly-trump-grants-rcna258227",
-      "source": "NBC News",
-      "published": "2026-02-09T21:18:54.000Z",
-      "description": "Jeffrey Epstein co-conspirator Ghislaine Maxwell refused to answer questions from the House Oversight Committee on Monday, but her attorney said she is “prepared to speak fully and honestly” if President Donald Trump grants her clemency.“Only she can provide the complete account” of Epstein’s actions, David Oscar Markus said in a statement after Maxwell's brief virtual appearance before the panel in the morning, where she invoked her Fifth Amendment right against self-incrimination.",
-      "keywords": [
-        "trump",
-        "EPA",
-        "clemency"
-      ],
-      "significance": 7,
-      "reason": "This raises significant concerns about potential political retribution and obstruction of justice, as a convicted conspirator conditions testimony on executive clemency, potentially enabling corruption and undermining congressional oversight.",
-      "categories": [
-        "political retribution",
-        "corruption & self-dealing",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T00:14:50.327Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "2bfe853dcff5",
-      "title": "‘Long ways to go’ in DHS funding fight even as GOP plans to offer counterproposal",
-      "url": "https://www.nbcnews.com/meet-the-press/video/-long-ways-to-go-in-dhs-funding-fight-even-as-gop-plans-to-offer-counterproposal-257405509921",
-      "source": "NBC News",
-      "published": "2026-02-09T22:00:17.000Z",
-      "description": "NBC News Capitol Hill Correspondent Melanie Zanona explains the latest in the DHS funding fight with the agency set to run out of money on Friday. NBC News Senior Homeland Security Correspondent Julia Ainsley discusses her interview with Border Czar Tom Homan who warned last summer immigrations operations should be targeted to “keep the faith” of the American people.",
-      "keywords": [
-        "immigration",
-        "homan",
-        "border czar"
-      ],
-      "significance": 5,
-      "reason": "Routine congressional budget negotiations with standard political disagreement over DHS funding priorities, lacking indicators of institutional erosion or unprecedented action.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-10T00:14:50.159Z"
-    },
-    {
-      "id": "7a1c1894587b",
-      "title": "Gonzales defends conditions at Texas detention center with measles outbreak",
-      "url": "https://www.cbsnews.com/news/tony-gonzales-dilley-detention-facility-conditions-measles/",
-      "source": "CBS News",
-      "published": "2026-02-10T00:02:19.000Z",
-      "description": "Rep. Tony Gonzales said the Dilley detention facility, which houses families and children, is \"nicer than some elementary schools.\"",
-      "keywords": [
-        "ICE",
-        "detention"
-      ],
-      "significance": 5,
-      "reason": "Raises concerns about immigration & civil rights protections and detention conditions, but represents routine political commentary rather than a systemic institutional action.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-10T00:14:50.769Z"
-    },
-    {
-      "id": "0b4c499a56a8",
-      "title": "DOJ asks to dismiss Steve Bannon's criminal charges",
-      "url": "https://www.cbsnews.com/news/doj-steve-bannon-criminal-charges-motion-to-dismiss/",
-      "source": "CBS News",
-      "published": "2026-02-09T23:42:01.000Z",
-      "description": "The Justice Department is moving to toss out its case against former Trump adviser Steve Bannon, who was jailed for declining to testify before the House Jan. 6 panel.",
-      "keywords": [
-        "DOJ",
-        "ICE",
-        "trump",
-        "EPA"
-      ],
-      "significance": 7,
-      "reason": "This represents a significant institutional action affecting DOJ independence and congressional oversight by potentially undermining accountability for defying a legislative subpoena.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T00:14:50.321Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "075c055404d9",
-      "title": "U.S. Olympian responds after Trump calls him \"a real loser\"",
-      "url": "https://www.cbsnews.com/news/us-olympian-hunter-hess-responds-trump-loser/",
-      "source": "CBS News",
-      "published": "2026-02-09T23:06:00.000Z",
-      "description": "U.S. Olympian Hunter Hess said \"there is so much that is great about America, but there are always things that could be better,\" a day after President Trump lashed out at him​.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine news story about a personal exchange between a public figure and the president with no institutional implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:50.793Z"
-    },
-    {
-      "id": "8aac114bff6b",
-      "title": "Massive release of Epstein files includes 3 million documents and photos",
-      "url": "https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/",
-      "source": "CBS News",
-      "published": "2026-02-09T20:14:28.000Z",
-      "description": "The Justice Department released more new documents on Jan. 30 from the Jeffrey Epstein files, more than a month after the DOJ's original deadline to do so.",
-      "keywords": [
-        "DOJ",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "While document release relates to judicial/DOJ processes, this is routine criminal case disclosure without systemic implications for democratic checks and balances.",
-      "categories": [
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-10T00:14:51.716Z"
-    },
-    {
-      "id": "c6ebb96be995",
-      "title": "2/1: Face The Nation",
-      "url": "https://www.cbsnews.com/video/020126-face-the-nation/",
-      "source": "CBS News",
-      "published": "2026-02-09T19:49:18.000Z",
-      "description": "This week on \"Face the Nation with Margaret Brennan,\" we speak to mayors from cities across the country as anger at ICE persists across the country, plus our interview with Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This is a routine news program announcement covering interview segments without reporting on specific policy changes, institutional actions, or democratic developments.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:51.520Z"
-    },
-    {
-      "id": "08110a41a784",
-      "title": "Europe is confronting its Epstein shame. Trump wants to move on.",
-      "url": "https://www.axios.com/2026/02/09/epstein-europe-starmer-us-quiet-reckoning",
-      "source": "Axios",
-      "published": "2026-02-09T18:19:36.000Z",
-      "description": "The avalanche of Epstein files released by the Justice Department has buried high-ranking European government officials with ties to the convicted sex offender in shame.\n\nIn the U.S., some powerful people have faced public scrutiny — but have so far avoided professional consequences for their dealings with the late financier.\n\nThe big picture: The fallout from the release of the Epstein files has become a stress test for accountability among Western elites and their governments — and has exposed",
-      "keywords": [
-        "musk",
-        "ICE",
-        "intelligence",
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "The article discusses accountability and potential political consequences from the Epstein files release, which relates to corruption and oversight, but lacks specifics about institutional changes or policy impacts on democratic checks.",
-      "categories": [
-        "corruption & self-dealing",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T00:14:52.113Z"
-    },
-    {
-      "id": "f6c2ef147a6a",
-      "title": "Kash Patel’s girlfriend says Republicans need ‘better messaging’ as Democrats embrace Bad Bunny",
-      "url": "https://thehill.com/blogs/in-the-know/5730514-fbi-director-girlfriend-gop-branding-bad-bunny/",
-      "source": "The Hill",
-      "published": "2026-02-09T23:29:37.000Z",
-      "description": "FBI Director Kash Patel’s girlfriend, country musician Alexis Wilkins, said the GOP needs “better messaging,” with Democrats embracing Puerto Rican rapper and superstar Bad Bunny and his recent Super Bowl performance. In response to a post from the Democratic Party’s official account on the social platform X celebrating Bad Bunny’s halftime performance and calling it…",
-      "keywords": [
-        "FBI",
-        "patel",
-        "kash"
-      ],
-      "significance": 2,
-      "reason": "This is commentary on campaign messaging and celebrity endorsements with no substantive implications for institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:51.496Z"
-    },
-    {
-      "id": "afba43ade3b6",
-      "title": "DHS demanded list of ongoing investigations from its watchdog",
-      "url": "https://thehill.com/homenews/administration/5730522-dhs-list-ongoing-investigation-inspector-general/",
-      "source": "The Hill",
-      "published": "2026-02-09T23:29:14.000Z",
-      "description": "Homeland Security Secretary Kristi Noem has requested a list of all ongoing investigations by the agency’s watchdog, her top lawyer confirmed in a letter to Sen. Tammy Duckworth (D-Ill.) after the lawmaker expressed concern the department may seek to quash oversight of its practices. The letter from Department of Homeland Security (DHS) general counsel James…",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 8,
-      "reason": "Requesting a list of ongoing watchdog investigations represents a significant institutional threat to independent oversight and potential political retribution against internal critics.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T00:14:55.793Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "5f9dbb5feab3",
-      "title": "Dan Bongino returning to Fox News as contributor after FBI stint",
-      "url": "https://thehill.com/homenews/media/5730450-former-fbi-deputy-director-bongino/",
-      "source": "The Hill",
-      "published": "2026-02-09T23:14:29.000Z",
-      "description": "After departing the FBI and restarting his podcast, Dan Bongino will also return to Fox News as a contributor.  Fox News confirmed to The Hill that Bongino is returning to the network and will make his first appearance on air Monday night during Sean Hannity’s 9 p.m. EST program. The network noted that Bongino, who…",
-      "keywords": [
-        "FBI",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This is routine personnel news about a media figure's employment transition with no direct implications for democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:56.624Z"
-    },
-    {
-      "id": "e84f3788000a",
-      "title": "Conservatives battle over Trump’s criticism of Bad Bunny",
-      "url": "https://thehill.com/homenews/administration/5730286-trump-criticism-bad-bunny-performance/",
-      "source": "The Hill",
-      "published": "2026-02-09T22:35:36.000Z",
-      "description": "Conservatives are battling one another over Bad Bunny’s Super Bowl performance and the political wisdom of President Trump’s criticism of the Puerto Rican superstar as the GOP sees signs it is quickly losing Hispanic support in polls. President Trump blasted Bad Bunny’s performance as an “affront” to the United States and “one of the worst…",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 1,
-      "reason": "This is routine political commentary about celebrity criticism and polling trends with no direct bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:56.836Z"
-    },
-    {
-      "id": "f25d52c77c2c",
-      "title": "Trump opens up commercial fishing in Atlantic marine national monument",
-      "url": "https://thehill.com/policy/energy-environment/5730411-trump-commercial-fishing-atlantic-marine-national-monument/",
-      "source": "The Hill",
-      "published": "2026-02-09T22:27:29.000Z",
-      "description": "President Trump is once again opening up a marine national monument in the Atlantic Ocean to commercial fishing. Late Friday afternoon, he issued a proclamation allowing for commercial fishing in the Northeast Canyons and Seamounts Marine National Monument. This monument consists of a nearly 5,000 square mile area southeast of Cape Cod, Mass. Species of dolphin, whale,…",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine environmental and regulatory policy decision that does not directly implicate democratic checks and balances or institutional independence.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:57.538Z"
-    },
-    {
-      "id": "f0609bdfc6dc",
-      "title": "Trump administration seeks to block independent review when federal workers are laid off",
-      "url": "https://thehill.com/homenews/administration/5730400-trump-admin-strips-mspb-power/",
-      "source": "The Hill",
-      "published": "2026-02-09T22:03:58.000Z",
-      "description": "The Trump administration on Monday proposed stripping the power of an independent board to review challenges from fired federal workers while barring employees from taking the matter to court. The new proposed rule would impact federal workers fired through a Reduction in Force (RIF), the process used at 22 different agencies last year as the Trump administration…",
-      "keywords": [
-        "federal workers",
-        "trump"
-      ],
-      "significance": 8,
-      "reason": "Proposal to eliminate independent review boards and judicial recourse for federal workers directly undermines civil service independence and judicial checks on executive power.",
-      "categories": [
-        "civil service independence",
-        "judicial independence",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-10T00:14:56.823Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "6d56b94ffb85",
-      "title": "Two men charged in $120M adult day care fraud scheme in Queens ",
-      "url": "https://thehill.com/regulation/court-battles/5730272-120m-stolen-healthcare-fraud/",
-      "source": "The Hill",
-      "published": "2026-02-09T21:28:28.000Z",
-      "description": "The Justice Department accused two men of stealing $120 million from federal health care programs over the course of a decade by bribing patients to enroll in social adult day cares and submit unneeded prescriptions to a pharmacy. Inwoo Kim, 42, and Daniel Lee, 56, were charged with conspiracy to commit health care fraud. They each face up to 10 years in prison.  “Today’s complaint targets those who prey upon…",
-      "keywords": [
-        "ICE",
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This is a routine criminal fraud prosecution with no bearing on democratic institutions, checks and balances, or government accountability mechanisms.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:56.673Z"
-    },
-    {
-      "id": "21bef0cfedde",
-      "title": "House Democrats to force vote on blocking Trump’s Canada tariffs this week",
-      "url": "https://thehill.com/homenews/house/5730295-house-democrats-vote-trump-canada-tariffs/",
-      "source": "The Hill",
-      "published": "2026-02-09T21:27:08.000Z",
-      "description": "House Democrats are planning to force a vote this week on a resolution blocking President Trump’s tariffs on Canada, a House aide told The Hill. Rep. Gregory Meeks (D-N.Y.), the ranking member of the House Foreign Affairs Committee, is the lead sponsor on a resolution that would terminate Trump’s use of a national emergency to…",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "This represents a routine exercise of congressional oversight through legislative action on tariff policy, notable as it tests executive emergency powers but not unprecedented or institutionally erosive.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T00:14:59.515Z"
-    },
-    {
-      "id": "5e8045372780",
-      "title": "Democrats call on McMahon to explain civil rights complaints backlog",
-      "url": "https://thehill.com/homenews/education/5730243-education-backlog-civil-rights/",
-      "source": "The Hill",
-      "published": "2026-02-09T21:22:55.000Z",
-      "description": "Seventy House Democrats sent a letter to Education Secretary Linda McMahon demanding answers on the department’s backlog in civil rights cases.  The Democrats, led by Rep. Suzanne Bonamici (D-Ore.), expressed concern at the number of Office of Civil Rights (OCR) employees laid off under the Trump administration when the president’s term started with over 22,000 complaints filed…",
-      "keywords": [
-        "ICE",
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Congressional oversight of agency operations is demonstrated, but the issue involves administrative backlog management rather than systemic threats to democratic institutions.",
-      "categories": [
-        "congressional_oversight",
-        "civil_service_independence",
-        "immigration_civil_rights"
-      ],
-      "scoredAt": "2026-02-10T00:14:58.524Z"
-    },
-    {
-      "id": "d9d5772446fa",
-      "title": "Pentagon holds off on naming and shaming defense contractors",
-      "url": "https://thehill.com/policy/defense/5730240-pentagon-reviews-defense-contractors/",
-      "source": "The Hill",
-      "published": "2026-02-09T21:16:36.000Z",
-      "description": "The Pentagon held off on naming “underperforming” defense contractors for now as it continues to review their performance to ensure the businesses are prioritizing the supply of weapons systems to U.S. warfighters.  The Defense Department (DOD) completed its initial review of defense contractors to determine whether companies were investing in their own production capacity or…",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 3,
-      "reason": "Routine administrative decision about defense contractor performance review procedures with no direct implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:58.348Z"
-    },
-    {
-      "id": "f20d0e13335c",
-      "title": "DOJ moves to erase Bannon conviction for evading Jan. 6 committee",
-      "url": "https://thehill.com/regulation/court-battles/5730156-justice-dept-bannon-conviction-contempt/",
-      "source": "The Hill",
-      "published": "2026-02-09T21:04:01.000Z",
-      "description": "The Justice Department is seeking to wipe longtime Trump ally Steve Bannon’s conviction for evading a subpoena from the House committee that investigated the Jan. 6, 2021 Capitol attack. In a terse court filing Monday, U.S. Attorney for the District of Columbia Jeanine Pirro asked a federal judge to dismiss the two-count indictment prosecutors filed…",
-      "keywords": [
-        "DOJ",
-        "prosecutor",
-        "ICE",
-        "subpoena",
-        "trump",
-        "EPA"
-      ],
-      "significance": 9,
-      "reason": "DOJ moving to erase a conviction for defying congressional oversight represents unprecedented erosion of both judicial independence and congressional oversight powers, directly undermining accountability mechanisms central to democratic checks and balances.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T00:14:58.646Z",
-      "digestedAt": "2026-02-10T00:20:25.175Z"
-    },
-    {
-      "id": "6b2775fe52cd",
-      "title": "Rove on GOP maintaining Senate control in midterms: ‘It could be close’",
-      "url": "https://thehill.com/homenews/campaign/5730146-rove-warns-republicans-midterm-elections/",
-      "source": "The Hill",
-      "published": "2026-02-09T20:51:54.000Z",
-      "description": "Republican strategist Karl Rove said that the GOP may risk losing control of the Senate in next year’s midterms as the party faces rocky political territory. “Well, it could be close. I mean, first of all, remember, we have Maine — is critical to us. The reelection of [Sen.] Susan Collins [(R-Maine)], she ran not…",
-      "keywords": [
-        "election",
-        "midterm"
-      ],
-      "significance": 1,
-      "reason": "This is routine political commentary about midterm election prospects with no direct bearing on democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-10T00:14:58.461Z"
-    },
-    {
-      "id": "6d0972edde15",
-      "title": "Raskin said unredacted Epstein files indicate DOJ improperly shielded names",
-      "url": "https://thehill.com/homenews/house/5730137-raskin-unredacted-epstein-files/",
-      "source": "The Hill",
-      "published": "2026-02-09T20:21:33.000Z",
-      "description": "Rep. Jamie Raskin (Md.), the top Democrat on the House Judiciary Committee, said after reviewing the unredacted Epstein files that the Justice Department (DOJ) appears to have flouted the law when concealing various names in documents. Lawmakers on Monday were permitted for the first time to review the unredacted versions of all DOJ files related…",
-      "keywords": [
-        "DOJ",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 6,
-      "reason": "Allegations of DOJ impropriety in document handling raise concerns about institutional independence and oversight, but lack confirmed systemic erosion without broader institutional action.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-10T00:15:00.773Z"
-    },
-    {
-      "id": "c74100b08c13",
-      "title": "Tulsi Gabbard to testify at Senate Intelligence Committee amid election probe concerns",
-      "url": "https://www.cnbc.com/2026/02/09/tulsi-gabbard-testify-senate-intelligence-fulton-county-election.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-09T23:14:34.000Z",
-      "description": "Director of National Intelligence Tulsi Gabbard has said she was at a Georgia election center during an FBI raid at the direction of President Trump.",
-      "keywords": [
-        "election",
-        "FBI",
-        "raid",
-        "gabbard",
-        "intelligence",
-        "national intelligence",
-        "georgia election",
-        "trump"
-      ],
-      "significance": 6,
-      "reason": "A DNI's presence at an FBI raid directed by the President raises concerns about DOJ/FBI independence and potential political influence on election investigations, warranting Senate oversight but lacking evidence of institutional breach yet.",
-      "categories": [
-        "DOJ independence",
-        "FBI independence",
-        "congressional oversight",
-        "election infrastructure"
-      ],
-      "scoredAt": "2026-02-10T00:15:01.219Z"
-    },
-    {
       "id": "6ae19cf31e02",
       "title": "WATCH: Senate convenes as Democrats and White House trade offers over DHS funding",
       "url": "https://www.pbs.org/newshour/politics/watch-senate-convenes-as-democrats-and-white-house-trade-offers-over-dhs-funding",
@@ -488,25 +32,6 @@
       "reason": "This is routine diplomatic news involving foreign policy and trade agreements with no direct implications for U.S. domestic democratic checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-10T06:22:28.167Z"
-    },
-    {
-      "id": "f536cd836a1c",
-      "title": "Tamara Keith and Amy Walter on Trump's low approval ratings",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-low-approval-ratings",
-      "source": "PBS NewsHour",
-      "published": "2026-02-09T23:25:26.000Z",
-      "description": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including a new poll showing what Americans think of President Trump and his policies, how it will influence midterm voters and Trump's racist post on social media.",
-      "keywords": [
-        "voter",
-        "midterm",
-        "trump"
-      ],
-      "significance": 3,
-      "reason": "This is routine political commentary analyzing polling data and public opinion rather than reporting on institutional actions or democratic guardrails.",
-      "categories": [
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-10T06:22:28.215Z"
     },
     {
       "id": "778d8f227094",
@@ -810,21 +335,6 @@
       "scoredAt": "2026-02-10T06:22:33.457Z"
     },
     {
-      "id": "1f8810cb790d",
-      "title": "House overwhelmingly passes sweeping bipartisan housing package",
-      "url": "https://thehill.com/homenews/house/5730206-house-passes-bipartisan-housing-package/",
-      "source": "The Hill",
-      "published": "2026-02-10T00:06:26.000Z",
-      "description": "The House on Monday overwhelmingly passed a bipartisan, comprehensive housing package aimed at ameliorating the affordability crisis in the U.S. and increasing homeownership.  The legislation, dubbed the Housing for the 21st Century Act, passed the lower chamber by a vote of 390-9. It is sponsored by House Financial Services Committee Chair French Hill (R-Ark.) and ranking…",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "Routine legislative action on housing policy with no direct implications for democratic checks and balances, institutional independence, or democratic integrity.",
-      "categories": [],
-      "scoredAt": "2026-02-10T06:22:33.398Z"
-    },
-    {
       "id": "7977d0c7129e",
       "title": "'Despicable and reprehensible': China lashes out at UK expansion of visa scheme following Jimmy Lai conviction",
       "url": "https://www.cnbc.com/2026/02/10/china-uk-hong-kong-visa-jimmy-lai-sentencing-visa-bno.html",
@@ -1089,48 +599,6 @@
       "scoredAt": "2026-02-10T12:13:22.855Z"
     },
     {
-      "id": "1cb4913447b8",
-      "title": " Jury convicts 2 in signature scandal that doomed 2022 Michigan candidates for governor",
-      "url": "https://abcnews.go.com/Politics/wireStory/jury-convicts-2-signature-scandal-doomed-2022-michigan-130008412",
-      "source": "ABC News",
-      "published": "2026-02-09T23:57:44.000Z",
-      "description": "Two people have been convicted of forgery and other crimes in an election petition scandal in Michigan",
-      "keywords": [
-        "election"
-      ],
-      "significance": 3,
-      "reason": "This is a routine criminal conviction involving election petition fraud that was caught and prosecuted through normal legal processes, demonstrating the system's ability to address electoral crimes.",
-      "categories": [
-        "election infrastructure"
-      ],
-      "scoredAt": "2026-02-10T12:13:23.977Z"
-    },
-    {
-      "id": "67ecb95e0413",
-      "title": " Gabbard's office warns attorney against sharing classified complaint with Congress",
-      "url": "https://abcnews.go.com/Politics/wireStory/gabbards-office-warns-attorney-sharing-classified-complaint-congress-130008283",
-      "source": "ABC News",
-      "published": "2026-02-09T23:09:37.000Z",
-      "description": "The general counsel for Director of National Intelligence Tulsi Gabbard is warning the attorney for an anonymous government employee not to share a top-secret complaint about Gabbard directly with members of Congress",
-      "keywords": [
-        "ICE",
-        "gabbard",
-        "intelligence",
-        "national intelligence",
-        "classified"
-      ],
-      "significance": 8,
-      "reason": "Attempt to obstruct statutory whistleblower protections and congressional oversight of intelligence leadership represents significant institutional threat to democratic checks.",
-      "categories": [
-        "DOJ independence",
-        "intelligence community integrity",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-10T12:13:24.458Z",
-      "digestedAt": "2026-02-11T00:20:28.315Z"
-    },
-    {
       "id": "d08acc000bc3",
       "title": "Europe's leaders are deeply unpopular",
       "url": "https://www.axios.com/2026/02/10/europe-leadership-crisis-starmer-macron-merz",
@@ -1181,44 +649,6 @@
       "reason": "This article concerns private sector competition between AI companies and has no relevance to U.S. democratic institutions, governmental checks and balances, or constitutional governance.",
       "categories": [],
       "scoredAt": "2026-02-10T12:13:24.258Z"
-    },
-    {
-      "id": "74b0e43bbaf6",
-      "title": "Epstein file review yields 6 new \"likely incriminated\" men, lawmakers say",
-      "url": "https://www.axios.com/2026/02/09/epstein-files-unredacted-doj-massie-khanna",
-      "source": "Axios",
-      "published": "2026-02-09T23:19:05.000Z",
-      "description": "The Justice Department redacted the names of at least six men who are \"likely incriminated\" by their inclusion in the Epstein files, Reps. Thomas Massie (R-Ky.) and Ro Khanna (D-Calif.) said after reviewing unredacted versions of documents related to Jeffrey Epstein. \nWhy it matters: The lawmakers said they want to allow DOJ time to further unredact those files, but have also put sharing the names on the House floor on the table. Association with Epstein has plagued powerful people across the U.",
-      "keywords": [
-        "DOJ",
-        "attorney general",
-        "FBI",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "Raises legitimate oversight questions about DOJ transparency and potential political pressure, but lacks evidence of systematic institutional erosion or unprecedented democratic threat.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-10T12:13:25.896Z"
-    },
-    {
-      "id": "833b8dd51910",
-      "title": "Say goodbye to free ChatGPT with no ads",
-      "url": "https://www.axios.com/2026/02/09/chatgpt-ads-testing-go-free",
-      "source": "Axios",
-      "published": "2026-02-09T19:00:20.000Z",
-      "description": "ChatGPT is testing ads for some U.S. users on both the free and Go subscription tiers, its most affordable offerings.   \nWhy it matters: It could be the beginning of the end of ad-free ChatGPT.\n\nWhat they're saying: \"Our goal is for ads to support broader access to more powerful ChatGPT features while maintaining the trust people place in ChatGPT for important and personal tasks,\" an OpenAI spokesperson told Axios. \n\nThe company says ads will not influence ChatGPT's answers, which it says will r",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 1,
-      "reason": "This article concerns a private company's advertising policy for its commercial product and has no relationship to U.S. democratic institutions, governmental checks and balances, or constitutional processes.",
-      "categories": [],
-      "scoredAt": "2026-02-10T12:13:25.845Z"
     },
     {
       "id": "39039dd957b3",
@@ -49548,8 +48978,733 @@
         "corruption & self-dealing"
       ],
       "scoredAt": "2026-03-11T18:14:56.451Z"
+    },
+    {
+      "id": "96646300337f",
+      "title": "U.S. to release 172 million barrels of oil from Strategic Petroleum Reserve as prices surge",
+      "url": "https://www.pbs.org/newshour/politics/u-s-to-release-172-million-barrels-of-oil-from-strategic-petroleum-reserve-as-prices-surge",
+      "source": "PBS NewsHour",
+      "published": "2026-03-12T00:02:34.000Z",
+      "description": "Energy Secretary Chris Wright said Wednesday that the United States will release 172 million barrels from the Strategic Petroleum Reserve as part of the International Energy Agency's efforts to combat steep oil prices amid the Iran war.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article concerns routine energy policy and commodity market management with no direct implications for democratic checks and balances or institutional independence.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:20.352Z"
+    },
+    {
+      "id": "4187403e68ea",
+      "title": "Trump administration starts new process to try to replace tariffs struck down by Supreme Court",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-starts-new-process-to-try-to-replace-tariffs-struck-down-by-supreme-court",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T23:54:03.000Z",
+      "description": "The Trump administration on Wednesday opened a new trade investigation into manufacturing in foreign countries — an effort that comes after the Supreme Court struck down President Donald Trump's previous use of tariffs by declaring an economic emergency.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "The article describes a routine executive action on trade policy following a judicial ruling, without evidence of circumventing checks or institutional erosion, though it does involve the executive testing boundaries after court rejection.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-12T00:09:20.683Z"
+    },
+    {
+      "id": "f2c6a1746c24",
+      "title": "How Trump's SAVE Act would reshape voting and why critics are concerned",
+      "url": "https://www.pbs.org/newshour/show/how-trumps-save-act-would-reshape-voting-and-why-critics-are-concerned",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T22:30:46.000Z",
+      "description": "President Trump vowed this week not to sign any bills into law until a sweeping voting bill is passed. White House correspondent Liz Landers takes a closer look at its prospects.",
+      "keywords": [
+        "voting",
+        "white house",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Presidential leverage to force passage of a voting bill represents a significant institutional action with major implications for election infrastructure and congressional oversight dynamics.",
+      "categories": [
+        "election infrastructure",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T00:09:20.471Z"
+    },
+    {
+      "id": "1de7904f2a5f",
+      "title": "Smartmatic says Trump's 'campaign of retribution' is driving criminal prosecution",
+      "url": "https://www.pbs.org/newshour/politics/smartmatic-says-trumps-campaign-of-retribution-is-driving-criminal-prosecution",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T20:21:34.000Z",
+      "description": "Voting technology firm Smartmatic asked a federal judge to dismiss a criminal money laundering indictment saying the case is political retaliation tied to President Donald Trump's baseless claims about the 2020 election.",
+      "keywords": [
+        "election",
+        "voting",
+        "trump",
+        "retribution"
+      ],
+      "significance": 7,
+      "reason": "Raises significant concerns about political retribution and judicial independence by suggesting criminal prosecutions may be weaponized against entities that became targets of false election claims.",
+      "categories": [
+        "political retribution",
+        "judicial independence",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-12T00:09:20.661Z"
+    },
+    {
+      "id": "bbadddb46e3e",
+      "title": "Trump has one prescription for the midterms. House Republicans have another",
+      "url": "https://www.pbs.org/newshour/politics/trump-has-one-prescription-for-the-midterms-house-republicans-have-another",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T19:36:44.000Z",
+      "description": "As House Republicans close out their annual ideas conference on Wednesday, an election year disconnect is emerging.",
+      "keywords": [
+        "election",
+        "midterm",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This article reports routine political disagreement between Trump and House Republicans on midterm strategy, without describing institutional actions or threats to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:20.432Z"
+    },
+    {
+      "id": "5f9c6b24d237",
+      "title": "WATCH: Asked what U.S. needs to do to end Iran war, Trump says 'more of the same'",
+      "url": "https://www.pbs.org/newshour/politics/watch-asked-what-u-s-needs-to-do-to-end-iran-war-trump-says-more-of-the-same",
+      "source": "PBS NewsHour",
+      "published": "2026-03-11T18:22:01.000Z",
+      "description": "With neither side budging, the war is now on an unpredictable path and a credible endgame is unclear.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine foreign policy commentary on Iran that does not directly address U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:21.520Z"
+    },
+    {
+      "id": "bc54fcc23fc9",
+      "title": "",
+      "url": "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html",
+      "source": "CNN Politics",
+      "published": null,
+      "description": "Vice President Kamala Harris, a former US senator from California who previously served as the state's attorney general, could be the first Black woman and Asian American to lead a major party ticket after receiving President Joe Biden's support to become the next Democratic presidential nominee.",
+      "keywords": [
+        "attorney general",
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a presidential nomination endorsement with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:21.402Z"
+    },
+    {
+      "id": "e9e69d934e48",
+      "title": "Trump launches the next phase of his trade wars with new investigations of key partners",
+      "url": "https://www.nbcnews.com/business/economy/trump-trade-war-section-301-rcna263026",
+      "source": "NBC News",
+      "published": "2026-03-11T23:12:48.000Z",
+      "description": "The Trump administration will launch a wave of tariff-related investigations against 16 U.S. trade partners, the next phase in a sweeping global trade war",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "Trade policy investigations, while potentially economically significant, represent routine executive branch action within the president's delegated authority and do not directly implicate core democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:21.606Z"
+    },
+    {
+      "id": "e14b6bfdf8c4",
+      "title": "Trump tries to navigate Iran war and rising gas prices at first rally since strikes began",
+      "url": "https://www.nbcnews.com/politics/donald-trump/iran-war-gas-prices-first-rally-strikes-began-rcna263001",
+      "source": "NBC News",
+      "published": "2026-03-11T23:53:50.000Z",
+      "description": "President Donald Trump delivered a mixed message about the U.S.-Israeli war with Iran on Wednesday in his first remarks at a political rally since strikes began less than two weeks ago.\"You know, you never want to say too early you won,\" Trump told supporters at a packaging plant in Hebron, Kentucky.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine campaign rally coverage focused on Trump's messaging about foreign policy and economic issues, with no direct relevance to institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:22.643Z"
+    },
+    {
+      "id": "d02383e22ef3",
+      "title": "Trump calls Rep. Thomas Massie a 'disaster' at Kentucky rally",
+      "url": "https://www.nbcnews.com/now/video/trump-calls-rep-thomas-massie-a-disaster-at-kentucky-rally-259156549806",
+      "source": "NBC News",
+      "published": "2026-03-11T22:24:53.000Z",
+      "description": "President Donald Trump called Rep. Thomas Massie, R-Ky., a \"disaster\" during a speech at Verst Logistics in Hebron, Kentucky. The president has long feuded with Massie over the congressman voting against some of his policies.",
+      "keywords": [
+        "voting",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary involving a public dispute between two elected officials with no institutional, legal, or structural implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:22.577Z"
+    },
+    {
+      "id": "8a932a3690dc",
+      "title": "GOP Sen. Cramer defends filibuster after Cornyn calls for its end",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-cramer-defends-filibuster-after-cornyn-calls-for-its-end-259146309640",
+      "source": "NBC News",
+      "published": "2026-03-11T20:57:33.000Z",
+      "description": "In an interview with Meet the Press NOW, Sen. Kevin Cramer (R-N.D.) says he believes in “protecting the power of the Senate” by keeping the filibuster as President Donald Trump continues to pressure Republicans to eliminate it. NBC News’ Ryan Nobles reports on the ongoing fight in Congress over the SAVE Act as Sen. John Cornyn (R-Texas) reverses himself on the filibuster after years of unflinching support.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Intra-party disagreement on filibuster represents notable institutional debate affecting congressional oversight and legislative process, but lacks the urgency or precedent of direct institutional erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T00:09:22.572Z"
+    },
+    {
+      "id": "2dad81c4f877",
+      "title": "John Bolton calls war with Iran ‘Trump’s self-inflicted wound’ amid economic concerns",
+      "url": "https://www.nbcnews.com/meet-the-press/video/john-bolton-calls-war-in-iran-trump-s-self-inflicted-wound-amid-economic-concerns-259142725864",
+      "source": "NBC News",
+      "published": "2026-03-11T20:34:36.000Z",
+      "description": "Former Trump national security adviser John Bolton tells Meet the Press NOW he believes President Trump has “not nearly enough” made the case for America’s conflict with Iran. NBC News’ Julie Tsirkin, Brian Cheung, Keir Simmons and Courney Kube report on the war’s impact on rising oil and gas prices as the president touts his economic agenda on the road.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is commentary and opinion from a former official about foreign policy and economic impacts, lacking institutional action or structural implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:22.544Z"
+    },
+    {
+      "id": "6ecef6942e4f",
+      "title": "TSA worker says his family is paying the price for his working without pay",
+      "url": "https://www.nbcnews.com/news/us-news/tsa-worker-says-family-paying-price-working-pay-rcna263015",
+      "source": "NBC News",
+      "published": "2026-03-11T20:47:46.000Z",
+      "description": "Facing eviction, mounting bills, and with no paycheck in sight, a desperate Transportation Security Administration worker based at an airport in upstate New York sent an SOS to the two senators who represent his state.“I basically asked them for help,” Anthony Riley, a 58-year-old married father of three, told NBC News on Wednesday.",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 5,
+      "reason": "While the human suffering reflects institutional dysfunction affecting federal workers, the article focuses on individual hardship rather than systemic erosion of democratic checks and balances.",
+      "categories": [
+        "federal programs & agencies",
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T00:09:23.513Z"
+    },
+    {
+      "id": "bd59734ce185",
+      "title": "Fetterman calls Trump's criticism of mail-in voting \"ridiculous\"",
+      "url": "https://www.cbsnews.com/news/john-fetterman-calls-trump-criticism-of-mail-in-voting-ridiculous-save-america-act/",
+      "source": "CBS News",
+      "published": "2026-03-12T00:04:56.000Z",
+      "description": "\"The president is constantly critical on mail-in voting, and that's ridiculous,\" Democratic Sen. John Fetterman said Wednesday.",
+      "keywords": [
+        "voting",
+        "mail-in voting",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary where a senator responds to the president's stated position on mail-in voting, lacking evidence of institutional action or policy change.",
+      "categories": [
+        "election infrastructure"
+      ],
+      "scoredAt": "2026-03-12T00:09:23.572Z"
+    },
+    {
+      "id": "de66f55c75cd",
+      "title": "Officials downplay risk of Iranian drone attacks off California after FBI memo",
+      "url": "https://www.cbsnews.com/news/iran-drone-attacks-california-memo-threat/",
+      "source": "CBS News",
+      "published": "2026-03-12T00:04:44.000Z",
+      "description": "FBI memo warning that Iran may try to launch drones at California in a seaborne \"surprise attack\" raised concern Wednesday — but officials tell CBS News there is no known, specific threat underpinning it.",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 3,
+      "reason": "This is a routine national security news report about threat assessment and official communication with no indication of democratic institutional erosion or checks and balances failure.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:23.477Z"
+    },
+    {
+      "id": "f88b91532912",
+      "title": "Trump releasing 172M barrels of oil from reserve as prices soar amid Iran war",
+      "url": "https://www.cbsnews.com/news/trump-oil-strategic-petroleum-reserve-iran-war/",
+      "source": "CBS News",
+      "published": "2026-03-12T00:00:42.000Z",
+      "description": "President Trump ordered the release of 172 million barrels of oil from the U.S.'s Strategic Petroleum Reserve on Wednesday, after oil prices rocketed to their highest levels in years amid the U.S.'s war with Iran.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine energy policy decision with no direct bearing on constitutional checks and balances, democratic institutions, or oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:23.400Z"
+    },
+    {
+      "id": "c69578e646a9",
+      "title": "Trump says rising oil prices are \"just a matter of war\" and will come down",
+      "url": "https://www.cbsnews.com/video/trump-says-rising-oil-prices-are-just-a-matter-of-war-and-will-come-down/",
+      "source": "CBS News",
+      "published": "2026-03-11T23:53:00.000Z",
+      "description": "President Trump is working to quell fears about the war with Iran might affect the economy, predicting that increased oil prices will soon be coming down. Nancy Cordes has details.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political commentary on economic predictions related to foreign policy, with no direct bearing on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:23.566Z"
+    },
+    {
+      "id": "75103762bce7",
+      "title": "Trump administration takes steps to impose new tariffs",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-301-investigation-trade/",
+      "source": "CBS News",
+      "published": "2026-03-11T23:31:09.000Z",
+      "description": "The Supreme Court ruled in February that the president lacks the authority to impose unilateral tariffs using an emergency powers law.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "While tariff policy has economic significance, this article describes routine executive action within existing legal boundaries established by the Supreme Court's February ruling, posing no direct threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:24.463Z"
+    },
+    {
+      "id": "540795b88289",
+      "title": "Democratic Sen. John Fetterman says war with Iran has been \"effective\"",
+      "url": "https://www.cbsnews.com/news/fetterman-war-iran-been-effective/",
+      "source": "CBS News",
+      "published": "2026-03-11T23:24:51.000Z",
+      "description": "\"I think, overall, what's accomplished is remarkable,\" Sen. John Fetterman told CBS News chief White House correspondent Major Garrett in an interview Wednesday.",
+      "keywords": [
+        "white house"
+      ],
+      "significance": 1,
+      "reason": "A senator's opinion on foreign military effectiveness is routine political commentary with no direct bearing on democratic institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:24.290Z"
+    },
+    {
+      "id": "e1d5d2195395",
+      "title": "After Trump's call for Massie defeat, outside groups spending $5M to try ousting him",
+      "url": "https://www.cbsnews.com/news/trump-thomas-massies-defeat-5-million-may-primary/",
+      "source": "CBS News",
+      "published": "2026-03-11T21:17:30.000Z",
+      "description": "President Trump's scorn towards GOP Rep. Thomas Massie of Kentucky is a key factor in the May primary. He has called Massie the \"worst Republican congressman\" in Congress' history",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While Trump's influence over primary spending reflects concerning partisan pressure, this represents typical political opposition rather than a systemic threat to institutional checks and balances.",
+      "categories": [
+        "political_retribution"
+      ],
+      "scoredAt": "2026-03-12T00:09:24.691Z"
+    },
+    {
+      "id": "7cbbde670159",
+      "title": "Trump asks Supreme Court to let it end legal protections for 350,000 Haitians",
+      "url": "https://www.cbsnews.com/news/trump-supreme-court-haiti-temporary-protected-status/",
+      "source": "CBS News",
+      "published": "2026-03-11T19:51:35.000Z",
+      "description": "The Trump administration asked the Supreme Court to clear the way for it to end temporary deportation protections for more than 350,000 Haitian immigrants.",
+      "keywords": [
+        "deportation",
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "While this represents a significant policy shift affecting a large vulnerable population, it operates within executive authority over immigration policy and does not directly target core democratic institutions or checks and balances mechanisms.",
+      "categories": [
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-12T00:09:24.516Z"
+    },
+    {
+      "id": "cdaadbb2b9c0",
+      "title": "Trump will tap oil reserve as Iran war drives up gas prices",
+      "url": "https://www.axios.com/2026/03/11/trump-strategic-oil-reserve-gas-prices-iran-war",
+      "source": "Axios",
+      "published": "2026-03-11T23:37:30.000Z",
+      "description": "President Trump said Wednesday he will tap the nation's Strategic Petroleum Reserve to counter climbing gasoline prices as the Iran war disrupts global oil shipments.\nWhy it matters: Consumers are seeing significant price jumps at the pump — and Republicans recognize offsetting that increase is crucial ahead of the 2026 midterm elections.  \n\nWhat he's saying: \"We'll do that, and then we'll fill it up. I filled it up once, and I'll fill it up again,\" Trump said during a visit to Ohio and Kentucky",
+      "keywords": [
+        "election",
+        "midterm",
+        "ICE",
+        "trump",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine policy decision regarding energy reserves with no direct bearing on institutional checks and balances, separation of powers, or democratic safeguards.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:24.350Z"
+    },
+    {
+      "id": "3cce2b7e4ffd",
+      "title": "Democrats drafting AI guardrails for autonomous weapons, domestic spying",
+      "url": "https://www.axios.com/2026/03/11/ai-autonomous-weapons-domestic-spying-protections-democrats",
+      "source": "Axios",
+      "published": "2026-03-11T22:50:02.000Z",
+      "description": "Senate Democrats are drafting legislation to codify federal guardrails around the use of AI in fully autonomous weapons and domestic mass surveillance, Axios has learned.\nWhy it matters: The issue is at the heart of the Trump administration's standoff with Anthropic over the government's access to the company's AI models.\n\nSen. Adam Schiff (D-Calif.) is writing legislation that he said would place \"commonsense safeguards\" around the use of AI in warfare and surveillance, adding that there's an \"",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Proposed legislation establishing guardrails on AI use in autonomous weapons and domestic surveillance directly addresses institutional checks on executive power and civil liberties protections.",
+      "categories": [
+        "congressional oversight",
+        "civil service independence",
+        "intelligence community integrity",
+        "immigration & civil rights"
+      ],
+      "scoredAt": "2026-03-12T00:09:25.972Z"
+    },
+    {
+      "id": "75cf1b32ff7d",
+      "title": "After Iran war panic, U.S. scales back Middle East evacuations as demand drops",
+      "url": "https://www.axios.com/2026/03/11/flights-iran-war-state-department-middle-east",
+      "source": "Axios",
+      "published": "2026-03-11T19:53:05.000Z",
+      "description": "More than 43,000 American citizens have safely returned to the U.S. from the Middle East since the U.S. struck Iran 11 days ago, the State Department said Wednesday. \nWhy it matters: Despite widespread panic among Americans abroad last week after the State Department encouraged citizens to immediately evacuate various countries, the agency now says its scaling back assistance due to declining demand. \n\nWhat they're saying: State Department Assistant Secretary Dylan Johnson said in a statement We",
+      "keywords": [
+        "johnson",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is routine news about State Department evacuation logistics following a geopolitical incident, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:25.922Z"
+    },
+    {
+      "id": "acbdd6957a19",
+      "title": "Senate panel highlights debt concerns as Iran expenses mount",
+      "url": "https://thehill.com/homenews/senate/5779845-senate-hearing-fiscal-responsibility/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:55:07.000Z",
+      "description": "Senators from both sides of the aisle and witnesses expressed alarm at the rising national debt during a Senate Finance subcommittee hearing on Wednesday, warning that future generations of Americans will pay the price for bloated budgets.  “Although both sides claim to be concerned about our dire fiscal situation, neither side, and let me emphasize…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "Routine legislative hearing on fiscal policy with bipartisan concern about national debt, lacking institutional action or checks-and-balances implications.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:25.570Z"
+    },
+    {
+      "id": "2bb0658ddf1e",
+      "title": "Trump touts Iran ‘excursion,’ hits GOP’s Massie in first rally since launching strikes",
+      "url": "https://thehill.com/homenews/administration/5779968-trump-iran-massie-kentucky-rally/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:50:35.000Z",
+      "description": "President Trump used his first campaign-style rally since the U.S. launched strikes against Tehran to knock Rep. Thomas Massie (R-Ky.) in his own district and laud what he called an “excursion” in Iran. “We did an excursion. You know what an excursion is? We had to take a little trip to get rid of some…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Campaign rally commentary on military action and intra-party political criticism lacks substantive information about institutional checks, policy changes, or democratic erosion.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:25.553Z"
+    },
+    {
+      "id": "3f932fed8ecf",
+      "title": "Mullin confirmation hearing to lead DHS formally scheduled",
+      "url": "https://thehill.com/homenews/senate/5779964-markwayne-mullin-dhs-confirmation/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:48:47.000Z",
+      "description": "Sen. Markwayne Mullin’s (R-Okla.) confirmation hearing to become the next Department of Homeland Security (DHS) secretary is scheduled for next Wednesday.  President Trump appointed the lawmaker to take over the role at the end of March after firing DHS Secretary Kristi Noem last week. Mullin is set to appear before the Senate Committee on Homeland…",
+      "keywords": [
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "A routine confirmation hearing announcement for a cabinet position represents standard executive-legislative process, though DHS leadership changes warrant monitoring across multiple democratic categories.",
+      "categories": [
+        "congressional oversight",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-12T00:09:25.789Z"
+    },
+    {
+      "id": "c0d89ed59485",
+      "title": "Former embattled Democratic mayor in Illinois running as GOP candidate in Georgia",
+      "url": "https://thehill.com/homenews/campaign/5779873-embattled-mayor-running-republican/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:43:44.000Z",
+      "description": "An embattled former Democratic mayor is running for an open county commission seat in Georgia as a Republican. Tiffany Henyard, the former mayor of Dolton, Ill., is running as the lone Republican in the Fulton County Commission race to represent southern portions of the county in District 5. She has four Democratic opponents. Henyard was the…",
+      "keywords": [
+        "fulton county"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a local candidate's party switch and election bid with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:26.984Z"
+    },
+    {
+      "id": "26b2795b1b8c",
+      "title": "In Kentucky, Trump tees off on Massie and urges his ouster: ‘The worst’",
+      "url": "https://thehill.com/homenews/house/5779952-trump-massie-kentucky-rally/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:39:44.000Z",
+      "description": "President Trump lashed out at Rep. Thomas Massie (Ky.) on Wednesday, accusing the seven-term Republican of opposing the president’s agenda and urging Kentucky voters to replace him in Congress. In a visit to a packaging plant in Hebron, Ky., which lies in Massie’s 4th Congressional District, Trump said Massie’s vote against the president’s One Big…",
+      "keywords": [
+        "voter",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "While the article documents Trump's criticism of a political opponent, this represents routine partisan rhetoric and campaign activity rather than an institutional threat to democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:26.970Z"
+    },
+    {
+      "id": "f43e6b03525e",
+      "title": "Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax",
+      "url": "https://thehill.com/newsletters/technology/5779861-ro-khanna-faces-primary-challenge-silicon-valley-backlash-over-wealth-tax/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:27:55.000Z",
+      "description": "{beacon} Technology Technology   The Big Story  Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax Rep. Ro Khanna (D-Calif.), once championed by Silicon Valley, is facing a primary challenge from a tech entrepreneur seeking to capitalize on the industry’s growing antipathy toward the progressive Democrat after he voiced support for a controversial…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 2,
+      "reason": "This is routine electoral politics coverage involving a primary challenge and policy disagreement, with no direct impact on institutional checks and balances or democratic governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:26.802Z"
+    },
+    {
+      "id": "df8abfa0d1f9",
+      "title": "Senate Democrats press for investigation into moves to ease Russia oil sanctions",
+      "url": "https://thehill.com/homenews/senate/5779882-democrats-demand-answers-trump-russia/",
+      "source": "The Hill",
+      "published": "2026-03-11T22:14:06.000Z",
+      "description": "Democratic senators are demanding answers after the Trump administration moved to ease sanctions on Russian oil reserves in an attempt to offset the impact of the U.S.-Israeli strikes on global oil supplies.  The minority members on the Senate Committee on Banking, Housing and Urban Affairs requested a congressional hearing with Treasury Secretary Scott Bessent by…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "Congressional oversight activity on foreign policy sanctions is notable but represents routine legislative inquiry rather than institutional crisis or unprecedented erosion of checks and balances.",
+      "categories": [
+        "congressional oversight",
+        "corruption & self-dealing"
+      ],
+      "scoredAt": "2026-03-12T00:09:26.868Z"
+    },
+    {
+      "id": "f65b04c510fa",
+      "title": "US to release 172M barrels from strategic oil reserve",
+      "url": "https://thehill.com/policy/energy-environment/5779863-us-to-release-oil-from-strategic-reserve-trump-says/",
+      "source": "The Hill",
+      "published": "2026-03-11T21:53:15.000Z",
+      "description": "President Trump plans to tap into the U.S.’s oil stockpile, releasing 172 million barrels of oil. Asked about the Strategic Petroleum Reserve during a visit to Ohio, Trump told TV station Local 12, “I filled it up once, and I’ll fill it up again, but right now, we’ll reduce it a little bit, and that brings the…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is a routine energy policy decision with no direct bearing on democratic checks and balances, institutional independence, or constitutional oversight mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:26.734Z"
+    },
+    {
+      "id": "3e36128f6c4e",
+      "title": "Oz responds to attendee who collapsed at Trump rally",
+      "url": "https://thehill.com/homenews/administration/5779859-mehmet-oz-helps-collapsed-woman/",
+      "source": "The Hill",
+      "published": "2026-03-11T21:46:30.000Z",
+      "description": "Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services (CMS), jumped in with first responders to help a woman who appeared to collapse during President Trump’s rally in Hebron, Ky., on Wednesday. Oz, who is a physician, was seen with first responders attending to the woman who was on stage behind Trump during…",
+      "keywords": [
+        "ICE",
+        "trump",
+        "medicaid"
+      ],
+      "significance": 1,
+      "reason": "This is a routine news story about a government official providing medical assistance at a public event, with no implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:27.747Z"
+    },
+    {
+      "id": "cd2425fcdd8e",
+      "title": "Banks evacuate, close offices in Qatar, Dubai after Iran threatens attacks",
+      "url": "https://thehill.com/business/5779706-iran-qatar-financial-institutions/",
+      "source": "The Hill",
+      "published": "2026-03-11T21:15:25.000Z",
+      "description": "Several banks urged their employees to evacuate offices in Qatar and the United Arab Emirates on Wednesday as Iran threatens to launch strikes on financial institutions.  HSBC has closed all its branches in Qatar until further notice, citing safety precautions in a text message sent to clients, Reuters reported. Citigroup and Standard Chartered also told…",
+      "keywords": [
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This article reports on routine international business security decisions in response to geopolitical threats and has no bearing on U.S. democratic institutions, checks and balances, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:27.885Z"
+    },
+    {
+      "id": "4e248eb71aca",
+      "title": "Pelosi backs Dunn for Hoyer House seat in Maryland",
+      "url": "https://thehill.com/homenews/campaign/5779773-pelosi-endorses-harry-dunn/",
+      "source": "The Hill",
+      "published": "2026-03-11T21:13:06.000Z",
+      "description": "Former House Speaker Nancy Pelosi (D-Calif.) on Wednesday endorsed former Capitol Police officer Harry Dunn in the race to succeed retiring Rep. Steny Hoyer (D) in Maryland’s 5th Congressional District. Dunn, who defended Pelosi’s office during the Jan. 6, 2021, attack on the Capitol, is mounting his second run for Congress after losing to Rep.…",
+      "keywords": [
+        "ICE",
+        "speaker"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about a primary endorsement with no direct implications for institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:27.764Z"
+    },
+    {
+      "id": "98e76b3c39f2",
+      "title": "Cornyn denies flipping on filibuster to win Trump endorsement",
+      "url": "https://thehill.com/homenews/senate/5779742-cornyn-denies-filibuster-endorsement/",
+      "source": "The Hill",
+      "published": "2026-03-11T20:53:00.000Z",
+      "description": "Sen. John Cornyn (R-Texas) denied Wednesday that he reversed his stance on the Senate filibuster rules to curry favor with President Trump amid speculation that he made the switch in order to win the president’s coveted endorsement in his competitive reelection primary. “I’d say that’s not true,” Cornyn told an NBC News reporter when asked…",
+      "keywords": [
+        "election",
+        "trump"
+      ],
+      "significance": 3,
+      "reason": "This is a routine political denial regarding campaign strategy and personal motivation, without evidence of institutional breakdown or systematic checks and balances erosion.",
+      "categories": [
+        "congressional oversight"
+      ],
+      "scoredAt": "2026-03-12T00:09:28.971Z"
+    },
+    {
+      "id": "5547e3d8984f",
+      "title": "Trump-Jeffrey Epstein ‘Titanic’ statue appears on National Mall",
+      "url": "https://thehill.com/blogs/in-the-know/5779731-trump-epstein-titanic-statue/",
+      "source": "The Hill",
+      "published": "2026-03-11T20:46:49.000Z",
+      "description": "A statue of President Trump and the convicted sex offender Jeffrey Epstein as the characters Jack and Rose from the movie “Titanic” has appeared on the National Mall. The statue depicts Trump as Jack and Epstein as Rose in a scene from the movie where Leonardo DiCaprio’s and Kate Winslet’s characters, who fall in love,…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is a protest art installation with no bearing on institutional checks and balances, democratic governance, or policy.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:27.714Z"
+    },
+    {
+      "id": "c1d0b03b17e0",
+      "title": "Trump support for warrantless spy powers could jeopardize Democratic backing",
+      "url": "https://thehill.com/policy/national-security/5779649-trump-fisa-702-warrantless-spy-powers-democrats/",
+      "source": "The Hill",
+      "published": "2026-03-11T20:27:07.000Z",
+      "description": "President Trump throwing his support behind renewing the U.S.’s warrantless surveillance powers could complicate efforts to secure Democratic support for reauthorizing the spy authority amid concerns the White House would abuse the tool. Section 702 of the Foreign Intelligence Surveillance Act (FISA) was renewed in 2024 with a vote that split not along party lines…",
+      "keywords": [
+        "intelligence",
+        "white house",
+        "trump"
+      ],
+      "significance": 7,
+      "reason": "Trump's support for warrantless surveillance powers under Section 702 represents a significant institutional challenge to congressional oversight and civil liberties protections, particularly given concerns about potential abuse of these tools against political opponents.",
+      "categories": [
+        "congressional oversight",
+        "intelligence community integrity",
+        "political retribution"
+      ],
+      "scoredAt": "2026-03-12T00:09:29.978Z"
+    },
+    {
+      "id": "44d54e5c91d7",
+      "title": "DHS asks Supreme Court to end Haitians’ temporary legal protections ",
+      "url": "https://thehill.com/regulation/court-battles/5779603-dhs-scotus-tps-haiti/",
+      "source": "The Hill",
+      "published": "2026-03-11T20:03:31.000Z",
+      "description": "The Trump administration has asked the Supreme Court to end temporary deportation protections extended to roughly 350,000 Haitians, intensifying a legal battle Wednesday that had already been brewing before the justices.  The Justice Department days earlier urged the justices to similarly end Syria’s Temporary Protected Status (TPS) designation. That case remains pending, too. In his latest plea, Solicitor General D. John Sauer warned that more cases are “waiting in the wings.” Beyond an emergen",
+      "keywords": [
+        "ICE",
+        "deportation",
+        "trump",
+        "EPA"
+      ],
+      "significance": 6,
+      "reason": "Notable executive action challenging longstanding immigration protections through courts, affecting institutional powers and civil rights with precedential implications, but within executive branch's formal authority to petition courts.",
+      "categories": [
+        "immigration & civil rights",
+        "judicial independence",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-12T00:09:30.169Z"
+    },
+    {
+      "id": "e7c2e764250c",
+      "title": "FBI warns Iran ‘aspired’ to strike California coast with drones",
+      "url": "https://thehill.com/homenews/state-watch/5779497-iran-threat-west-coast/",
+      "source": "The Hill",
+      "published": "2026-03-11T20:00:11.000Z",
+      "description": "The FBI recently warned California police departments of Iran potentially launching a retaliatory attack on the West Coast, according to multiple outlets Wednesday. The agency’s Joint Terrorism Task Force sent memos to police departments in late February that Iran allegedly “aspired to conduct a surprise attack using unmanned aerial vehicles from an unidentified vessel off…",
+      "keywords": [
+        "FBI",
+        "ICE",
+        "EPA"
+      ],
+      "significance": 2,
+      "reason": "This is a routine national security threat alert with no direct implications for democratic checks and balances, institutional independence, or governance structures.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:29.838Z"
+    },
+    {
+      "id": "807a21dac315",
+      "title": "Elon Musk still world’s richest man on Forbes Billionaires List",
+      "url": "https://thehill.com/business/5779004-elon-musk-still-worlds-richest-man-on-forbes-billionaires-list/",
+      "source": "The Hill",
+      "published": "2026-03-11T19:57:14.000Z",
+      "description": "Musk has increased his net worth to $839 billion in 2026.",
+      "keywords": [
+        "musk"
+      ],
+      "significance": 1,
+      "reason": "This is a routine business/wealth ranking article with no relevance to U.S. democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:30.001Z"
+    },
+    {
+      "id": "bc6a82070590",
+      "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others",
+      "url": "https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-11T23:48:34.000Z",
+      "description": "The Supreme Court, in a 6-3 ruling, said President Trump was not authorized by the International Emergency Economic Powers Act, IEEPA, to impose tariffs.",
+      "keywords": [
+        "ruling",
+        "trump",
+        "EPA"
+      ],
+      "significance": 4,
+      "reason": "While the Supreme Court's limitation on executive tariff authority represents an important judicial check on presidential power, trade policy does not directly implicate the 12 core democratic governance categories tracked, making this a notable but not urgent democratic concern.",
+      "categories": [
+        "judicial independence"
+      ],
+      "scoredAt": "2026-03-12T00:09:30.065Z"
+    },
+    {
+      "id": "ed33d50b99e2",
+      "title": "Iran Plotted to Attack West Coast, FBI Alert Reveals",
+      "url": "https://www.rollingstone.com/politics/politics-news/iran-plotted-attack-west-coast-fbi-alert-1235528741/",
+      "source": "Rolling Stone",
+      "published": "2026-03-11T20:02:46.000Z",
+      "description": "The threat of retaliation is real as the United States intensifies its war in the Middle East",
+      "keywords": [
+        "FBI"
+      ],
+      "significance": 2,
+      "reason": "Foreign threat reporting is routine national security news unrelated to domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-12T00:09:31.143Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-11T18:14:56.571Z"
+  "lastFetch": "2026-03-12T00:09:31.143Z"
 }
