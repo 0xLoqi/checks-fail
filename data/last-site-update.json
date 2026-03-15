@@ -1,92 +1,82 @@
 {
-  "timestamp": "2026-03-08T12:12:31.311Z",
-  "articleCount": 50,
+  "timestamp": "2026-03-15T12:13:59.906Z",
+  "articleCount": 42,
   "updates": {
     "statusChanges": [],
     "newIncidents": [
       {
-        "date": "Mar 03, 2026",
+        "date": "Mar 14, 2026",
         "severity": "crit",
-        "title": "Trump allies propose invoking emergency powers ahead of midterms",
-        "description": "Allies of President Trump are suggesting he invoke emergency powers to alter voting rules and deploy federal agents at polling locations ahead of the 2026 midterm elections, representing an unprecedented threat to election integrity. <a href=\"https://www.npr.org/2026/03/03/nx-s1-5727839/trumps-allies-suggest-he-invoke-emergency-powers-ahead-of-midterms\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "FCC chair threatens broadcast licenses after Trump criticizes Iran war coverage",
+        "description": "The FCC chair directly threatened to revoke broadcast licenses of news networks following President Trump's complaints about their coverage of the Iran conflict, representing a significant threat to press freedom through regulatory weaponization. <a href=\"https://www.cbsnews.com/news/fcc-brendan-carr-threat-news-networks-broadcast-license/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
-        "date": "Mar 03, 2026",
-        "severity": "crit",
-        "title": "GOP senators seek $200B tax cut without congressional approval",
-        "description": "Senators Ted Cruz and Tim Scott are asking the Treasury Department to approve a $200 billion tax cut through executive action, bypassing Congress's constitutional authority over taxation and spending. <a href=\"https://thehill.com/homenews/administration/5765607-gop-senators-propose-tax-cut/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "date": "Mar 04, 2026",
+        "date": "Mar 13, 2026",
         "severity": "warn",
-        "title": "DHS Inspector General reports systematic obstruction by Secretary Noem",
-        "description": "The Department of Homeland Security Inspector General alleges he has been \"systematically obstructed\" by Secretary Kristi Noem, directly threatening institutional oversight mechanisms. <a href=\"https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "Judge finds DOJ weaponized subpoenas against Fed chair Powell",
+        "description": "A federal judge issued a scathing ruling that the Trump administration weaponized DOJ subpoenas to pressure Federal Reserve chair Jerome Powell, tossing the subpoenas and finding significant separation of powers violations. <a href=\"https://www.axios.com/2026/03/13/fed-powell-trump-judge\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
-        "date": "Mar 07, 2026",
+        "date": "Mar 8, 2026",
         "severity": "warn",
-        "title": "Trump conducts military operations from Mar-a-Lago",
-        "description": "President Trump is conducting Iran war operations from his private Mar-a-Lago club rather than secure government facilities, raising serious concerns about classified information handling and chain of command integrity. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "Trump refuses to sign any bills until voting restriction legislation passes",
+        "description": "President Trump announced he will not sign any legislation into law until Congress passes the SAVE America Act, using executive veto power as leverage to force passage of voting restrictions and demanding elimination of the filibuster. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-says-will-not-sign-bills-america-act-passes-rcna262336\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
-        "date": "Mar 08, 2026",
+        "date": "Mar 9, 2026",
         "severity": "warn",
-        "title": "Federal judge rules Kari Lake unlawfully ran Voice of America",
-        "description": "A federal court ruled that political appointee Kari Lake unlawfully violated the constitutional appointments clause while running the Voice of America and voided mass layoffs at the independent media agency. <a href=\"https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "title": "Federal judge rules three DOJ officials unlawfully serving in New Jersey",
+        "description": "For the second time, a federal judge ruled that top DOJ officials in New Jersey are serving unlawfully while circumventing Senate confirmation requirements. <a href=\"https://www.cbsnews.com/news/judge-rules-top-doj-officials-in-new-jersey-are-serving-unlawfully-alina-habba/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+      },
+      {
+        "date": "Mar 9, 2026",
+        "severity": "warn",
+        "title": "Trump administration widens 2020 election probe with Arizona subpoenas",
+        "description": "The DOJ issued grand jury subpoenas for Arizona state legislative records as part of an expanding investigation into the 2020 election, raising concerns about politicized use of investigative powers. <a href=\"https://www.pbs.org/newshour/politics/trump-administration-widens-its-2020-election-probe-as-it-obtains-records-from-arizona\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newCheckEvents": [
       {
-        "check": "Congressional Oversight",
+        "check": "Press Freedom",
         "date": "Mar 2026",
-        "text": "GOP senators seek $200B tax cut bypassing Congress via Treasury executive action. <a href=\"https://thehill.com/homenews/administration/5765607-gop-senators-propose-tax-cut/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Congressional Oversight",
-        "date": "Mar 2026",
-        "text": "DHS Inspector General alleges systematic obstruction by Secretary Noem, threatening congressional oversight mechanisms. <a href=\"https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/\" target=\"_blank\" rel=\"noopener\">Source</a>"
-      },
-      {
-        "check": "Election Infrastructure",
-        "date": "Mar 2026",
-        "text": "Trump allies propose invoking emergency powers to alter voting rules and deploy federal agents at polls ahead of midterms. <a href=\"https://www.npr.org/2026/03/03/nx-s1-5727839/trumps-allies-suggest-he-invoke-emergency-powers-ahead-of-midterms\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "text": "FCC chair threatens to revoke broadcast licenses of news networks after Trump complains about Iran war coverage. <a href=\"https://www.cbsnews.com/news/fcc-brendan-carr-threat-news-networks-broadcast-license/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
         "check": "DOJ Independence",
         "date": "Mar 2026",
-        "text": "Justice Department intervenes to assist Steve Bannon in dismissing criminal charges. <a href=\"https://thehill.com/opinion/judiciary/5764913-trump-justice-department-bannon/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "text": "Federal judge rules Trump administration weaponized DOJ subpoenas against Federal Reserve chair Powell in scathing opinion. <a href=\"https://www.axios.com/2026/03/13/fed-powell-trump-judge\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
-        "check": "Intelligence Community",
+        "check": "Congressional Oversight",
         "date": "Mar 2026",
-        "text": "President conducts Iran military operations from unsecured Mar-a-Lago facility rather than secure government situation rooms. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-wages-iran-war-situation-room-mar-lago-rcna261389\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "text": "Trump announces he will not sign any bills until Congress passes voting restriction legislation, demanding elimination of filibuster. <a href=\"https://www.nbcnews.com/politics/donald-trump/trump-says-will-not-sign-bills-america-act-passes-rcna262336\" target=\"_blank\" rel=\"noopener\">Source</a>"
       },
       {
-        "check": "Press Freedom",
+        "check": "DOJ Independence",
         "date": "Mar 2026",
-        "text": "Federal court rules Kari Lake unlawfully violated appointments clause while running Voice of America; mass layoffs voided. <a href=\"https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/\" target=\"_blank\" rel=\"noopener\">Source</a>"
+        "text": "Federal judge rules for second time that top DOJ officials in New Jersey are serving unlawfully while circumventing Senate confirmation. <a href=\"https://www.cbsnews.com/news/judge-rules-top-doj-officials-in-new-jersey-are-serving-unlawfully-alina-habba/\" target=\"_blank\" rel=\"noopener\">Source</a>"
       }
     ],
     "newTickerItems": [
       {
-        "label": "EMERGENCY POWERS",
-        "text": "Trump allies propose <strong>emergency powers</strong> to alter voting rules before midterms"
+        "label": "PRESS FREEDOM",
+        "text": "FCC chair <strong>threatens broadcast licenses</strong> after Trump Iran coverage complaints"
       },
       {
-        "label": "SEPARATION OF POWERS",
-        "text": "GOP senators seek <strong>$200B tax cut</strong> bypassing congressional authority"
+        "label": "DOJ",
+        "text": "Judge: Trump admin <strong>weaponized subpoenas</strong> against Fed chair Powell"
       },
       {
-        "label": "OVERSIGHT",
-        "text": "DHS Inspector General reports <strong>systematic obstruction</strong> by Secretary Noem"
+        "label": "CONGRESS",
+        "text": "Trump <strong>blocks all bill signing</strong> until voting restrictions pass"
       },
       {
-        "label": "NATIONAL SECURITY",
-        "text": "Trump conducts Iran war operations from <strong>private Mar-a-Lago club</strong>"
+        "label": "ELECTIONS",
+        "text": "DOJ expands 2020 election probe with <strong>Arizona grand jury subpoenas</strong>"
       }
     ],
     "statUpdates": [],
     "bannerUpdate": null,
-    "summary": "March 2026 saw escalating attempts to circumvent constitutional checks and balances, including proposals to invoke emergency powers ahead of midterms, efforts to bypass Congress on a $200B tax cut, systematic obstruction of inspectors general, DOJ intervention in political ally's criminal case, and military operations conducted from an unsecured private facility. A federal court ruled Voice of America was unlawfully run by a political appointee in violation of the appointments clause."
+    "summary": "Multiple significant developments show continued institutional strain: FCC chair threatened broadcast licenses following Trump's criticism of Iran war coverage; federal judge ruled DOJ weaponized subpoenas against Fed chair Powell; Trump announced he will block all legislation until voting restrictions pass; and DOJ expanded 2020 election investigations with Arizona subpoenas. Judicial rulings continue to find Trump DOJ officials serving unlawfully."
   }
 }
