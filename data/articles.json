@@ -1,749 +1,6 @@
 {
   "articles": [
     {
-      "id": "d37e6297fc67",
-      "title": "Judge approves Mark Kelly's request for preliminary injunction against Pete Hegseth",
-      "url": "https://www.npr.org/2026/02/12/nx-s1-5698515/mark-kelly-pete-hegseth-lawsuit",
-      "source": "NPR Politics",
-      "published": "2026-02-12T18:05:39.000Z",
-      "description": "Kelly, an Arizona Democrat, sued Hegseth after the Defense Secretary moved to formally censure him for participating in a video where he  told service members they can refuse illegal orders.",
-      "keywords": [
-        "ICE"
-      ],
-      "significance": 5,
-      "reason": "A preliminary injunction in a civil suit between a senator and cabinet official involves judicial independence and potential political retribution, but lacks the institutional scope or precedential weight of a critical democratic erosion.",
-      "categories": [
-        "judicial independence",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-12T18:15:50.192Z"
-    },
-    {
-      "id": "6983f0ed97e2",
-      "title": "Judge blocks Pentagon from downgrading Sen. Mark Kelly's military rank, pay",
-      "url": "https://www.cbsnews.com/news/judge-blocks-pentagon-from-downgrading-sen-mark-kellys-military-rank-pay/",
-      "source": "CBS News",
-      "published": "2026-02-12T18:10:00.000Z",
-      "description": "A judge banned the Trump administration from taking adverse action against Kelly after he and other Democratic lawmakers urged military members to \"refuse illegal orders.\"",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 7,
-      "reason": "Judicial intervention preventing potential political retribution against a senator for protected speech represents a significant defense of institutional independence and checks on executive power.",
-      "categories": [
-        "judicial independence",
-        "political retribution",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-12T18:15:55.381Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "22ebe75d22cb",
-      "title": "Judge blocks Pentagon chief Hegseth's censure of Sen. Kelly over troops video, for now",
-      "url": "https://www.cnbc.com/2026/02/12/kelly-hegseth-pentagon-trump-censure.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-12T18:13:16.000Z",
-      "description": "The order comes days after federal prosecutors in Washington, D.C., tried and failed to get a grand jury to indict Sens. Mark Kelly and Elissa Slotkin",
-      "keywords": [
-        "prosecutor"
-      ],
-      "significance": 5,
-      "reason": "A judicial restraint on executive action toward a senator represents notable institutional friction, but the temporary nature of the order and lack of precedent-setting suggests this is significant oversight rather than critical democratic erosion.",
-      "categories": [
-        "judicial independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-12T18:16:02.724Z"
-    },
-    {
-      "id": "b779d139b056",
-      "title": "An effort in Congress to restrain immigration enforcement tactics is flailing (again)",
-      "url": "https://www.npr.org/2026/02/12/nx-s1-5704265/an-effort-in-congress-to-restrain-immigration-enforcement-tactics-is-flailing-again",
-      "source": "NPR Politics",
-      "published": "2026-02-12T22:31:31.000Z",
-      "description": "A bipartisan effort in Congress to restrain immigration enforcement tactics is flailing. It wouldn't be the first time recently that lawmakers pledged to find consensus, only for negotiations to fail.",
-      "keywords": [
-        "immigration"
-      ],
-      "significance": 4,
-      "reason": "Congressional oversight efforts on immigration enforcement represent notable institutional friction, but the article describes failed negotiations rather than a resolved policy change or institutional action.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:21.393Z"
-    },
-    {
-      "id": "0a0ed57387db",
-      "title": "DHS expected to shut down as immigration talks falter",
-      "url": "https://www.npr.org/2026/02/12/nx-s1-5712744/dhs-shutdown",
-      "source": "NPR Politics",
-      "published": "2026-02-12T21:27:14.000Z",
-      "description": "Senate Democrats blocked two Republican-backed measures Thursday to keep the department open, including a short-term funding extension for two weeks as negotiations continue.",
-      "keywords": [
-        "immigration",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A funding impasse reflects normal legislative disagreement over immigration policy rather than a systemic threat to checks and balances, though potential shutdown represents institutional friction worth monitoring.",
-      "categories": [
-        "congressional oversight",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:21.308Z"
-    },
-    {
-      "id": "1f92cf3abcd2",
-      "title": "ICE conducted 37 investigations into officer misconduct in last year",
-      "url": "https://www.npr.org/2026/02/12/g-s1-109841/immigration-enforcement-investigations-misconduct",
-      "source": "NPR Politics",
-      "published": "2026-02-12T20:38:12.000Z",
-      "description": "The disclosure from the agency's acting director came after immigration officers shot two U.S. citizens, intensifying questions about ICE officers' tactics, training and use of force.",
-      "keywords": [
-        "immigration",
-        "ICE"
-      ],
-      "significance": 5,
-      "reason": "While the disclosure of ICE misconduct investigations addresses accountability mechanisms, the article describes routine oversight processes rather than demonstrating systemic erosion or strengthening of democratic checks, though elevated scrutiny following officer-involved shootings warrants attention.",
-      "categories": [
-        "civil service independence",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:21.973Z"
-    },
-    {
-      "id": "c931c404d7ee",
-      "title": "WATCH: Sen. Kelly says Trump administration 'out of control' after judge blocks Pentagon punishment",
-      "url": "https://www.pbs.org/newshour/politics/watch-sen-kelly-says-trump-administration-out-of-control-after-judge-blocks-pentagon-punishment",
-      "source": "PBS NewsHour",
-      "published": "2026-02-12T21:23:28.000Z",
-      "description": "U.S. District Judge Richard Leon ruled that Pentagon officials violated Sen. Mark Kelly's First Amendment free speech rights and \"threatened the constitutional liberties of millions of military retirees.\"",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 7,
-      "reason": "A federal judge's ruling that Pentagon officials violated constitutional rights and threatened liberties of millions represents a significant institutional action affirming judicial independence and checking executive overreach.",
-      "categories": [
-        "judicial independence",
-        "civil service independence",
-        "press freedom"
-      ],
-      "scoredAt": "2026-02-13T00:12:21.285Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "84d45a3304f5",
-      "title": "WATCH: Schumer speaks after Democrats vote against DHS funding bill, making shutdown likely",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-schumer-speaks-after-democrats-vote-against-dhs-funding-bill-making-shutdown-likely",
-      "source": "PBS NewsHour",
-      "published": "2026-02-12T20:17:04.000Z",
-      "description": "A shutdown for the Department of Homeland Security appeared certain Thursday as lawmakers in the House and Senate were set to leave Washington for a 10-day break and negotiations with the White House over Democrats' demands for new restrictions had stalled.",
-      "keywords": [
-        "white house",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A funding dispute reflects normal legislative disagreement and congressional oversight, but lacks the institutional severity or democratic erosion indicators that would elevate it to significance.",
-      "categories": [
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-13T00:12:21.452Z"
-    },
-    {
-      "id": "dea1e86c4144",
-      "title": "Trump's lawsuit against the BBC will to go to trial in 2027, U.S. judge says",
-      "url": "https://www.pbs.org/newshour/world/trumps-lawsuit-against-the-bbc-will-to-go-to-trial-in-2027-u-s-judge-says",
-      "source": "PBS NewsHour",
-      "published": "2026-02-12T19:15:22.000Z",
-      "description": "President Donald Trump filed a lawsuit in December over the way the BBC edited a speech he gave on Jan. 6, 2021. The claim seeks $5 billion in damages for defamation and $5 billion for unfair trade practices.",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "A routine defamation lawsuit by a political figure against a media organization is standard litigation without systemic implications for democratic institutions or checks and balances.",
-      "categories": [
-        "press_freedom"
-      ],
-      "scoredAt": "2026-02-13T00:12:22.937Z"
-    },
-    {
-      "id": "e2c375b77ec1",
-      "title": "Data of thousands of taxpayers wrongly shared with DHS, court filing says",
-      "url": "https://www.pbs.org/newshour/politics/data-of-thousands-of-taxpayers-wrongly-shared-with-dhs-court-filing-says",
-      "source": "PBS NewsHour",
-      "published": "2026-02-12T18:27:37.000Z",
-      "description": "The revelation stems from a data-sharing agreement signed last April by Treasury Secretary Scott Bessent and Homeland Security Secretary Kristi Noem, which allows U.S. Immigration and Customs Enforcement to submit names and addresses of immigrants inside the U.S. illegally to the IRS for cross-verification against tax records.",
-      "keywords": [
-        "immigration"
-      ],
-      "significance": 6,
-      "reason": "Represents a notable institutional overreach with civil rights and oversight concerns, but appears to stem from a documented agreement rather than unprecedented executive action.",
-      "categories": [
-        "immigration & civil rights",
-        "congressional oversight",
-        "corruption & self-dealing"
-      ],
-      "scoredAt": "2026-02-13T00:12:22.986Z"
-    },
-    {
-      "id": "cd4a00602464",
-      "title": "EPA reverses long-standing climate change finding, stripping its own ability to regulate emissions",
-      "url": "https://www.nbcnews.com/science/climate-change/epa-reverses-endangerment-climate-change-finding-rcna258452",
-      "source": "NBC News",
-      "published": "2026-02-12T18:45:14.000Z",
-      "description": "The Environmental Protection Agency is rescinding the legal finding about climate change that it has long relied on to regulate greenhouse gas emissions.",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 7,
-      "reason": "This represents a significant institutional action that undermines the EPA's established regulatory authority and capacity, which constitutes a material shift in executive branch checks on environmental governance.",
-      "categories": [
-        "federal programs & agencies",
-        "judicial independence"
-      ],
-      "scoredAt": "2026-02-13T00:12:23.051Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "c868c59f4cfe",
-      "title": "Homeland Security Department poised to shut down as Congress leaves with no deal",
-      "url": "https://www.nbcnews.com/politics/congress/dhs-government-shutdown-2026-what-know-ice-rcna258739",
-      "source": "NBC News",
-      "published": "2026-02-12T23:31:27.000Z",
-      "description": "What to know on the DHS government shutdown: Why it's happening, what it impacts and more",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A government shutdown represents notable dysfunction in congressional oversight and appropriations authority, but is a recurring procedural failure rather than an unprecedented erosion of democratic checks.",
-      "categories": [
-        "congressional oversight",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:24.015Z"
-    },
-    {
-      "id": "1d5f0aac1ebb",
-      "title": "Full Interview: Delcy Rodríguez says Maduro is ‘innocent’ and ‘legitimate’ leader of Venezuela",
-      "url": "https://www.nbcnews.com/video/full-interview-delcy-rodriguez-says-maduro-is-innocent-and-legitimate-leader-of-venezuela-257613381643",
-      "source": "NBC News",
-      "published": "2026-02-12T22:59:24.000Z",
-      "description": "Meet the Press moderator Kristen Welker sat down with the interim President of Venezuela Delcy Rodríguez for her first interview with an American journalist since the capture of former Venezuelan President Nicolas Maduro by U.S. special forces.",
-      "keywords": [
-        "journalist"
-      ],
-      "significance": 1,
-      "reason": "This is foreign policy coverage of a Venezuelan political interview with no direct bearing on U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:24.539Z"
-    },
-    {
-      "id": "cb89ca61c780",
-      "title": "Delcy Rodríguez says Venezuela will have ‘fair and free’ elections but doesn’t provide timeline",
-      "url": "https://www.nbcnews.com/meet-the-press/video/meet-the-press-moderator-kristen-welker-sat-down-for-an-exclusive-interview-in-caracas-venezuela-with-interim-president-delcy-rodriguez-for-her-first-interview-with-an-american-journalist-since-taking-office-welker-also-speaks-to-u-s-energy-secretary-chris-wright-about-the-status-of-cooperation-between-the-u-s-and-venezuela-257611845679",
-      "source": "NBC News",
-      "published": "2026-02-12T22:05:39.000Z",
-      "description": "Meet the Press moderator Kristen Welker sat down for an exclusive interview in Caracas, Venezuela with interim President Delcy Rodríguez for her first interview with an American journalist since taking office. Welker also speaks to U.S. Energy Secretary Chris Wright about the status of cooperation between the U.S. and Venezuela.",
-      "keywords": [
-        "election",
-        "ICE",
-        "journalist"
-      ],
-      "significance": 1,
-      "reason": "This article covers Venezuelan political statements and U.S.-Venezuela diplomatic relations, with no direct bearing on American democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:24.192Z"
-    },
-    {
-      "id": "d1602a308ecb",
-      "title": "Judge blocks effort to demote Sen. Mark Kelly over 'illegal orders' video",
-      "url": "https://www.nbcnews.com/politics/justice-department/judge-blocks-mark-kelly-demotion-illegal-orders-rcna258777",
-      "source": "NBC News",
-      "published": "2026-02-12T18:20:00.000Z",
-      "description": "A federal judge ruled Thursday that the Trump administration \"trampled\" on Sen.",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 7,
-      "reason": "Judicial independence demonstrates critical function by blocking executive overreach against a senator, representing significant protection of institutional checks and balance.",
-      "categories": [
-        "judicial independence",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-13T00:12:24.158Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "742e07ebcddc",
-      "title": "Poll analysis on words voters pick to describe Republican, Democratic parties",
-      "url": "https://www.cbsnews.com/news/poll-analysis-words-voters-describe-republicans-democrats/",
-      "source": "CBS News",
-      "published": "2026-02-12T20:35:07.000Z",
-      "description": "Most voters call the Democratic Party weak, while most describe the GOP as extreme.",
-      "keywords": [
-        "voter"
-      ],
-      "significance": 1,
-      "reason": "This is a routine polling analysis of voter perceptions and political messaging, containing no information about institutional actions, policy changes, or checks and balances mechanisms.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:24.223Z"
-    },
-    {
-      "id": "76cd3b357d1a",
-      "title": "CIA releases new video aiming to recruit Chinese military officers",
-      "url": "https://www.cbsnews.com/news/cia-video-recruit-chinese-military-officers/",
-      "source": "CBS News",
-      "published": "2026-02-12T19:46:05.000Z",
-      "description": "The CIA has released a new Mandarin-language recruitment video aimed at Chinese military officers, hoping to persuade those disenchanted with corruption to turn to the U.S.",
-      "keywords": [
-        "ICE",
-        "corruption"
-      ],
-      "significance": 2,
-      "reason": "This is a routine foreign intelligence recruitment effort with no direct impact on U.S. domestic democratic institutions or checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:25.511Z"
-    },
-    {
-      "id": "c3d9bfce2f4a",
-      "title": " Trump nominates a hospitality executive to lead the National Park Service",
-      "url": "https://abcnews.go.com/Politics/wireStory/trump-nominates-hospitality-executive-lead-national-park-service-130115317",
-      "source": "ABC News",
-      "published": "2026-02-12T20:45:51.000Z",
-      "description": "President Donald Trump has nominated for director of the National Park Service an executive from a hospitality company that has extensive contracts with the agency he would lead",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 4,
-      "reason": "A hospitality executive with industry contracts presents a notable conflict of interest and potential corruption concern, but lacks the institutional impact of higher-rated scenarios.",
-      "categories": [
-        "corruption & self-dealing",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:25.556Z"
-    },
-    {
-      "id": "a09744f3f5e1",
-      "title": "Laser weapon that shut down El Paso's skies was LOCUST system",
-      "url": "https://www.axios.com/2026/02/12/el-paso-laser-weapon-locust-drone",
-      "source": "Axios",
-      "published": "2026-02-12T21:41:20.000Z",
-      "description": "The counter-drone weapon that caused a shutdown of El Paso's airspace on Wednesday was AeroVironment's LOCUST, a 20-kilowatt laser system, Axios has confirmed.\nWhy it matters: The Army sees the cutting-edge weapon as a way to combat drones without firing expensive interceptors. But the Federal Aviation Administration was so concerned about its use that it shut down the airspace around a major city for nearly eight hours.\n\nDriving the news: Trump administration officials claimed a \"cartel drone i",
-      "keywords": [
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "This is a routine national security/military technology story with no direct bearing on democratic checks and balances mechanisms.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:25.782Z"
-    },
-    {
-      "id": "c02a9907dc35",
-      "title": "Democrats eye legal action, GOP seeks answers on Trump admin \"spying\" on Congress",
-      "url": "https://www.axios.com/2026/02/12/pam-bondi-trump-spying-congress-doj-epstein",
-      "source": "Axios",
-      "published": "2026-02-12T19:42:05.000Z",
-      "description": "The Justice Department is coming under intense scrutiny from members of Congress in both parties for allegedly cataloguing the search history of lawmakers who have gone to review the unredacted Epstein files.\nWhy it matters: It's a fresh and high-octane scandal for Attorney General Pam Bondi at a time when she is already facing bipartisan heat over her handling of the Epstein matter.\n\n\"There is no bottom for the Trump administration,\" House Minority Leader Hakeem Jeffries (D-N.Y.) said at a pres",
-      "keywords": [
-        "DOJ",
-        "attorney general",
-        "bondi",
-        "ICE",
-        "johnson",
-        "speaker",
-        "trump",
-        "EPA",
-        "inspector general"
-      ],
-      "significance": 9,
-      "reason": "Alleged DOJ surveillance of congressional lawmakers' search histories represents a potential unprecedented breach of separation of powers and congressional independence.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-13T00:12:25.583Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "923b265d1646",
-      "title": "EPA abandons the foundation of greenhouse gas rules",
-      "url": "https://www.axios.com/2026/02/12/epa-greenhouse-gas-emissions-humans",
-      "source": "Axios",
-      "published": "2026-02-12T19:13:04.000Z",
-      "description": "The EPA has overturned a formal 2009 scientific finding that greenhouse gas emissions are a threat to human health and welfare, President Trump said Thursday.\nWhy it matters:  It's the Trump administration's most direct effort yet to rip out climate regulations root and branch — and make it harder for a successor to impose new ones.\n\nThe \"endangerment finding\" provides the legal underpinning for controlling heat-trapping gases under the Clean Air Act, and reflects scientific agreement that globa",
-      "keywords": [
-        "patel",
-        "musk",
-        "white house",
-        "ruling",
-        "trump",
-        "EPA"
-      ],
-      "significance": 7,
-      "reason": "Significant institutional action that undermines scientific integrity and congressional oversight mechanisms by reversing a foundational legal finding, though primarily affecting regulatory rather than constitutional checks and balances.",
-      "categories": [
-        "federal programs & agencies",
-        "civil service independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-13T00:12:25.659Z",
-      "digestedAt": "2026-02-13T00:17:34.625Z"
-    },
-    {
-      "id": "375eb0793f22",
-      "title": "Trump approval on immigration slips among independents: Poll",
-      "url": "https://thehill.com/homenews/administration/5736332-trump-immigration-decline-approval/",
-      "source": "The Hill",
-      "published": "2026-02-12T23:21:34.000Z",
-      "description": "Approval of President Trump’s immigration agenda has seen a decline among independents, with most saying that the administration has overstepped with its deportation efforts, according to an AP-NORC poll released Thursday. Polling found that 23 percent approved of Trump’s handling on immigration, down 14 points since March 2025. About 6 in 10 independents said the…",
-      "keywords": [
-        "immigration",
-        "deportation",
-        "trump"
-      ],
-      "significance": 4,
-      "reason": "A polling report on public opinion regarding immigration policy implementation is notable for tracking potential civil rights concerns and executive overreach, but represents public sentiment data rather than institutional action or formal checks on power.",
-      "categories": [
-        "immigration & civil rights",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-13T00:12:27.036Z"
-    },
-    {
-      "id": "1eee11d52956",
-      "title": "Appeals court won’t let Trump freeze Gateway tunnel funding, for now ",
-      "url": "https://thehill.com/policy/transportation/5736384-appeals-court-gateway-tunnel-trump/",
-      "source": "The Hill",
-      "published": "2026-02-12T22:54:27.000Z",
-      "description": "A federal appeals court allowed a judge’s order to take effect Thursday that requires the Trump administration to resume funding for the Gateway tunnel project connecting New York and New Jersey.  By declining to intervene, the U.S. Court of Appeals for the 2nd Circuit paved the way for the project to resume, at least briefly, as a lawsuit brought by the two Democratic-led states proceeds. The court will issue another ruling after holding…",
-      "keywords": [
-        "ruling",
-        "trump"
-      ],
-      "significance": 4,
-      "reason": "A routine judicial review of executive authority regarding federal funding allocation that represents normal checks and balances operation rather than systemic institutional erosion.",
-      "categories": [
-        "judicial independence"
-      ],
-      "scoredAt": "2026-02-13T00:12:26.706Z"
-    },
-    {
-      "id": "801b176912ad",
-      "title": "Newsmax host rips Trump’s DOJ over Epstein redactions: ‘I want somebody to go to jail’",
-      "url": "https://thehill.com/media/5736235-epstein-files-doj-redactions-controversy/",
-      "source": "The Hill",
-      "published": "2026-02-12T22:32:07.000Z",
-      "description": "A Newsmax host on Wednesday lambasted President Trump’s Department of Justice (DOJ) over its redactions throughout the files connected to convicted sex offender Jeffrey Epstein, calling for “somebody to go to jail.” Carl Higbie, host of “Carl Higbie Frontline,” said the Trump administration is in engaged in a cover-up by redacting names and identifying information…",
-      "keywords": [
-        "DOJ",
-        "department of justice",
-        "ICE",
-        "trump",
-        "EPA"
-      ],
-      "significance": 3,
-      "reason": "This is commentary from a media personality criticizing DOJ redaction decisions; while it touches on DOJ independence, it lacks reporting of institutional action or policy change.",
-      "categories": [
-        "DOJ independence"
-      ],
-      "scoredAt": "2026-02-13T00:12:26.901Z"
-    },
-    {
-      "id": "1adbc0173781",
-      "title": "Senate departs with DHS shutdown looming and negotiators at loggerheads",
-      "url": "https://thehill.com/homenews/senate/5736361-senate-dhs-shutdown-negotiations/",
-      "source": "The Hill",
-      "published": "2026-02-12T22:31:39.000Z",
-      "description": "The Senate left Washington on Thursday without a deal to fund the Department of Homeland Security (DHS), all but ensuring a shutdown of the agency that could stretch into next week. The two sides remain at loggerheads over the reforms Democrats are demanding to immigration enforcement practices, and negotiators were unable to bridge the sizable…",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A funding impasse reflects normal legislative gridlock over policy disputes rather than a systemic threat to institutional checks and balances, though it does implicate congressional oversight and immigration policy authority.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:26.926Z"
-    },
-    {
-      "id": "d1b5f1c324e1",
-      "title": "McMahon leading delegation to Olympic closing ceremony",
-      "url": "https://thehill.com/homenews/administration/5736273-mcmahon-winter-olympics-closing-ceremony/",
-      "source": "The Hill",
-      "published": "2026-02-12T22:17:36.000Z",
-      "description": "Education Secretary Linda McMahon will lead a U.S. delegation to the closing ceremony of the Winter Olympics in Italy later this month, the White House announced Wednesday. The closing ceremony is set to be held Feb. 22 at Verona Arena in Verona, Italy, with a grand finale that officials say will “weave together music, art,…",
-      "keywords": [
-        "white house"
-      ],
-      "significance": 1,
-      "reason": "This is a routine diplomatic announcement about official representation at an international sporting event with no implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:33.160Z"
-    },
-    {
-      "id": "170987a1b55d",
-      "title": "Culver City mayor responds to Bondi crime claims during heated exchange",
-      "url": "https://thehill.com/homenews/state-watch/5736267-culver-city-mayor-crime-rates/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:57:58.000Z",
-      "description": "The mayor of Culver City, Calif., clapped back at claims made by Attorney General Pam Bondi about the city’s crime rates. During a back-and-forth with Rep. Sydney Kamlager-Dove (D-Calif.) about right-wing extremism at a heated congressional hearing Wednesday, Bondi accused the congresswoman of “not talking about any crime in her district.” Kamlager-Dove represents a district…",
-      "keywords": [
-        "attorney general",
-        "bondi"
-      ],
-      "significance": 2,
-      "reason": "A local mayor's response to AG claims during a congressional exchange is routine political discourse without institutional significance to checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:28.201Z"
-    },
-    {
-      "id": "572be0f583e2",
-      "title": "Minnesota officials face off at fiery Senate hearing over ICE: 5 takeaways",
-      "url": "https://thehill.com/homenews/senate/5736284-senate-hearing-ellison-ice/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:50:53.000Z",
-      "description": "Senators faced off with Minnesota Attorney General Keith Ellison during a fiery hearing Thursday that brought bitter divisions over the actions of federal immigration law enforcement officials in Minnesota to Capitol Hill. Ellison defended his criticisms of Immigration and Customs Enforcement (ICE) during the hearing, while GOP witnesses went on the attack against Democrats in…",
-      "keywords": [
-        "attorney general",
-        "immigration",
-        "ICE"
-      ],
-      "significance": 5,
-      "reason": "A heated partisan disagreement over ICE enforcement represents notable congressional oversight activity but lacks evidence of systemic institutional erosion or unprecedented democratic challenge.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:28.352Z"
-    },
-    {
-      "id": "8369ff06df0b",
-      "title": "Obama, Dem leaders slam Trump for repeal of EPA climate finding",
-      "url": "https://thehill.com/policy/energy-environment/5736171-democrats-criticize-epa-repeal/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:46:54.000Z",
-      "description": "Former President Obama and other influential Democratic leaders on Thursday criticized the Environmental Protection Agency’s (EPA) decision to repeal a landmark legal finding about climate change’s danger to the public.  The Trump administration on Thursday repealed the endangerment finding, a 2009 legal rule under the Clean Air Act that found greenhouse gas emissions pose a…",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 3,
-      "reason": "This is routine political criticism of a regulatory policy decision within normal executive authority, lacking institutional checks-and-balances implications.",
-      "categories": [
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:28.248Z"
-    },
-    {
-      "id": "df6f8a47b69c",
-      "title": "NTSB chair says FAA and Pentagon communication issues ‘astounding’ but ‘not surprising’",
-      "url": "https://thehill.com/policy/transportation/5736035-faa-defense-communication-concerns/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:32:14.000Z",
-      "description": "Jennifer Homendy, the chair of the National Transportation Safety Board (NTSB), expressed concern Thursday at the lack of communication between the Federal Aviation Administration (FAA) and Defense Department, a day after the closure and subsequent reopening of airspace above southern Texas and New Mexico sparked questions from local officials and lawmakers on Capitol Hill. “I don’t understand it. People can’t…",
-      "keywords": [
-        "EPA"
-      ],
-      "significance": 2,
-      "reason": "This reports a routine inter-agency communication issue without evidence of democratic institution erosion or checks-and-balances concerns.",
-      "categories": [
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:28.246Z"
-    },
-    {
-      "id": "d6f2985f18a6",
-      "title": "Minnesota Democrat: Claims immigration surge made state safer ‘wildly untrue’",
-      "url": "https://thehill.com/homenews/house/5736054-angie-craig-slams-ice-operations/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:28:31.000Z",
-      "description": "Rep. Angie Craig (D-Minn.) on Thursday slammed claims that the federal immigration operations in Minnesota, which the administration said will draw down over the next week, made the state safer as “wildly untrue.” “I’m glad to hear that the Admin plans to withdraw ICE [Immigration and Customs Enforcement] and CBP [Customs and Border Protection] from…",
-      "keywords": [
-        "immigration",
-        "ICE"
-      ],
-      "significance": 2,
-      "reason": "This is a routine partisan disagreement between a Democratic representative and the administration over immigration policy rhetoric, with no institutional action, precedent-setting, or structural impact on checks and balances.",
-      "categories": [
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:34.457Z"
-    },
-    {
-      "id": "89d3babf8d79",
-      "title": "Judge rules ICE must let religious leaders into Illinois facility for Ash Wednesday ",
-      "url": "https://thehill.com/regulation/court-battles/5736170-ice-religious-leaders-illinois-detention-center/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:22:15.000Z",
-      "description": "A federal judge ordered Immigration and Customs Enforcement (ICE) to allow religious leaders into a detention facility in the Chicago suburbs for Ash Wednesday next week and enable them to offer communion going forward.  U.S. District Judge Robert Gettleman said denying Catholic priests and sisters access to detainees violates a federal religious freedom law.  “Broadview allowed plaintiffs’ religious visitation to Broadview for years…",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "detention"
-      ],
-      "significance": 4,
-      "reason": "A judicial ruling enforcing religious freedom rights in detention facilities is notable but represents routine application of existing law rather than a significant institutional challenge to democratic checks and balances.",
-      "categories": [
-        "judicial independence",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T00:12:34.142Z"
-    },
-    {
-      "id": "c16bf90e5b55",
-      "title": "Pro-crypto super PAC plans to spend $1.5M opposing Al Green",
-      "url": "https://thehill.com/homenews/campaign/5736181-crypto-pac-targets-al-green/",
-      "source": "The Hill",
-      "published": "2026-02-12T21:21:22.000Z",
-      "description": "A pro-crypto super PAC said Thursday that it plans to spend $1.5 million opposing Rep. Al Green (D-Texas) in the Democratic primary race. Protect Progress, which is affiliated with the industry’s leading super PAC Fairshake, pointed to Green’s voting record on crypto legislation. The Texas Democrat has voted against two major crypto bills in the…",
-      "keywords": [
-        "voting",
-        "crypto"
-      ],
-      "significance": 2,
-      "reason": "This is routine political news about standard campaign spending and super PAC activity with no direct bearing on institutional checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:34.108Z"
-    },
-    {
-      "id": "51873701ac4b",
-      "title": "Former Army colonel sentenced to 2 years for sharing classified war plans with woman he met online",
-      "url": "https://thehill.com/regulation/court-battles/5736044-retired-colonel-sentenced-classified-information/",
-      "source": "The Hill",
-      "published": "2026-02-12T20:40:03.000Z",
-      "description": "A retired United States Army colonel has been sentenced to two years in federal prison for sending a woman he met online classified information about U.S. war plans, federal authorities announced Wednesday.  Kevin Charles Luke, 62, pleaded guilty in October 2025, admitting to abusing a position of public trust as part of his plea agreement.…",
-      "keywords": [
-        "classified"
-      ],
-      "significance": 2,
-      "reason": "This is a routine criminal prosecution of an individual for espionage with no implications for institutional checks and balances or democratic governance.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:34.131Z"
-    },
-    {
-      "id": "48e6a7ad1853",
-      "title": "Lawyers for US citizen shot by Border Patrol agent accuse Trump administration of spreading lies",
-      "url": "https://thehill.com/homenews/administration/5735882-border-patrol-shooting-lawyers-trump-administration/",
-      "source": "The Hill",
-      "published": "2026-02-12T20:34:14.000Z",
-      "description": "The lawyers for a Chicago woman who was shot five times by a U.S. Border Patrol agent accused the Trump administration on Wednesday of spreading lies about the shooting and of mishandling the investigation. Marimar Martinez, a U.S. citizen, was in her car in October when a Border Patrol agent shot her. The Department of…",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 6,
-      "reason": "Raises concerns about executive accountability and potential civil rights violations, but represents an ongoing legal/investigative matter rather than a systemic institutional action.",
-      "categories": [
-        "immigration & civil rights",
-        "DOJ independence",
-        "political retribution"
-      ],
-      "scoredAt": "2026-02-13T00:12:34.477Z"
-    },
-    {
-      "id": "f7c6c0ff928c",
-      "title": "Democrats launch probe into organization leading White House efforts to celebrate nation’s 250th birthday",
-      "url": "https://thehill.com/homenews/administration/5735903-democratic-senators-probe-freedom-250/",
-      "source": "The Hill",
-      "published": "2026-02-12T20:31:02.000Z",
-      "description": "A handful of Democratic senators on Wednesday launched a probe into a private group that is co-leading America’s 250th anniversary celebration.  The Freedom 250 group is working alongside the America250 commission, which was congressionally authorized more than a decade ago to plan a nonpartisan, civic-focused commemoration of the 250th anniversary of the nation’s founding. “Recent…",
-      "keywords": [
-        "white house"
-      ],
-      "significance": 2,
-      "reason": "This describes routine congressional inquiry into a private organization's role in a commemorative event, lacking evidence of systemic checks-and-balances erosion or institutional conflict.",
-      "categories": [],
-      "scoredAt": "2026-02-13T00:12:35.374Z"
-    },
-    {
-      "id": "b422fc129dce",
-      "title": "DHS shutdown all but certain as Democrats and Trump White House can't cut deal",
-      "url": "https://www.cnbc.com/2026/02/12/dhs-shutdown-senate-dhs-funding-bill-trump.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-12T22:06:26.000Z",
-      "description": "The Department of Homeland Security is set to shut down early Saturday morning after the Senate did not pass a short-term funding deal.",
-      "keywords": [
-        "white house",
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "A DHS shutdown represents significant operational disruption and political dysfunction but does not constitute a direct institutional attack on democratic checks and balances themselves.",
-      "categories": [
-        "federal programs & agencies",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-13T00:12:35.345Z"
-    },
-    {
-      "id": "fbc12c054166",
-      "title": "One year after DOGE cuts, former federal workers find new roles",
-      "url": "https://www.cnbc.com/2026/02/12/after-doge-cuts-federal-workers-new-roles.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-12T20:36:49.000Z",
-      "description": "Nonprofit Work for America is helping former federal workers get state and local government roles, after the largest cuts in the federal workforce in history.",
-      "keywords": [
-        "DOGE",
-        "federal workers"
-      ],
-      "significance": 5,
-      "reason": "The article documents consequences of major workforce reduction affecting civil service independence and federal agencies, but focuses on worker transitions rather than institutional breakdown or democratic erosion.",
-      "categories": [
-        "civil service independence",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:35.500Z"
-    },
-    {
-      "id": "ff0cfe0fee1c",
-      "title": "Epstein files: DOJ says it logs Congress members' searches to 'protect' victim information",
-      "url": "https://www.cnbc.com/2026/02/12/epstein-files-doj-pam-bondi-pramila-jayapal.html",
-      "source": "CNBC Politics",
-      "published": "2026-02-12T20:24:29.000Z",
-      "description": "Attorney General Pam Bondi and Rep. Pramila Jayapal exchanged sharp words at a hearing when Jayapal asked victims of Jeffrey Epstein about meeting with the DOJ.",
-      "keywords": [
-        "DOJ",
-        "attorney general",
-        "bondi"
-      ],
-      "significance": 6,
-      "reason": "The DOJ's logging of congressional member searches raises notable transparency and oversight concerns, but the limited details provided and absence of evidence of actual obstruction prevent classification as significant institutional erosion.",
-      "categories": [
-        "DOJ independence",
-        "congressional oversight"
-      ],
-      "scoredAt": "2026-02-13T00:12:35.758Z"
-    },
-    {
-      "id": "5a7c89bf656c",
-      "title": "Tallying the Damage Of ICE’s Assault on Minneapolis",
-      "url": "https://www.rollingstone.com/politics/politics-news/ice-surge-minneapolis-tallying-damage-1235515463/",
-      "source": "Rolling Stone",
-      "published": "2026-02-12T20:11:35.000Z",
-      "description": "Border czar Tom Homan says the administration is ending its immigration crackdown on the city after over a month of horror",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "homan",
-        "border czar"
-      ],
-      "significance": 5,
-      "reason": "Documents a significant but localized immigration enforcement action with potential civil rights implications, though it represents implementation of stated policy rather than institutional erosion or unprecedented action.",
-      "categories": [
-        "immigration & civil rights",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T00:12:35.570Z"
-    },
-    {
       "id": "2a218045cd45",
       "title": "Trump nominee stalls after GOP senator challenges him on remarks about Jews and Israel",
       "url": "https://www.nbcnews.com/politics/trump-administration/state-department-nominee-jeremy-carl-senator-john-curtis-israel-jews-rcna258858",
@@ -1090,22 +347,6 @@
       "scoredAt": "2026-02-13T06:18:51.361Z"
     },
     {
-      "id": "b456b269e84f",
-      "title": "Confusion reigns over Trump meeting with governors",
-      "url": "https://thehill.com/homenews/administration/5736544-trump-governors-meeting-confusion/",
-      "source": "The Hill",
-      "published": "2026-02-13T00:10:54.000Z",
-      "description": "A series of contradictions and reversals from the White House and National Governors Association (NGA) this week has bred widespread confusion over the fate of the bipartisan group’s annual meeting with the president. All governors are expected to gather Feb. 19-21 in Washington, D.C., for the NGA’s annual conference, which has traditionally coincided with a…",
-      "keywords": [
-        "white house",
-        "trump"
-      ],
-      "significance": 2,
-      "reason": "Routine scheduling and communication confusion regarding a governors' conference lacks systemic implications for democratic checks and balances.",
-      "categories": [],
-      "scoredAt": "2026-02-13T06:18:51.411Z"
-    },
-    {
       "id": "73d6847be3ab",
       "title": "“Not Ready for Prime Time.” A Federal Tool to Check Voter Citizenship Keeps Making Mistakes.",
       "url": "https://www.propublica.org/article/save-voter-citizenship-tool-mistakes-confusion",
@@ -1388,44 +629,6 @@
       "reason": "A candidate withdrawal from a primary election is routine political news with no direct impact on institutional checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-13T12:06:43.864Z"
-    },
-    {
-      "id": "a2a94d9f530f",
-      "title": " A look at false claims made by the Trump administration as it revokes a key scientific finding",
-      "url": "https://abcnews.go.com/Politics/wireStory/false-claims-made-trump-administration-revokes-key-scientific-130120372",
-      "source": "ABC News",
-      "published": "2026-02-12T23:17:52.000Z",
-      "description": "While announcing that he was rolling back the Environmental Protection Agency’s 2009 endangerment finding, President Donald Trump and EPA Administrator Lee Zeldin made false claims regarding the government declaration, climate change and energy",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 5,
-      "reason": "While policy rollback is notable, this article primarily documents false claims rather than a structural threat to institutional checks and balances.",
-      "categories": [
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-13T12:06:44.530Z"
-    },
-    {
-      "id": "318483ba3969",
-      "title": " Trump immigration officials shown video of Alex Pretti’s death in tense Senate hearing",
-      "url": "https://abcnews.go.com/Politics/wireStory/trump-immigration-officials-shown-video-alex-prettis-death-130118761",
-      "source": "ABC News",
-      "published": "2026-02-12T22:53:48.000Z",
-      "description": "Sen. Rand Paul has challenged federal immigration officers over the shooting death of Alex Pretti and said the public has lost trust",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Congressional oversight of immigration enforcement is notable, but this incident's significance to systemic checks and balances depends on whether it reveals institutional failures or improper pressure on independent agencies.",
-      "categories": [
-        "congressional oversight",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-13T12:06:44.010Z"
     },
     {
       "id": "f2e856acc027",
@@ -7585,64 +6788,6 @@
       "reason": "A routine primary campaign withdrawal with no direct implications for democratic institutions or checks and balances.",
       "categories": [],
       "scoredAt": "2026-02-18T00:11:56.536Z"
-    },
-    {
-      "id": "f6fb466251cf",
-      "title": " A look at false claims made by the Trump administration as it revokes a key scientific finding",
-      "url": "https://abcnews.com/Politics/wireStory/false-claims-made-trump-administration-revokes-key-scientific-130120372",
-      "source": "ABC News",
-      "published": "2026-02-12T23:17:52.000Z",
-      "description": "While announcing that he was rolling back the Environmental Protection Agency’s 2009 endangerment finding, President Donald Trump and EPA Administrator Lee Zeldin made false claims regarding the government declaration, climate change and energy",
-      "keywords": [
-        "trump",
-        "EPA"
-      ],
-      "significance": 4,
-      "reason": "EPA policy rollback with false claims represents notable institutional action affecting regulatory independence, but lacks the institutional confrontation or democratic mechanism erosion that would elevate it to higher significance.",
-      "categories": [
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-18T00:11:58.318Z"
-    },
-    {
-      "id": "50f093a067ba",
-      "title": " Trump immigration officials shown video of Alex Pretti’s death in tense Senate hearing",
-      "url": "https://abcnews.com/Politics/wireStory/trump-immigration-officials-shown-video-alex-prettis-death-130118761",
-      "source": "ABC News",
-      "published": "2026-02-12T22:53:48.000Z",
-      "description": "Sen. Rand Paul has challenged federal immigration officers over the shooting death of Alex Pretti and said the public has lost trust",
-      "keywords": [
-        "immigration",
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "Congressional oversight of federal agencies through Senate questioning on a significant death in custody, but no systemic institutional change or unprecedented democratic erosion evident.",
-      "categories": [
-        "congressional oversight",
-        "civil service independence",
-        "immigration & civil rights"
-      ],
-      "scoredAt": "2026-02-18T00:11:58.189Z"
-    },
-    {
-      "id": "5445adf6df05",
-      "title": " Trump nominates a hospitality executive to lead the National Park Service",
-      "url": "https://abcnews.com/Politics/wireStory/trump-nominates-hospitality-executive-lead-national-park-service-130115317",
-      "source": "ABC News",
-      "published": "2026-02-12T20:45:51.000Z",
-      "description": "President Donald Trump has nominated for director of the National Park Service an executive from a hospitality company that has extensive contracts with the agency he would lead",
-      "keywords": [
-        "ICE",
-        "trump"
-      ],
-      "significance": 5,
-      "reason": "A potential conflict of interest nomination raises integrity concerns but lacks the institutional or precedential significance of actions directly targeting core democratic mechanisms.",
-      "categories": [
-        "corruption & self-dealing",
-        "federal programs & agencies"
-      ],
-      "scoredAt": "2026-02-18T00:11:58.055Z"
     },
     {
       "id": "8cbb2de2fd4d",
@@ -47863,8 +47008,279 @@
       "reason": "This is a policy opinion piece advocating for bankruptcy reform to improve civil liability outcomes, lacking institutional action or democratic governance implications.",
       "categories": [],
       "scoredAt": "2026-03-14T18:05:04.619Z"
+    },
+    {
+      "id": "ea06db8c449a",
+      "title": "Pentagon tightens controls over Stars and Stripes after calling it \"woke\"",
+      "url": "https://www.npr.org/2026/03/14/nx-s1-5748020/pentagon-tightens-controls-over-stars-and-stripes-after-calling-it-woke",
+      "source": "NPR Politics",
+      "published": "2026-03-14T22:18:02.000Z",
+      "description": "The new rules for the independent military newspaper are the Defense Department's latest effort to put extraordinary restrictions on journalists covering the agency.",
+      "keywords": [
+        "journalist",
+        "EPA"
+      ],
+      "significance": 7,
+      "reason": "Direct institutional action by executive branch to restrict independent journalism within a federal agency, affecting press freedom and potential congressional oversight of DoD operations.",
+      "categories": [
+        "press freedom",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-15T00:11:56.183Z"
+    },
+    {
+      "id": "e3f7ae9ee015",
+      "title": "Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal",
+      "url": "https://www.nbcnews.com/politics/donald-trump/iran-negotiate-ceasefire-deal-trump-kharg-hormuz-oil-rcna263474",
+      "source": "NBC News",
+      "published": "2026-03-14T23:12:05.000Z",
+      "description": "In a wide-ranging interview, President Donald Trump said he’s not ready to make a deal to end the war with Iran, despite Iran’s willingness to do so.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This article reports on foreign policy negotiation positions and does not directly address any of the 12 tracked categories related to domestic democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:56.183Z"
+    },
+    {
+      "id": "b1d979c4f624",
+      "title": "Trump says Cornyn and Paxton are both electable as he mulls endorsement in Texas Senate race",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-cornyn-paxton-endorsement-texas-senate-race-rcna263483",
+      "source": "NBC News",
+      "published": "2026-03-14T21:19:15.000Z",
+      "description": "President Donald Trump told NBC News on Saturday that he’s still mulling a potential endorsement in the competitive Republican primary for a Senate seat in Texas.Sen.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political coverage of a candidate's endorsement deliberation with no direct impact on institutional checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:55.968Z"
+    },
+    {
+      "id": "0bd8196730f2",
+      "title": "3 more members of Iran women's soccer team decline to accept asylum in Australia",
+      "url": "https://www.cbsnews.com/news/three-iran-women-soccer-team-members-decline-australia-asylum/",
+      "source": "CBS News",
+      "published": "2026-03-14T23:44:00.000Z",
+      "description": "Another three members of the Iran women's soccer team who accepted refugee visas to stay in Australia have decided to return to their homeland, an Australian government minister said.",
+      "keywords": [
+        "asylum"
+      ],
+      "significance": 1,
+      "reason": "This article reports on individual immigration decisions by Iranian athletes and has no connection to U.S. democratic institutions, checks and balances, or governance.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:57.176Z"
+    },
+    {
+      "id": "8d92ef76881a",
+      "title": "White House proposes new underground visitor screening facility",
+      "url": "https://www.cbsnews.com/news/white-house-proposes-new-underground-visitor-screening-facility/",
+      "source": "CBS News",
+      "published": "2026-03-14T21:50:44.000Z",
+      "description": "The Trump administration has proposed the construction of an underground facility to screen visitors to the White House.",
+      "keywords": [
+        "white house",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "A proposed underground screening facility is a routine security infrastructure measure with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:57.102Z"
+    },
+    {
+      "id": "b32c84fde29d",
+      "title": "FCC chair threatens broadcast licenses as Trump criticizes Iran war coverage",
+      "url": "https://www.cbsnews.com/news/fcc-brendan-carr-threat-news-networks-broadcast-license/",
+      "source": "CBS News",
+      "published": "2026-03-14T20:55:43.000Z",
+      "description": "Federal Communications Commission Chair Brendan Carr did not name specific networks, but his post included a reference to a Saturday morning Truth Social post from the president.",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "A top federal regulator threatening broadcast licenses in apparent coordination with the president's criticism of news coverage represents a significant institutional action that directly threatens press freedom and independence of regulatory agencies.",
+      "categories": [
+        "press freedom",
+        "DOJ independence",
+        "federal programs & agencies"
+      ],
+      "scoredAt": "2026-03-15T00:11:57.422Z"
+    },
+    {
+      "id": "efde56db11cd",
+      "title": "3/14: Saturday Morning",
+      "url": "https://www.cbsnews.com/video/031426-saturday-morning/",
+      "source": "CBS News",
+      "published": "2026-03-14T11:00:00.000Z",
+      "description": "The U.S. struck one of Iran's key oil hubs on Friday, President Trump said on social media. Plus, the latest details on the Michigan synagogue attack.",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "Foreign policy and military action reporting with no direct bearing on domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:57.131Z"
+    },
+    {
+      "id": "11e68773aacd",
+      "title": "Democrats must recalibrate Latino outreach, Univision exec says at SXSW",
+      "url": "https://www.axios.com/2026/03/14/sxsw-latino-voting-midterms",
+      "source": "Axios",
+      "published": "2026-03-14T22:55:39.000Z",
+      "description": "Democrats must commit to tailored, economically focused messaging to win back Latino voters in the 2026 midterms, Univision executive Ignacio Meyer said Saturday at Axios House at SXSW.\nWhy it matters: Latinos — the up-for-grabs voting force that could decide 2026's razor-thin congressional battles — propelled President Trump's 2024 victory with record GOP support, about 48% nationally.\n\n\"Hispanic voters are largely sophisticated or largely independent, and they want to be swayed by issues,\" Mey",
+      "keywords": [
+        "election",
+        "voting",
+        "voter",
+        "midterm",
+        "ICE",
+        "trump"
+      ],
+      "significance": 1,
+      "reason": "This is political commentary and campaign strategy advice with no direct impact on democratic institutions, constitutional checks and balances, or government accountability mechanisms.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:58.481Z"
+    },
+    {
+      "id": "805180776b4f",
+      "title": "FCC chair threatens networks’ licenses after Trump complains about Iran coverage",
+      "url": "https://thehill.com/media/5784658-fcc-threatens-broadcast-licenses/",
+      "source": "The Hill",
+      "published": "2026-03-14T23:35:20.000Z",
+      "description": "Federal Communications Commission (FCC) Chairman Brendan Carr on Saturday threatened to revoke broadcast licenses after President Trump complained about how some networks are covering the joint U.S.-Israeli military operation in Iran. “Broadcasters that are running hoaxes and news distortions — also known as the fake news — have a chance now to correct course before…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 8,
+      "reason": "Direct threat to revoke broadcast licenses based on political complaints represents significant institutional pressure on press freedom and potential weaponization of regulatory authority against media independence.",
+      "categories": [
+        "press freedom",
+        "political retribution",
+        "DOJ independence"
+      ],
+      "scoredAt": "2026-03-15T00:11:58.542Z"
+    },
+    {
+      "id": "e95c6c52c53f",
+      "title": "Paxton PAC running TV ads in Palm Beach while Trump at Mar-a-Lago",
+      "url": "https://thehill.com/homenews/campaign/5784633-paxton-cornyn-trump-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-14T22:34:45.000Z",
+      "description": "A super PAC backing Texas Attorney General Ken Paxton (R) for Senate is airing television ads in Palm Beach, Fla., where President Trump is spending the weekend at his Mar-a-Lago resort, as his endorsement in a competitive primary runoff hangs in the balance. Lone Star Liberty PAC came out with a new television ad on…",
+      "keywords": [
+        "attorney general",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine political news about campaign advertising and endorsement dynamics with no direct implications for democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:58.830Z"
+    },
+    {
+      "id": "aba56a2e36b0",
+      "title": "Sunday shows preview: Trump faces questions about length of Iran conflict as war enters third week",
+      "url": "https://thehill.com/homenews/5784591-sunday-shows-preview-trump-faces-questions-iran-conflict-third-week/",
+      "source": "The Hill",
+      "published": "2026-03-14T22:08:58.000Z",
+      "description": "The war with Iran entered its third week on Saturday, with military strikes, retaliatory attacks and economic disruption roiling the Middle East as President Trump sends mixed signals about how close the U.S. is to achieving its objectives and how long the conflict could last. More than 2,000 people have been killed across the region…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While military conflict raises serious governance questions, this article focuses on media coverage of policy messaging rather than documenting actual institutional checks, erosions, or democratic violations.",
+      "categories": [
+        "congressional_oversight"
+      ],
+      "scoredAt": "2026-03-15T00:11:58.531Z"
+    },
+    {
+      "id": "bddb5baa41f0",
+      "title": "Trump: U.S. has beaten Iran “militarily, economically, and in every other way”",
+      "url": "https://thehill.com/homenews/administration/5784610-trump-truthsocial-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-14T21:46:59.000Z",
+      "description": "President Trump declared that the U.S. has beaten Iran “both militarily, economically, and in every other way” in a Truth Social post on Saturday, and called on countries that receive oil through the Strait of Hormuz to “take care” of the closed passage.  “The Countries of the World that receive Oil through the Hormuz Strait…",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "Routine political statement about foreign policy that does not directly implicate domestic democratic institutions or checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:58.464Z"
+    },
+    {
+      "id": "9b7c54c02922",
+      "title": "What is the Jones Act, eyed in bid to lower gas prices?",
+      "url": "https://thehill.com/homenews/administration/5784524-jones-act-waiver-gas-prices/",
+      "source": "The Hill",
+      "published": "2026-03-14T20:29:04.000Z",
+      "description": "President Trump on Friday said he was looking at loosening shipping rules in the Jones Act as a method to lower gas prices that have skyrocketed since the U.S. launched its military offensive in Iran two weeks ago. Fox News host Brian Kilmeade pressed Trump on the issue during an interview on Kilmeade’s eponymous podcast,…",
+      "keywords": [
+        "ICE",
+        "trump"
+      ],
+      "significance": 2,
+      "reason": "This is routine news coverage of a proposed policy change regarding maritime shipping regulations, with no direct implications for democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:59.579Z"
+    },
+    {
+      "id": "498d815d8bef",
+      "title": "Shapiro to Maher: ‘I refuse to take any of your bait’ on 2028 election speculation",
+      "url": "https://thehill.com/blogs/in-the-know/5784442-shapiro-maher-2028-election-speculation/",
+      "source": "The Hill",
+      "published": "2026-03-14T19:03:21.000Z",
+      "description": "Pennsylvania Gov. Josh Shapiro (D) on Friday told comedian and HBO’s “Real Time” host Bill Maher that he refused “to take any of your bait” in speculating on his chances of running for president in 2028. Twice did Maher suggest Shapiro was running while interviewing him about his new memoir, “Where We Keep the Light.”…",
+      "keywords": [
+        "election",
+        "ICE"
+      ],
+      "significance": 1,
+      "reason": "This is routine entertainment/political commentary involving a governor's media appearance with no institutional action or policy implications affecting democratic checks and balances.",
+      "categories": [],
+      "scoredAt": "2026-03-15T00:11:59.901Z"
+    },
+    {
+      "id": "c0272f78c527",
+      "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fundraising-us-soldiers.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-14T22:53:36.000Z",
+      "description": "The email solicitation to benefit Trump’s PAC also offers donors “private national security briefings.”",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 5,
+      "reason": "The article raises concerns about potential misuse of national security information for fundraising and possible quid pro quo arrangements, but lacks evidence of actual institutional breach or enforcement action.",
+      "categories": [
+        "political retribution",
+        "corruption & self-dealing",
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-15T00:12:00.405Z"
+    },
+    {
+      "id": "aa2aab12438b",
+      "title": "FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
+      "source": "CNBC Politics",
+      "published": "2026-03-14T22:30:28.000Z",
+      "description": "FCC Chair Brendan Carr blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes \"fake news.\"",
+      "keywords": [
+        "trump"
+      ],
+      "significance": 4,
+      "reason": "While the incident involves press freedom and potential executive pressure on media, it represents criticism rather than institutional action or formal suppression.",
+      "categories": [
+        "press freedom"
+      ],
+      "scoredAt": "2026-03-15T00:11:59.795Z"
     }
   ],
   "lastDigest": "2026-03-09T14:21:29.828Z",
-  "lastFetch": "2026-03-14T18:05:06.722Z"
+  "lastFetch": "2026-03-15T00:12:00.405Z"
 }
